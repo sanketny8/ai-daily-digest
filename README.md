@@ -14,15 +14,15 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 
 #### Papers
 1. **[WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching](https://arxiv.org/abs/2603.24836)** — A novel warping-based method for stereo matching that eliminates the need for cost volumes.
-2. **[AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/abs/2603.24517)** — Introduces new evolutionary search operators that enhance adaptability and efficiency in autonomous systems.
-3. **[Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models](https://arxiv.org/abs/2603.24844)** — Explores reinforcement learning techniques to improve language models' reasoning capabilities beyond single dominant answers.
-4. **[Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math](https://arxiv.org/abs/2603.24961)** — Investigates challenges in assessing handwritten math to provide personalized educational feedback using multimodal learning.
+2. **[AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/abs/2603.24517)** — Introduces new evolutionary variation operators that enhance autonomous search without fixed heuristics.
+3. **[Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models](https://arxiv.org/abs/2603.24844)** — Explores how language models can better represent distributions of answers rather than collapsing to a single mode.
+4. **[Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math](https://arxiv.org/abs/2603.24961)** — Analyzes challenges in assessing handwritten math for personalized educational feedback using multimodal learning.
 5. **[VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575)** — Proposes a method for converting complex figures into scalable vector graphics using vision-language models.
-6. **[PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders](https://arxiv.org/abs/2603.25398)** — Presents a framework for image and video segmentation using frozen vision encoders for efficiency.
-7. **[Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models](https://arxiv.org/abs/2603.14636)** — Investigates methods to enhance reasoning in audio-language models without additional training.
-8. **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733)** — Introduces a new family of code large language models that improve code representation and flow analysis.
-9. **[AVControl: Efficient Framework for Training Audio-Visual Controls](https://arxiv.org/abs/2603.24793)** — Develops a framework for training models that control both audio and video generation effectively.
-10. **[Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition](https://arxiv.org/abs/2603.13904)** — Proposes a method for learning visual state representations crucial for robotic decision-making.
+6. **[Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition](https://arxiv.org/abs/2603.13904)** — Discusses learning visual state representations for robotic agents from streaming video for better decision-making.
+7. **[PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders](https://arxiv.org/abs/2603.25398)** — Introduces a framework for image and video segmentation using frozen vision foundation models.
+8. **[Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models](https://arxiv.org/abs/2603.14636)** — Investigates enhancing reasoning in audio-language models without additional training.
+9. **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733)** — Details a new family of code large language models that improve upon static code representations.
+10. **[AVControl: Efficient Framework for Training Audio-Visual Controls](https://arxiv.org/abs/2603.24793)** — Proposes an efficient framework for training models that control both audio and visual outputs.
 
 #### Blog Posts
 1. **[AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)** by Stanford News
@@ -35,15 +35,15 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 8. **[LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)** by Sebastian Raschka
 
 #### Trending Repos
-1. **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works. ⭐ 121890
+1. **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works. ⭐ 121894
 2. **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)** — Financial data platform for analysts, quants and AI agents. ⭐ 63819
 3. **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** — An AI Hedge Fund Team. ⭐ 49706
-4. **[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** — Bash is all you need - A nano claude code–like agent harness, built from 0 to 1. ⭐ 42273
-5. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — A Claude Code plugin that captures and compresses coding sessions for future context. ⭐ 42159
-6. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** — Self hosted, you-owned Grok Companion for real-time voice chat and interaction. ⭐ 36190
-7. **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI. ⭐ 26082
-8. **[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)** — Build and run agents you can see, understand and trust. ⭐ 21861
+4. **[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** — Bash is all you need - A nano claude code–like agent harness. ⭐ 42273
+5. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — A Claude Code plugin that captures coding sessions and injects context into future sessions. ⭐ 42161
+6. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** — Self-hosted Grok Companion for real-time voice chat and interaction. ⭐ 36190
+7. **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI. ⭐ 26089
+8. **[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)** — Build and run agents you can see, understand and trust. ⭐ 21862
 9. **[fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)** — A feature-rich and performance-oriented system information tool. ⭐ 21040
-10. **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform - AI Chat with advanced features that works with every LLM. ⭐ 20004
+10. **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform for advanced AI chat with LLM compatibility. ⭐ 20004
 
 </details>

@@ -109,7 +109,7 @@
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 121890,
+      "stars": 121894,
       "language": "Shell"
     },
     {
@@ -137,7 +137,7 @@
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
-      "stars": 42159,
+      "stars": 42161,
       "language": "TypeScript"
     },
     {
@@ -151,14 +151,14 @@
       "name": "microsoft/VibeVoice",
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
-      "stars": 26082,
+      "stars": 26089,
       "language": "Python"
     },
     {
       "name": "agentscope-ai/agentscope",
       "url": "https://github.com/agentscope-ai/agentscope",
       "description": "Build and run agents you can see, understand and trust.",
-      "stars": 21861,
+      "stars": 21862,
       "language": "Python"
     },
     {
