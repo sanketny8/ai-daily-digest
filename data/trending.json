@@ -25,6 +25,31 @@
       "title": "VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models",
       "url": "https://arxiv.org/abs/2603.24575",
       "summary": "Scalable Vector Graphics (SVG) are an essential format for technical illustration and digital design, offering precise resolution independence and flexible semantic editability. In practice, however, "
+    },
+    {
+      "title": "Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition",
+      "url": "https://arxiv.org/abs/2603.13904",
+      "summary": "For robotic agents operating in dynamic environments, learning visual state representations from streaming video observations is essential for sequential decision making. Recent self-supervised learni"
+    },
+    {
+      "title": "PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders",
+      "url": "https://arxiv.org/abs/2603.25398",
+      "summary": "Vision Foundation Models (VFMs) pre-trained at scale enable a single frozen encoder to serve multiple downstream tasks simultaneously. Recent VFM-based encoder-only models for image and video segmenta"
+    },
+    {
+      "title": "Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models",
+      "url": "https://arxiv.org/abs/2603.14636",
+      "summary": "Chain-of-thought (CoT) prompting has been extended to large audio-language models (LALMs) to elicit reasoning, yet enhancing its effectiveness without training remains challenging. We study inference-"
+    },
+    {
+      "title": "IQuest-Coder-V1 Technical Report",
+      "url": "https://arxiv.org/abs/2603.16733",
+      "summary": "In this report, we introduce the IQuest-Coder-V1 series-(7B/14B/40B/40B-Loop), a new family of code large language models (LLMs). Moving beyond static code representations, we propose the code-flow mu"
+    },
+    {
+      "title": "AVControl: Efficient Framework for Training Audio-Visual Controls",
+      "url": "https://arxiv.org/abs/2603.24793",
+      "summary": "Controlling video and audio generation requires diverse modalities, from depth and pose to camera trajectories and audio transformations, yet existing approaches either train a single monolithic model"
     }
   ],
   "blog_posts": [
@@ -84,36 +109,71 @@
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 121879,
+      "stars": 121890,
       "language": "Shell"
     },
     {
       "name": "OpenBB-finance/OpenBB",
       "url": "https://github.com/OpenBB-finance/OpenBB",
       "description": "Financial data platform for analysts, quants and AI agents.",
-      "stars": 63818,
+      "stars": 63819,
       "language": "Python"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
-      "stars": 49705,
+      "stars": 49706,
       "language": "Python"
     },
     {
       "name": "shareAI-lab/learn-claude-code",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
       "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-      "stars": 42270,
+      "stars": 42273,
       "language": "TypeScript"
     },
     {
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
-      "stars": 42156,
+      "stars": 42159,
       "language": "TypeScript"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
+      "stars": 36190,
+      "language": "TypeScript"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars": 26082,
+      "language": "Python"
+    },
+    {
+      "name": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "stars": 21861,
+      "language": "Python"
+    },
+    {
+      "name": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "stars": 21040,
+      "language": "C"
+    },
+    {
+      "name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "stars": 20004,
+      "language": "Python"
     }
   ],
   "tweets": []
