@@ -8,11 +8,11 @@
 ---
 
 ### Papers
-1. **[WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching](https://arxiv.org/abs/2603.24836)** — A novel method for stereo matching that eliminates the need for cost volumes, enhancing efficiency.
-2. **[AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/abs/2603.24517)** — Introduces new evolutionary operators that automate variation processes, improving the efficiency of evolutionary search.
-3. **[Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math](https://arxiv.org/abs/2603.24961)** — Explores challenges in assessing handwritten math, aiming to enhance personalized educational feedback.
-4. **[Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models](https://arxiv.org/abs/2603.14636)** — Investigates methods to improve reasoning in audio-language models without additional training.
-5. **[PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders](https://arxiv.org/abs/2603.25398)** — Proposes a framework for efficient segmentation tasks using frozen vision foundation models.
+1. **[WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching](https://arxiv.org/abs/2603.24836)** — Introduces a novel method for stereo matching that eliminates the need for cost volumes, enhancing efficiency.
+2. **[AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/abs/2603.24517)** — Proposes new evolutionary operators that automate search processes, improving adaptability in evolutionary algorithms.
+3. **[Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math](https://arxiv.org/abs/2603.24961)** — Explores challenges in analyzing student handwriting for personalized feedback, aiming to enhance educational tools.
+4. **[Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models](https://arxiv.org/abs/2603.14636)** — Investigates methods to improve reasoning in audio-language models without additional training, addressing a key limitation.
+5. **[PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders](https://arxiv.org/abs/2603.25398)** — Introduces a segmentation framework utilizing frozen vision encoders, streamlining image and video processing tasks.
 
 ### Blog Posts
 1. **[Quoting Matt Webb](https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything)** by Simon Willison
