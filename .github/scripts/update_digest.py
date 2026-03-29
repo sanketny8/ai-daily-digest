@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-AI Daily Digest - Fetches trending AI papers, blog posts, and tweets,
-curates them with an LLM, and updates the repo README.
+AI Daily Digest - Fetches trending AI papers, blog posts, GitHub repos,
+and tweets, curates them with an LLM, and appends to the repo README
+as a collapsible date-wise entry.
 """
 
 import json
 import os
 import re
-import shutil
 import sys
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -26,6 +26,8 @@ ARCHIVE_DIR = REPO_ROOT / "archive"
 DATA_DIR = REPO_ROOT / "data"
 TRENDING_JSON = DATA_DIR / "trending.json"
 
+DIGEST_MARKER = "<!-- DIGEST-ENTRIES -->"
+
 HUGGINGFACE_API = "https://huggingface.co/api/daily_papers"
 ARXIV_API = (
     "http://export.arxiv.org/api/query?"
@@ -39,6 +41,16 @@ RSS_FEEDS = [
     ("Sebastian Raschka", "https://magazine.sebastianraschka.com/feed"),
     ("Simon Willison", "https://simonwillison.net/atom/everything/"),
     ("The Gradient", "https://thegradient.pub/rss/"),
+]
+
+# GitHub trending search queries for AI repos
+GITHUB_TRENDING_QUERIES = [
+    "language:python topic:machine-learning",
+    "language:python topic:llm",
+    "language:python topic:deep-learning",
+    "language:python topic:ai",
+    "topic:transformer",
+    "topic:generative-ai",
 ]
 
 GITHUB_MODELS_ENDPOINT = "https://models.inference.ai.azure.com"
@@ -148,6 +160,63 @@ def fetch_rss_posts():
     return all_posts[:10]
 
 
+def fetch_trending_repos():
+    """Fetch trending AI/ML GitHub repos created or updated recently."""
+    token = os.environ.get("GITHUB_TOKEN", "")
+    headers = {}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    headers["Accept"] = "application/vnd.github+json"
+
+    seen_repos = set()
+    all_repos = []
+
+    for query in GITHUB_TRENDING_QUERIES:
+        try:
+            resp = requests.get(
+                "https://api.github.com/search/repositories",
+                params={
+                    "q": f"{query} pushed:>{_days_ago(7)}",
+                    "sort": "stars",
+                    "order": "desc",
+                    "per_page": 10,
+                },
+                headers=headers,
+                timeout=TIMEOUT,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+
+            for repo in data.get("items", []):
+                full_name = repo["full_name"]
+                if full_name in seen_repos:
+                    continue
+                seen_repos.add(full_name)
+
+                all_repos.append({
+                    "name": repo["name"],
+                    "full_name": full_name,
+                    "url": repo["html_url"],
+                    "description": (repo.get("description") or "")[:200],
+                    "stars": repo["stargazers_count"],
+                    "language": repo.get("language", ""),
+                    "topics": repo.get("topics", [])[:5],
+                })
+        except Exception as e:
+            print(f"[WARN] GitHub search failed for '{query}': {e}")
+            continue
+
+    # Sort by stars descending, take top 15
+    all_repos.sort(key=lambda x: x["stars"], reverse=True)
+    return all_repos[:15]
+
+
+def _days_ago(n):
+    """Return ISO date string for n days ago."""
+    from datetime import timedelta
+    return (datetime.now(timezone.utc) - timedelta(days=n)).strftime("%Y-%m-%d")
+
+
 def fetch_trending_tweets():
     """Fetch trending AI tweets via Grok API (xAI)."""
     api_key = os.environ.get("XAI_API_KEY", "")
@@ -183,7 +252,6 @@ def fetch_trending_tweets():
         )
 
         content = response.choices[0].message.content.strip()
-        # Strip markdown fences if present
         content = re.sub(r"^```(?:json)?\s*", "", content)
         content = re.sub(r"\s*```$", "", content)
 
@@ -199,14 +267,13 @@ def fetch_trending_tweets():
 # --- LLM Curation ---
 
 
-def curate_with_llm(papers, blog_posts, tweets):
+def curate_with_llm(papers, blog_posts, tweets, repos):
     """Use GPT-4o-mini via GitHub Models to curate the digest."""
     token = os.environ.get("GITHUB_TOKEN", "")
     if not token:
         print("[WARN] GITHUB_TOKEN not set, using fallback")
         return None
 
-    # Build the input for the LLM
     papers_text = ""
     for i, p in enumerate(papers, 1):
         papers_text += (
@@ -229,12 +296,22 @@ def curate_with_llm(papers, blog_posts, tweets):
             f"   URL: {t.get('url', '')}\n\n"
         )
 
+    repos_text = ""
+    for i, r in enumerate(repos, 1):
+        repos_text += (
+            f"{i}. {r['full_name']} ({r['stars']} stars)\n"
+            f"   Description: {r['description']}\n"
+            f"   URL: {r['url']}\n"
+            f"   Language: {r['language']}\n\n"
+        )
+
     user_prompt = f"""Today is {datetime.now(timezone.utc).strftime('%Y-%m-%d')}.
 
 From the following content, select:
 - The 5 most interesting/impactful PAPERS
 - The 3 most notable BLOG POSTS
 - The 5 most insightful TWEETS (if available)
+- The 5 most interesting/trending GITHUB REPOS (if available)
 
 PAPERS:
 {papers_text if papers_text else "(none available)"}
@@ -245,25 +322,34 @@ BLOG POSTS:
 TWEETS:
 {tweets_text if tweets_text else "(none available)"}
 
+GITHUB REPOS:
+{repos_text if repos_text else "(none available)"}
+
 Output in this EXACT markdown format (no extra text before or after):
 
-### Papers
+#### Papers
 1. **[Exact Paper Title](exact-url)** — One-line summary (15-25 words, accessible language)
 2. ...
 
-### Blog Posts
+#### Blog Posts
 1. **[Exact Post Title](exact-url)** by Author Name
 2. ...
 
-### Tweets
+#### Trending Repos
+1. **[repo-name](exact-url)** — One-line description. ⭐ star-count
+2. ...
+
+#### Tweets
 1. **[@handle](exact-tweet-url)** — Key insight in one line
 2. ...
 
 Rules:
-- Use ONLY the titles, URLs, and handles provided above. Do NOT invent or modify URLs.
+- Use ONLY the titles, URLs, handles, and repo names provided above. Do NOT invent or modify URLs.
 - If no tweets are available, omit the Tweets section entirely.
+- If no repos are available, omit the Trending Repos section entirely.
 - Each paper summary should be 15-25 words, no jargon.
-- Prioritize: novelty, practical impact, breadth of topics (don't pick 5 papers on the same topic)."""
+- For repos, include the star count with a ⭐ emoji.
+- Prioritize: novelty, practical impact, breadth of topics."""
 
     try:
         client = OpenAI(base_url=GITHUB_MODELS_ENDPOINT, api_key=token)
@@ -280,7 +366,7 @@ Rules:
                 {"role": "user", "content": user_prompt},
             ],
             temperature=0.3,
-            max_tokens=1500,
+            max_tokens=2000,
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
@@ -291,24 +377,32 @@ Rules:
 # --- Fallback ---
 
 
-def build_fallback_section(papers, blog_posts, tweets):
+def build_fallback_section(papers, blog_posts, tweets, repos):
     """Build a simple digest without LLM curation."""
     lines = []
 
     if papers:
-        lines.append("### Papers\n")
+        lines.append("#### Papers\n")
         for i, p in enumerate(papers[:5], 1):
             lines.append(f"{i}. **[{p['title']}]({p['url']})**\n")
         lines.append("")
 
     if blog_posts:
-        lines.append("### Blog Posts\n")
+        lines.append("#### Blog Posts\n")
         for i, p in enumerate(blog_posts[:3], 1):
             lines.append(f"{i}. **[{p['title']}]({p['url']})** by {p['author']}\n")
         lines.append("")
 
+    if repos:
+        lines.append("#### Trending Repos\n")
+        for i, r in enumerate(repos[:5], 1):
+            stars = r.get("stars", 0)
+            desc = r.get("description", "")
+            lines.append(f"{i}. **[{r['full_name']}]({r['url']})** — {desc} ⭐ {stars}\n")
+        lines.append("")
+
     if tweets:
-        lines.append("### Tweets\n")
+        lines.append("#### Tweets\n")
         for i, t in enumerate(tweets[:5], 1):
             handle = t.get("handle", "unknown")
             url = t.get("url", "#")
@@ -322,47 +416,78 @@ def build_fallback_section(papers, blog_posts, tweets):
 # --- Output ---
 
 
-def build_readme(curated_content, today):
-    """Build the full README.md content."""
-    return f"""# AI Daily Digest
-
-> Auto-curated daily roundup of trending AI papers, blog posts, and discussions.
-> Powered by GitHub Actions + GPT-4o-mini + Grok
-
-**Last updated:** {today}
-
----
+def build_daily_entry(curated_content, today):
+    """Build a collapsible <details> block for today's digest."""
+    return f"""<details open>
+<summary><strong>{today}</strong></summary>
 
 {curated_content}
 
----
-
-[Browse archive →](./archive/)
-
-<sub>Sources: HuggingFace Daily Papers · ArXiv · AI Blogs · X/Twitter via Grok</sub>
-<sub>Curated by GPT-4o-mini via GitHub Models</sub>
-"""
+</details>"""
 
 
-def archive_previous(today):
-    """Archive the current README before overwriting."""
-    if README_PATH.exists():
-        content = README_PATH.read_text()
-        # Don't archive if it's just the placeholder
-        if "Auto-curated daily roundup" in content and "Last updated" in content:
-            # Extract the date from the previous README
-            match = re.search(r"\*\*Last updated:\*\* (\d{4}-\d{2}-\d{2})", content)
-            if match:
-                prev_date = match.group(1)
-                if prev_date != today:
-                    archive_file = ARCHIVE_DIR / f"{prev_date}.md"
-                    if not archive_file.exists():
-                        ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
-                        archive_file.write_text(content)
-                        print(f"[INFO] Archived previous digest to {archive_file}")
+def insert_into_readme(daily_entry, today):
+    """Insert today's digest entry at the top of the digest section in README."""
+    if not README_PATH.exists():
+        # Create fresh README with header
+        header = _build_header()
+        README_PATH.write_text(f"{header}\n{DIGEST_MARKER}\n\n{daily_entry}\n")
+        return
+
+    content = README_PATH.read_text()
+
+    # Check if today's entry already exists — replace it
+    today_pattern = re.compile(
+        rf"<details[^>]*>\s*<summary><strong>{re.escape(today)}</strong></summary>.*?</details>",
+        re.DOTALL,
+    )
+    if today_pattern.search(content):
+        content = today_pattern.sub(daily_entry, content)
+        README_PATH.write_text(content)
+        print(f"[INFO] Replaced existing entry for {today}")
+        return
+
+    # Close the previous day's <details open> (change "open" to "")
+    content = content.replace("<details open>", "<details>")
+
+    # Insert new entry right after the marker
+    if DIGEST_MARKER in content:
+        content = content.replace(
+            DIGEST_MARKER,
+            f"{DIGEST_MARKER}\n\n{daily_entry}",
+        )
+    else:
+        # Marker missing — append to end
+        content += f"\n\n{daily_entry}\n"
+
+    README_PATH.write_text(content)
 
 
-def write_trending_json(papers, blog_posts, tweets, curated_content, today):
+def _build_header():
+    """Build the static README header."""
+    return """# AI Daily Digest
+
+> Auto-curated daily roundup of trending AI papers, blog posts, repos, and discussions.
+> Powered by GitHub Actions + GPT-4o-mini
+
+Today's digest is expanded. Previous days are collapsed — click to expand.
+
+---"""
+
+
+def ensure_readme_header():
+    """Ensure README has the header and digest marker."""
+    if not README_PATH.exists():
+        README_PATH.write_text(f"{_build_header()}\n\n{DIGEST_MARKER}\n")
+        return
+
+    content = README_PATH.read_text()
+    if DIGEST_MARKER not in content:
+        # Rebuild with header + marker + any existing content after header
+        README_PATH.write_text(f"{_build_header()}\n\n{DIGEST_MARKER}\n\n{content}")
+
+
+def write_trending_json(papers, blog_posts, tweets, repos, today):
     """Write trending.json for website consumption."""
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -375,6 +500,16 @@ def write_trending_json(papers, blog_posts, tweets, curated_content, today):
         "blog_posts": [
             {"title": p["title"], "url": p["url"], "author": p["author"]}
             for p in blog_posts[:3]
+        ],
+        "repos": [
+            {
+                "name": r["full_name"],
+                "url": r["url"],
+                "description": r["description"],
+                "stars": r["stars"],
+                "language": r.get("language", ""),
+            }
+            for r in repos[:5]
         ],
         "tweets": [
             {
@@ -410,39 +545,45 @@ def main():
     blog_posts = fetch_rss_posts()
     print(f"[INFO] Got {len(blog_posts)} blog posts")
 
+    print("[INFO] Fetching trending GitHub repos...")
+    repos = fetch_trending_repos()
+    print(f"[INFO] Got {len(repos)} trending repos")
+
     print("[INFO] Fetching trending tweets via Grok...")
     tweets = fetch_trending_tweets()
     print(f"[INFO] Got {len(tweets)} tweets")
 
     # Combine papers (HF first since they have community curation, then ArXiv)
-    all_papers = hf_papers + [p for p in arxiv_papers if p["url"] not in {h["url"] for h in hf_papers}]
+    all_papers = hf_papers + [
+        p for p in arxiv_papers if p["url"] not in {h["url"] for h in hf_papers}
+    ]
 
-    if not all_papers and not blog_posts and not tweets:
+    if not all_papers and not blog_posts and not tweets and not repos:
         print("[WARN] All sources returned empty. Exiting without changes.")
         return
 
     # Curate with LLM
     print("[INFO] Curating with GPT-4o-mini...")
-    curated = curate_with_llm(all_papers, blog_posts, tweets)
+    curated = curate_with_llm(all_papers, blog_posts, tweets, repos)
 
     if curated is None:
         print("[INFO] LLM failed, using fallback...")
-        curated = build_fallback_section(all_papers, blog_posts, tweets)
+        curated = build_fallback_section(all_papers, blog_posts, tweets, repos)
 
     if curated is None:
         print("[WARN] No content to write. Exiting.")
         return
 
-    # Archive previous day
-    archive_previous(today)
+    # Ensure README structure
+    ensure_readme_header()
 
-    # Write README
-    readme_content = build_readme(curated, today)
-    README_PATH.write_text(readme_content)
+    # Build today's collapsible entry and insert at top
+    daily_entry = build_daily_entry(curated, today)
+    insert_into_readme(daily_entry, today)
     print(f"[INFO] Updated {README_PATH}")
 
     # Write JSON
-    write_trending_json(all_papers, blog_posts, tweets, curated, today)
+    write_trending_json(all_papers, blog_posts, tweets, repos, today)
 
     print("[INFO] Done!")
 
