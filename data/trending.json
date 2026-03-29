@@ -1,0 +1,48 @@
+{
+  "date": "2026-03-29",
+  "papers": [
+    {
+      "title": "WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching",
+      "url": "https://arxiv.org/abs/2603.24836",
+      "summary": "We introduce WAFT-Stereo, a simple and effective warping-based method for stereo matching. WAFT-Stereo demonstrates that cost volumes, a common design used in many leading methods, are not necessary f"
+    },
+    {
+      "title": "AVO: Agentic Variation Operators for Autonomous Evolutionary Search",
+      "url": "https://arxiv.org/abs/2603.24517",
+      "summary": "Agentic Variation Operators (AVO) are a new family of evolutionary variation operators that replace the fixed mutation, crossover, and hand-designed heuristics of classical evolutionary search with au"
+    },
+    {
+      "title": "Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models",
+      "url": "https://arxiv.org/abs/2603.24844",
+      "summary": "Given a question, a language model (LM) implicitly encodes a distribution over possible answers. In practice, post-training procedures for LMs often collapse this distribution onto a single dominant m"
+    },
+    {
+      "title": "Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math",
+      "url": "https://arxiv.org/abs/2603.24961",
+      "summary": "Assessing student handwritten scratchwork is crucial for personalized educational feedback but presents unique challenges due to diverse handwriting, complex layouts, and varied problem-solving approa"
+    },
+    {
+      "title": "VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models",
+      "url": "https://arxiv.org/abs/2603.24575",
+      "summary": "Scalable Vector Graphics (SVG) are an essential format for technical illustration and digital design, offering precise resolution independence and flexible semantic editability. In practice, however, "
+    }
+  ],
+  "blog_posts": [
+    {
+      "title": "Quoting Matt Webb",
+      "url": "https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything",
+      "author": "Simon Willison"
+    },
+    {
+      "title": "datasette-showboat 0.1a2",
+      "url": "https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything",
+      "author": "Simon Willison"
+    },
+    {
+      "title": "Quoting Richard Fontana",
+      "url": "https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything",
+      "author": "Simon Willison"
+    }
+  ],
+  "tweets": []
+}
