@@ -26,6 +26,10 @@ README_PATH = REPO_ROOT / "README.md"
 ARCHIVE_DIR = REPO_ROOT / "archive"
 DATA_DIR = REPO_ROOT / "data"
 TRENDING_JSON = DATA_DIR / "trending.json"
+HISTORY_JSON = DATA_DIR / "history.json"
+
+# How many days of history to keep for dedup (rolling window)
+HISTORY_DAYS = 30
 
 DIGEST_MARKER = "<!-- DIGEST-ENTRIES -->"
 
@@ -73,6 +77,60 @@ GROK_ENDPOINT = "https://api.x.ai/v1"
 GROK_MODEL = "grok-3-mini-fast"
 
 TIMEOUT = 30
+
+
+# --- History / Dedup ---
+
+
+def load_history():
+    """Load previously shown URLs from history file."""
+    if not HISTORY_JSON.exists():
+        return {}
+    try:
+        data = json.loads(HISTORY_JSON.read_text())
+        # data format: {"2026-03-28": {"papers": [...urls], "blogs": [...], "repos": [...]}, ...}
+        return data
+    except Exception as e:
+        print(f"[WARN] Failed to load history: {e}")
+        return {}
+
+
+def save_history(history, today, papers, blogs, repos):
+    """Save today's URLs to history and prune old entries."""
+    history[today] = {
+        "papers": [p["url"] for p in papers],
+        "blogs": [p["url"] for p in blogs],
+        "repos": [r["url"] for r in repos],
+    }
+
+    # Prune entries older than HISTORY_DAYS
+    cutoff = (datetime.now(timezone.utc) - __import__("datetime").timedelta(days=HISTORY_DAYS)).strftime("%Y-%m-%d")
+    history = {date: urls for date, urls in history.items() if date >= cutoff}
+
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    HISTORY_JSON.write_text(json.dumps(history, indent=2))
+    print(f"[INFO] Saved history ({len(history)} days tracked)")
+    return history
+
+
+def get_seen_urls(history, today):
+    """Get all URLs shown on previous days (not today, since today gets replaced)."""
+    seen = set()
+    for date, urls in history.items():
+        if date == today:
+            continue
+        for key in ("papers", "blogs", "repos"):
+            seen.update(urls.get(key, []))
+    return seen
+
+
+def filter_new(items, seen_urls, url_key="url"):
+    """Remove items whose URL was shown on a previous day."""
+    new_items = [item for item in items if item.get(url_key, "") not in seen_urls]
+    removed = len(items) - len(new_items)
+    if removed:
+        print(f"[INFO] Filtered out {removed} previously shown items")
+    return new_items
 
 
 # --- Fetch Functions ---
@@ -845,6 +903,23 @@ def main():
         print("[WARN] All sources returned empty. Exiting without changes.")
         return
 
+    # --- Dedup: filter out items shown on previous days ---
+    print("[INFO] Loading history for dedup...")
+    history = load_history()
+    seen_urls = get_seen_urls(history, today)
+    print(f"[INFO] {len(seen_urls)} URLs in history from previous days")
+
+    all_papers = filter_new(all_papers, seen_urls)
+    blog_posts = filter_new(blog_posts, seen_urls)
+    repos = filter_new(repos, seen_urls)
+    # tweets are ephemeral, no dedup needed
+
+    print(f"[INFO] After dedup: {len(all_papers)} papers, {len(blog_posts)} blogs, {len(repos)} repos")
+
+    if not all_papers and not blog_posts and not tweets and not repos:
+        print("[WARN] No new content after dedup. Exiting without changes.")
+        return
+
     # Curate with LLM
     print("[INFO] Curating with GPT-4o-mini...")
     curated = curate_with_llm(all_papers, blog_posts, tweets, repos)
@@ -867,6 +942,9 @@ def main():
 
     # Write JSON
     write_trending_json(all_papers, blog_posts, tweets, repos, today)
+
+    # Save today's URLs to history for future dedup
+    save_history(history, today, all_papers[:10], blog_posts[:10], repos[:10])
 
     print("[INFO] Done!")
 
