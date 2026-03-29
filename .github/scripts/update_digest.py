@@ -12,6 +12,7 @@ import sys
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 
 import feedparser
 import requests
@@ -41,6 +42,18 @@ RSS_FEEDS = [
     ("Sebastian Raschka", "https://magazine.sebastianraschka.com/feed"),
     ("Simon Willison", "https://simonwillison.net/atom/everything/"),
     ("The Gradient", "https://thegradient.pub/rss/"),
+]
+
+# Blog keywords for filtering non-AI posts from general sources
+BLOG_AI_KEYWORDS = [
+    "ai", "artificial intelligence", "machine learning", "deep learning", "llm",
+    "gpt", "transformer", "neural", "nlp", "language model", "diffusion",
+    "rag", "retrieval", "fine-tun", "finetun", "lora", "qlora", "rlhf",
+    "agent", "agentic", "mcp", "inference", "embedding", "vector",
+    "openai", "anthropic", "claude", "gemini", "llama", "mistral",
+    "hugging face", "huggingface", "pytorch", "tensorflow", "stable diffusion",
+    "multimodal", "computer vision", "generative", "chatbot", "reasoning",
+    "benchmark", "training", "gpu", "model", "prompt", "token",
 ]
 
 # Keywords to filter GitHub trending repos for AI relevance
@@ -130,34 +143,187 @@ def fetch_arxiv_papers():
         return []
 
 
-def fetch_rss_posts():
-    """Fetch latest posts from AI blog RSS feeds."""
+def fetch_blog_posts():
+    """Fetch trending AI blog posts from multiple sources across the internet."""
     all_posts = []
+    seen_urls = set()
 
+    def _add_post(title, url, author, score=0, source=""):
+        """Deduplicate and add a post."""
+        if not title or not url or url in seen_urls:
+            return
+        seen_urls.add(url)
+        all_posts.append({
+            "title": title.strip(),
+            "url": url,
+            "author": author,
+            "score": score,
+            "source": source,
+        })
+
+    def _is_ai_blog(title, url=""):
+        """Check if a post is AI-related based on title and URL."""
+        text = f"{title} {url}".lower()
+        # Require at least 2 keyword matches for general sources to reduce false positives
+        matches = sum(1 for kw in BLOG_AI_KEYWORDS if kw in text)
+        return matches >= 2
+
+    # --- Source 1: Hacker News top stories (best for diverse, trending content) ---
+    try:
+        resp = requests.get(
+            "https://hacker-news.firebaseio.com/v0/topstories.json",
+            timeout=TIMEOUT,
+        )
+        resp.raise_for_status()
+        story_ids = resp.json()[:80]  # check top 80 stories
+
+        for sid in story_ids:
+            try:
+                item = requests.get(
+                    f"https://hacker-news.firebaseio.com/v0/item/{sid}.json",
+                    timeout=10,
+                ).json()
+                if not item or item.get("type") != "story":
+                    continue
+                title = item.get("title", "")
+                url = item.get("url", "")
+                score = item.get("score", 0)
+
+                if url and _is_ai_blog(title, url) and score >= 20:
+                    # Derive author from domain
+                    domain = urlparse(url).netloc.replace("www.", "")
+                    _add_post(title, url, domain, score, "hackernews")
+            except Exception:
+                continue
+        print(f"[INFO] Got {sum(1 for p in all_posts if p['source'] == 'hackernews')} AI posts from HN")
+    except Exception as e:
+        print(f"[WARN] Hacker News fetch failed: {e}")
+
+    # --- Source 2: Reddit r/MachineLearning + r/artificial (hot posts) ---
+    for subreddit in ["MachineLearning", "artificial", "LocalLLaMA"]:
+        try:
+            resp = requests.get(
+                f"https://www.reddit.com/r/{subreddit}/hot.json?limit=25",
+                headers={"User-Agent": "ai-daily-digest/1.0"},
+                timeout=TIMEOUT,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+
+            for post in data.get("data", {}).get("children", []):
+                pdata = post.get("data", {})
+                title = pdata.get("title", "")
+                url = pdata.get("url", "")
+                score = pdata.get("score", 0)
+                is_self = pdata.get("is_self", False)
+
+                # Skip self-posts (discussions without external link) and low-score
+                if is_self or score < 30:
+                    continue
+                # Skip reddit/imgur/v.redd.it media links
+                if any(d in url for d in ["reddit.com", "imgur.com", "v.redd.it", "i.redd.it"]):
+                    continue
+
+                if _is_ai_blog(title, url):
+                    domain = urlparse(url).netloc.replace("www.", "")
+                    _add_post(title, url, domain, score, f"r/{subreddit}")
+        except Exception as e:
+            print(f"[WARN] Reddit r/{subreddit} fetch failed: {e}")
+
+    print(f"[INFO] Got {sum(1 for p in all_posts if p['source'].startswith('r/'))} AI posts from Reddit")
+
+    # --- Source 3: dev.to trending AI posts ---
+    try:
+        resp = requests.get(
+            "https://dev.to/api/articles",
+            params={"tag": "ai", "top": 1, "per_page": 15},
+            timeout=TIMEOUT,
+        )
+        resp.raise_for_status()
+        for article in resp.json():
+            title = article.get("title", "")
+            url = article.get("url", "")
+            author = article.get("user", {}).get("name", "dev.to")
+            score = article.get("positive_reactions_count", 0)
+            if title and url:
+                _add_post(title, url, author, score, "dev.to")
+        print(f"[INFO] Got {sum(1 for p in all_posts if p['source'] == 'dev.to')} AI posts from dev.to")
+    except Exception as e:
+        print(f"[WARN] dev.to fetch failed: {e}")
+
+    # --- Source 4: Lobste.rs AI/ML tagged posts ---
+    try:
+        resp = requests.get(
+            "https://lobste.rs/t/ai,ml.json",
+            timeout=TIMEOUT,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        # Lobste.rs returns a list of items or a dict with items
+        items = data if isinstance(data, list) else data.get("stories", data.get("items", []))
+        for item in items[:15]:
+            if not isinstance(item, dict):
+                continue
+            title = item.get("title", "")
+            url = item.get("url", "") or item.get("comments_url", "")
+            submitter = item.get("submitter_user", "")
+            author = submitter.get("username", "lobste.rs") if isinstance(submitter, dict) else str(submitter) or "lobste.rs"
+            score = item.get("score", 0)
+            if title and url:
+                _add_post(title, url, author, score, "lobsters")
+        print(f"[INFO] Got {sum(1 for p in all_posts if p['source'] == 'lobsters')} AI posts from Lobste.rs")
+    except Exception as e:
+        print(f"[WARN] Lobste.rs fetch failed: {e}")
+
+    # --- Source 5: Medium AI/ML articles (via RSS feeds for popular tags) ---
+    medium_tags = [
+        "artificial-intelligence", "machine-learning", "llm",
+        "deep-learning", "generative-ai", "data-science",
+    ]
+    for tag in medium_tags:
+        try:
+            feed = feedparser.parse(f"https://medium.com/feed/tag/{tag}")
+            for entry in feed.entries[:5]:
+                title = entry.get("title", "").strip()
+                link = entry.get("link", "")
+                author_name = entry.get("author", "Medium")
+                if title and link:
+                    # Strip query params from Medium URLs for dedup
+                    clean_url = link.split("?")[0]
+                    _add_post(title, clean_url, author_name, 15, "medium")
+        except Exception as e:
+            print(f"[WARN] Medium tag/{tag} fetch failed: {e}")
+    print(f"[INFO] Got {sum(1 for p in all_posts if p['source'] == 'medium')} AI posts from Medium")
+
+    # --- Source 6: RSS feeds (supplementary, for notable AI bloggers) ---
     for author, url in RSS_FEEDS:
         try:
             feed = feedparser.parse(url)
-            for entry in feed.entries[:3]:
+            for entry in feed.entries[:2]:
                 title = entry.get("title", "").strip()
                 link = entry.get("link", "")
-                published = entry.get("published_parsed")
-                pub_date = ""
-                if published:
-                    pub_date = datetime(*published[:6]).strftime("%Y-%m-%d")
-
                 if title and link:
-                    all_posts.append({
-                        "title": title,
-                        "url": link,
-                        "author": author,
-                        "date": pub_date,
-                    })
+                    _add_post(title, link, author, 10, "rss")
         except Exception as e:
             print(f"[WARN] RSS fetch failed for {author}: {e}")
-            continue
 
-    all_posts.sort(key=lambda x: x.get("date", ""), reverse=True)
-    return all_posts[:10]
+    # Sort by score (popularity) descending, pick top posts
+    # Ensure diversity: limit to max 2 posts per author/domain
+    all_posts.sort(key=lambda x: x["score"], reverse=True)
+
+    final_posts = []
+    author_count = {}
+    for post in all_posts:
+        author = post["author"]
+        if author_count.get(author, 0) >= 2:
+            continue
+        author_count[author] = author_count.get(author, 0) + 1
+        final_posts.append(post)
+        if len(final_posts) >= 10:
+            break
+
+    print(f"[INFO] Total blog posts selected: {len(final_posts)} from {len(set(p['author'] for p in final_posts))} unique sources")
+    return final_posts
 
 
 def fetch_trending_repos():
@@ -424,7 +590,7 @@ def curate_with_llm(papers, blog_posts, tweets, repos):
 
 From the following content, select:
 - The 5 most interesting/impactful PAPERS
-- The 3 most notable BLOG POSTS
+- The 10 most notable BLOG POSTS (from diverse authors/sources)
 - The 5 most insightful TWEETS (if available)
 - The 5 most interesting/trending GITHUB REPOS (if available)
 
@@ -464,7 +630,9 @@ Rules:
 - If no repos are available, omit the Trending Repos section entirely.
 - Each paper summary should be 15-25 words, no jargon.
 - For repos, include the star count with a ⭐ emoji.
-- Prioritize: novelty, practical impact, breadth of topics."""
+- Prioritize: novelty, practical impact, breadth of topics.
+- For blog posts, ensure DIVERSE authors — no more than 2 posts from the same author/source.
+- Select up to 10 blog posts."""
 
     try:
         client = OpenAI(base_url=GITHUB_MODELS_ENDPOINT, api_key=token)
@@ -504,7 +672,7 @@ def build_fallback_section(papers, blog_posts, tweets, repos):
 
     if blog_posts:
         lines.append("#### Blog Posts\n")
-        for i, p in enumerate(blog_posts[:3], 1):
+        for i, p in enumerate(blog_posts[:10], 1):
             lines.append(f"{i}. **[{p['title']}]({p['url']})** by {p['author']}\n")
         lines.append("")
 
@@ -614,7 +782,7 @@ def write_trending_json(papers, blog_posts, tweets, repos, today):
         ],
         "blog_posts": [
             {"title": p["title"], "url": p["url"], "author": p["author"]}
-            for p in blog_posts[:3]
+            for p in blog_posts[:10]
         ],
         "repos": [
             {
@@ -656,8 +824,8 @@ def main():
     arxiv_papers = fetch_arxiv_papers()
     print(f"[INFO] Got {len(arxiv_papers)} ArXiv papers")
 
-    print("[INFO] Fetching RSS blog posts...")
-    blog_posts = fetch_rss_posts()
+    print("[INFO] Fetching trending AI blog posts...")
+    blog_posts = fetch_blog_posts()
     print(f"[INFO] Got {len(blog_posts)} blog posts")
 
     print("[INFO] Fetching trending GitHub repos...")
