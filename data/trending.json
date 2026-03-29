@@ -29,19 +29,54 @@
   ],
   "blog_posts": [
     {
-      "title": "Quoting Matt Webb",
-      "url": "https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything",
-      "author": "Simon Willison"
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "author": "news.stanford.edu"
     },
     {
-      "title": "datasette-showboat 0.1a2",
-      "url": "https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything",
-      "author": "Simon Willison"
+      "title": "Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "author": "blog.dailydoseofds.com"
     },
     {
-      "title": "Quoting Richard Fontana",
-      "url": "https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything",
-      "author": "Simon Willison"
+      "title": "Go hard on agents, not on your filesystem",
+      "url": "https://jai.scs.stanford.edu/",
+      "author": "jai.scs.stanford.edu"
+    },
+    {
+      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "author": "theopenreader.org"
+    },
+    {
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "author": "twitter.com"
+    },
+    {
+      "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+      "url": "https://github.com/dbrll/ATTN-11",
+      "author": "github.com"
+    },
+    {
+      "title": "Will AI Replace Software Developers?",
+      "url": "https://dev.to/empiree/will-ai-replace-software-developers-1fo0",
+      "author": "Oleg Dubovoi"
+    },
+    {
+      "title": "AI's impact on mathematics is analogous to the car's impact on cities",
+      "url": "https://mathstodon.xyz/@tao/116252708577614828",
+      "author": "edsu"
+    },
+    {
+      "title": "Modeling what makes paper-folding puzzles hard",
+      "url": "https://www.dailyunfold.com/blog/spatial-difficulty",
+      "author": "dailyunfold.com"
+    },
+    {
+      "title": "LLM Architecture Gallery",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+      "author": "refi64"
     }
   ],
   "repos": [
@@ -49,35 +84,35 @@
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 121836,
+      "stars": 121879,
       "language": "Shell"
     },
     {
       "name": "OpenBB-finance/OpenBB",
       "url": "https://github.com/OpenBB-finance/OpenBB",
       "description": "Financial data platform for analysts, quants and AI agents.",
-      "stars": 63809,
+      "stars": 63818,
       "language": "Python"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
-      "stars": 49703,
+      "stars": 49705,
       "language": "Python"
     },
     {
       "name": "shareAI-lab/learn-claude-code",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
       "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-      "stars": 42268,
+      "stars": 42270,
       "language": "TypeScript"
     },
     {
       "name": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
-      "stars": 42141,
+      "stars": 42156,
       "language": "TypeScript"
     }
   ],
