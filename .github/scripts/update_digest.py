@@ -589,10 +589,10 @@ def curate_with_llm(papers, blog_posts, tweets, repos):
     user_prompt = f"""Today is {datetime.now(timezone.utc).strftime('%Y-%m-%d')}.
 
 From the following content, select:
-- The 5 most interesting/impactful PAPERS
+- The 10 most interesting/impactful PAPERS
 - The 10 most notable BLOG POSTS (from diverse authors/sources)
 - The 5 most insightful TWEETS (if available)
-- The 5 most interesting/trending GITHUB REPOS (if available)
+- The 10 most interesting/trending GITHUB REPOS (if available)
 
 PAPERS:
 {papers_text if papers_text else "(none available)"}
@@ -666,7 +666,7 @@ def build_fallback_section(papers, blog_posts, tweets, repos):
 
     if papers:
         lines.append("#### Papers\n")
-        for i, p in enumerate(papers[:5], 1):
+        for i, p in enumerate(papers[:10], 1):
             lines.append(f"{i}. **[{p['title']}]({p['url']})**\n")
         lines.append("")
 
@@ -678,7 +678,7 @@ def build_fallback_section(papers, blog_posts, tweets, repos):
 
     if repos:
         lines.append("#### Trending Repos\n")
-        for i, r in enumerate(repos[:5], 1):
+        for i, r in enumerate(repos[:10], 1):
             stars = r.get("stars", 0)
             desc = r.get("description", "")
             lines.append(f"{i}. **[{r['full_name']}]({r['url']})** — {desc} ⭐ {stars}\n")
@@ -778,7 +778,7 @@ def write_trending_json(papers, blog_posts, tweets, repos, today):
         "date": today,
         "papers": [
             {"title": p["title"], "url": p["url"], "summary": p.get("summary", "")[:200]}
-            for p in papers[:5]
+            for p in papers[:10]
         ],
         "blog_posts": [
             {"title": p["title"], "url": p["url"], "author": p["author"]}
@@ -792,7 +792,7 @@ def write_trending_json(papers, blog_posts, tweets, repos, today):
                 "stars": r["stars"],
                 "language": r.get("language", ""),
             }
-            for r in repos[:5]
+            for r in repos[:10]
         ],
         "tweets": [
             {
