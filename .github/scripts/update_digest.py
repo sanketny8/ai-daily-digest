@@ -43,14 +43,14 @@ RSS_FEEDS = [
     ("The Gradient", "https://thegradient.pub/rss/"),
 ]
 
-# GitHub trending search queries for AI repos
-GITHUB_TRENDING_QUERIES = [
-    "language:python topic:machine-learning",
-    "language:python topic:llm",
-    "language:python topic:deep-learning",
-    "language:python topic:ai",
-    "topic:transformer",
-    "topic:generative-ai",
+# Keywords to filter GitHub trending repos for AI relevance
+AI_KEYWORDS = [
+    "llm", "gpt", "transformer", "ai", "ml", "machine-learning", "deep-learning",
+    "neural", "diffusion", "langchain", "rag", "agent", "inference", "embedding",
+    "fine-tune", "finetune", "lora", "qlora", "whisper", "llama", "mistral",
+    "claude", "openai", "anthropic", "huggingface", "vllm", "gguf", "ggml",
+    "stable-diffusion", "chatbot", "nlp", "computer-vision", "generative",
+    "mcp", "model-context-protocol", "agentic", "multimodal",
 ]
 
 GITHUB_MODELS_ENDPOINT = "https://models.inference.ai.azure.com"
@@ -161,22 +161,59 @@ def fetch_rss_posts():
 
 
 def fetch_trending_repos():
-    """Fetch trending AI/ML GitHub repos created or updated recently."""
+    """Fetch daily trending AI/ML repos from GitHub trending page + new repos."""
     token = os.environ.get("GITHUB_TOKEN", "")
-    headers = {}
+    headers = {"Accept": "application/vnd.github+json"}
     if token:
         headers["Authorization"] = f"Bearer {token}"
-    headers["Accept"] = "application/vnd.github+json"
 
     seen_repos = set()
     all_repos = []
 
-    for query in GITHUB_TRENDING_QUERIES:
+    # --- Method 1: Scrape GitHub trending page (daily) ---
+    try:
+        resp = requests.get(
+            "https://github.com/trending/python?since=daily",
+            headers={"Accept": "text/html"},
+            timeout=TIMEOUT,
+        )
+        resp.raise_for_status()
+        trending_repos = _parse_trending_html(resp.text)
+        for repo in trending_repos:
+            if _is_ai_related(repo) and repo["full_name"] not in seen_repos:
+                seen_repos.add(repo["full_name"])
+                all_repos.append(repo)
+        print(f"[INFO] Found {len(all_repos)} AI repos from GitHub trending page")
+    except Exception as e:
+        print(f"[WARN] GitHub trending page scrape failed: {e}")
+
+    # Also check trending for all languages
+    try:
+        resp = requests.get(
+            "https://github.com/trending?since=daily",
+            headers={"Accept": "text/html"},
+            timeout=TIMEOUT,
+        )
+        resp.raise_for_status()
+        trending_repos = _parse_trending_html(resp.text)
+        for repo in trending_repos:
+            if _is_ai_related(repo) and repo["full_name"] not in seen_repos:
+                seen_repos.add(repo["full_name"])
+                all_repos.append(repo)
+    except Exception as e:
+        print(f"[WARN] GitHub trending (all langs) scrape failed: {e}")
+
+    # --- Method 2: Search for newly created AI repos gaining stars ---
+    new_repo_queries = [
+        "llm OR agent OR transformer OR diffusion",
+        "machine-learning OR deep-learning OR generative-ai",
+    ]
+    for query in new_repo_queries:
         try:
             resp = requests.get(
                 "https://api.github.com/search/repositories",
                 params={
-                    "q": f"{query} pushed:>{_days_ago(7)}",
+                    "q": f"{query} created:>{_days_ago(7)} stars:>50",
                     "sort": "stars",
                     "order": "desc",
                     "per_page": 10,
@@ -201,14 +238,92 @@ def fetch_trending_repos():
                     "stars": repo["stargazers_count"],
                     "language": repo.get("language", ""),
                     "topics": repo.get("topics", [])[:5],
+                    "new": True,
                 })
         except Exception as e:
-            print(f"[WARN] GitHub search failed for '{query}': {e}")
+            print(f"[WARN] GitHub new repo search failed: {e}")
             continue
 
-    # Sort by stars descending, take top 15
+    # Sort by stars descending
     all_repos.sort(key=lambda x: x["stars"], reverse=True)
     return all_repos[:15]
+
+
+def _parse_trending_html(html):
+    """Parse GitHub trending page HTML to extract repo info."""
+    repos = []
+    # Each trending repo is in an <article> with class "Box-row"
+    articles = re.findall(
+        r'<article class="Box-row">(.*?)</article>',
+        html,
+        re.DOTALL,
+    )
+
+    for article in articles:
+        # Find the repo link: the one that has a matching /stargazers link
+        hrefs = re.findall(r'href="/([^"]+)"', article)
+        full_name = None
+        for href in hrefs:
+            href = href.strip("/")
+            if href.count("/") == 1 and not href.startswith(("sponsors/", "login", "apps/")):
+                # Verify this is a real repo by checking for stargazers link
+                if f"{href}/stargazers" in " ".join(hrefs):
+                    full_name = href
+                    break
+        if not full_name:
+            continue
+
+        # Description
+        desc_match = re.search(r'<p class="[^"]*">(.*?)</p>', article, re.DOTALL)
+        description = ""
+        if desc_match:
+            description = re.sub(r"<[^>]+>", "", desc_match.group(1)).strip()[:200]
+
+        # Stars today
+        stars_today_match = re.search(r'(\d[\d,]*)\s+stars?\s+today', article)
+        stars_today = 0
+        if stars_today_match:
+            stars_today = int(stars_today_match.group(1).replace(",", ""))
+
+        # Total stars
+        total_stars_match = re.search(
+            r'href="/[^"]+/stargazers"[^>]*>\s*(?:<[^>]+>\s*)*?([\d,]+)',
+            article,
+            re.DOTALL,
+        )
+        total_stars = 0
+        if total_stars_match:
+            total_stars = int(total_stars_match.group(1).replace(",", ""))
+
+        # Language
+        lang_match = re.search(r'itemprop="programmingLanguage">(.*?)<', article)
+        language = lang_match.group(1).strip() if lang_match else ""
+
+        name = full_name.split("/")[-1]
+        repos.append({
+            "name": name,
+            "full_name": full_name,
+            "url": f"https://github.com/{full_name}",
+            "description": description,
+            "stars": total_stars,
+            "stars_today": stars_today,
+            "language": language,
+            "topics": [],
+        })
+
+    return repos
+
+
+def _is_ai_related(repo):
+    """Check if a repo is AI/ML related based on name, description, and topics."""
+    text = " ".join([
+        repo.get("name", ""),
+        repo.get("full_name", ""),
+        repo.get("description", ""),
+        " ".join(repo.get("topics", [])),
+    ]).lower()
+
+    return any(kw in text for kw in AI_KEYWORDS)
 
 
 def _days_ago(n):
