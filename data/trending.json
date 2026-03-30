@@ -1,178 +1,113 @@
 {
-  "date": "2026-03-29",
+  "date": "2026-03-30",
   "papers": [
     {
-      "title": "WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching",
-      "url": "https://arxiv.org/abs/2603.24836",
-      "summary": "We introduce WAFT-Stereo, a simple and effective warping-based method for stereo matching. WAFT-Stereo demonstrates that cost volumes, a common design used in many leading methods, are not necessary f"
+      "title": "Diffutron: A Masked Diffusion Language Model for Turkish Language",
+      "url": "https://arxiv.org/abs/2603.20466",
+      "summary": "Masked Diffusion Language Models (MDLMs) have emerged as a compelling non-autoregressive alternative to standard large language models; however, their application to morphologically rich languages rem"
     },
     {
-      "title": "AVO: Agentic Variation Operators for Autonomous Evolutionary Search",
-      "url": "https://arxiv.org/abs/2603.24517",
-      "summary": "Agentic Variation Operators (AVO) are a new family of evolutionary variation operators that replace the fixed mutation, crossover, and hand-designed heuristics of classical evolutionary search with au"
+      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "url": "https://arxiv.org/abs/2603.25730",
+      "summary": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long"
     },
     {
-      "title": "Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models",
-      "url": "https://arxiv.org/abs/2603.24844",
-      "summary": "Given a question, a language model (LM) implicitly encodes a distribution over possible answers. In practice, post-training procedures for LMs often collapse this distribution onto a single dominant m"
+      "title": "Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills",
+      "url": "https://arxiv.org/abs/2603.25158",
+      "summary": "Equipping Large Language Model (LLM) agents with domain-specific skills is critical for tackling complex tasks. Yet, manual authoring creates a severe scalability bottleneck. Conversely, automated ski"
     },
     {
-      "title": "Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math",
-      "url": "https://arxiv.org/abs/2603.24961",
-      "summary": "Assessing student handwritten scratchwork is crucial for personalized educational feedback but presents unique challenges due to diverse handwriting, complex layouts, and varied problem-solving approa"
+      "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
+      "url": "https://arxiv.org/abs/2603.25750",
+      "summary": "As the paradigm of AI shifts from text-based LLMs to Speech Language Models (SLMs), there is a growing demand for full-duplex systems capable of real-time, natural human-computer interaction. However,"
     },
     {
-      "title": "VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models",
-      "url": "https://arxiv.org/abs/2603.24575",
-      "summary": "Scalable Vector Graphics (SVG) are an essential format for technical illustration and digital design, offering precise resolution independence and flexible semantic editability. In practice, however, "
+      "title": "Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models",
+      "url": "https://arxiv.org/abs/2603.22782",
+      "summary": "Recent advances in 3D generation have improved the fidelity and geometric details of synthesized 3D assets. However, due to the inherent ambiguity of single-view observations and the lack of robust gl"
     },
     {
-      "title": "Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition",
-      "url": "https://arxiv.org/abs/2603.13904",
-      "summary": "For robotic agents operating in dynamic environments, learning visual state representations from streaming video observations is essential for sequential decision making. Recent self-supervised learni"
+      "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
+      "url": "https://arxiv.org/abs/2603.25746",
+      "summary": "Multi-shot video generation is crucial for long narrative storytelling, yet current bidirectional architectures suffer from limited interactivity and high latency. We propose ShotStream, a novel causa"
     },
     {
-      "title": "PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders",
-      "url": "https://arxiv.org/abs/2603.25398",
-      "summary": "Vision Foundation Models (VFMs) pre-trained at scale enable a single frozen encoder to serve multiple downstream tasks simultaneously. Recent VFM-based encoder-only models for image and video segmenta"
-    },
-    {
-      "title": "Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models",
-      "url": "https://arxiv.org/abs/2603.14636",
-      "summary": "Chain-of-thought (CoT) prompting has been extended to large audio-language models (LALMs) to elicit reasoning, yet enhancing its effectiveness without training remains challenging. We study inference-"
-    },
-    {
-      "title": "IQuest-Coder-V1 Technical Report",
-      "url": "https://arxiv.org/abs/2603.16733",
-      "summary": "In this report, we introduce the IQuest-Coder-V1 series-(7B/14B/40B/40B-Loop), a new family of code large language models (LLMs). Moving beyond static code representations, we propose the code-flow mu"
-    },
-    {
-      "title": "AVControl: Efficient Framework for Training Audio-Visual Controls",
-      "url": "https://arxiv.org/abs/2603.24793",
-      "summary": "Controlling video and audio generation requires diverse modalities, from depth and pose to camera trajectories and audio transformations, yet existing approaches either train a single monolithic model"
+      "title": "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models",
+      "url": "https://arxiv.org/abs/2603.25716",
+      "summary": "Video world models have shown immense potential in simulating the physical world, yet existing memory mechanisms primarily treat environments as static canvases. When dynamic subjects hide out of sigh"
     }
   ],
   "blog_posts": [
     {
-      "title": "AI overly affirms users asking for personal advice",
-      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "author": "news.stanford.edu"
-    },
-    {
-      "title": "Anatomy of the .claude/ folder",
-      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "author": "blog.dailydoseofds.com"
-    },
-    {
-      "title": "Go hard on agents, not on your filesystem",
-      "url": "https://jai.scs.stanford.edu/",
-      "author": "jai.scs.stanford.edu"
-    },
-    {
-      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "author": "theopenreader.org"
-    },
-    {
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "author": "twitter.com"
-    },
-    {
-      "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
-      "url": "https://github.com/dbrll/ATTN-11",
+      "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+      "url": "https://github.com/anthropics/claude-code/issues/40710",
       "author": "github.com"
     },
     {
-      "title": "Will AI Replace Software Developers?",
-      "url": "https://dev.to/empiree/will-ai-replace-software-developers-1fo0",
-      "author": "Oleg Dubovoi"
+      "title": "Coding Agents Could Make Free Software Matter Again",
+      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+      "author": "gjlondon.com"
     },
     {
-      "title": "AI's impact on mathematics is analogous to the car's impact on cities",
-      "url": "https://mathstodon.xyz/@tao/116252708577614828",
-      "author": "edsu"
+      "title": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
+      "url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9",
+      "author": "wsj.com"
     },
     {
-      "title": "Modeling what makes paper-folding puzzles hard",
-      "url": "https://www.dailyunfold.com/blog/spatial-difficulty",
-      "author": "dailyunfold.com"
+      "title": "Large-scale online deanonymization with LLMs",
+      "url": "https://arxiv.org/abs/2602.16800",
+      "author": "sjamaan"
     },
     {
-      "title": "LLM Architecture Gallery",
-      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "author": "refi64"
+      "title": "AI Agent 101",
+      "url": "https://medium.com/@feyzaberilkurt/ai-agent-101-f702caa0ad60",
+      "author": "Feyza Beril Kurt"
+    },
+    {
+      "title": "Transforming Text into Intelligence: A Beginner-Friendly Guide to the NLP Pipeline",
+      "url": "https://medium.com/@sunieyahf/transforming-text-into-intelligence-a-beginner-friendly-guide-to-the-nlp-pipeline-598e3c1eb2da",
+      "author": "Sunieyah Firdous"
+    },
+    {
+      "title": "Behind the Curtains: Iteration, and the Illusion of Instant Output",
+      "url": "https://medium.com/continuous-insights/behind-the-curtains-iteration-and-the-illusion-of-instant-output-488c46a35fd2",
+      "author": "Raymon Epping"
     }
   ],
   "repos": [
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 121894,
-      "language": "Shell"
-    },
-    {
-      "name": "OpenBB-finance/OpenBB",
-      "url": "https://github.com/OpenBB-finance/OpenBB",
-      "description": "Financial data platform for analysts, quants and AI agents.",
-      "stars": 63819,
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 17272,
       "language": "Python"
     },
     {
-      "name": "virattt/ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "stars": 49706,
-      "language": "Python"
-    },
-    {
-      "name": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-      "stars": 42273,
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "stars": 16537,
       "language": "TypeScript"
     },
     {
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
-      "stars": 42161,
-      "language": "TypeScript"
-    },
-    {
-      "name": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
-      "stars": 36190,
-      "language": "TypeScript"
-    },
-    {
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "stars": 26089,
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 15827,
       "language": "Python"
     },
     {
-      "name": "agentscope-ai/agentscope",
-      "url": "https://github.com/agentscope-ai/agentscope",
-      "description": "Build and run agents you can see, understand and trust.",
-      "stars": 21862,
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "+192 Claude Code skills &amp; agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
+      "stars": 7993,
       "language": "Python"
     },
     {
-      "name": "fastfetch-cli/fastfetch",
-      "url": "https://github.com/fastfetch-cli/fastfetch",
-      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-      "stars": 21040,
-      "language": "C"
-    },
-    {
-      "name": "onyx-dot-app/onyx",
-      "url": "https://github.com/onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "stars": 20004,
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 7954,
       "language": "Python"
     }
   ],

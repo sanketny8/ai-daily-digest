@@ -10,6 +10,35 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-03-30</strong></summary>
+
+#### Papers
+1. **[Diffutron: A Masked Diffusion Language Model for Turkish Language](https://arxiv.org/abs/2603.20466)** — This paper explores a novel language model tailored for Turkish, enhancing non-autoregressive language processing.
+2. **[PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference](https://arxiv.org/abs/2603.25730)** — Introduces a method to improve video generation by addressing issues in autoregressive models.
+3. **[Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](https://arxiv.org/abs/2603.25158)** — Discusses automating skill acquisition for LLM agents to enhance their performance on complex tasks.
+4. **[Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models](https://arxiv.org/abs/2603.25750)** — Proposes a system for real-time speech processing, advancing human-computer interaction capabilities.
+5. **[Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models](https://arxiv.org/abs/2603.22782)** — Explores enhancing 3D asset generation using insights from vision-language models to improve fidelity.
+6. **[ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling](https://arxiv.org/abs/2603.25746)** — Presents a new approach to video generation that enhances interactivity in storytelling.
+7. **[Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models](https://arxiv.org/abs/2603.25716)** — Introduces a memory mechanism for video models that adapts to dynamic environments, improving simulation accuracy.
+
+#### Blog Posts
+1. **[Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)** by github.com
+2. **[Coding Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)** by gjlondon.com
+3. **[The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT](https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9)** by wsj.com
+4. **[AI Agent 101](https://medium.com/@feyzaberilkurt/ai-agent-101-f702caa0ad60)** by Feyza Beril Kurt
+5. **[Transforming Text into Intelligence: A Beginner-Friendly Guide to the NLP Pipeline](https://medium.com/@sunieyahf/transforming-text-into-intelligence-a-beginner-friendly-guide-to-the-nlp-pipeline-598e3c1eb2da)** by Sunieyah Firdous
+6. **[Behind the Curtains: Iteration, and the Illusion of Instant Output](https://medium.com/continuous-insights/behind-the-curtains-iteration-and-the-illusion-of-instant-output-488c46a35fd2)** by Raymon Epping
+
+#### Trending Repos
+1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you. ⭐ 17272
+2. **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** — Teams-first Multi-agent orchestration for Claude Code. ⭐ 16537
+3. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that synthesizes summaries from various online sources. ⭐ 15827
+4. **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** — Collection of Claude Code skills & agent plugins for various applications. ⭐ 7993
+5. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** — A visual guide to Claude Code with practical templates. ⭐ 7954
+
+</details>
+
+<details>
 <summary><strong>2026-03-29</strong></summary>
 
 #### Papers
