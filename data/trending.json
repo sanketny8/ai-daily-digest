@@ -2,6 +2,21 @@
   "date": "2026-03-30",
   "papers": [
     {
+      "title": "Natural-Language Agent Harnesses",
+      "url": "https://arxiv.org/abs/2603.25723",
+      "summary": "Agent performance increasingly depends on harness engineering, yet harness design is usually buried in controller code and runtime-specific conventions, making it hard to transfer, compare, and study "
+    },
+    {
+      "title": "LongTail Driving Scenarios with Reasoning Traces: The KITScenes LongTail Dataset",
+      "url": "https://arxiv.org/abs/2603.23607",
+      "summary": "In real-world domains such as self-driving, generalization to rare scenarios remains a fundamental challenge. To address this, we introduce a new dataset designed for end-to-end driving that focuses o"
+    },
+    {
+      "title": "MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies",
+      "url": "https://arxiv.org/abs/2603.24649",
+      "summary": "Currently, evaluating vision-language models (VLMs) in medical imaging tasks oversimplifies clinical reality by relying on pre-selected 2D images that demand significant manual labor to curate. This s"
+    },
+    {
       "title": "Diffutron: A Masked Diffusion Language Model for Turkish Language",
       "url": "https://arxiv.org/abs/2603.20466",
       "summary": "Masked Diffusion Language Models (MDLMs) have emerged as a compelling non-autoregressive alternative to standard large language models; however, their application to morphologically rich languages rem"
@@ -54,24 +69,24 @@
       "author": "wsj.com"
     },
     {
+      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "url": "https://dani2442.github.io/posts/continuous-rl/",
+      "author": "dani2442.github.io"
+    },
+    {
+      "title": "NoteRunway: Because Your Notion Workspace Deserves an Elite Crew",
+      "url": "https://dev.to/georgekobaidze/noterunway-because-your-notion-workspace-deserves-an-elite-crew-53bk",
+      "author": "Giorgi Kobaidze"
+    },
+    {
       "title": "Large-scale online deanonymization with LLMs",
       "url": "https://arxiv.org/abs/2602.16800",
       "author": "sjamaan"
     },
     {
-      "title": "AI Agent 101",
-      "url": "https://medium.com/@feyzaberilkurt/ai-agent-101-f702caa0ad60",
-      "author": "Feyza Beril Kurt"
-    },
-    {
-      "title": "Transforming Text into Intelligence: A Beginner-Friendly Guide to the NLP Pipeline",
-      "url": "https://medium.com/@sunieyahf/transforming-text-into-intelligence-a-beginner-friendly-guide-to-the-nlp-pipeline-598e3c1eb2da",
-      "author": "Sunieyah Firdous"
-    },
-    {
-      "title": "Behind the Curtains: Iteration, and the Illusion of Instant Output",
-      "url": "https://medium.com/continuous-insights/behind-the-curtains-iteration-and-the-illusion-of-instant-output-488c46a35fd2",
-      "author": "Raymon Epping"
+      "title": "All-New in Swarms API: OpenAI-Compatible Completions Endpoint",
+      "url": "https://medium.com/@kyeg/all-new-in-swarms-api-openai-compatible-completions-endpoint-4cf225f4cecd",
+      "author": "Kye Gomez"
     }
   ],
   "repos": [
@@ -79,35 +94,35 @@
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 17272,
+      "stars": 17441,
       "language": "Python"
     },
     {
       "name": "Yeachan-Heo/oh-my-claudecode",
       "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": 16537,
+      "stars": 16744,
       "language": "TypeScript"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 15827,
-      "language": "Python"
-    },
-    {
-      "name": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "+192 Claude Code skills &amp; agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
-      "stars": 7993,
+      "stars": 15990,
       "language": "Python"
     },
     {
       "name": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 7954,
+      "stars": 8495,
+      "language": "Python"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "+192 Claude Code skills &amp; agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
+      "stars": 8022,
       "language": "Python"
     }
   ],

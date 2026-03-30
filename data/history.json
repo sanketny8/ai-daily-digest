@@ -39,6 +39,9 @@
   },
   "2026-03-30": {
     "papers": [
+      "https://arxiv.org/abs/2603.25723",
+      "https://arxiv.org/abs/2603.23607",
+      "https://arxiv.org/abs/2603.24649",
       "https://arxiv.org/abs/2603.20466",
       "https://arxiv.org/abs/2603.25730",
       "https://arxiv.org/abs/2603.25158",
@@ -51,17 +54,17 @@
       "https://github.com/anthropics/claude-code/issues/40710",
       "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
       "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9",
+      "https://dani2442.github.io/posts/continuous-rl/",
+      "https://dev.to/georgekobaidze/noterunway-because-your-notion-workspace-deserves-an-elite-crew-53bk",
       "https://arxiv.org/abs/2602.16800",
-      "https://medium.com/@feyzaberilkurt/ai-agent-101-f702caa0ad60",
-      "https://medium.com/@sunieyahf/transforming-text-into-intelligence-a-beginner-friendly-guide-to-the-nlp-pipeline-598e3c1eb2da",
-      "https://medium.com/continuous-insights/behind-the-curtains-iteration-and-the-illusion-of-instant-output-488c46a35fd2"
+      "https://medium.com/@kyeg/all-new-in-swarms-api-openai-compatible-completions-endpoint-4cf225f4cecd"
     ],
     "repos": [
       "https://github.com/NousResearch/hermes-agent",
       "https://github.com/Yeachan-Heo/oh-my-claudecode",
       "https://github.com/mvanhorn/last30days-skill",
-      "https://github.com/alirezarezvani/claude-skills",
-      "https://github.com/luongnv89/claude-howto"
+      "https://github.com/luongnv89/claude-howto",
+      "https://github.com/alirezarezvani/claude-skills"
     ]
   }
 }
