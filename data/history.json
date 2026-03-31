@@ -66,5 +66,38 @@
       "https://github.com/luongnv89/claude-howto",
       "https://github.com/alirezarezvani/claude-skills"
     ]
+  },
+  "2026-03-31": {
+    "papers": [
+      "https://arxiv.org/abs/2603.27065",
+      "https://arxiv.org/abs/2603.25926",
+      "https://arxiv.org/abs/2603.26639",
+      "https://arxiv.org/abs/2603.28669",
+      "https://arxiv.org/abs/2603.26610",
+      "https://arxiv.org/abs/2603.27813",
+      "https://arxiv.org/abs/2603.27048",
+      "https://arxiv.org/abs/2603.28547",
+      "https://arxiv.org/abs/2603.28069",
+      "https://arxiv.org/abs/2603.28458"
+    ],
+    "blogs": [
+      "https://github.com/drona23/claude-token-efficient",
+      "https://github.com/coast-guard/coasts",
+      "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+      "https://anil.recoil.org/projects/oxcaml",
+      "https://dev.to/dannwaneri/i-built-a-local-ai-agent-that-audits-my-own-articles-it-flagged-every-single-one-pkh",
+      "https://medium.com/@rahulkumar8707/ai-ui-is-the-new-trend-why-traditional-ux-design-is-slowly-dying-db63f318f41f"
+    ],
+    "repos": [
+      "https://github.com/apache/superset",
+      "https://github.com/OpenBMB/ChatDev",
+      "https://github.com/shanraisshan/claude-code-best-practice",
+      "https://github.com/microsoft/agent-lightning",
+      "https://github.com/larksuite/cli",
+      "https://github.com/SakanaAI/AI-Scientist-v2",
+      "https://github.com/WecomTeam/wecom-cli",
+      "https://github.com/jxnxts/mcp-brasil",
+      "https://github.com/revfactory/harness"
+    ]
   }
 }

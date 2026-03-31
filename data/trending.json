@@ -1,129 +1,152 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "papers": [
     {
-      "title": "Natural-Language Agent Harnesses",
-      "url": "https://arxiv.org/abs/2603.25723",
-      "summary": "Agent performance increasingly depends on harness engineering, yet harness design is usually buried in controller code and runtime-specific conventions, making it hard to transfer, compare, and study "
+      "title": "Story2Proposal: A Scaffold for Structured Scientific Paper Writing",
+      "url": "https://arxiv.org/abs/2603.27065",
+      "summary": "Generating scientific manuscripts requires maintaining alignment between narrative reasoning, experimental evidence, and visual artifacts across the document lifecycle. Existing language-model generat"
     },
     {
-      "title": "LongTail Driving Scenarios with Reasoning Traces: The KITScenes LongTail Dataset",
-      "url": "https://arxiv.org/abs/2603.23607",
-      "summary": "In real-world domains such as self-driving, generalization to rare scenarios remains a fundamental challenge. To address this, we introduce a new dataset designed for end-to-end driving that focuses o"
+      "title": "Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio",
+      "url": "https://arxiv.org/abs/2603.25926",
+      "summary": "Soft context compression reduces the computational workload of processing long contexts in LLMs by encoding long context into a smaller number of latent tokens. However, existing frameworks apply unif"
     },
     {
-      "title": "MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies",
-      "url": "https://arxiv.org/abs/2603.24649",
-      "summary": "Currently, evaluating vision-language models (VLMs) in medical imaging tasks oversimplifies clinical reality by relying on pre-selected 2D images that demand significant manual labor to curate. This s"
+      "title": "Make Geometry Matter for Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2603.26639",
+      "summary": "Empowered by large-scale training, vision-language models (VLMs) achieve strong image and video understanding, yet their ability to perform spatial reasoning in both static scenes and dynamic videos r"
     },
     {
-      "title": "Diffutron: A Masked Diffusion Language Model for Turkish Language",
-      "url": "https://arxiv.org/abs/2603.20466",
-      "summary": "Masked Diffusion Language Models (MDLMs) have emerged as a compelling non-autoregressive alternative to standard large language models; however, their application to morphologically rich languages rem"
+      "title": "Superintelligence and Law",
+      "url": "https://arxiv.org/abs/2603.28669",
+      "summary": "The prospect of artificial superintelligence -- AI agents that can generally outperform humans in cognitive tasks and economically valuable activities -- will transform the legal order as we know it. "
     },
     {
-      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
-      "url": "https://arxiv.org/abs/2603.25730",
-      "summary": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long"
+      "title": "Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling",
+      "url": "https://arxiv.org/abs/2603.26610",
+      "summary": "Mobile devices continuously interact with cellular base stations, generating massive volumes of signaling records that provide broad coverage for understanding human mobility. However, such records of"
     },
     {
-      "title": "Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills",
-      "url": "https://arxiv.org/abs/2603.25158",
-      "summary": "Equipping Large Language Model (LLM) agents with domain-specific skills is critical for tackling complex tasks. Yet, manual authoring creates a severe scalability bottleneck. Conversely, automated ski"
+      "title": "MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences",
+      "url": "https://arxiv.org/abs/2603.27813",
+      "summary": "Research agents have recently achieved significant progress in information seeking and synthesis across heterogeneous textual and visual sources. In this paper, we introduce MuSEAgent, a multimodal re"
     },
     {
-      "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
-      "url": "https://arxiv.org/abs/2603.25750",
-      "summary": "As the paradigm of AI shifts from text-based LLMs to Speech Language Models (SLMs), there is a growing demand for full-duplex systems capable of real-time, natural human-computer interaction. However,"
+      "title": "MOOZY: A Patient-First Foundation Model for Computational Pathology",
+      "url": "https://arxiv.org/abs/2603.27048",
+      "summary": "Computational pathology needs whole-slide image (WSI) foundation models that transfer across diverse clinical tasks, yet current approaches remain largely slide-centric, often depend on private data a"
     },
     {
-      "title": "Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models",
-      "url": "https://arxiv.org/abs/2603.22782",
-      "summary": "Recent advances in 3D generation have improved the fidelity and geometric details of synthesized 3D assets. However, due to the inherent ambiguity of single-view observations and the lack of robust gl"
+      "title": "GEditBench v2: A Human-Aligned Benchmark for General Image Editing",
+      "url": "https://arxiv.org/abs/2603.28547",
+      "summary": "Recent advances in image editing have enabled models to handle complex instructions with impressive realism. However, existing evaluation frameworks lag behind: current benchmarks suffer from narrow t"
     },
     {
-      "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
-      "url": "https://arxiv.org/abs/2603.25746",
-      "summary": "Multi-shot video generation is crucial for long narrative storytelling, yet current bidirectional architectures suffer from limited interactivity and high latency. We propose ShotStream, a novel causa"
+      "title": "MolmoPoint: Better Pointing for VLMs with Grounding Tokens",
+      "url": "https://arxiv.org/abs/2603.28069",
+      "summary": "Grounding has become a fundamental capability of vision-language models (VLMs). Most existing VLMs point by generating coordinates as part of their text output, which requires learning a complicated c"
     },
     {
-      "title": "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models",
-      "url": "https://arxiv.org/abs/2603.25716",
-      "summary": "Video world models have shown immense potential in simulating the physical world, yet existing memory mechanisms primarily treat environments as static canvases. When dynamic subjects hide out of sigh"
+      "title": "HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention",
+      "url": "https://arxiv.org/abs/2603.28458",
+      "summary": "Token-level sparse attention mechanisms, exemplified by DeepSeek Sparse Attention (DSA), achieve fine-grained key selection by scoring every historical token for each query using a lightweight indexer"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
-      "url": "https://github.com/anthropics/claude-code/issues/40710",
+      "title": "Universal Claude.md – cut Claude output tokens",
+      "url": "https://github.com/drona23/claude-token-efficient",
       "author": "github.com"
     },
     {
-      "title": "Coding Agents Could Make Free Software Matter Again",
-      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-      "author": "gjlondon.com"
+      "title": "Show HN: Coasts – Containerized Hosts for Agents",
+      "url": "https://github.com/coast-guard/coasts",
+      "author": "github.com"
     },
     {
-      "title": "The Sudden Fall of OpenAI's Most Hyped Product Since ChatGPT",
-      "url": "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9",
-      "author": "wsj.com"
+      "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
+      "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+      "author": "simonwillison.net"
     },
     {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "url": "https://dani2442.github.io/posts/continuous-rl/",
-      "author": "dani2442.github.io"
+      "title": "OxCaml Labs",
+      "url": "https://anil.recoil.org/projects/oxcaml",
+      "author": "yminsky"
     },
     {
-      "title": "NoteRunway: Because Your Notion Workspace Deserves an Elite Crew",
-      "url": "https://dev.to/georgekobaidze/noterunway-because-your-notion-workspace-deserves-an-elite-crew-53bk",
-      "author": "Giorgi Kobaidze"
+      "title": "I Built a Local AI Agent That Audits My Own Articles. It Flagged Every Single One.",
+      "url": "https://dev.to/dannwaneri/i-built-a-local-ai-agent-that-audits-my-own-articles-it-flagged-every-single-one-pkh",
+      "author": "Daniel Nwaneri"
     },
     {
-      "title": "Large-scale online deanonymization with LLMs",
-      "url": "https://arxiv.org/abs/2602.16800",
-      "author": "sjamaan"
-    },
-    {
-      "title": "All-New in Swarms API: OpenAI-Compatible Completions Endpoint",
-      "url": "https://medium.com/@kyeg/all-new-in-swarms-api-openai-compatible-completions-endpoint-4cf225f4cecd",
-      "author": "Kye Gomez"
+      "title": "AI UI Is the New Trend: Why Traditional UX Design Is Slowly Dying",
+      "url": "https://medium.com/@rahulkumar8707/ai-ui-is-the-new-trend-why-traditional-ux-design-is-slowly-dying-db63f318f41f",
+      "author": "Rahul Kumar"
     }
   ],
   "repos": [
     {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 17441,
-      "language": "Python"
-    },
-    {
-      "name": "Yeachan-Heo/oh-my-claudecode",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": 16744,
+      "name": "apache/superset",
+      "url": "https://github.com/apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "stars": 72054,
       "language": "TypeScript"
     },
     {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 15990,
+      "name": "OpenBMB/ChatDev",
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "stars": 32260,
       "language": "Python"
     },
     {
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 8495,
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "stars": 26844,
+      "language": "HTML"
+    },
+    {
+      "name": "microsoft/agent-lightning",
+      "url": "https://github.com/microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "stars": 16051,
       "language": "Python"
     },
     {
-      "name": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "+192 Claude Code skills &amp; agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
-      "stars": 8022,
+      "name": "larksuite/cli",
+      "url": "https://github.com/larksuite/cli",
+      "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meeti",
+      "stars": 5026,
+      "language": "Go"
+    },
+    {
+      "name": "SakanaAI/AI-Scientist-v2",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "stars": 4096,
       "language": "Python"
+    },
+    {
+      "name": "WecomTeam/wecom-cli",
+      "url": "https://github.com/WecomTeam/wecom-cli",
+      "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
+      "stars": 1108,
+      "language": "Rust"
+    },
+    {
+      "name": "jxnxts/mcp-brasil",
+      "url": "https://github.com/jxnxts/mcp-brasil",
+      "description": "MCP Server para 41 APIs públicas brasileiras",
+      "stars": 948,
+      "language": "Python"
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stars": 917,
+      "language": "HTML"
     }
   ],
   "tweets": []

@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-03-31</strong></summary>
+
+#### Papers
+1. **[Story2Proposal: A Scaffold for Structured Scientific Paper Writing](https://arxiv.org/abs/2603.27065)** — This paper presents a framework for generating scientific manuscripts that align narrative reasoning with experimental evidence.
+2. **[Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio](https://arxiv.org/abs/2603.25926)** — Introduces a method to reduce computational load in LLMs by encoding long contexts into fewer latent tokens.
+3. **[Make Geometry Matter for Spatial Reasoning](https://arxiv.org/abs/2603.26639)** — Explores enhancing spatial reasoning capabilities in vision-language models through large-scale training.
+4. **[Superintelligence and Law](https://arxiv.org/abs/2603.28669)** — Discusses the transformative impact of artificial superintelligence on legal systems and frameworks.
+5. **[MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences](https://arxiv.org/abs/2603.27813)** — Introduces a multimodal agent that synthesizes information from diverse textual and visual sources effectively.
+6. **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048)** — Proposes a foundation model for computational pathology that adapts across various clinical tasks.
+7. **[GEditBench v2: A Human-Aligned Benchmark for General Image Editing](https://arxiv.org/abs/2603.28547)** — Presents a new benchmark for evaluating image editing models that aligns with human expectations.
+8. **[ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining](http://arxiv.org/abs/2603.28737v1)** — Introduces a model that aligns speech and text styles in a shared embedding space for improved audio processing.
+9. **[See it to Place it: Evolving Macro Placements with Vision-Language Models](http://arxiv.org/abs/2603.28733v1)** — Utilizes vision-language models for optimizing macro placements in chip floorplanning tasks.
+10. **[Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks](http://arxiv.org/abs/2603.28739v1)** — Provides theoretical insights into the effectiveness of auxiliary data in improving transfer learning outcomes.
+
+#### Blog Posts
+1. **[Universal Claude.md – cut Claude output tokens](https://github.com/drona23/claude-token-efficient)** by github.com
+2. **[Mr. Chatterbox is a Victorian-era ethically trained model](https://simonwillison.net/2026/Mar/30/mr-chatterbox/)** by Simon Willison
+3. **[OxCaml Labs](https://anil.recoil.org/projects/oxcaml)** by yminsky
+4. **[I Built a Local AI Agent That Audits My Own Articles. It Flagged Every Single One.](https://dev.to/dannwaneri/i-built-a-local-ai-agent-that-audits-my-own-articles-it-flagged-every-single-one-pkh)** by Daniel Nwaneri
+5. **[AI UI Is the New Trend: Why Traditional UX Design Is Slowly Dying](https://medium.com/@rahulkumar8707/ai-ui-is-the-new-trend-why-traditional-ux-design-is-slowly-dying-db63f318f41f)** by Rahul Kumar
+
+#### Trending Repos
+1. **[apache/superset](https://github.com/apache/superset)** — Apache Superset is a Data Visualization and Data Exploration Platform. ⭐ 72054
+2. **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration. ⭐ 32260
+3. **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** — practice made claude perfect. ⭐ 26844
+4. **[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)** — The absolute trainer to light up AI agents. ⭐ 16051
+5. **[larksuite/cli](https://github.com/larksuite/cli)** — The official Lark/Feishu CLI tool for humans and AI Agents. ⭐ 5026
+6. **[SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** — Workshop-Level Automated Scientific Discovery via Agentic Tree Search. ⭐ 4096
+7. **[WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli)** — 企业微信开放平台命令行工具 for human and AI Agent operations. ⭐ 1108
+8. **[jxnxts/mcp-brasil](https://github.com/jxnxts/mcp-brasil)** — MCP Server for 41 public Brazilian APIs. ⭐ 948
+9. **[revfactory/harness](https://github.com/revfactory/harness)** — A meta-skill that designs domain-specific agent teams and generates skills. ⭐ 917
+
+</details>
+
+<details>
 <summary><strong>2026-03-30</strong></summary>
 
 #### Papers
