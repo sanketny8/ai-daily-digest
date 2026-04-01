@@ -99,5 +99,36 @@
       "https://github.com/jxnxts/mcp-brasil",
       "https://github.com/revfactory/harness"
     ]
+  },
+  "2026-04-01": {
+    "papers": [
+      "https://arxiv.org/abs/2603.29029",
+      "https://arxiv.org/abs/2603.29557",
+      "https://arxiv.org/abs/2603.29387",
+      "https://arxiv.org/abs/2603.19835",
+      "https://arxiv.org/abs/2603.29620",
+      "https://arxiv.org/abs/2603.28088",
+      "https://arxiv.org/abs/2603.29664",
+      "https://arxiv.org/abs/2603.26599",
+      "https://arxiv.org/abs/2603.26546",
+      "https://arxiv.org/abs/2603.25240"
+    ],
+    "blogs": [
+      "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+      "https://prismml.com/",
+      "https://news.future-shock.ai/the-weight-of-remembering/",
+      "https://dev.to/tejakummarikuntla/i-built-a-token-billing-system-for-my-ai-agent-heres-how-it-works-dl2",
+      "https://dev.to/javz/building-a-coding-course-generator-in-public-1-the-problem-with-learning-to-code-today-2pm7",
+      "https://medium.com/@marc.bara.iniesta/what-claude-codes-source-leak-actually-reveals-e571188ecb81"
+    ],
+    "repos": [
+      "https://github.com/PaddlePaddle/PaddleOCR",
+      "https://github.com/ComposioHQ/awesome-claude-skills",
+      "https://github.com/khoj-ai/khoj",
+      "https://github.com/google-research/timesfm",
+      "https://github.com/aliasrobotics/cai",
+      "https://github.com/vas3k/TaxHacker"
+    ]
   }
 }

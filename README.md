@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-01</strong></summary>
+
+#### Papers
+1. **[MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation](https://arxiv.org/abs/2603.29029)** — This paper presents a model that enhances text-to-image generation by incorporating spatial priors for better control.
+2. **[FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration](https://arxiv.org/abs/2603.29557)** — Introduces a dynamic approach to scientific idea generation that evolves with literature exploration rather than static retrieval.
+3. **[Extend3D: Town-Scale 3D Generation](https://arxiv.org/abs/2603.29387)** — Proposes a novel pipeline for generating 3D scenes from single images without requiring extensive training.
+4. **[FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization](https://arxiv.org/abs/2603.19835)** — A new reinforcement learning algorithm aimed at enhancing reasoning capabilities in large language models.
+5. **[Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis](https://arxiv.org/abs/2603.29620)** — Discusses a multimodal model that integrates various knowledge types for improved image synthesis.
+6. **[GEMS: Agent-Native Multimodal Generation with Memory and Skills](https://arxiv.org/abs/2603.28088)** — Addresses challenges in multimodal generation by incorporating memory and skills for complex task execution.
+7. **[CutClaw: Agentic Hours-Long Video Editing via Music Synchronization](https://arxiv.org/abs/2603.29664)** — Introduces a method for efficient video editing that synchronizes edits with music, enhancing creative workflows.
+8. **[VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward](https://arxiv.org/abs/2603.26599)** — Aims to improve geometric consistency in video generation through innovative reward mechanisms.
+9. **[AutoWeather4D: Autonomous Driving Video Weather Conversion via G-Buffer Dual-Pass Editing](https://arxiv.org/abs/2603.26546)** — Focuses on generating realistic adverse weather conditions for autonomous driving simulations.
+10. **[Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models](http://arxiv.org/abs/2603.30022v1)** — Combines RL and LLMs to enhance robotic manipulation tasks, improving performance and adaptability.
+
+#### Blog Posts
+1. **[OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)** by cnbc.com
+2. **[Claude Code users hitting usage limits 'way faster than expected'](https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/)** by theregister.com
+3. **[Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)** by prismml.com
+4. **[From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem](https://news.future-shock.ai/the-weight-of-remembering/)** by news.future-shock.ai
+5. **[💰I Built a Token Billing System for My AI Agent - Here's How It Works](https://dev.to/tejakummarikuntla/i-built-a-token-billing-system-for-my-ai-agent-heres-how-it-works-dl2)** by Teja Kummarikuntla
+6. **[Building a coding course generator in public #1: The problem with learning to code today](https://dev.to/javz/building-a-coding-course-generator-in-public-1-the-problem-with-learning-to-code-today-2pm7)** by Julien Avezou
+7. **[What Claude Code’s Source Leak Actually Reveals](https://medium.com/@marc.bara.iniesta/what-claude-codes-source-leak-actually-reveals-e571188ecb81)** by Marc Bara
+
+#### Trending Repos
+1. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — Turn any PDF or image document into structured data for your AI. ⭐ 74414
+2. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows. ⭐ 50007
+3. **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)** — Your AI second brain. Self-hostable. Get answers from the web or your docs. ⭐ 33781
+4. **[google-research/timesfm](https://github.com/google-research/timesfm)** — Pretrained time-series foundation model developed for time-series forecasting. ⭐ 11566
+5. **[aliasrobotics/cai](https://github.com/aliasrobotics/cai)** — Cybersecurity AI (CAI), the framework for AI Security. ⭐ 7734
+6. **[vas3k/TaxHacker](https://github.com/vas3k/TaxHacker)** — Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions. ⭐ 3877
+
+</details>
+
+<details>
 <summary><strong>2026-03-31</strong></summary>
 
 #### Papers

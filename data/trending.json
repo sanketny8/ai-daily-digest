@@ -1,152 +1,136 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "papers": [
     {
-      "title": "Story2Proposal: A Scaffold for Structured Scientific Paper Writing",
-      "url": "https://arxiv.org/abs/2603.27065",
-      "summary": "Generating scientific manuscripts requires maintaining alignment between narrative reasoning, experimental evidence, and visual artifacts across the document lifecycle. Existing language-model generat"
+      "title": "MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation",
+      "url": "https://arxiv.org/abs/2603.29029",
+      "summary": "Recent multimodal face generation models address the spatial control limitations of text-to-image diffusion models by augmenting text-based conditioning with spatial priors such as segmentation masks,"
     },
     {
-      "title": "Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio",
-      "url": "https://arxiv.org/abs/2603.25926",
-      "summary": "Soft context compression reduces the computational workload of processing long contexts in LLMs by encoding long context into a smaller number of latent tokens. However, existing frameworks apply unif"
+      "title": "FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration",
+      "url": "https://arxiv.org/abs/2603.29557",
+      "summary": "Scientific idea generation (SIG) is critical to AI-driven autonomous research, yet existing approaches are often constrained by a static retrieval-then-generation paradigm, leading to homogeneous and "
     },
     {
-      "title": "Make Geometry Matter for Spatial Reasoning",
-      "url": "https://arxiv.org/abs/2603.26639",
-      "summary": "Empowered by large-scale training, vision-language models (VLMs) achieve strong image and video understanding, yet their ability to perform spatial reasoning in both static scenes and dynamic videos r"
+      "title": "Extend3D: Town-Scale 3D Generation",
+      "url": "https://arxiv.org/abs/2603.29387",
+      "summary": "In this paper, we propose Extend3D, a training-free pipeline for 3D scene generation from a single image, built upon an object-centric 3D generative model. To overcome the limitations of fixed-size la"
     },
     {
-      "title": "Superintelligence and Law",
-      "url": "https://arxiv.org/abs/2603.28669",
-      "summary": "The prospect of artificial superintelligence -- AI agents that can generally outperform humans in cognitive tasks and economically valuable activities -- will transform the legal order as we know it. "
+      "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
+      "url": "https://arxiv.org/abs/2603.19835",
+      "summary": "We present Future-KL Influenced Policy Optimization (FIPO), a reinforcement learning algorithm designed to overcome reasoning bottlenecks in large language models. While GRPO style training scales eff"
     },
     {
-      "title": "Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling",
-      "url": "https://arxiv.org/abs/2603.26610",
-      "summary": "Mobile devices continuously interact with cellular base stations, generating massive volumes of signaling records that provide broad coverage for understanding human mobility. However, such records of"
+      "title": "Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis",
+      "url": "https://arxiv.org/abs/2603.29620",
+      "summary": "Unified multimodal models provide a natural and promising architecture for understanding diverse and complex real-world knowledge while generating high-quality images. However, they still rely primari"
     },
     {
-      "title": "MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences",
-      "url": "https://arxiv.org/abs/2603.27813",
-      "summary": "Research agents have recently achieved significant progress in information seeking and synthesis across heterogeneous textual and visual sources. In this paper, we introduce MuSEAgent, a multimodal re"
+      "title": "GEMS: Agent-Native Multimodal Generation with Memory and Skills",
+      "url": "https://arxiv.org/abs/2603.28088",
+      "summary": "Recent multimodal generation models have achieved remarkable progress on general-purpose generation tasks, yet continue to struggle with complex instructions and specialized downstream tasks. Inspired"
     },
     {
-      "title": "MOOZY: A Patient-First Foundation Model for Computational Pathology",
-      "url": "https://arxiv.org/abs/2603.27048",
-      "summary": "Computational pathology needs whole-slide image (WSI) foundation models that transfer across diverse clinical tasks, yet current approaches remain largely slide-centric, often depend on private data a"
+      "title": "CutClaw: Agentic Hours-Long Video Editing via Music Synchronization",
+      "url": "https://arxiv.org/abs/2603.29664",
+      "summary": "Editing the video content with audio alignment forms a digital human-made art in current social media. However, the time-consuming and repetitive nature of manual video editing has long been a challen"
     },
     {
-      "title": "GEditBench v2: A Human-Aligned Benchmark for General Image Editing",
-      "url": "https://arxiv.org/abs/2603.28547",
-      "summary": "Recent advances in image editing have enabled models to handle complex instructions with impressive realism. However, existing evaluation frameworks lag behind: current benchmarks suffer from narrow t"
+      "title": "VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward",
+      "url": "https://arxiv.org/abs/2603.26599",
+      "summary": "Large-scale video diffusion models achieve impressive visual quality, yet often fail to preserve geometric consistency. Prior approaches improve consistency either by augmenting the generator with add"
     },
     {
-      "title": "MolmoPoint: Better Pointing for VLMs with Grounding Tokens",
-      "url": "https://arxiv.org/abs/2603.28069",
-      "summary": "Grounding has become a fundamental capability of vision-language models (VLMs). Most existing VLMs point by generating coordinates as part of their text output, which requires learning a complicated c"
+      "title": "AutoWeather4D: Autonomous Driving Video Weather Conversion via G-Buffer Dual-Pass Editing",
+      "url": "https://arxiv.org/abs/2603.26546",
+      "summary": "Generative video models have significantly advanced the photorealistic synthesis of adverse weather for autonomous driving; however, they consistently demand massive datasets to learn rare weather sce"
     },
     {
-      "title": "HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention",
-      "url": "https://arxiv.org/abs/2603.28458",
-      "summary": "Token-level sparse attention mechanisms, exemplified by DeepSeek Sparse Attention (DSA), achieve fine-grained key selection by scoring every historical token for each query using a lightweight indexer"
+      "title": "Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells",
+      "url": "https://arxiv.org/abs/2603.25240",
+      "summary": "Modeling cellular states and predicting their responses to perturbations are central challenges in computational biology and the development of virtual cells. Existing foundation models for single-cel"
     }
   ],
   "blog_posts": [
     {
-      "title": "Universal Claude.md – cut Claude output tokens",
-      "url": "https://github.com/drona23/claude-token-efficient",
-      "author": "github.com"
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "author": "cnbc.com"
     },
     {
-      "title": "Show HN: Coasts – Containerized Hosts for Agents",
-      "url": "https://github.com/coast-guard/coasts",
-      "author": "github.com"
+      "title": "Claude Code users hitting usage limits 'way faster than expected'",
+      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+      "author": "theregister.com"
     },
     {
-      "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
-      "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
-      "author": "simonwillison.net"
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "author": "prismml.com"
     },
     {
-      "title": "OxCaml Labs",
-      "url": "https://anil.recoil.org/projects/oxcaml",
-      "author": "yminsky"
+      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+      "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+      "author": "news.future-shock.ai"
     },
     {
-      "title": "I Built a Local AI Agent That Audits My Own Articles. It Flagged Every Single One.",
-      "url": "https://dev.to/dannwaneri/i-built-a-local-ai-agent-that-audits-my-own-articles-it-flagged-every-single-one-pkh",
-      "author": "Daniel Nwaneri"
+      "title": "💰I Built a Token Billing System for My AI Agent - Here's How It Works",
+      "url": "https://dev.to/tejakummarikuntla/i-built-a-token-billing-system-for-my-ai-agent-heres-how-it-works-dl2",
+      "author": "Teja Kummarikuntla"
     },
     {
-      "title": "AI UI Is the New Trend: Why Traditional UX Design Is Slowly Dying",
-      "url": "https://medium.com/@rahulkumar8707/ai-ui-is-the-new-trend-why-traditional-ux-design-is-slowly-dying-db63f318f41f",
-      "author": "Rahul Kumar"
+      "title": "Building a coding course generator in public #1: The problem with learning to code today",
+      "url": "https://dev.to/javz/building-a-coding-course-generator-in-public-1-the-problem-with-learning-to-code-today-2pm7",
+      "author": "Julien Avezou"
+    },
+    {
+      "title": "What Claude Code’s Source Leak Actually Reveals",
+      "url": "https://medium.com/@marc.bara.iniesta/what-claude-codes-source-leak-actually-reveals-e571188ecb81",
+      "author": "Marc Bara"
     }
   ],
   "repos": [
     {
-      "name": "apache/superset",
-      "url": "https://github.com/apache/superset",
-      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-      "stars": 72054,
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars": 74414,
+      "language": "Python"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 50007,
+      "language": "Python"
+    },
+    {
+      "name": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI ",
+      "stars": 33781,
+      "language": "Python"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 11566,
+      "language": "Python"
+    },
+    {
+      "name": "aliasrobotics/cai",
+      "url": "https://github.com/aliasrobotics/cai",
+      "description": "Cybersecurity AI (CAI), the framework for AI Security",
+      "stars": 7734,
+      "language": "Python"
+    },
+    {
+      "name": "vas3k/TaxHacker",
+      "url": "https://github.com/vas3k/TaxHacker",
+      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+      "stars": 3877,
       "language": "TypeScript"
-    },
-    {
-      "name": "OpenBMB/ChatDev",
-      "url": "https://github.com/OpenBMB/ChatDev",
-      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-      "stars": 32260,
-      "language": "Python"
-    },
-    {
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "description": "practice made claude perfect",
-      "stars": 26844,
-      "language": "HTML"
-    },
-    {
-      "name": "microsoft/agent-lightning",
-      "url": "https://github.com/microsoft/agent-lightning",
-      "description": "The absolute trainer to light up AI agents.",
-      "stars": 16051,
-      "language": "Python"
-    },
-    {
-      "name": "larksuite/cli",
-      "url": "https://github.com/larksuite/cli",
-      "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meeti",
-      "stars": 5026,
-      "language": "Go"
-    },
-    {
-      "name": "SakanaAI/AI-Scientist-v2",
-      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
-      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "stars": 4096,
-      "language": "Python"
-    },
-    {
-      "name": "WecomTeam/wecom-cli",
-      "url": "https://github.com/WecomTeam/wecom-cli",
-      "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
-      "stars": 1108,
-      "language": "Rust"
-    },
-    {
-      "name": "jxnxts/mcp-brasil",
-      "url": "https://github.com/jxnxts/mcp-brasil",
-      "description": "MCP Server para 41 APIs públicas brasileiras",
-      "stars": 948,
-      "language": "Python"
-    },
-    {
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": 917,
-      "language": "HTML"
     }
   ],
   "tweets": []
