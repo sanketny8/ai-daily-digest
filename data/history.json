@@ -130,5 +130,37 @@
       "https://github.com/aliasrobotics/cai",
       "https://github.com/vas3k/TaxHacker"
     ]
+  },
+  "2026-04-02": {
+    "papers": [
+      "https://arxiv.org/abs/2603.29247",
+      "https://arxiv.org/abs/2603.24414",
+      "https://arxiv.org/abs/2604.00590",
+      "https://arxiv.org/abs/2603.29002",
+      "https://arxiv.org/abs/2604.00913",
+      "https://arxiv.org/abs/2603.26648",
+      "https://arxiv.org/abs/2603.28407",
+      "https://arxiv.org/abs/2604.01128",
+      "https://arxiv.org/abs/2604.00842",
+      "https://arxiv.org/abs/2603.26017"
+    ],
+    "blogs": [
+      "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "https://github.com/simple10/agents-observe",
+      "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
+      "https://medium.com/@amanmulchandani29/healing-or-hacking-the-ethical-dilemma-of-ai-in-healthcare-1789f2897ab3"
+    ],
+    "repos": [
+      "https://github.com/f/prompts.chat",
+      "https://github.com/anthropics/claude-code",
+      "https://github.com/openai/codex",
+      "https://github.com/sansan0/TrendRadar",
+      "https://github.com/Huanshere/VideoLingo",
+      "https://github.com/yusufkaraaslan/Skill_Seekers",
+      "https://github.com/sanbuphy/learn-coding-agent",
+      "https://github.com/microsoft/agent-framework",
+      "https://github.com/LMCache/LMCache"
+    ]
   }
 }

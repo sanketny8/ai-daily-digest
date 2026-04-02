@@ -1,136 +1,147 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "papers": [
     {
-      "title": "MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation",
-      "url": "https://arxiv.org/abs/2603.29029",
-      "summary": "Recent multimodal face generation models address the spatial control limitations of text-to-image diffusion models by augmenting text-based conditioning with spatial priors such as segmentation masks,"
+      "title": "MemRerank: Preference Memory for Personalized Product Reranking",
+      "url": "https://arxiv.org/abs/2603.29247",
+      "summary": "LLM-based shopping agents increasingly rely on long purchase histories and multi-turn interactions for personalization, yet naively appending raw history to prompts is often ineffective due to noise, "
     },
     {
-      "title": "FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration",
-      "url": "https://arxiv.org/abs/2603.29557",
-      "summary": "Scientific idea generation (SIG) is critical to AI-driven autonomous research, yet existing approaches are often constrained by a static retrieval-then-generation paradigm, leading to homogeneous and "
+      "title": "ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers",
+      "url": "https://arxiv.org/abs/2603.24414",
+      "summary": "OpenClaw has rapidly established itself as a leading open-source autonomous agent runtime, offering powerful capabilities including tool integration, local file access, and shell command execution. Ho"
     },
     {
-      "title": "Extend3D: Town-Scale 3D Generation",
-      "url": "https://arxiv.org/abs/2603.29387",
-      "summary": "In this paper, we propose Extend3D, a training-free pipeline for 3D scene generation from a single image, built upon an object-centric 3D generative model. To overcome the limitations of fixed-size la"
+      "title": "UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems",
+      "url": "https://arxiv.org/abs/2604.00590",
+      "summary": "In recent years, the scaling laws of recommendation models have attracted increasing attention, which govern the relationship between performance and parameters/FLOPs of recommenders. Currently, there"
     },
     {
-      "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
-      "url": "https://arxiv.org/abs/2603.19835",
-      "summary": "We present Future-KL Influenced Policy Optimization (FIPO), a reinforcement learning algorithm designed to overcome reasoning bottlenecks in large language models. While GRPO style training scales eff"
+      "title": "Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference",
+      "url": "https://arxiv.org/abs/2603.29002",
+      "summary": "Modern large language models (LLMs) increasingly depends on efficient long-context processing and generation mechanisms, including sparse attention, retrieval-augmented generation (RAG), and compresse"
     },
     {
-      "title": "Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis",
-      "url": "https://arxiv.org/abs/2603.29620",
-      "summary": "Unified multimodal models provide a natural and promising architecture for understanding diverse and complex real-world knowledge while generating high-quality images. However, they still rely primari"
+      "title": "Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment",
+      "url": "https://arxiv.org/abs/2604.00913",
+      "summary": "2D assembly diagrams are often abstract and hard to follow, creating a need for intelligent assistants that can monitor progress, detect errors, and provide step-by-step guidance. In mixed reality set"
     },
     {
-      "title": "GEMS: Agent-Native Multimodal Generation with Memory and Skills",
-      "url": "https://arxiv.org/abs/2603.28088",
-      "summary": "Recent multimodal generation models have achieved remarkable progress on general-purpose generation tasks, yet continue to struggle with complex instructions and specialized downstream tasks. Inspired"
+      "title": "Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification",
+      "url": "https://arxiv.org/abs/2603.26648",
+      "summary": "Recent advances in large language models have improved the capabilities of coding agents, yet systematic evaluation of complex, end-to-end website development remains limited. To address this gap, we "
     },
     {
-      "title": "CutClaw: Agentic Hours-Long Video Editing via Music Synchronization",
-      "url": "https://arxiv.org/abs/2603.29664",
-      "summary": "Editing the video content with audio alignment forms a digital human-made art in current social media. However, the time-consuming and repetitive nature of manual video editing has long been a challen"
+      "title": "MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome",
+      "url": "https://arxiv.org/abs/2603.28407",
+      "summary": "Recent progress in deep research systems has been impressive, but evaluation still lags behind real user needs. Existing benchmarks predominantly assess final reports using fixed rubrics, failing to e"
     },
     {
-      "title": "VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward",
-      "url": "https://arxiv.org/abs/2603.26599",
-      "summary": "Large-scale video diffusion models achieve impressive visual quality, yet often fail to preserve geometric consistency. Prior approaches improve consistency either by augmenting the generator with add"
+      "title": "Paper Reconstruction Evaluation: Evaluating Presentation and Hallucination in AI-written Papers",
+      "url": "https://arxiv.org/abs/2604.01128",
+      "summary": "This paper introduces the first systematic evaluation framework for quantifying the quality and risks of papers written by modern coding agents. While AI-driven paper writing has become a growing conc"
     },
     {
-      "title": "AutoWeather4D: Autonomous Driving Video Weather Conversion via G-Buffer Dual-Pass Editing",
-      "url": "https://arxiv.org/abs/2603.26546",
-      "summary": "Generative video models have significantly advanced the photorealistic synthesis of adverse weather for autonomous driving; however, they consistently demand massive datasets to learn rare weather sce"
+      "title": "Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants",
+      "url": "https://arxiv.org/abs/2604.00842",
+      "summary": "Proactive agents that anticipate user needs and autonomously execute tasks hold great promise as digital assistants, yet the lack of realistic user simulation frameworks hinders their development. Exi"
     },
     {
-      "title": "Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells",
-      "url": "https://arxiv.org/abs/2603.25240",
-      "summary": "Modeling cellular states and predicting their responses to perturbations are central challenges in computational biology and the development of virtual cells. Existing foundation models for single-cel"
+      "title": "QuitoBench: A High-Quality Open Time Series Forecasting Benchmark",
+      "url": "https://arxiv.org/abs/2603.26017",
+      "summary": "Time series forecasting is critical across finance, healthcare, and cloud computing, yet progress is constrained by a fundamental bottleneck: the scarcity of large-scale, high-quality benchmarks. To a"
     }
   ],
   "blog_posts": [
     {
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "author": "cnbc.com"
+      "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "author": "github.com"
     },
     {
-      "title": "Claude Code users hitting usage limits 'way faster than expected'",
-      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
-      "author": "theregister.com"
+      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "author": "app.uniclaw.ai"
     },
     {
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "url": "https://prismml.com/",
-      "author": "prismml.com"
+      "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "url": "https://github.com/simple10/agents-observe",
+      "author": "github.com"
     },
     {
-      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-      "author": "news.future-shock.ai"
+      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
+      "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
+      "author": "Ryan Swift"
     },
     {
-      "title": "💰I Built a Token Billing System for My AI Agent - Here's How It Works",
-      "url": "https://dev.to/tejakummarikuntla/i-built-a-token-billing-system-for-my-ai-agent-heres-how-it-works-dl2",
-      "author": "Teja Kummarikuntla"
-    },
-    {
-      "title": "Building a coding course generator in public #1: The problem with learning to code today",
-      "url": "https://dev.to/javz/building-a-coding-course-generator-in-public-1-the-problem-with-learning-to-code-today-2pm7",
-      "author": "Julien Avezou"
-    },
-    {
-      "title": "What Claude Code’s Source Leak Actually Reveals",
-      "url": "https://medium.com/@marc.bara.iniesta/what-claude-codes-source-leak-actually-reveals-e571188ecb81",
-      "author": "Marc Bara"
+      "title": "Healing or Hacking? The Ethical Dilemma of AI in Healthcare",
+      "url": "https://medium.com/@amanmulchandani29/healing-or-hacking-the-ethical-dilemma-of-ai-in-healthcare-1789f2897ab3",
+      "author": "Aman Mulchandani"
     }
   ],
   "repos": [
     {
-      "name": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": 74414,
+      "name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars": 156316,
+      "language": "HTML"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "stars": 103201,
+      "language": "Shell"
+    },
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "stars": 72098,
+      "language": "Rust"
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion &amp; trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架",
+      "stars": 50569,
       "language": "Python"
     },
     {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 50007,
+      "name": "Huanshere/VideoLingo",
+      "url": "https://github.com/Huanshere/VideoLingo",
+      "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+      "stars": 16446,
       "language": "Python"
     },
     {
-      "name": "khoj-ai/khoj",
-      "url": "https://github.com/khoj-ai/khoj",
-      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI ",
-      "stars": 33781,
+      "name": "yusufkaraaslan/Skill_Seekers",
+      "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+      "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+      "stars": 11948,
       "language": "Python"
     },
     {
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 11566,
+      "name": "sanbuphy/learn-coding-agent",
+      "url": "https://github.com/sanbuphy/learn-coding-agent",
+      "description": "Research on Coding Agents",
+      "stars": 10785,
+      "language": null
+    },
+    {
+      "name": "microsoft/agent-framework",
+      "url": "https://github.com/microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "stars": 8370,
       "language": "Python"
     },
     {
-      "name": "aliasrobotics/cai",
-      "url": "https://github.com/aliasrobotics/cai",
-      "description": "Cybersecurity AI (CAI), the framework for AI Security",
-      "stars": 7734,
+      "name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "stars": 7834,
       "language": "Python"
-    },
-    {
-      "name": "vas3k/TaxHacker",
-      "url": "https://github.com/vas3k/TaxHacker",
-      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-      "stars": 3877,
-      "language": "TypeScript"
     }
   ],
   "tweets": []

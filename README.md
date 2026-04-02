@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-02</strong></summary>
+
+#### Papers
+1. **[MemRerank: Preference Memory for Personalized Product Reranking](https://arxiv.org/abs/2603.29247)** — This paper presents a method to enhance personalization in shopping agents using preference memory.
+2. **[ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers](https://arxiv.org/abs/2603.24414)** — Discusses safety mechanisms for autonomous agents in OpenClaw, enhancing their operational reliability.
+3. **[UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems](https://arxiv.org/abs/2604.00590)** — Explores scaling laws in recommendation systems, linking performance to model parameters and computational resources.
+4. **[Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference](https://arxiv.org/abs/2603.29002)** — Analyzes memory processing in LLMs, focusing on efficient long-context handling and generation.
+5. **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648)** — Introduces a benchmark for evaluating coding agents in complex website development tasks.
+6. **[MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome](https://arxiv.org/abs/2603.28407)** — Proposes a new evaluation framework for multimodal deep research systems to better align with user needs.
+7. **[Paper Reconstruction Evaluation: Evaluating Presentation and Hallucination in AI-written Papers](https://arxiv.org/abs/2604.01128)** — Establishes a framework to assess the quality and risks of AI-generated academic papers.
+8. **[Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants](https://arxiv.org/abs/2604.00842)** — Discusses a simulation framework for evaluating proactive digital assistants' performance.
+9. **[QuitoBench: A High-Quality Open Time Series Forecasting Benchmark](https://arxiv.org/abs/2603.26017)** — Addresses the need for high-quality benchmarks in time series forecasting across various fields.
+10. **[HippoCamp: Benchmarking Contextual Agents on Personal Computers](http://arxiv.org/abs/2604.01221v1)** — Introduces a benchmark for evaluating agents' capabilities in multimodal file management on personal computers.
+
+#### Blog Posts
+1. **[Claude wrote a full FreeBSD remote kernel RCE with root shell](https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md)** by github.com
+2. **[StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn)** by app.uniclaw.ai
+3. **[Show HN: Real-time dashboard for Claude Code agent teams](https://github.com/simple10/agents-observe)** by github.com
+4. **[3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early](https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln)** by Ryan Swift
+5. **[Healing or Hacking? The Ethical Dilemma of AI in Healthcare](https://medium.com/@amanmulchandani29/healing-or-hacking-the-ethical-dilemma-of-ai-in-healthcare-1789f2897ab3)** by Aman Mulchandani
+
+#### Trending Repos
+1. **[f/prompts.chat](https://github.com/f/prompts.chat)** — Share, discover, and collect prompts from the community. ⭐ 156316
+2. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** — An agentic coding tool that enhances coding efficiency in terminal environments. ⭐ 103201
+3. **[openai/codex](https://github.com/openai/codex)** — Lightweight coding agent that runs in your terminal. ⭐ 72098
+4. **[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** — AI-driven public opinion and trend monitor with multi-platform aggregation. ⭐ 50569
+5. **[Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)** — Automated AI video subtitle team for cutting, translating, and dubbing. ⭐ 16446
+6. **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** — Converts documentation and repositories into Claude AI skills. ⭐ 11948
+7. **[sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent)** — Research on Coding Agents. ⭐ 10785
+8. **[microsoft/agent-framework](https://github.com/microsoft/agent-framework)** — Framework for building and deploying AI agents and workflows. ⭐ 8370
+9. **[LMCache/LMCache](https://github.com/LMCache/LMCache)** — Supercharge your LLM with the fastest KV cache layer. ⭐ 7834
+
+</details>
+
+<details>
 <summary><strong>2026-04-01</strong></summary>
 
 #### Papers
