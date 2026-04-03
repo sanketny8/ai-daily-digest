@@ -10,6 +10,42 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-03</strong></summary>
+
+#### Papers
+1. **[DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data](https://arxiv.org/abs/2604.01666)** — This paper addresses challenges in synthesizing realistic videos with dynamic motions using advanced video diffusion models.
+2. **[T5Gemma-TTS Technical Report](https://arxiv.org/abs/2604.01760)** — Explores autoregressive neural codec models for zero-shot voice cloning, focusing on improving audio sequence generation.
+3. **[Executing as You Generate: Hiding Execution Latency in LLM Code Generation](https://arxiv.org/abs/2604.00491)** — Proposes a method to reduce latency in code generation by integrating execution within the generation process.
+4. **[Automatic Image-Level Morphological Trait Annotation for Organismal Images](https://arxiv.org/abs/2604.01619)** — Introduces a method for automatically annotating biological traits in images, enhancing ecological and biological research.
+5. **[Woosh: A Sound Effects Foundation Model](https://arxiv.org/abs/2604.01929)** — Presents a foundational model for sound effects generation, aiming to support audio research and application development.
+6. **[Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning](https://arxiv.org/abs/2604.02007)** — Discusses reinforcement learning techniques to enhance reasoning capabilities in general-purpose models across various domains.
+7. **[VOID: Video Object and Interaction Deletion](http://arxiv.org/abs/2604.02296v1)** — Introduces a method for removing objects from videos while maintaining visual coherence and correcting artifacts.
+8. **[Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers](https://arxiv.org/abs/2603.27666)** — Explores new techniques for enhancing controllability in visual generation models without relying on multimodal attention.
+9. **[Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation](http://arxiv.org/abs/2604.02324v1)** — Investigates methods for initializing new vocabulary tokens in language models to improve performance in specific tasks.
+10. **[Topological Effects in Neural Network Field Theory](http://arxiv.org/abs/2604.02313v1)** — Extends neural network field theory by incorporating topological aspects, potentially impacting theoretical understanding in AI.
+
+#### Blog Posts
+1. **[Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6)** by qwen.ai
+2. **[Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)** by lemonade-server.ai
+3. **[OpenAI Acquires TBPN](https://openai.com/index/openai-acquires-tbpn/)** by openai.com
+4. **[A $20/month user costs OpenAI $65 in compute. AI video is a money furnace](https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is)** by aedelon777.substack.com
+5. **[Why OpenAI’s TBPN Acquisition Is a Turning Point for Enterprise AI](https://medium.com/@sebuzdugan/why-openais-tbpn-acquisition-is-a-turning-point-for-enterprise-ai-c96cebbfdd67)** by Sebastian Buzdugan
+
+#### Trending Repos
+1. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from various AI models. ⭐ 36737
+2. **[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** — Enhances Codex with hooks and agent teams for improved coding experience. ⭐ 12466
+3. **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** — Open-source coding-agent CLI for multiple AI models. ⭐ 8254
+4. **[Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)** — Terminal coding agent in Rust with insights from Claude Code leaks. ⭐ 7494
+5. **[MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI)** — A multi-agent AI system for automating complex tasks across platforms. ⭐ 6359
+6. **[zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)** — Fast and accurate optical character recognition system. ⭐ 5282
+7. **[tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)** — In-depth research report on AI agents. ⭐ 4777
+8. **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** — Collection of design system files for UI development. ⭐ 3925
+9. **[JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent)** — Framework for lightweight multi-agent task decomposition. ⭐ 2804
+10. **[codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript)** — Open-source agent SDK without CLI dependencies. ⭐ 2201
+
+</details>
+
+<details>
 <summary><strong>2026-04-02</strong></summary>
 
 #### Papers

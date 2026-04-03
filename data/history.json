@@ -162,5 +162,41 @@
       "https://github.com/microsoft/agent-framework",
       "https://github.com/LMCache/LMCache"
     ]
+  },
+  "2026-04-03": {
+    "papers": [
+      "https://arxiv.org/abs/2604.01666",
+      "https://arxiv.org/abs/2604.01760",
+      "https://arxiv.org/abs/2604.00491",
+      "https://arxiv.org/abs/2604.01619",
+      "https://arxiv.org/abs/2604.01479",
+      "https://arxiv.org/abs/2604.01404",
+      "https://arxiv.org/abs/2604.00829",
+      "https://arxiv.org/abs/2604.01929",
+      "https://arxiv.org/abs/2604.02007",
+      "https://arxiv.org/abs/2603.27666"
+    ],
+    "blogs": [
+      "https://qwen.ai/blog?id=qwen3.6",
+      "https://lemonade-server.ai",
+      "https://openai.com/index/openai-acquires-tbpn/",
+      "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
+      "https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735",
+      "https://medium.com/coinmonks/the-architects-reflection-the-5d-middleware-6feebc3101bf",
+      "https://sayurusadaru12.medium.com/i-am-a-software-engineer-teaching-myself-ai-engineering-here-is-where-i-am-starting-b1256b335a85",
+      "https://medium.com/@sebuzdugan/why-openais-tbpn-acquisition-is-a-turning-point-for-enterprise-ai-c96cebbfdd67"
+    ],
+    "repos": [
+      "https://github.com/asgeirtj/system_prompts_leaks",
+      "https://github.com/Yeachan-Heo/oh-my-codex",
+      "https://github.com/Gitlawb/openclaude",
+      "https://github.com/Kuberwastaken/claurst",
+      "https://github.com/MervinPraison/PraisonAI",
+      "https://github.com/zai-org/GLM-OCR",
+      "https://github.com/tvytlx/ai-agent-deep-dive",
+      "https://github.com/VoltAgent/awesome-design-md",
+      "https://github.com/JackChen-me/open-multi-agent",
+      "https://github.com/codeany-ai/open-agent-sdk-typescript"
+    ]
   }
 }
