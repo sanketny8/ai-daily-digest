@@ -198,5 +198,33 @@
       "https://github.com/JackChen-me/open-multi-agent",
       "https://github.com/codeany-ai/open-agent-sdk-typescript"
     ]
+  },
+  "2026-04-04": {
+    "papers": [
+      "https://arxiv.org/abs/2603.27449",
+      "https://arxiv.org/abs/2604.00356",
+      "https://arxiv.org/abs/2603.29042",
+      "https://arxiv.org/abs/2604.01298",
+      "https://arxiv.org/abs/2604.01658",
+      "https://arxiv.org/abs/2603.30043",
+      "https://arxiv.org/abs/2604.01202",
+      "https://arxiv.org/abs/2603.06679",
+      "https://arxiv.org/abs/2604.01973",
+      "https://arxiv.org/abs/2603.26259"
+    ],
+    "blogs": [
+      "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+      "https://ctx.rs",
+      "https://dev.to/syedahmershah/how-1-missing-line-of-code-cost-anthropic-340-billion-n23",
+      "https://dev.to/vitoriazzp/de-front-end-para-ux-e-de-volta-ao-codigo-o-que-significa-ser-design-engineer-em-2026-3j74",
+      "https://sfstandard.com/2026/04/01/openai-ai-kids-safety-coalition/"
+    ],
+    "repos": [
+      "https://github.com/microsoft/BitNet",
+      "https://github.com/hsliuping/TradingAgents-CN",
+      "https://github.com/oumi-ai/oumi",
+      "https://github.com/vectorize-io/hindsight"
+    ]
   }
 }

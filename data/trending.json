@@ -1,169 +1,117 @@
 {
-  "date": "2026-04-03",
+  "date": "2026-04-04",
   "papers": [
     {
-      "title": "DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data",
-      "url": "https://arxiv.org/abs/2604.01666",
-      "summary": "Despite recent progress, video diffusion models still struggle to synthesize realistic videos involving highly dynamic motions or requiring fine-grained motion controllability. A central limitation li"
+      "title": "LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model",
+      "url": "https://arxiv.org/abs/2603.27449",
+      "summary": "Learning human-object manipulation presents significant challenges due to its fine-grained and contact-rich nature of the motions involved. Traditional physics-based animation requires extensive model"
     },
     {
-      "title": "T5Gemma-TTS Technical Report",
-      "url": "https://arxiv.org/abs/2604.01760",
-      "summary": "Autoregressive neural codec language models have shown strong zero-shot voice cloning ability, but decoder-only architectures treat input text as a prefix that competes with the growing audio sequence"
+      "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
+      "url": "https://arxiv.org/abs/2604.00356",
+      "summary": "Agentic applications based on large language models increasingly rely on multi-step interaction loops involving planning, action execution, and environment feedback. While such systems are now deploye"
     },
     {
-      "title": "Executing as You Generate: Hiding Execution Latency in LLM Code Generation",
-      "url": "https://arxiv.org/abs/2604.00491",
-      "summary": "Current LLM-based coding agents follow a serial execution paradigm: the model first generates the complete code, then invokes an interpreter to execute it. This sequential workflow leaves the executor"
+      "title": "An Empirical Recipe for Universal Phone Recognition",
+      "url": "https://arxiv.org/abs/2603.29042",
+      "summary": "Phone recognition (PR) is a key enabler of multilingual and low-resource speech processing tasks, yet robust performance remains elusive. Highly performant English-focused models do not generalize acr"
     },
     {
-      "title": "Automatic Image-Level Morphological Trait Annotation for Organismal Images",
-      "url": "https://arxiv.org/abs/2604.01619",
-      "summary": "Morphological traits are physical characteristics of biological organisms that provide vital clues on how organisms interact with their environment. Yet extracting these traits remains a slow, expert-"
+      "title": "Forecasting Supply Chain Disruptions with Foresight Learning",
+      "url": "https://arxiv.org/abs/2604.01298",
+      "summary": "Anticipating supply chain disruptions before they materialize is a core challenge for firms and policymakers alike. A key difficulty is learning to reason reliably about infrequent, high-impact events"
     },
     {
-      "title": "UniRecGen: Unifying Multi-View 3D Reconstruction and Generation",
-      "url": "https://arxiv.org/abs/2604.01479",
-      "summary": "Sparse-view 3D modeling represents a fundamental tension between reconstruction fidelity and generative plausibility. While feed-forward reconstruction excels in efficiency and input alignment, it oft"
+      "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
+      "url": "https://arxiv.org/abs/2604.01658",
+      "summary": "Large language model (LLM)-based evolution is a promising approach for open-ended discovery, where progress requires sustained search and knowledge accumulation. Existing methods still rely heavily on"
     },
     {
-      "title": "Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models",
-      "url": "https://arxiv.org/abs/2604.01404",
-      "summary": "Language models can answer many entity-centric factual questions, but it remains unclear which internal mechanisms are involved in this process. We study this question across multiple language models."
+      "title": "Video Models Reason Early: Exploiting Plan Commitment for Maze Solving",
+      "url": "https://arxiv.org/abs/2603.30043",
+      "summary": "Video diffusion models exhibit emergent reasoning capabilities like solving mazes and puzzles, yet little is understood about how they reason during generation. We take a first step towards understand"
     },
     {
-      "title": "LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation",
-      "url": "https://arxiv.org/abs/2604.00829",
-      "summary": "Adapting pretrained language models (LMs) into vision-language models (VLMs) can degrade their native linguistic capability due to representation shift and cross-modal interference introduced during m"
+      "title": "Therefore I am. I Think",
+      "url": "https://arxiv.org/abs/2604.01202",
+      "summary": "We consider the question: when a large language reasoning model makes a choice, did it think first and then decide to, or decide first and then think? In this paper, we present evidence that detectabl"
     },
     {
-      "title": "Woosh: A Sound Effects Foundation Model",
-      "url": "https://arxiv.org/abs/2604.01929",
-      "summary": "The audio research community depends on open generative models as foundational tools for building novel approaches and establishing baselines. In this report, we present Woosh, Sony AI's publicly rele"
+      "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
+      "url": "https://arxiv.org/abs/2603.06679",
+      "summary": "Video world models have shown immense promise for interactive simulation and entertainment, but current systems still struggle with two important aspects of interactivity: user control over the enviro"
     },
     {
-      "title": "Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning",
-      "url": "https://arxiv.org/abs/2604.02007",
-      "summary": "Building general-purpose reasoning models using reinforcement learning with verifiable rewards (RLVR) across diverse domains has been widely adopted by frontier open-weight models. However, their trai"
+      "title": "NearID: Identity Representation Learning via Near-identity Distractors",
+      "url": "https://arxiv.org/abs/2604.01973",
+      "summary": "When evaluating identity-focused tasks such as personalized generation and image editing, existing vision encoders entangle object identity with background context, leading to unreliable representatio"
     },
     {
-      "title": "Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers",
-      "url": "https://arxiv.org/abs/2603.27666",
-      "summary": "Recent advances in diffusion-based controllable visual generation have led to remarkable improvements in image quality. However, these powerful models are typically deployed on cloud servers due to th"
+      "title": "Working Notes on Late Interaction Dynamics: Analyzing Targeted Behaviors of Late Interaction Models",
+      "url": "https://arxiv.org/abs/2603.26259",
+      "summary": "While Late Interaction models exhibit strong retrieval performance, many of their underlying dynamics remain understudied, potentially hiding performance bottlenecks. In this work, we focus on two top"
     }
   ],
   "blog_posts": [
     {
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "url": "https://qwen.ai/blog?id=qwen3.6",
-      "author": "qwen.ai"
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "author": "mintlify.com"
     },
     {
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "url": "https://lemonade-server.ai",
-      "author": "lemonade-server.ai"
+      "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+      "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+      "author": "arstechnica.com"
     },
     {
-      "title": "OpenAI Acquires TBPN",
-      "url": "https://openai.com/index/openai-acquires-tbpn/",
-      "author": "openai.com"
+      "title": "Show HN: ctx – an Agentic Development Environment (ADE)",
+      "url": "https://ctx.rs",
+      "author": "ctx.rs"
     },
     {
-      "title": "A $20/month user costs OpenAI $65 in compute. AI video is a money furnace",
-      "url": "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
-      "author": "aedelon777.substack.com"
+      "title": "How 1 Missing Line of Code Cost Anthropic $340 Billion",
+      "url": "https://dev.to/syedahmershah/how-1-missing-line-of-code-cost-anthropic-340-billion-n23",
+      "author": "Syed Ahmer Shah"
     },
     {
-      "title": "Activating Two Trap Cards at Once, or: A Gentle Response to the Popularity of Vibecoding",
-      "url": "https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735",
-      "author": "Corbin"
+      "title": "De front-end para UX, e de volta ao código: o que significa ser Design Engineer em 2026",
+      "url": "https://dev.to/vitoriazzp/de-front-end-para-ux-e-de-volta-ao-codigo-o-que-significa-ser-design-engineer-em-2026-3j74",
+      "author": "vitoriazzp"
     },
     {
-      "title": "The Architect’s Reflection: The 5D Middleware",
-      "url": "https://medium.com/coinmonks/the-architects-reflection-the-5d-middleware-6feebc3101bf",
-      "author": "Pee Dee is Imperfect"
-    },
-    {
-      "title": "I Am a Software Engineer Teaching Myself AI Engineering. Here Is Where I Am Starting.",
-      "url": "https://sayurusadaru12.medium.com/i-am-a-software-engineer-teaching-myself-ai-engineering-here-is-where-i-am-starting-b1256b335a85",
-      "author": "SayuruSandaru"
-    },
-    {
-      "title": "Why OpenAI’s TBPN Acquisition Is a Turning Point for Enterprise AI",
-      "url": "https://medium.com/@sebuzdugan/why-openais-tbpn-acquisition-is-a-turning-point-for-enterprise-ai-c96cebbfdd67",
-      "author": "Sebastian Buzdugan"
+      "title": "Kids groups say they didn't know OpenAI was behind their child safety coalition",
+      "url": "https://sfstandard.com/2026/04/01/openai-ai-kids-safety-coalition/",
+      "author": "sfstandard.com"
     }
   ],
   "repos": [
     {
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
-      "stars": 36737,
-      "language": ""
-    },
-    {
-      "name": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "stars": 12466,
-      "language": "TypeScript"
-    },
-    {
-      "name": "Gitlawb/openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
-      "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
-      "stars": 8254,
-      "language": "TypeScript"
-    },
-    {
-      "name": "Kuberwastaken/claurst",
-      "url": "https://github.com/Kuberwastaken/claurst",
-      "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries",
-      "stars": 7494,
-      "language": "Rust"
-    },
-    {
-      "name": "MervinPraison/PraisonAI",
-      "url": "https://github.com/MervinPraison/PraisonAI",
-      "description": "PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, g",
-      "stars": 6359,
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "stars": 37124,
       "language": "Python"
     },
     {
-      "name": "zai-org/GLM-OCR",
-      "url": "https://github.com/zai-org/GLM-OCR",
-      "description": "GLM-OCR: Accurate × Fast × Comprehensive",
-      "stars": 5282,
+      "name": "hsliuping/TradingAgents-CN",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "stars": 23290,
       "language": "Python"
     },
     {
-      "name": "tvytlx/ai-agent-deep-dive",
-      "url": "https://github.com/tvytlx/ai-agent-deep-dive",
-      "description": "AI Agent 源码深度研究报告",
-      "stars": 4777,
+      "name": "oumi-ai/oumi",
+      "url": "https://github.com/oumi-ai/oumi",
+      "description": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!",
+      "stars": 9132,
       "language": "Python"
     },
     {
-      "name": "VoltAgent/awesome-design-md",
-      "url": "https://github.com/VoltAgent/awesome-design-md",
-      "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.",
-      "stars": 3925,
-      "language": "HTML"
-    },
-    {
-      "name": "JackChen-me/open-multi-agent",
-      "url": "https://github.com/JackChen-me/open-multi-agent",
-      "description": "Lightweight multi-agent framework — describe a goal, the framework auto-decomposes it into tasks and runs them in parallel. Works with Claude, GPT, and local models.",
-      "stars": 2804,
-      "language": "TypeScript"
-    },
-    {
-      "name": "codeany-ai/open-agent-sdk-typescript",
-      "url": "https://github.com/codeany-ai/open-agent-sdk-typescript",
-      "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source",
-      "stars": 2201,
-      "language": "TypeScript"
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 7138,
+      "language": "Python"
     }
   ],
   "tweets": []

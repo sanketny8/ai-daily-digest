@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-04</strong></summary>
+
+#### Papers
+1. **[LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model](https://arxiv.org/abs/2603.27449)** — This paper addresses challenges in human-object manipulation using a novel learning model.
+2. **[Signals: Trajectory Sampling and Triage for Agentic Interactions](https://arxiv.org/abs/2604.00356)** — Explores multi-step interactions in agentic applications, enhancing planning and feedback mechanisms.
+3. **[Forecasting Supply Chain Disruptions with Foresight Learning](https://arxiv.org/abs/2604.01298)** — Introduces methods to anticipate supply chain disruptions, improving reliability in high-impact event reasoning.
+4. **[CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658)** — Proposes a framework for autonomous multi-agent evolution to facilitate open-ended discovery.
+5. **[Video Models Reason Early: Exploiting Plan Commitment for Maze Solving](https://arxiv.org/abs/2603.30043)** — Investigates reasoning capabilities of video diffusion models in solving mazes and puzzles.
+6. **[Therefore I am. I Think](https://arxiv.org/abs/2604.01202)** — Examines decision-making processes in large language models, questioning the order of thought and decision.
+7. **[MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines](https://arxiv.org/abs/2603.06679)** — Discusses advancements in interactive simulation and user control in multiplayer game environments.
+8. **[NearID: Identity Representation Learning via Near-identity Distractors](https://arxiv.org/abs/2604.01973)** — Addresses challenges in identity-focused tasks by improving representation learning in vision encoders.
+9. **[Working Notes on Late Interaction Dynamics: Analyzing Targeted Behaviors of Late Interaction Models](https://arxiv.org/abs/2603.26259)** — Analyzes dynamics of late interaction models to uncover performance bottlenecks.
+10. **[VOID: Video Object and Interaction Deletion](http://arxiv.org/abs/2604.02296v1)** — Proposes methods for effective video object removal while maintaining visual consistency.
+
+#### Blog Posts
+1. **[We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)** by mintlify.com
+2. **["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)** by arstechnica.com
+3. **[Show HN: ctx – an Agentic Development Environment (ADE)](https://ctx.rs)** by ctx.rs
+4. **[How 1 Missing Line of Code Cost Anthropic $340 Billion](https://dev.to/syedahmershah/how-1-missing-line-of-code-cost-anthropic-340-billion-n23)** by Syed Ahmer Shah
+5. **[De front-end para UX, e de volta ao código: o que significa ser Design Engineer em 2026](https://dev.to/vitoriazzp/de-front-end-para-ux-e-de-volta-ao-codigo-o-que-significa-ser-design-engineer-em-2026-3j74)** by vitoriazzp
+6. **[Kids groups say they didn't know OpenAI was behind their child safety coalition](https://sfstandard.com/2026/04/01/openai-ai-kids-safety-coalition/)** by sfstandard.com
+
+#### Trending Repos
+1. **[microsoft/BitNet](https://github.com/microsoft/BitNet)** — Official inference framework for 1-bit LLMs. ⭐ 37124
+2. **[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)** — 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版. ⭐ 23290
+3. **[oumi-ai/oumi](https://github.com/oumi-ai/oumi)** — Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM! ⭐ 9132
+4. **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** — Hindsight: Agent Memory That Learns. ⭐ 7138
+
+</details>
+
+<details>
 <summary><strong>2026-04-03</strong></summary>
 
 #### Papers
