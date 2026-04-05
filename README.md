@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-05</strong></summary>
+
+#### Papers
+1. **[ActionParty: Multi-Subject Action Binding in Generative Video Games](http://arxiv.org/abs/2604.02330v1)** — This paper explores multi-agent interactions in generative video games using advanced video diffusion techniques.
+2. **[Steerable Visual Representations](http://arxiv.org/abs/2604.02327v1)** — Investigates the application of pretrained Vision Transformers for various image tasks like classification and segmentation.
+3. **[Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation](http://arxiv.org/abs/2604.02324v1)** — Discusses initializing new vocabulary tokens in language models for improved domain-specific generative recommendations.
+4. **[Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning](http://arxiv.org/abs/2604.02322v1)** — Proposes methods to enhance efficiency in large language models by reducing token consumption during reasoning.
+5. **[No Single Best Model for Diversity: Learning a Router for Sample Diversity](http://arxiv.org/abs/2604.02319v1)** — Examines techniques for generating diverse responses to prompts in language models, enhancing user satisfaction.
+6. **[Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models](http://arxiv.org/abs/2604.02315v1)** — Explores how language models can be evaluated beyond just generating responses, focusing on user interaction awareness.
+7. **[Topological Effects in Neural Network Field Theory](http://arxiv.org/abs/2604.02313v1)** — Extends neural network field theory to include topological aspects, providing new insights into network architectures.
+8. **[go-$m$HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices](http://arxiv.org/abs/2604.02309v1)** — Addresses the challenge of efficiently parameterizing doubly stochastic matrices in neural networks.
+9. **[VOID: Video Object and Interaction Deletion](http://arxiv.org/abs/2604.02296v1)** — Introduces a method for effectively removing objects from videos while maintaining visual consistency.
+10. **[Taming the Exponential: A Fast Softmax Surrogate for Integer-Native Edge Inference](http://arxiv.org/abs/2604.02292v1)** — Proposes a surrogate for softmax to improve computational efficiency in transformer models during inference.
+
+#### Blog Posts
+1. **[Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function)** by anthropic.com
+2. **[Show HN: sllm – Split a GPU node with other developers, unlimited tokens](https://sllm.cloud)** by sllm.cloud
+3. **[A case study in testing with 100+ Claude agents in parallel](https://imbue.com/product/mngr_part_2/)** by imbue.com
+4. **[Functional programming accelerates agentic feature development](https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai)** by cyrusradfar.com
+5. **[A CSS Engine in OCaml](https://gazagnaire.org/blog/2026-04-02-cascade.html)** by op
+6. **[Best Tools for Polymarket Traders in 2026 (Including Polycool)](https://medium.com/@oxgideon/best-tools-for-polymarket-traders-in-2026-including-polycool-51163ab46e35)** by Gideon
+7. **[Liinkz vs Thumbtack vs TaskRabbit vs Angi](https://medium.com/@farsi.masoud/liinkz-vs-thumbtack-vs-taskrabbit-vs-angi-745a0e540560)** by Farsi Masoud
+
+#### Trending Repos
+1. **[block/goose](https://github.com/block/goose)** — An open source AI agent that goes beyond code suggestions. ⭐ 35840
+2. **[HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)** — Simple and fast retrieval-augmented generation model. ⭐ 32149
+3. **[ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm)** — Run LLMs with MLX. ⭐ 4439
+4. **[HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)** — Open Agent Harness for AI applications. ⭐ 3890
+5. **[Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** — Inference and fine-tuning of Vision Language Models on Mac. ⭐ 3688
+
+</details>
+
+<details>
 <summary><strong>2026-04-04</strong></summary>
 
 #### Papers

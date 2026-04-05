@@ -1,116 +1,128 @@
 {
-  "date": "2026-04-04",
+  "date": "2026-04-05",
   "papers": [
     {
-      "title": "LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model",
-      "url": "https://arxiv.org/abs/2603.27449",
-      "summary": "Learning human-object manipulation presents significant challenges due to its fine-grained and contact-rich nature of the motions involved. Traditional physics-based animation requires extensive model"
+      "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "url": "http://arxiv.org/abs/2604.02330v1",
+      "summary": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,"
     },
     {
-      "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
-      "url": "https://arxiv.org/abs/2604.00356",
-      "summary": "Agentic applications based on large language models increasingly rely on multi-step interaction loops involving planning, action execution, and environment feedback. While such systems are now deploye"
+      "title": "Steerable Visual Representations",
+      "url": "http://arxiv.org/abs/2604.02327v1",
+      "summary": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho"
     },
     {
-      "title": "An Empirical Recipe for Universal Phone Recognition",
-      "url": "https://arxiv.org/abs/2603.29042",
-      "summary": "Phone recognition (PR) is a key enabler of multilingual and low-resource speech processing tasks, yet robust performance remains elusive. Highly performant English-focused models do not generalize acr"
+      "title": "Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2604.02324v1",
+      "summary": "Language models (LMs) are increasingly extended with new learnable vocabulary tokens for domain-specific tasks, such as Semantic-ID tokens in generative recommendation. The standard practice initializ"
     },
     {
-      "title": "Forecasting Supply Chain Disruptions with Foresight Learning",
-      "url": "https://arxiv.org/abs/2604.01298",
-      "summary": "Anticipating supply chain disruptions before they materialize is a core challenge for firms and policymakers alike. A key difficulty is learning to reason reliably about infrequent, high-impact events"
+      "title": "Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+      "url": "http://arxiv.org/abs/2604.02322v1",
+      "summary": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as exp"
     },
     {
-      "title": "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery",
-      "url": "https://arxiv.org/abs/2604.01658",
-      "summary": "Large language model (LLM)-based evolution is a promising approach for open-ended discovery, where progress requires sustained search and knowledge accumulation. Existing methods still rely heavily on"
+      "title": "No Single Best Model for Diversity: Learning a Router for Sample Diversity",
+      "url": "http://arxiv.org/abs/2604.02319v1",
+      "summary": "When posed with prompts that permit a large number of valid answers, comprehensively generating them is the first step towards satisfying a wide range of users. In this paper, we study methods to elic"
     },
     {
-      "title": "Video Models Reason Early: Exploiting Plan Commitment for Maze Solving",
-      "url": "https://arxiv.org/abs/2603.30043",
-      "summary": "Video diffusion models exhibit emergent reasoning capabilities like solving mazes and puzzles, yet little is understood about how they reason during generation. We take a first step towards understand"
+      "title": "Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models",
+      "url": "http://arxiv.org/abs/2604.02315v1",
+      "summary": "Standard LLM benchmarks evaluate the assistant turn: the model generates a response to an input, a verifier scores correctness, and the analysis ends. This paradigm leaves unmeasured whether the LLM e"
     },
     {
-      "title": "Therefore I am. I Think",
-      "url": "https://arxiv.org/abs/2604.01202",
-      "summary": "We consider the question: when a large language reasoning model makes a choice, did it think first and then decide to, or decide first and then think? In this paper, we present evidence that detectabl"
+      "title": "Topological Effects in Neural Network Field Theory",
+      "url": "http://arxiv.org/abs/2604.02313v1",
+      "summary": "Neural network field theory formulates field theory as a statistical ensemble of fields defined by a network architecture and a density on its parameters. We extend the construction to topological set"
     },
     {
-      "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
-      "url": "https://arxiv.org/abs/2603.06679",
-      "summary": "Video world models have shown immense promise for interactive simulation and entertainment, but current systems still struggle with two important aspects of interactivity: user control over the enviro"
+      "title": "go-$m$HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices",
+      "url": "http://arxiv.org/abs/2604.02309v1",
+      "summary": "Doubly stochastic matrices enable learned mixing across residual streams, but parameterizing the set of doubly stochastic matrices (the Birkhoff polytope) exactly and efficiently remains an open chall"
     },
     {
-      "title": "NearID: Identity Representation Learning via Near-identity Distractors",
-      "url": "https://arxiv.org/abs/2604.01973",
-      "summary": "When evaluating identity-focused tasks such as personalized generation and image editing, existing vision encoders entangle object identity with background context, leading to unreliable representatio"
+      "title": "VOID: Video Object and Interaction Deletion",
+      "url": "http://arxiv.org/abs/2604.02296v1",
+      "summary": "Existing video object removal methods excel at inpainting content \"behind\" the object and correcting appearance-level artifacts such as shadows and reflections. However, when the removed object has mo"
     },
     {
-      "title": "Working Notes on Late Interaction Dynamics: Analyzing Targeted Behaviors of Late Interaction Models",
-      "url": "https://arxiv.org/abs/2603.26259",
-      "summary": "While Late Interaction models exhibit strong retrieval performance, many of their underlying dynamics remain understudied, potentially hiding performance bottlenecks. In this work, we focus on two top"
+      "title": "Taming the Exponential: A Fast Softmax Surrogate for Integer-Native Edge Inference",
+      "url": "http://arxiv.org/abs/2604.02292v1",
+      "summary": "Softmax can become a computational bottleneck in the Transformer model's Multi-Head Attention (MHA) block, particularly in small models under low-precision inference, where exponentiation and normaliz"
     }
   ],
   "blog_posts": [
     {
-      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "author": "mintlify.com"
+      "title": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "author": "anthropic.com"
     },
     {
-      "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-      "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
-      "author": "arstechnica.com"
+      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "url": "https://sllm.cloud",
+      "author": "sllm.cloud"
     },
     {
-      "title": "Show HN: ctx – an Agentic Development Environment (ADE)",
-      "url": "https://ctx.rs",
-      "author": "ctx.rs"
+      "title": "A case study in testing with 100+ Claude agents in parallel",
+      "url": "https://imbue.com/product/mngr_part_2/",
+      "author": "imbue.com"
     },
     {
-      "title": "How 1 Missing Line of Code Cost Anthropic $340 Billion",
-      "url": "https://dev.to/syedahmershah/how-1-missing-line-of-code-cost-anthropic-340-billion-n23",
-      "author": "Syed Ahmer Shah"
+      "title": "Functional programming accelerates agentic feature development",
+      "url": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
+      "author": "cyrusradfar.com"
     },
     {
-      "title": "De front-end para UX, e de volta ao código: o que significa ser Design Engineer em 2026",
-      "url": "https://dev.to/vitoriazzp/de-front-end-para-ux-e-de-volta-ao-codigo-o-que-significa-ser-design-engineer-em-2026-3j74",
-      "author": "vitoriazzp"
+      "title": "A CSS Engine in OCaml",
+      "url": "https://gazagnaire.org/blog/2026-04-02-cascade.html",
+      "author": "op"
     },
     {
-      "title": "Kids groups say they didn't know OpenAI was behind their child safety coalition",
-      "url": "https://sfstandard.com/2026/04/01/openai-ai-kids-safety-coalition/",
-      "author": "sfstandard.com"
+      "title": "Best Tools for Polymarket Traders in 2026 (Including Polycool)",
+      "url": "https://medium.com/@oxgideon/best-tools-for-polymarket-traders-in-2026-including-polycool-51163ab46e35",
+      "author": "Gideon"
+    },
+    {
+      "title": "Liinkz vs Thumbtack vs TaskRabbit vs Angi",
+      "url": "https://medium.com/@farsi.masoud/liinkz-vs-thumbtack-vs-taskrabbit-vs-angi-745a0e540560",
+      "author": "Farsi Masoud"
     }
   ],
   "repos": [
     {
-      "name": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "stars": 37124,
+      "name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 35840,
+      "language": "Rust"
+    },
+    {
+      "name": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "stars": 32149,
       "language": "Python"
     },
     {
-      "name": "hsliuping/TradingAgents-CN",
-      "url": "https://github.com/hsliuping/TradingAgents-CN",
-      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "stars": 23290,
+      "name": "ml-explore/mlx-lm",
+      "url": "https://github.com/ml-explore/mlx-lm",
+      "description": "Run LLMs with MLX",
+      "stars": 4439,
       "language": "Python"
     },
     {
-      "name": "oumi-ai/oumi",
-      "url": "https://github.com/oumi-ai/oumi",
-      "description": "Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!",
-      "stars": 9132,
+      "name": "HKUDS/OpenHarness",
+      "url": "https://github.com/HKUDS/OpenHarness",
+      "description": "\"OpenHarness: Open Agent Harness\"",
+      "stars": 3890,
       "language": "Python"
     },
     {
-      "name": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "stars": 7138,
+      "name": "Blaizzy/mlx-vlm",
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "stars": 3688,
       "language": "Python"
     }
   ],
