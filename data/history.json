@@ -256,5 +256,34 @@
       "https://github.com/HKUDS/OpenHarness",
       "https://github.com/Blaizzy/mlx-vlm"
     ]
+  },
+  "2026-04-06": {
+    "papers": [
+      "https://arxiv.org/abs/2604.02870",
+      "https://arxiv.org/abs/2604.02317",
+      "https://arxiv.org/abs/2604.03128",
+      "https://arxiv.org/abs/2604.03016",
+      "https://arxiv.org/abs/2604.02947",
+      "https://arxiv.org/abs/2604.02368",
+      "https://arxiv.org/abs/2604.03231",
+      "https://arxiv.org/abs/2604.03144",
+      "http://arxiv.org/abs/2604.03226v1",
+      "http://arxiv.org/abs/2604.03216v1"
+    ],
+    "blogs": [
+      "https://github.com/arman-bd/guppylm",
+      "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
+      "https://github.com/kessler/gemma-gem",
+      "https://twitter.com/openrouter/status/2040239467865489874",
+      "https://newclawtimes.com/articles/iran-irgc-satellite-imagery-openai-stargate-abu-dhabi-datacenter-threat/",
+      "https://medium.com/@dwabi.ai/the-social-proof-multiplier-how-ai-is-automating-brand-authority-in-2026-203ac10d745e"
+    ],
+    "repos": [
+      "https://github.com/badlogic/pi-mono",
+      "https://github.com/google-ai-edge/gallery",
+      "https://github.com/HKUDS/RAG-Anything",
+      "https://github.com/google-deepmind/gemma"
+    ]
   }
 }

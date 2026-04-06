@@ -1,128 +1,121 @@
 {
-  "date": "2026-04-05",
+  "date": "2026-04-06",
   "papers": [
     {
-      "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
-      "url": "http://arxiv.org/abs/2604.02330v1",
-      "summary": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,"
+      "title": "Token Warping Helps MLLMs Look from Nearby Viewpoints",
+      "url": "https://arxiv.org/abs/2604.02870",
+      "summary": "Can warping tokens, rather than pixels, help multimodal large language models (MLLMs) understand how a scene appears from a nearby viewpoint? While MLLMs perform well on visual reasoning, they remain "
     },
     {
-      "title": "Steerable Visual Representations",
-      "url": "http://arxiv.org/abs/2604.02327v1",
-      "summary": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho"
+      "title": "A Simple Baseline for Streaming Video Understanding",
+      "url": "https://arxiv.org/abs/2604.02317",
+      "summary": "Recent streaming video understanding methods increasingly rely on complex memory mechanisms to handle long video streams. We challenge this trend with a simple finding: a sliding-window baseline that "
     },
     {
-      "title": "Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation",
-      "url": "http://arxiv.org/abs/2604.02324v1",
-      "summary": "Language models (LMs) are increasingly extended with new learnable vocabulary tokens for domain-specific tasks, such as Semantic-ID tokens in generative recommendation. The standard practice initializ"
+      "title": "Self-Distilled RLVR",
+      "url": "https://arxiv.org/abs/2604.03128",
+      "summary": "On-policy distillation (OPD) has become a popular training paradigm in the LLM community. This paradigm selects a larger model as the teacher to provide dense, fine-grained signals for each sampled tr"
     },
     {
-      "title": "Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
-      "url": "http://arxiv.org/abs/2604.02322v1",
-      "summary": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as exp"
+      "title": "Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?",
+      "url": "https://arxiv.org/abs/2604.03016",
+      "summary": "Multimodal Large Language Models (MLLMs) are evolving from passive observers into active agents, solving problems through Visual Expansion (invoking visual tools) and Knowledge Expansion (open-web sea"
     },
     {
-      "title": "No Single Best Model for Diversity: Learning a Router for Sample Diversity",
-      "url": "http://arxiv.org/abs/2604.02319v1",
-      "summary": "When posed with prompts that permit a large number of valid answers, comprehensively generating them is the first step towards satisfying a wide range of users. In this paper, we study methods to elic"
+      "title": "AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2604.02947",
+      "summary": "Computer-use agents extend language models from text generation to persistent action over tools, files, and execution environments. Unlike chat systems, they maintain state across interactions and tra"
     },
     {
-      "title": "Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models",
-      "url": "http://arxiv.org/abs/2604.02315v1",
-      "summary": "Standard LLM benchmarks evaluate the assistant turn: the model generates a response to an input, a verifier scores correctness, and the analysis ends. This paradigm leaves unmeasured whether the LLM e"
+      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+      "url": "https://arxiv.org/abs/2604.02368",
+      "summary": "As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuin"
     },
     {
-      "title": "Topological Effects in Neural Network Field Theory",
-      "url": "http://arxiv.org/abs/2604.02313v1",
-      "summary": "Neural network field theory formulates field theory as a statistical ensemble of fields defined by a network architecture and a density on its parameters. We extend the construction to topological set"
+      "title": "CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning",
+      "url": "https://arxiv.org/abs/2604.03231",
+      "summary": "Recent vision-language models (VLMs) typically rely on a single vision encoder trained with contrastive image-text objectives, such as CLIP-style pretraining. While contrastive encoders are effective "
     },
     {
-      "title": "go-$m$HC: Direct Parameterization of Manifold-Constrained Hyper-Connections via Generalized Orthostochastic Matrices",
-      "url": "http://arxiv.org/abs/2604.02309v1",
-      "summary": "Doubly stochastic matrices enable learned mixing across residual streams, but parameterizing the set of doubly stochastic matrices (the Birkhoff polytope) exactly and efficiently remains an open chall"
+      "title": "InCoder-32B-Thinking: Industrial Code World Model for Thinking",
+      "url": "https://arxiv.org/abs/2604.03144",
+      "summary": "Industrial software development across chip design, GPU optimization, and embedded systems lacks expert reasoning traces showing how engineers reason about hardware constraints and timing semantics. I"
     },
     {
-      "title": "VOID: Video Object and Interaction Deletion",
-      "url": "http://arxiv.org/abs/2604.02296v1",
-      "summary": "Existing video object removal methods excel at inpainting content \"behind\" the object and correcting appearance-level artifacts such as shadows and reflections. However, when the removed object has mo"
+      "title": "Enhancing Robustness of Federated Learning via Server Learning",
+      "url": "http://arxiv.org/abs/2604.03226v1",
+      "summary": "This paper explores the use of server learning for enhancing the robustness of federated learning against malicious attacks even when clients' training data are not independent and identically distrib"
     },
     {
-      "title": "Taming the Exponential: A Fast Softmax Surrogate for Integer-Native Edge Inference",
-      "url": "http://arxiv.org/abs/2604.02292v1",
-      "summary": "Softmax can become a computational bottleneck in the Transformer model's Multi-Head Attention (MHA) block, particularly in small models under low-precision inference, where exponentiation and normaliz"
+      "title": "BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence",
+      "url": "http://arxiv.org/abs/2604.03216v1",
+      "summary": "Large language models (LLMs) often produce confident but incorrect answers in settings where abstention would be safer. Standard evaluation protocols, however, require a response and do not account fo"
     }
   ],
   "blog_posts": [
     {
-      "title": "Emotion concepts and their function in a large language model",
-      "url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "author": "anthropic.com"
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "url": "https://github.com/arman-bd/guppylm",
+      "author": "github.com"
     },
     {
-      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-      "url": "https://sllm.cloud",
-      "author": "sllm.cloud"
+      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "author": "ai.georgeliu.com"
     },
     {
-      "title": "A case study in testing with 100+ Claude agents in parallel",
-      "url": "https://imbue.com/product/mngr_part_2/",
-      "author": "imbue.com"
+      "title": "OpenAI's fall from grace as investors race to Anthropic",
+      "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
+      "author": "latimes.com"
     },
     {
-      "title": "Functional programming accelerates agentic feature development",
-      "url": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
-      "author": "cyrusradfar.com"
+      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "url": "https://github.com/kessler/gemma-gem",
+      "author": "github.com"
     },
     {
-      "title": "A CSS Engine in OCaml",
-      "url": "https://gazagnaire.org/blog/2026-04-02-cascade.html",
-      "author": "op"
+      "title": "Qwen-3.6-Plus is the first model to break 1T tokens processed in a day",
+      "url": "https://twitter.com/openrouter/status/2040239467865489874",
+      "author": "twitter.com"
     },
     {
-      "title": "Best Tools for Polymarket Traders in 2026 (Including Polycool)",
-      "url": "https://medium.com/@oxgideon/best-tools-for-polymarket-traders-in-2026-including-polycool-51163ab46e35",
-      "author": "Gideon"
+      "title": "Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter",
+      "url": "https://newclawtimes.com/articles/iran-irgc-satellite-imagery-openai-stargate-abu-dhabi-datacenter-threat/",
+      "author": "newclawtimes.com"
     },
     {
-      "title": "Liinkz vs Thumbtack vs TaskRabbit vs Angi",
-      "url": "https://medium.com/@farsi.masoud/liinkz-vs-thumbtack-vs-taskrabbit-vs-angi-745a0e540560",
-      "author": "Farsi Masoud"
+      "title": "The Social Proof Multiplier: How AI Is Automating Brand Authority in 2026",
+      "url": "https://medium.com/@dwabi.ai/the-social-proof-multiplier-how-ai-is-automating-brand-authority-in-2026-203ac10d745e",
+      "author": "Dwabi AI"
     }
   ],
   "repos": [
     {
-      "name": "block/goose",
-      "url": "https://github.com/block/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": 35840,
-      "language": "Rust"
+      "name": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods",
+      "stars": 32051,
+      "language": "TypeScript"
     },
     {
-      "name": "HKUDS/LightRAG",
-      "url": "https://github.com/HKUDS/LightRAG",
-      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-      "stars": 32149,
+      "name": "google-ai-edge/gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "stars": 17258,
+      "language": "Kotlin"
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "stars": 15252,
       "language": "Python"
     },
     {
-      "name": "ml-explore/mlx-lm",
-      "url": "https://github.com/ml-explore/mlx-lm",
-      "description": "Run LLMs with MLX",
-      "stars": 4439,
-      "language": "Python"
-    },
-    {
-      "name": "HKUDS/OpenHarness",
-      "url": "https://github.com/HKUDS/OpenHarness",
-      "description": "\"OpenHarness: Open Agent Harness\"",
-      "stars": 3890,
-      "language": "Python"
-    },
-    {
-      "name": "Blaizzy/mlx-vlm",
-      "url": "https://github.com/Blaizzy/mlx-vlm",
-      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-      "stars": 3688,
+      "name": "google-deepmind/gemma",
+      "url": "https://github.com/google-deepmind/gemma",
+      "description": "Gemma open-weight LLM library, from Google DeepMind",
+      "stars": 4441,
       "language": "Python"
     }
   ],

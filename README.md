@@ -10,6 +10,36 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-06</strong></summary>
+
+#### Papers
+1. **[Token Warping Helps MLLMs Look from Nearby Viewpoints](https://arxiv.org/abs/2604.02870)** — Investigates whether warping tokens can enhance multimodal large language models' understanding of scenes from different perspectives.
+2. **[A Simple Baseline for Streaming Video Understanding](https://arxiv.org/abs/2604.02317)** — Proposes a straightforward sliding-window method for streaming video understanding, challenging complex memory-based approaches.
+3. **[Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?](https://arxiv.org/abs/2604.03016)** — Explores the evolution of multimodal language models into active problem solvers using visual and knowledge expansion techniques.
+4. **[AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents](https://arxiv.org/abs/2604.02947)** — Introduces a benchmark to assess harmful behaviors in agents that interact with tools and maintain state across sessions.
+5. **[Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation](https://arxiv.org/abs/2604.02368)** — Addresses the challenge of evaluating large language models on complex tasks with a new rubric-based evaluation framework.
+6. **[Enhancing Robustness of Federated Learning via Server Learning](http://arxiv.org/abs/2604.03226v1)** — Examines how server learning can improve federated learning's resilience against malicious attacks on client data.
+7. **[Learning the Signature of Memorization in Autoregressive Language Models](http://arxiv.org/abs/2604.03199v1)** — Investigates how membership inference attacks can be improved by understanding memorization patterns in language models.
+8. **[Real-Time Surrogate Modeling for Personalized Blood Flow Prediction and Hemodynamic Analysis](http://arxiv.org/abs/2604.03197v1)** — Discusses advancements in cardiovascular modeling for early detection of diseases using real-time data analysis.
+9. **[Reliability Gated Multi-Teacher Distillation for Low Resource Abstractive Summarization](http://arxiv.org/abs/2604.03192v1)** — Proposes a new approach to knowledge distillation for summarization tasks, focusing on reliability in low-resource settings.
+10. **[The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling](http://arxiv.org/abs/2604.03191v1)** — Analyzes the limitations of discrete tokenization in scaling vision-language-action models for improved performance.
+
+#### Blog Posts
+1. **[Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)** by github.com
+2. **[Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with)** by ai.georgeliu.com
+3. **[OpenAI's fall from grace as investors race to Anthropic](https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic)** by latimes.com
+4. **[Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter](https://newclawtimes.com/articles/iran-irgc-satellite-imagery-openai-stargate-abu-dhabi-datacenter-threat/)** by newclawtimes.com
+5. **[The Social Proof Multiplier: How AI Is Automating Brand Authority in 2026](https://medium.com/@dwabi.ai/the-social-proof-multiplier-how-ai-is-automating-brand-authority-in-2026-203ac10d745e)** by Dwabi AI
+
+#### Trending Repos
+1. **[badlogic/pi-mono](https://github.com/badlogic/pi-mono)** — AI agent toolkit with various features including a coding agent CLI and unified LLM API. ⭐ 32051
+2. **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** — Showcases on-device ML/GenAI use cases and allows local model experimentation. ⭐ 17258
+3. **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** — An all-in-one framework for retrieval-augmented generation tasks. ⭐ 15252
+4. **[google-deepmind/gemma](https://github.com/google-deepmind/gemma)** — Open-weight LLM library from Google DeepMind. ⭐ 4441
+
+</details>
+
+<details>
 <summary><strong>2026-04-05</strong></summary>
 
 #### Papers
