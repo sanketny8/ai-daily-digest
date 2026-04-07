@@ -1,121 +1,146 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "papers": [
     {
-      "title": "Token Warping Helps MLLMs Look from Nearby Viewpoints",
-      "url": "https://arxiv.org/abs/2604.02870",
-      "summary": "Can warping tokens, rather than pixels, help multimodal large language models (MLLMs) understand how a scene appears from a nearby viewpoint? While MLLMs perform well on visual reasoning, they remain "
+      "title": "AvatarPointillist: AutoRegressive 4D Gaussian Avatarization",
+      "url": "https://arxiv.org/abs/2604.04787",
+      "summary": "We introduce AvatarPointillist, a novel framework for generating dynamic 4D Gaussian avatars from a single portrait image. At the core of our method is a decoder-only Transformer that autoregressively"
     },
     {
-      "title": "A Simple Baseline for Streaming Video Understanding",
-      "url": "https://arxiv.org/abs/2604.02317",
-      "summary": "Recent streaming video understanding methods increasingly rely on complex memory mechanisms to handle long video streams. We challenge this trend with a simple finding: a sliding-window baseline that "
+      "title": "Can LLMs Learn to Reason Robustly under Noisy Supervision?",
+      "url": "https://arxiv.org/abs/2604.03993",
+      "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) effectively trains reasoning models that rely on abundant perfect labels, but its vulnerability to unavoidable noisy labels due to expert scarcity"
     },
     {
-      "title": "Self-Distilled RLVR",
-      "url": "https://arxiv.org/abs/2604.03128",
-      "summary": "On-policy distillation (OPD) has become a popular training paradigm in the LLM community. This paradigm selects a larger model as the teacher to provide dense, fine-grained signals for each sampled tr"
+      "title": "HDP: A Lightweight Cryptographic Protocol for Human Delegation Provenance in Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2604.04522",
+      "summary": "Agentic AI systems increasingly execute consequential actions on behalf of human principals, delegating tasks through multi-step chains of autonomous agents. No existing standard addresses a fundament"
     },
     {
-      "title": "Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?",
-      "url": "https://arxiv.org/abs/2604.03016",
-      "summary": "Multimodal Large Language Models (MLLMs) are evolving from passive observers into active agents, solving problems through Visual Expansion (invoking visual tools) and Knowledge Expansion (open-web sea"
+      "title": "OpenWorldLib: A Unified Codebase and Definition of Advanced World Models",
+      "url": "https://arxiv.org/abs/2604.04707",
+      "summary": "World models have garnered significant attention as a promising research direction in artificial intelligence, yet a clear and unified definition remains lacking. In this paper, we introduce OpenWorld"
     },
     {
-      "title": "AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents",
-      "url": "https://arxiv.org/abs/2604.02947",
-      "summary": "Computer-use agents extend language models from text generation to persistent action over tools, files, and execution environments. Unlike chat systems, they maintain state across interactions and tra"
+      "title": "FileGram: Grounding Agent Personalization in File-System Behavioral Traces",
+      "url": "https://arxiv.org/abs/2604.04901",
+      "summary": "Coworking AI agents operating within local file systems are rapidly emerging as a paradigm in human-AI interaction; however, effective personalization remains limited by severe data constraints, as st"
     },
     {
-      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
-      "url": "https://arxiv.org/abs/2604.02368",
-      "summary": "As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuin"
+      "title": "LightThinker++: From Reasoning Compression to Memory Management",
+      "url": "https://arxiv.org/abs/2604.03679",
+      "summary": "Large language models (LLMs) excel at complex reasoning, yet their efficiency is limited by the surging cognitive overhead of long thought traces. In this paper, we propose LightThinker, a method that"
     },
     {
-      "title": "CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning",
-      "url": "https://arxiv.org/abs/2604.03231",
-      "summary": "Recent vision-language models (VLMs) typically rely on a single vision encoder trained with contrastive image-text objectives, such as CLIP-style pretraining. While contrastive encoders are effective "
+      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
+      "url": "https://arxiv.org/abs/2604.04921",
+      "summary": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE "
     },
     {
-      "title": "InCoder-32B-Thinking: Industrial Code World Model for Thinking",
-      "url": "https://arxiv.org/abs/2604.03144",
-      "summary": "Industrial software development across chip design, GPU optimization, and embedded systems lacks expert reasoning traces showing how engineers reason about hardware constraints and timing semantics. I"
+      "title": "MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale",
+      "url": "https://arxiv.org/abs/2604.04771",
+      "summary": "Current document parsing methods compete primarily on model architecture innovation, while systematic engineering of training data remains underexplored. Yet SOTA models of different architectures and"
     },
     {
-      "title": "Enhancing Robustness of Federated Learning via Server Learning",
-      "url": "http://arxiv.org/abs/2604.03226v1",
-      "summary": "This paper explores the use of server learning for enhancing the robustness of federated learning against malicious attacks even when clients' training data are not independent and identically distrib"
+      "title": "SkillX: Automatically Constructing Skill Knowledge Bases for Agents",
+      "url": "https://arxiv.org/abs/2604.04804",
+      "summary": "Learning from experience is critical for building capable large language model (LLM) agents, yet prevailing self-evolving paradigms remain inefficient: agents learn in isolation, repeatedly rediscover"
     },
     {
-      "title": "BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence",
-      "url": "http://arxiv.org/abs/2604.03216v1",
-      "summary": "Large language models (LLMs) often produce confident but incorrect answers in settings where abstention would be safer. Standard evaluation protocols, however, require a response and do not account fo"
+      "title": "ClawArena: Benchmarking AI Agents in Evolving Information Environments",
+      "url": "https://arxiv.org/abs/2604.04202",
+      "summary": "AI agents deployed as persistent assistants must maintain correct beliefs as their information environment evolves. In practice, evidence is scattered across heterogeneous sources that often contradic"
     }
   ],
   "blog_posts": [
     {
-      "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "url": "https://github.com/arman-bd/guppylm",
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
       "author": "github.com"
     },
     {
-      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-      "author": "ai.georgeliu.com"
+      "title": "Google Maps for Codebases: Paste a GitHub URL, Ask Anything",
+      "url": "https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8",
+      "author": "Anmol Baranwal"
     },
     {
-      "title": "OpenAI's fall from grace as investors race to Anthropic",
-      "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
-      "author": "latimes.com"
+      "title": "Reducto releases Deep Extract",
+      "url": "https://reducto.ai/blog/reducto-deep-extract-agent",
+      "author": "reducto.ai"
     },
     {
-      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
-      "url": "https://github.com/kessler/gemma-gem",
-      "author": "github.com"
+      "title": "What is an AI Agent Harness?",
+      "url": "https://medium.com/@aiquinta/what-is-an-ai-agent-harness-e9ae8a6addbe",
+      "author": "AIQuinta"
     },
     {
-      "title": "Qwen-3.6-Plus is the first model to break 1T tokens processed in a day",
-      "url": "https://twitter.com/openrouter/status/2040239467865489874",
-      "author": "twitter.com"
-    },
-    {
-      "title": "Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter",
-      "url": "https://newclawtimes.com/articles/iran-irgc-satellite-imagery-openai-stargate-abu-dhabi-datacenter-threat/",
-      "author": "newclawtimes.com"
-    },
-    {
-      "title": "The Social Proof Multiplier: How AI Is Automating Brand Authority in 2026",
-      "url": "https://medium.com/@dwabi.ai/the-social-proof-multiplier-how-ai-is-automating-brand-authority-in-2026-203ac10d745e",
-      "author": "Dwabi AI"
+      "title": "We Automated Everything…And Somehow Made Our System Worse",
+      "url": "https://medium.com/@pranavprakash4777/we-automated-everything-and-somehow-made-our-system-worse-54c2f2f85e3f",
+      "author": "Pranav Prakash I GenAI I AI/ML I DevOps I"
     }
   ],
   "repos": [
     {
-      "name": "badlogic/pi-mono",
-      "url": "https://github.com/badlogic/pi-mono",
-      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods",
-      "stars": 32051,
+      "name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "stars": 167857,
+      "language": "Go"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "stars": 102180,
+      "language": "C++"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 38374,
+      "language": "Rust"
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before",
+      "stars": 36823,
       "language": "TypeScript"
     },
     {
-      "name": "google-ai-edge/gallery",
-      "url": "https://github.com/google-ai-edge/gallery",
-      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "stars": 17258,
-      "language": "Kotlin"
+      "name": "kepano/obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+      "stars": 20919,
+      "language": ""
     },
     {
-      "name": "HKUDS/RAG-Anything",
-      "url": "https://github.com/HKUDS/RAG-Anything",
-      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "stars": 15252,
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": 11597,
       "language": "Python"
     },
     {
-      "name": "google-deepmind/gemma",
-      "url": "https://github.com/google-deepmind/gemma",
-      "description": "Gemma open-weight LLM library, from Google DeepMind",
-      "stars": 4441,
+      "name": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl",
+      "stars": 9393,
+      "language": "Python"
+    },
+    {
+      "name": "Jeffallan/claude-skills",
+      "url": "https://github.com/Jeffallan/claude-skills",
+      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "stars": 7928,
+      "language": "Python"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 4542,
       "language": "Python"
     }
   ],

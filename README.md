@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-07</strong></summary>
+
+#### Papers
+1. **[AvatarPointillist: AutoRegressive 4D Gaussian Avatarization](https://arxiv.org/abs/2604.04787)** — A new framework for creating dynamic 4D avatars from a single image using autoregressive methods.
+2. **[Can LLMs Learn to Reason Robustly under Noisy Supervision?](https://arxiv.org/abs/2604.03993)** — This paper explores how reinforcement learning can improve reasoning models despite noisy data.
+3. **[HDP: A Lightweight Cryptographic Protocol for Human Delegation Provenance in Agentic AI Systems](https://arxiv.org/abs/2604.04522)** — Proposes a new standard for tracking human delegation in AI systems to enhance accountability.
+4. **[OpenWorldLib: A Unified Codebase and Definition of Advanced World Models](https://arxiv.org/abs/2604.04707)** — Introduces a comprehensive framework for world models in AI, clarifying definitions and methodologies.
+5. **[FileGram: Grounding Agent Personalization in File-System Behavioral Traces](https://arxiv.org/abs/2604.04901)** — Discusses how AI agents can be personalized using behavioral data from file systems.
+6. **[LightThinker++: From Reasoning Compression to Memory Management](https://arxiv.org/abs/2604.03679)** — Presents a method to improve efficiency in large language models by managing cognitive overhead.
+7. **[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://arxiv.org/abs/2604.04921)** — Introduces a novel approach to reduce memory bottlenecks in long reasoning tasks for LLMs.
+8. **[SkillX: Automatically Constructing Skill Knowledge Bases for Agents](https://arxiv.org/abs/2604.04804)** — Proposes a method for agents to learn and share skills more effectively from experiences.
+9. **[ClawArena: Benchmarking AI Agents in Evolving Information Environments](https://arxiv.org/abs/2604.04202)** — Develops a benchmark for evaluating AI agents' adaptability in changing information landscapes.
+10. **[Vero: An Open RL Recipe for General Visual Reasoning](http://arxiv.org/abs/2604.04917v1)** — Explores building a versatile visual reasoner capable of handling diverse tasks across various domains.
+
+#### Blog Posts
+1. **[Issue: Claude Code is unusable for complex engineering tasks with Feb updates](https://github.com/anthropics/claude-code/issues/42796)** by github.com
+2. **[Google Maps for Codebases: Paste a GitHub URL, Ask Anything](https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8)** by Anmol Baranwal
+3. **[Reducto releases Deep Extract](https://reducto.ai/blog/reducto-deep-extract-agent)** by reducto.ai
+4. **[What is an AI Agent Harness?](https://medium.com/@aiquinta/what-is-an-ai-agent-harness-e9ae8a6addbe)** by AIQuinta
+5. **[We Automated Everything…And Somehow Made Our System Worse](https://medium.com/@pranavprakash4777/we-automated-everything-and-somehow-made-our-system-worse-54c2f2f85e3f)** by Pranav Prakash I GenAI I AI/ML I DevOps I
+
+#### Trending Repos
+1. **[ollama/ollama](https://github.com/ollama/ollama)** — Get up and running with various AI models. ⭐ 167857
+2. **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** — LLM inference in C/C++. ⭐ 102180
+3. **[aaif-goose/goose](https://github.com/aaif-goose/goose)** — An extensible AI agent for code suggestions and execution. ⭐ 38374
+4. **[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)** — An autonomous AI pentester for web applications. ⭐ 36823
+5. **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — Agent skills for Obsidian to enhance Markdown usage. ⭐ 20919
+6. **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** — Personalized learning assistant using AI agents. ⭐ 11597
+7. **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** — Unofficial Python API for Google NotebookLM. ⭐ 9393
+8. **[Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)** — Specialized skills for full-stack developers using Claude Code. ⭐ 7928
+9. **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** — A Claude Code skill that reduces token usage. ⭐ 4542
+
+</details>
+
+<details>
 <summary><strong>2026-04-06</strong></summary>
 
 #### Papers

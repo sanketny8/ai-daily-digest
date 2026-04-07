@@ -285,5 +285,37 @@
       "https://github.com/HKUDS/RAG-Anything",
       "https://github.com/google-deepmind/gemma"
     ]
+  },
+  "2026-04-07": {
+    "papers": [
+      "https://arxiv.org/abs/2604.04787",
+      "https://arxiv.org/abs/2604.03993",
+      "https://arxiv.org/abs/2604.04522",
+      "https://arxiv.org/abs/2604.04707",
+      "https://arxiv.org/abs/2604.04901",
+      "https://arxiv.org/abs/2604.03679",
+      "https://arxiv.org/abs/2604.04921",
+      "https://arxiv.org/abs/2604.04771",
+      "https://arxiv.org/abs/2604.04804",
+      "https://arxiv.org/abs/2604.04202"
+    ],
+    "blogs": [
+      "https://github.com/anthropics/claude-code/issues/42796",
+      "https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8",
+      "https://reducto.ai/blog/reducto-deep-extract-agent",
+      "https://medium.com/@aiquinta/what-is-an-ai-agent-harness-e9ae8a6addbe",
+      "https://medium.com/@pranavprakash4777/we-automated-everything-and-somehow-made-our-system-worse-54c2f2f85e3f"
+    ],
+    "repos": [
+      "https://github.com/ollama/ollama",
+      "https://github.com/ggml-org/llama.cpp",
+      "https://github.com/aaif-goose/goose",
+      "https://github.com/KeygraphHQ/shannon",
+      "https://github.com/kepano/obsidian-skills",
+      "https://github.com/HKUDS/DeepTutor",
+      "https://github.com/teng-lin/notebooklm-py",
+      "https://github.com/Jeffallan/claude-skills",
+      "https://github.com/JuliusBrussee/caveman"
+    ]
   }
 }
