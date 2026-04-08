@@ -1,146 +1,156 @@
 {
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "papers": [
     {
-      "title": "AvatarPointillist: AutoRegressive 4D Gaussian Avatarization",
-      "url": "https://arxiv.org/abs/2604.04787",
-      "summary": "We introduce AvatarPointillist, a novel framework for generating dynamic 4D Gaussian avatars from a single portrait image. At the core of our method is a decoder-only Transformer that autoregressively"
+      "title": "MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU",
+      "url": "https://arxiv.org/abs/2604.05091",
+      "summary": "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores "
     },
     {
-      "title": "Can LLMs Learn to Reason Robustly under Noisy Supervision?",
-      "url": "https://arxiv.org/abs/2604.03993",
-      "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) effectively trains reasoning models that rely on abundant perfect labels, but its vulnerability to unavoidable noisy labels due to expert scarcity"
+      "title": "GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers",
+      "url": "https://arxiv.org/abs/2604.02648",
+      "summary": "The autonomous discovery of bugs remains a significant challenge in modern software development. Compared to code generation, the complexity of dynamic runtime environments makes bug discovery conside"
     },
     {
-      "title": "HDP: A Lightweight Cryptographic Protocol for Human Delegation Provenance in Agentic AI Systems",
-      "url": "https://arxiv.org/abs/2604.04522",
-      "summary": "Agentic AI systems increasingly execute consequential actions on behalf of human principals, delegating tasks through multi-step chains of autonomous agents. No existing standard addresses a fundament"
+      "title": "How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings",
+      "url": "https://arxiv.org/abs/2604.04323",
+      "summary": "Agent skills, which are reusable, domain-specific knowledge artifacts, have become a popular mechanism for extending LLM-based agents, yet formally benchmarking skill usage performance remains scarce."
     },
     {
-      "title": "OpenWorldLib: A Unified Codebase and Definition of Advanced World Models",
-      "url": "https://arxiv.org/abs/2604.04707",
-      "summary": "World models have garnered significant attention as a promising research direction in artificial intelligence, yet a clear and unified definition remains lacking. In this paper, we introduce OpenWorld"
+      "title": "ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement",
+      "url": "https://arxiv.org/abs/2604.01591",
+      "summary": "We introduce ThinkTwice, a simple two-phase framework that jointly optimizes LLMs to solve reasoning problems and refine the answers, based on Group Relative Policy Optimization (GRPO). In each pair o"
     },
     {
-      "title": "FileGram: Grounding Agent Personalization in File-System Behavioral Traces",
-      "url": "https://arxiv.org/abs/2604.04901",
-      "summary": "Coworking AI agents operating within local file systems are rapidly emerging as a paradigm in human-AI interaction; however, effective personalization remains limited by severe data constraints, as st"
+      "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
+      "url": "https://arxiv.org/abs/2604.06170",
+      "summary": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large langu"
     },
     {
-      "title": "LightThinker++: From Reasoning Compression to Memory Management",
-      "url": "https://arxiv.org/abs/2604.03679",
-      "summary": "Large language models (LLMs) excel at complex reasoning, yet their efficiency is limited by the surging cognitive overhead of long thought traces. In this paper, we propose LightThinker, a method that"
+      "title": "Experience Transfer for Multimodal LLM Agents in Minecraft Game",
+      "url": "https://arxiv.org/abs/2604.05533",
+      "summary": "Multimodal LLM agents operating in complex game environments must continually reuse past experience to solve new tasks efficiently. In this work, we propose Echo, a transfer-oriented memory framework "
     },
     {
-      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
-      "url": "https://arxiv.org/abs/2604.04921",
-      "summary": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE "
+      "title": "Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision",
+      "url": "https://arxiv.org/abs/2604.04934",
+      "summary": "We present Vanast, a unified framework that generates garment-transferred human animation videos directly from a single human image, garment images, and a pose guidance video. Conventional two-stage p"
     },
     {
-      "title": "MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale",
-      "url": "https://arxiv.org/abs/2604.04771",
-      "summary": "Current document parsing methods compete primarily on model architecture innovation, while systematic engineering of training data remains underexplored. Yet SOTA models of different architectures and"
+      "title": "MedGemma 1.5 Technical Report",
+      "url": "https://arxiv.org/abs/2604.05081",
+      "summary": "We introduce MedGemma 1.5 4B, the latest model in the MedGemma collection. MedGemma 1.5 expands on MedGemma 1 by integrating additional capabilities: high-dimensional medical imaging (CT/MRI volumes a"
     },
     {
-      "title": "SkillX: Automatically Constructing Skill Knowledge Bases for Agents",
-      "url": "https://arxiv.org/abs/2604.04804",
-      "summary": "Learning from experience is critical for building capable large language model (LLM) agents, yet prevailing self-evolving paradigms remain inefficient: agents learn in isolation, repeatedly rediscover"
+      "title": "Action Images: End-to-End Policy Learning via Multiview Video Generation",
+      "url": "https://arxiv.org/abs/2604.06168",
+      "summary": "World action models (WAMs) have emerged as a promising direction for robot policy learning, as they can leverage powerful video backbones to model the future states. However, existing approaches often"
     },
     {
-      "title": "ClawArena: Benchmarking AI Agents in Evolving Information Environments",
-      "url": "https://arxiv.org/abs/2604.04202",
-      "summary": "AI agents deployed as persistent assistants must maintain correct beliefs as their information environment evolves. In practice, evidence is scattered across heterogeneous sources that often contradic"
+      "title": "Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.06079",
+      "summary": "Graphics Program Synthesis is pivotal for interpreting and editing visual data, effectively facilitating the reverse-engineering of static visuals into editable TikZ code. While TikZ is the de facto s"
     }
   ],
   "blog_posts": [
     {
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "author": "anthropic.com"
+    },
+    {
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "author": "www-cdn.anthropic.com"
+    },
+    {
+      "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
+      "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
+      "author": "slate.com"
+    },
+    {
+      "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+      "url": "https://red.anthropic.com/2026/mythos-preview/",
+      "author": "red.anthropic.com"
+    },
+    {
+      "title": "Taste in the age of AI and LLMs",
+      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+      "author": "rajnandan.com"
+    },
+    {
+      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+      "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
       "author": "github.com"
     },
     {
-      "title": "Google Maps for Codebases: Paste a GitHub URL, Ask Anything",
-      "url": "https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8",
-      "author": "Anmol Baranwal"
-    },
-    {
-      "title": "Reducto releases Deep Extract",
-      "url": "https://reducto.ai/blog/reducto-deep-extract-agent",
-      "author": "reducto.ai"
-    },
-    {
-      "title": "What is an AI Agent Harness?",
-      "url": "https://medium.com/@aiquinta/what-is-an-ai-agent-harness-e9ae8a6addbe",
-      "author": "AIQuinta"
-    },
-    {
-      "title": "We Automated Everything…And Somehow Made Our System Worse",
-      "url": "https://medium.com/@pranavprakash4777/we-automated-everything-and-somehow-made-our-system-worse-54c2f2f85e3f",
-      "author": "Pranav Prakash I GenAI I AI/ML I DevOps I"
+      "title": "Emotion Concepts and Their Function in a Large Language Model",
+      "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+      "author": "transformer-circuits.pub"
     }
   ],
   "repos": [
     {
-      "name": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "stars": 167857,
-      "language": "Go"
+      "name": "milla-jovovich/mempalace",
+      "url": "https://github.com/milla-jovovich/mempalace",
+      "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+      "stars": 20317,
+      "language": "Python"
     },
     {
-      "name": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "stars": 102180,
+      "name": "HKUDS/AutoAgent",
+      "url": "https://github.com/HKUDS/AutoAgent",
+      "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+      "stars": 9015,
+      "language": "Python"
+    },
+    {
+      "name": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
+      "stars": 4067,
+      "language": "Python"
+    },
+    {
+      "name": "google-ai-edge/LiteRT-LM",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "description": "",
+      "stars": 2698,
       "language": "C++"
     },
     {
-      "name": "aaif-goose/goose",
-      "url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": 38374,
-      "language": "Rust"
-    },
-    {
-      "name": "KeygraphHQ/shannon",
-      "url": "https://github.com/KeygraphHQ/shannon",
-      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before",
-      "stars": 36823,
-      "language": "TypeScript"
-    },
-    {
-      "name": "kepano/obsidian-skills",
-      "url": "https://github.com/kepano/obsidian-skills",
-      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "stars": 20919,
-      "language": ""
-    },
-    {
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "stars": 11597,
+      "name": "sooryathejas/METATRON",
+      "url": "https://github.com/sooryathejas/METATRON",
+      "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
+      "stars": 1772,
       "language": "Python"
     },
     {
-      "name": "teng-lin/notebooklm-py",
-      "url": "https://github.com/teng-lin/notebooklm-py",
-      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl",
-      "stars": 9393,
+      "name": "luyao618/Claude-Code-Source-Study",
+      "url": "https://github.com/luyao618/Claude-Code-Source-Study",
+      "description": "深入Claude Code源码，学习目前最好的agent实现",
+      "stars": 1032,
+      "language": null
+    },
+    {
+      "name": "PrathamLearnsToCode/paper2code",
+      "url": "https://github.com/PrathamLearnsToCode/paper2code",
+      "description": "Agent skill to turn any arxiv paper into a working implementation",
+      "stars": 702,
       "language": "Python"
     },
     {
-      "name": "Jeffallan/claude-skills",
-      "url": "https://github.com/Jeffallan/claude-skills",
-      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-      "stars": 7928,
-      "language": "Python"
+      "name": "karpathy/KarpathyTalk",
+      "url": "https://github.com/karpathy/KarpathyTalk",
+      "description": "A positive developer community for builders and agents.",
+      "stars": 513,
+      "language": "Go"
     },
     {
-      "name": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": 4542,
+      "name": "rasbt/mini-coding-agent",
+      "url": "https://github.com/rasbt/mini-coding-agent",
+      "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
+      "stars": 431,
       "language": "Python"
     }
   ],

@@ -317,5 +317,39 @@
       "https://github.com/Jeffallan/claude-skills",
       "https://github.com/JuliusBrussee/caveman"
     ]
+  },
+  "2026-04-08": {
+    "papers": [
+      "https://arxiv.org/abs/2604.05091",
+      "https://arxiv.org/abs/2604.02648",
+      "https://arxiv.org/abs/2604.04323",
+      "https://arxiv.org/abs/2604.01591",
+      "https://arxiv.org/abs/2604.06170",
+      "https://arxiv.org/abs/2604.05533",
+      "https://arxiv.org/abs/2604.04934",
+      "https://arxiv.org/abs/2604.05081",
+      "https://arxiv.org/abs/2604.06168",
+      "https://arxiv.org/abs/2604.06079"
+    ],
+    "blogs": [
+      "https://www.anthropic.com/glasswing",
+      "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
+      "https://red.anthropic.com/2026/mythos-preview/",
+      "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+      "https://github.com/mattmireles/gemma-tuner-multimodal",
+      "https://transformer-circuits.pub/2026/emotions/index.html"
+    ],
+    "repos": [
+      "https://github.com/milla-jovovich/mempalace",
+      "https://github.com/HKUDS/AutoAgent",
+      "https://github.com/TheCraigHewitt/seomachine",
+      "https://github.com/google-ai-edge/LiteRT-LM",
+      "https://github.com/sooryathejas/METATRON",
+      "https://github.com/luyao618/Claude-Code-Source-Study",
+      "https://github.com/PrathamLearnsToCode/paper2code",
+      "https://github.com/karpathy/KarpathyTalk",
+      "https://github.com/rasbt/mini-coding-agent"
+    ]
   }
 }

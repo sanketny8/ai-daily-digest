@@ -10,6 +10,42 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-08</strong></summary>
+
+#### Papers
+1. **[MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU](https://arxiv.org/abs/2604.05091)** — This paper presents a system that trains large language models efficiently on a single GPU.
+2. **[GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers](https://arxiv.org/abs/2604.02648)** — It introduces a benchmark for assessing LLMs in bug discovery within software development.
+3. **[ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement](https://arxiv.org/abs/2604.01591)** — A framework that enhances LLMs' reasoning capabilities and answer refinement.
+4. **[Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework](https://arxiv.org/abs/2604.06170)** — This framework aids researchers in discovering and synthesizing scientific literature efficiently.
+5. **[Experience Transfer for Multimodal LLM Agents in Minecraft Game](https://arxiv.org/abs/2604.05533)** — Proposes a memory framework for LLM agents to reuse past experiences in complex game environments.
+6. **[HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](http://arxiv.org/abs/2604.06165v1)** — Focuses on detecting and mitigating hallucinations in vision-language models.
+7. **[In-Place Test-Time Training](http://arxiv.org/abs/2604.06169v1)** — Discusses a method for LLMs to adapt dynamically to new information during deployment.
+8. **[Action Images: End-to-End Policy Learning via Multiview Video Generation](https://arxiv.org/abs/2604.06168)** — Explores using video generation for learning robot policies through world action models.
+9. **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](http://arxiv.org/abs/2604.06161v1)** — Introduces a method to recover high dynamic range from low dynamic range videos.
+10. **[Exclusive Unlearning](http://arxiv.org/abs/2604.06154v1)** — Addresses the challenge of harmful content generation in LLMs for sensitive applications.
+
+#### Blog Posts
+1. **[Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)** by anthropic.com
+2. **[Assessing Claude Mythos Preview's cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)** by red.anthropic.com
+3. **[Taste in the age of AI and LLMs](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)** by rajnandan.com
+4. **[Emotion Concepts and Their Function in a Large Language Model](https://transformer-circuits.pub/2026/emotions/index.html)** by transformer-circuits.pub
+5. **[System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)** by www-cdn.anthropic.com
+
+#### Trending Repos
+1. **[milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)** — The highest-scoring AI memory system ever benchmarked. ⭐ 20317
+2. **[HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent)** — Fully-Automated and Zero-Code LLM Agent Framework. ⭐ 9015
+3. **[TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)** — A specialized workspace for creating long-form, SEO-optimized blog content. ⭐ 4067
+4. **[google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** — 
+⭐ 2698
+5. **[sooryathejas/METATRON](https://github.com/sooryathejas/METATRON)** — AI-powered penetration testing assistant using local LLM on Linux. ⭐ 1772
+6. **[luyao618/Claude-Code-Source-Study](https://github.com/luyao618/Claude-Code-Source-Study)** — 深入Claude Code源码，学习目前最好的agent实现. ⭐ 1032
+7. **[PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code)** — Agent skill to turn any arxiv paper into a working implementation. ⭐ 702
+8. **[karpathy/KarpathyTalk](https://github.com/karpathy/KarpathyTalk)** — A positive developer community for builders and agents. ⭐ 513
+9. **[rasbt/mini-coding-agent](https://github.com/rasbt/mini-coding-agent)** — Minimal and readable coding agent harness implementation in Python. ⭐ 431
+
+</details>
+
+<details>
 <summary><strong>2026-04-07</strong></summary>
 
 #### Papers
