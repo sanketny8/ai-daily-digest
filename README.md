@@ -10,6 +10,36 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-09</strong></summary>
+
+#### Papers
+1. **[Beyond Hard Negatives: The Importance of Score Distribution in Knowledge Distillation for Dense Retrieval](https://arxiv.org/abs/2604.04734)** — This paper highlights the significance of score distribution in knowledge distillation for enhancing retrieval model performance.
+2. **[Tunable Soft Equivariance with Guarantees](https://arxiv.org/abs/2603.26657)** — It discusses how controlling equivariance can improve the performance of computer vision models in real-world scenarios.
+3. **[SEVerA: Verified Synthesis of Self-Evolving Agents](https://arxiv.org/abs/2603.25111)** — This work presents a framework for synthesizing self-evolving agents that can adapt and improve over time.
+4. **[Learning to Hint for Reinforcement Learning](https://arxiv.org/abs/2604.00698)** — The paper addresses the challenge of advantage collapse in reinforcement learning and proposes a method to mitigate it.
+5. **[FlowInOne: Unifying Multimodal Generation as Image-in, Image-out Flow Matching](https://arxiv.org/abs/2604.06757)** — It challenges traditional text-driven multimodal generation by proposing a unified framework for image-based generation.
+6. **[Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models](https://arxiv.org/abs/2604.06912)** — This research introduces a method for optimizing visual inputs in multimodal large language models for better task performance.
+7. **[Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](https://arxiv.org/abs/2604.04746)** — The paper advocates for a process-driven approach to image generation that mimics human artistic techniques.
+8. **[The Depth Ceiling: On the Limits of Large Language Models in Discovering Latent Planning](https://arxiv.org/abs/2604.06427)** — It explores the limitations of large language models in reasoning about latent representations and planning.
+9. **[Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization](http://arxiv.org/abs/2604.07343v1)** — This paper emphasizes the need for personalized reward models in aligning AI with diverse human values.
+10. **[Syntax Is Easy, Semantics Is Hard: Evaluating LLMs for LTL Translation](http://arxiv.org/abs/2604.07321v1)** — It evaluates the challenges LLMs face in translating complex logical expressions, highlighting the gap between syntax and semantics.
+
+#### Blog Posts
+1. **[I've been waiting over a month for Anthropic to respond to my billing issue](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/)** by Nick Vecchioni
+2. **[Claude Managed Agents](https://claude.com/blog/claude-managed-agents)** by Claude
+3. **[AIMock: One Mock Server For Your Entire AI Stack](https://dev.to/copilotkit/aimock-one-mock-server-for-your-entire-ai-stack-1jhp)** by Anmol Baranwal
+4. **[Show HN: TUI-use: Let AI agents control interactive terminal programs](https://github.com/onesuper/tui-use)** by GitHub User
+
+#### Trending Repos
+1. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** — Web UI for training and running open models locally. ⭐ 60423
+2. **[mem0ai/mem0](https://github.com/mem0ai/mem0)** — Universal memory layer for AI Agents. ⭐ 52386
+3. **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** — 100% Fully-Automated Agent-Native Trading. ⭐ 12702
+4. **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior. ⭐ 9409
+5. **[atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp)** — Advanced TradingView MCP Server for AI-powered market analysis. ⭐ 1369
+
+</details>
+
+<details>
 <summary><strong>2026-04-08</strong></summary>
 
 #### Papers

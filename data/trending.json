@@ -1,156 +1,113 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "papers": [
     {
-      "title": "MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU",
-      "url": "https://arxiv.org/abs/2604.05091",
-      "summary": "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores "
+      "title": "Beyond Hard Negatives: The Importance of Score Distribution in Knowledge Distillation for Dense Retrieval",
+      "url": "https://arxiv.org/abs/2604.04734",
+      "summary": "Transferring knowledge from a cross-encoder teacher via Knowledge Distillation (KD) has become a standard paradigm for training retrieval models. While existing studies have largely focused on mining "
     },
     {
-      "title": "GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers",
-      "url": "https://arxiv.org/abs/2604.02648",
-      "summary": "The autonomous discovery of bugs remains a significant challenge in modern software development. Compared to code generation, the complexity of dynamic runtime environments makes bug discovery conside"
+      "title": "Tunable Soft Equivariance with Guarantees",
+      "url": "https://arxiv.org/abs/2603.26657",
+      "summary": "Equivariance is a fundamental property in computer vision models, yet strict equivariance is rarely satisfied in real-world data, which can limit a model's performance. Controlling the degree of equiv"
     },
     {
-      "title": "How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings",
-      "url": "https://arxiv.org/abs/2604.04323",
-      "summary": "Agent skills, which are reusable, domain-specific knowledge artifacts, have become a popular mechanism for extending LLM-based agents, yet formally benchmarking skill usage performance remains scarce."
+      "title": "SEVerA: Verified Synthesis of Self-Evolving Agents",
+      "url": "https://arxiv.org/abs/2603.25111",
+      "summary": "Recent advances have shown the effectiveness of self-evolving LLM agents on tasks such as program repair and scientific discovery. In this paradigm, a planner LLM synthesizes an agent program that inv"
     },
     {
-      "title": "ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement",
-      "url": "https://arxiv.org/abs/2604.01591",
-      "summary": "We introduce ThinkTwice, a simple two-phase framework that jointly optimizes LLMs to solve reasoning problems and refine the answers, based on Group Relative Policy Optimization (GRPO). In each pair o"
+      "title": "Learning to Hint for Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.00698",
+      "summary": "Group Relative Policy Optimization (GRPO) is widely used for reinforcement learning with verifiable rewards, but it often suffers from advantage collapse: when all rollouts in a group receive the same"
     },
     {
-      "title": "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework",
-      "url": "https://arxiv.org/abs/2604.06170",
-      "summary": "The rapid growth of scientific literature has made it increasingly difficult for researchers to efficiently discover, evaluate, and synthesize relevant work. Recent advances in multi-agent large langu"
+      "title": "FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching",
+      "url": "https://arxiv.org/abs/2604.06757",
+      "summary": "Multimodal generation has long been dominated by text-driven pipelines where language dictates vision but cannot reason or create within it. We challenge this paradigm by asking whether all modalities"
     },
     {
-      "title": "Experience Transfer for Multimodal LLM Agents in Minecraft Game",
-      "url": "https://arxiv.org/abs/2604.05533",
-      "summary": "Multimodal LLM agents operating in complex game environments must continually reuse past experience to solve new tasks efficiently. In this work, we propose Echo, a transfer-oriented memory framework "
+      "title": "Fast Spatial Memory with Elastic Test-Time Training",
+      "url": "https://arxiv.org/abs/2604.07350",
+      "summary": "Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and over"
     },
     {
-      "title": "Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision",
-      "url": "https://arxiv.org/abs/2604.04934",
-      "summary": "We present Vanast, a unified framework that generates garment-transferred human animation videos directly from a single human image, garment images, and a pose guidance video. Conventional two-stage p"
+      "title": "Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2604.06912",
+      "summary": "MLLMs require high-resolution visual inputs for fine-grained tasks like document understanding and dense scene perception. However, current global resolution scaling paradigms indiscriminately flood t"
     },
     {
-      "title": "MedGemma 1.5 Technical Report",
-      "url": "https://arxiv.org/abs/2604.05081",
-      "summary": "We introduce MedGemma 1.5 4B, the latest model in the MedGemma collection. MedGemma 1.5 expands on MedGemma 1 by integrating additional capabilities: high-dimensional medical imaging (CT/MRI volumes a"
+      "title": "Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning",
+      "url": "https://arxiv.org/abs/2604.04746",
+      "summary": "Humans paint images incrementally: they plan a global layout, sketch a coarse draft, inspect, and refine details, and most importantly, each step is grounded in the evolving visual states. However, ca"
     },
     {
-      "title": "Action Images: End-to-End Policy Learning via Multiview Video Generation",
-      "url": "https://arxiv.org/abs/2604.06168",
-      "summary": "World action models (WAMs) have emerged as a promising direction for robot policy learning, as they can leverage powerful video backbones to model the future states. However, existing approaches often"
+      "title": "The Depth Ceiling: On the Limits of Large Language Models in Discovering Latent Planning",
+      "url": "https://arxiv.org/abs/2604.06427",
+      "summary": "The viability of chain-of-thought (CoT) monitoring hinges on models being unable to reason effectively in their latent representations. Yet little is known about the limits of such latent reasoning in"
     },
     {
-      "title": "Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2604.06079",
-      "summary": "Graphics Program Synthesis is pivotal for interpreting and editing visual data, effectively facilitating the reverse-engineering of static visuals into editable TikZ code. While TikZ is the de facto s"
+      "title": "TC-AE: Unlocking Token Capacity for Deep Compression Autoencoders",
+      "url": "https://arxiv.org/abs/2604.07340",
+      "summary": "We propose TC-AE, a ViT-based architecture for deep compression autoencoders. Existing methods commonly increase the channel number of latent representations to maintain reconstruction quality under h"
     }
   ],
   "blog_posts": [
     {
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "url": "https://www.anthropic.com/glasswing",
-      "author": "anthropic.com"
+      "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+      "author": "nickvecchioni.github.io"
     },
     {
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "author": "www-cdn.anthropic.com"
+      "title": "Claude Managed Agents",
+      "url": "https://claude.com/blog/claude-managed-agents",
+      "author": "claude.com"
     },
     {
-      "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-      "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
-      "author": "slate.com"
+      "title": "AIMock: One Mock Server For Your Entire AI Stack",
+      "url": "https://dev.to/copilotkit/aimock-one-mock-server-for-your-entire-ai-stack-1jhp",
+      "author": "Anmol Baranwal"
     },
     {
-      "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
-      "url": "https://red.anthropic.com/2026/mythos-preview/",
-      "author": "red.anthropic.com"
-    },
-    {
-      "title": "Taste in the age of AI and LLMs",
-      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-      "author": "rajnandan.com"
-    },
-    {
-      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
-      "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+      "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+      "url": "https://github.com/onesuper/tui-use",
       "author": "github.com"
-    },
-    {
-      "title": "Emotion Concepts and Their Function in a Large Language Model",
-      "url": "https://transformer-circuits.pub/2026/emotions/index.html",
-      "author": "transformer-circuits.pub"
     }
   ],
   "repos": [
     {
-      "name": "milla-jovovich/mempalace",
-      "url": "https://github.com/milla-jovovich/mempalace",
-      "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-      "stars": 20317,
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.",
+      "stars": 60423,
       "language": "Python"
     },
     {
-      "name": "HKUDS/AutoAgent",
-      "url": "https://github.com/HKUDS/AutoAgent",
-      "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
-      "stars": 9015,
+      "name": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "stars": 52386,
       "language": "Python"
     },
     {
-      "name": "TheCraigHewitt/seomachine",
-      "url": "https://github.com/TheCraigHewitt/seomachine",
-      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
-      "stars": 4067,
+      "name": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "stars": 12702,
       "language": "Python"
     },
     {
-      "name": "google-ai-edge/LiteRT-LM",
-      "url": "https://github.com/google-ai-edge/LiteRT-LM",
-      "description": "",
-      "stars": 2698,
-      "language": "C++"
+      "name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 9409,
+      "language": ""
     },
     {
-      "name": "sooryathejas/METATRON",
-      "url": "https://github.com/sooryathejas/METATRON",
-      "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
-      "stars": 1772,
-      "language": "Python"
-    },
-    {
-      "name": "luyao618/Claude-Code-Source-Study",
-      "url": "https://github.com/luyao618/Claude-Code-Source-Study",
-      "description": "深入Claude Code源码，学习目前最好的agent实现",
-      "stars": 1032,
-      "language": null
-    },
-    {
-      "name": "PrathamLearnsToCode/paper2code",
-      "url": "https://github.com/PrathamLearnsToCode/paper2code",
-      "description": "Agent skill to turn any arxiv paper into a working implementation",
-      "stars": 702,
-      "language": "Python"
-    },
-    {
-      "name": "karpathy/KarpathyTalk",
-      "url": "https://github.com/karpathy/KarpathyTalk",
-      "description": "A positive developer community for builders and agents.",
-      "stars": 513,
-      "language": "Go"
-    },
-    {
-      "name": "rasbt/mini-coding-agent",
-      "url": "https://github.com/rasbt/mini-coding-agent",
-      "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
-      "stars": 431,
+      "name": "atilaahmettaner/tradingview-mcp",
+      "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+      "description": "Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto &amp; stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude D",
+      "stars": 1369,
       "language": "Python"
     }
   ],

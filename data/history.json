@@ -351,5 +351,32 @@
       "https://github.com/karpathy/KarpathyTalk",
       "https://github.com/rasbt/mini-coding-agent"
     ]
+  },
+  "2026-04-09": {
+    "papers": [
+      "https://arxiv.org/abs/2604.04734",
+      "https://arxiv.org/abs/2603.26657",
+      "https://arxiv.org/abs/2603.25111",
+      "https://arxiv.org/abs/2604.00698",
+      "https://arxiv.org/abs/2604.06757",
+      "https://arxiv.org/abs/2604.07350",
+      "https://arxiv.org/abs/2604.06912",
+      "https://arxiv.org/abs/2604.04746",
+      "https://arxiv.org/abs/2604.06427",
+      "https://arxiv.org/abs/2604.07340"
+    ],
+    "blogs": [
+      "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+      "https://claude.com/blog/claude-managed-agents",
+      "https://dev.to/copilotkit/aimock-one-mock-server-for-your-entire-ai-stack-1jhp",
+      "https://github.com/onesuper/tui-use"
+    ],
+    "repos": [
+      "https://github.com/unslothai/unsloth",
+      "https://github.com/mem0ai/mem0",
+      "https://github.com/HKUDS/AI-Trader",
+      "https://github.com/forrestchang/andrej-karpathy-skills",
+      "https://github.com/atilaahmettaner/tradingview-mcp"
+    ]
   }
 }
