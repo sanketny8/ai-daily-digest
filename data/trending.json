@@ -1,114 +1,141 @@
 {
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "papers": [
     {
-      "title": "Beyond Hard Negatives: The Importance of Score Distribution in Knowledge Distillation for Dense Retrieval",
-      "url": "https://arxiv.org/abs/2604.04734",
-      "summary": "Transferring knowledge from a cross-encoder teacher via Knowledge Distillation (KD) has become a standard paradigm for training retrieval models. While existing studies have largely focused on mining "
+      "title": "ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models",
+      "url": "https://arxiv.org/abs/2604.08064",
+      "summary": "Existing memory benchmarks for LLM agents evaluate explicit recall of facts, yet overlook implicit memory where experience becomes automated behavior without conscious retrieval. This gap is critical:"
     },
     {
-      "title": "Tunable Soft Equivariance with Guarantees",
-      "url": "https://arxiv.org/abs/2603.26657",
-      "summary": "Equivariance is a fundamental property in computer vision models, yet strict equivariance is rarely satisfied in real-world data, which can limit a model's performance. Controlling the degree of equiv"
+      "title": "Personalizing Text-to-Image Generation to Individual Taste",
+      "url": "https://arxiv.org/abs/2604.07427",
+      "summary": "Modern text-to-image (T2I) models generate high-fidelity visuals but remain indifferent to individual user preferences. While existing reward models optimize for \"average\" human appeal, they fail to c"
     },
     {
-      "title": "SEVerA: Verified Synthesis of Self-Evolving Agents",
-      "url": "https://arxiv.org/abs/2603.25111",
-      "summary": "Recent advances have shown the effectiveness of self-evolving LLM agents on tasks such as program repair and scientific discovery. In this paradigm, a planner LLM synthesizes an agent program that inv"
+      "title": "POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP",
+      "url": "https://arxiv.org/abs/2604.06938",
+      "summary": "Recent work has explored optimizing image signal processing (ISP) pipelines for various tasks by composing predefined modules and adapting them to task-specific objectives. However, jointly optimizing"
     },
     {
-      "title": "Learning to Hint for Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2604.00698",
-      "summary": "Group Relative Policy Optimization (GRPO) is widely used for reinforcement learning with verifiable rewards, but it often suffers from advantage collapse: when all rollouts in a group receive the same"
+      "title": "ViVa: A Video-Generative Value Model for Robot Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.08168",
+      "summary": "Vision-language-action (VLA) models have advanced robot manipulation through large-scale pretraining, but real-world deployment remains challenging due to partial observability and delayed feedback. R"
     },
     {
-      "title": "FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching",
-      "url": "https://arxiv.org/abs/2604.06757",
-      "summary": "Multimodal generation has long been dominated by text-driven pipelines where language dictates vision but cannot reason or create within it. We challenge this paradigm by asking whether all modalities"
+      "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
+      "url": "https://arxiv.org/abs/2604.06628",
+      "summary": "A prevailing narrative in LLM post-training holds that supervised finetuning (SFT) memorizes while reinforcement learning (RL) generalizes. We revisit this claim for reasoning SFT with long chain-of-t"
     },
     {
-      "title": "Fast Spatial Memory with Elastic Test-Time Training",
-      "url": "https://arxiv.org/abs/2604.07350",
-      "summary": "Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and over"
+      "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
+      "url": "https://arxiv.org/abs/2604.08523",
+      "summary": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation "
     },
     {
-      "title": "Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models",
-      "url": "https://arxiv.org/abs/2604.06912",
-      "summary": "MLLMs require high-resolution visual inputs for fine-grained tasks like document understanding and dense scene perception. However, current global resolution scaling paradigms indiscriminately flood t"
+      "title": "Lighting-grounded Video Generation with Renderer-based Agent Reasoning",
+      "url": "https://arxiv.org/abs/2604.07966",
+      "summary": "Diffusion models have achieved remarkable progress in video generation, but their controllability remains a major limitation. Key scene factors such as layout, lighting, and camera trajectory are ofte"
     },
     {
-      "title": "Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning",
-      "url": "https://arxiv.org/abs/2604.04746",
-      "summary": "Humans paint images incrementally: they plan a global layout, sketch a coarse draft, inspect, and refine details, and most importantly, each step is grounded in the evolving visual states. However, ca"
+      "title": "SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
+      "url": "https://arxiv.org/abs/2604.08544",
+      "summary": "Robotic manipulation with deformable objects represents a data-intensive regime in embodied learning, where shape, contact, and topology co-evolve in ways that far exceed the variability of rigids. Al"
     },
     {
-      "title": "The Depth Ceiling: On the Limits of Large Language Models in Discovering Latent Planning",
-      "url": "https://arxiv.org/abs/2604.06427",
-      "summary": "The viability of chain-of-thought (CoT) monitoring hinges on models being unable to reason effectively in their latent representations. Yet little is known about the limits of such latent reasoning in"
+      "title": "Structured Distillation of Web Agent Capabilities Enables Generalization",
+      "url": "https://arxiv.org/abs/2604.07776",
+      "summary": "Frontier LLMs can navigate complex websites, but their cost and reliance on third-party APIs make local deployment impractical. We introduce Agent-as-Annotators, a framework that structures synthetic "
     },
     {
-      "title": "TC-AE: Unlocking Token Capacity for Deep Compression Autoencoders",
-      "url": "https://arxiv.org/abs/2604.07340",
-      "summary": "We propose TC-AE, a ViT-based architecture for deep compression autoencoders. Existing methods commonly increase the channel number of latent representations to maintain reconstruction quality under h"
+      "title": "Structural Graph Probing of Vision-Language Models",
+      "url": "https://arxiv.org/abs/2603.27070",
+      "summary": "Vision-language models (VLMs) achieve strong multimodal performance, yet how computation is organized across populations of neurons remains poorly understood. In this work, we study VLMs through the l"
     }
   ],
   "blog_posts": [
     {
-      "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
-      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-      "author": "nickvecchioni.github.io"
+      "title": "Claude mixes up who said what",
+      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+      "author": "dwyer.co.za"
     },
     {
-      "title": "Claude Managed Agents",
-      "url": "https://claude.com/blog/claude-managed-agents",
-      "author": "claude.com"
+      "title": "The Vercel plugin on Claude Code wants to read your prompts",
+      "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+      "author": "akshaychugh.xyz"
     },
     {
-      "title": "AIMock: One Mock Server For Your Entire AI Stack",
-      "url": "https://dev.to/copilotkit/aimock-one-mock-server-for-your-entire-ai-stack-1jhp",
-      "author": "Anmol Baranwal"
+      "title": "Show HN: CSS Studio. Design by hand, code by agent",
+      "url": "https://cssstudio.ai",
+      "author": "cssstudio.ai"
     },
     {
-      "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
-      "url": "https://github.com/onesuper/tui-use",
-      "author": "github.com"
+      "title": "Doing Impressions: Monet's Early Caricatures (ca. late 1850s)",
+      "url": "https://publicdomainreview.org/collection/claude-monet-caricatures/",
+      "author": "publicdomainreview.org"
+    },
+    {
+      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
+      "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
+      "author": "Maria Dunning"
+    },
+    {
+      "title": "The Training Example Lie Bracket",
+      "url": "https://pbement.com/posts/lie_brackets/",
+      "author": "pbement.com"
+    },
+    {
+      "title": "Experimenting with AI subagents",
+      "url": "https://dev.to/nfrankel/experimenting-with-ai-subagents-pc7",
+      "author": "Nicolas Fränkel"
+    },
+    {
+      "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
+      "url": "https://pvp-ai.russell-harper.com",
+      "author": "pvp-ai.russell-harper.com"
     }
   ],
   "repos": [
     {
-      "name": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.",
-      "stars": 60423,
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 131030,
       "language": "Python"
     },
     {
-      "name": "mem0ai/mem0",
-      "url": "https://github.com/mem0ai/mem0",
-      "description": "Universal memory layer for AI Agents",
-      "stars": 52386,
+      "name": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "stars": 44989,
       "language": "Python"
     },
     {
-      "name": "HKUDS/AI-Trader",
-      "url": "https://github.com/HKUDS/AI-Trader",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "stars": 12702,
+      "name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "stars": 14606,
+      "language": "TypeScript"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars": 14167,
+      "language": "Java"
+    },
+    {
+      "name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "description": "Give your agents the power of the Hugging Face ecosystem",
+      "stars": 10128,
       "language": "Python"
     },
     {
-      "name": "forrestchang/andrej-karpathy-skills",
-      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 9409,
-      "language": ""
-    },
-    {
-      "name": "atilaahmettaner/tradingview-mcp",
-      "url": "https://github.com/atilaahmettaner/tradingview-mcp",
-      "description": "Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto &amp; stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude D",
-      "stars": 1369,
-      "language": "Python"
+      "name": "YishenTu/claudian",
+      "url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 7020,
+      "language": "TypeScript"
     }
   ],
   "tweets": []

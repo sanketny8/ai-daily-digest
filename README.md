@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-10</strong></summary>
+
+#### Papers
+1. **[ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models](https://arxiv.org/abs/2604.08064)** — This paper addresses implicit memory in LLMs, focusing on automated behavior rather than explicit recall.
+2. **[Personalizing Text-to-Image Generation to Individual Taste](https://arxiv.org/abs/2604.07427)** — Explores how T2I models can be tailored to better reflect individual user preferences beyond average appeal.
+3. **[ViVa: A Video-Generative Value Model for Robot Reinforcement Learning](https://arxiv.org/abs/2604.08168)** — Introduces a model to enhance robot manipulation using vision-language-action frameworks despite real-world challenges.
+4. **[Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability](https://arxiv.org/abs/2604.06628)** — Challenges the narrative that supervised finetuning memorizes while reinforcement learning generalizes in LLMs.
+5. **[ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523)** — Investigates the potential of AI agents to automate routine online tasks beyond just managing emails.
+6. **[Lighting-grounded Video Generation with Renderer-based Agent Reasoning](https://arxiv.org/abs/2604.07966)** — Addresses controllability issues in video generation by focusing on key scene factors like lighting and layout.
+7. **[Structured Distillation of Web Agent Capabilities Enables Generalization](https://arxiv.org/abs/2604.07776)** — Proposes a framework for enhancing LLMs' ability to navigate complex websites without relying on external APIs.
+8. **[RewardFlow: Generate Images by Optimizing What You Reward](http://arxiv.org/abs/2604.08536v1)** — Introduces a framework to guide image generation models using multi-reward dynamics, enhancing creative outputs.
+9. **[Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding](http://arxiv.org/abs/2604.08537v1)** — Discusses methods for visual decoding from brain signals, bridging neuroscience and computer vision.
+10. **[Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models](http://arxiv.org/abs/2604.08527v1)** — Analyzes on-policy distillation in LLMs, identifying challenges related to training dynamics and performance.
+
+#### Blog Posts
+1. **[Claude mixes up who said what](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)** by dwyer.co.za
+2. **[The Vercel plugin on Claude Code wants to read your prompts](https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry)** by akshaychugh.xyz
+3. **[Show HN: CSS Studio. Design by hand, code by agent](https://cssstudio.ai)** by cssstudio.ai
+4. **[Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps](https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5)** by Maria Dunning
+5. **[Experimenting with AI subagents](https://dev.to/nfrankel/experimenting-with-ai-subagents-pc7)** by Nicolas Fränkel
+6. **[LLM plays an 8-bit Commander X16 game using structured "smart senses"](https://pvp-ai.russell-harper.com)** by pvp-ai.russell-harper.com
+
+#### Trending Repos
+1. **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — User-friendly AI Interface (Supports Ollama, OpenAI API, ...). ⭐ 131030
+2. **[apache/airflow](https://github.com/apache/airflow)** — Apache Airflow - A platform to programmatically author, schedule, and monitor workflows. ⭐ 44989
+3. **[coleam00/Archon](https://github.com/coleam00/Archon)** — The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. ⭐ 14606
+4. **[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. ⭐ 14167
+5. **[huggingface/skills](https://github.com/huggingface/skills)** — Give your agents the power of the Hugging Face ecosystem. ⭐ 10128
+6. **[YishenTu/claudian](https://github.com/YishenTu/claudian)** — An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault. ⭐ 7020
+
+</details>
+
+<details>
 <summary><strong>2026-04-09</strong></summary>
 
 #### Papers
