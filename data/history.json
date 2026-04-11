@@ -410,5 +410,36 @@
       "https://github.com/huggingface/skills",
       "https://github.com/YishenTu/claudian"
     ]
+  },
+  "2026-04-11": {
+    "papers": [
+      "https://arxiv.org/abs/2604.07338",
+      "https://arxiv.org/abs/2602.06057",
+      "https://arxiv.org/abs/2604.06377",
+      "https://arxiv.org/abs/2604.03841",
+      "https://arxiv.org/abs/2511.16428",
+      "https://arxiv.org/abs/2604.08120",
+      "https://arxiv.org/abs/2604.08476",
+      "https://arxiv.org/abs/2601.20524",
+      "https://arxiv.org/abs/2604.08172",
+      "http://arxiv.org/abs/2604.08545v1"
+    ],
+    "blogs": [
+      "https://github.com/marimo-team/marimo-pair",
+      "https://www.loskutoff.com/blog/model-based-testing-dnd/",
+      "https://twill.ai",
+      "https://mdthoughts.medium.com/automatisation-ia-que-faire-de-la-main-d%C5%93uvre-peu-qualifi%C3%A9e-1414b332757f",
+      "https://shivampatel07.medium.com/your-ai-agent-isnt-hallucinating-it-s-just-out-of-context-space-221778df73f8",
+      "https://medium.com/@rahulkumar8707/ui-will-disappear-in-5-years-60b60fcf879d",
+      "https://medium.com/@mitrapatel/meta-just-blew-up-its-entire-ai-strategy-heres-what-they-built-instead-60809d1ec739"
+    ],
+    "repos": [
+      "https://github.com/jingyaogong/minimind",
+      "https://github.com/rowboatlabs/rowboat",
+      "https://github.com/feast-dev/feast",
+      "https://github.com/multica-ai/multica",
+      "https://github.com/garrytan/gbrain",
+      "https://github.com/xixu-me/awesome-persona-distill-skills"
+    ]
   }
 }

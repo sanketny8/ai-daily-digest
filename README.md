@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-11</strong></summary>
+
+#### Papers
+1. **[Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images](https://arxiv.org/abs/2604.07338)** — This paper explores how vision-language models can infer cultural metadata from images, enhancing cultural heritage studies.
+2. **[QEIL v2: Heterogeneous Computing for Edge Intelligence via Roofline-Derived Pareto-Optimal Energy Modeling and Multi-Objective Orchestration](https://arxiv.org/abs/2602.06057)** — A framework for optimizing energy efficiency and inference quality for deploying large language models on edge devices.
+3. **[The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment](https://arxiv.org/abs/2604.06377)** — Investigates transferring capabilities across models without retraining, proposing a new hypothesis for model alignment.
+4. **[Training a Student Expert via Semi-Supervised Foundation Model Distillation](https://arxiv.org/abs/2604.03841)** — Introduces a method for adapting heavy foundation models using semi-supervised knowledge distillation, reducing annotation costs.
+5. **[Small Vision-Language Models are Smart Compressors for Long Video Understanding](https://arxiv.org/abs/2604.08120)** — Discusses how small vision-language models can effectively manage long video content despite token limitations.
+6. **[Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization](https://arxiv.org/abs/2604.08476)** — Enhances visual reasoning accuracy in multimodal models through reinforcement learning with verifiable rewards.
+7. **[AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors](https://arxiv.org/abs/2601.20524)** — Proposes a method for detecting anomalies in images without in-domain training, leveraging vision-language models.
+8. **[RewardFlow: Generate Images by Optimizing What You Reward](http://arxiv.org/abs/2604.08536v1)** — Introduces a framework for guiding image generation through reward optimization, enhancing model creativity and control.
+9. **[Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding](http://arxiv.org/abs/2604.08537v1)** — Addresses visual decoding from brain signals, bridging neuroscience and computer vision without extensive training.
+10. **[Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest](http://arxiv.org/abs/2604.08525v1)** — Analyzes the ethical implications of deploying LLMs in contexts where user preferences may conflict with commercial interests.
+
+#### Blog Posts
+1. **[Show HN: Marimo pair – Reactive Python notebooks as environments for agents](https://github.com/marimo-team/marimo-pair)** by github.com
+2. **[Model-Based Testing for Dungeons & Dragons](https://www.loskutoff.com/blog/model-based-testing-dnd/)** by loskutoff.com
+3. **[Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs](https://twill.ai)** by twill.ai
+4. **[Automatisation & IA | Que faire de la main-d’œuvre peu qualifiée ?](https://mdthoughts.medium.com/automatisation-ia-que-faire-de-la-main-d%C5%93uvre-peu-qualifi%C3%A9e-1414b332757f)** by MD Toughts
+5. **[Your AI Agent isn’t Hallucinating — It’s Just Out of Context Space](https://shivampatel07.medium.com/your-ai-agent-isnt-hallucinating-it-s-just-out-of-context-space-221778df73f8)** by Shivam Patel
+6. **[UI Will Disappear in 5 Years](https://medium.com/@rahulkumar8707/ui-will-disappear-in-5-years-60b60fcf879d)** by Rahul Kumar
+7. **[Meta Just Blew Up Its Entire AI Strategy. Here’s What They Built Instead.](https://medium.com/@mitrapatel/meta-just-blew-up-its-entire-ai-strategy-heres-what-they-built-instead-60809d1ec739)** by Mitra Patel
+
+#### Trending Repos
+1. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** — Train a 64M-parameter GPT from scratch in just 2h! 🚀🚀 ⭐ 46452
+2. **[rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)** — Open-source AI coworker, with memory. ⭐ 11881
+3. **[feast-dev/feast](https://github.com/feast-dev/feast)** — The Open Source Feature Store for AI/ML. ⭐ 6942
+4. **[multica-ai/multica](https://github.com/multica-ai/multica)** — Open-source managed agents platform for coding agents. ⭐ 6601
+5. **[garrytan/gbrain](https://github.com/garrytan/gbrain)** — Garry's Opinionated OpenClaw/Hermes Agent Brain. ⭐ 3239
+6. **[xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)** — Curated list of Agent Skills centered on people and relationships. ⭐ 2952
+
+</details>
+
+<details>
 <summary><strong>2026-04-10</strong></summary>
 
 #### Papers

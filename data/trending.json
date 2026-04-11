@@ -1,141 +1,136 @@
 {
-  "date": "2026-04-10",
+  "date": "2026-04-11",
   "papers": [
     {
-      "title": "ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models",
-      "url": "https://arxiv.org/abs/2604.08064",
-      "summary": "Existing memory benchmarks for LLM agents evaluate explicit recall of facts, yet overlook implicit memory where experience becomes automated behavior without conscious retrieval. This gap is critical:"
+      "title": "Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images",
+      "url": "https://arxiv.org/abs/2604.07338",
+      "summary": "Recent advances in vision-language models (VLMs) have improved image captioning for cultural heritage. However, inferring structured cultural metadata (e.g., creator, origin, period) from visual input"
     },
     {
-      "title": "Personalizing Text-to-Image Generation to Individual Taste",
-      "url": "https://arxiv.org/abs/2604.07427",
-      "summary": "Modern text-to-image (T2I) models generate high-fidelity visuals but remain indifferent to individual user preferences. While existing reward models optimize for \"average\" human appeal, they fail to c"
+      "title": "QEIL v2: Heterogeneous Computing for Edge Intelligence via Roofline-Derived Pareto-Optimal Energy Modeling and Multi-Objective Orchestration",
+      "url": "https://arxiv.org/abs/2602.06057",
+      "summary": "Deploying large language models (LLMs) on heterogeneous edge devices demands frameworks that jointly optimize energy efficiency, inference quality, and reliability. Our prior QEIL v1 (Kumar & Jha, 202"
     },
     {
-      "title": "POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP",
-      "url": "https://arxiv.org/abs/2604.06938",
-      "summary": "Recent work has explored optimizing image signal processing (ISP) pipelines for various tasks by composing predefined modules and adapting them to task-specific objectives. However, jointly optimizing"
+      "title": "The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment",
+      "url": "https://arxiv.org/abs/2604.06377",
+      "summary": "We investigate whether post-trained capabilities can be transferred across models without retraining, with a focus on transfer across different model scales. We propose the Master Key Hypothesis, whic"
     },
     {
-      "title": "ViVa: A Video-Generative Value Model for Robot Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2604.08168",
-      "summary": "Vision-language-action (VLA) models have advanced robot manipulation through large-scale pretraining, but real-world deployment remains challenging due to partial observability and delayed feedback. R"
+      "title": "Training a Student Expert via Semi-Supervised Foundation Model Distillation",
+      "url": "https://arxiv.org/abs/2604.03841",
+      "summary": "Foundation models deliver strong perception but are often too computationally heavy to deploy, and adapting them typically requires costly annotations. We introduce a semi-supervised knowledge distill"
     },
     {
-      "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
-      "url": "https://arxiv.org/abs/2604.06628",
-      "summary": "A prevailing narrative in LLM post-training holds that supervised finetuning (SFT) memorizes while reinforcement learning (RL) generalizes. We revisit this claim for reasoning SFT with long chain-of-t"
+      "title": "CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation",
+      "url": "https://arxiv.org/abs/2511.16428",
+      "summary": "Self-supervised surround-view depth estimation enables dense, low-cost 3D perception with a 360° field of view from multiple minimally overlapping images. Yet, most existing methods suffer from depth "
     },
     {
-      "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
-      "url": "https://arxiv.org/abs/2604.08523",
-      "summary": "AI agents may be able to automate your inbox, but can they automate other routine aspects of your life? Everyday online tasks offer a realistic yet unsolved testbed for evaluating the next generation "
+      "title": "Small Vision-Language Models are Smart Compressors for Long Video Understanding",
+      "url": "https://arxiv.org/abs/2604.08120",
+      "summary": "Adapting Multimodal Large Language Models (MLLMs) for hour-long videos is bottlenecked by context limits. Dense visual streams saturate token budgets and exacerbate the lost-in-the-middle phenomenon. "
     },
     {
-      "title": "Lighting-grounded Video Generation with Renderer-based Agent Reasoning",
-      "url": "https://arxiv.org/abs/2604.07966",
-      "summary": "Diffusion models have achieved remarkable progress in video generation, but their controllability remains a major limitation. Key scene factors such as layout, lighting, and camera trajectory are ofte"
+      "title": "Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization",
+      "url": "https://arxiv.org/abs/2604.08476",
+      "summary": "Multimodal reasoning models (MRMs) trained with reinforcement learning with verifiable rewards (RLVR) show improved accuracy on visual reasoning benchmarks. However, we observe that accuracy gains oft"
     },
     {
-      "title": "SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
-      "url": "https://arxiv.org/abs/2604.08544",
-      "summary": "Robotic manipulation with deformable objects represents a data-intensive regime in embodied learning, where shape, contact, and topology co-evolve in ways that far exceed the variability of rigids. Al"
+      "title": "AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors",
+      "url": "https://arxiv.org/abs/2601.20524",
+      "summary": "Zero-shot anomaly detection aims to detect and localise abnormal regions in the image without access to any in-domain training images. While recent approaches leverage vision-language models (VLMs), s"
     },
     {
-      "title": "Structured Distillation of Web Agent Capabilities Enables Generalization",
-      "url": "https://arxiv.org/abs/2604.07776",
-      "summary": "Frontier LLMs can navigate complex websites, but their cost and reliance on third-party APIs make local deployment impractical. We introduce Agent-as-Annotators, a framework that structures synthetic "
+      "title": "On the Global Photometric Alignment for Low-Level Vision",
+      "url": "https://arxiv.org/abs/2604.08172",
+      "summary": "Supervised low-level vision models rely on pixel-wise losses against paired references, yet paired training sets exhibit per-pair photometric inconsistency, say, different image pairs demand different"
     },
     {
-      "title": "Structural Graph Probing of Vision-Language Models",
-      "url": "https://arxiv.org/abs/2603.27070",
-      "summary": "Vision-language models (VLMs) achieve strong multimodal performance, yet how computation is organized across populations of neurons remains poorly understood. In this work, we study VLMs through the l"
+      "title": "Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
+      "url": "http://arxiv.org/abs/2604.08545v1",
+      "summary": "The advent of agentic multimodal models has empowered systems to actively interact with external environments. However, current agents suffer from a profound meta-cognitive deficit: they struggle to a"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude mixes up who said what",
-      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-      "author": "dwyer.co.za"
+      "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
+      "url": "https://github.com/marimo-team/marimo-pair",
+      "author": "github.com"
     },
     {
-      "title": "The Vercel plugin on Claude Code wants to read your prompts",
-      "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
-      "author": "akshaychugh.xyz"
+      "title": "Model-Based Testing for Dungeons & Dragons",
+      "url": "https://www.loskutoff.com/blog/model-based-testing-dnd/",
+      "author": "loskutoff.com"
     },
     {
-      "title": "Show HN: CSS Studio. Design by hand, code by agent",
-      "url": "https://cssstudio.ai",
-      "author": "cssstudio.ai"
+      "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+      "url": "https://twill.ai",
+      "author": "twill.ai"
     },
     {
-      "title": "Doing Impressions: Monet's Early Caricatures (ca. late 1850s)",
-      "url": "https://publicdomainreview.org/collection/claude-monet-caricatures/",
-      "author": "publicdomainreview.org"
+      "title": "Automatisation & IA | Que faire de la main-d’œuvre peu qualifiée ?",
+      "url": "https://mdthoughts.medium.com/automatisation-ia-que-faire-de-la-main-d%C5%93uvre-peu-qualifi%C3%A9e-1414b332757f",
+      "author": "MD Toughts"
     },
     {
-      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
-      "url": "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
-      "author": "Maria Dunning"
+      "title": "Your AI Agent isn’t Hallucinating — It’s Just Out of Context Space",
+      "url": "https://shivampatel07.medium.com/your-ai-agent-isnt-hallucinating-it-s-just-out-of-context-space-221778df73f8",
+      "author": "Shivam Patel"
     },
     {
-      "title": "The Training Example Lie Bracket",
-      "url": "https://pbement.com/posts/lie_brackets/",
-      "author": "pbement.com"
+      "title": "UI Will Disappear in 5 Years",
+      "url": "https://medium.com/@rahulkumar8707/ui-will-disappear-in-5-years-60b60fcf879d",
+      "author": "Rahul Kumar"
     },
     {
-      "title": "Experimenting with AI subagents",
-      "url": "https://dev.to/nfrankel/experimenting-with-ai-subagents-pc7",
-      "author": "Nicolas Fränkel"
-    },
-    {
-      "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
-      "url": "https://pvp-ai.russell-harper.com",
-      "author": "pvp-ai.russell-harper.com"
+      "title": "Meta Just Blew Up Its Entire AI Strategy. Here’s What They Built Instead.",
+      "url": "https://medium.com/@mitrapatel/meta-just-blew-up-its-entire-ai-strategy-heres-what-they-built-instead-60809d1ec739",
+      "author": "Mitra Patel"
     }
   ],
   "repos": [
     {
-      "name": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 131030,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!",
+      "stars": 46452,
       "language": "Python"
     },
     {
-      "name": "apache/airflow",
-      "url": "https://github.com/apache/airflow",
-      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-      "stars": 44989,
-      "language": "Python"
-    },
-    {
-      "name": "coleam00/Archon",
-      "url": "https://github.com/coleam00/Archon",
-      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "stars": 14606,
+      "name": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 11881,
       "language": "TypeScript"
     },
     {
-      "name": "opendataloader-project/opendataloader-pdf",
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "stars": 14167,
-      "language": "Java"
-    },
-    {
-      "name": "huggingface/skills",
-      "url": "https://github.com/huggingface/skills",
-      "description": "Give your agents the power of the Hugging Face ecosystem",
-      "stars": 10128,
+      "name": "feast-dev/feast",
+      "url": "https://github.com/feast-dev/feast",
+      "description": "The Open Source Feature Store for AI/ML",
+      "stars": 6942,
       "language": "Python"
     },
     {
-      "name": "YishenTu/claudian",
-      "url": "https://github.com/YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 7020,
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars": 6601,
       "language": "TypeScript"
+    },
+    {
+      "name": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "stars": 3239,
+      "language": "TypeScript"
+    },
+    {
+      "name": "xixu-me/awesome-persona-distill-skills",
+      "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
+      "description": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
+      "stars": 2952,
+      "language": "JavaScript"
     }
   ],
   "tweets": []
