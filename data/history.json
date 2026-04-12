@@ -441,5 +441,33 @@
       "https://github.com/garrytan/gbrain",
       "https://github.com/xixu-me/awesome-persona-distill-skills"
     ]
+  },
+  "2026-04-12": {
+    "papers": [
+      "http://arxiv.org/abs/2604.08544v1",
+      "http://arxiv.org/abs/2604.08541v1",
+      "http://arxiv.org/abs/2604.08540v1",
+      "http://arxiv.org/abs/2604.08539v1",
+      "http://arxiv.org/abs/2604.08537v1",
+      "http://arxiv.org/abs/2604.08536v1",
+      "http://arxiv.org/abs/2604.08529v1",
+      "http://arxiv.org/abs/2604.08527v1",
+      "http://arxiv.org/abs/2604.08525v1"
+    ],
+    "blogs": [
+      "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "https://cirruslabs.org/",
+      "https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction",
+      "https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506",
+      "https://dev.to/rijultp/understanding-transformers-part-5-queries-keys-and-similarity-3o7k"
+    ],
+    "repos": [
+      "https://github.com/google-research/bert",
+      "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "https://github.com/Arindam200/awesome-ai-apps",
+      "https://github.com/alchaincyf/hermes-agent-orange-book",
+      "https://github.com/yizhiyanhua-ai/fireworks-tech-graph"
+    ]
   }
 }

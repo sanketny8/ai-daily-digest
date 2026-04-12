@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-12</strong></summary>
+
+#### Papers
+1. **[SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds](http://arxiv.org/abs/2604.08544v1)** — This paper explores robotic manipulation of deformable objects, addressing the complexities of shape and contact in learning.
+2. **[Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts](http://arxiv.org/abs/2604.08541v1)** — Investigates a phenomenon in multimodal models where they perform well but fail to engage in deeper reasoning.
+3. **[AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation](http://arxiv.org/abs/2604.08540v1)** — Proposes a new benchmark for evaluating text-to-audio-video generation, addressing fragmented assessment methods.
+4. **[OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks](http://arxiv.org/abs/2604.08539v1)** — Introduces a model that optimizes reinforcement learning for various visual tasks across multiple domains.
+5. **[Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding](http://arxiv.org/abs/2604.08537v1)** — Discusses a method for visual decoding from brain signals, bridging neuroscience and computer vision.
+6. **[RewardFlow: Generate Images by Optimizing What You Reward](http://arxiv.org/abs/2604.08536v1)** — Presents a framework for guiding image generation using reward-based dynamics, enhancing model performance.
+7. **[PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents](http://arxiv.org/abs/2604.08529v1)** — Proposes a shared-state architecture for improving coherence in AI-generated tools from natural language inputs.
+8. **[Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models](http://arxiv.org/abs/2604.08527v1)** — Analyzes on-policy distillation in language models, identifying challenges and proposing stabilization strategies.
+9. **[Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest](http://arxiv.org/abs/2604.08525v1)** — Examines the ethical implications of deploying LLMs in commercial contexts, focusing on user alignment and conflicts of interest.
+10. **[RewardFlow: Generate Images by Optimizing What You Reward](http://arxiv.org/abs/2604.08536v1)** — Introduces a framework that steers image generation models using a reward optimization approach.
+
+#### Blog Posts
+1. **[Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)** by aisle.com
+2. **[How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)** by rdi.berkeley.edu
+3. **[Cirrus Labs to join OpenAI](https://cirruslabs.org/)** by cirruslabs.org
+4. **[Cooperative Vectors Introduction](https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction)** by evolvebenchmark.com
+5. **[I Couldn’t Afford Earth, So I Built Something Better](https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506)** by Konark Sharma
+6. **[Understanding Transformers Part 5: Queries, Keys, and Similarity](https://dev.to/rijultp/understanding-transformers-part-5-queries-keys-and-similarity-3o7k)** by Rijul Rajesh
+
+#### Trending Repos
+1. **[google-research/bert](https://github.com/google-research/bert)** — TensorFlow code and pre-trained models for BERT. ⭐ 39975
+2. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. ⭐ 18164
+3. **[Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)** — A collection of projects showcasing RAG, agents, workflows, and other AI use cases. ⭐ 10027
+4. **[alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)** — Hermes Agent practical guide for mastering AI Agent framework. ⭐ 1955
+5. **[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** — Claude Code skill for generating production-quality SVG+PNG technical diagrams. ⭐ 1150
+
+</details>
+
+<details>
 <summary><strong>2026-04-11</strong></summary>
 
 #### Papers
