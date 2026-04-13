@@ -10,6 +10,36 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-13</strong></summary>
+
+#### Papers
+1. **[AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents](https://arxiv.org/abs/2603.27490)** — This paper addresses context management challenges in autonomous agents for long-term information retrieval.
+2. **[Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism](https://arxiv.org/abs/2604.09544)** — Examines the vulnerabilities of LLMs to harmful content generation despite alignment training.
+3. **[ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion](https://arxiv.org/abs/2604.09450)** — Proposes a method to streamline chest X-ray report generation, reducing radiologist workload.
+4. **[Structured Causal Video Reasoning via Multi-Objective Alignment](https://arxiv.org/abs/2604.04415)** — Introduces a framework for understanding video dynamics through structured mental representations.
+5. **[Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video](https://arxiv.org/abs/2604.07786)** — Focuses on enhancing the realism of talking face videos through emotion editing techniques.
+6. **[WildDet3D: Scaling Promptable 3D Detection in the Wild](https://arxiv.org/abs/2604.08626)** — Discusses advancements in monocular 3D object detection from single images for improved spatial intelligence.
+7. **[FORGE: Fine-grained Multimodal Evaluation for Manufacturing Scenarios](https://arxiv.org/abs/2604.07413)** — Evaluates the use of multimodal models in manufacturing, addressing gaps in current assessment methods.
+8. **[Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory](https://arxiv.org/abs/2604.08995)** — Explores the potential of diffusion models as world models for interactive video generation.
+9. **[CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation](https://arxiv.org/abs/2604.09201)** — Investigates camera-controllable video generation with a focus on spatial reasoning.
+10. **[Toward World Models for Epidemiology](http://arxiv.org/abs/2604.09519v1)** — Proposes a framework for using world models to simulate epidemiological dynamics and support planning.
+
+#### Blog Posts
+1. **[Pro Max 5x quota exhausted in 1.5 hours despite moderate usage](https://github.com/anthropics/claude-code/issues/45756)** by github.com
+2. **[Anthropic downgraded cache TTL on March 6th](https://github.com/anthropics/claude-code/issues/46829)** by github.com
+3. **[European AI. A playbook to own it](https://europe.mistral.ai/)** by europe.mistral.ai
+4. **[Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%](https://twitter.com/bridgemindai/status/2043321284113670594)** by twitter.com
+
+#### Trending Repos
+1. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM-powered stock analysis system for A/H/US markets. ⭐ 29594
+2. **[rustfs/rustfs](https://github.com/rustfs/rustfs)** — High-performance object storage system, faster than MinIO for small payloads. ⭐ 25413
+3. **[ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)** — Blender MCP repository. ⭐ 19242
+4. **[snarktank/ralph](https://github.com/snarktank/ralph)** — Autonomous AI agent loop for managing PRD items. ⭐ 16159
+5. **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** — Desktop app for creating an organized knowledge base from documents. ⭐ 998
+
+</details>
+
+<details>
 <summary><strong>2026-04-12</strong></summary>
 
 #### Papers
