@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-14</strong></summary>
+
+#### Papers
+1. **[Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind](https://arxiv.org/abs/2604.11666)** — This paper explores how LLMs can understand and reason about dialogue partners' intentions using theory of mind.
+2. **[DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain](https://arxiv.org/abs/2604.10425)** — Introduces a benchmark for enhancing Vision-Language Models in understanding dietary contexts.
+3. **[Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator](https://arxiv.org/abs/2604.08121)** — Proposes a model that integrates video understanding and generation, addressing computational challenges.
+4. **[Zero-shot World Models Are Developmentally Efficient Learners](https://arxiv.org/abs/2604.10333)** — Investigates how children learn about their environment, suggesting efficient learning models for AI.
+5. **[SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation](https://arxiv.org/abs/2604.09212)** — Focuses on maintaining consistent personas in multi-turn dialogues with LLMs for better reliability.
+6. **[Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs](https://arxiv.org/abs/2604.10480)** — Analyzes the impact of post-training data on LLM capabilities and their interconnectedness.
+7. **[Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?](http://arxiv.org/abs/2604.11802v1)** — Explores how LLMs can mimic personality traits using psychological constructs.
+8. **[ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection](http://arxiv.org/abs/2604.11790v1)** — Addresses security vulnerabilities in LLM agents, proposing a framework to mitigate risks.
+9. **[Continuous Adversarial Flow Models](https://arxiv.org/abs/2604.11521)** — Introduces a new type of flow model trained with adversarial objectives for improved performance.
+10. **[Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems](http://arxiv.org/abs/2604.11807v1)** — Develops forecasting algorithms for solar energy systems, emphasizing atmospheric thermodynamics.
+
+#### Blog Posts
+1. **[GAIA – Open-source framework for building AI agents that run on local hardware](https://amd-gaia.ai/docs)** by amd-gaia.ai
+2. **[Rust Threads on the GPU](https://www.vectorware.com/blog/threads-on-gpu/)** by vectorware.com
+3. **[Claude Code may be burning your limits with invisible tokens](https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/)** by efficienist.com
+4. **[I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.](https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc)** by marcosomma
+5. **[Build a Talking Robot with Gemini Live and Reachy Mini](https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2)** by Thor 雷神 Schaeff
+6. **[AI Context Window Overflow: Memory Pointer Fix](https://dev.to/aws/ai-context-window-overflow-memory-pointer-fix-3akc)** by Elizabeth Fuentes L
+7. **[The fear arrived before the future.](https://jaymavs.medium.com/the-fear-arrived-before-the-future-0c7484794f42)** by Jay Mavani
+
+#### Trending Repos
+1. **[gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)** — A powerful meta-prompting and context engineering system for Claude Code. ⭐ 52388
+2. **[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** — A collection of notebooks showcasing effective ways of using Claude. ⭐ 39760
+3. **[axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl)** — A project designed for interactive question-and-answer sessions. ⭐ 11683
+4. **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — An AI engine for fully automated short video creation. ⭐ 3877
+
+</details>
+
+<details>
 <summary><strong>2026-04-13</strong></summary>
 
 #### Papers

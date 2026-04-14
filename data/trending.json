@@ -1,114 +1,122 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "papers": [
     {
-      "title": "AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents",
-      "url": "https://arxiv.org/abs/2603.27490",
-      "summary": "As large language models (LLMs) evolve into autonomous agents for long-horizon information-seeking, managing finite context capacity has become a critical bottleneck. Existing context management metho"
+      "title": "Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind",
+      "url": "https://arxiv.org/abs/2604.11666",
+      "summary": "As large language models (LLMs) become the engine behind conversational systems, their ability to reason about the intentions and states of their dialogue partners (i.e., form and use a theory-of-mind"
     },
     {
-      "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
-      "url": "https://arxiv.org/abs/2604.09544",
-      "summary": "Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can"
+      "title": "DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain",
+      "url": "https://arxiv.org/abs/2604.10425",
+      "summary": "Recent advancements in Vision-Language Models (VLMs) have revolutionized general visual understanding. However, their application in the food domain remains constrained by benchmarks that rely on coar"
     },
     {
-      "title": "ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion",
-      "url": "https://arxiv.org/abs/2604.09450",
-      "summary": "Chest X-ray report generation (CXR-RG) has the potential to substantially alleviate radiologists' workload. However, conventional autoregressive vision--language models (VLMs) suffer from high inferen"
+      "title": "Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator",
+      "url": "https://arxiv.org/abs/2604.08121",
+      "summary": "Unified multimodal models integrating visual understanding and generation face a fundamental challenge: visual generation incurs substantially higher computational costs than understanding, particular"
     },
     {
-      "title": "Structured Causal Video Reasoning via Multi-Objective Alignment",
-      "url": "https://arxiv.org/abs/2604.04415",
-      "summary": "Human understanding of video dynamics is typically grounded in a structured mental representation of entities, actions, and temporal relations, rather than relying solely on immediate deductive reason"
+      "title": "SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context",
+      "url": "https://arxiv.org/abs/2604.11716",
+      "summary": "Prior representative ReAct-style approaches in autonomous Software Engineering (SWE) typically lack the explicit System-2 reasoning required for deep analysis and handling complex edge cases. While re"
     },
     {
-      "title": "Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video",
-      "url": "https://arxiv.org/abs/2604.07786",
-      "summary": "Talking face generation has gained significant attention as a core application of generative models. To enhance the expressiveness and realism of synthesized videos, emotion editing in talking face vi"
+      "title": "Zero-shot World Models Are Developmentally Efficient Learners",
+      "url": "https://arxiv.org/abs/2604.10333",
+      "summary": "Young children demonstrate early abilities to understand their physical world, estimating depth, motion, object coherence, interactions, and many other aspects of physical scene understanding. Childre"
     },
     {
-      "title": "WildDet3D: Scaling Promptable 3D Detection in the Wild",
-      "url": "https://arxiv.org/abs/2604.08626",
-      "summary": "Understanding objects in 3D from a single image is a cornerstone of spatial intelligence. A key step toward this goal is monocular 3D object detection--recovering the extent, location, and orientation"
+      "title": "Prompt Relay: Inference-Time Temporal Control for Multi-Event Video Generation",
+      "url": "https://arxiv.org/abs/2604.10030",
+      "summary": "Video diffusion models have achieved remarkable progress in generating high-quality videos. However, these models struggle to represent the temporal succession of multiple events in real-world videos "
     },
     {
-      "title": "FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios",
-      "url": "https://arxiv.org/abs/2604.07413",
-      "summary": "The manufacturing sector is increasingly adopting Multimodal Large Language Models (MLLMs) to transition from simple perception to autonomous execution, yet current evaluations fail to reflect the rig"
+      "title": "Continuous Adversarial Flow Models",
+      "url": "https://arxiv.org/abs/2604.11521",
+      "summary": "We propose continuous adversarial flow models, a type of continuous-time flow model trained with an adversarial objective. Unlike flow matching, which uses a fixed mean-squared-error criterion, our ap"
     },
     {
-      "title": "EXAONE 4.5 Technical Report",
-      "url": "https://arxiv.org/abs/2604.08644",
-      "summary": "This technical report introduces EXAONE 4.5, the first open-weight vision language model released by LG AI Research. EXAONE 4.5 is architected by integrating a dedicated visual encoder into the existi"
+      "title": "SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation",
+      "url": "https://arxiv.org/abs/2604.09212",
+      "summary": "Large language models are increasingly deployed in multi-turn settings such as tutoring, support, and counseling, where reliability depends on preserving consistent roles, personas, and goals across l"
     },
     {
-      "title": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
-      "url": "https://arxiv.org/abs/2604.08995",
-      "summary": "With the advancement of interactive video generation, diffusion models have increasingly demonstrated their potential as world models. However, existing approaches still struggle to simultaneously ach"
+      "title": "Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs",
+      "url": "https://arxiv.org/abs/2604.10480",
+      "summary": "Post-training data plays a pivotal role in shaping the capabilities of Large Language Models (LLMs), yet datasets are often treated as isolated artifacts, overlooking the systemic connections that und"
     },
     {
-      "title": "CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation",
-      "url": "https://arxiv.org/abs/2604.09201",
-      "summary": "Camera-controllable video generation aims to synthesize videos with flexible and physically plausible camera movements. However, existing methods either provide imprecise camera control from text prom"
+      "title": "Introspective Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2604.11035",
+      "summary": "Diffusion language models promise parallel generation, yet still lag behind autoregressive (AR) models in quality. We stem this gap to a failure of introspective consistency: AR models agree with thei"
     }
   ],
   "blog_posts": [
     {
-      "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-      "url": "https://github.com/anthropics/claude-code/issues/45756",
-      "author": "github.com"
+      "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
+      "url": "https://amd-gaia.ai/docs",
+      "author": "amd-gaia.ai"
     },
     {
-      "title": "Anthropic downgraded cache TTL on March 6th",
-      "url": "https://github.com/anthropics/claude-code/issues/46829",
-      "author": "github.com"
+      "title": "Rust Threads on the GPU",
+      "url": "https://www.vectorware.com/blog/threads-on-gpu/",
+      "author": "vectorware.com"
     },
     {
-      "title": "European AI. A playbook to own it",
-      "url": "https://europe.mistral.ai/",
-      "author": "europe.mistral.ai"
+      "title": "Claude Code may be burning your limits with invisible tokens",
+      "url": "https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/",
+      "author": "efficienist.com"
     },
     {
-      "title": "Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%",
-      "url": "https://twitter.com/bridgemindai/status/2043321284113670594",
-      "author": "twitter.com"
+      "title": "I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.",
+      "url": "https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc",
+      "author": "marcosomma"
+    },
+    {
+      "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
+      "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
+      "author": "Thor 雷神 Schaeff"
+    },
+    {
+      "title": "AI Context Window Overflow: Memory Pointer Fix",
+      "url": "https://dev.to/aws/ai-context-window-overflow-memory-pointer-fix-3akc",
+      "author": "Elizabeth Fuentes L"
+    },
+    {
+      "title": "The fear arrived before the future.",
+      "url": "https://jaymavs.medium.com/the-fear-arrived-before-the-future-0c7484794f42",
+      "author": "Jay Mavani"
     }
   ],
   "repos": [
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 29594,
+      "name": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "stars": 52388,
+      "language": "JavaScript"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 39760,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "axolotl-ai-cloud/axolotl",
+      "url": "https://github.com/axolotl-ai-cloud/axolotl",
+      "description": "Go ahead and axolotl questions",
+      "stars": 11683,
       "language": "Python"
     },
     {
-      "name": "rustfs/rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms ",
-      "stars": 25413,
-      "language": "Rust"
-    },
-    {
-      "name": "ahujasid/blender-mcp",
-      "url": "https://github.com/ahujasid/blender-mcp",
-      "description": "",
-      "stars": 19242,
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars": 3877,
       "language": "Python"
-    },
-    {
-      "name": "snarktank/ralph",
-      "url": "https://github.com/snarktank/ralph",
-      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
-      "stars": 16159,
-      "language": "TypeScript"
-    },
-    {
-      "name": "nashsu/llm_wiki",
-      "url": "https://github.com/nashsu/llm_wiki",
-      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e",
-      "stars": 998,
-      "language": "TypeScript"
     }
   ],
   "tweets": []

@@ -496,5 +496,34 @@
       "https://github.com/snarktank/ralph",
       "https://github.com/nashsu/llm_wiki"
     ]
+  },
+  "2026-04-14": {
+    "papers": [
+      "https://arxiv.org/abs/2604.11666",
+      "https://arxiv.org/abs/2604.10425",
+      "https://arxiv.org/abs/2604.08121",
+      "https://arxiv.org/abs/2604.11716",
+      "https://arxiv.org/abs/2604.10333",
+      "https://arxiv.org/abs/2604.10030",
+      "https://arxiv.org/abs/2604.11521",
+      "https://arxiv.org/abs/2604.09212",
+      "https://arxiv.org/abs/2604.10480",
+      "https://arxiv.org/abs/2604.11035"
+    ],
+    "blogs": [
+      "https://amd-gaia.ai/docs",
+      "https://www.vectorware.com/blog/threads-on-gpu/",
+      "https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/",
+      "https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc",
+      "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
+      "https://dev.to/aws/ai-context-window-overflow-memory-pointer-fix-3akc",
+      "https://jaymavs.medium.com/the-fear-arrived-before-the-future-0c7484794f42"
+    ],
+    "repos": [
+      "https://github.com/gsd-build/get-shit-done",
+      "https://github.com/anthropics/claude-cookbooks",
+      "https://github.com/axolotl-ai-cloud/axolotl",
+      "https://github.com/AIDC-AI/Pixelle-Video"
+    ]
   }
 }
