@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-15</strong></summary>
+
+#### Papers
+1. **[Masked by Consensus: Disentangling Privileged Knowledge in LLM Correctness](https://arxiv.org/abs/2604.12373)** — Investigates if large language models possess internal states similar to human introspection for evaluating understanding.
+2. **[CONSCIENTIA: Can LLM Agents Learn to Strategize? Emergent Deception and Trust in a Multi-Agent NYC Simulation](https://arxiv.org/abs/2604.09746)** — Explores strategic behavior and trust issues in multi-agent environments using large language models.
+3. **[Beyond Perception Errors: Semantic Fixation in Large Vision-Language Models](https://arxiv.org/abs/2604.12119)** — Analyzes how vision-language models fail due to semantic biases rather than just perception errors.
+4. **[Many-Tier Instruction Hierarchy in LLM Agents](https://arxiv.org/abs/2604.09443)** — Examines how varying instruction sources affect the trust and authority in large language model agents.
+5. **[KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance](https://arxiv.org/abs/2604.12627)** — Introduces a method to enhance reasoning in LLMs using reinforcement learning with minimal knowledge input.
+6. **[You Only Judge Once: Multi-response Reward Modeling in a Single Forward Pass](https://arxiv.org/abs/2604.10966)** — Proposes a novel reward model that evaluates multiple responses simultaneously, improving efficiency in assessments.
+7. **[Towards Long-horizon Agentic Multimodal Search](https://arxiv.org/abs/2604.12890)** — Discusses the potential of multimodal agents in solving complex tasks through iterative evidence collection.
+8. **[LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment](https://arxiv.org/abs/2604.11689)** — Addresses the challenge of aligning vision and action in models using unlabeled human action data.
+9. **[Self-Adversarial One Step Generation via Condition Shifting](https://arxiv.org/abs/2604.12322)** — Investigates efficient text-to-image synthesis methods that balance fidelity, speed, and training efficiency.
+10. **[Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](http://arxiv.org/abs/2604.13016v1)** — Provides insights into the dynamics of on-policy distillation in large language models for improved training.
+
+#### Blog Posts
+1. **[Introspective Diffusion Language Models](https://introspective-diffusion.github.io/)** by introspective-diffusion.github.io
+2. **[Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)** by blog.google
+3. **[The M×N problem of tool calling and open-source models](https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract)** by thetypicalset.com
+4. **[OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports](https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/)** by reuters.com
+5. **[Multi-Agentic Software Development Is a Distributed Systems Problem](https://kirancodes.me/posts/log-distributed-llms.html)** by kirancodes.me
+
+#### Trending Repos
+1. **[vllm-project/vllm](https://github.com/vllm-project/vllm)** — A high-throughput and memory-efficient inference and serving engine for LLMs. ⭐ 76643
+2. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** — AI generates natively editable PPTX from any document — real PowerPoint shapes, not images. ⭐ 5221
+3. **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** — Build your own AI SRE agents. The open source toolkit for the AI era. ⭐ 768
+4. **[whwangovo/pyre-code](https://github.com/whwangovo/pyre-code)** — A self-hosted ML coding practice platform with instant feedback in the browser. ⭐ 700
+5. **[AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw)** — Let Skills Evolve Collectively with Agentic Evolver. ⭐ 542
+
+</details>
+
+<details>
 <summary><strong>2026-04-14</strong></summary>
 
 #### Papers

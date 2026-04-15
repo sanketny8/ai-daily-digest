@@ -525,5 +525,37 @@
       "https://github.com/axolotl-ai-cloud/axolotl",
       "https://github.com/AIDC-AI/Pixelle-Video"
     ]
+  },
+  "2026-04-15": {
+    "papers": [
+      "https://arxiv.org/abs/2604.12373",
+      "https://arxiv.org/abs/2604.05072",
+      "https://arxiv.org/abs/2604.09746",
+      "https://arxiv.org/abs/2604.12119",
+      "https://arxiv.org/abs/2604.09443",
+      "https://arxiv.org/abs/2604.11689",
+      "https://arxiv.org/abs/2604.12627",
+      "https://arxiv.org/abs/2604.12322",
+      "https://arxiv.org/abs/2604.10966",
+      "https://arxiv.org/abs/2604.12890"
+    ],
+    "blogs": [
+      "https://introspective-diffusion.github.io/",
+      "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+      "https://github.com/ginlix-ai/langalpha",
+      "https://kirancodes.me/posts/log-distributed-llms.html",
+      "https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/",
+      "https://github.com/dropseed/plain",
+      "https://openai.com/index/scaling-trusted-access-for-cyber-defense/"
+    ],
+    "repos": [
+      "https://github.com/vllm-project/vllm",
+      "https://github.com/hugohe3/ppt-master",
+      "https://github.com/joeynyc/hermes-hudui",
+      "https://github.com/Tracer-Cloud/opensre",
+      "https://github.com/whwangovo/pyre-code",
+      "https://github.com/AMAP-ML/SkillClaw"
+    ]
   }
 }

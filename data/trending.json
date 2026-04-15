@@ -1,121 +1,140 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "papers": [
     {
-      "title": "Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind",
-      "url": "https://arxiv.org/abs/2604.11666",
-      "summary": "As large language models (LLMs) become the engine behind conversational systems, their ability to reason about the intentions and states of their dialogue partners (i.e., form and use a theory-of-mind"
+      "title": "Masked by Consensus: Disentangling Privileged Knowledge in LLM Correctness",
+      "url": "https://arxiv.org/abs/2604.12373",
+      "summary": "Humans use introspection to evaluate their understanding through private internal states inaccessible to external observers. We investigate whether large language models possess similar privileged kno"
     },
     {
-      "title": "DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain",
-      "url": "https://arxiv.org/abs/2604.10425",
-      "summary": "Recent advancements in Vision-Language Models (VLMs) have revolutionized general visual understanding. However, their application in the food domain remains constrained by benchmarks that rely on coar"
+      "title": "Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling",
+      "url": "https://arxiv.org/abs/2604.05072",
+      "summary": "Recent large language models have shifted SVG generation from differentiable rendering optimization to autoregressive program synthesis. However, existing approaches still rely on generic byte-level t"
     },
     {
-      "title": "Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator",
-      "url": "https://arxiv.org/abs/2604.08121",
-      "summary": "Unified multimodal models integrating visual understanding and generation face a fundamental challenge: visual generation incurs substantially higher computational costs than understanding, particular"
+      "title": "CONSCIENTIA: Can LLM Agents Learn to Strategize? Emergent Deception and Trust in a Multi-Agent NYC Simulation",
+      "url": "https://arxiv.org/abs/2604.09746",
+      "summary": "As large language models (LLMs) are increasingly deployed as autonomous agents, understanding how strategic behavior emerges in multi-agent environments has become an important alignment challenge. We"
     },
     {
-      "title": "SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context",
-      "url": "https://arxiv.org/abs/2604.11716",
-      "summary": "Prior representative ReAct-style approaches in autonomous Software Engineering (SWE) typically lack the explicit System-2 reasoning required for deep analysis and handling complex edge cases. While re"
+      "title": "Beyond Perception Errors: Semantic Fixation in Large Vision-Language Models",
+      "url": "https://arxiv.org/abs/2604.12119",
+      "summary": "Large vision-language models (VLMs) often rely on familiar semantic priors, but existing evaluations do not cleanly separate perception failures from rule-mapping failures. We study this behavior as s"
     },
     {
-      "title": "Zero-shot World Models Are Developmentally Efficient Learners",
-      "url": "https://arxiv.org/abs/2604.10333",
-      "summary": "Young children demonstrate early abilities to understand their physical world, estimating depth, motion, object coherence, interactions, and many other aspects of physical scene understanding. Childre"
+      "title": "Many-Tier Instruction Hierarchy in LLM Agents",
+      "url": "https://arxiv.org/abs/2604.09443",
+      "summary": "Large language model agents receive instructions from many sources-system messages, user prompts, tool outputs, and more-each carrying different levels of trust and authority. When these instructions "
     },
     {
-      "title": "Prompt Relay: Inference-Time Temporal Control for Multi-Event Video Generation",
-      "url": "https://arxiv.org/abs/2604.10030",
-      "summary": "Video diffusion models have achieved remarkable progress in generating high-quality videos. However, these models struggle to represent the temporal succession of multiple events in real-world videos "
+      "title": "LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment",
+      "url": "https://arxiv.org/abs/2604.11689",
+      "summary": "While the shortage of explicit action data limits Vision-Language-Action (VLA) models, human action videos offer a scalable yet unlabeled data source. A critical challenge in utilizing large-scale hum"
     },
     {
-      "title": "Continuous Adversarial Flow Models",
-      "url": "https://arxiv.org/abs/2604.11521",
-      "summary": "We propose continuous adversarial flow models, a type of continuous-time flow model trained with an adversarial objective. Unlike flow matching, which uses a fixed mean-squared-error criterion, our ap"
+      "title": "KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance",
+      "url": "https://arxiv.org/abs/2604.12627",
+      "summary": "RLVR improves reasoning in large language models, but its effectiveness is often limited by severe reward sparsity on hard problems. Recent hint-based RL methods mitigate sparsity by injecting partial"
     },
     {
-      "title": "SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation",
-      "url": "https://arxiv.org/abs/2604.09212",
-      "summary": "Large language models are increasingly deployed in multi-turn settings such as tutoring, support, and counseling, where reliability depends on preserving consistent roles, personas, and goals across l"
+      "title": "Self-Adversarial One Step Generation via Condition Shifting",
+      "url": "https://arxiv.org/abs/2604.12322",
+      "summary": "The push for efficient text to image synthesis has moved the field toward one step sampling, yet existing methods still face a three way tradeoff among fidelity, inference speed, and training efficien"
     },
     {
-      "title": "Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs",
-      "url": "https://arxiv.org/abs/2604.10480",
-      "summary": "Post-training data plays a pivotal role in shaping the capabilities of Large Language Models (LLMs), yet datasets are often treated as isolated artifacts, overlooking the systemic connections that und"
+      "title": "You Only Judge Once: Multi-response Reward Modeling in a Single Forward Pass",
+      "url": "https://arxiv.org/abs/2604.10966",
+      "summary": "We present a discriminative multimodal reward model that scores all candidate responses in a single forward pass. Conventional discriminative reward models evaluate each response independently, requir"
     },
     {
-      "title": "Introspective Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2604.11035",
-      "summary": "Diffusion language models promise parallel generation, yet still lag behind autoregressive (AR) models in quality. We stem this gap to a failure of introspective consistency: AR models agree with thei"
+      "title": "Towards Long-horizon Agentic Multimodal Search",
+      "url": "https://arxiv.org/abs/2604.12890",
+      "summary": "Multimodal deep search agents have shown great potential in solving complex tasks by iteratively collecting textual and visual evidence. However, managing the heterogeneous information and high token "
     }
   ],
   "blog_posts": [
     {
-      "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "url": "https://amd-gaia.ai/docs",
-      "author": "amd-gaia.ai"
+      "title": "Introspective Diffusion Language Models",
+      "url": "https://introspective-diffusion.github.io/",
+      "author": "introspective-diffusion.github.io"
     },
     {
-      "title": "Rust Threads on the GPU",
-      "url": "https://www.vectorware.com/blog/threads-on-gpu/",
-      "author": "vectorware.com"
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "author": "blog.google"
     },
     {
-      "title": "Claude Code may be burning your limits with invisible tokens",
-      "url": "https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/",
-      "author": "efficienist.com"
+      "title": "The M×N problem of tool calling and open-source models",
+      "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+      "author": "thetypicalset.com"
     },
     {
-      "title": "I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.",
-      "url": "https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc",
-      "author": "marcosomma"
+      "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+      "url": "https://github.com/ginlix-ai/langalpha",
+      "author": "github.com"
     },
     {
-      "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
-      "url": "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
-      "author": "Thor 雷神 Schaeff"
+      "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+      "url": "https://kirancodes.me/posts/log-distributed-llms.html",
+      "author": "kirancodes.me"
     },
     {
-      "title": "AI Context Window Overflow: Memory Pointer Fix",
-      "url": "https://dev.to/aws/ai-context-window-overflow-memory-pointer-fix-3akc",
-      "author": "Elizabeth Fuentes L"
+      "title": "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports",
+      "url": "https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/",
+      "author": "reuters.com"
     },
     {
-      "title": "The fear arrived before the future.",
-      "url": "https://jaymavs.medium.com/the-fear-arrived-before-the-future-0c7484794f42",
-      "author": "Jay Mavani"
+      "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
+      "url": "https://github.com/dropseed/plain",
+      "author": "github.com"
+    },
+    {
+      "title": "Trusted access for the next era of cyber defense",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
+      "author": "openai.com"
     }
   ],
   "repos": [
     {
-      "name": "gsd-build/get-shit-done",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
-      "stars": 52388,
-      "language": "JavaScript"
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": 39760,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "name": "axolotl-ai-cloud/axolotl",
-      "url": "https://github.com/axolotl-ai-cloud/axolotl",
-      "description": "Go ahead and axolotl questions",
-      "stars": 11683,
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 76643,
       "language": "Python"
     },
     {
-      "name": "AIDC-AI/Pixelle-Video",
-      "url": "https://github.com/AIDC-AI/Pixelle-Video",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "stars": 3877,
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
+      "stars": 5221,
+      "language": "Python"
+    },
+    {
+      "name": "joeynyc/hermes-hudui",
+      "url": "https://github.com/joeynyc/hermes-hudui",
+      "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+      "stars": 889,
+      "language": "TypeScript"
+    },
+    {
+      "name": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+      "stars": 768,
+      "language": "Python"
+    },
+    {
+      "name": "whwangovo/pyre-code",
+      "url": "https://github.com/whwangovo/pyre-code",
+      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+      "stars": 700,
+      "language": "Python"
+    },
+    {
+      "name": "AMAP-ML/SkillClaw",
+      "url": "https://github.com/AMAP-ML/SkillClaw",
+      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+      "stars": 542,
       "language": "Python"
     }
   ],
