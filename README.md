@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-16</strong></summary>
+
+#### Papers
+1. **[ReconPhys: Reconstruct Appearance and Physical Attributes from Single Video](https://arxiv.org/abs/2604.07882)** — This paper addresses the challenge of reconstructing non-rigid objects with physical plausibility from single videos.
+2. **[Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents](https://arxiv.org/abs/2604.14004)** — It explores how coding agents can leverage memory across different task domains for improved performance.
+3. **[Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure](https://arxiv.org/abs/2604.11045)** — Proposes a new infrastructure for AI coding agents that enhances their programmability and integration into various environments.
+4. **[Exploration and Exploitation Errors Are Measurable for Language Model Agents](https://arxiv.org/abs/2604.13151)** — Investigates the exploration and exploitation capabilities of language model agents in complex decision-making tasks.
+5. **[MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments](https://arxiv.org/abs/2604.13418)** — Introduces a benchmark for evaluating multimodal evidence retrieval in challenging web environments.
+6. **[RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time](https://arxiv.org/abs/2604.11626)** — Discusses a new approach to reward modeling that incorporates reasoning for visual generation tasks.
+7. **[LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning](http://arxiv.org/abs/2604.14140v1)** — Evaluates the reasoning capabilities of language models over extended tasks, crucial for autonomous applications.
+8. **[Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis](http://arxiv.org/abs/2604.14121v1)** — Analyzes reasoning errors in language models and proposes a framework for improving their synthesis capabilities.
+9. **[HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System](http://arxiv.org/abs/2604.14125v1)** — Presents a new system for robotic manipulation that integrates visual grounding with hierarchical reasoning.
+10. **[TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration](http://arxiv.org/abs/2604.14116v1)** — Explores automation in fine-tuning large language models through innovative exploration techniques.
+
+#### Blog Posts
+1. **[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://www.gizmoweek.com/gemma-4-runs-iphone/)** by gizmoweek.com
+2. **[The Gemini app is now on Mac](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/)** by blog.google
+3. **[How to prompt Gemini 3.1's new text to speech model](https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb)** by fofr
+4. **[Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45)** by medium.com
+5. **[Lost in the AI Hype, I Started Small](https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72)** by Rohini Gaonkar
+6. **[AI Assistance Reduces Persistence and Hurts Independent Performance](https://arxiv.org/pdf/2604.04721)** by krig
+7. **[Between White Tablecloths and a Real Life](https://medium.com/@alkenso.visme/between-white-tablecloths-and-a-real-life-4a86b4e1e3c7)** by visme
+8. **[From Prototype to Production: How Claude Managed Agents Changes the AI Delivery Timeline](https://medium.com/@ai_93276/from-prototype-to-production-how-claude-managed-agents-changes-the-ai-delivery-timeline-cfe3c2e682b2)** by The Ai Consultancy
+
+#### Trending Repos
+1. **[zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)** — A powerful AI assistant capable of proactive task planning and integration across various platforms. ⭐ 43303
+2. **[Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)** — A practical programming tutorial series focused on large language models. ⭐ 30003
+3. **[sgl-project/sglang](https://github.com/sgl-project/sglang)** — A high-performance serving framework for large and multimodal language models. ⭐ 25884
+4. **[google/magika](https://github.com/google/magika)** — AI-powered tool for fast and accurate file content type detection. ⭐ 14017
+5. **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** — A game development studio framework utilizing AI agents for coordination. ⭐ 10881
+6. **[vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)** — An open-source template for building cloud agents. ⭐ 2827
+
+</details>
+
+<details>
 <summary><strong>2026-04-15</strong></summary>
 
 #### Papers

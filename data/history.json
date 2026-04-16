@@ -557,5 +557,37 @@
       "https://github.com/whwangovo/pyre-code",
       "https://github.com/AMAP-ML/SkillClaw"
     ]
+  },
+  "2026-04-16": {
+    "papers": [
+      "https://arxiv.org/abs/2604.07882",
+      "https://arxiv.org/abs/2604.14004",
+      "https://arxiv.org/abs/2604.11045",
+      "https://arxiv.org/abs/2604.13151",
+      "https://arxiv.org/abs/2604.09409",
+      "https://arxiv.org/abs/2604.14142",
+      "https://arxiv.org/abs/2604.11626",
+      "https://arxiv.org/abs/2604.14048",
+      "https://arxiv.org/abs/2604.13418",
+      "https://arxiv.org/abs/2604.13822"
+    ],
+    "blogs": [
+      "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
+      "https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb",
+      "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+      "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
+      "https://arxiv.org/pdf/2604.04721",
+      "https://medium.com/@alkenso.visme/between-white-tablecloths-and-a-real-life-4a86b4e1e3c7",
+      "https://medium.com/@ai_93276/from-prototype-to-production-how-claude-managed-agents-changes-the-ai-delivery-timeline-cfe3c2e682b2"
+    ],
+    "repos": [
+      "https://github.com/zhayujie/CowAgent",
+      "https://github.com/Lordog/dive-into-llms",
+      "https://github.com/sgl-project/sglang",
+      "https://github.com/google/magika",
+      "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "https://github.com/vercel-labs/open-agents"
+    ]
   }
 }
