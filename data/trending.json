@@ -1,141 +1,167 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "papers": [
     {
-      "title": "ReconPhys: Reconstruct Appearance and Physical Attributes from Single Video",
-      "url": "https://arxiv.org/abs/2604.07882",
-      "summary": "Reconstructing non-rigid objects with physical plausibility remains a significant challenge. Existing approaches leverage differentiable rendering for per-scene optimization, recovering geometry and d"
+      "title": "TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification",
+      "url": "https://arxiv.org/abs/2604.14531",
+      "summary": "Every call to an LLM classification endpoint produces a labeled input-output pair already retained in production logs. These pairs constitute a free, growing training set: a lightweight surrogate trai"
     },
     {
-      "title": "Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents",
-      "url": "https://arxiv.org/abs/2604.14004",
-      "summary": "Memory-based self-evolution has emerged as a promising paradigm for coding agents. However, existing approaches typically restrict memory utilization to homogeneous task domains, failing to leverage t"
+      "title": "OneHOI: Unifying Human-Object Interaction Generation and Editing",
+      "url": "https://arxiv.org/abs/2604.14062",
+      "summary": "Human-Object Interaction (HOI) modelling captures how humans act upon and relate to objects, typically expressed as <person, action, object> triplets. Existing approaches split into two disjoint famil"
     },
     {
-      "title": "Sema Code: Decoupling AI Coding Agents into Programmable, Embeddable Infrastructure",
-      "url": "https://arxiv.org/abs/2604.11045",
-      "summary": "AI coding agents have become central to developer workflows, yet every existing solution locks its reasoning capabilities within a specific delivery form, such as a CLI, IDE plugin, or web application"
+      "title": "Towards Autonomous Mechanistic Reasoning in Virtual Cells",
+      "url": "https://arxiv.org/abs/2604.11661",
+      "summary": "Large language models (LLMs) have recently gained significant attention as a promising approach to accelerate scientific discovery. However, their application in open-ended scientific domains such as "
     },
     {
-      "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
-      "url": "https://arxiv.org/abs/2604.13151",
-      "summary": "Language Model (LM) agents are increasingly used in complex open-ended decision-making tasks, from AI coding to physical AI. A core requirement in these settings is the ability to both explore the pro"
+      "title": "GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens",
+      "url": "https://arxiv.org/abs/2604.15284",
+      "summary": "The efficient spatial allocation of primitives serves as the foundation of 3D Gaussian Splatting, as it directly dictates the synergy between representation compactness, reconstruction speed, and rend"
     },
     {
-      "title": "Do AI Coding Agents Log Like Humans? An Empirical Study",
-      "url": "https://arxiv.org/abs/2604.09409",
-      "summary": "Software logging is essential for maintaining and debugging complex systems, yet it remains unclear how AI coding agents handle this non-functional requirement. While prior work characterizes human lo"
+      "title": "Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3",
+      "url": "https://arxiv.org/abs/2603.27844",
+      "summary": "Majority voting over multiple LLM attempts improves mathematical reasoning, but correlated errors limit the effective sample size. A natural fix is to assign different reasoning strategies to differen"
     },
     {
-      "title": "From P(y|x) to P(y): Investigating Reinforcement Learning in Pre-train Space",
-      "url": "https://arxiv.org/abs/2604.14142",
-      "summary": "While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base m"
+      "title": "SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems",
+      "url": "https://arxiv.org/abs/2604.04514",
+      "summary": "AI coding agents operate in a paradox: they possess vast parametric knowledge yet cannot remember a conversation from an hour ago. Existing memory systems store text in vector databases with single-ch"
     },
     {
-      "title": "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time",
-      "url": "https://arxiv.org/abs/2604.11626",
-      "summary": "Most reward models for visual generation reduce rich human judgments to a single unexplained score, discarding the reasoning that underlies preference. We show that teaching reward models to produce e"
+      "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
+      "url": "https://arxiv.org/abs/2604.14125",
+      "summary": "While end-to-end Vision-Language-Action (VLA) models offer a promising paradigm for robotic manipulation, fine-tuning them on narrow control data often compromises the profound reasoning capabilities "
     },
     {
-      "title": "Free Geometry: Refining 3D Reconstruction from Longer Versions of Itself",
-      "url": "https://arxiv.org/abs/2604.14048",
-      "summary": "Feed-forward 3D reconstruction models are efficient but rigid: once trained, they perform inference in a zero-shot manner and cannot adapt to the test scene. As a result, visually plausible reconstruc"
+      "title": "How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data",
+      "url": "https://arxiv.org/abs/2604.14164",
+      "summary": "A widely adopted strategy for model enhancement is to use synthetic data generated by a stronger model for supervised fine-tuning (SFT). However, for emerging reasoning models like Qwen3-8B, this appr"
     },
     {
-      "title": "MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments",
-      "url": "https://arxiv.org/abs/2604.13418",
-      "summary": "Motivated by the underspecified, multi-hop nature of search queries and the multimodal, heterogeneous, and often conflicting nature of real-world web results, we introduce MERRIN (Multimodal Evidence "
+      "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
+      "url": "https://arxiv.org/abs/2604.14228",
+      "summary": "Claude Code is an agentic coding tool that can run shell commands, edit files, and call external services on behalf of the user. This study describes its comprehensive architecture by analyzing the pu"
     },
     {
-      "title": "UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization",
-      "url": "https://arxiv.org/abs/2604.13822",
-      "summary": "MLLM-based GUI agents have demonstrated strong capabilities in complex user interface interaction tasks. However, long-horizon scenarios remain challenging, as these agents are burdened with tasks bey"
+      "title": "C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences",
+      "url": "https://arxiv.org/abs/2604.13618",
+      "summary": "Rubric-augmented verification guides reward models with explicit evaluation criteria, yielding more reliable judgments than single-model verification. However, most existing methods require costly rub"
     }
   ],
   "blog_posts": [
     {
-      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-      "author": "gizmoweek.com"
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "author": "anthropic.com"
     },
     {
-      "title": "The Gemini app is now on Mac",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
-      "author": "blog.google"
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "author": "qwen.ai"
     },
     {
-      "title": "How to prompt Gemini 3.1's new text to speech model",
-      "url": "https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb",
-      "author": "fofr"
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "author": "openai.com"
     },
     {
-      "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
-      "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
-      "author": "medium.com"
+      "title": "Cloudflare Email Service",
+      "url": "https://blog.cloudflare.com/email-for-agents/",
+      "author": "blog.cloudflare.com"
     },
     {
-      "title": "Lost in the AI Hype, I Started Small",
-      "url": "https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72",
-      "author": "Rohini Gaonkar"
+      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+      "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+      "author": "discuss.ai.google.dev"
     },
     {
-      "title": "AI Assistance Reduces Persistence and Hurts Independent Performance",
-      "url": "https://arxiv.org/pdf/2604.04721",
-      "author": "krig"
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "url": "https://blog.cloudflare.com/ai-platform/",
+      "author": "blog.cloudflare.com"
     },
     {
-      "title": "Between White Tablecloths and a Real Life",
-      "url": "https://medium.com/@alkenso.visme/between-white-tablecloths-and-a-real-life-4a86b4e1e3c7",
-      "author": "visme"
+      "title": "Laravel raised money and now injects ads directly into your agent",
+      "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
+      "author": "techstackups.com"
     },
     {
-      "title": "From Prototype to Production: How Claude Managed Agents Changes the AI Delivery Timeline",
-      "url": "https://medium.com/@ai_93276/from-prototype-to-production-how-claude-managed-agents-changes-the-ai-delivery-timeline-cfe3c2e682b2",
-      "author": "The Ai Consultancy"
+      "title": "Claude Opus 4.7 Model Card",
+      "url": "https://anthropic.com/claude-opus-4-7-system-card",
+      "author": "anthropic.com"
+    },
+    {
+      "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+      "url": "https://github.com/SeanFDZ/macmind",
+      "author": "github.com"
     }
   ],
   "repos": [
     {
-      "name": "zhayujie/CowAgent",
-      "url": "https://github.com/zhayujie/CowAgent",
-      "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语",
-      "stars": 43303,
+      "name": "oobabooga/textgen",
+      "url": "https://github.com/oobabooga/textgen",
+      "description": "The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.",
+      "stars": 46696,
       "language": "Python"
     },
     {
-      "name": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "stars": 30003,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "name": "sgl-project/sglang",
-      "url": "https://github.com/sgl-project/sglang",
-      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
-      "stars": 25884,
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars": 37730,
       "language": "Python"
     },
     {
-      "name": "google/magika",
-      "url": "https://github.com/google/magika",
-      "description": "Fast and accurate AI powered file content types detection",
-      "stars": 14017,
+      "name": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "stars": 30121,
       "language": "Python"
     },
     {
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "stars": 10881,
-      "language": "Shell"
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "stars": 24128,
+      "language": "Python"
     },
     {
-      "name": "vercel-labs/open-agents",
-      "url": "https://github.com/vercel-labs/open-agents",
-      "description": "An open source template for building cloud agents.",
-      "stars": 2827,
-      "language": "TypeScript"
+      "name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "stars": 21428,
+      "language": "Python"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+      "stars": 15977,
+      "language": "Python"
+    },
+    {
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": 10447,
+      "language": "Python"
+    },
+    {
+      "name": "BasedHardware/omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "stars": 9345,
+      "language": "Dart"
+    },
+    {
+      "name": "EvoMap/evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "stars": 3392,
+      "language": "JavaScript"
     }
   ],
   "tweets": []

@@ -10,6 +10,44 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-17</strong></summary>
+
+#### Papers
+1. **[TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification](https://arxiv.org/abs/2604.14531)** — This paper introduces a method to utilize production logs for free training data in LLM classification.
+2. **[OneHOI: Unifying Human-Object Interaction Generation and Editing](https://arxiv.org/abs/2604.14062)** — It presents a unified framework for generating and editing human-object interactions in AI models.
+3. **[Towards Autonomous Mechanistic Reasoning in Virtual Cells](https://arxiv.org/abs/2604.11661)** — This work explores the use of LLMs for scientific discovery in complex biological systems.
+4. **[GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens](https://arxiv.org/abs/2604.15284)** — The paper discusses a new method for efficient 3D rendering using Gaussian splatting techniques.
+5. **[Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3](https://arxiv.org/abs/2603.27844)** — It highlights the importance of diverse reasoning strategies for improving mathematical reasoning in LLMs.
+6. **[SuperLocalMemory V3.3: The Living Brain](https://arxiv.org/abs/2604.04514)** — This paper proposes a biologically-inspired memory system for AI agents to enhance their conversational memory.
+7. **[HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System](https://arxiv.org/abs/2604.14125)** — It introduces a new system for robotic manipulation that integrates visual grounding with hierarchical control.
+8. **[C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences](https://arxiv.org/abs/2604.13618)** — The study presents a method for improving reward models using structured evaluation criteria.
+9. **[Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations](https://arxiv.org/abs/2604.15302)** — This paper provides a toolkit to assess the reliability of LLMs in natural language generation evaluations.
+10. **[How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study](https://arxiv.org/abs/2604.15294)** — It investigates how models understand spatial transformations without visual input, enhancing interpretability.
+
+#### Blog Posts
+1. **[Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)** by Anthropic
+2. **[Qwen3.6-35B-A3B: Agentic coding power, now open to all](https://qwen.ai/blog?id=qwen3.6-35b-a3b)** by Qwen
+3. **[Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)** by OpenAI
+4. **[Cloudflare Email Service](https://blog.cloudflare.com/email-for-agents/)** by Cloudflare
+5. **[Cloudflare's AI Platform: an inference layer designed for agents](https://blog.cloudflare.com/ai-platform/)** by Cloudflare
+6. **[Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)** by Tech Stack Ups
+7. **[Claude Opus 4.7 Model Card](https://anthropic.com/claude-opus-4-7-system-card)** by Anthropic
+8. **[Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh](https://github.com/SeanFDZ/macmind)** by SeanFDZ
+
+#### Trending Repos
+1. **[oobabooga/textgen](https://github.com/oobabooga/textgen)** — The original local LLM interface with UI and API, fully offline. ⭐ 46696
+2. **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** — A tutorial on building intelligent agents from scratch. ⭐ 37730
+3. **[github/awesome-copilot](https://github.com/github/awesome-copilot)** — Community-contributed resources for maximizing GitHub Copilot's potential. ⭐ 30121
+4. **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source tool for identifying and fixing app vulnerabilities. ⭐ 24128
+5. **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** — A framework for creating multi-agent workflows. ⭐ 21428
+6. **[topoteretes/cognee](https://github.com/topoteretes/cognee)** — A simple knowledge engine for AI agent memory. ⭐ 15977
+7. **[jundot/omlx](https://github.com/jundot/omlx)** — LLM inference server optimized for Apple Silicon. ⭐ 10447
+8. **[BasedHardware/omi](https://github.com/BasedHardware/omi)** — AI that observes and advises based on user interactions. ⭐ 9345
+9. **[EvoMap/evolver](https://github.com/EvoMap/evolver)** — A self-evolution engine for AI agents using genome evolution protocols. ⭐ 3392
+
+</details>
+
+<details>
 <summary><strong>2026-04-16</strong></summary>
 
 #### Papers
