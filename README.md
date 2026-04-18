@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-18</strong></summary>
+
+#### Papers
+1. **[Reinforcement Learning via Value Gradient Flow](https://arxiv.org/abs/2604.14265)** — This paper explores behavior-regularized reinforcement learning, focusing on regularization toward reference distributions.
+2. **[Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes](https://arxiv.org/abs/2604.14914)** — It discusses text-driven inversion of generative models for manipulating 3D content, enhancing applications like style transfer.
+3. **[Three-Phase Transformer](https://arxiv.org/abs/2604.14430)** — Introduces a new structural prior for decoder-only Transformers, improving performance through a unique hidden vector partitioning.
+4. **[RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography](https://arxiv.org/abs/2604.15231)** — This paper presents an AI agent that enhances medical imaging interpretation, bridging gaps between AI and clinical practice.
+5. **[Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG](https://arxiv.org/abs/2604.14572)** — Proposes a method for improving LLMs by enabling them to navigate and understand their knowledge corpus.
+6. **[Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction](https://arxiv.org/abs/2604.11707)** — Focuses on enhancing video prediction accuracy through a hierarchical approach that prioritizes scene semantics.
+7. **[Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models](https://arxiv.org/abs/2604.14629)** — This work addresses deployment challenges of large vision-language models through innovative knowledge distillation techniques.
+8. **[Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations](http://arxiv.org/abs/2604.15302v1)** — Investigates the reliability of LLMs in automatic evaluation, providing diagnostic tools for better understanding.
+9. **[Why Do Vision Language Models Struggle To Recognize Human Emotions?](http://arxiv.org/abs/2604.15280v1)** — Explores the limitations of VLMs in understanding human emotions, a crucial aspect for human-AI interaction.
+10. **[Prism: Symbolic Superoptimization of Tensor Programs](http://arxiv.org/abs/2604.15272v1)** — Introduces Prism, a novel approach for optimizing tensor programs symbolically, enhancing computational efficiency.
+
+#### Blog Posts
+1. **[Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)** by anthropic.com
+2. **[Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)** by claudecodecamp.com
+3. **[Artifacts: Versioned storage that speaks Git](https://blog.cloudflare.com/artifacts-git-for-agents-beta/)** by blog.cloudflare.com
+4. **[Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)** by tobyord.com
+5. **[Scan your website to see how ready it is for AI agents](https://isitagentready.com)** by isitagentready.com
+6. **[Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab)** by Jess Lee
+7. **[What Is MCP and Why Does It Need a Gateway? A Practical Guide for AI Engineers](https://dev.to/therealmrmumba/what-is-mcp-and-why-does-it-need-a-gateway-a-practical-guide-for-ai-engineers-2p0g)** by Emmanuel Mumba
+
+#### Trending Repos
+1. **[anthropics/skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills. ⭐ 119718
+2. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. ⭐ 106179
+3. **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — Chrome DevTools for coding agents. ⭐ 35958
+4. **[lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)** — Open-source project for crafting agents. ⭐ 4332
+5. **[lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)** — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption. ⭐ 3878
+6. **[SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)** — Claude Code skill to support Android app's reverse engineering. ⭐ 2863
+
+</details>
+
+<details>
 <summary><strong>2026-04-17</strong></summary>
 
 #### Papers

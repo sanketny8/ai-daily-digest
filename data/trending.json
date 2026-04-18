@@ -1,167 +1,136 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "papers": [
     {
-      "title": "TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification",
-      "url": "https://arxiv.org/abs/2604.14531",
-      "summary": "Every call to an LLM classification endpoint produces a labeled input-output pair already retained in production logs. These pairs constitute a free, growing training set: a lightweight surrogate trai"
+      "title": "Reinforcement Learning via Value Gradient Flow",
+      "url": "https://arxiv.org/abs/2604.14265",
+      "summary": "We study behavior-regularized reinforcement learning (RL), where regularization toward a reference distribution (the dataset in offline RL or the base model in LLM RL finetuning) is essential to preve"
     },
     {
-      "title": "OneHOI: Unifying Human-Object Interaction Generation and Editing",
-      "url": "https://arxiv.org/abs/2604.14062",
-      "summary": "Human-Object Interaction (HOI) modelling captures how humans act upon and relate to objects, typically expressed as <person, action, object> triplets. Existing approaches split into two disjoint famil"
+      "title": "Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes",
+      "url": "https://arxiv.org/abs/2604.14914",
+      "summary": "Text-driven inversion of generative models is a core paradigm for manipulating 2D or 3D content, unlocking numerous applications such as text-based editing, style transfer, or inverse problems. Howeve"
     },
     {
-      "title": "Towards Autonomous Mechanistic Reasoning in Virtual Cells",
-      "url": "https://arxiv.org/abs/2604.11661",
-      "summary": "Large language models (LLMs) have recently gained significant attention as a promising approach to accelerate scientific discovery. However, their application in open-ended scientific domains such as "
+      "title": "Three-Phase Transformer",
+      "url": "https://arxiv.org/abs/2604.14430",
+      "summary": "We present Three-Phase Transformer (3PT), a residual-stream structural prior for decoder-only Transformers on a standard SwiGLU + RMSNorm + RoPE + GQA backbone. The hidden vector is partitioned into N"
     },
     {
-      "title": "GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens",
-      "url": "https://arxiv.org/abs/2604.15284",
-      "summary": "The efficient spatial allocation of primitives serves as the foundation of 3D Gaussian Splatting, as it directly dictates the synergy between representation compactness, reconstruction speed, and rend"
+      "title": "An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning",
+      "url": "https://arxiv.org/abs/2211.16780",
+      "summary": "In online incremental learning, data continuously arrives with substantial distributional shifts, creating a significant challenge because previous samples have limited replay value when learning a ne"
     },
     {
-      "title": "Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3",
-      "url": "https://arxiv.org/abs/2603.27844",
-      "summary": "Majority voting over multiple LLM attempts improves mathematical reasoning, but correlated errors limit the effective sample size. A natural fix is to assign different reasoning strategies to differen"
+      "title": "Boosting Visual Instruction Tuning with Self-Supervised Guidance",
+      "url": "https://arxiv.org/abs/2604.12966",
+      "summary": "Multimodal large language models (MLLMs) perform well on many vision-language tasks but often struggle with vision-centric problems that require fine-grained visual reasoning. Recent evidence suggests"
     },
     {
-      "title": "SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems",
-      "url": "https://arxiv.org/abs/2604.04514",
-      "summary": "AI coding agents operate in a paradox: they possess vast parametric knowledge yet cannot remember a conversation from an hour ago. Existing memory systems store text in vector databases with single-ch"
+      "title": "RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography",
+      "url": "https://arxiv.org/abs/2604.15231",
+      "summary": "Vision-language models (VLM) have markedly advanced AI-driven interpretation and reporting of complex medical imaging, such as computed tomography (CT). Yet, existing methods largely relegate clinicia"
     },
     {
-      "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
-      "url": "https://arxiv.org/abs/2604.14125",
-      "summary": "While end-to-end Vision-Language-Action (VLA) models offer a promising paradigm for robotic manipulation, fine-tuning them on narrow control data often compromises the profound reasoning capabilities "
+      "title": "Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG",
+      "url": "https://arxiv.org/abs/2604.14572",
+      "summary": "Retrieval-Augmented Generation (RAG) grounds LLM responses in external evidence but treats the model as a passive consumer of search results: it never sees how the corpus is organized or what it has n"
     },
     {
-      "title": "How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data",
-      "url": "https://arxiv.org/abs/2604.14164",
-      "summary": "A widely adopted strategy for model enhancement is to use synthetic data generated by a stronger model for supervised fine-tuning (SFT). However, for emerging reasoning models like Qwen3-8B, this appr"
+      "title": "Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction",
+      "url": "https://arxiv.org/abs/2604.11707",
+      "summary": "Accurate future video prediction requires both high visual fidelity and consistent scene semantics, particularly in complex dynamic environments such as autonomous driving. We present Re2Pix, a hierar"
     },
     {
-      "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
-      "url": "https://arxiv.org/abs/2604.14228",
-      "summary": "Claude Code is an agentic coding tool that can run shell commands, edit files, and call external services on behalf of the user. This study describes its comprehensive architecture by analyzing the pu"
+      "title": "Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models",
+      "url": "https://arxiv.org/abs/2604.14629",
+      "summary": "Vision-Language Models (VLMs) have shown remarkable capabilities in joint vision-language understanding, but their large scale poses significant challenges for deployment in resource-constrained scena"
     },
     {
-      "title": "C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences",
-      "url": "https://arxiv.org/abs/2604.13618",
-      "summary": "Rubric-augmented verification guides reward models with explicit evaluation criteria, yielding more reliable judgments than single-model verification. However, most existing methods require costly rub"
+      "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+      "url": "http://arxiv.org/abs/2604.15309v1",
+      "summary": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
       "author": "anthropic.com"
     },
     {
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "author": "qwen.ai"
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "author": "claudecodecamp.com"
     },
     {
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "author": "openai.com"
-    },
-    {
-      "title": "Cloudflare Email Service",
-      "url": "https://blog.cloudflare.com/email-for-agents/",
+      "title": "Artifacts: Versioned storage that speaks Git",
+      "url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
       "author": "blog.cloudflare.com"
     },
     {
-      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-      "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-      "author": "discuss.ai.google.dev"
+      "title": "Are the costs of AI agents also rising exponentially? (2025)",
+      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+      "author": "tobyord.com"
     },
     {
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "url": "https://blog.cloudflare.com/ai-platform/",
-      "author": "blog.cloudflare.com"
+      "title": "Scan your website to see how ready it is for AI agents",
+      "url": "https://isitagentready.com",
+      "author": "isitagentready.com"
     },
     {
-      "title": "Laravel raised money and now injects ads directly into your agent",
-      "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
-      "author": "techstackups.com"
+      "title": "Congrats to the Notion MCP Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
+      "author": "Jess Lee"
     },
     {
-      "title": "Claude Opus 4.7 Model Card",
-      "url": "https://anthropic.com/claude-opus-4-7-system-card",
-      "author": "anthropic.com"
-    },
-    {
-      "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
-      "url": "https://github.com/SeanFDZ/macmind",
-      "author": "github.com"
+      "title": "What Is MCP and Why Does It Need a Gateway? A Practical Guide for AI Engineers",
+      "url": "https://dev.to/therealmrmumba/what-is-mcp-and-why-does-it-need-a-gateway-a-practical-guide-for-ai-engineers-2p0g",
+      "author": "Emmanuel Mumba"
     }
   ],
   "repos": [
     {
-      "name": "oobabooga/textgen",
-      "url": "https://github.com/oobabooga/textgen",
-      "description": "The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.",
-      "stars": 46696,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 119718,
       "language": "Python"
     },
     {
-      "name": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": 37730,
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "stars": 106179,
       "language": "Python"
     },
     {
-      "name": "github/awesome-copilot",
-      "url": "https://github.com/github/awesome-copilot",
-      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-      "stars": 30121,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 35958,
+      "language": "TypeScript"
+    },
+    {
+      "name": "lukilabs/craft-agents-oss",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
+      "description": "",
+      "stars": 4332,
+      "language": "TypeScript"
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 3878,
       "language": "Python"
     },
     {
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-      "stars": 24128,
-      "language": "Python"
-    },
-    {
-      "name": "openai/openai-agents-python",
-      "url": "https://github.com/openai/openai-agents-python",
-      "description": "A lightweight, powerful framework for multi-agent workflows",
-      "stars": 21428,
-      "language": "Python"
-    },
-    {
-      "name": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-      "stars": 15977,
-      "language": "Python"
-    },
-    {
-      "name": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "stars": 10447,
-      "language": "Python"
-    },
-    {
-      "name": "BasedHardware/omi",
-      "url": "https://github.com/BasedHardware/omi",
-      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
-      "stars": 9345,
-      "language": "Dart"
-    },
-    {
-      "name": "EvoMap/evolver",
-      "url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-      "stars": 3392,
-      "language": "JavaScript"
+      "name": "SimoneAvogadro/android-reverse-engineering-skill",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "stars": 2863,
+      "language": "Shell"
     }
   ],
   "tweets": []

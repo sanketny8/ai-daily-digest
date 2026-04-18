@@ -625,5 +625,36 @@
       "https://github.com/BasedHardware/omi",
       "https://github.com/EvoMap/evolver"
     ]
+  },
+  "2026-04-18": {
+    "papers": [
+      "https://arxiv.org/abs/2604.14265",
+      "https://arxiv.org/abs/2604.14914",
+      "https://arxiv.org/abs/2604.14430",
+      "https://arxiv.org/abs/2211.16780",
+      "https://arxiv.org/abs/2604.12966",
+      "https://arxiv.org/abs/2604.15231",
+      "https://arxiv.org/abs/2604.14572",
+      "https://arxiv.org/abs/2604.11707",
+      "https://arxiv.org/abs/2604.14629",
+      "http://arxiv.org/abs/2604.15309v1"
+    ],
+    "blogs": [
+      "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+      "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+      "https://isitagentready.com",
+      "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
+      "https://dev.to/therealmrmumba/what-is-mcp-and-why-does-it-need-a-gateway-a-practical-guide-for-ai-engineers-2p0g"
+    ],
+    "repos": [
+      "https://github.com/anthropics/skills",
+      "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "https://github.com/lukilabs/craft-agents-oss",
+      "https://github.com/lsdefine/GenericAgent",
+      "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+    ]
   }
 }
