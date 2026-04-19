@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-19</strong></summary>
+
+#### Papers
+1. **[Generalization in LLM Problem Solving: The Case of the Shortest Path](http://arxiv.org/abs/2604.15306v1)** — This paper explores how various factors influence the generalization capabilities of language models in problem-solving tasks.
+2. **[Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations](http://arxiv.org/abs/2604.15302v1)** — A diagnostic toolkit is presented to assess the reliability of language models used for automatic evaluation of natural language generation.
+3. **[Benchmarking Optimizers for MLPs in Tabular Deep Learning](http://arxiv.org/abs/2604.15297v1)** — This study benchmarks various optimizers for multi-layer perceptrons in deep learning applications focused on tabular data.
+4. **[How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study](http://arxiv.org/abs/2604.15294v1)** — Investigates how language and vision models comprehend spatial transformations without visual input, enhancing interpretability.
+5. **[AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving](http://arxiv.org/abs/2604.15291v1)** — This paper benchmarks visual anomaly detection models crucial for the safety of autonomous driving systems under varied conditions.
+6. **[Why Do Vision Language Models Struggle To Recognize Human Emotions?](http://arxiv.org/abs/2604.15280v1)** — Examines the challenges faced by vision-language models in accurately recognizing and interpreting human emotions.
+7. **[How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations](http://arxiv.org/abs/2604.15273v1)** — Discusses the impact of different node embeddings on the performance of graph neural networks across various architectures.
+8. **[Prism: Symbolic Superoptimization of Tensor Programs](http://arxiv.org/abs/2604.15272v1)** — Introduces Prism, a novel tool for optimizing tensor programs using symbolic representations to enhance computational efficiency.
+9. **[Structural interpretability in SVMs with truncated orthogonal polynomial kernels](http://arxiv.org/abs/2604.15285v1)** — This research focuses on improving interpretability in Support Vector Machines using specific polynomial kernel structures.
+10. **[How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study](http://arxiv.org/abs/2604.15294v1)** — Analyzes the interpretability of language and vision models in understanding spatial transformations without visual data.
+
+#### Blog Posts
+1. **[College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)** by sentinelcolorado.com
+2. **[Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/)** by abacusnoir.com
+3. **[Show HN: AI Subroutines – Run automation scripts inside your browser tab](https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation)** by rtrvr.ai
+4. **[The Zero-Impact Build: Why Writing Less Code is the Best Earth Day Project](https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f)** by Syed Ahmer Shah
+5. **[Anthropic's Claude Mythos Launch Is Built on Misinformation](https://www.artificialintelligencemadesimple.com/p/anthropics-claude-mythos-launch-is)** by eyberg
+6. **[AI Can Write Code, But It Cannot Replace Real Developers](https://medium.com/@sovannaro/ai-can-write-code-but-it-cannot-replace-real-developers-eb0f85b6f1e4)** by SOVANNARO
+7. **[The business portrait problem: why most professionals look amateur online](https://medium.com/@3rror6t9/the-business-portrait-problem-why-most-professionals-look-amateur-online-c323a82fead9)** by ProfessionalHeadshot.io
+
+#### Trending Repos
+1. **[deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)** — Clean and efficient FP8 GEMM kernels with fine-grained scaling. ⭐ 6587
+2. **[aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)** — Claude Desktop for Debian-based Linux distributions. ⭐ 3514
+3. **[dimensionalOS/dimos](https://github.com/dimensionalOS/dimos)** — An agentic operating system for physical space, enabling natural language control of various hardware platforms. ⭐ 3012
+4. **[AI4Finance-Foundation/FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading)** — An AI-native modular infrastructure for quantitative trading. ⭐ 3009
+5. **[thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)** — AI you control: choose your models, own your data, eliminate vendor lock-in. ⭐ 1731
+
+</details>
+
+<details>
 <summary><strong>2026-04-18</strong></summary>
 
 #### Papers

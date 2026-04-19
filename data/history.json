@@ -656,5 +656,34 @@
       "https://github.com/lsdefine/GenericAgent",
       "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
     ]
+  },
+  "2026-04-19": {
+    "papers": [
+      "http://arxiv.org/abs/2604.15306v1",
+      "http://arxiv.org/abs/2604.15302v1",
+      "http://arxiv.org/abs/2604.15297v1",
+      "http://arxiv.org/abs/2604.15294v1",
+      "http://arxiv.org/abs/2604.15291v1",
+      "http://arxiv.org/abs/2604.15285v1",
+      "http://arxiv.org/abs/2604.15280v1",
+      "http://arxiv.org/abs/2604.15273v1",
+      "http://arxiv.org/abs/2604.15272v1"
+    ],
+    "blogs": [
+      "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+      "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
+      "https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f",
+      "https://www.artificialintelligencemadesimple.com/p/anthropics-claude-mythos-launch-is",
+      "https://medium.com/@sovannaro/ai-can-write-code-but-it-cannot-replace-real-developers-eb0f85b6f1e4",
+      "https://medium.com/@3rror6t9/the-business-portrait-problem-why-most-professionals-look-amateur-online-c323a82fead9"
+    ],
+    "repos": [
+      "https://github.com/deepseek-ai/DeepGEMM",
+      "https://github.com/aaddrick/claude-desktop-debian",
+      "https://github.com/dimensionalOS/dimos",
+      "https://github.com/AI4Finance-Foundation/FinRL-Trading",
+      "https://github.com/thunderbird/thunderbolt"
+    ]
   }
 }

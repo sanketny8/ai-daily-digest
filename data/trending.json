@@ -1,136 +1,124 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-19",
   "papers": [
     {
-      "title": "Reinforcement Learning via Value Gradient Flow",
-      "url": "https://arxiv.org/abs/2604.14265",
-      "summary": "We study behavior-regularized reinforcement learning (RL), where regularization toward a reference distribution (the dataset in offline RL or the base model in LLM RL finetuning) is essential to preve"
+      "title": "Generalization in LLM Problem Solving: The Case of the Shortest Path",
+      "url": "http://arxiv.org/abs/2604.15306v1",
+      "summary": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference"
     },
     {
-      "title": "Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes",
-      "url": "https://arxiv.org/abs/2604.14914",
-      "summary": "Text-driven inversion of generative models is a core paradigm for manipulating 2D or 3D content, unlocking numerous applications such as text-based editing, style transfer, or inverse problems. Howeve"
+      "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+      "url": "http://arxiv.org/abs/2604.15302v1",
+      "summary": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva"
     },
     {
-      "title": "Three-Phase Transformer",
-      "url": "https://arxiv.org/abs/2604.14430",
-      "summary": "We present Three-Phase Transformer (3PT), a residual-stream structural prior for decoder-only Transformers on a standard SwiGLU + RMSNorm + RoPE + GQA backbone. The hidden vector is partitioned into N"
+      "title": "Benchmarking Optimizers for MLPs in Tabular Deep Learning",
+      "url": "http://arxiv.org/abs/2604.15297v1",
+      "summary": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture"
     },
     {
-      "title": "An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning",
-      "url": "https://arxiv.org/abs/2211.16780",
-      "summary": "In online incremental learning, data continuously arrives with substantial distributional shifts, creating a significant challenge because previous samples have limited replay value when learning a ne"
+      "title": "How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study",
+      "url": "http://arxiv.org/abs/2604.15294v1",
+      "summary": "Over the past year, spatial intelligence has drawn increasing attention. Many prior works study it from the perspective of visual-spatial intelligence, where models have access to visuospatial informa"
     },
     {
-      "title": "Boosting Visual Instruction Tuning with Self-Supervised Guidance",
-      "url": "https://arxiv.org/abs/2604.12966",
-      "summary": "Multimodal large language models (MLLMs) perform well on many vision-language tasks but often struggle with vision-centric problems that require fine-grained visual reasoning. Recent evidence suggests"
+      "title": "AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
+      "url": "http://arxiv.org/abs/2604.15291v1",
+      "summary": "The reliability of a machine vision system for autonomous driving depends heavily on its training data distribution. When a vehicle encounters significantly different conditions, such as atypical obst"
     },
     {
-      "title": "RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography",
-      "url": "https://arxiv.org/abs/2604.15231",
-      "summary": "Vision-language models (VLM) have markedly advanced AI-driven interpretation and reporting of complex medical imaging, such as computed tomography (CT). Yet, existing methods largely relegate clinicia"
+      "title": "Structural interpretability in SVMs with truncated orthogonal polynomial kernels",
+      "url": "http://arxiv.org/abs/2604.15285v1",
+      "summary": "We study post-training interpretability for Support Vector Machines (SVMs) built from truncated orthogonal polynomial kernels. Since the associated reproducing kernel Hilbert space is finite-dimension"
     },
     {
-      "title": "Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG",
-      "url": "https://arxiv.org/abs/2604.14572",
-      "summary": "Retrieval-Augmented Generation (RAG) grounds LLM responses in external evidence but treats the model as a passive consumer of search results: it never sees how the corpus is organized or what it has n"
+      "title": "Why Do Vision Language Models Struggle To Recognize Human Emotions?",
+      "url": "http://arxiv.org/abs/2604.15280v1",
+      "summary": "Understanding emotions is a fundamental ability for intelligent systems to be able to interact with humans. Vision-language models (VLMs) have made tremendous progress in the last few years for many v"
     },
     {
-      "title": "Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction",
-      "url": "https://arxiv.org/abs/2604.11707",
-      "summary": "Accurate future video prediction requires both high visual fidelity and consistent scene semantics, particularly in complex dynamic environments such as autonomous driving. We present Re2Pix, a hierar"
+      "title": "How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations",
+      "url": "http://arxiv.org/abs/2604.15273v1",
+      "summary": "Node embeddings act as the information interface for graph neural networks, yet their empirical impact is often reported under mismatched backbones, splits, and training budgets. This paper provides a"
     },
     {
-      "title": "Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models",
-      "url": "https://arxiv.org/abs/2604.14629",
-      "summary": "Vision-Language Models (VLMs) have shown remarkable capabilities in joint vision-language understanding, but their large scale poses significant challenges for deployment in resource-constrained scena"
-    },
-    {
-      "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
-      "url": "http://arxiv.org/abs/2604.15309v1",
-      "summary": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly"
+      "title": "Prism: Symbolic Superoptimization of Tensor Programs",
+      "url": "http://arxiv.org/abs/2604.15272v1",
+      "summary": "This paper presents Prism, the first symbolic superoptimizer for tensor programs. The key idea is sGraph, a symbolic, hierarchical representation that compactly encodes large classes of tensor program"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude Design",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "author": "anthropic.com"
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "author": "sentinelcolorado.com"
     },
     {
-      "title": "Measuring Claude 4.7's tokenizer costs",
-      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "author": "claudecodecamp.com"
+      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+      "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+      "author": "abacusnoir.com"
     },
     {
-      "title": "Artifacts: Versioned storage that speaks Git",
-      "url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
-      "author": "blog.cloudflare.com"
+      "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
+      "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
+      "author": "rtrvr.ai"
     },
     {
-      "title": "Are the costs of AI agents also rising exponentially? (2025)",
-      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-      "author": "tobyord.com"
+      "title": "The Zero-Impact Build: Why Writing Less Code is the Best Earth Day Project",
+      "url": "https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f",
+      "author": "Syed Ahmer Shah"
     },
     {
-      "title": "Scan your website to see how ready it is for AI agents",
-      "url": "https://isitagentready.com",
-      "author": "isitagentready.com"
+      "title": "Anthropic's Claude Mythos Launch Is Built on Misinformation",
+      "url": "https://www.artificialintelligencemadesimple.com/p/anthropics-claude-mythos-launch-is",
+      "author": "eyberg"
     },
     {
-      "title": "Congrats to the Notion MCP Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
-      "author": "Jess Lee"
+      "title": "AI Can Write Code, But It Cannot Replace Real Developers",
+      "url": "https://medium.com/@sovannaro/ai-can-write-code-but-it-cannot-replace-real-developers-eb0f85b6f1e4",
+      "author": "SOVANNARO"
     },
     {
-      "title": "What Is MCP and Why Does It Need a Gateway? A Practical Guide for AI Engineers",
-      "url": "https://dev.to/therealmrmumba/what-is-mcp-and-why-does-it-need-a-gateway-a-practical-guide-for-ai-engineers-2p0g",
-      "author": "Emmanuel Mumba"
+      "title": "The business portrait problem: why most professionals look amateur online",
+      "url": "https://medium.com/@3rror6t9/the-business-portrait-problem-why-most-professionals-look-amateur-online-c323a82fead9",
+      "author": "ProfessionalHeadshot.io"
     }
   ],
   "repos": [
     {
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "stars": 119718,
-      "language": "Python"
+      "name": "deepseek-ai/DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "stars": 6587,
+      "language": "Cuda"
     },
     {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
-      "stars": 106179,
-      "language": "Python"
-    },
-    {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "stars": 35958,
-      "language": "TypeScript"
-    },
-    {
-      "name": "lukilabs/craft-agents-oss",
-      "url": "https://github.com/lukilabs/craft-agents-oss",
-      "description": "",
-      "stars": 4332,
-      "language": "TypeScript"
-    },
-    {
-      "name": "lsdefine/GenericAgent",
-      "url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 3878,
-      "language": "Python"
-    },
-    {
-      "name": "SimoneAvogadro/android-reverse-engineering-skill",
-      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-      "description": "Claude Code skill to support Android app's reverse engineering",
-      "stars": 2863,
+      "name": "aaddrick/claude-desktop-debian",
+      "url": "https://github.com/aaddrick/claude-desktop-debian",
+      "description": "Claude Desktop for Debian-based Linux distributions",
+      "stars": 3514,
       "language": "Shell"
+    },
+    {
+      "name": "dimensionalOS/dimos",
+      "url": "https://github.com/dimensionalOS/dimos",
+      "description": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamles",
+      "stars": 3012,
+      "language": "Python"
+    },
+    {
+      "name": "AI4Finance-Foundation/FinRL-Trading",
+      "url": "https://github.com/AI4Finance-Foundation/FinRL-Trading",
+      "description": "FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading",
+      "stars": 3009,
+      "language": "Python"
+    },
+    {
+      "name": "thunderbird/thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "stars": 1731,
+      "language": "TypeScript"
     }
   ],
   "tweets": []
