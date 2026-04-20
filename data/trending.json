@@ -1,124 +1,133 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "papers": [
     {
-      "title": "Generalization in LLM Problem Solving: The Case of the Shortest Path",
-      "url": "http://arxiv.org/abs/2604.15306v1",
-      "summary": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference"
+      "title": "Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips",
+      "url": "https://arxiv.org/abs/2502.07408",
+      "summary": "Deep Neural Networks (DNNs) can be catastrophically disrupted by flipping only a handful of parameter bits. We introduce Deep Neural Lesion (DNL), a data-free and optimizationfree method that locates "
     },
     {
-      "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
-      "url": "http://arxiv.org/abs/2604.15302v1",
-      "summary": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva"
+      "title": "Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems",
+      "url": "https://arxiv.org/abs/2604.04936",
+      "summary": "Retrieval-Augmented Generation (RAG) systems critically depend on effective document chunking strategies to balance retrieval quality, latency, and operational cost. Traditional chunking approaches, s"
     },
     {
-      "title": "Benchmarking Optimizers for MLPs in Tabular Deep Learning",
-      "url": "http://arxiv.org/abs/2604.15297v1",
-      "summary": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture"
+      "title": "AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization",
+      "url": "https://arxiv.org/abs/2511.15915",
+      "summary": "We present AccelOpt, a self-improving large language model (LLM) agentic system that autonomously optimizes kernels for emerging AI acclerators, eliminating the need for expert-provided hardware-speci"
     },
     {
-      "title": "How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study",
-      "url": "http://arxiv.org/abs/2604.15294v1",
-      "summary": "Over the past year, spatial intelligence has drawn increasing attention. Many prior works study it from the perspective of visual-spatial intelligence, where models have access to visuospatial informa"
+      "title": "Repurposing 3D Generative Model for Autoregressive Layout Generation",
+      "url": "https://arxiv.org/abs/2604.16299",
+      "summary": "We introduce LaviGen, a framework that repurposes 3D generative models for 3D layout generation. Unlike previous methods that infer object layouts from textual descriptions, LaviGen operates directly "
     },
     {
-      "title": "AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
-      "url": "http://arxiv.org/abs/2604.15291v1",
-      "summary": "The reliability of a machine vision system for autonomous driving depends heavily on its training data distribution. When a vehicle encounters significantly different conditions, such as atypical obst"
+      "title": "Learning Adaptive Reasoning Paths for Efficient Visual Reasoning",
+      "url": "https://arxiv.org/abs/2604.14568",
+      "summary": "Visual reasoning models (VRMs) have recently shown strong cross-modal reasoning capabilities by integrating visual perception with language reasoning. However, they often suffer from overthinking, pro"
     },
     {
-      "title": "Structural interpretability in SVMs with truncated orthogonal polynomial kernels",
-      "url": "http://arxiv.org/abs/2604.15285v1",
-      "summary": "We study post-training interpretability for Support Vector Machines (SVMs) built from truncated orthogonal polynomial kernels. Since the associated reproducing kernel Hilbert space is finite-dimension"
+      "title": "GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows",
+      "url": "https://arxiv.org/abs/2604.15715",
+      "summary": "The development of general-purpose agents requires a shift from executing simple instructions to completing complex, real-world productivity workflows. However, current tool-use benchmarks remain misa"
     },
     {
-      "title": "Why Do Vision Language Models Struggle To Recognize Human Emotions?",
-      "url": "http://arxiv.org/abs/2604.15280v1",
-      "summary": "Understanding emotions is a fundamental ability for intelligent systems to be able to interact with humans. Vision-language models (VLMs) have made tremendous progress in the last few years for many v"
+      "title": "Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning",
+      "url": "https://arxiv.org/abs/2604.16029",
+      "summary": "Parallel reasoning enhances Large Reasoning Models (LRMs) but incurs prohibitive costs due to futile paths caused by early errors. To mitigate this, path pruning at the prefix level is essential, yet "
     },
     {
-      "title": "How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations",
-      "url": "http://arxiv.org/abs/2604.15273v1",
-      "summary": "Node embeddings act as the information interface for graph neural networks, yet their empirical impact is often reported under mismatched backbones, splits, and training budgets. This paper provides a"
+      "title": "ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics",
+      "url": "https://arxiv.org/abs/2604.16254",
+      "summary": "We present ArtifactNet, a lightweight framework that detects AI-generated music by reframing the problem as forensic physics -- extracting and analyzing the physical artifacts that neural audio codecs"
     },
     {
-      "title": "Prism: Symbolic Superoptimization of Tensor Programs",
-      "url": "http://arxiv.org/abs/2604.15272v1",
-      "summary": "This paper presents Prism, the first symbolic superoptimizer for tensor programs. The key idea is sGraph, a symbolic, hierarchical representation that compactly encodes large classes of tensor program"
+      "title": "PRL-Bench: A Comprehensive Benchmark Evaluating LLMs' Capabilities in Frontier Physics Research",
+      "url": "https://arxiv.org/abs/2604.15411",
+      "summary": "The paradigm of agentic science requires AI systems to conduct robust reasoning and engage in long-horizon, autonomous exploration. However, current scientific benchmarks remain confined to domain kno"
+    },
+    {
+      "title": "Qwen3.5-Omni Technical Report",
+      "url": "https://arxiv.org/abs/2604.15804",
+      "summary": "In this work, we present Qwen3.5-Omni, the latest advancement in the Qwen-Omni model family. Representing a significant evolution over its predecessor, Qwen3.5-Omni scales to hundreds of billions of p"
     }
   ],
   "blog_posts": [
     {
-      "title": "College instructor turns to typewriters to curb AI-written work",
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "author": "sentinelcolorado.com"
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "author": "simonwillison.net"
     },
     {
-      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-      "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
-      "author": "abacusnoir.com"
+      "title": "Claude Token Counter, now with model comparisons",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "author": "simonwillison.net"
     },
     {
-      "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
-      "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
-      "author": "rtrvr.ai"
+      "title": "EM Operating System: Your Brain Is a Terrible Database",
+      "url": "https://dev.to/alexr/em-operating-system-your-brain-is-a-terrible-database-1bce",
+      "author": "Alex (The Engineering Bolt) ⚡"
     },
     {
-      "title": "The Zero-Impact Build: Why Writing Less Code is the Best Earth Day Project",
-      "url": "https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f",
+      "title": "I Almost Lost Commerza: The Brutal Reality of Building an Ecommerce System Without a Framework",
+      "url": "https://dev.to/syedahmershah/i-almost-lost-commerza-the-brutal-reality-of-building-an-ecommerce-system-without-a-framework-5b78",
       "author": "Syed Ahmer Shah"
     },
     {
-      "title": "Anthropic's Claude Mythos Launch Is Built on Misinformation",
-      "url": "https://www.artificialintelligencemadesimple.com/p/anthropics-claude-mythos-launch-is",
-      "author": "eyberg"
-    },
-    {
-      "title": "AI Can Write Code, But It Cannot Replace Real Developers",
-      "url": "https://medium.com/@sovannaro/ai-can-write-code-but-it-cannot-replace-real-developers-eb0f85b6f1e4",
-      "author": "SOVANNARO"
-    },
-    {
-      "title": "The business portrait problem: why most professionals look amateur online",
-      "url": "https://medium.com/@3rror6t9/the-business-portrait-problem-why-most-professionals-look-amateur-online-c323a82fead9",
-      "author": "ProfessionalHeadshot.io"
+      "title": "It Might Already Be Too Late to Fix This",
+      "url": "https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m",
+      "author": "Konark Sharma"
     }
   ],
   "repos": [
     {
-      "name": "deepseek-ai/DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-      "stars": 6587,
-      "language": "Cuda"
-    },
-    {
-      "name": "aaddrick/claude-desktop-debian",
-      "url": "https://github.com/aaddrick/claude-desktop-debian",
-      "description": "Claude Desktop for Debian-based Linux distributions",
-      "stars": 3514,
-      "language": "Shell"
-    },
-    {
-      "name": "dimensionalOS/dimos",
-      "url": "https://github.com/dimensionalOS/dimos",
-      "description": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamles",
-      "stars": 3012,
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+      "stars": 62822,
       "language": "Python"
     },
     {
-      "name": "AI4Finance-Foundation/FinRL-Trading",
-      "url": "https://github.com/AI4Finance-Foundation/FinRL-Trading",
-      "description": "FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading",
-      "stars": 3009,
+      "name": "d2l-ai/d2l-en",
+      "url": "https://github.com/d2l-ai/d2l-en",
+      "description": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.",
+      "stars": 28671,
       "language": "Python"
     },
     {
-      "name": "thunderbird/thunderbolt",
-      "url": "https://github.com/thunderbird/thunderbolt",
-      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "stars": 1731,
-      "language": "TypeScript"
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
+      "stars": 7565,
+      "language": "Python"
+    },
+    {
+      "name": "browser-use/browser-harness",
+      "url": "https://github.com/browser-use/browser-harness",
+      "description": "Self-healing browser harness that enables LLMs to complete any task.",
+      "stars": 2689,
+      "language": "Python"
+    },
+    {
+      "name": "codejunkie99/agentic-stack",
+      "url": "https://github.com/codejunkie99/agentic-stack",
+      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when",
+      "stars": 637,
+      "language": "Python"
+    },
+    {
+      "name": "ZeroZ-lab/cc-design",
+      "url": "https://github.com/ZeroZ-lab/cc-design",
+      "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
+      "stars": 356,
+      "language": "JavaScript"
+    },
+    {
+      "name": "Quorinex/Freebuff2API",
+      "url": "https://github.com/Quorinex/Freebuff2API",
+      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "stars": 346,
+      "language": "Go"
     }
   ],
   "tweets": []

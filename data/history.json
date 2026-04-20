@@ -685,5 +685,35 @@
       "https://github.com/AI4Finance-Foundation/FinRL-Trading",
       "https://github.com/thunderbird/thunderbolt"
     ]
+  },
+  "2026-04-20": {
+    "papers": [
+      "https://arxiv.org/abs/2502.07408",
+      "https://arxiv.org/abs/2604.04936",
+      "https://arxiv.org/abs/2511.15915",
+      "https://arxiv.org/abs/2604.16299",
+      "https://arxiv.org/abs/2604.14568",
+      "https://arxiv.org/abs/2604.15715",
+      "https://arxiv.org/abs/2604.16029",
+      "https://arxiv.org/abs/2604.16254",
+      "https://arxiv.org/abs/2604.15411",
+      "https://arxiv.org/abs/2604.15804"
+    ],
+    "blogs": [
+      "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "https://dev.to/alexr/em-operating-system-your-brain-is-a-terrible-database-1bce",
+      "https://dev.to/syedahmershah/i-almost-lost-commerza-the-brutal-reality-of-building-an-ecommerce-system-without-a-framework-5b78",
+      "https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m"
+    ],
+    "repos": [
+      "https://github.com/bytedance/deer-flow",
+      "https://github.com/d2l-ai/d2l-en",
+      "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "https://github.com/browser-use/browser-harness",
+      "https://github.com/codejunkie99/agentic-stack",
+      "https://github.com/ZeroZ-lab/cc-design",
+      "https://github.com/Quorinex/Freebuff2API"
+    ]
   }
 }

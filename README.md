@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-20</strong></summary>
+
+#### Papers
+1. **[Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips](https://arxiv.org/abs/2502.07408)** — This paper reveals how minimal parameter changes can severely disrupt deep neural networks.
+2. **[Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems](https://arxiv.org/abs/2604.04936)** — Introduces a method to optimize document chunking in retrieval-augmented generation systems for better efficiency.
+3. **[AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization](https://arxiv.org/abs/2511.15915)** — Presents a self-improving system that autonomously optimizes AI accelerator kernels without expert input.
+4. **[Learning Adaptive Reasoning Paths for Efficient Visual Reasoning](https://arxiv.org/abs/2604.14568)** — Discusses a model that enhances visual reasoning by adapting its reasoning paths to improve efficiency.
+5. **[GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows](https://arxiv.org/abs/2604.15715)** — Proposes a new benchmark for evaluating general-purpose agents in complex productivity tasks.
+6. **[Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning](https://arxiv.org/abs/2604.16029)** — Introduces a method for early path pruning to enhance efficiency in parallel reasoning models.
+7. **[ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics](https://arxiv.org/abs/2604.16254)** — A framework that detects AI-generated music by analyzing physical artifacts from neural audio codecs.
+8. **[PRL-Bench: A Comprehensive Benchmark Evaluating LLMs' Capabilities in Frontier Physics Research](https://arxiv.org/abs/2604.15411)** — Evaluates LLMs' abilities in conducting autonomous scientific research in physics.
+9. **[ASMR-Bench: Auditing for Sabotage in ML Research](http://arxiv.org/abs/2604.16286v1)** — Addresses potential flaws in AI research due to misaligned systems that could produce misleading results.
+10. **[VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects](http://arxiv.org/abs/2604.16272v1)** — Proposes a benchmark for evaluating AI-assisted video editing tools in professional contexts.
+
+#### Blog Posts
+1. **[Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)** by Simon Willison
+2. **[Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/)** by Simon Willison
+3. **[EM Operating System: Your Brain Is a Terrible Database](https://dev.to/alexr/em-operating-system-your-brain-is-a-terrible-database-1bce)** by Alex (The Engineering Bolt) ⚡
+4. **[I Almost Lost Commerza: The Brutal Reality of Building an Ecommerce System Without a Framework](https://dev.to/syedahmershah/i-almost-lost-commerza-the-brutal-reality-of-building-an-ecommerce-system-without-a-framework-5b78)** by Syed Ahmer Shah
+5. **[It Might Already Be Too Late to Fix This](https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m)** by Konark Sharma
+
+#### Trending Repos
+1. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** — An open-source long-horizon SuperAgent harness for diverse tasks. ⭐ 62822
+2. **[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)** — Interactive deep learning book with multi-framework code and discussions. ⭐ 28671
+3. **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** — A modern finance app for advanced market analytics and investment research. ⭐ 7565
+4. **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** — Self-healing browser harness enabling LLMs to complete any task. ⭐ 2689
+5. **[codejunkie99/agentic-stack](https://github.com/codejunkie99/agentic-stack)** — A portable agent framework that retains knowledge across different AI tools. ⭐ 637
+6. **[ZeroZ-lab/cc-design](https://github.com/ZeroZ-lab/cc-design)** — High-fidelity HTML design guidance skill for AI agents. ⭐ 356
+7. **[Quorinex/Freebuff2API](https://github.com/Quorinex/Freebuff2API)** — OpenAI-compatible Freebuff proxy with dynamic tracking and Docker deployment. ⭐ 346
+
+</details>
+
+<details>
 <summary><strong>2026-04-19</strong></summary>
 
 #### Papers
