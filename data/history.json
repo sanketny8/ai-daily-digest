@@ -715,5 +715,36 @@
       "https://github.com/ZeroZ-lab/cc-design",
       "https://github.com/Quorinex/Freebuff2API"
     ]
+  },
+  "2026-04-21": {
+    "papers": [
+      "https://arxiv.org/abs/2604.16902",
+      "https://arxiv.org/abs/2604.17308",
+      "https://arxiv.org/abs/2604.18394",
+      "https://arxiv.org/abs/2604.17388",
+      "https://arxiv.org/abs/2604.17454",
+      "https://arxiv.org/abs/2604.16893",
+      "https://arxiv.org/abs/2604.11102",
+      "https://arxiv.org/abs/2604.18574",
+      "https://arxiv.org/abs/2604.17406",
+      "https://arxiv.org/abs/2604.18131"
+    ],
+    "blogs": [
+      "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+      "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+      "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+      "https://docs.openclaw.ai/providers/anthropic",
+      "https://mediator.ai/",
+      "https://dev.to/lovestaco/what-building-with-mcp-taught-me-about-its-biggest-gap-idl",
+      "https://dev.to/jon_at_backboardio/two-days-two-hacks-the-lovable-disclosure-and-the-pattern-nobody-wants-to-talk-about-47eh"
+    ],
+    "repos": [
+      "https://github.com/koala73/worldmonitor",
+      "https://github.com/kyegomez/swarms",
+      "https://github.com/alexzhang13/rlm",
+      "https://github.com/alchaincyf/huashu-design",
+      "https://github.com/kangarooking/cangjie-skill"
+    ]
   }
 }

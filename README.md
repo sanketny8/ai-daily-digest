@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-21</strong></summary>
+
+#### Papers
+1. **[Beyond Text-Dominance: Understanding Modality Preference of Omni-modal Large Language Models](https://arxiv.org/abs/2604.16902)** — This paper explores how Omni-modal Large Language Models integrate different modalities and the implications of this integration.
+2. **[SkillFlow: Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents](https://arxiv.org/abs/2604.17308)** — It presents a framework for evaluating how autonomous agents can learn and adapt new skills over time.
+3. **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394)** — This work discusses a novel approach to game development that combines creative design with software engineering.
+4. **[Back to Repair: A Minimal Denoising Network for Time Series Anomaly Detection](https://arxiv.org/abs/2604.17388)** — Introduces a simple yet effective network for detecting anomalies in time series data, emphasizing architectural simplicity.
+5. **[HSG: Hyperbolic Scene Graph](https://arxiv.org/abs/2604.17454)** — Proposes a new scene graph representation that enhances visual understanding by modeling relationships in 3D environments.
+6. **[EasyVideoR1: Easier RL for Video Understanding](https://arxiv.org/abs/2604.16893)** — This paper showcases advancements in reinforcement learning techniques to improve video understanding capabilities in AI models.
+7. **[OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video](https://arxiv.org/abs/2604.11102)** — Discusses the challenges and solutions for generating scripts for long-form videos using multimodal AI.
+8. **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](http://arxiv.org/abs/2604.18584v1)** — Introduces a comprehensive benchmark for evaluating mathematical reasoning in large language and multimodal models.
+9. **[A multimodal and temporal foundation model for virtual patient representations at healthcare system scale](http://arxiv.org/abs/2604.18570v1)** — Proposes a model that integrates diverse clinical data into a unified representation for better patient care.
+10. **[Latent Phase-Shift Rollback: Inference-Time Error Correction via Residual Stream Monitoring and KV-Cache Steering](http://arxiv.org/abs/2604.18567v1)** — This paper presents a method for correcting errors in large language models during text generation.
+
+#### Blog Posts
+1. **[GitHub's fake star economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)** by awesomeagents.ai
+2. **[OpenClaw isn't fooling me. I remember MS-DOS](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/)** by flyingpenguin.com
+3. **[OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)** by adweek.com
+4. **[Even 'uncensored' models can't say what they want](https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html)** by morgin.ai
+5. **[Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness](https://mediator.ai/)** by mediator.ai
+6. **[What Building with MCP Taught Me About Its Biggest Gap](https://dev.to/lovestaco/what-building-with-mcp-taught-me-about-its-biggest-gap-idl)** by Athreya aka Maneshwar
+7. **[Two Days, Two Hacks: The Lovable Disclosure and the Pattern Nobody Wants to Talk About](https://dev.to/jon_at_backboardio/two-days-two-hacks-the-lovable-disclosure-and-the-pattern-nobody-wants-to-talk-about-47eh)** by Jonathan Murray
+
+#### Trending Repos
+1. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. ⭐ 50500
+2. **[kyegomez/swarms](https://github.com/kyegomez/swarms)** — The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. ⭐ 6359
+3. **[alexzhang13/rlm](https://github.com/alexzhang13/rlm)** — General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. ⭐ 3495
+4. **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** — Huashu Design · HTML-native design skill for Claude Code. ⭐ 497
+5. **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** — Distills a book into a set of executable Agent Skills. ⭐ 422
+
+</details>
+
+<details>
 <summary><strong>2026-04-20</strong></summary>
 
 #### Papers
