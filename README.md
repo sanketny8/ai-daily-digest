@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-22</strong></summary>
+
+#### Papers
+1. **[Mitigating Multimodal Hallucination via Phase-wise Self-reward](https://arxiv.org/abs/2604.17982)** — This paper addresses the issue of vision hallucination in large vision-language models and proposes a novel self-reward mechanism.
+2. **[The Cognitive Penalty: Ablating System 1 and System 2 Reasoning in Edge-Native SLMs for Decentralized Consensus](https://arxiv.org/abs/2604.16913)** — Explores the use of small language models in decentralized organizations to improve proposal vetting and reduce social engineering risks.
+3. **[Chain-of-Thought Degrades Visual Spatial Reasoning Capabilities of Multimodal LLMs](https://arxiv.org/abs/2604.16060)** — Investigates how chain-of-thought reasoning negatively affects visual spatial reasoning in multimodal models.
+4. **[UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models](https://arxiv.org/abs/2604.18518)** — Introduces a new optimization method for integrating discrete diffusion models with reinforcement learning.
+5. **[Mind's Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs](https://arxiv.org/abs/2604.16054)** — Proposes a benchmark to evaluate visual cognitive and spatial reasoning in multimodal large language models.
+6. **[AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model](https://arxiv.org/abs/2604.19747)** — Presents a method for 3D reconstruction from sparse views using a video diffusion model, enhancing scene modeling.
+7. **[Contrastive Attribution in the Wild: An Interpretability Analysis of LLM Failures on Realistic Benchmarks](https://arxiv.org/abs/2604.17761)** — Analyzes the interpretability of LLM failures on realistic benchmarks, moving beyond toy examples.
+8. **[SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing](https://arxiv.org/abs/2604.19587)** — Discusses a unified approach for automatic image editing that enhances user experience and output quality.
+9. **[Speculative Decoding for Autoregressive Video Generation](https://arxiv.org/abs/2604.17397)** — Explores a new technique for accelerating autoregressive video generation through speculative decoding methods.
+10. **[Predicting integers from continuous parameters](https://arxiv.org/abs/2602.10751)** — Investigates methods for predicting integer-constrained numeric labels, relevant for various applications like social media metrics.
+
+#### Blog Posts
+1. **[ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)** by OpenAI
+2. **[Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)** by Ed Zitron
+3. **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)** by Reuters
+4. **[Less human AI agents, please](https://nial.se/blog/less-human-ai-agents-please/)** by Nial
+5. **[CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap)** by Brex
+6. **[Claude Code Removed from $20-a-Month "Pro" Subscription for New Users](https://www.wheresyoured.at/news-anthropic-removes-pro-cc/)** by Where's Your Ed
+
+#### Trending Repos
+1. **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** — 12 Lessons to Get Started Building AI Agents. ⭐ 58103
+2. **[PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)** — The fast, Pythonic way to build MCP servers and clients. ⭐ 24750
+3. **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** — Claude Code skill implementing Manus-style persistent markdown planning. ⭐ 19303
+4. **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** — A curated collection of 1000+ agent skills for various coding agents. ⭐ 17134
+5. **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** — Kimi Code CLI is your next CLI agent. ⭐ 8061
+6. **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** — Code search MCP for Claude Code, making entire codebase the context for coding agents. ⭐ 6886
+
+</details>
+
+<details>
 <summary><strong>2026-04-21</strong></summary>
 
 #### Papers

@@ -746,5 +746,36 @@
       "https://github.com/alchaincyf/huashu-design",
       "https://github.com/kangarooking/cangjie-skill"
     ]
+  },
+  "2026-04-22": {
+    "papers": [
+      "https://arxiv.org/abs/2604.17982",
+      "https://arxiv.org/abs/2604.16913",
+      "https://arxiv.org/abs/2604.16060",
+      "https://arxiv.org/abs/2604.18518",
+      "https://arxiv.org/abs/2604.16054",
+      "https://arxiv.org/abs/2602.10751",
+      "https://arxiv.org/abs/2604.19747",
+      "https://arxiv.org/abs/2604.17761",
+      "https://arxiv.org/abs/2604.19587",
+      "https://arxiv.org/abs/2604.17397"
+    ],
+    "blogs": [
+      "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+      "https://github.com/ENTERPILOT/GOModel/",
+      "https://nial.se/blog/less-human-ai-agents-please/",
+      "https://www.brex.com/crabtrap",
+      "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/"
+    ],
+    "repos": [
+      "https://github.com/microsoft/ai-agents-for-beginners",
+      "https://github.com/PrefectHQ/fastmcp",
+      "https://github.com/OthmanAdi/planning-with-files",
+      "https://github.com/VoltAgent/awesome-agent-skills",
+      "https://github.com/MoonshotAI/kimi-cli",
+      "https://github.com/zilliztech/claude-context"
+    ]
   }
 }
