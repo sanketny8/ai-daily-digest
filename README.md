@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-23</strong></summary>
+
+#### Papers
+1. **[Visual Reasoning through Tool-supervised Reinforcement Learning](https://arxiv.org/abs/2604.19945)** — This paper explores mastering tool-use for complex visual reasoning tasks in multimodal large language models.
+2. **[Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges](https://arxiv.org/abs/2604.13602)** — It discusses the challenges of aligning large language models with human preferences through reinforcement learning from human feedback.
+3. **[Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks](https://arxiv.org/abs/2604.11610)** — The study focuses on how LLMs can extract and retain useful information from past interactions as memory.
+4. **[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://arxiv.org/abs/2604.20796)** — This paper presents a unified framework for multimodal understanding and generation using a discrete diffusion large language model.
+5. **[Scaling Test-Time Compute for Agentic Coding](https://arxiv.org/abs/2604.16529)** — It examines methods to enhance large language models' performance during test-time scaling, especially for longer outputs.
+6. **[WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training](https://arxiv.org/abs/2604.14932)** — The research focuses on improving spoken dialogue models' expressiveness and intelligence through adaptive post-training techniques.
+7. **[AVISE: Framework for Evaluating the Security of AI Systems](http://arxiv.org/abs/2604.20833v1)** — This paper introduces a framework to assess the security vulnerabilities of AI systems in critical applications.
+8. **[Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling](http://arxiv.org/abs/2604.20819v1)** — It proposes a method to manage memory costs in large language models, preventing out-of-memory failures.
+9. **[Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples](http://arxiv.org/abs/2604.20824v1)** — The study addresses batch effects in biomedical imaging, enhancing reproducibility through control samples.
+10. **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](http://arxiv.org/abs/2604.20835v1)** — This paper discusses enhancing coding capabilities of language models across various programming languages through improved training techniques.
+
+#### Blog Posts
+1. **[Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b)** by qwen.ai
+2. **[Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)** by blog.google
+3. **[Workspace Agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt/)** by openai.com
+4. **[If AI Existed in 2011, Would We Still Have the Modern Web?](https://dev.to/sylwia-lask/if-ai-existed-in-2011-would-we-still-have-the-modern-web-408g)** by Sylwia Laskowska
+5. **[I built my own event bus for a sustainability app — here's what I learned about agent automation using OpenClaw](https://dev.to/ujja/i-built-my-own-event-bus-for-a-sustainability-app-heres-what-i-learned-about-agent-automation-2cfl)** by ujja
+6. **[AI made devs feel 20% faster but measured 19% slower. Nobody's ready for that conversation.](https://dev.to/adioof/ai-made-devs-feel-20-faster-but-measured-19-slower-nobodys-ready-for-that-conversation-1ki8)** by Aditya Agarwal
+7. **[Hermes Agent vs Claude Code vs Codex CLI: I Ran 30 Real Tasks on All Three](https://medium.com/@anupkawarase.akz/hermes-agent-vs-claude-code-vs-codex-cli-i-ran-30-real-tasks-on-all-three-58fdcca2daa1)** by Aniruddha Kawarase
+8. **[AI is Transforming how MSSPs operate](https://medium.com/@marketing_1542/ai-is-transforming-how-mssps-operate-83fa04df5e8d)** by YaWorks
+
+#### Trending Repos
+1. **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** — 📚 Freely available programming books. ⭐ 385896
+2. **[langfuse/langfuse](https://github.com/langfuse/langfuse)** — 🪢 Open source LLM engineering platform with observability and metrics. ⭐ 25794
+3. **[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code. ⭐ 24969
+4. **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — The open agent skills tool - npx skills. ⭐ 15668
+5. **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** — Unified metadata platform for data discovery and governance. ⭐ 12344
+
+</details>
+
+<details>
 <summary><strong>2026-04-22</strong></summary>
 
 #### Papers

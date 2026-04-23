@@ -777,5 +777,37 @@
       "https://github.com/MoonshotAI/kimi-cli",
       "https://github.com/zilliztech/claude-context"
     ]
+  },
+  "2026-04-23": {
+    "papers": [
+      "https://arxiv.org/abs/2604.19945",
+      "https://arxiv.org/abs/2604.16529",
+      "https://arxiv.org/abs/2604.20733",
+      "https://arxiv.org/abs/2604.13602",
+      "https://arxiv.org/abs/2604.20570",
+      "https://arxiv.org/abs/2604.20817",
+      "https://arxiv.org/abs/2604.14932",
+      "https://arxiv.org/abs/2604.11610",
+      "https://arxiv.org/abs/2604.20796",
+      "https://arxiv.org/abs/2604.19859"
+    ],
+    "blogs": [
+      "https://qwen.ai/blog?id=qwen3.6-27b",
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "https://dev.to/sylwia-lask/if-ai-existed-in-2011-would-we-still-have-the-modern-web-408g",
+      "https://dev.to/ujja/i-built-my-own-event-bus-for-a-sustainability-app-heres-what-i-learned-about-agent-automation-2cfl",
+      "https://dev.to/javz/building-a-coding-course-generator-in-public-2-what-i-learned-49o6",
+      "https://dev.to/adioof/ai-made-devs-feel-20-faster-but-measured-19-slower-nobodys-ready-for-that-conversation-1ki8",
+      "https://medium.com/@anupkawarase.akz/hermes-agent-vs-claude-code-vs-codex-cli-i-ran-30-real-tasks-on-all-three-58fdcca2daa1",
+      "https://medium.com/@marketing_1542/ai-is-transforming-how-mssps-operate-83fa04df5e8d"
+    ],
+    "repos": [
+      "https://github.com/EbookFoundation/free-programming-books",
+      "https://github.com/langfuse/langfuse",
+      "https://github.com/davila7/claude-code-templates",
+      "https://github.com/vercel-labs/skills",
+      "https://github.com/open-metadata/OpenMetadata"
+    ]
   }
 }

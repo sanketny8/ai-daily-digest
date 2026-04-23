@@ -1,135 +1,138 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "papers": [
     {
-      "title": "Mitigating Multimodal Hallucination via Phase-wise Self-reward",
-      "url": "https://arxiv.org/abs/2604.17982",
-      "summary": "Large Vision-Language Models (LVLMs) still struggle with vision hallucination, where generated responses are inconsistent with the visual input. Existing methods either rely on large-scale annotated d"
+      "title": "Visual Reasoning through Tool-supervised Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.19945",
+      "summary": "In this paper, we investigate the problem of how to effectively master tool-use to solve complex visual reasoning tasks for Multimodal Large Language Models. To achieve that, we propose a novel Tool-s"
     },
     {
-      "title": "The Cognitive Penalty: Ablating System 1 and System 2 Reasoning in Edge-Native SLMs for Decentralized Consensus",
-      "url": "https://arxiv.org/abs/2604.16913",
-      "summary": "Decentralized Autonomous Organizations (DAOs) are inclined explore Small Language Models (SLMs) as edge-native constitutional firewalls to vet proposals and mitigate semantic social engineering. While"
+      "title": "Scaling Test-Time Compute for Agentic Coding",
+      "url": "https://arxiv.org/abs/2604.16529",
+      "summary": "Test-time scaling has become a powerful way to improve large language models. However, existing methods are best suited to short, bounded outputs that can be directly compared, ranked or refined. Long"
     },
     {
-      "title": "Chain-of-Thought Degrades Visual Spatial Reasoning Capabilities of Multimodal LLMs",
-      "url": "https://arxiv.org/abs/2604.16060",
-      "summary": "Multimodal Reasoning Models (MRMs) leveraging Chain-of-Thought (CoT) based thinking have revolutionized mathematical and logical problem-solving. However, we show that this paradigm struggles with gen"
+      "title": "Near-Future Policy Optimization",
+      "url": "https://arxiv.org/abs/2604.20733",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has become a core post-training recipe. Introducing suitable off-policy trajectories into on-policy exploration accelerates RLVR convergence and r"
     },
     {
-      "title": "UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models",
-      "url": "https://arxiv.org/abs/2604.18518",
-      "summary": "Uniform Discrete Diffusion Model (UDM) has recently emerged as a promising paradigm for discrete generative modeling; however, its integration with reinforcement learning remains largely unexplored. W"
+      "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+      "url": "https://arxiv.org/abs/2604.13602",
+      "summary": "Reinforcement Learning from Human Feedback (RLHF) and related alignment paradigms have become central to steering large language models (LLMs) and multimodal large language models (MLLMs) toward human"
     },
     {
-      "title": "Mind's Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs",
-      "url": "https://arxiv.org/abs/2604.16054",
-      "summary": "Multimodal large language models (MLLMs) have achieved impressive progress on vision language benchmarks, yet their capacity for visual cognitive and visuospatial reasoning remains less understood. We"
+      "title": "Exploring Spatial Intelligence from a Generative Perspective",
+      "url": "https://arxiv.org/abs/2604.20570",
+      "summary": "Spatial intelligence is essential for multimodal large language models, yet current benchmarks largely assess it only from an understanding perspective. We ask whether modern generative or unified mul"
     },
     {
-      "title": "Predicting integers from continuous parameters",
-      "url": "https://arxiv.org/abs/2602.10751",
-      "summary": "We study the problem of predicting numeric labels that are constrained to the integers or to a subrange of the integers. For example, the number of up-votes on social media posts, or the number of bic"
+      "title": "Convergent Evolution: How Different Language Models Learn Similar Number Representations",
+      "url": "https://arxiv.org/abs/2604.20817",
+      "summary": "Language models trained on natural text learn to represent numbers using periodic features with dominant periods at T=2, 5, 10. In this paper, we identify a two-tiered hierarchy of these features: whi"
     },
     {
-      "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
-      "url": "https://arxiv.org/abs/2604.19747",
-      "summary": "Sparse-view 3D reconstruction is essential for modeling scenes from casual captures, but remain challenging for non-generative reconstruction. Existing diffusion-based approaches mitigates this issues"
+      "title": "WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training",
+      "url": "https://arxiv.org/abs/2604.14932",
+      "summary": "End-to-end spoken dialogue models have garnered significant attention because they offer a higher potential ceiling in expressiveness and perceptual ability than cascaded systems. However, the intelli"
     },
     {
-      "title": "Contrastive Attribution in the Wild: An Interpretability Analysis of LLM Failures on Realistic Benchmarks",
-      "url": "https://arxiv.org/abs/2604.17761",
-      "summary": "Interpretability tools are increasingly used to analyze failures of Large Language Models (LLMs), yet prior work largely focuses on short prompts or toy settings, leaving their behavior on commonly us"
+      "title": "Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks",
+      "url": "https://arxiv.org/abs/2604.11610",
+      "summary": "As LLM-based assistants become persistent and personalized, they must extract and retain useful information from past conversations as memory. However, the types of information worth remembering vary "
     },
     {
-      "title": "SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing",
-      "url": "https://arxiv.org/abs/2604.19587",
-      "summary": "Traditional photographic image editing typically requires users to possess sufficient aesthetic understanding to provide appropriate instructions for adjusting image quality and camera parameters. How"
+      "title": "LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model",
+      "url": "https://arxiv.org/abs/2604.20796",
+      "summary": "We present LLaDA2.0-Uni, a unified discrete diffusion large language model (dLLM) that supports multimodal understanding and generation within a natively integrated framework. Its architecture combine"
     },
     {
-      "title": "Speculative Decoding for Autoregressive Video Generation",
-      "url": "https://arxiv.org/abs/2604.17397",
-      "summary": "Autoregressive video diffusion is emerging as a promising paradigm for streaming video synthesis, with step distillation serving as the primary means of accelerating inference. Whether speculative dec"
+      "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
+      "url": "https://arxiv.org/abs/2604.19859",
+      "summary": "Edge-scale deep research agents based on small language models are attractive for real-world deployment due to their advantages in cost, latency, and privacy. In this work, we study how to train a str"
     }
   ],
   "blog_posts": [
     {
-      "title": "ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "author": "qwen.ai"
+    },
+    {
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "author": "blog.google"
+    },
+    {
+      "title": "Workspace Agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
       "author": "openai.com"
     },
     {
-      "title": "Claude Code to be removed from Anthropic's Pro plan?",
-      "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-      "author": "bsky.app"
+      "title": "If AI Existed in 2011, Would We Still Have the Modern Web?",
+      "url": "https://dev.to/sylwia-lask/if-ai-existed-in-2011-would-we-still-have-the-modern-web-408g",
+      "author": "Sylwia Laskowska"
     },
     {
-      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "author": "reuters.com"
+      "title": "I built my own event bus for a sustainability app — here's what I learned about agent automation using OpenClaw",
+      "url": "https://dev.to/ujja/i-built-my-own-event-bus-for-a-sustainability-app-heres-what-i-learned-about-agent-automation-2cfl",
+      "author": "ujja"
     },
     {
-      "title": "Show HN: GoModel – an open-source AI gateway in Go",
-      "url": "https://github.com/ENTERPILOT/GOModel/",
-      "author": "github.com"
+      "title": "Building a coding course generator in public #2: what I learned",
+      "url": "https://dev.to/javz/building-a-coding-course-generator-in-public-2-what-i-learned-49o6",
+      "author": "Julien Avezou"
     },
     {
-      "title": "Less human AI agents, please",
-      "url": "https://nial.se/blog/less-human-ai-agents-please/",
-      "author": "nial.se"
+      "title": "AI made devs feel 20% faster but measured 19% slower. Nobody's ready for that conversation.",
+      "url": "https://dev.to/adioof/ai-made-devs-feel-20-faster-but-measured-19-slower-nobodys-ready-for-that-conversation-1ki8",
+      "author": "Aditya Agarwal"
     },
     {
-      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "url": "https://www.brex.com/crabtrap",
-      "author": "brex.com"
+      "title": "Hermes Agent vs Claude Code vs Codex CLI: I Ran 30 Real Tasks on All Three",
+      "url": "https://medium.com/@anupkawarase.akz/hermes-agent-vs-claude-code-vs-codex-cli-i-ran-30-real-tasks-on-all-three-58fdcca2daa1",
+      "author": "Aniruddha Kawarase"
     },
     {
-      "title": "Claude Code Removed from $20-a-Month \"Pro\" Subscription for New Users",
-      "url": "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/",
-      "author": "wheresyoured.at"
+      "title": "AI is Transforming how MSSPs operate",
+      "url": "https://medium.com/@marketing_1542/ai-is-transforming-how-mssps-operate-83fa04df5e8d",
+      "author": "YaWorks"
     }
   ],
   "repos": [
     {
-      "name": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "description": "12 Lessons to Get Started Building AI Agents",
-      "stars": 58103,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "name": "PrefectHQ/fastmcp",
-      "url": "https://github.com/PrefectHQ/fastmcp",
-      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
-      "stars": 24750,
+      "name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "📚 Freely available programming books",
+      "stars": 385896,
       "language": "Python"
     },
     {
-      "name": "OthmanAdi/planning-with-files",
-      "url": "https://github.com/OthmanAdi/planning-with-files",
-      "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
-      "stars": 19303,
+      "name": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+      "stars": 25794,
+      "language": "TypeScript"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 24969,
       "language": "Python"
     },
     {
-      "name": "VoltAgent/awesome-agent-skills",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "stars": 17134,
-      "language": ""
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "stars": 15668,
+      "language": "TypeScript"
     },
     {
-      "name": "MoonshotAI/kimi-cli",
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "stars": 8061,
-      "language": "Python"
-    },
-    {
-      "name": "zilliztech/claude-context",
-      "url": "https://github.com/zilliztech/claude-context",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "stars": 6886,
+      "name": "open-metadata/OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla",
+      "stars": 12344,
       "language": "TypeScript"
     }
   ],
