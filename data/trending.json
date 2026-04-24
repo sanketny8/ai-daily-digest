@@ -1,138 +1,147 @@
 {
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "papers": [
     {
-      "title": "Visual Reasoning through Tool-supervised Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2604.19945",
-      "summary": "In this paper, we investigate the problem of how to effectively master tool-use to solve complex visual reasoning tasks for Multimodal Large Language Models. To achieve that, we propose a novel Tool-s"
+      "title": "WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.20398",
+      "summary": "While Large Language Models (LLMs) excel at function-level code generation, project-level tasks such as generating functional and visually aesthetic multi-page websites remain highly challenging. Exis"
     },
     {
-      "title": "Scaling Test-Time Compute for Agentic Coding",
-      "url": "https://arxiv.org/abs/2604.16529",
-      "summary": "Test-time scaling has become a powerful way to improve large language models. However, existing methods are best suited to short, bounded outputs that can be directly compared, ranked or refined. Long"
+      "title": "Hybrid Policy Distillation for LLMs",
+      "url": "https://arxiv.org/abs/2604.20244",
+      "summary": "Knowledge distillation (KD) is a powerful paradigm for compressing large language models (LLMs), whose effectiveness depends on intertwined choices of divergence direction, optimization strategy, and "
     },
     {
-      "title": "Near-Future Policy Optimization",
-      "url": "https://arxiv.org/abs/2604.20733",
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) has become a core post-training recipe. Introducing suitable off-policy trajectories into on-policy exploration accelerates RLVR convergence and r"
+      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+      "url": "https://arxiv.org/abs/2604.20987",
+      "summary": "Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, an"
     },
     {
-      "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
-      "url": "https://arxiv.org/abs/2604.13602",
-      "summary": "Reinforcement Learning from Human Feedback (RLHF) and related alignment paradigms have become central to steering large language models (LLMs) and multimodal large language models (MLLMs) toward human"
+      "title": "Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models",
+      "url": "https://arxiv.org/abs/2604.21193",
+      "summary": "Large Language Models (LLMs) have demonstrated remarkable fluency and versatility across a wide range of NLP tasks, yet they remain prone to factual inaccuracies and hallucinations. This limitation po"
     },
     {
-      "title": "Exploring Spatial Intelligence from a Generative Perspective",
-      "url": "https://arxiv.org/abs/2604.20570",
-      "summary": "Spatial intelligence is essential for multimodal large language models, yet current benchmarks largely assess it only from an understanding perspective. We ask whether modern generative or unified mul"
+      "title": "Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI",
+      "url": "https://arxiv.org/abs/2604.21300",
+      "summary": "Learning robust representations of authorial style is crucial for authorship attribution and AI-generated text detection. However, existing methods often struggle with content-style entanglement, wher"
     },
     {
-      "title": "Convergent Evolution: How Different Language Models Learn Similar Number Representations",
-      "url": "https://arxiv.org/abs/2604.20817",
-      "summary": "Language models trained on natural text learn to represent numbers using periodic features with dominant periods at T=2, 5, 10. In this paper, we identify a two-tiered hierarchy of these features: whi"
+      "title": "TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale",
+      "url": "https://arxiv.org/abs/2604.21889",
+      "summary": "Real-time detection and mitigation of technical anomalies are critical for large-scale cloud-native services, where even minutes of downtime can result in massive financial losses and diminished user "
     },
     {
-      "title": "WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training",
-      "url": "https://arxiv.org/abs/2604.14932",
-      "summary": "End-to-end spoken dialogue models have garnered significant attention because they offer a higher potential ceiling in expressiveness and perceptual ability than cascaded systems. However, the intelli"
+      "title": "UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection",
+      "url": "https://arxiv.org/abs/2604.21904",
+      "summary": "In recent years, significant progress has been made in both image generation and generated image detection. Despite their rapid, yet largely independent, development, these two fields have evolved dis"
     },
     {
-      "title": "Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks",
-      "url": "https://arxiv.org/abs/2604.11610",
-      "summary": "As LLM-based assistants become persistent and personalized, they must extract and retain useful information from past conversations as memory. However, the types of information worth remembering vary "
+      "title": "VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation",
+      "url": "https://arxiv.org/abs/2604.21375",
+      "summary": "Autonomous GUI agents face two fundamental challenges: early stopping, where agents prematurely declare success without verifiable evidence, and repetitive loops, where agents cycle through the same f"
     },
     {
-      "title": "LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model",
-      "url": "https://arxiv.org/abs/2604.20796",
-      "summary": "We present LLaDA2.0-Uni, a unified discrete diffusion large language model (dLLM) that supports multimodal understanding and generation within a natively integrated framework. Its architecture combine"
+      "title": "StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition",
+      "url": "https://arxiv.org/abs/2604.21689",
+      "summary": "Creative face stylization aims to render portraits in diverse visual idioms such as cartoons, sketches, and paintings while retaining recognizable identity. However, current identity encoders, which a"
     },
     {
-      "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
-      "url": "https://arxiv.org/abs/2604.19859",
-      "summary": "Edge-scale deep research agents based on small language models are attractive for real-world deployment due to their advantages in cost, latency, and privacy. In this work, we study how to train a str"
+      "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
+      "url": "https://arxiv.org/abs/2604.21686",
+      "summary": "Interactive video generation models such as Genie, YUME, HY-World, and Matrix-Game are advancing rapidly, yet every model is evaluated on its own benchmark with private scenes and trajectories, making"
     }
   ],
   "blog_posts": [
     {
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "author": "qwen.ai"
-    },
-    {
-      "title": "Our eighth generation TPUs: two chips for the agentic era",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-      "author": "blog.google"
-    },
-    {
-      "title": "Workspace Agents in ChatGPT",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "title": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
       "author": "openai.com"
     },
     {
-      "title": "If AI Existed in 2011, Would We Still Have the Modern Web?",
-      "url": "https://dev.to/sylwia-lask/if-ai-existed-in-2011-would-we-still-have-the-modern-web-408g",
-      "author": "Sylwia Laskowska"
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "author": "anthropic.com"
     },
     {
-      "title": "I built my own event bus for a sustainability app — here's what I learned about agent automation using OpenClaw",
-      "url": "https://dev.to/ujja/i-built-my-own-event-bus-for-a-sustainability-app-heres-what-i-learned-about-agent-automation-2cfl",
-      "author": "ujja"
+      "title": "GPT Image 2 Is a Broken Masterpiece – And Nobody Wants to Say It",
+      "url": "https://medium.com/@future.space.freight/gpt-image-2-is-a-broken-masterpiece-and-nobody-wants-to-say-it-3312a9b033ad",
+      "author": "Helix Systems"
     },
     {
-      "title": "Building a coding course generator in public #2: what I learned",
-      "url": "https://dev.to/javz/building-a-coding-course-generator-in-public-2-what-i-learned-49o6",
-      "author": "Julien Avezou"
+      "title": "Hermes è ora disponibile su Clawdi (nessuna configurazione richiesta)",
+      "url": "https://medium.com/phala-italia/hermes-%C3%A8-ora-disponibile-su-clawdi-nessuna-configurazione-richiesta-66177b647621",
+      "author": "Cappex"
     },
     {
-      "title": "AI made devs feel 20% faster but measured 19% slower. Nobody's ready for that conversation.",
-      "url": "https://dev.to/adioof/ai-made-devs-feel-20-faster-but-measured-19-slower-nobodys-ready-for-that-conversation-1ki8",
-      "author": "Aditya Agarwal"
+      "title": "The Ultimate Guide to AI App Development in 2026 for Businesses & Entrepreneurs",
+      "url": "https://medium.com/@jennifergraner5612/the-ultimate-guide-to-ai-app-development-in-2026-for-businesses-entrepreneurs-1be180f9f841",
+      "author": "JenniferGraner05"
     },
     {
-      "title": "Hermes Agent vs Claude Code vs Codex CLI: I Ran 30 Real Tasks on All Three",
-      "url": "https://medium.com/@anupkawarase.akz/hermes-agent-vs-claude-code-vs-codex-cli-i-ran-30-real-tasks-on-all-three-58fdcca2daa1",
-      "author": "Aniruddha Kawarase"
+      "title": "Yantraśarīra Ātmā | Self with a machine-body",
+      "url": "https://satyan-sharma.medium.com/yantra%C5%9Bar%C4%ABra-%C4%81tm%C4%81-self-with-a-machine-body-a6a0738d331d",
+      "author": "Satyan Sharma"
     },
     {
-      "title": "AI is Transforming how MSSPs operate",
-      "url": "https://medium.com/@marketing_1542/ai-is-transforming-how-mssps-operate-83fa04df5e8d",
-      "author": "YaWorks"
+      "title": "The Complete Guide to Artificial Intelligence 2026: How ChatGPT Works, Best AI Tools, and Future…",
+      "url": "https://medium.com/@fatimanasir7878/the-complete-guide-to-artificial-intelligence-2026-how-chatgpt-works-best-ai-tools-and-future-7cf58d4b354b",
+      "author": "Fatima Nasir"
+    },
+    {
+      "title": "Escaping MLOps Tutorial Hell: Architecting Pipelines from First Principles.",
+      "url": "https://algorithm-alchemist.medium.com/escaping-mlops-tutorial-hell-architecting-pipelines-from-first-principles-79d9b3e8a7a3",
+      "author": "Siddharth Prabhu"
     }
   ],
   "repos": [
     {
-      "name": "EbookFoundation/free-programming-books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "description": "📚 Freely available programming books",
-      "stars": 385896,
-      "language": "Python"
-    },
-    {
-      "name": "langfuse/langfuse",
-      "url": "https://github.com/langfuse/langfuse",
-      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
-      "stars": 25794,
+      "name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+      "stars": 60904,
       "language": "TypeScript"
     },
     {
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 24969,
+      "name": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "stars": 49749,
       "language": "Python"
     },
     {
-      "name": "vercel-labs/skills",
-      "url": "https://github.com/vercel-labs/skills",
-      "description": "The open agent skills tool - npx skills",
-      "stars": 15668,
-      "language": "TypeScript"
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi",
+      "stars": 44520,
+      "language": "Python"
     },
     {
-      "name": "open-metadata/OpenMetadata",
-      "url": "https://github.com/open-metadata/OpenMetadata",
-      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla",
-      "stars": 12344,
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": 24115,
+      "language": "JavaScript"
+    },
+    {
+      "name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "stars": 20263,
+      "language": "C++"
+    },
+    {
+      "name": "chiphuyen/aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
+      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+      "stars": 15270,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
+      "stars": 9598,
       "language": "TypeScript"
     }
   ],

@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-24</strong></summary>
+
+#### Papers
+1. **[WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning](https://arxiv.org/abs/2604.20398)** — This paper addresses the challenge of generating functional and visually appealing multi-page websites using LLMs.
+2. **[Hybrid Policy Distillation for LLMs](https://arxiv.org/abs/2604.20244)** — It explores a novel approach to compressing large language models through effective knowledge distillation techniques.
+3. **[Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models](https://arxiv.org/abs/2604.21193)** — This framework aims to enhance the reliability of LLMs by addressing factual inaccuracies and hallucinations.
+4. **[Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI](https://arxiv.org/abs/2604.21300)** — It focuses on improving authorship attribution and AI-generated text detection through disentangled representation learning.
+5. **[TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale](https://arxiv.org/abs/2604.21889)** — This research presents a method for real-time detection of technical anomalies in large-scale cloud services.
+6. **[UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection](https://arxiv.org/abs/2604.21904)** — It proposes a framework that integrates image generation and detection, enhancing both fields' capabilities.
+7. **[WorldMark: A Unified Benchmark Suite for Interactive Video World Models](https://arxiv.org/abs/2604.21686)** — This paper introduces a benchmark suite to standardize evaluations of interactive video generation models.
+8. **[Seeing Fast and Slow: Learning the Flow of Time in Videos](http://arxiv.org/abs/2604.21931v1)** — It investigates techniques to determine and manipulate the speed of video playback using deep learning.
+9. **[MathDuels: Evaluating LLMs as Problem Posers and Solvers](http://arxiv.org/abs/2604.21916v1)** — This study evaluates LLMs' capabilities in generating and solving mathematical problems effectively.
+10. **[When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](http://arxiv.org/abs/2604.21911v1)** — It examines how prompts can lead to hallucinations in large vision-language models, impacting their reliability.
+
+#### Blog Posts
+1. **[GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)** by OpenAI
+2. **[An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem)** by Anthropic
+3. **[GPT Image 2 Is a Broken Masterpiece – And Nobody Wants to Say It](https://medium.com/@future.space.freight/gpt-image-2-is-a-broken-masterpiece-and-nobody-wants-to-say-it-3312a9b033ad)** by Helix Systems
+4. **[The Ultimate Guide to AI App Development in 2026 for Businesses & Entrepreneurs](https://medium.com/@jennifergraner5612/the-ultimate-guide-to-ai-app-development-in-2026-for-businesses-entrepreneurs-1be180f9f841)** by Jennifer Graner
+5. **[Yantraśarīra Ātmā | Self with a machine-body](https://satyan-sharma.medium.com/yantra%C5%9Bar%C4%ABra-%C4%81tm%C4%81-self-with-a-machine-body-a6a0738d331d)** by Satyan Sharma
+6. **[The Complete Guide to Artificial Intelligence 2026: How ChatGPT Works, Best AI Tools, and Future…](https://medium.com/@fatimanasir7878/the-complete-guide-to-artificial-intelligence-2026-how-chatgpt-works-best-ai-tools-and-future-7cf58d4b354b)** by Fatima Nasir
+7. **[Escaping MLOps Tutorial Hell: Architecting Pipelines from First Principles.](https://algorithm-alchemist.medium.com/escaping-mlops-tutorial-hell-architecting-pipelines-from-first-principles-79d9b3e8a7a3)** by Siddharth Prabhu
+
+#### Trending Repos
+1. **[cline/cline](https://github.com/cline/cline)** — Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. ⭐ 60904
+2. **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. ⭐ 49749
+3. **[BerriAI/litellm](https://github.com/BerriAI/litellm)** — Python SDK, Proxy Server to call 100+ LLM APIs in OpenAI format, with cost tracking and logging. ⭐ 44520
+4. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** — Marketing skills for Claude Code and AI agents. ⭐ 24115
+5. **[microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)** — ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator. ⭐ 20263
+6. **[chiphuyen/aie-book](https://github.com/chiphuyen/aie-book)** — Resources for AI engineers, including supporting materials for the book AI Engineering. ⭐ 15270
+7. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents, achieving significant reduction in tool output. ⭐ 9598
+
+</details>
+
+<details>
 <summary><strong>2026-04-23</strong></summary>
 
 #### Papers

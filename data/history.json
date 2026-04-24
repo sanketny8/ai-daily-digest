@@ -809,5 +809,38 @@
       "https://github.com/vercel-labs/skills",
       "https://github.com/open-metadata/OpenMetadata"
     ]
+  },
+  "2026-04-24": {
+    "papers": [
+      "https://arxiv.org/abs/2604.20398",
+      "https://arxiv.org/abs/2604.20244",
+      "https://arxiv.org/abs/2604.20987",
+      "https://arxiv.org/abs/2604.21193",
+      "https://arxiv.org/abs/2604.21300",
+      "https://arxiv.org/abs/2604.21889",
+      "https://arxiv.org/abs/2604.21904",
+      "https://arxiv.org/abs/2604.21375",
+      "https://arxiv.org/abs/2604.21689",
+      "https://arxiv.org/abs/2604.21686"
+    ],
+    "blogs": [
+      "https://openai.com/index/introducing-gpt-5-5/",
+      "https://www.anthropic.com/engineering/april-23-postmortem",
+      "https://medium.com/@future.space.freight/gpt-image-2-is-a-broken-masterpiece-and-nobody-wants-to-say-it-3312a9b033ad",
+      "https://medium.com/phala-italia/hermes-%C3%A8-ora-disponibile-su-clawdi-nessuna-configurazione-richiesta-66177b647621",
+      "https://medium.com/@jennifergraner5612/the-ultimate-guide-to-ai-app-development-in-2026-for-businesses-entrepreneurs-1be180f9f841",
+      "https://satyan-sharma.medium.com/yantra%C5%9Bar%C4%ABra-%C4%81tm%C4%81-self-with-a-machine-body-a6a0738d331d",
+      "https://medium.com/@fatimanasir7878/the-complete-guide-to-artificial-intelligence-2026-how-chatgpt-works-best-ai-tools-and-future-7cf58d4b354b",
+      "https://algorithm-alchemist.medium.com/escaping-mlops-tutorial-hell-architecting-pipelines-from-first-principles-79d9b3e8a7a3"
+    ],
+    "repos": [
+      "https://github.com/cline/cline",
+      "https://github.com/crewAIInc/crewAI",
+      "https://github.com/BerriAI/litellm",
+      "https://github.com/coreyhaines31/marketingskills",
+      "https://github.com/microsoft/onnxruntime",
+      "https://github.com/chiphuyen/aie-book",
+      "https://github.com/mksglu/context-mode"
+    ]
   }
 }
