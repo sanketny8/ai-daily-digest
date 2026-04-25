@@ -842,5 +842,38 @@
       "https://github.com/chiphuyen/aie-book",
       "https://github.com/mksglu/context-mode"
     ]
+  },
+  "2026-04-25": {
+    "papers": [
+      "https://arxiv.org/abs/2604.20156",
+      "https://arxiv.org/abs/2604.08645",
+      "https://arxiv.org/abs/2604.17492",
+      "https://arxiv.org/abs/2604.21915",
+      "https://arxiv.org/abs/2604.17295",
+      "https://arxiv.org/abs/2604.21668",
+      "https://arxiv.org/abs/2506.17001",
+      "https://arxiv.org/abs/2604.10268",
+      "http://arxiv.org/abs/2604.21931v1",
+      "http://arxiv.org/abs/2604.21930v1"
+    ],
+    "blogs": [
+      "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+      "https://developers.openai.com/api/docs/changelog",
+      "https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l",
+      "https://www.minizinc.org",
+      "https://clad.you/blog/posts/questionnaire-mlp/",
+      "https://gdm-tipsv2.github.io/",
+      "https://medium.com/@pranaymalhan/from-data-to-dishes-20-ai-concepts-explained-using-restaurant-analogy-3bad706f21eb"
+    ],
+    "repos": [
+      "https://github.com/mlflow/mlflow",
+      "https://github.com/openai/skills",
+      "https://github.com/Alishahryar1/free-claude-code",
+      "https://github.com/deepseek-ai/DeepEP",
+      "https://github.com/google/adk-samples",
+      "https://github.com/Anil-matcha/Open-Generative-AI",
+      "https://github.com/microsoft/presidio",
+      "https://github.com/huggingface/ml-intern"
+    ]
   }
 }

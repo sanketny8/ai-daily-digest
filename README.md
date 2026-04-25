@@ -10,6 +10,42 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-25</strong></summary>
+
+#### Papers
+1. **[Temporally Extended Mixture-of-Experts Models](https://arxiv.org/abs/2604.20156)** — This paper discusses optimizing Mixture-of-Experts models for better scalability and efficiency in inference.
+2. **[3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding](https://arxiv.org/abs/2604.08645)** — It addresses hallucinations in 3D agents, enhancing safety and grounding in decision-making.
+3. **[Vista4D: Video Reshooting with 4D Point Clouds](https://arxiv.org/abs/2604.21915)** — Introduces a framework for reshooting videos using 4D point clouds, improving video synthesis quality.
+4. **[EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model](https://arxiv.org/abs/2604.10268)** — Proposes a method for high-resolution image editing without the need for tuning models.
+5. **[Seeing Fast and Slow: Learning the Flow of Time in Videos](http://arxiv.org/abs/2604.21931v1)** — Explores techniques for understanding and generating videos at varying speeds.
+6. **[PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents](https://arxiv.org/abs/2506.17001)** — Compares methods for personalizing language models using user interaction data.
+7. **[When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](http://arxiv.org/abs/2604.21911v1)** — Investigates how prompts can lead to hallucinations in vision-language models.
+8. **[Fine-Tuning Regimes Define Distinct Continual Learning Problems](http://arxiv.org/abs/2604.21927v1)** — Discusses how different fine-tuning methods create unique challenges in continual learning.
+9. **[MathDuels: Evaluating LLMs as Problem Posers and Solvers](http://arxiv.org/abs/2604.21916v1)** — Evaluates language models' abilities to pose and solve mathematical problems effectively.
+10. **[Low-Rank Adaptation Redux for Large Models](http://arxiv.org/abs/2604.21905v1)** — Reviews low-rank adaptation techniques for efficient fine-tuning of large models.
+
+#### Blog Posts
+1. **[I cancelled Claude: Token issues, declining quality, and poor support](https://nickyreinert.de/en/2026/2026-04-24-claude-critics/)** by nickyreinert.de
+2. **[OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)** by developers.openai.com
+3. **[I Used to Love Coding. Now I Just Prompt.](https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l)** by Harsh
+4. **[MiniZinc, constraint modelling language solve discrete optimisation problems](https://www.minizinc.org)** by minizinc.org
+5. **[A 3D Body from Eight Questions – No Photo, No GPU](https://clad.you/blog/posts/questionnaire-mlp/)** by clad.you
+6. **[TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](https://gdm-tipsv2.github.io/)** by gdm-tipsv2.github.io
+7. **[From Data to Dishes: 20 AI Concepts Explained Using Restaurant Analogy](https://medium.com/@pranaymalhan/from-data-to-dishes-20-ai-concepts-explained-using-restaurant-analogy-3bad706f21eb)** by Pranay Malhan
+
+#### Trending Repos
+1. **[mlflow/mlflow](https://github.com/mlflow/mlflow)** — The open source AI engineering platform for agents, LLMs, and ML models. ⭐ 25553
+2. **[openai/skills](https://github.com/openai/skills)** — Skills Catalog for Codex. ⭐ 17452
+3. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude-code for free in the terminal, VSCode extension or via discord. ⭐ 9780
+4. **[deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)** — DeepEP: an efficient expert-parallel communication library. ⭐ 9370
+5. **[google/adk-samples](https://github.com/google/adk-samples)** — A collection of sample agents built with Agent Development Kit (ADK). ⭐ 8974
+6. **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** — Uncensored, open-source alternative to various AI generation tools. ⭐ 7840
+7. **[microsoft/presidio](https://github.com/microsoft/presidio)** — An open-source framework for detecting and anonymizing sensitive data. ⭐ 7784
+8. **[huggingface/ml-intern](https://github.com/huggingface/ml-intern)** — An open-source ML engineer that reads papers, trains models, and ships ML models. ⭐ 5624
+
+</details>
+
+<details>
 <summary><strong>2026-04-24</strong></summary>
 
 #### Papers
