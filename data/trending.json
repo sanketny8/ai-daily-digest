@@ -1,150 +1,145 @@
 {
-  "date": "2026-04-25",
+  "date": "2026-04-26",
   "papers": [
     {
-      "title": "Temporally Extended Mixture-of-Experts Models",
-      "url": "https://arxiv.org/abs/2604.20156",
-      "summary": "Mixture-of-Experts models, now popular for scaling capacity at fixed inference speed, switch experts at nearly every token. Once a model outgrows available GPU memory, this churn can render optimizati"
+      "title": "Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
+      "url": "http://arxiv.org/abs/2604.21928v1",
+      "summary": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human pe"
     },
     {
-      "title": "3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding",
-      "url": "https://arxiv.org/abs/2604.08645",
-      "summary": "Large multimodal models are increasingly used as the reasoning core of embodied agents operating in 3D environments, yet they remain prone to hallucinations that can produce unsafe and ungrounded deci"
+      "title": "Fine-Tuning Regimes Define Distinct Continual Learning Problems",
+      "url": "http://arxiv.org/abs/2604.21927v1",
+      "summary": "Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typ"
     },
     {
-      "title": "Coevolving Representations in Joint Image-Feature Diffusion",
-      "url": "https://arxiv.org/abs/2604.17492",
-      "summary": "Joint image-feature generative modeling has recently emerged as an effective strategy for improving diffusion training by coupling low-level VAE latents with high-level semantic features extracted fro"
+      "title": "The Sample Complexity of Multicalibration",
+      "url": "http://arxiv.org/abs/2604.21923v1",
+      "summary": "We study the minimax sample complexity of multicalibration in the batch setting. A learner observes $n$ i.i.d. samples from an unknown distribution and must output a (possibly randomized) predictor wh"
     },
     {
-      "title": "Vista4D: Video Reshooting with 4D Point Clouds",
-      "url": "https://arxiv.org/abs/2604.21915",
-      "summary": "We present Vista4D, a robust and flexible video reshooting framework that grounds the input video and target cameras in a 4D point cloud. Specifically, given an input video, our method re-synthesizes "
+      "title": "MathDuels: Evaluating LLMs as Problem Posers and Solvers",
+      "url": "http://arxiv.org/abs/2604.21916v1",
+      "summary": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they ca"
     },
     {
-      "title": "LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics",
-      "url": "https://arxiv.org/abs/2604.17295",
-      "summary": "Comprehensive understanding of time series remains a significant challenge for Large Language Models (LLMs). Current research is hindered by fragmented task definitions and benchmarks with inherent am"
+      "title": "When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs",
+      "url": "http://arxiv.org/abs/2604.21911v1",
+      "summary": "Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior w"
     },
     {
-      "title": "Encoder-Free Human Motion Understanding via Structured Motion Descriptions",
-      "url": "https://arxiv.org/abs/2604.21668",
-      "summary": "The world knowledge and reasoning capabilities of text-based large language models (LLMs) are advancing rapidly, yet current approaches to human motion understanding, including motion question answeri"
+      "title": "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation",
+      "url": "http://arxiv.org/abs/2604.21910v1",
+      "summary": "Scientific workflow systems automate execution -- scheduling, fault tolerance, resource management -- but not the semantic translation that precedes it. Scientists still manually convert research ques"
     },
     {
-      "title": "PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents",
-      "url": "https://arxiv.org/abs/2506.17001",
-      "summary": "Personalizing language models by effectively incorporating user interaction history remains a central challenge in the development of adaptive AI systems. While large language models (LLMs), combined "
+      "title": "Low-Rank Adaptation Redux for Large Models",
+      "url": "http://arxiv.org/abs/2604.21905v1",
+      "summary": "Low-rank adaptation (LoRA) has emerged as the de facto standard for parameter-efficient fine-tuning (PEFT) of foundation models, enabling the adaptation of billion-parameter networks with minimal comp"
     },
     {
-      "title": "EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model",
-      "url": "https://arxiv.org/abs/2604.10268",
-      "summary": "We propose EditCrafter, a high-resolution image editing method that operates without tuning, leveraging pretrained text-to-image (T2I) diffusion models to process images at resolutions significantly e"
-    },
-    {
-      "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
-      "url": "http://arxiv.org/abs/2604.21931v1",
-      "summary": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention "
-    },
-    {
-      "title": "Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
-      "url": "http://arxiv.org/abs/2604.21930v1",
-      "summary": "Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutra"
+      "title": "A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models",
+      "url": "http://arxiv.org/abs/2604.21903v1",
+      "summary": "Deep-learning video super-resolution has progressed rapidly, but climate applications typically super-resolve (increase resolution) either space or time, and joint spatiotemporal models are often desi"
     }
   ],
   "blog_posts": [
     {
-      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "author": "nickyreinert.de"
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "url": "https://github.com/nex-crm/wuphf",
+      "author": "github.com"
     },
     {
-      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "url": "https://developers.openai.com/api/docs/changelog",
-      "author": "developers.openai.com"
+      "title": "OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "author": "openai.com"
     },
     {
-      "title": "I Used to Love Coding. Now I Just Prompt.",
-      "url": "https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l",
-      "author": "Harsh "
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "url": "https://alash3al.github.io/stash?_v01",
+      "author": "alash3al.github.io"
     },
     {
-      "title": "MiniZinc, constraint modelling language solve discrete optimisation problems",
-      "url": "https://www.minizinc.org",
-      "author": "minizinc.org"
+      "title": "Lambda Calculus Benchmark for AI",
+      "url": "https://victortaelin.github.io/lambench/",
+      "author": "victortaelin.github.io"
     },
     {
-      "title": "A 3D Body from Eight Questions – No Photo, No GPU",
-      "url": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "author": "clad.you"
+      "title": "Generative Engine Optimization (GEO) Goes Mainstream: Why ‘LLM Visibility’ is the New #1 Ranking",
+      "url": "https://medium.com/@jeetlahauk/generative-engine-optimization-geo-goes-mainstream-why-llm-visibility-is-the-new-1-ranking-899d35882751",
+      "author": "Jeet Laha"
     },
     {
-      "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
-      "url": "https://gdm-tipsv2.github.io/",
-      "author": "gdm-tipsv2.github.io"
+      "title": "You Studied AI, Right? Then Why Don’t You Have a Job?",
+      "url": "https://medium.com/@miyagumsum/you-studied-ai-right-then-why-dont-you-have-a-job-d2e1cc8801a2",
+      "author": "Miya Gumsum"
     },
     {
-      "title": "From Data to Dishes: 20 AI Concepts Explained Using Restaurant Analogy",
-      "url": "https://medium.com/@pranaymalhan/from-data-to-dishes-20-ai-concepts-explained-using-restaurant-analogy-3bad706f21eb",
-      "author": "Pranay Malhan"
+      "title": "Python Isn’t One Skill -It’s 10 Different Career Paths!",
+      "url": "https://alkapandey.medium.com/python-isnt-one-skill-it-s-10-different-career-paths-996c4f76a0d6",
+      "author": "Alka Pandey"
+    },
+    {
+      "title": "I Tried Selling AI Prompts for 7 Days — Here’s Exactly How Much I Made",
+      "url": "https://medium.com/the-content-ledger/i-tried-selling-ai-prompts-for-7-days-heres-exactly-how-much-i-made-2c2b57dbeb88",
+      "author": "Chizurum Chidimma Enyinnaya"
     }
   ],
   "repos": [
     {
-      "name": "mlflow/mlflow",
-      "url": "https://github.com/mlflow/mlflow",
-      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin",
-      "stars": 25553,
+      "name": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "description": "",
+      "stars": 102901,
       "language": "Python"
     },
     {
-      "name": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "stars": 17452,
+      "name": "RooCodeInc/Roo-Code",
+      "url": "https://github.com/RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "stars": 23580,
+      "language": "TypeScript"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "My personal directory of skills, straight from my .claude directory.",
+      "stars": 20625,
+      "language": "Shell"
+    },
+    {
+      "name": "pydantic/pydantic-ai",
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "description": "AI Agent Framework, the Pydantic way",
+      "stars": 16637,
       "language": "Python"
     },
     {
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-      "stars": 9780,
+      "name": "MemoriLabs/Memori",
+      "url": "https://github.com/MemoriLabs/Memori",
+      "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.",
+      "stars": 13872,
       "language": "Python"
     },
     {
-      "name": "deepseek-ai/DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
-      "stars": 9370,
-      "language": "Cuda"
-    },
-    {
-      "name": "google/adk-samples",
-      "url": "https://github.com/google/adk-samples",
-      "description": "A collection of sample agents built with Agent Development Kit (ADK)",
-      "stars": 8974,
+      "name": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "stars": 5761,
       "language": "Python"
     },
     {
-      "name": "Anil-matcha/Open-Generative-AI",
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo).",
-      "stars": 7840,
+      "name": "zilliztech/memsearch",
+      "url": "https://github.com/zilliztech/memsearch",
+      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
+      "stars": 1417,
+      "language": "Python"
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "stars": 1281,
       "language": "JavaScript"
-    },
-    {
-      "name": "microsoft/presidio",
-      "url": "https://github.com/microsoft/presidio",
-      "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
-      "stars": 7784,
-      "language": "Python"
-    },
-    {
-      "name": "huggingface/ml-intern",
-      "url": "https://github.com/huggingface/ml-intern",
-      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-      "stars": 5624,
-      "language": "Python"
     }
   ],
   "tweets": []

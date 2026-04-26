@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-26</strong></summary>
+
+#### Papers
+1. **[Evaluation of Automatic Speech Recognition Using Generative Large Language Models](http://arxiv.org/abs/2604.21928v1)** — This paper explores better metrics for evaluating ASR systems beyond traditional Word Error Rate, focusing on semantic meaning.
+2. **[Fine-Tuning Regimes Define Distinct Continual Learning Problems](http://arxiv.org/abs/2604.21927v1)** — It discusses how different fine-tuning strategies impact continual learning, highlighting the need for tailored evaluation methods.
+3. **[The Sample Complexity of Multicalibration](http://arxiv.org/abs/2604.21923v1)** — This study investigates the sample complexity required for effective multicalibration, providing insights into predictive modeling.
+4. **[MathDuels: Evaluating LLMs as Problem Posers and Solvers](http://arxiv.org/abs/2604.21916v1)** — The paper assesses the capabilities of language models in generating and solving mathematical problems, addressing evaluation challenges.
+5. **[When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](http://arxiv.org/abs/2604.21911v1)** — It examines how prompts can lead to hallucinations in large vision-language models, raising concerns about their reliability.
+6. **[From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation](http://arxiv.org/abs/2604.21910v1)** — This paper discusses automating scientific workflows, focusing on the semantic translation of research questions for enhanced efficiency.
+7. **[Low-Rank Adaptation Redux for Large Models](http://arxiv.org/abs/2604.21905v1)** — It reviews low-rank adaptation techniques for fine-tuning large models, emphasizing their efficiency and effectiveness.
+8. **[A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models](http://arxiv.org/abs/2604.21903v1)** — This work presents a framework for improving video resolution, addressing both spatial and temporal aspects in climate applications.
+
+#### Blog Posts
+1. **[Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)** by github.com
+2. **[OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter/)** by openai.com
+3. **[Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://alash3al.github.io/stash?_v01)** by alash3al.github.io
+4. **[Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/)** by victortaelin.github.io
+5. **[Generative Engine Optimization (GEO) Goes Mainstream: Why ‘LLM Visibility’ is the New #1 Ranking](https://medium.com/@jeetlahauk/generative-engine-optimization-geo-goes-mainstream-why-llm-visibility-is-the-new-1-ranking-899d35882751)** by Jeet Laha
+6. **[You Studied AI, Right? Then Why Don’t You Have a Job?](https://medium.com/@miyagumsum/you-studied-ai-right-then-why-dont-you-have-a-job-d2e1cc8801a2)** by Miya Gumsum
+7. **[Python Isn’t One Skill -It’s 10 Different Career Paths!](https://alkapandey.medium.com/python-isnt-one-skill-it-s-10-different-career-paths-996c4f76a0d6)** by Alka Pandey
+8. **[I Tried Selling AI Prompts for 7 Days — Here’s Exactly How Much I Made](https://medium.com/the-content-ledger/i-tried-selling-ai-prompts-for-7-days-heres-exactly-how-much-i-made-2c2b57dbeb88)** by Chizurum Chidimma Enyinnaya
+
+#### Trending Repos
+1. **[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)** — ⭐102901 stars
+2. **[RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)** — Roo Code gives you a whole dev team of AI agents in your code editor. ⭐23580 stars
+3. **[mattpocock/skills](https://github.com/mattpocock/skills)** — My personal directory of skills, straight from my .claude directory. ⭐20625 stars
+4. **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** — AI Agent Framework, the Pydantic way. ⭐16637 stars
+5. **[MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)** — Memori is agent-native memory infrastructure for structured, persistent state. ⭐13872 stars
+6. **[tile-ai/tilelang](https://github.com/tile-ai/tilelang)** — Domain-specific language for high-performance GPU/CPU kernels. ⭐5761 stars
+7. **[zilliztech/memsearch](https://github.com/zilliztech/memsearch)** — A Markdown-first memory system for any AI agent. ⭐1417 stars
+8. **[ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)** — Open-source Skills collection for web design, knowledge retrieval, and more. ⭐1281 stars
+
+</details>
+
+<details>
 <summary><strong>2026-04-25</strong></summary>
 
 #### Papers
