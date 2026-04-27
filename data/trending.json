@@ -1,145 +1,158 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "papers": [
     {
-      "title": "Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
-      "url": "http://arxiv.org/abs/2604.21928v1",
-      "summary": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human pe"
+      "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets",
+      "url": "https://arxiv.org/abs/2604.22294",
+      "summary": "Real-world document question answering is challenging. Analysts must synthesize evidence across multiple documents and different parts of each document. However, any fixed LLM context window can be ex"
     },
     {
-      "title": "Fine-Tuning Regimes Define Distinct Continual Learning Problems",
-      "url": "http://arxiv.org/abs/2604.21927v1",
-      "summary": "Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typ"
+      "title": "Sessa: Selective State Space Attention",
+      "url": "https://arxiv.org/abs/2604.18580",
+      "summary": "Modern sequence modeling is dominated by two families: Transformers, whose self-attention can access arbitrary elements of the visible sequence, and structured state-space models, which propagate info"
     },
     {
-      "title": "The Sample Complexity of Multicalibration",
-      "url": "http://arxiv.org/abs/2604.21923v1",
-      "summary": "We study the minimax sample complexity of multicalibration in the batch setting. A learner observes $n$ i.i.d. samples from an unknown distribution and must output a (possibly randomized) predictor wh"
+      "title": "FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing",
+      "url": "https://arxiv.org/abs/2604.22586",
+      "summary": "We propose FlowAnchor, a training-free framework for stable and efficient inversion-free, flow-based video editing. Inversion-free editing methods have recently shown impressive efficiency and structu"
     },
     {
-      "title": "MathDuels: Evaluating LLMs as Problem Posers and Solvers",
-      "url": "http://arxiv.org/abs/2604.21916v1",
-      "summary": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they ca"
+      "title": "DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction",
+      "url": "https://arxiv.org/abs/2604.21518",
+      "summary": "Neural representations (NRs), such as neural fields and 3D Gaussians, effectively model volumetric data in computed tomography (CT) but suffer from severe artifacts under sparse-view settings. To addr"
     },
     {
-      "title": "When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs",
-      "url": "http://arxiv.org/abs/2604.21911v1",
-      "summary": "Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior w"
+      "title": "AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval",
+      "url": "https://arxiv.org/abs/2604.16353",
+      "summary": "This paper introduces AgriIR, a configurable retrieval augmented generation (RAG) framework designed to deliver grounded, domain-specific answers while maintaining flexibility and low computational co"
     },
     {
-      "title": "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation",
-      "url": "http://arxiv.org/abs/2604.21910v1",
-      "summary": "Scientific workflow systems automate execution -- scheduling, fault tolerance, resource management -- but not the semantic translation that precedes it. Scientists still manually convert research ques"
+      "title": "dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model",
+      "url": "https://arxiv.org/abs/2604.22152",
+      "summary": "Evaluating robotics policies across thousands of environments and thousands of tasks is infeasible with existing approaches. This motivates the need for a new methodology for scalable robotics policy "
     },
     {
-      "title": "Low-Rank Adaptation Redux for Large Models",
-      "url": "http://arxiv.org/abs/2604.21905v1",
-      "summary": "Low-rank adaptation (LoRA) has emerged as the de facto standard for parameter-efficient fine-tuning (PEFT) of foundation models, enabling the adaptation of billion-parameter networks with minimal comp"
+      "title": "LLM Safety From Within: Detecting Harmful Content with Internal Representations",
+      "url": "https://arxiv.org/abs/2604.18519",
+      "summary": "Guard models are widely used to detect harmful content in user prompts and LLM responses. However, state-of-the-art guard models rely solely on terminal-layer representations and overlook the rich saf"
     },
     {
-      "title": "A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models",
-      "url": "http://arxiv.org/abs/2604.21903v1",
-      "summary": "Deep-learning video super-resolution has progressed rapidly, but climate applications typically super-resolve (increase resolution) either space or time, and joint spatiotemporal models are often desi"
+      "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+      "url": "https://arxiv.org/abs/2604.22436",
+      "summary": "The rapid growth of AI agent ecosystems is transforming how complex tasks are delegated and executed, creating a new challenge of identifying suitable agents for a given task. Unlike traditional tools"
+    },
+    {
+      "title": "Learning Evidence Highlighting for Frozen LLMs",
+      "url": "https://arxiv.org/abs/2604.22565",
+      "summary": "Large Language Models (LLMs) can reason well, yet often miss decisive evidence when it is buried in long, noisy contexts. We introduce HiLight, an Evidence Emphasis framework that decouples evidence s"
+    },
+    {
+      "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+      "url": "https://arxiv.org/abs/2604.22748",
+      "summary": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na"
     }
   ],
   "blog_posts": [
     {
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "url": "https://github.com/nex-crm/wuphf",
-      "author": "github.com"
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "author": "twitter.com"
     },
     {
-      "title": "OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
       "author": "openai.com"
     },
     {
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "url": "https://alash3al.github.io/stash?_v01",
-      "author": "alash3al.github.io"
+      "title": "Agentic AI systems violate the implicit assumptions of database design",
+      "url": "https://arpitbhayani.me/blogs/defensive-databases/",
+      "author": "arpitbhayani.me"
     },
     {
-      "title": "Lambda Calculus Benchmark for AI",
-      "url": "https://victortaelin.github.io/lambench/",
-      "author": "victortaelin.github.io"
+      "title": "The Prompt API",
+      "url": "https://developer.chrome.com/docs/ai/prompt-api",
+      "author": "developer.chrome.com"
     },
     {
-      "title": "Generative Engine Optimization (GEO) Goes Mainstream: Why ‘LLM Visibility’ is the New #1 Ranking",
-      "url": "https://medium.com/@jeetlahauk/generative-engine-optimization-geo-goes-mainstream-why-llm-visibility-is-the-new-1-ranking-899d35882751",
-      "author": "Jeet Laha"
+      "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
+      "url": "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
+      "author": "modelrepublic.substack.com"
     },
     {
-      "title": "You Studied AI, Right? Then Why Don’t You Have a Job?",
-      "url": "https://medium.com/@miyagumsum/you-studied-ai-right-then-why-dont-you-have-a-job-d2e1cc8801a2",
-      "author": "Miya Gumsum"
+      "title": "The Invisible Rot: Why Your LLM Eval Checks Are Lying",
+      "url": "https://medium.com/@sparknp1/the-invisible-rot-why-your-llm-eval-checks-are-lying-fffc83b86e3d",
+      "author": "Syntal"
     },
     {
-      "title": "Python Isn’t One Skill -It’s 10 Different Career Paths!",
-      "url": "https://alkapandey.medium.com/python-isnt-one-skill-it-s-10-different-career-paths-996c4f76a0d6",
-      "author": "Alka Pandey"
+      "title": "Why Large Language Models “Forget” Early Context (and the Math Behind It)",
+      "url": "https://medium.com/@majid.golshadi/why-large-language-models-forget-early-context-and-the-math-behind-it-397156bac9b3",
+      "author": "Majid Golshadi"
     },
     {
-      "title": "I Tried Selling AI Prompts for 7 Days — Here’s Exactly How Much I Made",
-      "url": "https://medium.com/the-content-ledger/i-tried-selling-ai-prompts-for-7-days-heres-exactly-how-much-i-made-2c2b57dbeb88",
-      "author": "Chizurum Chidimma Enyinnaya"
+      "title": "Human-in-the-Loop — Where Humans Fit In",
+      "url": "https://arvita-writes.medium.com/human-in-the-loop-where-humans-fit-in-98f4f3192777",
+      "author": "Arya"
+    },
+    {
+      "title": "Are Students Thinking Less Because of AI?",
+      "url": "https://medium.com/@onlyeducationofficial/are-students-thinking-less-because-of-ai-672abdfe868b",
+      "author": "Only Education"
+    },
+    {
+      "title": "Cyber Security for Kids",
+      "url": "https://medium.com/@mayank878755/cyber-security-for-kids-76729214e916",
+      "author": "Mayank"
     }
   ],
   "repos": [
     {
-      "name": "deepseek-ai/DeepSeek-V3",
-      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "description": "",
-      "stars": 102901,
-      "language": "Python"
-    },
-    {
-      "name": "RooCodeInc/Roo-Code",
-      "url": "https://github.com/RooCodeInc/Roo-Code",
-      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
-      "stars": 23580,
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "stars": 364975,
       "language": "TypeScript"
     },
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "My personal directory of skills, straight from my .claude directory.",
-      "stars": 20625,
-      "language": "Shell"
-    },
-    {
-      "name": "pydantic/pydantic-ai",
-      "url": "https://github.com/pydantic/pydantic-ai",
-      "description": "AI Agent Framework, the Pydantic way",
-      "stars": 16637,
+      "name": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "stars": 162635,
       "language": "Python"
     },
     {
-      "name": "MemoriLabs/Memori",
-      "url": "https://github.com/MemoriLabs/Memori",
-      "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.",
-      "stars": 13872,
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars": 110248,
       "language": "Python"
     },
     {
-      "name": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "stars": 5761,
+      "name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "stars": 35918,
       "language": "Python"
     },
     {
-      "name": "zilliztech/memsearch",
-      "url": "https://github.com/zilliztech/memsearch",
-      "description": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.",
-      "stars": 1417,
-      "language": "Python"
+      "name": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "stars": 21855,
+      "language": "Go"
     },
     {
-      "name": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "stars": 1281,
-      "language": "JavaScript"
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 14568,
+      "language": "HTML"
+    },
+    {
+      "name": "wuyoscar/gpt_image_2_skill",
+      "url": "https://github.com/wuyoscar/gpt_image_2_skill",
+      "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+      "stars": 729,
+      "language": "Python"
     }
   ],
   "tweets": []

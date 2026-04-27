@@ -907,5 +907,40 @@
       "https://github.com/zilliztech/memsearch",
       "https://github.com/ConardLi/garden-skills"
     ]
+  },
+  "2026-04-27": {
+    "papers": [
+      "https://arxiv.org/abs/2604.22294",
+      "https://arxiv.org/abs/2604.18580",
+      "https://arxiv.org/abs/2604.22586",
+      "https://arxiv.org/abs/2604.21518",
+      "https://arxiv.org/abs/2604.16353",
+      "https://arxiv.org/abs/2604.22152",
+      "https://arxiv.org/abs/2604.18519",
+      "https://arxiv.org/abs/2604.22436",
+      "https://arxiv.org/abs/2604.22565",
+      "https://arxiv.org/abs/2604.22748"
+    ],
+    "blogs": [
+      "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "https://arpitbhayani.me/blogs/defensive-databases/",
+      "https://developer.chrome.com/docs/ai/prompt-api",
+      "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
+      "https://medium.com/@sparknp1/the-invisible-rot-why-your-llm-eval-checks-are-lying-fffc83b86e3d",
+      "https://medium.com/@majid.golshadi/why-large-language-models-forget-early-context-and-the-math-behind-it-397156bac9b3",
+      "https://arvita-writes.medium.com/human-in-the-loop-where-humans-fit-in-98f4f3192777",
+      "https://medium.com/@onlyeducationofficial/are-students-thinking-less-because-of-ai-672abdfe868b",
+      "https://medium.com/@mayank878755/cyber-security-for-kids-76729214e916"
+    ],
+    "repos": [
+      "https://github.com/openclaw/openclaw",
+      "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "https://github.com/Comfy-Org/ComfyUI",
+      "https://github.com/google/langextract",
+      "https://github.com/gastownhall/beads",
+      "https://github.com/trycua/cua",
+      "https://github.com/wuyoscar/gpt_image_2_skill"
+    ]
   }
 }

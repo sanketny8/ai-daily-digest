@@ -10,6 +10,44 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-27</strong></summary>
+
+#### Papers
+1. **[Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets](https://arxiv.org/abs/2604.22294)** — This paper addresses the challenges of synthesizing evidence across multiple documents for question answering.
+2. **[Sessa: Selective State Space Attention](https://arxiv.org/abs/2604.18580)** — Introduces a new model that combines the strengths of Transformers and structured state-space models for better sequence modeling.
+3. **[FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing](https://arxiv.org/abs/2604.22586)** — Proposes a framework for efficient video editing without the need for inversion, enhancing stability and structure.
+4. **[DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction](https://arxiv.org/abs/2604.21518)** — Tackles artifacts in 3D imaging under sparse-view conditions using enhanced neural representation techniques.
+5. **[AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval](https://arxiv.org/abs/2604.16353)** — Introduces a flexible framework for retrieving domain-specific answers efficiently, enhancing knowledge retrieval in various fields.
+6. **[LLM Safety From Within: Detecting Harmful Content with Internal Representations](https://arxiv.org/abs/2604.18519)** — Explores new methods for detecting harmful content in language models using internal representations for improved safety.
+7. **[AgentSearchBench: A Benchmark for AI Agent Search in the Wild](https://arxiv.org/abs/2604.22436)** — Establishes a benchmark for evaluating AI agents in real-world tasks, addressing the challenge of agent selection.
+8. **[Learning Evidence Highlighting for Frozen LLMs](https://arxiv.org/abs/2604.22565)** — Introduces a framework to enhance evidence retrieval in large language models, improving their reasoning capabilities.
+9. **[Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection](http://arxiv.org/abs/2604.22753v1)** — Proposes a cost-effective method for fitting scaling laws in AI training, optimizing resource allocation.
+10. **[Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought](http://arxiv.org/abs/2604.22709v1)** — Discusses a new approach to reasoning that reduces the need for lengthy explicit thought chains in AI models.
+
+#### Blog Posts
+1. **[An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)** by twitter.com
+2. **[SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)** by openai.com
+3. **[Agentic AI systems violate the implicit assumptions of database design](https://arpitbhayani.me/blogs/defensive-databases/)** by arpitbhayani.me
+4. **[The Prompt API](https://developer.chrome.com/docs/ai/prompt-api)** by developer.chrome.com
+5. **[The reporters at this news site are AI bots. OpenAI appears to be funding it](https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are)** by modelrepublic.substack.com
+6. **[The Invisible Rot: Why Your LLM Eval Checks Are Lying](https://medium.com/@sparknp1/the-invisible-rot-why-your-llm-eval-checks-are-lying-fffc83b86e3d)** by Syntal
+7. **[Why Large Language Models “Forget” Early Context (and the Math Behind It)](https://medium.com/@majid.golshadi/why-large-language-models-forget-early-context-and-the-math-behind-it-397156bac9b3)** by Majid Golshadi
+8. **[Human-in-the-Loop — Where Humans Fit In](https://arvita-writes.medium.com/human-in-the-loop-where-humans-fit-in-98f4f3192777)** by Arya
+9. **[Are Students Thinking Less Because of AI?](https://medium.com/@onlyeducationofficial/are-students-thinking-less-because-of-ai-672abdfe868b)** by Only Education
+10. **[Cyber Security for Kids](https://medium.com/@mayank878755/cyber-security-for-kids-76729214e916)** by Mayank
+
+#### Trending Repos
+1. **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ⭐ 364975
+2. **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — Stable Diffusion web UI. ⭐ 162635
+3. **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. ⭐ 110248
+4. **[google/langextract](https://github.com/google/langextract)** — A Python library for extracting structured information from unstructured text using LLMs. ⭐ 35918
+5. **[gastownhall/beads](https://github.com/gastownhall/beads)** — Beads - A memory upgrade for your coding agent. ⭐ 21855
+6. **[trycua/cua](https://github.com/trycua/cua)** — Open-source infrastructure for Computer-Use Agents. ⭐ 14568
+7. **[wuyoscar/gpt_image_2_skill](https://github.com/wuyoscar/gpt_image_2_skill)** — GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing. ⭐ 729
+
+</details>
+
+<details>
 <summary><strong>2026-04-26</strong></summary>
 
 #### Papers
