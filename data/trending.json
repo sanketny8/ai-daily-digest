@@ -1,157 +1,152 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "papers": [
     {
-      "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets",
-      "url": "https://arxiv.org/abs/2604.22294",
-      "summary": "Real-world document question answering is challenging. Analysts must synthesize evidence across multiple documents and different parts of each document. However, any fixed LLM context window can be ex"
+      "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
+      "url": "https://arxiv.org/abs/2604.22446",
+      "summary": "Individual agent capabilities have advanced rapidly through modular skills and tool integrations, yet multi-agent systems remain constrained by fixed team structures, tightly coupled coordination logi"
     },
     {
-      "title": "Sessa: Selective State Space Attention",
-      "url": "https://arxiv.org/abs/2604.18580",
-      "summary": "Modern sequence modeling is dominated by two families: Transformers, whose self-attention can access arbitrary elements of the visible sequence, and structured state-space models, which propagate info"
+      "title": "For-Value: Efficient Forward-Only Data Valuation for finetuning LLMs and VLMs",
+      "url": "https://arxiv.org/abs/2508.10180",
+      "summary": "Data valuation is essential for enhancing the transparency and accountability of large language models (LLMs) and vision-language models (VLMs). However, existing methods typically rely on gradient co"
     },
     {
-      "title": "FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing",
-      "url": "https://arxiv.org/abs/2604.22586",
-      "summary": "We propose FlowAnchor, a training-free framework for stable and efficient inversion-free, flow-based video editing. Inversion-free editing methods have recently shown impressive efficiency and structu"
+      "title": "Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment",
+      "url": "https://arxiv.org/abs/2604.19548",
+      "summary": "Large Language Model agents have rapidly evolved from static text generators into dynamic systems capable of executing complex autonomous workflows. To enhance reliability, multi-agent frameworks assi"
     },
     {
-      "title": "DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction",
-      "url": "https://arxiv.org/abs/2604.21518",
-      "summary": "Neural representations (NRs), such as neural fields and 3D Gaussians, effectively model volumetric data in computed tomography (CT) but suffer from severe artifacts under sparse-view settings. To addr"
+      "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
+      "url": "https://arxiv.org/abs/2604.21480",
+      "summary": "Large language models (LLMs) are increasingly deployed as customer-facing agents, yet evaluating their reliability remains challenging due to stochastic, multi-turn interactions. Current evaluation pr"
     },
     {
-      "title": "AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval",
-      "url": "https://arxiv.org/abs/2604.16353",
-      "summary": "This paper introduces AgriIR, a configurable retrieval augmented generation (RAG) framework designed to deliver grounded, domain-specific answers while maintaining flexibility and low computational co"
+      "title": "Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms",
+      "url": "https://arxiv.org/abs/2604.23775",
+      "summary": "Vision-Language-Action (VLA) models are emerging as a unified substrate for embodied intelligence. This shift raises a new class of safety challenges, stemming from the embodied nature of VLA systems,"
     },
     {
-      "title": "dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model",
-      "url": "https://arxiv.org/abs/2604.22152",
-      "summary": "Evaluating robotics policies across thousands of environments and thousands of tasks is infeasible with existing approaches. This motivates the need for a new methodology for scalable robotics policy "
+      "title": "OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer",
+      "url": "https://arxiv.org/abs/2604.24762",
+      "summary": "Shot Boundary Detection (SBD) aims to automatically identify shot changes and divide a video into coherent shots. While SBD was widely studied in the literature, existing state-of-the-art methods ofte"
     },
     {
-      "title": "LLM Safety From Within: Detecting Harmful Content with Internal Representations",
-      "url": "https://arxiv.org/abs/2604.18519",
-      "summary": "Guard models are widely used to detect harmful content in user prompts and LLM responses. However, state-of-the-art guard models rely solely on terminal-layer representations and overlook the rich saf"
+      "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
+      "url": "https://arxiv.org/abs/2604.24300",
+      "summary": "Current evaluations of spatial intelligence can be systematically invalid under modern vision-language model (VLM) settings. First, many benchmarks derive question-answer (QA) pairs from point-cloud-b"
     },
     {
-      "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
-      "url": "https://arxiv.org/abs/2604.22436",
-      "summary": "The rapid growth of AI agent ecosystems is transforming how complex tasks are delegated and executed, creating a new challenge of identifying suitable agents for a given task. Unlike traditional tools"
+      "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents",
+      "url": "https://arxiv.org/abs/2604.23781",
+      "summary": "Language-model agents are increasingly used as persistent coworkers that assist users across multiple working days. During such workflows, the surrounding environment may change independently of the a"
     },
     {
-      "title": "Learning Evidence Highlighting for Frozen LLMs",
-      "url": "https://arxiv.org/abs/2604.22565",
-      "summary": "Large Language Models (LLMs) can reason well, yet often miss decisive evidence when it is buried in long, noisy contexts. We introduce HiLight, an Evidence Emphasis framework that decouples evidence s"
+      "title": "Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data",
+      "url": "https://arxiv.org/abs/2604.24479",
+      "summary": "Computer-Aided Design (CAD) models are defined by their construction history: a parametric recipe that encodes design intent. However, existing large-scale 3D datasets predominantly consist of boundar"
     },
     {
-      "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
-      "url": "https://arxiv.org/abs/2604.22748",
-      "summary": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na"
+      "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
+      "url": "https://arxiv.org/abs/2604.24763",
+      "summary": "Unified multimodal models typically rely on pretrained vision encoders and use separate visual representations for understanding and generation, creating misalignment between the two tasks and prevent"
     }
   ],
   "blog_posts": [
     {
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "author": "twitter.com"
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "author": "bloomberg.com"
     },
     {
-      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "author": "openai.com"
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "url": "https://github.com/dirac-run/dirac",
+      "author": "github.com"
     },
     {
-      "title": "Agentic AI systems violate the implicit assumptions of database design",
-      "url": "https://arpitbhayani.me/blogs/defensive-databases/",
-      "author": "arpitbhayani.me"
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "author": "talkie-lm.com"
     },
     {
-      "title": "The Prompt API",
-      "url": "https://developer.chrome.com/docs/ai/prompt-api",
-      "author": "developer.chrome.com"
+      "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "author": "deepmind.google"
     },
     {
-      "title": "The reporters at this news site are AI bots. OpenAI appears to be funding it",
-      "url": "https://modelrepublic.substack.com/p/the-reporters-at-this-news-site-are",
-      "author": "modelrepublic.substack.com"
+      "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
+      "url": "https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273",
+      "author": "wsj.com"
     },
     {
-      "title": "The Invisible Rot: Why Your LLM Eval Checks Are Lying",
-      "url": "https://medium.com/@sparknp1/the-invisible-rot-why-your-llm-eval-checks-are-lying-fffc83b86e3d",
-      "author": "Syntal"
+      "title": "He Changed One Number in an Instagram Request — Instagram Paid Him $6,500",
+      "url": "https://osintteam.blog/he-changed-one-number-in-an-instagram-request-instagram-paid-him-6-500-fdebe0aa3ad8",
+      "author": "Vivek PS"
     },
     {
-      "title": "Why Large Language Models “Forget” Early Context (and the Math Behind It)",
-      "url": "https://medium.com/@majid.golshadi/why-large-language-models-forget-early-context-and-the-math-behind-it-397156bac9b3",
-      "author": "Majid Golshadi"
+      "title": "# The AI Too Dangerous to Release: Inside Anthropic’s Claude Mythos",
+      "url": "https://medium.com/@white9349/the-ai-too-dangerous-to-release-inside-anthropics-claude-mythos-93b47676bd66",
+      "author": "BytesByKai"
     },
     {
-      "title": "Human-in-the-Loop — Where Humans Fit In",
-      "url": "https://arvita-writes.medium.com/human-in-the-loop-where-humans-fit-in-98f4f3192777",
-      "author": "Arya"
+      "title": "Your Small Business Just Got a New Employee — And It Never Sleeps",
+      "url": "https://medium.com/system-design-mastery-series/your-small-business-just-got-a-new-employee-and-it-never-sleeps-e9c9691f7cb8",
+      "author": "Suresh Kumar Ariya Gowder"
     },
     {
-      "title": "Are Students Thinking Less Because of AI?",
-      "url": "https://medium.com/@onlyeducationofficial/are-students-thinking-less-because-of-ai-672abdfe868b",
-      "author": "Only Education"
-    },
-    {
-      "title": "Cyber Security for Kids",
-      "url": "https://medium.com/@mayank878755/cyber-security-for-kids-76729214e916",
-      "author": "Mayank"
+      "title": "It’s 2026, not 2030: AI is already reshaping how online identity is rebuilt in hours",
+      "url": "https://jessuisse.medium.com/its-2026-not-2030-ai-is-already-reshaping-how-online-identity-is-rebuilt-in-hours-dd2a50356800",
+      "author": "Jess"
     }
   ],
   "repos": [
     {
-      "name": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": 364975,
-      "language": "TypeScript"
-    },
-    {
-      "name": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "description": "Stable Diffusion web UI",
-      "stars": 162635,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 54100,
       "language": "Python"
     },
     {
-      "name": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 110248,
+      "name": "openai/openai-cs-agents-demo",
+      "url": "https://github.com/openai/openai-cs-agents-demo",
+      "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
+      "stars": 6292,
       "language": "Python"
     },
     {
-      "name": "google/langextract",
-      "url": "https://github.com/google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "stars": 35918,
+      "name": "facebookresearch/ai4animationpy",
+      "url": "https://github.com/facebookresearch/ai4animationpy",
+      "description": "A Python framework for AI-driven character animation using neural networks.",
+      "stars": 1587,
       "language": "Python"
     },
     {
-      "name": "gastownhall/beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "stars": 21855,
-      "language": "Go"
+      "name": "hydropix/TranslateBooksWithLLMs",
+      "url": "https://github.com/hydropix/TranslateBooksWithLLMs",
+      "description": "Translate full-length books and documents with Ollama, OpenAI (comptatible), Gemini, Mistral, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.",
+      "stars": 1243,
+      "language": "Python"
     },
     {
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 14568,
-      "language": "HTML"
+      "name": "0x0funky/agent-sprite-forge",
+      "url": "https://github.com/0x0funky/agent-sprite-forge",
+      "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
+      "stars": 931,
+      "language": "Python"
     },
     {
-      "name": "wuyoscar/gpt_image_2_skill",
-      "url": "https://github.com/wuyoscar/gpt_image_2_skill",
-      "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
-      "stars": 729,
+      "name": "GammaLabTechnologies/harmonist",
+      "url": "https://github.com/GammaLabTechnologies/harmonist",
+      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
+      "stars": 759,
+      "language": "Python"
+    },
+    {
+      "name": "future-agi/future-agi",
+      "url": "https://github.com/future-agi/future-agi",
+      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "stars": 663,
       "language": "Python"
     }
   ],

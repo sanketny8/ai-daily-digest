@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-28</strong></summary>
+
+#### Papers
+1. **[From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company](https://arxiv.org/abs/2604.22446)** — This paper discusses improving multi-agent systems by organizing diverse agent capabilities beyond fixed structures.
+2. **[For-Value: Efficient Forward-Only Data Valuation for finetuning LLMs and VLMs](https://arxiv.org/abs/2508.10180)** — Introduces a method for valuing data to enhance the transparency of large language and vision-language models.
+3. **[Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment](https://arxiv.org/abs/2604.19548)** — Explores enhancing reliability in multi-agent frameworks through dialectical alignment in complex workflows.
+4. **[Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms](https://arxiv.org/abs/2604.23775)** — Examines safety challenges in emerging Vision-Language-Action models for embodied intelligence.
+5. **[ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents](https://arxiv.org/abs/2604.23781)** — Proposes a benchmark for evaluating language-model agents as persistent coworkers in dynamic environments.
+6. **[Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data](https://arxiv.org/abs/2604.24479)** — Discusses generating interpretable CAD programs without relying on extensive real-world data.
+7. **[Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components](http://arxiv.org/abs/2604.24758v1)** — Focuses on generating adaptive programming examples tailored to student submissions for better learning.
+8. **[Learning to Think from Multiple Thinkers](http://arxiv.org/abs/2604.24737v1)** — Investigates learning from diverse solutions provided by multiple thinkers to enhance problem-solving approaches.
+9. **[Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters](http://arxiv.org/abs/2604.24710v1)** — Proposes a methodology for clinically valid evaluation of AI in healthcare settings.
+10. **[Scalable Hyperparameter-Divergent Ensemble Training with Automatic Learning Rate Exploration for Large Models](http://arxiv.org/abs/2604.24708v1)** — Introduces a method for optimizing training of large neural networks through diverse hyperparameter exploration.
+
+#### Blog Posts
+1. **[Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)** by bloomberg.com
+2. **[Decoupled DiLoCo: Resilient, Distributed AI Training at Scale](https://deepmind.google/blog/decoupled-diloco/)** by deepmind.google
+3. **[OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO](https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273)** by wsj.com
+4. **[He Changed One Number in an Instagram Request — Instagram Paid Him $6,500](https://osintteam.blog/he-changed-one-number-in-an-instagram-request-instagram-paid-him-6-500-fdebe0aa3ad8)** by Vivek PS
+5. **[# The AI Too Dangerous to Release: Inside Anthropic’s Claude Mythos](https://medium.com/@white9349/the-ai-too-dangerous-to-release-inside-anthropics-claude-mythos-93b47676bd66)** by BytesByKai
+6. **[Your Small Business Just Got a New Employee — And It Never Sleeps](https://medium.com/system-design-mastery-series/your-small-business-just-got-a-new-employee-and-it-never-sleeps-e9c9691f7cb8)** by Suresh Kumar Ariya Gowder
+7. **[It’s 2026, not 2030: AI is already reshaping how online identity is rebuilt in hours](https://jessuisse.medium.com/its-2026-not-2030-ai-is-already-reshaping-how-online-identity-is-rebuilt-in-hours-dd2a50356800)** by Jess
+
+#### Trending Repos
+1. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — Multi-Agents LLM Financial Trading Framework. ⭐ 54100
+2. **[openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo)** — Demo of a customer service use case implemented with the OpenAI Agents SDK. ⭐ 6292
+3. **[facebookresearch/ai4animationpy](https://github.com/facebookresearch/ai4animationpy)** — A Python framework for AI-driven character animation using neural networks. ⭐ 1587
+4. **[hydropix/TranslateBooksWithLLMs](https://github.com/hydropix/TranslateBooksWithLLMs)** — Translate full-length books and documents with various LLMs, preserving formatting. ⭐ 1243
+5. **[0x0funky/agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)** — Agent Skill for generating 2D sprite sheets and animated GIFs from prompts. ⭐ 931
+6. **[GammaLabTechnologies/harmonist](https://github.com/GammaLabTechnologies/harmonist)** — Portable AI agent orchestration with mechanical protocol enforcement. ⭐ 759
+7. **[future-agi/future-agi](https://github.com/future-agi/future-agi)** — Open-source platform for evaluating and improving LLM and AI agent applications. ⭐ 663
+
+</details>
+
+<details>
 <summary><strong>2026-04-27</strong></summary>
 
 #### Papers

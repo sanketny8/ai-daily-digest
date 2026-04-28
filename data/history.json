@@ -942,5 +942,39 @@
       "https://github.com/trycua/cua",
       "https://github.com/wuyoscar/gpt_image_2_skill"
     ]
+  },
+  "2026-04-28": {
+    "papers": [
+      "https://arxiv.org/abs/2604.22446",
+      "https://arxiv.org/abs/2508.10180",
+      "https://arxiv.org/abs/2604.19548",
+      "https://arxiv.org/abs/2604.21480",
+      "https://arxiv.org/abs/2604.23775",
+      "https://arxiv.org/abs/2604.24762",
+      "https://arxiv.org/abs/2604.24300",
+      "https://arxiv.org/abs/2604.23781",
+      "https://arxiv.org/abs/2604.24479",
+      "https://arxiv.org/abs/2604.24763"
+    ],
+    "blogs": [
+      "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "https://github.com/dirac-run/dirac",
+      "https://talkie-lm.com/introducing-talkie",
+      "https://deepmind.google/blog/decoupled-diloco/",
+      "https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273",
+      "https://osintteam.blog/he-changed-one-number-in-an-instagram-request-instagram-paid-him-6-500-fdebe0aa3ad8",
+      "https://medium.com/@white9349/the-ai-too-dangerous-to-release-inside-anthropics-claude-mythos-93b47676bd66",
+      "https://medium.com/system-design-mastery-series/your-small-business-just-got-a-new-employee-and-it-never-sleeps-e9c9691f7cb8",
+      "https://jessuisse.medium.com/its-2026-not-2030-ai-is-already-reshaping-how-online-identity-is-rebuilt-in-hours-dd2a50356800"
+    ],
+    "repos": [
+      "https://github.com/TauricResearch/TradingAgents",
+      "https://github.com/openai/openai-cs-agents-demo",
+      "https://github.com/facebookresearch/ai4animationpy",
+      "https://github.com/hydropix/TranslateBooksWithLLMs",
+      "https://github.com/0x0funky/agent-sprite-forge",
+      "https://github.com/GammaLabTechnologies/harmonist",
+      "https://github.com/future-agi/future-agi"
+    ]
   }
 }
