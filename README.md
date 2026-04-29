@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-29</strong></summary>
+
+#### Papers
+1. **[Step-Audio-R1.5 Technical Report](https://arxiv.org/abs/2604.25719)** — Advances in audio language models enable complex reasoning in acoustic tasks.
+2. **[MAIC-UI: Making Interactive Courseware with Generative UI](https://arxiv.org/abs/2604.25806)** — Generative AI tools simplify the creation of interactive STEM courseware for educators without coding skills.
+3. **[AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery](https://arxiv.org/abs/2604.25256)** — AI agents enhance scientific research by effectively discovering relevant literature.
+4. **[Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages](https://arxiv.org/abs/2604.21481)** — Crowdsourced evaluations reveal linguistic diversity challenges in text-to-speech systems for Indian languages.
+5. **[Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models](https://arxiv.org/abs/2604.21523)** — Investigates limitations in vision-language models used for evaluating image and text outputs.
+6. **[GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction](https://arxiv.org/abs/2604.23941)** — A model that accurately locates GUI elements based on natural language instructions for better agent interaction.
+7. **[AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark](https://arxiv.org/abs/2604.24441)** — Enhances digital autonomy by improving agents' understanding of GUI functionalities.
+8. **[BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate](https://arxiv.org/abs/2604.25203)** — Introduces a novel approach for developing task-specific policy guardrails in AI systems.
+9. **[Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models](http://arxiv.org/abs/2604.25903v1)** — Proposes a sustainable method to reduce the computational costs of large language models.
+10. **[Three Models of RLHF Annotation: Extension, Evidence, and Authority](http://arxiv.org/abs/2604.25895v1)** — Explores how human feedback shapes the behavior of large language models through preference-based alignment.
+
+#### Blog Posts
+1. **[Claude.ai unavailable and elevated errors on the API](https://status.claude.com/incidents/9l93x2ht4s5w)** by status.claude.com
+2. **[OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)** by stratechery.com
+3. **[A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all](https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files)** by augmentcode.com
+4. **[Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work)** by anthropic.com
+5. **[We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs)** by mendral.com
+6. **[A playable DOOM MCP app](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/)** by chrisnager.com
+7. **[AI through Visuals - Hardware](https://dev.to/javz/ai-through-visuals-hardware-5ha6)** by Julien Avezou
+
+#### Trending Repos
+1. **[keephq/keep](https://github.com/keephq/keep)** — The open-source AIOps and alert management platform. ⭐ 11753
+2. **[nexu-io/open-design](https://github.com/nexu-io/open-design)** — Local-first, open-source alternative to Anthropic's Claude Design. ⭐ 2361
+3. **[fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui)** — The Ultimate Open Source Suno Alternative for AI Music Generation. ⭐ 1950
+4. **[alash3al/stash](https://github.com/alash3al/stash)** — Persistent memory layer for AI agents, self-hosted and no cloud required. ⭐ 527
+
+</details>
+
+<details>
 <summary><strong>2026-04-28</strong></summary>
 
 #### Papers

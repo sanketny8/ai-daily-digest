@@ -1,153 +1,127 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "papers": [
     {
-      "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
-      "url": "https://arxiv.org/abs/2604.22446",
-      "summary": "Individual agent capabilities have advanced rapidly through modular skills and tool integrations, yet multi-agent systems remain constrained by fixed team structures, tightly coupled coordination logi"
+      "title": "Step-Audio-R1.5 Technical Report",
+      "url": "https://arxiv.org/abs/2604.25719",
+      "summary": "Recent advancements in large audio language models have extended Chain-of-Thought (CoT) reasoning into the auditory domain, enabling models to tackle increasingly complex acoustic and spoken tasks. To"
     },
     {
-      "title": "For-Value: Efficient Forward-Only Data Valuation for finetuning LLMs and VLMs",
-      "url": "https://arxiv.org/abs/2508.10180",
-      "summary": "Data valuation is essential for enhancing the transparency and accountability of large language models (LLMs) and vision-language models (VLMs). However, existing methods typically rely on gradient co"
+      "title": "MAIC-UI: Making Interactive Courseware with Generative UI",
+      "url": "https://arxiv.org/abs/2604.25806",
+      "summary": "Creating interactive STEM courseware traditionally requires HTML/CSS/JavaScript expertise, leaving barriers for educators. While generative AI can produce HTML codes, existing tools generate static pr"
     },
     {
-      "title": "Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment",
-      "url": "https://arxiv.org/abs/2604.19548",
-      "summary": "Large Language Model agents have rapidly evolved from static text generators into dynamic systems capable of executing complex autonomous workflows. To enhance reliability, multi-agent frameworks assi"
+      "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery",
+      "url": "https://arxiv.org/abs/2604.25256",
+      "summary": "Autonomous scientific research is significantly advanced thanks to the development of AI agents. One key step in this process is finding the right scientific literature, whether to explore existing kn"
     },
     {
-      "title": "Efficient Agent Evaluation via Diversity-Guided User Simulation",
-      "url": "https://arxiv.org/abs/2604.21480",
-      "summary": "Large language models (LLMs) are increasingly deployed as customer-facing agents, yet evaluating their reliability remains challenging due to stochastic, multi-turn interactions. Current evaluation pr"
+      "title": "Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages",
+      "url": "https://arxiv.org/abs/2604.21481",
+      "summary": "Crowdsourced pairwise evaluation has emerged as a scalable approach for assessing foundation models. However, applying it to Text to Speech(TTS) introduces high variance due to linguistic diversity an"
     },
     {
-      "title": "Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms",
-      "url": "https://arxiv.org/abs/2604.23775",
-      "summary": "Vision-Language-Action (VLA) models are emerging as a unified substrate for embodied intelligence. This shift raises a new class of safety challenges, stemming from the embodied nature of VLA systems,"
+      "title": "Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models",
+      "url": "https://arxiv.org/abs/2604.21523",
+      "summary": "Large Vision-Language Models (VLMs) are increasingly used to evaluate outputs of other models, for image-to-text (I2T) tasks such as visual question answering, and text-to-image (T2I) generation tasks"
     },
     {
-      "title": "OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer",
-      "url": "https://arxiv.org/abs/2604.24762",
-      "summary": "Shot Boundary Detection (SBD) aims to automatically identify shot changes and divide a video into coherent shots. While SBD was widely studied in the literature, existing state-of-the-art methods ofte"
+      "title": "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents",
+      "url": "https://arxiv.org/abs/2604.24005",
+      "summary": "On-policy distillation (OPD) has shown strong potential for transferring reasoning ability from frontier or domain-specific models to smaller students. While effective on static single-turn tasks, its"
     },
     {
-      "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
-      "url": "https://arxiv.org/abs/2604.24300",
-      "summary": "Current evaluations of spatial intelligence can be systematically invalid under modern vision-language model (VLM) settings. First, many benchmarks derive question-answer (QA) pairs from point-cloud-b"
+      "title": "GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction",
+      "url": "https://arxiv.org/abs/2604.23941",
+      "summary": "Graphical User Interface (GUI) element grounding (precisely locating elements on screenshots based on natural language instructions) is fundamental for agents interacting with GUIs. Deploying this cap"
     },
     {
-      "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents",
-      "url": "https://arxiv.org/abs/2604.23781",
-      "summary": "Language-model agents are increasingly used as persistent coworkers that assist users across multiple working days. During such workflows, the surrounding environment may change independently of the a"
+      "title": "AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark",
+      "url": "https://arxiv.org/abs/2604.24441",
+      "summary": "Autonomous agents capable of navigating Graphical User Interfaces (GUIs) hold the potential to revolutionize digital productivity. However, achieving true digital autonomy extends beyond reactive elem"
     },
     {
-      "title": "Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data",
-      "url": "https://arxiv.org/abs/2604.24479",
-      "summary": "Computer-Aided Design (CAD) models are defined by their construction history: a parametric recipe that encodes design intent. However, existing large-scale 3D datasets predominantly consist of boundar"
+      "title": "BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate",
+      "url": "https://arxiv.org/abs/2604.25203",
+      "summary": "Deploying guardrails for custom policies remains challenging, as generic safety models fail to capture task-specific requirements, while prompting LLMs suffers from inconsistent boundary-case performa"
     },
     {
-      "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
-      "url": "https://arxiv.org/abs/2604.24763",
-      "summary": "Unified multimodal models typically rely on pretrained vision encoders and use separate visual representations for understanding and generation, creating misalignment between the two tasks and prevent"
+      "title": "Co-Director: Agentic Generative Video Storytelling",
+      "url": "https://arxiv.org/abs/2604.24842",
+      "summary": "While diffusion models generate high-fidelity video clips, transforming them into coherent storytelling engines remains challenging. Current agentic pipelines automate this via chained modules but suf"
     }
   ],
   "blog_posts": [
     {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "author": "bloomberg.com"
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "author": "status.claude.com"
     },
     {
-      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-      "url": "https://github.com/dirac-run/dirac",
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "author": "stratechery.com"
+    },
+    {
+      "title": "Regression: malware reminder on every read still causes subagent refusals",
+      "url": "https://github.com/anthropics/claude-code/issues/49363",
       "author": "github.com"
     },
     {
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "author": "talkie-lm.com"
+      "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
+      "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+      "author": "augmentcode.com"
     },
     {
-      "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
-      "url": "https://deepmind.google/blog/decoupled-diloco/",
-      "author": "deepmind.google"
+      "title": "Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "author": "anthropic.com"
     },
     {
-      "title": "OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO",
-      "url": "https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273",
-      "author": "wsj.com"
+      "title": "We decreased our LLM costs with Opus",
+      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
+      "author": "mendral.com"
     },
     {
-      "title": "He Changed One Number in an Instagram Request — Instagram Paid Him $6,500",
-      "url": "https://osintteam.blog/he-changed-one-number-in-an-instagram-request-instagram-paid-him-6-500-fdebe0aa3ad8",
-      "author": "Vivek PS"
+      "title": "A playable DOOM MCP app",
+      "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "author": "chrisnager.com"
     },
     {
-      "title": "# The AI Too Dangerous to Release: Inside Anthropic’s Claude Mythos",
-      "url": "https://medium.com/@white9349/the-ai-too-dangerous-to-release-inside-anthropics-claude-mythos-93b47676bd66",
-      "author": "BytesByKai"
-    },
-    {
-      "title": "Your Small Business Just Got a New Employee — And It Never Sleeps",
-      "url": "https://medium.com/system-design-mastery-series/your-small-business-just-got-a-new-employee-and-it-never-sleeps-e9c9691f7cb8",
-      "author": "Suresh Kumar Ariya Gowder"
-    },
-    {
-      "title": "It’s 2026, not 2030: AI is already reshaping how online identity is rebuilt in hours",
-      "url": "https://jessuisse.medium.com/its-2026-not-2030-ai-is-already-reshaping-how-online-identity-is-rebuilt-in-hours-dd2a50356800",
-      "author": "Jess"
+      "title": "AI through Visuals - Hardware",
+      "url": "https://dev.to/javz/ai-through-visuals-hardware-5ha6",
+      "author": "Julien Avezou"
     }
   ],
   "repos": [
     {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 54100,
+      "name": "keephq/keep",
+      "url": "https://github.com/keephq/keep",
+      "description": "The open-source AIOps and alert management platform",
+      "stars": 11753,
       "language": "Python"
     },
     {
-      "name": "openai/openai-cs-agents-demo",
-      "url": "https://github.com/openai/openai-cs-agents-demo",
-      "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
-      "stars": 6292,
-      "language": "Python"
+      "name": "nexu-io/open-design",
+      "url": "https://github.com/nexu-io/open-design",
+      "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Curs",
+      "stars": 2361,
+      "language": "TypeScript"
     },
     {
-      "name": "facebookresearch/ai4animationpy",
-      "url": "https://github.com/facebookresearch/ai4animationpy",
-      "description": "A Python framework for AI-driven character animation using neural networks.",
-      "stars": 1587,
-      "language": "Python"
+      "name": "fspecii/ace-step-ui",
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "stars": 1950,
+      "language": "JavaScript"
     },
     {
-      "name": "hydropix/TranslateBooksWithLLMs",
-      "url": "https://github.com/hydropix/TranslateBooksWithLLMs",
-      "description": "Translate full-length books and documents with Ollama, OpenAI (comptatible), Gemini, Mistral, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.",
-      "stars": 1243,
-      "language": "Python"
-    },
-    {
-      "name": "0x0funky/agent-sprite-forge",
-      "url": "https://github.com/0x0funky/agent-sprite-forge",
-      "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "stars": 931,
-      "language": "Python"
-    },
-    {
-      "name": "GammaLabTechnologies/harmonist",
-      "url": "https://github.com/GammaLabTechnologies/harmonist",
-      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "stars": 759,
-      "language": "Python"
-    },
-    {
-      "name": "future-agi/future-agi",
-      "url": "https://github.com/future-agi/future-agi",
-      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "stars": 663,
-      "language": "Python"
+      "name": "alash3al/stash",
+      "url": "https://github.com/alash3al/stash",
+      "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+      "stars": 527,
+      "language": "Go"
     }
   ],
   "tweets": []

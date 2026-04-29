@@ -1,42 +1,4 @@
 {
-  "2026-03-29": {
-    "papers": [
-      "https://arxiv.org/abs/2603.24836",
-      "https://arxiv.org/abs/2603.24517",
-      "https://arxiv.org/abs/2603.24844",
-      "https://arxiv.org/abs/2603.24961",
-      "https://arxiv.org/abs/2603.24575",
-      "https://arxiv.org/abs/2603.13904",
-      "https://arxiv.org/abs/2603.25398",
-      "https://arxiv.org/abs/2603.14636",
-      "https://arxiv.org/abs/2603.16733",
-      "https://arxiv.org/abs/2603.24793"
-    ],
-    "blogs": [
-      "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "https://jai.scs.stanford.edu/",
-      "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "https://twitter.com/BoWang87/status/2037648937453232504",
-      "https://github.com/dbrll/ATTN-11",
-      "https://dev.to/empiree/will-ai-replace-software-developers-1fo0",
-      "https://mathstodon.xyz/@tao/116252708577614828",
-      "https://www.dailyunfold.com/blog/spatial-difficulty",
-      "https://sebastianraschka.com/llm-architecture-gallery/"
-    ],
-    "repos": [
-      "https://github.com/obra/superpowers",
-      "https://github.com/OpenBB-finance/OpenBB",
-      "https://github.com/virattt/ai-hedge-fund",
-      "https://github.com/shareAI-lab/learn-claude-code",
-      "https://github.com/thedotmack/claude-mem",
-      "https://github.com/moeru-ai/airi",
-      "https://github.com/microsoft/VibeVoice",
-      "https://github.com/agentscope-ai/agentscope",
-      "https://github.com/fastfetch-cli/fastfetch",
-      "https://github.com/onyx-dot-app/onyx"
-    ]
-  },
   "2026-03-30": {
     "papers": [
       "https://arxiv.org/abs/2603.25723",
@@ -975,6 +937,36 @@
       "https://github.com/0x0funky/agent-sprite-forge",
       "https://github.com/GammaLabTechnologies/harmonist",
       "https://github.com/future-agi/future-agi"
+    ]
+  },
+  "2026-04-29": {
+    "papers": [
+      "https://arxiv.org/abs/2604.25719",
+      "https://arxiv.org/abs/2604.25806",
+      "https://arxiv.org/abs/2604.25256",
+      "https://arxiv.org/abs/2604.21481",
+      "https://arxiv.org/abs/2604.21523",
+      "https://arxiv.org/abs/2604.24005",
+      "https://arxiv.org/abs/2604.23941",
+      "https://arxiv.org/abs/2604.24441",
+      "https://arxiv.org/abs/2604.25203",
+      "https://arxiv.org/abs/2604.24842"
+    ],
+    "blogs": [
+      "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "https://github.com/anthropics/claude-code/issues/49363",
+      "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+      "https://www.anthropic.com/news/claude-for-creative-work",
+      "https://www.mendral.com/blog/frontier-model-lower-costs",
+      "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "https://dev.to/javz/ai-through-visuals-hardware-5ha6"
+    ],
+    "repos": [
+      "https://github.com/keephq/keep",
+      "https://github.com/nexu-io/open-design",
+      "https://github.com/fspecii/ace-step-ui",
+      "https://github.com/alash3al/stash"
     ]
   }
 }
