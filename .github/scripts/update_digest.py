@@ -866,6 +866,124 @@ def write_trending_json(papers, blog_posts, tweets, repos, today):
     print(f"[INFO] Wrote {TRENDING_JSON}")
 
 
+# --- Telegram ---
+
+TELEGRAM_MAX_LENGTH = 4096
+
+
+def _markdown_to_telegram_html(curated):
+    """Convert the curated markdown digest into Telegram-friendly HTML."""
+    lines = curated.splitlines()
+    out = []
+    for line in lines:
+        # Section headers: #### Papers  →  <b>Papers</b>
+        header_match = re.match(r"^#{1,6}\s+(.+)$", line)
+        if header_match:
+            out.append(f"\n<b>{_esc(header_match.group(1))}</b>")
+            continue
+
+        # Linked items: **[Title](URL)** — rest
+        link_match = re.match(r"^(\d+)\.\s+\*\*\[(.+?)\]\((.+?)\)\*\*(.*)$", line)
+        if link_match:
+            num, title, url, rest = link_match.groups()
+            # Escape HTML in title and rest, but not in the <a> tag itself
+            rest = _esc(rest)
+            out.append(f'{num}. <a href="{url}">{_esc(title)}</a>{rest}')
+            continue
+
+        # Pass through other lines (empty lines, etc.)
+        out.append(_esc(line))
+
+    return "\n".join(out).strip()
+
+
+def _esc(text):
+    """Escape HTML special chars for Telegram."""
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def _split_message(text, max_len=TELEGRAM_MAX_LENGTH):
+    """Split a long message into chunks that fit Telegram's limit.
+
+    Splits on blank lines to avoid breaking mid-section.
+    """
+    if len(text) <= max_len:
+        return [text]
+
+    chunks = []
+    current = ""
+    for paragraph in re.split(r"\n\n+", text):
+        candidate = f"{current}\n\n{paragraph}".strip() if current else paragraph
+        if len(candidate) <= max_len:
+            current = candidate
+        else:
+            if current:
+                chunks.append(current)
+            # If a single paragraph exceeds max_len, hard-split on newlines
+            if len(paragraph) > max_len:
+                sub_lines = paragraph.split("\n")
+                sub_current = ""
+                for sl in sub_lines:
+                    sub_candidate = f"{sub_current}\n{sl}".strip() if sub_current else sl
+                    if len(sub_candidate) <= max_len:
+                        sub_current = sub_candidate
+                    else:
+                        if sub_current:
+                            chunks.append(sub_current)
+                        sub_current = sl[:max_len]
+                if sub_current:
+                    current = sub_current
+            else:
+                current = paragraph
+
+    if current:
+        chunks.append(current)
+
+    return chunks
+
+
+def send_telegram(curated, today):
+    """Send the curated digest to a Telegram group/channel.
+
+    Requires TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID env vars.
+    Fails gracefully — logs a warning and returns without raising.
+    """
+    bot_token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
+
+    if not bot_token or not chat_id:
+        print("[WARN] TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set, skipping Telegram")
+        return
+
+    header = f"<b>AI Daily Digest — {today}</b>\n"
+    body = _markdown_to_telegram_html(curated)
+    full_message = f"{header}\n{body}\n\n<i>Sources: HuggingFace · ArXiv · HN · Reddit · GitHub · X</i>"
+
+    chunks = _split_message(full_message)
+    api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+
+    for i, chunk in enumerate(chunks, 1):
+        try:
+            resp = requests.post(
+                api_url,
+                json={
+                    "chat_id": chat_id,
+                    "text": chunk,
+                    "parse_mode": "HTML",
+                    "disable_web_page_preview": True,
+                },
+                timeout=TIMEOUT,
+            )
+            if resp.status_code == 200:
+                print(f"[INFO] Telegram message {i}/{len(chunks)} sent")
+            else:
+                print(f"[WARN] Telegram API returned {resp.status_code}: {resp.text}")
+        except Exception as e:
+            print(f"[WARN] Telegram send failed: {e}")
+
+    print("[INFO] Telegram notification done")
+
+
 # --- Main ---
 
 
@@ -945,6 +1063,10 @@ def main():
 
     # Save today's URLs to history for future dedup
     save_history(history, today, all_papers[:10], blog_posts[:10], repos[:10])
+
+    # Send to Telegram
+    print("[INFO] Sending to Telegram...")
+    send_telegram(curated, today)
 
     print("[INFO] Done!")
 
