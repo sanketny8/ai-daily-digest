@@ -2,6 +2,11 @@
   "date": "2026-04-29",
   "papers": [
     {
+      "title": "Offline Evaluation Measures of Fairness in Recommender Systems",
+      "url": "https://arxiv.org/abs/2604.25032",
+      "summary": "The evaluation of recommender system fairness has become increasingly important, especially with recent legislation that emphasises the development of fair and responsible artificial intelligence. Thi"
+    },
+    {
       "title": "Step-Audio-R1.5 Technical Report",
       "url": "https://arxiv.org/abs/2604.25719",
       "summary": "Recent advancements in large audio language models have extended Chain-of-Thought (CoT) reasoning into the auditory domain, enabling models to tackle increasingly complex acoustic and spoken tasks. To"
@@ -45,11 +50,6 @@
       "title": "BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate",
       "url": "https://arxiv.org/abs/2604.25203",
       "summary": "Deploying guardrails for custom policies remains challenging, as generic safety models fail to capture task-specific requirements, while prompting LLMs suffers from inconsistent boundary-case performa"
-    },
-    {
-      "title": "Co-Director: Agentic Generative Video Storytelling",
-      "url": "https://arxiv.org/abs/2604.24842",
-      "summary": "While diffusion models generate high-fidelity video clips, transforming them into coherent storytelling engines remains challenging. Current agentic pipelines automate this via chained modules but suf"
     }
   ],
   "blog_posts": [
@@ -96,32 +96,53 @@
   ],
   "repos": [
     {
-      "name": "keephq/keep",
-      "url": "https://github.com/keephq/keep",
-      "description": "The open-source AIOps and alert management platform",
-      "stars": 11753,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "stars": 172358,
+      "language": "Shell"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars": 45346,
+      "language": "Python"
+    },
+    {
+      "name": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "stars": 38413,
+      "language": "Rust"
+    },
+    {
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "stars": 19802,
+      "language": "Python"
+    },
+    {
+      "name": "shaxiu/XianyuAutoAgent",
+      "url": "https://github.com/shaxiu/XianyuAutoAgent",
+      "description": "智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。",
+      "stars": 7287,
+      "language": "Python"
+    },
+    {
+      "name": "KellerJordan/modded-nanogpt",
+      "url": "https://github.com/KellerJordan/modded-nanogpt",
+      "description": "NanoGPT (124M) in 90 seconds",
+      "stars": 5160,
       "language": "Python"
     },
     {
       "name": "nexu-io/open-design",
       "url": "https://github.com/nexu-io/open-design",
       "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Curs",
-      "stars": 2361,
+      "stars": 2841,
       "language": "TypeScript"
-    },
-    {
-      "name": "fspecii/ace-step-ui",
-      "url": "https://github.com/fspecii/ace-step-ui",
-      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 1950,
-      "language": "JavaScript"
-    },
-    {
-      "name": "alash3al/stash",
-      "url": "https://github.com/alash3al/stash",
-      "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-      "stars": 527,
-      "language": "Go"
     }
   ],
   "tweets": []

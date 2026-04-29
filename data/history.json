@@ -941,6 +941,7 @@
   },
   "2026-04-29": {
     "papers": [
+      "https://arxiv.org/abs/2604.25032",
       "https://arxiv.org/abs/2604.25719",
       "https://arxiv.org/abs/2604.25806",
       "https://arxiv.org/abs/2604.25256",
@@ -949,8 +950,7 @@
       "https://arxiv.org/abs/2604.24005",
       "https://arxiv.org/abs/2604.23941",
       "https://arxiv.org/abs/2604.24441",
-      "https://arxiv.org/abs/2604.25203",
-      "https://arxiv.org/abs/2604.24842"
+      "https://arxiv.org/abs/2604.25203"
     ],
     "blogs": [
       "https://status.claude.com/incidents/9l93x2ht4s5w",
@@ -963,10 +963,13 @@
       "https://dev.to/javz/ai-through-visuals-hardware-5ha6"
     ],
     "repos": [
-      "https://github.com/keephq/keep",
-      "https://github.com/nexu-io/open-design",
-      "https://github.com/fspecii/ace-step-ui",
-      "https://github.com/alash3al/stash"
+      "https://github.com/obra/superpowers",
+      "https://github.com/microsoft/VibeVoice",
+      "https://github.com/warpdotdev/warp",
+      "https://github.com/soxoj/maigret",
+      "https://github.com/shaxiu/XianyuAutoAgent",
+      "https://github.com/KellerJordan/modded-nanogpt",
+      "https://github.com/nexu-io/open-design"
     ]
   }
 }
