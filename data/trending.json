@@ -99,28 +99,28 @@
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 172358,
+      "stars": 172363,
       "language": "Shell"
     },
     {
       "name": "microsoft/VibeVoice",
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
-      "stars": 45346,
+      "stars": 45349,
       "language": "Python"
     },
     {
       "name": "warpdotdev/warp",
       "url": "https://github.com/warpdotdev/warp",
       "description": "Warp is an agentic development environment, born out of the terminal.",
-      "stars": 38413,
+      "stars": 38468,
       "language": "Rust"
     },
     {
       "name": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "stars": 19802,
+      "stars": 19807,
       "language": "Python"
     },
     {
@@ -141,7 +141,7 @@
       "name": "nexu-io/open-design",
       "url": "https://github.com/nexu-io/open-design",
       "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Curs",
-      "stars": 2841,
+      "stars": 2854,
       "language": "TypeScript"
     }
   ],

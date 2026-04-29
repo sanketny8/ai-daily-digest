@@ -13,16 +13,16 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <summary><strong>2026-04-29</strong></summary>
 
 #### Papers
-1. **[Offline Evaluation Measures of Fairness in Recommender Systems](https://arxiv.org/abs/2604.25032)** — This paper addresses the critical need for fair evaluation measures in recommender systems amidst growing AI fairness legislation.
-2. **[Step-Audio-R1.5 Technical Report](https://arxiv.org/abs/2604.25719)** — It explores advancements in audio language models, enabling complex reasoning in auditory tasks.
-3. **[AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery](https://arxiv.org/abs/2604.25256)** — This work presents a framework for AI agents to autonomously discover scientific literature, enhancing research efficiency.
-4. **[Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models](https://arxiv.org/abs/2604.21523)** — The study reveals limitations in Vision-Language Models used for evaluating other AI outputs, highlighting areas for improvement.
-5. **[GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction](https://arxiv.org/abs/2604.23941)** — This paper introduces a model for accurately grounding GUI elements based on natural language, crucial for agent interactions.
-6. **[BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate](https://arxiv.org/abs/2604.25203)** — It discusses innovative methods for developing safety models tailored to specific tasks through synthetic training.
-7. **[Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models](http://arxiv.org/abs/2604.25903v1)** — This research focuses on reducing the environmental impact of large language models through innovative compression techniques.
-8. **[Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty](http://arxiv.org/abs/2604.25897v1)** — It addresses challenges in robotic grasping under uncertainty, proposing robust parameterization methods.
-9. **[Three Models of RLHF Annotation: Extension, Evidence, and Authority](http://arxiv.org/abs/2604.25895v1)** — This paper explores the dynamics of human feedback in training large language models, emphasizing the role of annotator judgments.
-10. **[Recursive Multi-Agent Systems](http://arxiv.org/abs/2604.25917v1)** — It introduces a novel approach to scaling language models through recursive computations, enhancing reasoning capabilities.
+1. **[Offline Evaluation Measures of Fairness in Recommender Systems](https://arxiv.org/abs/2604.25032)** — This paper discusses the importance of evaluating fairness in recommender systems amid growing AI regulation.
+2. **[Step-Audio-R1.5 Technical Report](https://arxiv.org/abs/2604.25719)** — It explores advancements in audio language models, enhancing reasoning capabilities in auditory tasks.
+3. **[AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery](https://arxiv.org/abs/2604.25256)** — This work presents a framework for AI agents to autonomously discover scientific literature.
+4. **[Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models](https://arxiv.org/abs/2604.21523)** — The study reveals limitations in how Vision-Language Models evaluate other models' outputs.
+5. **[GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction](https://arxiv.org/abs/2604.23941)** — It introduces a model for accurately locating GUI elements based on natural language instructions.
+6. **[BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate](https://arxiv.org/abs/2604.25203)** — This paper addresses challenges in deploying safety models for custom AI policies through innovative training methods.
+7. **[Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models](http://arxiv.org/abs/2604.25903v1)** — It proposes a method to reduce the environmental impact of large language models through compression techniques.
+8. **[Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty](http://arxiv.org/abs/2604.25897v1)** — The research focuses on improving robotic grasping under uncertain conditions using advanced parameterization techniques.
+9. **[Recursive Multi-Agent Systems](http://arxiv.org/abs/2604.25917v1)** — This paper discusses a novel approach to enhancing reasoning in multi-agent systems through recursive model applications.
+10. **[Three Models of RLHF Annotation: Extension, Evidence, and Authority](http://arxiv.org/abs/2604.25895v1)** — It examines the role of human feedback in shaping large language model behaviors through preference-based alignment methods.
 
 #### Blog Posts
 1. **[Claude.ai unavailable and elevated errors on the API](https://status.claude.com/incidents/9l93x2ht4s5w)** by status.claude.com
@@ -34,13 +34,13 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 7. **[AI through Visuals - Hardware](https://dev.to/javz/ai-through-visuals-hardware-5ha6)** by Julien Avezou
 
 #### Trending Repos
-1. **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works. ⭐ 172358
-2. **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI. ⭐ 45346
-3. **[warpdotdev/warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal. ⭐ 38413
-4. **[soxoj/maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites. ⭐ 19802
-5. **[shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent)** — 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守。⭐ 7287
+1. **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works. ⭐ 172363
+2. **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI. ⭐ 45349
+3. **[warpdotdev/warp](https://github.com/warpdotdev/warp)** — Warp is an agentic development environment, born out of the terminal. ⭐ 38468
+4. **[soxoj/maigret](https://github.com/soxoj/maigret)** — Collect a dossier on a person by username from 3000+ sites. ⭐ 19807
+5. **[shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent)** — AI customer service robot system for the Xianyu platform, enabling 24/7 automation. ⭐ 7287
 6. **[KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)** — NanoGPT (124M) in 90 seconds. ⭐ 5160
-7. **[nexu-io/open-design](https://github.com/nexu-io/open-design)** — 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⭐ 2841
+7. **[nexu-io/open-design](https://github.com/nexu-io/open-design)** — Local-first, open-source alternative to Anthropic's Claude Design. ⭐ 2854
 
 </details>
 
