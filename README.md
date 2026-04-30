@@ -10,6 +10,34 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-04-30</strong></summary>
+
+#### Papers
+1. **[GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752)** — This paper introduces a foundation model aimed at enhancing multimodal agent capabilities in real-world applications.
+2. **[Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion](https://arxiv.org/abs/2604.24351)** — It presents a framework to improve the compatibility and utility of controllable diffusion models across different systems.
+3. **[Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models](https://arxiv.org/abs/2604.26951)** — Discusses a method for distilling large language models to enhance performance without excessive parameters.
+4. **[Accelerating RL Post-Training Rollouts via System-Integrated Speculative Decoding](https://arxiv.org/abs/2604.26779)** — Addresses the efficiency challenges in reinforcement learning post-training for language models through innovative decoding techniques.
+5. **[Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising](https://arxiv.org/abs/2604.26694)** — Proposes a model that integrates robotic actions and high-fidelity video synthesis for enhanced real-time applications.
+6. **[ClawGym: A Scalable Framework for Building Effective Claw Agents](https://arxiv.org/abs/2604.26904)** — Introduces a framework to facilitate the development of agents in complex multi-step workflows.
+7. **[The Last Harness You'll Ever Build](https://arxiv.org/abs/2604.21003)** — Explores the deployment of AI agents in intricate workflows requiring extensive interactions with web applications.
+8. **[V-GRPO: Online Reinforcement Learning for Denoising Generative Models Is Easier than You Think](https://arxiv.org/abs/2604.23380)** — Examines a method for aligning generative models with human preferences using online reinforcement learning.
+9. **[ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation](http://arxiv.org/abs/2604.26923v1)** — Introduces a benchmark for evaluating code generation capabilities at the class level, bridging gaps in existing evaluations.
+10. **[Causal Learning with Neural Assemblies](http://arxiv.org/abs/2604.26919v1)** — Investigates whether groups of neurons can learn causal relationships, contributing to our understanding of neural network capabilities.
+
+#### Blog Posts
+1. **[HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262)** by github.com
+2. **[Mistral Medium 3.5](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5)** by mistral.ai
+3. **[Letting AI play my game – building an agentic test harness to help play-testing](https://blog.jeffschomay.com/letting-ai-play-my-game)** by jeffschomay.com
+4. **[Ramp's Sheets AI Exfiltrates Financials](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials)** by promptarmor.com
+5. **[Making AI chatbots friendly leads to mistakes and support of conspiracy theories](https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study)** by theguardian.com
+6. **[Show HN: A new benchmark for testing LLMs for deterministic outputs](https://interfaze.ai/blog/introducing-structured-output-benchmark)** by interfaze.ai
+
+#### Trending Repos
+1. **[1jehuang/jcode](https://github.com/1jehuang/jcode)** — Coding Agent Harness. ⭐ 1475
+
+</details>
+
+<details>
 <summary><strong>2026-04-29</strong></summary>
 
 #### Papers

@@ -1,34 +1,4 @@
 {
-  "2026-03-30": {
-    "papers": [
-      "https://arxiv.org/abs/2603.25723",
-      "https://arxiv.org/abs/2603.23607",
-      "https://arxiv.org/abs/2603.24649",
-      "https://arxiv.org/abs/2603.20466",
-      "https://arxiv.org/abs/2603.25730",
-      "https://arxiv.org/abs/2603.25158",
-      "https://arxiv.org/abs/2603.25750",
-      "https://arxiv.org/abs/2603.22782",
-      "https://arxiv.org/abs/2603.25746",
-      "https://arxiv.org/abs/2603.25716"
-    ],
-    "blogs": [
-      "https://github.com/anthropics/claude-code/issues/40710",
-      "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-      "https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9",
-      "https://dani2442.github.io/posts/continuous-rl/",
-      "https://dev.to/georgekobaidze/noterunway-because-your-notion-workspace-deserves-an-elite-crew-53bk",
-      "https://arxiv.org/abs/2602.16800",
-      "https://medium.com/@kyeg/all-new-in-swarms-api-openai-compatible-completions-endpoint-4cf225f4cecd"
-    ],
-    "repos": [
-      "https://github.com/NousResearch/hermes-agent",
-      "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "https://github.com/mvanhorn/last30days-skill",
-      "https://github.com/luongnv89/claude-howto",
-      "https://github.com/alirezarezvani/claude-skills"
-    ]
-  },
   "2026-03-31": {
     "papers": [
       "https://arxiv.org/abs/2603.27065",
@@ -970,6 +940,34 @@
       "https://github.com/shaxiu/XianyuAutoAgent",
       "https://github.com/KellerJordan/modded-nanogpt",
       "https://github.com/nexu-io/open-design"
+    ]
+  },
+  "2026-04-30": {
+    "papers": [
+      "https://arxiv.org/abs/2604.26752",
+      "https://arxiv.org/abs/2604.24351",
+      "https://arxiv.org/abs/2604.26951",
+      "https://arxiv.org/abs/2604.26779",
+      "https://arxiv.org/abs/2604.26694",
+      "https://arxiv.org/abs/2604.26904",
+      "https://arxiv.org/abs/2604.21003",
+      "https://arxiv.org/abs/2604.23380",
+      "http://arxiv.org/abs/2604.26951v1",
+      "http://arxiv.org/abs/2604.26942v1"
+    ],
+    "blogs": [
+      "https://github.com/anthropics/claude-code/issues/53262",
+      "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+      "https://status.claude.com/incidents/2gf1jpyty350",
+      "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
+      "https://openai.com/index/where-the-goblins-came-from/",
+      "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+      "https://interfaze.ai/blog/introducing-structured-output-benchmark"
+    ],
+    "repos": [
+      "https://github.com/1jehuang/jcode"
     ]
   }
 }
