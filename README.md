@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-01</strong></summary>
+
+#### Papers
+1. **[Efficient Training on Multiple Consumer GPUs with RoundPipe](https://arxiv.org/abs/2604.27085)** — This paper presents a method for fine-tuning large language models on consumer GPUs, enhancing efficiency despite hardware limitations.
+2. **[Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling](https://arxiv.org/abs/2604.27039)** — Introduces a scalable approach for modeling token generation length, impacting inference costs and performance in autoregressive models.
+3. **[Leveraging Verifier-Based Reinforcement Learning in Image Editing](https://arxiv.org/abs/2604.27505)** — Explores applying reinforcement learning from human feedback to improve image editing, addressing a previously unexplored area in AI.
+4. **[ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control](https://arxiv.org/abs/2604.27711)** — Discusses advancements in humanoid control systems for generating interactive video content, enhancing robot-environment interactions.
+5. **[Co-Evolving Policy Distillation](https://arxiv.org/abs/2604.27083)** — Analyzes two paradigms in reinforcement learning for consolidating expert capabilities into a single model, improving efficiency in AI training.
+6. **[InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?](https://arxiv.org/abs/2604.27419)** — Investigates the potential of multimodal agents in automating website development, shifting from manual coding to agent-based synthesis.
+7. **[MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons](https://arxiv.org/abs/2604.28130)** — Presents a new method for motion capture from video, allowing for flexibility in capturing arbitrary skeletons.
+8. **[The Last Human-Written Paper: Agent-Native Research Artifacts](https://arxiv.org/abs/2604.24658)** — Critiques the linear narrative of scientific publishing, suggesting a new approach to documenting research processes.
+9. **[PhyCo: Learning Controllable Physical Priors for Generative Motion](https://arxiv.org/abs/2604.28169)** — Addresses physical consistency in video generation, enhancing realism in object interactions and material responses.
+10. **[World2Minecraft: Occupancy-Driven Simulated Scenes Construction](https://arxiv.org/abs/2604.27578)** — Proposes a method for constructing high-fidelity simulation environments, crucial for developing embodied intelligence in AI.
+
+#### Blog Posts
+1. **[Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)** by semgrep.dev
+2. **[Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code)** by github.com
+3. **[Stop Using Your Clipboard to Share Context](https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941)** by Ryan Swift
+4. **[They said AI Would Kill SaaS Boilerplates. It's Doing the Opposite.](https://dev.to/wasp/they-said-ai-would-kill-saas-boilerplates-its-doing-the-opposite-cba)** by vincanger
+5. **[5 Levels of AI Code Review — From 'Trust Me Bro' to Production Ready](https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4)** by Harsh 
+6. **["Of Course" Erodes Trust Faster Than Bad Code ... Two Words That Are Killing Your Career](https://dev.to/jon_at_backboardio/of-course-erodes-trust-faster-than-bad-code-two-words-that-are-killing-your-career-2h59)** by Jonathan Murray
+7. **[Do you know why enterprise integration is becoming non-negotiable for scaling businesses](https://medium.com/@prowesssoftware11/do-you-know-why-enterprise-integration-is-becoming-non-negotiable-for-scaling-businesses-5dda6ce762fb)** by Prowesssoftware
+8. **[How AI Agents Can Build a 24/7 Lead Generation Machine for Your Business (Powerful Playbook for…](https://medium.com/@amit.kemnie/how-ai-agents-can-build-a-24-7-lead-generation-machine-for-your-business-powerful-playbook-for-790f960baf5d)** by Amit kemnie
+9. **[Ultraviolet Vision for Brands](https://toinfinityandbyond.medium.com/ultraviolet-vision-for-brands-62942536e8ce)** by Nadeem Akhtar
+
+#### Trending Repos
+1. **[browserbase/skills](https://github.com/browserbase/skills)** — Claude Agent SDK with a web browsing tool. ⭐ 893
+2. **[deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)** — A collection of resources for DeepSeek agents. ⭐ 447
+3. **[sandeco/reversa](https://github.com/sandeco/reversa)** — Transform legacy systems into executable specifications for AI coding agents. ⭐ 341
+
+</details>
+
+<details>
 <summary><strong>2026-04-30</strong></summary>
 
 #### Papers

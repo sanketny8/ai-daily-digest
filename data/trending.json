@@ -1,111 +1,125 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "papers": [
     {
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2604.26752",
-      "summary": "We present GLM-5V-Turbo, a step toward native foundation models for multimodal agents. As foundation models are increasingly deployed in real environments, agentic capability depends not only on langu"
+      "title": "Efficient Training on Multiple Consumer GPUs with RoundPipe",
+      "url": "https://arxiv.org/abs/2604.27085",
+      "summary": "Fine-tuning Large Language Models (LLMs) on consumer-grade GPUs is highly cost-effective, yet constrained by limited GPU memory and slow PCIe interconnects. Pipeline parallelism combined with CPU offl"
     },
     {
-      "title": "Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion",
-      "url": "https://arxiv.org/abs/2604.24351",
-      "summary": "Controllable diffusion methods have substantially expanded the practical utility of diffusion models, but they are typically developed as isolated, backbone-specific systems with incompatible training"
+      "title": "Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling",
+      "url": "https://arxiv.org/abs/2604.27039",
+      "summary": "Token serves as the fundamental unit of computation in modern autoregressive models, and generation length directly influences both inference cost and reasoning performance. Despite its importance, ex"
     },
     {
-      "title": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
-      "url": "https://arxiv.org/abs/2604.26951",
-      "summary": "Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distill"
+      "title": "Leveraging Verifier-Based Reinforcement Learning in Image Editing",
+      "url": "https://arxiv.org/abs/2604.27505",
+      "summary": "While Reinforcement Learning from Human Feedback (RLHF) has become a pivotal paradigm for text-to-image generation, its application to image editing remains largely unexplored. A key bottleneck is the"
     },
     {
-      "title": "Accelerating RL Post-Training Rollouts via System-Integrated Speculative Decoding",
-      "url": "https://arxiv.org/abs/2604.26779",
-      "summary": "RL post-training of frontier language models is increasingly bottlenecked by autoregressive rollout generation, making rollout acceleration a central systems challenge. Many existing efficiency method"
+      "title": "ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control",
+      "url": "https://arxiv.org/abs/2604.27711",
+      "summary": "Humanoid control systems have made significant progress in recent years, yet modeling fluent interaction-rich behavior between a robot, its surrounding environment, and task-relevant objects remains a"
     },
     {
-      "title": "Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising",
-      "url": "https://arxiv.org/abs/2604.26694",
-      "summary": "We propose X-WAM, a Unified 4D World Model that unifies real-time robotic action execution and high-fidelity 4D world synthesis (video + 3D reconstruction) in a single framework, addressing the critic"
+      "title": "Co-Evolving Policy Distillation",
+      "url": "https://arxiv.org/abs/2604.27083",
+      "summary": "RLVR and OPD have become standard paradigms for post-training. We provide a unified analysis of these two paradigms in consolidating multiple expert capabilities into a single model, identifying capab"
     },
     {
-      "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
-      "url": "https://arxiv.org/abs/2604.26904",
-      "summary": "Claw-style environments support multi-step workflows over local files, tools, and persistent workspace states. However, scalable development around these environments remains constrained by the absenc"
+      "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?",
+      "url": "https://arxiv.org/abs/2604.27419",
+      "summary": "With the advancement of multimodal large language models (MLLMs) and coding agents, the website development has shifted from manual programming to agent-based project-level code synthesis. Existing be"
     },
     {
-      "title": "The Last Harness You'll Ever Build",
-      "url": "https://arxiv.org/abs/2604.21003",
-      "summary": "AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipe"
+      "title": "MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons",
+      "url": "https://arxiv.org/abs/2604.28130",
+      "summary": "Recent methods for arbitrary-skeleton motion capture from monocular video follow a factorized pipeline, where a Video-to-Pose network predicts joint positions and an analytical inverse-kinematics (IK)"
     },
     {
-      "title": "V-GRPO: Online Reinforcement Learning for Denoising Generative Models Is Easier than You Think",
-      "url": "https://arxiv.org/abs/2604.23380",
-      "summary": "Aligning denoising generative models with human preferences or verifiable rewards remains a key challenge. While policy-gradient online reinforcement learning (RL) offers a principled post-training fr"
+      "title": "The Last Human-Written Paper: Agent-Native Research Artifacts",
+      "url": "https://arxiv.org/abs/2604.24658",
+      "summary": "Scientific publication compresses a branching, iterative research process into a linear narrative, discarding the majority of what was discovered along the way. This compilation imposes two structural"
     },
     {
-      "title": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
-      "url": "http://arxiv.org/abs/2604.26951v1",
-      "summary": "Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distill"
+      "title": "PhyCo: Learning Controllable Physical Priors for Generative Motion",
+      "url": "https://arxiv.org/abs/2604.28169",
+      "summary": "Modern video diffusion models excel at appearance synthesis but still struggle with physical consistency: objects drift, collisions lack realistic rebound, and material responses seldom match their un"
     },
     {
-      "title": "Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport",
-      "url": "http://arxiv.org/abs/2604.26942v1",
-      "summary": "We introduce Hyper Input Convex Neural Networks (HyCNNs), a novel neural network architecture designed for learning convex functions. HyCNNs combine the principles of Maxout networks with input convex"
+      "title": "World2Minecraft: Occupancy-Driven Simulated Scenes Construction",
+      "url": "https://arxiv.org/abs/2604.27578",
+      "summary": "Embodied intelligence requires high-fidelity simulation environments to support perception and decision-making, yet existing platforms often suffer from data contamination and limited flexibility. To "
     }
   ],
   "blog_posts": [
     {
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "author": "semgrep.dev"
+    },
+    {
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
       "author": "github.com"
     },
     {
-      "title": "Mistral Medium 3.5",
-      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "author": "mistral.ai"
+      "title": "Stop Using Your Clipboard to Share Context",
+      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941",
+      "author": "Ryan Swift"
     },
     {
-      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
-      "author": "blog.jeffschomay.com"
+      "title": "They said AI Would Kill SaaS Boilerplates. It's Doing the Opposite.",
+      "url": "https://dev.to/wasp/they-said-ai-would-kill-saas-boilerplates-its-doing-the-opposite-cba",
+      "author": "vincanger"
     },
     {
-      "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-      "author": "promptarmor.com"
+      "title": "5 Levels of AI Code Review — From 'Trust Me Bro' to Production Ready",
+      "url": "https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4",
+      "author": "Harsh "
     },
     {
-      "title": "Claude.ai and API unavailable [fixed]",
-      "url": "https://status.claude.com/incidents/2gf1jpyty350",
-      "author": "status.claude.com"
+      "title": "\"Of Course\" Erodes Trust Faster Than Bad Code ... Two Words That Are Killing Your Career",
+      "url": "https://dev.to/jon_at_backboardio/of-course-erodes-trust-faster-than-bad-code-two-words-that-are-killing-your-career-2h59",
+      "author": "Jonathan Murray"
     },
     {
-      "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
-      "url": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-      "author": "maxtaylor.me"
+      "title": "Do you know why enterprise integration is becoming non-negotiable for scaling businesses",
+      "url": "https://medium.com/@prowesssoftware11/do-you-know-why-enterprise-integration-is-becoming-non-negotiable-for-scaling-businesses-5dda6ce762fb",
+      "author": "Prowesssoftware"
     },
     {
-      "title": "Where the Goblins Came From",
-      "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "author": "openai.com"
+      "title": "How AI Agents Can Build a 24/7 Lead Generation Machine for Your Business (Powerful Playbook for…",
+      "url": "https://medium.com/@amit.kemnie/how-ai-agents-can-build-a-24-7-lead-generation-machine-for-your-business-powerful-playbook-for-790f960baf5d",
+      "author": "Amit kemnie"
     },
     {
-      "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-      "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
-      "author": "theguardian.com"
-    },
-    {
-      "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
-      "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
-      "author": "interfaze.ai"
+      "title": "Ultraviolet Vision for Brands",
+      "url": "https://toinfinityandbyond.medium.com/ultraviolet-vision-for-brands-62942536e8ce",
+      "author": "Nadeem Akhtar"
     }
   ],
   "repos": [
     {
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "stars": 1475,
-      "language": "Rust"
+      "name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "stars": 893,
+      "language": "JavaScript"
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-agent",
+      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+      "description": "",
+      "stars": 447,
+      "language": null
+    },
+    {
+      "name": "sandeco/reversa",
+      "url": "https://github.com/sandeco/reversa",
+      "description": "Transform legacy systems into executable specifications for AI coding agents",
+      "stars": 341,
+      "language": "JavaScript"
     }
   ],
   "tweets": []

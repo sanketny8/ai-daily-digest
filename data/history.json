@@ -1,37 +1,4 @@
 {
-  "2026-03-31": {
-    "papers": [
-      "https://arxiv.org/abs/2603.27065",
-      "https://arxiv.org/abs/2603.25926",
-      "https://arxiv.org/abs/2603.26639",
-      "https://arxiv.org/abs/2603.28669",
-      "https://arxiv.org/abs/2603.26610",
-      "https://arxiv.org/abs/2603.27813",
-      "https://arxiv.org/abs/2603.27048",
-      "https://arxiv.org/abs/2603.28547",
-      "https://arxiv.org/abs/2603.28069",
-      "https://arxiv.org/abs/2603.28458"
-    ],
-    "blogs": [
-      "https://github.com/drona23/claude-token-efficient",
-      "https://github.com/coast-guard/coasts",
-      "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
-      "https://anil.recoil.org/projects/oxcaml",
-      "https://dev.to/dannwaneri/i-built-a-local-ai-agent-that-audits-my-own-articles-it-flagged-every-single-one-pkh",
-      "https://medium.com/@rahulkumar8707/ai-ui-is-the-new-trend-why-traditional-ux-design-is-slowly-dying-db63f318f41f"
-    ],
-    "repos": [
-      "https://github.com/apache/superset",
-      "https://github.com/OpenBMB/ChatDev",
-      "https://github.com/shanraisshan/claude-code-best-practice",
-      "https://github.com/microsoft/agent-lightning",
-      "https://github.com/larksuite/cli",
-      "https://github.com/SakanaAI/AI-Scientist-v2",
-      "https://github.com/WecomTeam/wecom-cli",
-      "https://github.com/jxnxts/mcp-brasil",
-      "https://github.com/revfactory/harness"
-    ]
-  },
   "2026-04-01": {
     "papers": [
       "https://arxiv.org/abs/2603.29029",
@@ -968,6 +935,36 @@
     ],
     "repos": [
       "https://github.com/1jehuang/jcode"
+    ]
+  },
+  "2026-05-01": {
+    "papers": [
+      "https://arxiv.org/abs/2604.27085",
+      "https://arxiv.org/abs/2604.27039",
+      "https://arxiv.org/abs/2604.27505",
+      "https://arxiv.org/abs/2604.27711",
+      "https://arxiv.org/abs/2604.27083",
+      "https://arxiv.org/abs/2604.27419",
+      "https://arxiv.org/abs/2604.28130",
+      "https://arxiv.org/abs/2604.24658",
+      "https://arxiv.org/abs/2604.28169",
+      "https://arxiv.org/abs/2604.27578"
+    ],
+    "blogs": [
+      "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941",
+      "https://dev.to/wasp/they-said-ai-would-kill-saas-boilerplates-its-doing-the-opposite-cba",
+      "https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4",
+      "https://dev.to/jon_at_backboardio/of-course-erodes-trust-faster-than-bad-code-two-words-that-are-killing-your-career-2h59",
+      "https://medium.com/@prowesssoftware11/do-you-know-why-enterprise-integration-is-becoming-non-negotiable-for-scaling-businesses-5dda6ce762fb",
+      "https://medium.com/@amit.kemnie/how-ai-agents-can-build-a-24-7-lead-generation-machine-for-your-business-powerful-playbook-for-790f960baf5d",
+      "https://toinfinityandbyond.medium.com/ultraviolet-vision-for-brands-62942536e8ce"
+    ],
+    "repos": [
+      "https://github.com/browserbase/skills",
+      "https://github.com/deepseek-ai/awesome-deepseek-agent",
+      "https://github.com/sandeco/reversa"
     ]
   }
 }
