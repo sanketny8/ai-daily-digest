@@ -1,125 +1,125 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-02",
   "papers": [
     {
-      "title": "Efficient Training on Multiple Consumer GPUs with RoundPipe",
-      "url": "https://arxiv.org/abs/2604.27085",
-      "summary": "Fine-tuning Large Language Models (LLMs) on consumer-grade GPUs is highly cost-effective, yet constrained by limited GPU memory and slow PCIe interconnects. Pipeline parallelism combined with CPU offl"
+      "title": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
+      "url": "https://arxiv.org/abs/2604.24954",
+      "summary": "We introduce Nemotron 3 Nano Omni, the latest model in the Nemotron multimodal series and the first to natively support audio inputs alongside text, images, and video. Nemotron 3 Nano Omni delivers co"
     },
     {
-      "title": "Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling",
-      "url": "https://arxiv.org/abs/2604.27039",
-      "summary": "Token serves as the fundamental unit of computation in modern autoregressive models, and generation length directly influences both inference cost and reasoning performance. Despite its importance, ex"
+      "title": "Step-level Optimization for Efficient Computer-use Agents",
+      "url": "https://arxiv.org/abs/2604.27151",
+      "summary": "Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-s"
     },
     {
-      "title": "Leveraging Verifier-Based Reinforcement Learning in Image Editing",
-      "url": "https://arxiv.org/abs/2604.27505",
-      "summary": "While Reinforcement Learning from Human Feedback (RLHF) has become a pivotal paradigm for text-to-image generation, its application to image editing remains largely unexplored. A key bottleneck is the"
+      "title": "ViPO: Visual Preference Optimization at Scale",
+      "url": "https://arxiv.org/abs/2604.24953",
+      "summary": "While preference optimization is crucial for improving visual generative models, how to effectively scale this paradigm remains largely unexplored. Current open-source preference datasets contain conf"
     },
     {
-      "title": "ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control",
-      "url": "https://arxiv.org/abs/2604.27711",
-      "summary": "Humanoid control systems have made significant progress in recent years, yet modeling fluent interaction-rich behavior between a robot, its surrounding environment, and task-relevant objects remains a"
+      "title": "Learning from Noisy Preferences: A Semi-Supervised Learning Approach to Direct Preference Optimization",
+      "url": "https://arxiv.org/abs/2604.24952",
+      "summary": "Human visual preferences are inherently multi-dimensional, encompassing aesthetics, detail fidelity, and semantic alignment. However, existing datasets provide only single, holistic annotations, resul"
     },
     {
-      "title": "Co-Evolving Policy Distillation",
-      "url": "https://arxiv.org/abs/2604.27083",
-      "summary": "RLVR and OPD have become standard paradigms for post-training. We provide a unified analysis of these two paradigms in consolidating multiple expert capabilities into a single model, identifying capab"
+      "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
+      "url": "https://arxiv.org/abs/2604.28157",
+      "summary": "Long-context large language models (LLMs)-for example, Gemini-3.1-Pro and Qwen-3.5-are widely used to empower many real-world applications, such as retrieval-augmented generation, autonomous agents, a"
     },
     {
-      "title": "InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?",
-      "url": "https://arxiv.org/abs/2604.27419",
-      "summary": "With the advancement of multimodal large language models (MLLMs) and coding agents, the website development has shifted from manual programming to agent-based project-level code synthesis. Existing be"
+      "title": "Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains",
+      "url": "https://arxiv.org/abs/2604.24902",
+      "summary": "Foundation models are routinely fine-tuned for use in particular domains, yet safety assessments are typically conducted only on base models, implicitly assuming that safety properties persist through"
     },
     {
-      "title": "MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons",
-      "url": "https://arxiv.org/abs/2604.28130",
-      "summary": "Recent methods for arbitrary-skeleton motion capture from monocular video follow a factorized pipeline, where a Video-to-Pose network predicts joint positions and an analytical inverse-kinematics (IK)"
+      "title": "Instruction-Guided Poetry Generation in Arabic and Its Dialects",
+      "url": "https://arxiv.org/abs/2604.27766",
+      "summary": "Poetry has long been a central art form for Arabic speakers, serving as a powerful medium of expression and cultural identity. While modern Arabic speakers continue to value poetry, existing research "
     },
     {
-      "title": "The Last Human-Written Paper: Agent-Native Research Artifacts",
-      "url": "https://arxiv.org/abs/2604.24658",
-      "summary": "Scientific publication compresses a branching, iterative research process into a linear narrative, discarding the majority of what was discovered along the way. This compilation imposes two structural"
+      "title": "Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models",
+      "url": "https://arxiv.org/abs/2604.27251",
+      "summary": "Large Language Models (LLMs) are known to acquire reasoning capabilities through shared inference patterns in pre-training data, which are further elicited via Chain-of-Thought (CoT) practices. Howeve"
     },
     {
-      "title": "PhyCo: Learning Controllable Physical Priors for Generative Motion",
-      "url": "https://arxiv.org/abs/2604.28169",
-      "summary": "Modern video diffusion models excel at appearance synthesis but still struggle with physical consistency: objects drift, collisions lack realistic rebound, and material responses seldom match their un"
+      "title": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows",
+      "url": "https://arxiv.org/abs/2604.28139",
+      "summary": "LLM agents are expected to complete end-to-end units of work across software tools, business services, and local workspaces. Yet many agent benchmarks freeze a curated task set at release time and gra"
     },
     {
-      "title": "World2Minecraft: Occupancy-Driven Simulated Scenes Construction",
-      "url": "https://arxiv.org/abs/2604.27578",
-      "summary": "Embodied intelligence requires high-fidelity simulation environments to support perception and decision-making, yet existing platforms often suffer from data contamination and limited flexibility. To "
+      "title": "Computing Equilibrium beyond Unilateral Deviation",
+      "url": "http://arxiv.org/abs/2604.28186v1",
+      "summary": "Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against "
     }
   ],
   "blog_posts": [
     {
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "author": "semgrep.dev"
+      "title": "Grok 4.3",
+      "url": "https://docs.x.ai/developers/models/grok-4.3",
+      "author": "docs.x.ai"
     },
     {
-      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "title": "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
+      "url": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
+      "author": "arstechnica.com"
+    },
+    {
+      "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+      "url": "https://github.com/leox255/loopsy",
       "author": "github.com"
     },
     {
-      "title": "Stop Using Your Clipboard to Share Context",
-      "url": "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941",
-      "author": "Ryan Swift"
+      "title": "Porting microgpt to Futhark, Part I",
+      "url": "https://www.kmjn.org/notes/microgpt_futhark.html",
+      "author": "mjn"
     },
     {
-      "title": "They said AI Would Kill SaaS Boilerplates. It's Doing the Opposite.",
-      "url": "https://dev.to/wasp/they-said-ai-would-kill-saas-boilerplates-its-doing-the-opposite-cba",
-      "author": "vincanger"
+      "title": "I Tested Claude AI for Deep Work — Here’s the Honest Outcome",
+      "url": "https://ultimeztechnologyhubli.medium.com/i-tested-claude-ai-for-deep-work-heres-the-honest-outcome-e7f553613135",
+      "author": "Ultimez Technology"
     },
     {
-      "title": "5 Levels of AI Code Review — From 'Trust Me Bro' to Production Ready",
-      "url": "https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4",
-      "author": "Harsh "
+      "title": "How to Make Money Working Online in 2026 (Beginner to Advanced Guide)",
+      "url": "https://medium.com/@cucukespe/how-to-make-money-working-online-in-2026-beginner-to-advanced-guide-1151c404a271",
+      "author": "Cucukespe"
     },
     {
-      "title": "\"Of Course\" Erodes Trust Faster Than Bad Code ... Two Words That Are Killing Your Career",
-      "url": "https://dev.to/jon_at_backboardio/of-course-erodes-trust-faster-than-bad-code-two-words-that-are-killing-your-career-2h59",
-      "author": "Jonathan Murray"
+      "title": "कृत्रिम बुद्धिमत्ता नैतिक होऊ शकते का?",
+      "url": "https://medium.com/@sujalsalunle401/%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AE-%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%A8%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%95-%E0%A4%B9%E0%A5%8B%E0%A4%8A-%E0%A4%B6%E0%A4%95%E0%A4%A4%E0%A5%87-%E0%A4%95%E0%A4%BE-28d3e341efc1",
+      "author": "Sujal Salunke"
     },
     {
-      "title": "Do you know why enterprise integration is becoming non-negotiable for scaling businesses",
-      "url": "https://medium.com/@prowesssoftware11/do-you-know-why-enterprise-integration-is-becoming-non-negotiable-for-scaling-businesses-5dda6ce762fb",
-      "author": "Prowesssoftware"
+      "title": "Your Biggest Cyber Risk Isn’t Attackers, It’s Your Architecture",
+      "url": "https://medium.com/@faraz.ishaq/your-biggest-cyber-risk-isnt-attackers-it-s-your-architecture-d629502cd027",
+      "author": "Faraz Ishaq"
     },
     {
-      "title": "How AI Agents Can Build a 24/7 Lead Generation Machine for Your Business (Powerful Playbook for…",
-      "url": "https://medium.com/@amit.kemnie/how-ai-agents-can-build-a-24-7-lead-generation-machine-for-your-business-powerful-playbook-for-790f960baf5d",
-      "author": "Amit kemnie"
-    },
-    {
-      "title": "Ultraviolet Vision for Brands",
-      "url": "https://toinfinityandbyond.medium.com/ultraviolet-vision-for-brands-62942536e8ce",
-      "author": "Nadeem Akhtar"
+      "title": "NSA, Anthropic’s Mythos, and Microsoft Code",
+      "url": "https://medium.com/@davidsehyeonbaek/nsa-anthropics-mythos-and-microsoft-code-7d9877bf8e39",
+      "author": "David SEHYEON Baek"
     }
   ],
   "repos": [
     {
-      "name": "browserbase/skills",
-      "url": "https://github.com/browserbase/skills",
-      "description": "Claude Agent SDK with a web browsing tool",
-      "stars": 893,
-      "language": "JavaScript"
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "stars": 28198,
+      "language": "TypeScript"
     },
     {
-      "name": "deepseek-ai/awesome-deepseek-agent",
-      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
-      "description": "",
-      "stars": 447,
-      "language": null
+      "name": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars": 6252,
+      "language": "Python"
     },
     {
-      "name": "sandeco/reversa",
-      "url": "https://github.com/sandeco/reversa",
-      "description": "Transform legacy systems into executable specifications for AI coding agents",
-      "stars": 341,
-      "language": "JavaScript"
+      "name": "the-momentum/open-wearables",
+      "url": "https://github.com/the-momentum/open-wearables",
+      "description": "Self-hosted platform to unify wearable health data through one AI-ready API.",
+      "stars": 1512,
+      "language": "Python"
     }
   ],
   "tweets": []

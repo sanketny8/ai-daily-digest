@@ -1,35 +1,4 @@
 {
-  "2026-04-01": {
-    "papers": [
-      "https://arxiv.org/abs/2603.29029",
-      "https://arxiv.org/abs/2603.29557",
-      "https://arxiv.org/abs/2603.29387",
-      "https://arxiv.org/abs/2603.19835",
-      "https://arxiv.org/abs/2603.29620",
-      "https://arxiv.org/abs/2603.28088",
-      "https://arxiv.org/abs/2603.29664",
-      "https://arxiv.org/abs/2603.26599",
-      "https://arxiv.org/abs/2603.26546",
-      "https://arxiv.org/abs/2603.25240"
-    ],
-    "blogs": [
-      "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
-      "https://prismml.com/",
-      "https://news.future-shock.ai/the-weight-of-remembering/",
-      "https://dev.to/tejakummarikuntla/i-built-a-token-billing-system-for-my-ai-agent-heres-how-it-works-dl2",
-      "https://dev.to/javz/building-a-coding-course-generator-in-public-1-the-problem-with-learning-to-code-today-2pm7",
-      "https://medium.com/@marc.bara.iniesta/what-claude-codes-source-leak-actually-reveals-e571188ecb81"
-    ],
-    "repos": [
-      "https://github.com/PaddlePaddle/PaddleOCR",
-      "https://github.com/ComposioHQ/awesome-claude-skills",
-      "https://github.com/khoj-ai/khoj",
-      "https://github.com/google-research/timesfm",
-      "https://github.com/aliasrobotics/cai",
-      "https://github.com/vas3k/TaxHacker"
-    ]
-  },
   "2026-04-02": {
     "papers": [
       "https://arxiv.org/abs/2603.29247",
@@ -965,6 +934,36 @@
       "https://github.com/browserbase/skills",
       "https://github.com/deepseek-ai/awesome-deepseek-agent",
       "https://github.com/sandeco/reversa"
+    ]
+  },
+  "2026-05-02": {
+    "papers": [
+      "https://arxiv.org/abs/2604.24954",
+      "https://arxiv.org/abs/2604.27151",
+      "https://arxiv.org/abs/2604.24953",
+      "https://arxiv.org/abs/2604.24952",
+      "https://arxiv.org/abs/2604.28157",
+      "https://arxiv.org/abs/2604.24902",
+      "https://arxiv.org/abs/2604.27766",
+      "https://arxiv.org/abs/2604.27251",
+      "https://arxiv.org/abs/2604.28139",
+      "http://arxiv.org/abs/2604.28186v1"
+    ],
+    "blogs": [
+      "https://docs.x.ai/developers/models/grok-4.3",
+      "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
+      "https://github.com/leox255/loopsy",
+      "https://www.kmjn.org/notes/microgpt_futhark.html",
+      "https://ultimeztechnologyhubli.medium.com/i-tested-claude-ai-for-deep-work-heres-the-honest-outcome-e7f553613135",
+      "https://medium.com/@cucukespe/how-to-make-money-working-online-in-2026-beginner-to-advanced-guide-1151c404a271",
+      "https://medium.com/@sujalsalunle401/%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AE-%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%A8%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%95-%E0%A4%B9%E0%A5%8B%E0%A4%8A-%E0%A4%B6%E0%A4%95%E0%A4%A4%E0%A5%87-%E0%A4%95%E0%A4%BE-28d3e341efc1",
+      "https://medium.com/@faraz.ishaq/your-biggest-cyber-risk-isnt-attackers-it-s-your-architecture-d629502cd027",
+      "https://medium.com/@davidsehyeonbaek/nsa-anthropics-mythos-and-microsoft-code-7d9877bf8e39"
+    ],
+    "repos": [
+      "https://github.com/simstudioai/sim",
+      "https://github.com/Lightricks/LTX-2",
+      "https://github.com/the-momentum/open-wearables"
     ]
   }
 }

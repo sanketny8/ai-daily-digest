@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-02</strong></summary>
+
+#### Papers
+1. **[Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence](https://arxiv.org/abs/2604.24954)** — This model supports audio, text, images, and video, enhancing multimodal AI capabilities.
+2. **[Step-level Optimization for Efficient Computer-use Agents](https://arxiv.org/abs/2604.27151)** — Introduces a method for software automation via agents that interact with graphical user interfaces.
+3. **[ViPO: Visual Preference Optimization at Scale](https://arxiv.org/abs/2604.24953)** — Explores scaling preference optimization for improving visual generative models.
+4. **[FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption](https://arxiv.org/abs/2604.28157)** — Addresses vulnerabilities in long-context LLMs used in various applications.
+5. **[Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains](https://arxiv.org/abs/2604.24902)** — Investigates safety issues in fine-tuned models, highlighting risks in critical applications.
+6. **[Instruction-Guided Poetry Generation in Arabic and Its Dialects](https://arxiv.org/abs/2604.27766)** — Focuses on generating culturally significant poetry in Arabic, enhancing creative AI applications.
+7. **[Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models](https://arxiv.org/abs/2604.27251)** — Examines reasoning capabilities in LLMs and the balance between compliance and sensibility.
+8. **[Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows](https://arxiv.org/abs/2604.28139)** — Proposes a benchmark for evaluating LLM agents in dynamic, real-world tasks.
+9. **[Exploration Hacking: Can LLMs Learn to Resist RL Training?](http://arxiv.org/abs/2604.28182v1)** — Investigates the potential for LLMs to resist reinforcement learning training methods.
+10. **[LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis](http://arxiv.org/abs/2604.28178v1)** — Enhances EEG seizure detection through improved representation learning techniques.
+
+#### Blog Posts
+1. **[Grok 4.3](https://docs.x.ai/developers/models/grok-4.3)** by docs.x.ai
+2. **[AWS stops billing Middle East cloud customers as repairs to war damage drag on](https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/)** by arstechnica.com
+3. **[Show HN: Loopsy, a way for terminals and AI agents on different machines to talk](https://github.com/leox255/loopsy)** by github.com
+4. **[I Tested Claude AI for Deep Work — Here’s the Honest Outcome](https://ultimeztechnologyhubli.medium.com/i-tested-claude-ai-for-deep-work-heres-the-honest-outcome-e7f553613135)** by Ultimez Technology
+5. **[How to Make Money Working Online in 2026 (Beginner to Advanced Guide)](https://medium.com/@cucukespe/how-to-make-money-working-online-in-2026-beginner-to-advanced-guide-1151c404a271)** by Cucukespe
+6. **[Your Biggest Cyber Risk Isn’t Attackers, It’s Your Architecture](https://medium.com/@faraz.ishaq/your-biggest-cyber-risk-isnt-attackers-it-s-your-architecture-d629502cd027)** by Faraz Ishaq
+7. **[NSA, Anthropic’s Mythos, and Microsoft Code](https://medium.com/@davidsehyeonbaek/nsa-anthropics-mythos-and-microsoft-code-7d9877bf8e39)** by David SEHYEON Baek
+
+#### Trending Repos
+1. **[simstudioai/sim](https://github.com/simstudioai/sim)** — Build, deploy, and orchestrate AI agents. ⭐ 28198
+2. **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** — Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model. ⭐ 6252
+3. **[the-momentum/open-wearables](https://github.com/the-momentum/open-wearables)** — Self-hosted platform to unify wearable health data through one AI-ready API. ⭐ 1512
+
+</details>
+
+<details>
 <summary><strong>2026-05-01</strong></summary>
 
 #### Papers
