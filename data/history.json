@@ -1,36 +1,4 @@
 {
-  "2026-04-02": {
-    "papers": [
-      "https://arxiv.org/abs/2603.29247",
-      "https://arxiv.org/abs/2603.24414",
-      "https://arxiv.org/abs/2604.00590",
-      "https://arxiv.org/abs/2603.29002",
-      "https://arxiv.org/abs/2604.00913",
-      "https://arxiv.org/abs/2603.26648",
-      "https://arxiv.org/abs/2603.28407",
-      "https://arxiv.org/abs/2604.01128",
-      "https://arxiv.org/abs/2604.00842",
-      "https://arxiv.org/abs/2603.26017"
-    ],
-    "blogs": [
-      "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-      "https://github.com/simple10/agents-observe",
-      "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
-      "https://medium.com/@amanmulchandani29/healing-or-hacking-the-ethical-dilemma-of-ai-in-healthcare-1789f2897ab3"
-    ],
-    "repos": [
-      "https://github.com/f/prompts.chat",
-      "https://github.com/anthropics/claude-code",
-      "https://github.com/openai/codex",
-      "https://github.com/sansan0/TrendRadar",
-      "https://github.com/Huanshere/VideoLingo",
-      "https://github.com/yusufkaraaslan/Skill_Seekers",
-      "https://github.com/sanbuphy/learn-coding-agent",
-      "https://github.com/microsoft/agent-framework",
-      "https://github.com/LMCache/LMCache"
-    ]
-  },
   "2026-04-03": {
     "papers": [
       "https://arxiv.org/abs/2604.01666",
@@ -964,6 +932,40 @@
       "https://github.com/simstudioai/sim",
       "https://github.com/Lightricks/LTX-2",
       "https://github.com/the-momentum/open-wearables"
+    ]
+  },
+  "2026-05-03": {
+    "papers": [
+      "http://arxiv.org/abs/2604.28182v1",
+      "http://arxiv.org/abs/2604.28181v1",
+      "http://arxiv.org/abs/2604.28180v1",
+      "http://arxiv.org/abs/2604.28178v1",
+      "http://arxiv.org/abs/2604.28176v1",
+      "http://arxiv.org/abs/2604.28175v1",
+      "http://arxiv.org/abs/2604.28169v1",
+      "http://arxiv.org/abs/2604.28167v1",
+      "http://arxiv.org/abs/2604.28163v1"
+    ],
+    "blogs": [
+      "https://arxiv.org/abs/2406.11717",
+      "https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/",
+      "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "https://medium.com/easy-flutter/i-stopped-using-stack-overflow-for-60-days-claude-replaced-it-mostly-8435903e4ca3",
+      "https://blog.stackademic.com/this-ai-app-looked-ready-to-ship-it-was-hiding-a-critical-security-flaw-95ac02b4ad72",
+      "https://rogerchuakt.medium.com/the-1-000-output-gap-why-learning-more-ai-tools-will-actually-make-you-poorer-81121325eb58",
+      "https://medium.com/@krlinsner/revolver-d8b5dfcb5c92",
+      "https://medium.com/@dymiles/on-ai-architecture-19f833ceee7b",
+      "https://medium.com/@likhildahal5/i-finally-understood-how-transformers-work-heres-the-mental-model-that-changed-everything-4a5b26c151eb"
+    ],
+    "repos": [
+      "https://github.com/9001/copyparty",
+      "https://github.com/microsoft/qlib",
+      "https://github.com/ruvnet/ruflo",
+      "https://github.com/google-research/timesfm",
+      "https://github.com/tirth8205/code-review-graph",
+      "https://github.com/Q00/ouroboros",
+      "https://github.com/appergb/openless",
+      "https://github.com/noonghunna/club-3090"
     ]
   }
 }

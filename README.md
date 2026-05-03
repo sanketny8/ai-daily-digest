@@ -10,6 +10,43 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-03</strong></summary>
+
+#### Papers
+1. **[Exploration Hacking: Can LLMs Learn to Resist RL Training?](http://arxiv.org/abs/2604.28182v1)** — This paper explores how large language models can be trained to resist reinforcement learning, enhancing their reasoning and alignment.
+2. **[Synthetic Computers at Scale for Long-Horizon Productivity Simulation](http://arxiv.org/abs/2604.28181v1)** — It discusses simulating productivity in user-specific computer environments, focusing on directory structures and content organization.
+3. **[LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis](http://arxiv.org/abs/2604.28178v1)** — This study improves seizure detection from EEG signals by refining graph structures for better representation learning.
+4. **[Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders](http://arxiv.org/abs/2604.28176v1)** — The paper addresses adversarial attacks on quantum classifiers and proposes a defense mechanism using quantum autoencoders.
+5. **[PhyCo: Learning Controllable Physical Priors for Generative Motion](http://arxiv.org/abs/2604.28169v1)** — It introduces a method to enhance physical consistency in video generation, addressing issues like object drift and unrealistic collisions.
+6. **[Mapping the Phase Diagram of the Vicsek Model with Machine Learning](http://arxiv.org/abs/2604.28167v1)** — This research uses machine learning to classify and interpolate the phase structure of the Vicsek flocking model in three dimensions.
+7. **[Sequential Inference for Gaussian Processes: A Signal Processing Perspective](http://arxiv.org/abs/2604.28163v1)** — The paper discusses the integration of machine learning models into signal processing, marking a significant methodological shift.
+8. **[Strait: Perceiving Priority and Interference in ML Inference Serving](http://arxiv.org/abs/2604.28175v1)** — It examines task prioritization and interference in machine learning inference systems, proposing solutions for better resource management.
+9. **[An adaptive wavelet-based PINN for problems with localized high-magnitude source](http://arxiv.org/abs/2604.28180v1)** — This paper presents a new approach to using physics-informed neural networks for solving differential equations with localized sources.
+10. **[LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis](http://arxiv.org/abs/2604.28178v1)** — The study focuses on improving automated seizure detection through enhanced representation learning from noisy EEG signals.
+
+#### Blog Posts
+1. **[NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/)** by agoose77
+2. **[Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)** by thinkpol.ca
+3. **[I Stopped Using Stack Overflow for 60 Days — Claude Replaced It (Mostly)](https://medium.com/easy-flutter/i-stopped-using-stack-overflow-for-60-days-claude-replaced-it-mostly-8435903e4ca3)** by Pragnesh Palsana
+4. **[This AI App Looked Ready to Ship. It Was Hiding a Critical Security Flaw.](https://blog.stackademic.com/this-ai-app-looked-ready-to-ship-it-was-hiding-a-critical-security-flaw-95ac02b4ad72)** by Sukriti Singh
+5. **[The 1,000% Output Gap: Why Learning More AI Tools Will Actually Make You Poorer](https://rogerchuakt.medium.com/the-1-000-output-gap-why-learning-more-ai-tools-will-actually-make-you-poorer-81121325eb58)** by The Long Game ♟️
+6. **[I Finally Understood How Transformers Work — Here’s the Mental Model That Changed Everything](https://medium.com/@likhildahal5/i-finally-understood-how-transformers-work-heres-the-mental-model-that-changed-everything-4a5b26c151eb)** by Likhildahal
+7. **[On AI Architecture](https://medium.com/@dymiles/on-ai-architecture-19f833ceee7b)** by Dylan Miles
+8. **[Revolver](https://medium.com/@krlinsner/revolver-d8b5dfcb5c92)** by Krlinsner
+
+#### Trending Repos
+1. **[9001/copyparty](https://github.com/9001/copyparty)** — Portable file server with advanced features like resumable uploads and media indexing. ⭐ 44643
+2. **[microsoft/qlib](https://github.com/microsoft/qlib)** — AI-oriented Quant investment platform supporting diverse ML modeling paradigms. ⭐ 41856
+3. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** — Agent orchestration platform for deploying intelligent multi-agent systems. ⭐ 37027
+4. **[google-research/timesfm](https://github.com/google-research/timesfm)** — Pretrained time-series foundation model for forecasting developed by Google Research. ⭐ 19289
+5. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Builds a persistent map of your codebase for efficient code reviews. ⭐ 14904
+6. **[Q00/ouroboros](https://github.com/Q00/ouroboros)** — Agent OS designed for specifying tasks without prompting. ⭐ 3111
+7. **[appergb/openless](https://github.com/appergb/openless)** — Open-source voice input tool for macOS & Windows. ⭐ 417
+8. **[noonghunna/club-3090](https://github.com/noonghunna/club-3090)** — Community recipes for serving LLMs on RTX 3090. ⭐ 389
+
+</details>
+
+<details>
 <summary><strong>2026-05-02</strong></summary>
 
 #### Papers

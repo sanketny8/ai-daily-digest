@@ -1,125 +1,155 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "papers": [
     {
-      "title": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
-      "url": "https://arxiv.org/abs/2604.24954",
-      "summary": "We introduce Nemotron 3 Nano Omni, the latest model in the Nemotron multimodal series and the first to natively support audio inputs alongside text, images, and video. Nemotron 3 Nano Omni delivers co"
+      "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+      "url": "http://arxiv.org/abs/2604.28182v1",
+      "summary": "Reinforcement learning (RL) has become essential to the post-training of large language models (LLMs) for reasoning, agentic capabilities and alignment. Successful RL relies on sufficient exploration "
     },
     {
-      "title": "Step-level Optimization for Efficient Computer-use Agents",
-      "url": "https://arxiv.org/abs/2604.27151",
-      "summary": "Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-s"
+      "title": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
+      "url": "http://arxiv.org/abs/2604.28181v1",
+      "summary": "Realistic long-horizon productivity work is strongly conditioned on user-specific computer environments, where much of the work context is stored and organized through directory structures and content"
     },
     {
-      "title": "ViPO: Visual Preference Optimization at Scale",
-      "url": "https://arxiv.org/abs/2604.24953",
-      "summary": "While preference optimization is crucial for improving visual generative models, how to effectively scale this paradigm remains largely unexplored. Current open-source preference datasets contain conf"
+      "title": "An adaptive wavelet-based PINN for problems with localized high-magnitude source",
+      "url": "http://arxiv.org/abs/2604.28180v1",
+      "summary": "In recent years, physics-informed neural networks (PINNs) have gained significant attention for solving differential equations, although they suffer from two fundamental limitations, namely, spectral "
     },
     {
-      "title": "Learning from Noisy Preferences: A Semi-Supervised Learning Approach to Direct Preference Optimization",
-      "url": "https://arxiv.org/abs/2604.24952",
-      "summary": "Human visual preferences are inherently multi-dimensional, encompassing aesthetics, detail fidelity, and semantic alignment. However, existing datasets provide only single, holistic annotations, resul"
+      "title": "LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis",
+      "url": "http://arxiv.org/abs/2604.28178v1",
+      "summary": "Electroencephalogram (EEG) signals are vital for automated seizure detection, but their inherent noise makes robust representation learning challenging. Existing graph construction methods, whether co"
     },
     {
-      "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
-      "url": "https://arxiv.org/abs/2604.28157",
-      "summary": "Long-context large language models (LLMs)-for example, Gemini-3.1-Pro and Qwen-3.5-are widely used to empower many real-world applications, such as retrieval-augmented generation, autonomous agents, a"
+      "title": "Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders",
+      "url": "http://arxiv.org/abs/2604.28176v1",
+      "summary": "Machine learning models can learn from data samples to carry out various tasks efficiently. When data samples are adversarially manipulated, such as by insertion of carefully crafted noise, it can cau"
     },
     {
-      "title": "Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains",
-      "url": "https://arxiv.org/abs/2604.24902",
-      "summary": "Foundation models are routinely fine-tuned for use in particular domains, yet safety assessments are typically conducted only on base models, implicitly assuming that safety properties persist through"
+      "title": "Strait: Perceiving Priority and Interference in ML Inference Serving",
+      "url": "http://arxiv.org/abs/2604.28175v1",
+      "summary": "Machine learning (ML) inference serving systems host deep neural network (DNN) models and schedule incoming inference requests across deployed GPUs. However, limited support for task prioritization an"
     },
     {
-      "title": "Instruction-Guided Poetry Generation in Arabic and Its Dialects",
-      "url": "https://arxiv.org/abs/2604.27766",
-      "summary": "Poetry has long been a central art form for Arabic speakers, serving as a powerful medium of expression and cultural identity. While modern Arabic speakers continue to value poetry, existing research "
+      "title": "PhyCo: Learning Controllable Physical Priors for Generative Motion",
+      "url": "http://arxiv.org/abs/2604.28169v1",
+      "summary": "Modern video diffusion models excel at appearance synthesis but still struggle with physical consistency: objects drift, collisions lack realistic rebound, and material responses seldom match their un"
     },
     {
-      "title": "Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models",
-      "url": "https://arxiv.org/abs/2604.27251",
-      "summary": "Large Language Models (LLMs) are known to acquire reasoning capabilities through shared inference patterns in pre-training data, which are further elicited via Chain-of-Thought (CoT) practices. Howeve"
+      "title": "Mapping the Phase Diagram of the Vicsek Model with Machine Learning",
+      "url": "http://arxiv.org/abs/2604.28167v1",
+      "summary": "In this study, we use machine learning to classify and interpolate the phase structure of the Vicsek flocking model across the three-dimensional parameter space $(η,ρ,v_0)$. We construct a dataset of "
     },
     {
-      "title": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows",
-      "url": "https://arxiv.org/abs/2604.28139",
-      "summary": "LLM agents are expected to complete end-to-end units of work across software tools, business services, and local workspaces. Yet many agent benchmarks freeze a curated task set at release time and gra"
-    },
-    {
-      "title": "Computing Equilibrium beyond Unilateral Deviation",
-      "url": "http://arxiv.org/abs/2604.28186v1",
-      "summary": "Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against "
+      "title": "Sequential Inference for Gaussian Processes: A Signal Processing Perspective",
+      "url": "http://arxiv.org/abs/2604.28163v1",
+      "summary": "The proliferation of capable and efficient machine learning (ML) models marks one of the strongest methodological shifts in signal processing (SP) in its nearly 100-year history. ML models support the"
     }
   ],
   "blog_posts": [
     {
-      "title": "Grok 4.3",
-      "url": "https://docs.x.ai/developers/models/grok-4.3",
-      "author": "docs.x.ai"
+      "title": "Refusal in Language Models Is Mediated by a Single Direction",
+      "url": "https://arxiv.org/abs/2406.11717",
+      "author": "arxiv.org"
     },
     {
-      "title": "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
-      "url": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
-      "author": "arstechnica.com"
+      "title": "NHS Goes To War Against Open Source",
+      "url": "https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/",
+      "author": "agoose77"
     },
     {
-      "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
-      "url": "https://github.com/leox255/loopsy",
-      "author": "github.com"
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "author": "thinkpol.ca"
     },
     {
-      "title": "Porting microgpt to Futhark, Part I",
-      "url": "https://www.kmjn.org/notes/microgpt_futhark.html",
-      "author": "mjn"
+      "title": "I Stopped Using Stack Overflow for 60 Days — Claude Replaced It (Mostly)",
+      "url": "https://medium.com/easy-flutter/i-stopped-using-stack-overflow-for-60-days-claude-replaced-it-mostly-8435903e4ca3",
+      "author": "Pragnesh Palsana (APP DEVELOPER)"
     },
     {
-      "title": "I Tested Claude AI for Deep Work — Here’s the Honest Outcome",
-      "url": "https://ultimeztechnologyhubli.medium.com/i-tested-claude-ai-for-deep-work-heres-the-honest-outcome-e7f553613135",
-      "author": "Ultimez Technology"
+      "title": "This AI App Looked Ready to Ship. It Was Hiding a Critical Security Flaw.",
+      "url": "https://blog.stackademic.com/this-ai-app-looked-ready-to-ship-it-was-hiding-a-critical-security-flaw-95ac02b4ad72",
+      "author": "Sukriti Singh"
     },
     {
-      "title": "How to Make Money Working Online in 2026 (Beginner to Advanced Guide)",
-      "url": "https://medium.com/@cucukespe/how-to-make-money-working-online-in-2026-beginner-to-advanced-guide-1151c404a271",
-      "author": "Cucukespe"
+      "title": "The 1,000% Output Gap: Why Learning More AI Tools Will Actually Make You Poorer",
+      "url": "https://rogerchuakt.medium.com/the-1-000-output-gap-why-learning-more-ai-tools-will-actually-make-you-poorer-81121325eb58",
+      "author": "The Long Game ♟️"
     },
     {
-      "title": "कृत्रिम बुद्धिमत्ता नैतिक होऊ शकते का?",
-      "url": "https://medium.com/@sujalsalunle401/%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AE-%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%A8%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%95-%E0%A4%B9%E0%A5%8B%E0%A4%8A-%E0%A4%B6%E0%A4%95%E0%A4%A4%E0%A5%87-%E0%A4%95%E0%A4%BE-28d3e341efc1",
-      "author": "Sujal Salunke"
+      "title": "Revolver",
+      "url": "https://medium.com/@krlinsner/revolver-d8b5dfcb5c92",
+      "author": "Krlinsner"
     },
     {
-      "title": "Your Biggest Cyber Risk Isn’t Attackers, It’s Your Architecture",
-      "url": "https://medium.com/@faraz.ishaq/your-biggest-cyber-risk-isnt-attackers-it-s-your-architecture-d629502cd027",
-      "author": "Faraz Ishaq"
+      "title": "On AI Architecture",
+      "url": "https://medium.com/@dymiles/on-ai-architecture-19f833ceee7b",
+      "author": "Dylan Miles"
     },
     {
-      "title": "NSA, Anthropic’s Mythos, and Microsoft Code",
-      "url": "https://medium.com/@davidsehyeonbaek/nsa-anthropics-mythos-and-microsoft-code-7d9877bf8e39",
-      "author": "David SEHYEON Baek"
+      "title": "I Finally Understood How Transformers Work — Here’s the Mental Model That Changed Everything",
+      "url": "https://medium.com/@likhildahal5/i-finally-understood-how-transformers-work-heres-the-mental-model-that-changed-everything-4a5b26c151eb",
+      "author": "Likhildahal"
     }
   ],
   "repos": [
     {
-      "name": "simstudioai/sim",
-      "url": "https://github.com/simstudioai/sim",
-      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "stars": 28198,
+      "name": "9001/copyparty",
+      "url": "https://github.com/9001/copyparty",
+      "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
+      "stars": 44643,
+      "language": "Python"
+    },
+    {
+      "name": "microsoft/qlib",
+      "url": "https://github.com/microsoft/qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl",
+      "stars": 41856,
+      "language": "Python"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
+      "stars": 37027,
       "language": "TypeScript"
     },
     {
-      "name": "Lightricks/LTX-2",
-      "url": "https://github.com/Lightricks/LTX-2",
-      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-      "stars": 6252,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 19289,
       "language": "Python"
     },
     {
-      "name": "the-momentum/open-wearables",
-      "url": "https://github.com/the-momentum/open-wearables",
-      "description": "Self-hosted platform to unify wearable health data through one AI-ready API.",
-      "stars": 1512,
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.",
+      "stars": 14904,
       "language": "Python"
+    },
+    {
+      "name": "Q00/ouroboros",
+      "url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 3111,
+      "language": "Python"
+    },
+    {
+      "name": "appergb/openless",
+      "url": "https://github.com/appergb/openless",
+      "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+      "stars": 417,
+      "language": "HTML"
+    },
+    {
+      "name": "noonghunna/club-3090",
+      "url": "https://github.com/noonghunna/club-3090",
+      "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
+      "stars": 389,
+      "language": "Shell"
     }
   ],
   "tweets": []
