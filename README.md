@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-04</strong></summary>
+
+#### Papers
+1. **[From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills](https://arxiv.org/abs/2604.24026)** — This paper discusses a new representation for reusable skills in LLM agents, enhancing their operational efficiency.
+2. **[Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies](https://arxiv.org/abs/2605.00416)** — It explores how reinforcement learning can improve robot policies in real-world scenarios through continuous learning.
+3. **[Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring](https://arxiv.org/abs/2605.00754)** — This research presents a framework for training reward models that adapt to multiple criteria in code generation.
+4. **[UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors](https://arxiv.org/abs/2605.00658)** — The paper introduces a unified approach for video generation that leverages diffusion models across various tasks.
+5. **[Map2World: Segment Map Conditioned Text to 3D World Generation](https://arxiv.org/abs/2605.00781)** — It details a method for generating 3D environments from textual descriptions, useful in gaming and simulations.
+6. **[End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer](https://arxiv.org/abs/2605.00503)** — This work presents a novel training pipeline for generating images using autoregressive models and semantic tokenization.
+7. **[When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models](http://arxiv.org/abs/2605.00817v1)** — The study investigates the reliability of LLMs in executing procedural tasks as specified in prompts.
+8. **[Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs](http://arxiv.org/abs/2605.00814v1)** — This paper addresses the challenges of maintaining visual context in large vision-language models during generation tasks.
+9. **[Generating Statistical Charts with Validation-Driven LLM Workflows](http://arxiv.org/abs/2605.00800v1)** — It explores how LLMs can be improved to generate accurate statistical charts from data, enhancing data visualization.
+10. **[RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution](http://arxiv.org/abs/2605.00798v1)** — This research proposes a platform for executing natural language plans reliably using constraints, improving LLM applications.
+
+#### Blog Posts
+1. **[OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses)** by theguardian.com
+2. **[BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)** by partyon.xyz
+3. **[Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)** by larsfaye.com
+4. **[Group averages obscure how an individual's brain controls behavior: study](https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html)** by med.stanford.edu
+5. **[How Kepler built verifiable AI for financial services with Claude](https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude)** by claude.com
+6. **[Every American interacting with chatbot would need to upload a government ID](https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill)** by reclaimthenet.org
+7. **[How AI-Powered Automation is Improving Business Efficiency](https://medium.com/@alexmartincaneda/how-ai-powered-automation-is-improving-business-efficiency-3475f4cb6e33)** by Alexmartincaneda
+
+#### Trending Repos
+1. **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** — An AI Hedge Fund Team. ⭐ 57994
+2. **[myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)** — Instant voice cloning by MIT and MyShell. Audio foundation model. ⭐ 36443
+3. **[czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)** — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you. ⭐ 19596
+4. **[cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)** — Incremental engine for long horizon agents. 🌟 Star if you like it! ⭐ 7695
+5. **[YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator)** — 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔. ⭐ 4712
+6. **[LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)** — Local Deep Research achieves ~95% on SimpleQA benchmark. ⭐ 4677
+7. **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** — Coding agent for DeepSeek models that runs in your terminal. ⭐ 2400
+
+</details>
+
+<details>
 <summary><strong>2026-05-03</strong></summary>
 
 #### Papers

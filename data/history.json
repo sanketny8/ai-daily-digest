@@ -1,40 +1,4 @@
 {
-  "2026-04-03": {
-    "papers": [
-      "https://arxiv.org/abs/2604.01666",
-      "https://arxiv.org/abs/2604.01760",
-      "https://arxiv.org/abs/2604.00491",
-      "https://arxiv.org/abs/2604.01619",
-      "https://arxiv.org/abs/2604.01479",
-      "https://arxiv.org/abs/2604.01404",
-      "https://arxiv.org/abs/2604.00829",
-      "https://arxiv.org/abs/2604.01929",
-      "https://arxiv.org/abs/2604.02007",
-      "https://arxiv.org/abs/2603.27666"
-    ],
-    "blogs": [
-      "https://qwen.ai/blog?id=qwen3.6",
-      "https://lemonade-server.ai",
-      "https://openai.com/index/openai-acquires-tbpn/",
-      "https://aedelon777.substack.com/p/i-did-the-math-on-sora-ai-video-is",
-      "https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735",
-      "https://medium.com/coinmonks/the-architects-reflection-the-5d-middleware-6feebc3101bf",
-      "https://sayurusadaru12.medium.com/i-am-a-software-engineer-teaching-myself-ai-engineering-here-is-where-i-am-starting-b1256b335a85",
-      "https://medium.com/@sebuzdugan/why-openais-tbpn-acquisition-is-a-turning-point-for-enterprise-ai-c96cebbfdd67"
-    ],
-    "repos": [
-      "https://github.com/asgeirtj/system_prompts_leaks",
-      "https://github.com/Yeachan-Heo/oh-my-codex",
-      "https://github.com/Gitlawb/openclaude",
-      "https://github.com/Kuberwastaken/claurst",
-      "https://github.com/MervinPraison/PraisonAI",
-      "https://github.com/zai-org/GLM-OCR",
-      "https://github.com/tvytlx/ai-agent-deep-dive",
-      "https://github.com/VoltAgent/awesome-design-md",
-      "https://github.com/JackChen-me/open-multi-agent",
-      "https://github.com/codeany-ai/open-agent-sdk-typescript"
-    ]
-  },
   "2026-04-04": {
     "papers": [
       "https://arxiv.org/abs/2603.27449",
@@ -966,6 +930,39 @@
       "https://github.com/Q00/ouroboros",
       "https://github.com/appergb/openless",
       "https://github.com/noonghunna/club-3090"
+    ]
+  },
+  "2026-05-04": {
+    "papers": [
+      "https://arxiv.org/abs/2604.24026",
+      "https://arxiv.org/abs/2604.23195",
+      "https://arxiv.org/abs/2605.00416",
+      "https://arxiv.org/abs/2605.00754",
+      "https://arxiv.org/abs/2605.00658",
+      "https://arxiv.org/abs/2605.00781",
+      "https://arxiv.org/abs/2605.00503",
+      "https://arxiv.org/abs/2605.00809",
+      "http://arxiv.org/abs/2605.00820v1",
+      "http://arxiv.org/abs/2605.00817v1"
+    ],
+    "blogs": [
+      "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "https://partyon.xyz/@nullagent/116499715071759135",
+      "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "https://github.com/aattaran/deepclaude",
+      "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
+      "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+      "https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill",
+      "https://medium.com/@alexmartincaneda/how-ai-powered-automation-is-improving-business-efficiency-3475f4cb6e33"
+    ],
+    "repos": [
+      "https://github.com/virattt/ai-hedge-fund",
+      "https://github.com/myshell-ai/OpenVoice",
+      "https://github.com/czlonkowski/n8n-mcp",
+      "https://github.com/cocoindex-io/cocoindex",
+      "https://github.com/YILING0013/AI_NovelGenerator",
+      "https://github.com/LearningCircuit/local-deep-research",
+      "https://github.com/Hmbown/DeepSeek-TUI"
     ]
   }
 }

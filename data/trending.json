@@ -1,155 +1,148 @@
 {
-  "date": "2026-05-03",
+  "date": "2026-05-04",
   "papers": [
     {
-      "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
-      "url": "http://arxiv.org/abs/2604.28182v1",
-      "summary": "Reinforcement learning (RL) has become essential to the post-training of large language models (LLMs) for reasoning, agentic capabilities and alignment. Successful RL relies on sufficient exploration "
+      "title": "From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills",
+      "url": "https://arxiv.org/abs/2604.24026",
+      "summary": "LLM agents increasingly rely on reusable skills, capability packages that combine instructions, control flow, constraints, and tool calls. In most current agent systems, however, skills are still repr"
     },
     {
-      "title": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
-      "url": "http://arxiv.org/abs/2604.28181v1",
-      "summary": "Realistic long-horizon productivity work is strongly conditioned on user-specific computer environments, where much of the work context is stored and organized through directory structures and content"
+      "title": "AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval",
+      "url": "https://arxiv.org/abs/2604.23195",
+      "summary": "Analog circuit design relies heavily on reusing existing intellectual property (IP), yet searching across heterogeneous representations such as SPICE netlists, schematics, and functional descriptions "
     },
     {
-      "title": "An adaptive wavelet-based PINN for problems with localized high-magnitude source",
-      "url": "http://arxiv.org/abs/2604.28180v1",
-      "summary": "In recent years, physics-informed neural networks (PINNs) have gained significant attention for solving differential equations, although they suffer from two fundamental limitations, namely, spectral "
+      "title": "Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies",
+      "url": "https://arxiv.org/abs/2605.00416",
+      "summary": "Generalist robot policies increasingly benefit from large-scale pretraining, but offline data alone is insufficient for robust real-world deployment. Deployed robots encounter distribution shifts, lon"
     },
     {
-      "title": "LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis",
-      "url": "http://arxiv.org/abs/2604.28178v1",
-      "summary": "Electroencephalogram (EEG) signals are vital for automated seizure detection, but their inherent noise makes robust representation learning challenging. Existing graph construction methods, whether co"
+      "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring",
+      "url": "https://arxiv.org/abs/2605.00754",
+      "summary": "Reward models (RMs) have become an indispensable fixture of the language model (LM) post-training playbook, enabling policy alignment and test-time scaling. Research on the application of RMs in code "
     },
     {
-      "title": "Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders",
-      "url": "http://arxiv.org/abs/2604.28176v1",
-      "summary": "Machine learning models can learn from data samples to carry out various tasks efficiently. When data samples are adversarially manipulated, such as by insertion of carefully crafted noise, it can cau"
+      "title": "UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors",
+      "url": "https://arxiv.org/abs/2605.00658",
+      "summary": "Recent progress has shown that video diffusion models (VDMs) can be repurposed for diverse multimodal graphics tasks. However, existing methods often train separate models for each problem setting, wh"
     },
     {
-      "title": "Strait: Perceiving Priority and Interference in ML Inference Serving",
-      "url": "http://arxiv.org/abs/2604.28175v1",
-      "summary": "Machine learning (ML) inference serving systems host deep neural network (DNN) models and schedule incoming inference requests across deployed GPUs. However, limited support for task prioritization an"
+      "title": "Map2World: Segment Map Conditioned Text to 3D World Generation",
+      "url": "https://arxiv.org/abs/2605.00781",
+      "summary": "3D world generation is essential for applications such as immersive content creation or autonomous driving simulation. Recent advances in 3D world generation have shown promising results; however, the"
     },
     {
-      "title": "PhyCo: Learning Controllable Physical Priors for Generative Motion",
-      "url": "http://arxiv.org/abs/2604.28169v1",
-      "summary": "Modern video diffusion models excel at appearance synthesis but still struggle with physical consistency: objects drift, collisions lack realistic rebound, and material responses seldom match their un"
+      "title": "End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer",
+      "url": "https://arxiv.org/abs/2605.00503",
+      "summary": "Autoregressive image modeling relies on visual tokenizers to compress images into compact latent representations. We design an end-to-end training pipeline that jointly optimizes reconstruction and ge"
     },
     {
-      "title": "Mapping the Phase Diagram of the Vicsek Model with Machine Learning",
-      "url": "http://arxiv.org/abs/2604.28167v1",
-      "summary": "In this study, we use machine learning to classify and interpolate the phase structure of the Vicsek flocking model across the three-dimensional parameter space $(η,ρ,v_0)$. We construct a dataset of "
+      "title": "Let ViT Speak: Generative Language-Image Pre-training",
+      "url": "https://arxiv.org/abs/2605.00809",
+      "summary": "In this paper, we present Generative Language-Image Pre-training (GenLIP), a minimalist generative pretraining framework for Vision Transformers (ViTs) designed for multimodal large language models (M"
     },
     {
-      "title": "Sequential Inference for Gaussian Processes: A Signal Processing Perspective",
-      "url": "http://arxiv.org/abs/2604.28163v1",
-      "summary": "The proliferation of capable and efficient machine learning (ML) models marks one of the strongest methodological shifts in signal processing (SP) in its nearly 100-year history. ML models support the"
+      "title": "HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs",
+      "url": "http://arxiv.org/abs/2605.00820v1",
+      "summary": "We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way"
+    },
+    {
+      "title": "When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models",
+      "url": "http://arxiv.org/abs/2605.00817v1",
+      "summary": "Large language models (LLMs) often achieve strong performance on reasoning benchmarks, but final-answer accuracy alone does not show whether they faithfully execute the procedure specified in a prompt"
     }
   ],
   "blog_posts": [
     {
-      "title": "Refusal in Language Models Is Mediated by a Single Direction",
-      "url": "https://arxiv.org/abs/2406.11717",
-      "author": "arxiv.org"
+      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "author": "theguardian.com"
     },
     {
-      "title": "NHS Goes To War Against Open Source",
-      "url": "https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/",
-      "author": "agoose77"
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "author": "partyon.xyz"
     },
     {
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "author": "thinkpol.ca"
+      "title": "Agentic Coding Is a Trap",
+      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "author": "larsfaye.com"
     },
     {
-      "title": "I Stopped Using Stack Overflow for 60 Days — Claude Replaced It (Mostly)",
-      "url": "https://medium.com/easy-flutter/i-stopped-using-stack-overflow-for-60-days-claude-replaced-it-mostly-8435903e4ca3",
-      "author": "Pragnesh Palsana (APP DEVELOPER)"
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "author": "github.com"
     },
     {
-      "title": "This AI App Looked Ready to Ship. It Was Hiding a Critical Security Flaw.",
-      "url": "https://blog.stackademic.com/this-ai-app-looked-ready-to-ship-it-was-hiding-a-critical-security-flaw-95ac02b4ad72",
-      "author": "Sukriti Singh"
+      "title": "Group averages obscure how an individual's brain controls behavior: study",
+      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
+      "author": "med.stanford.edu"
     },
     {
-      "title": "The 1,000% Output Gap: Why Learning More AI Tools Will Actually Make You Poorer",
-      "url": "https://rogerchuakt.medium.com/the-1-000-output-gap-why-learning-more-ai-tools-will-actually-make-you-poorer-81121325eb58",
-      "author": "The Long Game ♟️"
+      "title": "How Kepler built verifiable AI for financial services with Claude",
+      "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+      "author": "claude.com"
     },
     {
-      "title": "Revolver",
-      "url": "https://medium.com/@krlinsner/revolver-d8b5dfcb5c92",
-      "author": "Krlinsner"
+      "title": "Every American interacting with chatbot would need to upload a government ID",
+      "url": "https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill",
+      "author": "reclaimthenet.org"
     },
     {
-      "title": "On AI Architecture",
-      "url": "https://medium.com/@dymiles/on-ai-architecture-19f833ceee7b",
-      "author": "Dylan Miles"
-    },
-    {
-      "title": "I Finally Understood How Transformers Work — Here’s the Mental Model That Changed Everything",
-      "url": "https://medium.com/@likhildahal5/i-finally-understood-how-transformers-work-heres-the-mental-model-that-changed-everything-4a5b26c151eb",
-      "author": "Likhildahal"
+      "title": "How AI-Powered Automation is Improving Business Efficiency",
+      "url": "https://medium.com/@alexmartincaneda/how-ai-powered-automation-is-improving-business-efficiency-3475f4cb6e33",
+      "author": "Alexmartincaneda"
     }
   ],
   "repos": [
     {
-      "name": "9001/copyparty",
-      "url": "https://github.com/9001/copyparty",
-      "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
-      "stars": 44643,
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "stars": 57994,
       "language": "Python"
     },
     {
-      "name": "microsoft/qlib",
-      "url": "https://github.com/microsoft/qlib",
-      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl",
-      "stars": 41856,
+      "name": "myshell-ai/OpenVoice",
+      "url": "https://github.com/myshell-ai/OpenVoice",
+      "description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
+      "stars": 36443,
       "language": "Python"
     },
     {
-      "name": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
-      "stars": 37027,
+      "name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "stars": 19596,
       "language": "TypeScript"
     },
     {
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 19289,
+      "name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "stars": 7695,
       "language": "Python"
     },
     {
-      "name": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.",
-      "stars": 14904,
+      "name": "YILING0013/AI_NovelGenerator",
+      "url": "https://github.com/YILING0013/AI_NovelGenerator",
+      "description": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
+      "stars": 4712,
       "language": "Python"
     },
     {
-      "name": "Q00/ouroboros",
-      "url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 3111,
+      "name": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "Local Deep Research achieves ~95% on SimpleQA benchmark (tested with Qwen 3.6). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your priv",
+      "stars": 4677,
       "language": "Python"
     },
     {
-      "name": "appergb/openless",
-      "url": "https://github.com/appergb/openless",
-      "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
-      "stars": 417,
-      "language": "HTML"
-    },
-    {
-      "name": "noonghunna/club-3090",
-      "url": "https://github.com/noonghunna/club-3090",
-      "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
-      "stars": 389,
-      "language": "Shell"
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars": 2400,
+      "language": "Rust"
     }
   ],
   "tweets": []
