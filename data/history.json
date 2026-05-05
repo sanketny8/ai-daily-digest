@@ -1,32 +1,4 @@
 {
-  "2026-04-04": {
-    "papers": [
-      "https://arxiv.org/abs/2603.27449",
-      "https://arxiv.org/abs/2604.00356",
-      "https://arxiv.org/abs/2603.29042",
-      "https://arxiv.org/abs/2604.01298",
-      "https://arxiv.org/abs/2604.01658",
-      "https://arxiv.org/abs/2603.30043",
-      "https://arxiv.org/abs/2604.01202",
-      "https://arxiv.org/abs/2603.06679",
-      "https://arxiv.org/abs/2604.01973",
-      "https://arxiv.org/abs/2603.26259"
-    ],
-    "blogs": [
-      "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
-      "https://ctx.rs",
-      "https://dev.to/syedahmershah/how-1-missing-line-of-code-cost-anthropic-340-billion-n23",
-      "https://dev.to/vitoriazzp/de-front-end-para-ux-e-de-volta-ao-codigo-o-que-significa-ser-design-engineer-em-2026-3j74",
-      "https://sfstandard.com/2026/04/01/openai-ai-kids-safety-coalition/"
-    ],
-    "repos": [
-      "https://github.com/microsoft/BitNet",
-      "https://github.com/hsliuping/TradingAgents-CN",
-      "https://github.com/oumi-ai/oumi",
-      "https://github.com/vectorize-io/hindsight"
-    ]
-  },
   "2026-04-05": {
     "papers": [
       "http://arxiv.org/abs/2604.02330v1",
@@ -963,6 +935,37 @@
       "https://github.com/YILING0013/AI_NovelGenerator",
       "https://github.com/LearningCircuit/local-deep-research",
       "https://github.com/Hmbown/DeepSeek-TUI"
+    ]
+  },
+  "2026-05-05": {
+    "papers": [
+      "https://arxiv.org/abs/2605.00932",
+      "https://arxiv.org/abs/2605.02881",
+      "https://arxiv.org/abs/2605.00877",
+      "https://arxiv.org/abs/2605.01725",
+      "https://arxiv.org/abs/2605.02222",
+      "https://arxiv.org/abs/2605.02730",
+      "https://arxiv.org/abs/2605.02661",
+      "https://arxiv.org/abs/2605.02178",
+      "https://arxiv.org/abs/2605.02240",
+      "https://arxiv.org/abs/2604.27660"
+    ],
+    "blogs": [
+      "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+      "https://dev.to/lovestaco/6-agent-gateway-platforms-that-actually-exist-in-2026-and-what-theyre-good-for-2kek",
+      "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n",
+      "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
+      "https://medium.com/@sparknp1/the-infinite-context-window-is-a-gilded-cage-914731d55c1b"
+    ],
+    "repos": [
+      "https://github.com/msitarzewski/agency-agents",
+      "https://github.com/sansan0/TrendRadar",
+      "https://github.com/virattt/dexter",
+      "https://github.com/MervinPraison/PraisonAI",
+      "https://github.com/ag2ai/ag2"
     ]
   }
 }

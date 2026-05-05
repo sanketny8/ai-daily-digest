@@ -1,148 +1,134 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "papers": [
     {
-      "title": "From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills",
-      "url": "https://arxiv.org/abs/2604.24026",
-      "summary": "LLM agents increasingly rely on reusable skills, capability packages that combine instructions, control flow, constraints, and tool calls. In most current agent systems, however, skills are still repr"
+      "title": "Code World Model Preparedness Report",
+      "url": "https://arxiv.org/abs/2605.00932",
+      "summary": "This report documents the preparedness assessment of Code World Model (CWM), a model for code generation and reasoning about code from Meta. We conducted pre-release testing across domains identified "
     },
     {
-      "title": "AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval",
-      "url": "https://arxiv.org/abs/2604.23195",
-      "summary": "Analog circuit design relies heavily on reusing existing intellectual property (IP), yet searching across heterogeneous representations such as SPICE netlists, schematics, and functional descriptions "
+      "title": "MolmoAct2: Action Reasoning Models for Real-world Deployment",
+      "url": "https://arxiv.org/abs/2605.02881",
+      "summary": "Vision-Language-Action (VLA) models aim to provide a single generalist controller for robots, but today's systems fall short on the criteria that matter for real-world deployment. Frontier models are "
     },
     {
-      "title": "Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies",
-      "url": "https://arxiv.org/abs/2605.00416",
-      "summary": "Generalist robot policies increasingly benefit from large-scale pretraining, but offline data alone is insufficient for robust real-world deployment. Deployed robots encounter distribution shifts, lon"
+      "title": "OceanPile: A Large-Scale Multimodal Ocean Corpus for Foundation Models",
+      "url": "https://arxiv.org/abs/2605.00877",
+      "summary": "The vast and underexplored ocean plays a critical role in regulating global climate and supporting marine biodiversity, yet artificial intelligence has so far delivered limited impact in this domain d"
     },
     {
-      "title": "Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring",
-      "url": "https://arxiv.org/abs/2605.00754",
-      "summary": "Reward models (RMs) have become an indispensable fixture of the language model (LM) post-training playbook, enabling policy alignment and test-time scaling. Research on the application of RMs in code "
+      "title": "Motion-Aware Caching for Efficient Autoregressive Video Generation",
+      "url": "https://arxiv.org/abs/2605.01725",
+      "summary": "Autoregressive video generation paradigms offer theoretical promise for long video synthesis, yet their practical deployment is hindered by the computational burden of sequential iterative denoising. "
     },
     {
-      "title": "UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors",
-      "url": "https://arxiv.org/abs/2605.00658",
-      "summary": "Recent progress has shown that video diffusion models (VDMs) can be repurposed for diverse multimodal graphics tasks. However, existing methods often train separate models for each problem setting, wh"
+      "title": "Generative Modeling with Orbit-Space Particle Flow Matching",
+      "url": "https://arxiv.org/abs/2605.02222",
+      "summary": "We present Orbit-Space Geometric Probability Paths (OGPP), a particle-native flow-matching framework for generative modeling of particle systems. OGPP is motivated by two insights: (i) particles are d"
     },
     {
-      "title": "Map2World: Segment Map Conditioned Text to 3D World Generation",
-      "url": "https://arxiv.org/abs/2605.00781",
-      "summary": "3D world generation is essential for applications such as immersive content creation or autonomous driving simulation. Recent advances in 3D world generation have shown promising results; however, the"
+      "title": "Perceptual Flow Network for Visually Grounded Reasoning",
+      "url": "https://arxiv.org/abs/2605.02730",
+      "summary": "Despite the success of Large-Vision Language Models (LVLMs), general optimization objectives (e.g., standard MLE) fail to constrain visual trajectories, leading to language bias and hallucination. To "
     },
     {
-      "title": "End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer",
-      "url": "https://arxiv.org/abs/2605.00503",
-      "summary": "Autoregressive image modeling relies on visual tokenizers to compress images into compact latent representations. We design an end-to-end training pipeline that jointly optimizes reconstruction and ge"
+      "title": "AcademiClaw: When Students Set Challenges for AI Agents",
+      "url": "https://arxiv.org/abs/2605.02661",
+      "summary": "Benchmarks within the OpenClaw ecosystem have thus far evaluated exclusively assistant-level tasks, leaving the academic-level capabilities of OpenClaw largely unexamined. We introduce AcademiClaw, a "
     },
     {
-      "title": "Let ViT Speak: Generative Language-Image Pre-training",
-      "url": "https://arxiv.org/abs/2605.00809",
-      "summary": "In this paper, we present Generative Language-Image Pre-training (GenLIP), a minimalist generative pretraining framework for Vision Transformers (ViTs) designed for multimodal large language models (M"
+      "title": "T^2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.02178",
+      "summary": "Recent progress in multi-turn reinforcement learning (RL) has significantly improved reasoning LLMs' performances on complex interactive tasks. Despite advances in stabilization techniques such as fin"
     },
     {
-      "title": "HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs",
-      "url": "http://arxiv.org/abs/2605.00820v1",
-      "summary": "We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way"
+      "title": "PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments",
+      "url": "https://arxiv.org/abs/2605.02240",
+      "summary": "We introduce PhysicianBench, a benchmark for evaluating LLM agents on physician tasks grounded in real clinical setting within electronic health record (EHR) environments. Existing medical agent bench"
     },
     {
-      "title": "When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models",
-      "url": "http://arxiv.org/abs/2605.00817v1",
-      "summary": "Large language models (LLMs) often achieve strong performance on reasoning benchmarks, but final-answer accuracy alone does not show whether they faithfully execute the procedure specified in a prompt"
+      "title": "From Context to Skills: Can Language Models Learn from Context Skillfully?",
+      "url": "https://arxiv.org/abs/2604.27660",
+      "summary": "Many real-world tasks require language models (LMs) to reason over complex contexts that exceed their parametric knowledge. This calls for context learning, where LMs directly learn relevant knowledge"
     }
   ],
   "blog_posts": [
     {
-      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "author": "theguardian.com"
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "author": "openai.com"
     },
     {
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "author": "partyon.xyz"
+      "title": "Y Combinator's Stake in OpenAI (0.6%)",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "author": "daringfireball.net"
     },
     {
-      "title": "Agentic Coding Is a Trap",
-      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-      "author": "larsfaye.com"
+      "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+      "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+      "author": "404media.co"
     },
     {
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
-      "url": "https://github.com/aattaran/deepclaude",
-      "author": "github.com"
+      "title": "6 Agent Gateway Platforms That Actually Exist in 2026 (And What They're Good For)",
+      "url": "https://dev.to/lovestaco/6-agent-gateway-platforms-that-actually-exist-in-2026-and-what-theyre-good-for-2kek",
+      "author": "Athreya aka Maneshwar"
     },
     {
-      "title": "Group averages obscure how an individual's brain controls behavior: study",
-      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
-      "author": "med.stanford.edu"
+      "title": "The 4 Cognitive Archetypes of Developers Using AI",
+      "url": "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n",
+      "author": "Julien Avezou"
     },
     {
-      "title": "How Kepler built verifiable AI for financial services with Claude",
-      "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
-      "author": "claude.com"
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "author": "dragonsreach.it"
     },
     {
-      "title": "Every American interacting with chatbot would need to upload a government ID",
-      "url": "https://reclaimthenet.org/senate-panel-backs-guard-act-ai-age-verification-bill",
-      "author": "reclaimthenet.org"
+      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
+      "url": "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
+      "author": "Vilius"
     },
     {
-      "title": "How AI-Powered Automation is Improving Business Efficiency",
-      "url": "https://medium.com/@alexmartincaneda/how-ai-powered-automation-is-improving-business-efficiency-3475f4cb6e33",
-      "author": "Alexmartincaneda"
+      "title": "The Infinite Context Window is a Gilded Cage",
+      "url": "https://medium.com/@sparknp1/the-infinite-context-window-is-a-gilded-cage-914731d55c1b",
+      "author": "Syntal"
     }
   ],
   "repos": [
     {
-      "name": "virattt/ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "stars": 57994,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars": 92833,
+      "language": "Shell"
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion &amp; trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架",
+      "stars": 56559,
       "language": "Python"
     },
     {
-      "name": "myshell-ai/OpenVoice",
-      "url": "https://github.com/myshell-ai/OpenVoice",
-      "description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
-      "stars": 36443,
-      "language": "Python"
-    },
-    {
-      "name": "czlonkowski/n8n-mcp",
-      "url": "https://github.com/czlonkowski/n8n-mcp",
-      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-      "stars": 19596,
+      "name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "stars": 23283,
       "language": "TypeScript"
     },
     {
-      "name": "cocoindex-io/cocoindex",
-      "url": "https://github.com/cocoindex-io/cocoindex",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "stars": 7695,
+      "name": "MervinPraison/PraisonAI",
+      "url": "https://github.com/MervinPraison/PraisonAI",
+      "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil",
+      "stars": 7049,
       "language": "Python"
     },
     {
-      "name": "YILING0013/AI_NovelGenerator",
-      "url": "https://github.com/YILING0013/AI_NovelGenerator",
-      "description": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
-      "stars": 4712,
+      "name": "ag2ai/ag2",
+      "url": "https://github.com/ag2ai/ag2",
+      "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
+      "stars": 4505,
       "language": "Python"
-    },
-    {
-      "name": "LearningCircuit/local-deep-research",
-      "url": "https://github.com/LearningCircuit/local-deep-research",
-      "description": "Local Deep Research achieves ~95% on SimpleQA benchmark (tested with Qwen 3.6). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your priv",
-      "stars": 4677,
-      "language": "Python"
-    },
-    {
-      "name": "Hmbown/DeepSeek-TUI",
-      "url": "https://github.com/Hmbown/DeepSeek-TUI",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "stars": 2400,
-      "language": "Rust"
     }
   ],
   "tweets": []

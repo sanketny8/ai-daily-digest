@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-05</strong></summary>
+
+#### Papers
+1. **[Code World Model Preparedness Report](https://arxiv.org/abs/2605.00932)** — This report assesses the readiness of Meta's Code World Model for code generation and reasoning tasks.
+2. **[MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881)** — Explores Vision-Language-Action models aimed at improving robotic control for real-world applications.
+3. **[OceanPile: A Large-Scale Multimodal Ocean Corpus for Foundation Models](https://arxiv.org/abs/2605.00877)** — Introduces a multimodal dataset focused on oceanic data to enhance AI's impact on marine studies.
+4. **[Motion-Aware Caching for Efficient Autoregressive Video Generation](https://arxiv.org/abs/2605.01725)** — Addresses computational challenges in autoregressive video generation through innovative caching techniques.
+5. **[PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments](https://arxiv.org/abs/2605.02240)** — A benchmark for assessing language model agents in clinical electronic health record tasks.
+6. **[From Context to Skills: Can Language Models Learn from Context Skillfully?](https://arxiv.org/abs/2604.27660)** — Investigates how language models can learn relevant knowledge from complex contexts beyond their training data.
+7. **[Generative Modeling with Orbit-Space Particle Flow Matching](https://arxiv.org/abs/2605.02222)** — Introduces a new framework for generative modeling of particle systems using geometric probability paths.
+8. **[T^2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning](https://arxiv.org/abs/2605.02178)** — Discusses advancements in multi-turn reinforcement learning to enhance agent performance in interactive tasks.
+9. **[Perceptual Flow Network for Visually Grounded Reasoning](https://arxiv.org/abs/2605.02730)** — Proposes a network to improve visual reasoning in language models, addressing biases and hallucinations.
+10. **[SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection](http://arxiv.org/abs/2605.02888v1)** — Enhances large language model inference speed through adaptive speculative decoding techniques.
+
+#### Blog Posts
+1. **[How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)** by openai.com
+2. **[Y Combinator's Stake in OpenAI (0.6%)](https://daringfireball.net/2026/05/y_combinators_stake_in_openai)** by daringfireball.net
+3. **[OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)** by 404media.co
+4. **[6 Agent Gateway Platforms That Actually Exist in 2026 (And What They're Good For)](https://dev.to/lovestaco/6-agent-gateway-platforms-that-actually-exist-in-2026-and-what-theyre-good-for-2kek)** by Athreya aka Maneshwar
+5. **[The 4 Cognitive Archetypes of Developers Using AI](https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n)** by Julien Avezou
+6. **[CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/)** by dragonsreach.it
+7. **[Managing 150+ AI Agent Skills at Scale — What Broke, What I Built](https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73)** by Vilius
+8. **[The Infinite Context Window is a Gilded Cage](https://medium.com/@sparknp1/the-infinite-context-window-is-a-gilded-cage-914731d55c1b)** by Syntal
+
+#### Trending Repos
+1. **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency with specialized agents for various tasks. ⭐ 92833
+2. **[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** — AI-driven public opinion and trend monitor with multi-platform aggregation. ⭐ 56559
+3. **[virattt/dexter](https://github.com/virattt/dexter)** — An autonomous agent for deep financial research. ⭐ 23283
+4. **[MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI)** — Hire a 24/7 AI workforce for autonomous task execution. ⭐ 7049
+5. **[ag2ai/ag2](https://github.com/ag2ai/ag2)** — The Open-Source AgentOS for building AI agents. ⭐ 4505
+
+</details>
+
+<details>
 <summary><strong>2026-05-04</strong></summary>
 
 #### Papers
