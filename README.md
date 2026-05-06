@@ -10,6 +10,34 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-06</strong></summary>
+
+#### Papers
+1. **[TCDA: Thread-Constrained Discourse-Aware Modeling for Conversational Sentiment Quadruple Analysis](https://arxiv.org/abs/2605.01717)** — This paper addresses the complexities of sentiment analysis in multi-round dialogues using advanced modeling techniques.
+2. **[Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation](https://arxiv.org/abs/2605.01284)** — It explores a new method for answering complex questions through iterative retrieval and reasoning over documents.
+3. **[PatRe: A Full-Stage Office Action and Rebuttal Generation Benchmark for Patent Examination](https://arxiv.org/abs/2605.03571)** — This benchmark aims to improve the efficiency of patent examination processes by generating office actions and rebuttals.
+4. **[Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](https://arxiv.org/abs/2605.02801)** — The study focuses on optimizing multi-agent systems using reinforcement learning to enhance collaboration and task delegation.
+5. **[Healthcare AI GYM for Medical Agents](https://arxiv.org/abs/2605.02943)** — Introduces a training environment for clinical reasoning, facilitating multi-step interactions in medical decision-making.
+6. **[Safety and accuracy follow different scaling laws in clinical large language models](http://arxiv.org/abs/2605.04039v1)** — Investigates the relationship between model scaling, accuracy, and safety in clinical applications of large language models.
+7. **[Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours](http://arxiv.org/abs/2605.04019v1)** — Discusses the need for faster AI red teaming processes to protect against adversarial attacks in critical domains.
+8. **[SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment](http://arxiv.org/abs/2605.04012v1)** — Proposes a conversational AI for assessing everyday symptoms, aiming to enhance diagnostic capabilities.
+9. **[Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing](http://arxiv.org/abs/2605.04003v1)** — This paper presents a framework for integrating AI in manufacturing, focusing on decision support and risk management.
+10. **[A Benchmark for Interactive World Models with a Unified Action Generation Framework](https://arxiv.org/abs/2605.03941)** — Proposes a benchmark for developing interactive world models to advance artificial general intelligence.
+
+#### Blog Posts
+1. **[Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)** by thatprivacyguy.com
+2. **[Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)** by blog.google
+3. **[Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/)** by variety.com
+4. **[Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)** by dbreunig.com
+5. **[Agents for financial services and insurance](https://www.anthropic.com/news/finance-agents)** by anthropic.com
+
+#### Trending Repos
+1. **[cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)** — A list of free LLM inference resources accessible via API. ⭐ 20154
+2. **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** — VSCode theme based off the easemate IDE and Jetbrains islands theme. ⭐ 7942
+
+</details>
+
+<details>
 <summary><strong>2026-05-05</strong></summary>
 
 #### Papers

@@ -1,34 +1,4 @@
 {
-  "2026-04-05": {
-    "papers": [
-      "http://arxiv.org/abs/2604.02330v1",
-      "http://arxiv.org/abs/2604.02327v1",
-      "http://arxiv.org/abs/2604.02324v1",
-      "http://arxiv.org/abs/2604.02322v1",
-      "http://arxiv.org/abs/2604.02319v1",
-      "http://arxiv.org/abs/2604.02315v1",
-      "http://arxiv.org/abs/2604.02313v1",
-      "http://arxiv.org/abs/2604.02309v1",
-      "http://arxiv.org/abs/2604.02296v1",
-      "http://arxiv.org/abs/2604.02292v1"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/research/emotion-concepts-function",
-      "https://sllm.cloud",
-      "https://imbue.com/product/mngr_part_2/",
-      "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
-      "https://gazagnaire.org/blog/2026-04-02-cascade.html",
-      "https://medium.com/@oxgideon/best-tools-for-polymarket-traders-in-2026-including-polycool-51163ab46e35",
-      "https://medium.com/@farsi.masoud/liinkz-vs-thumbtack-vs-taskrabbit-vs-angi-745a0e540560"
-    ],
-    "repos": [
-      "https://github.com/block/goose",
-      "https://github.com/HKUDS/LightRAG",
-      "https://github.com/ml-explore/mlx-lm",
-      "https://github.com/HKUDS/OpenHarness",
-      "https://github.com/Blaizzy/mlx-vlm"
-    ]
-  },
   "2026-04-06": {
     "papers": [
       "https://arxiv.org/abs/2604.02870",
@@ -966,6 +936,33 @@
       "https://github.com/virattt/dexter",
       "https://github.com/MervinPraison/PraisonAI",
       "https://github.com/ag2ai/ag2"
+    ]
+  },
+  "2026-05-06": {
+    "papers": [
+      "https://arxiv.org/abs/2605.01717",
+      "https://arxiv.org/abs/2605.01284",
+      "https://arxiv.org/abs/2605.03571",
+      "https://arxiv.org/abs/2605.02801",
+      "https://arxiv.org/abs/2605.01466",
+      "https://arxiv.org/abs/2604.28123",
+      "https://arxiv.org/abs/2605.02396",
+      "https://arxiv.org/abs/2605.02943",
+      "https://arxiv.org/abs/2411.18966",
+      "https://arxiv.org/abs/2605.03941"
+    ],
+    "blogs": [
+      "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "https://github.com/angelos-p/llm-from-scratch",
+      "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
+      "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "https://www.anthropic.com/news/finance-agents",
+      "https://docs.docker.com/engine/storage/containerd"
+    ],
+    "repos": [
+      "https://github.com/cheahjs/free-llm-api-resources",
+      "https://github.com/bwya77/vscode-dark-islands"
     ]
   }
 }
