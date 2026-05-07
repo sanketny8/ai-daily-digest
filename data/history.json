@@ -1,33 +1,4 @@
 {
-  "2026-04-06": {
-    "papers": [
-      "https://arxiv.org/abs/2604.02870",
-      "https://arxiv.org/abs/2604.02317",
-      "https://arxiv.org/abs/2604.03128",
-      "https://arxiv.org/abs/2604.03016",
-      "https://arxiv.org/abs/2604.02947",
-      "https://arxiv.org/abs/2604.02368",
-      "https://arxiv.org/abs/2604.03231",
-      "https://arxiv.org/abs/2604.03144",
-      "http://arxiv.org/abs/2604.03226v1",
-      "http://arxiv.org/abs/2604.03216v1"
-    ],
-    "blogs": [
-      "https://github.com/arman-bd/guppylm",
-      "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-      "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
-      "https://github.com/kessler/gemma-gem",
-      "https://twitter.com/openrouter/status/2040239467865489874",
-      "https://newclawtimes.com/articles/iran-irgc-satellite-imagery-openai-stargate-abu-dhabi-datacenter-threat/",
-      "https://medium.com/@dwabi.ai/the-social-proof-multiplier-how-ai-is-automating-brand-authority-in-2026-203ac10d745e"
-    ],
-    "repos": [
-      "https://github.com/badlogic/pi-mono",
-      "https://github.com/google-ai-edge/gallery",
-      "https://github.com/HKUDS/RAG-Anything",
-      "https://github.com/google-deepmind/gemma"
-    ]
-  },
   "2026-04-07": {
     "papers": [
       "https://arxiv.org/abs/2604.04787",
@@ -963,6 +934,37 @@
     "repos": [
       "https://github.com/cheahjs/free-llm-api-resources",
       "https://github.com/bwya77/vscode-dark-islands"
+    ]
+  },
+  "2026-05-07": {
+    "papers": [
+      "https://arxiv.org/abs/2605.04461",
+      "https://arxiv.org/abs/2605.04569",
+      "https://arxiv.org/abs/2605.04128",
+      "https://arxiv.org/abs/2605.03849",
+      "https://arxiv.org/abs/2605.03269",
+      "https://arxiv.org/abs/2605.04018",
+      "https://arxiv.org/abs/2605.05163",
+      "https://arxiv.org/abs/2605.05204",
+      "https://arxiv.org/abs/2604.28196",
+      "https://arxiv.org/abs/2604.20441"
+    ],
+    "blogs": [
+      "https://blog.cloudflare.com/agents-stripe-projects/",
+      "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "https://www.anthropic.com/news/higher-limits-spacex",
+      "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+      "https://sander.ai/2026/05/06/flow-maps.html",
+      "https://hfviewer.com/"
+    ],
+    "repos": [
+      "https://github.com/pytorch/pytorch",
+      "https://github.com/addyosmani/agent-skills",
+      "https://github.com/onyx-dot-app/onyx",
+      "https://github.com/hsliuping/TradingAgents-CN",
+      "https://github.com/anthropics/financial-services",
+      "https://github.com/InsForge/InsForge"
     ]
   }
 }

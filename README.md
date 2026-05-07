@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-07</strong></summary>
+
+#### Papers
+1. **[Stream-T1: Test-Time Scaling for Streaming Video Generation](https://arxiv.org/abs/2605.04461)** — This paper explores enhancing video generation at test time without high training costs.
+2. **[Lightning Unified Video Editing via In-Context Sparse Attention](https://arxiv.org/abs/2605.04569)** — Proposes a new method to reduce computational costs in video editing using sparse attention.
+3. **[Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2605.04128)** — Introduces JoyAI-Image, a model for visual understanding and text-to-image generation.
+4. **[Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation](https://arxiv.org/abs/2605.03849)** — Discusses a distillation method to improve streaming video generation efficiency.
+5. **[Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems](https://arxiv.org/abs/2605.04018)** — Focuses on enhancing retrieval systems for better reasoning support in search tasks.
+6. **[PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World](https://arxiv.org/abs/2605.05163)** — Addresses the challenge of creating functional 3D assets for virtual environments.
+7. **[D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models](https://arxiv.org/abs/2605.05204)** — Explores efficient tuning methods for diffusion models in image generation.
+8. **[HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation](https://arxiv.org/abs/2604.28196)** — Aims to improve autonomous driving through better scene understanding models.
+9. **[When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning](http://arxiv.org/abs/2605.05172v1)** — Proposes a method to enhance robot learning through behavior cloning techniques.
+10. **[MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills](https://arxiv.org/abs/2604.20441)** — Introduces a framework to ensure the reliability of AI skills in medical research.
+
+#### Blog Posts
+1. **[Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)** by Cloudflare
+2. **[Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)** by Simon Willison
+3. **[Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex)** by Anthropic
+4. **[Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)** by Let's Data Science
+5. **[Wiki Builder: Skill to Build LLM Knowledge Bases](https://academy.dair.ai/blog/wiki-builder-claude-code-plugin)** by DAIR Academy
+6. **[Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)** by Sander AI
+7. **[Visualize Any Hugging Face Model](https://hfviewer.com/)** by HF Viewer
+
+#### Trending Repos
+1. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** — Tensors and Dynamic neural networks in Python with strong GPU acceleration. ⭐ 99708
+2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents. ⭐ 31108
+3. **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform - AI Chat with advanced features that works with every LLM. ⭐ 29099
+4. **[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)** — 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版. ⭐ 25803
+5. **[anthropics/financial-services](https://github.com/anthropics/financial-services)** —  ⭐ 9366
+6. **[InsForge/InsForge](https://github.com/InsForge/InsForge)** — InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents. ⭐ 8544
+
+</details>
+
+<details>
 <summary><strong>2026-05-06</strong></summary>
 
 #### Papers
