@@ -1,136 +1,141 @@
 {
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "papers": [
     {
-      "title": "Stream-T1: Test-Time Scaling for Streaming Video Generation",
-      "url": "https://arxiv.org/abs/2605.04461",
-      "summary": "While Test-Time Scaling (TTS) offers a promising direction to enhance video generation without the surging costs of training, current test-time video generation methods based on diffusion models suffe"
+      "title": "Balanced Aggregation: Understanding and Fixing Aggregation Bias in GRPO",
+      "url": "https://arxiv.org/abs/2605.04077",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has become a central paradigm for improving reasoning and code generation in large language models, and GRPO-style training is widely adopted for "
     },
     {
-      "title": "Lightning Unified Video Editing via In-Context Sparse Attention",
-      "url": "https://arxiv.org/abs/2605.04569",
-      "summary": "Video editing has evolved toward In-Context Learning (ICL) paradigms, yet the resulting quadratic attention costs create a critical computational bottleneck. In this work, we propose In-context Sparse"
+      "title": "RemoteZero: Geospatial Reasoning with Zero Human Annotations",
+      "url": "https://arxiv.org/abs/2605.04451",
+      "summary": "Geospatial reasoning requires models to resolve complex spatial semantics and user intent into precise target locations for Earth observation. Recent progress has liberated the reasoning path from man"
     },
     {
-      "title": "Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation",
-      "url": "https://arxiv.org/abs/2605.04128",
-      "summary": "We present JoyAI-Image, a unified multimodal foundation model for visual understanding, text-to-image generation, and instruction-guided image editing. JoyAI-Image couples a spatially enhanced Multimo"
+      "title": "When to Trust Imagination: Adaptive Action Execution for World Action Models",
+      "url": "https://arxiv.org/abs/2605.06222",
+      "summary": "World Action Models (WAMs) have recently emerged as a promising paradigm for robotic manipulation by jointly predicting future visual observations and future actions. However, current WAMs typically e"
     },
     {
-      "title": "Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation",
-      "url": "https://arxiv.org/abs/2605.03849",
-      "summary": "Distillation-based acceleration has become foundational for making autoregressive streaming video diffusion models practical, with distribution matching distillation (DMD) as the de facto choice. Exis"
+      "title": "EDU-CIRCUIT-HW: Evaluating Multimodal Large Language Models on Real-World University-Level STEM Student Handwritten Solutions",
+      "url": "https://arxiv.org/abs/2602.00095",
+      "summary": "Multimodal Large Language Models (MLLMs) hold significant promise for revolutionizing traditional education and reducing teachers' workload. However, accurately interpreting unconstrained STEM student"
     },
     {
-      "title": "RLDX-1 Technical Report",
-      "url": "https://arxiv.org/abs/2605.03269",
-      "summary": "While Vision-Language-Action models (VLAs) have shown remarkable progress toward human-like generalist robotic policies through the versatile intelligence (i.e. broad scene understanding and language-"
+      "title": "Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study",
+      "url": "https://arxiv.org/abs/2605.06643",
+      "summary": "Despite the growing popularity of Multimodal Domain Generalization (MMDG) for enhancing model robustness, it remains unclear whether reported performance gains reflect genuine algorithmic progress or "
     },
     {
-      "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
-      "url": "https://arxiv.org/abs/2605.04018",
-      "summary": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search s"
+      "title": "Continuous-Time Distribution Matching for Few-Step Diffusion Distillation",
+      "url": "https://arxiv.org/abs/2605.06376",
+      "summary": "Step distillation has become a leading technique for accelerating diffusion models, among which Distribution Matching Distillation (DMD) and Consistency Distillation are two representative paradigms. "
     },
     {
-      "title": "PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World",
-      "url": "https://arxiv.org/abs/2605.05163",
-      "summary": "Synthesizing physics-grounded 3D assets is a critical bottleneck for interactive virtual worlds and embodied AI. Existing methods predominantly focus on static geometry, overlooking the functional pro"
+      "title": "A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping",
+      "url": "https://arxiv.org/abs/2605.06200",
+      "summary": "Reinforcement learning for agentic large language models (LLMs) typically relies on a sparse, trajectory-level outcome reward, making it difficult to evaluate the contribution of individual tool-calls"
     },
     {
-      "title": "D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models",
-      "url": "https://arxiv.org/abs/2605.05204",
-      "summary": "The landscape of high-performance image generation models is currently shifting from the inefficient multi-step ones to the efficient few-step counterparts (e.g, Z-Image-Turbo and FLUX.2-klein). Howev"
+      "title": "SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation",
+      "url": "https://arxiv.org/abs/2605.06356",
+      "summary": "High-resolution image-to-video (I2V) generation aims to synthesize realistic temporal dynamics while preserving fine-grained appearance details of the input image. At 2K resolution, it becomes extreme"
     },
     {
-      "title": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation",
-      "url": "https://arxiv.org/abs/2604.28196",
-      "summary": "Driving world models serve as a pivotal technology for autonomous driving by simulating environmental dynamics. However, existing approaches predominantly focus on future scene generation, often overl"
+      "title": "Recovering Hidden Reward in Diffusion-Based Policies",
+      "url": "https://arxiv.org/abs/2605.00623",
+      "summary": "This paper introduces EnergyFlow, a framework that unifies generative action modeling with inverse reinforcement learning by parameterizing a scalar energy function whose gradient is the denoising fie"
     },
     {
-      "title": "MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills",
-      "url": "https://arxiv.org/abs/2604.20441",
-      "summary": "Background: Agent skills are increasingly deployed as modular, reusable capability units in AI agent systems. Medical research agent skills require safeguards beyond general-purpose evaluation, includ"
+      "title": "TabEmbed: Benchmarking and Learning Generalist Embeddings for Tabular Understanding",
+      "url": "https://arxiv.org/abs/2605.04962",
+      "summary": "Foundation models have established unified representations for natural language processing, yet this paradigm remains largely unexplored for tabular data. Existing methods face fundamental limitations"
     }
   ],
   "blog_posts": [
     {
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "author": "blog.cloudflare.com"
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "author": "bsuh.bearblog.dev"
     },
     {
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "author": "simonwillison.net"
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "author": "deepmind.google"
     },
     {
-      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
       "author": "anthropic.com"
     },
     {
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "author": "letsdatascience.com"
+      "title": "ProgramBench: Can language models rebuild programs from scratch?",
+      "url": "https://arxiv.org/abs/2605.03546",
+      "author": "arxiv.org"
     },
     {
-      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-      "author": "academy.dair.ai"
+      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+      "url": "https://unsloth.ai/blog/nvidia-collab",
+      "author": "unsloth.ai"
     },
     {
-      "title": "Learning the Integral of a Diffusion Model",
-      "url": "https://sander.ai/2026/05/06/flow-maps.html",
-      "author": "sander.ai"
+      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+      "url": "https://ahk.cardor.dev",
+      "author": "ahk.cardor.dev"
     },
     {
-      "title": "Visualize Any Hugging Face Model",
-      "url": "https://hfviewer.com/",
-      "author": "hfviewer.com"
+      "title": "Open weights are quietly closing up - and that's a problem",
+      "url": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/",
+      "author": "martinald"
+    },
+    {
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
+      "author": "Jess Lee"
     }
   ],
   "repos": [
     {
-      "name": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "stars": 99708,
+      "name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 29713,
       "language": "Python"
     },
     {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 31108,
-      "language": "Shell"
-    },
-    {
-      "name": "onyx-dot-app/onyx",
-      "url": "https://github.com/onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "stars": 29099,
+      "name": "xming521/WeClone",
+      "url": "https://github.com/xming521/WeClone",
+      "description": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分",
+      "stars": 17824,
       "language": "Python"
     },
     {
-      "name": "hsliuping/TradingAgents-CN",
-      "url": "https://github.com/hsliuping/TradingAgents-CN",
-      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "stars": 25803,
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars": 7551,
       "language": "Python"
     },
     {
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "stars": 9366,
+      "name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars": 4751,
+      "language": "JavaScript"
+    },
+    {
+      "name": "Blaizzy/mlx-vlm",
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "stars": 4665,
       "language": "Python"
     },
     {
-      "name": "InsForge/InsForge",
-      "url": "https://github.com/InsForge/InsForge",
-      "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
-      "stars": 8544,
-      "language": "TypeScript"
+      "name": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "stars": 3563,
+      "language": "Python"
     }
   ],
   "tweets": []

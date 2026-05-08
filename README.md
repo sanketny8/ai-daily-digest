@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-08</strong></summary>
+
+#### Papers
+1. **[Balanced Aggregation: Understanding and Fixing Aggregation Bias in GRPO](https://arxiv.org/abs/2605.04077)** — This paper addresses bias in reinforcement learning with verifiable rewards, crucial for improving language models.
+2. **[RemoteZero: Geospatial Reasoning with Zero Human Annotations](https://arxiv.org/abs/2605.04451)** — Introduces a method for geospatial reasoning without human input, enhancing Earth observation capabilities.
+3. **[When to Trust Imagination: Adaptive Action Execution for World Action Models](https://arxiv.org/abs/2605.06222)** — Explores adaptive execution in robotic manipulation, improving future action predictions.
+4. **[EDU-CIRCUIT-HW: Evaluating Multimodal Large Language Models on Real-World University-Level STEM Student Handwritten Solutions](https://arxiv.org/abs/2602.00095)** — Evaluates MLLMs on interpreting handwritten STEM solutions, impacting educational technology.
+5. **[Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](https://arxiv.org/abs/2605.06643)** — Analyzes the effectiveness of multimodal domain generalization, questioning the validity of reported performance gains.
+6. **[SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation](https://arxiv.org/abs/2605.06356)** — Proposes a method for generating high-resolution videos from images, preserving detail and realism.
+7. **[AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](http://arxiv.org/abs/2605.06651v1)** — Introduces an AI tool designed to assist mathematicians in research, enhancing productivity and creativity.
+8. **[Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients](http://arxiv.org/abs/2605.06650v1)** — Discusses a new approach in reinforcement learning that focuses on positive outcomes, improving model training.
+9. **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](http://arxiv.org/abs/2605.06656v1)** — Critiques current LLM leaderboards, suggesting they may not accurately reflect model capabilities across diverse tasks.
+10. **[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less](http://arxiv.org/abs/2605.06654v1)** — Investigates the impact of optimizer consistency on model retention during fine-tuning, offering insights for better training practices.
+
+#### Blog Posts
+1. **[Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)** by bsuh.bearblog.dev
+2. **[AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)** by deepmind.google
+3. **[Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)** by anthropic.com
+4. **[Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)** by unsloth.ai
+5. **[Open weights are quietly closing up - and that's a problem](https://martinalderson.com/posts/open-weights-are-quietly-closing-up/)** by martinald
+6. **[Congrats to the OpenClaw Challenge Winners!](https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha)** by Jess Lee
+
+#### Trending Repos
+1. **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** — Document Index for Vectorless, Reasoning-based RAG. ⭐ 29713
+2. **[xming521/WeClone](https://github.com/xming521/WeClone)** — Create your AI twin from chat history and fine-tune LLMs. ⭐ 17824
+3. **[Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)** — Hands-free voice interaction with LLMs, running locally. ⭐ 7551
+4. **[decolua/9router](https://github.com/decolua/9router)** — Unlimited FREE AI coding with multiple providers. ⭐ 4751
+5. **[Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** — Inference and fine-tuning of Vision Language Models on Mac. ⭐ 4665
+6. **[z-lab/dflash](https://github.com/z-lab/dflash)** — Block Diffusion for Flash Speculative Decoding. ⭐ 3563
+
+</details>
+
+<details>
 <summary><strong>2026-05-07</strong></summary>
 
 #### Papers
