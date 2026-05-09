@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-09</strong></summary>
+
+#### Papers
+1. **[EMO: Pretraining Mixture of Experts for Emergent Modularity](https://arxiv.org/abs/2605.06663)** — This paper explores modular approaches in large language models to enhance efficiency and capability targeting.
+2. **[PianoCoRe: Combined and Refined Piano MIDI Dataset](https://arxiv.org/abs/2605.06627)** — Introduces a comprehensive dataset for music information retrieval, improving access to diverse piano performances.
+3. **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642)** — Proposes a method to enhance decision-making in interactive agents through strategic trajectory planning.
+4. **[GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs](https://arxiv.org/abs/2605.06477)** — Addresses knowledge retention in Vision-Language Models to prevent catastrophic forgetting across tasks.
+5. **[Prescriptive Scaling Laws for Data Constrained Training](https://arxiv.org/abs/2605.01640)** — Discusses optimizing training strategies when high-quality data is limited, shifting focus from compute to data utility.
+6. **[Audio-Visual Intelligence in Large Foundation Models](https://arxiv.org/abs/2605.04045)** — Explores the integration of audio and visual modalities to enhance machine perception and interaction capabilities.
+7. **[BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models](https://arxiv.org/abs/2605.05758)** — Aims to improve LLM performance in biomedicine by providing a specialized dataset for tool identification.
+8. **[The Scaling Properties of Implicit Deductive Reasoning in Transformers](https://arxiv.org/abs/2605.04330)** — Investigates how transformer models can be optimized for deductive reasoning through scaling properties.
+9. **[AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](https://arxiv.org/abs/2605.06651)** — Introduces an AI tool designed to assist mathematicians in research through interactive collaboration.
+10. **[Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients](https://arxiv.org/abs/2605.06650)** — Proposes a new paradigm for reinforcement learning that focuses on positive outcomes to enhance reasoning in LLMs.
+
+#### Blog Posts
+1. **[OpenAI's WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/)** by moq.dev
+2. **[GPT-5.5 Price Increase: What It Costs](https://openrouter.ai/announcements/gpt55-cost-analysis)** by openrouter.ai
+3. **[Teaching Claude Why](https://www.anthropic.com/research/teaching-claude-why)** by anthropic.com
+4. **[A polynomial autoencoder beats PCA on transformer embeddings](https://ivanpleshkov.dev/blog/polynomial-autoencoder/)** by ivanpleshkov.dev
+5. **[Can LLMs model real-world systems in TLA+?](https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/)** by sigops.org
+6. **[I Built My Mom an AI Recipe Helper for Mother's Day](https://dev.to/aws/i-built-my-mom-an-ai-recipe-helper-for-mothers-day-2hc5)** by Ifeanyi O.
+
+#### Trending Repos
+1. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — Turn any PDF or image document into structured data for your AI. ⭐ 77448
+2. **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — A space for collaboration with agent teammates that grow with you. ⭐ 76591
+3. **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official directory of high-quality Claude Code Plugins. ⭐ 18919
+4. **[vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)** — Community maintained hardware plugin for vLLM on Ascend. ⭐ 2043
+5. **[awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows)** — AI-Driven Life Cycle adaptive workflow steering rules for AI coding agents. ⭐ 1815
+
+</details>
+
+<details>
 <summary><strong>2026-05-08</strong></summary>
 
 #### Papers

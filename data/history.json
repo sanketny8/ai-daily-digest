@@ -1,38 +1,4 @@
 {
-  "2026-04-08": {
-    "papers": [
-      "https://arxiv.org/abs/2604.05091",
-      "https://arxiv.org/abs/2604.02648",
-      "https://arxiv.org/abs/2604.04323",
-      "https://arxiv.org/abs/2604.01591",
-      "https://arxiv.org/abs/2604.06170",
-      "https://arxiv.org/abs/2604.05533",
-      "https://arxiv.org/abs/2604.04934",
-      "https://arxiv.org/abs/2604.05081",
-      "https://arxiv.org/abs/2604.06168",
-      "https://arxiv.org/abs/2604.06079"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/glasswing",
-      "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
-      "https://red.anthropic.com/2026/mythos-preview/",
-      "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-      "https://github.com/mattmireles/gemma-tuner-multimodal",
-      "https://transformer-circuits.pub/2026/emotions/index.html"
-    ],
-    "repos": [
-      "https://github.com/milla-jovovich/mempalace",
-      "https://github.com/HKUDS/AutoAgent",
-      "https://github.com/TheCraigHewitt/seomachine",
-      "https://github.com/google-ai-edge/LiteRT-LM",
-      "https://github.com/sooryathejas/METATRON",
-      "https://github.com/luyao618/Claude-Code-Source-Study",
-      "https://github.com/PrathamLearnsToCode/paper2code",
-      "https://github.com/karpathy/KarpathyTalk",
-      "https://github.com/rasbt/mini-coding-agent"
-    ]
-  },
   "2026-04-09": {
     "papers": [
       "https://arxiv.org/abs/2604.04734",
@@ -965,6 +931,37 @@
       "https://github.com/decolua/9router",
       "https://github.com/Blaizzy/mlx-vlm",
       "https://github.com/z-lab/dflash"
+    ]
+  },
+  "2026-05-09": {
+    "papers": [
+      "https://arxiv.org/abs/2605.06663",
+      "https://arxiv.org/abs/2605.06627",
+      "https://arxiv.org/abs/2605.06642",
+      "https://arxiv.org/abs/2605.06477",
+      "https://arxiv.org/abs/2605.01640",
+      "https://arxiv.org/abs/2605.04604",
+      "https://arxiv.org/abs/2605.05242",
+      "https://arxiv.org/abs/2605.04045",
+      "https://arxiv.org/abs/2605.05758",
+      "https://arxiv.org/abs/2605.04330"
+    ],
+    "blogs": [
+      "https://moq.dev/blog/webrtc-is-the-problem/",
+      "https://openrouter.ai/announcements/gpt55-cost-analysis",
+      "https://www.anthropic.com/research/teaching-claude-why",
+      "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+      "https://github.com/regent-vcs/re_gent",
+      "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "https://joel.place/blog/path-not-taken/",
+      "https://dev.to/aws/i-built-my-mom-an-ai-recipe-helper-for-mothers-day-2hc5"
+    ],
+    "repos": [
+      "https://github.com/PaddlePaddle/PaddleOCR",
+      "https://github.com/lobehub/lobehub",
+      "https://github.com/anthropics/claude-plugins-official",
+      "https://github.com/vllm-project/vllm-ascend",
+      "https://github.com/awslabs/aidlc-workflows"
     ]
   }
 }

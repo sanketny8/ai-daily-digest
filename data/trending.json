@@ -1,140 +1,133 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "papers": [
     {
-      "title": "Balanced Aggregation: Understanding and Fixing Aggregation Bias in GRPO",
-      "url": "https://arxiv.org/abs/2605.04077",
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) has become a central paradigm for improving reasoning and code generation in large language models, and GRPO-style training is widely adopted for "
+      "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "https://arxiv.org/abs/2605.06663",
+      "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know"
     },
     {
-      "title": "RemoteZero: Geospatial Reasoning with Zero Human Annotations",
-      "url": "https://arxiv.org/abs/2605.04451",
-      "summary": "Geospatial reasoning requires models to resolve complex spatial semantics and user intent into precise target locations for Earth observation. Recent progress has liberated the reasoning path from man"
+      "title": "PianoCoRe: Combined and Refined Piano MIDI Dataset",
+      "url": "https://arxiv.org/abs/2605.06627",
+      "summary": "Symbolic music datasets with matched scores and performances are essential for many music information retrieval (MIR) tasks. Yet, existing resources often cover a narrow range of composers, lack perfo"
     },
     {
-      "title": "When to Trust Imagination: Adaptive Action Execution for World Action Models",
-      "url": "https://arxiv.org/abs/2605.06222",
-      "summary": "World Action Models (WAMs) have recently emerged as a promising paradigm for robotic manipulation by jointly predicting future visual observations and future actions. However, current WAMs typically e"
+      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
+      "url": "https://arxiv.org/abs/2605.06642",
+      "summary": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, wh"
     },
     {
-      "title": "EDU-CIRCUIT-HW: Evaluating Multimodal Large Language Models on Real-World University-Level STEM Student Handwritten Solutions",
-      "url": "https://arxiv.org/abs/2602.00095",
-      "summary": "Multimodal Large Language Models (MLLMs) hold significant promise for revolutionizing traditional education and reducing teachers' workload. However, accurately interpreting unconstrained STEM student"
+      "title": "GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs",
+      "url": "https://arxiv.org/abs/2605.06477",
+      "summary": "We address the challenge of knowledge composition in Vision-Language Models (VLMs), where accumulating expertise across multiple domains or tasks typically leads to catastrophic forgetting. We introdu"
     },
     {
-      "title": "Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study",
-      "url": "https://arxiv.org/abs/2605.06643",
-      "summary": "Despite the growing popularity of Multimodal Domain Generalization (MMDG) for enhancing model robustness, it remains unclear whether reported performance gains reflect genuine algorithmic progress or "
+      "title": "Prescriptive Scaling Laws for Data Constrained Training",
+      "url": "https://arxiv.org/abs/2605.01640",
+      "summary": "Training compute is increasingly outpacing the availability of high-quality data. This shifts the central challenge from optimal compute allocation to extracting maximum value from limited data. The w"
     },
     {
-      "title": "Continuous-Time Distribution Matching for Few-Step Diffusion Distillation",
-      "url": "https://arxiv.org/abs/2605.06376",
-      "summary": "Step distillation has become a leading technique for accelerating diffusion models, among which Distribution Matching Distillation (DMD) and Consistency Distillation are two representative paradigms. "
+      "title": "Generative Quantum-inspired Kolmogorov-Arnold Eigensolver",
+      "url": "https://arxiv.org/abs/2605.04604",
+      "summary": "High-performance computing (HPC) is increasingly important for scalable quantum chemistry workflows that couple classical generative models, quantum circuit simulation, and selected configuration inte"
     },
     {
-      "title": "A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping",
-      "url": "https://arxiv.org/abs/2605.06200",
-      "summary": "Reinforcement learning for agentic large language models (LLMs) typically relies on a sparse, trajectory-level outcome reward, making it difficult to evaluate the contribution of individual tool-calls"
+      "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction",
+      "url": "https://arxiv.org/abs/2605.05242",
+      "summary": "Modern retrieval systems, whether lexical or semantic, expose a corpus through a fixed similarity interface that compresses access into a single top-k retrieval step before reasoning. This abstraction"
     },
     {
-      "title": "SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation",
-      "url": "https://arxiv.org/abs/2605.06356",
-      "summary": "High-resolution image-to-video (I2V) generation aims to synthesize realistic temporal dynamics while preserving fine-grained appearance details of the input image. At 2K resolution, it becomes extreme"
+      "title": "Audio-Visual Intelligence in Large Foundation Models",
+      "url": "https://arxiv.org/abs/2605.04045",
+      "summary": "Audio-Visual Intelligence (AVI) has emerged as a central frontier in artificial intelligence, bridging auditory and visual modalities to enable machines that can perceive, generate, and interact in th"
     },
     {
-      "title": "Recovering Hidden Reward in Diffusion-Based Policies",
-      "url": "https://arxiv.org/abs/2605.00623",
-      "summary": "This paper introduces EnergyFlow, a framework that unifies generative action modeling with inverse reinforcement learning by parameterizing a scalar energy function whose gradient is the denoising fie"
+      "title": "BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models",
+      "url": "https://arxiv.org/abs/2605.05758",
+      "summary": "Despite the success of large language models (LLMs) on general-purpose tasks, their performance in highly specialized domains such as biomedicine remains unsatisfactory. A key limitation is the inabil"
     },
     {
-      "title": "TabEmbed: Benchmarking and Learning Generalist Embeddings for Tabular Understanding",
-      "url": "https://arxiv.org/abs/2605.04962",
-      "summary": "Foundation models have established unified representations for natural language processing, yet this paradigm remains largely unexplored for tabular data. Existing methods face fundamental limitations"
+      "title": "The Scaling Properties of Implicit Deductive Reasoning in Transformers",
+      "url": "https://arxiv.org/abs/2605.04330",
+      "summary": "We investigate the scaling properties of implicit deductive reasoning over Horn clauses in depth-bounded Transformers. By systematically decorrelating provability from spurious features and enforcing "
     }
   ],
   "blog_posts": [
     {
-      "title": "Agents need control flow, not more prompts",
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "author": "bsuh.bearblog.dev"
+      "title": "OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "author": "moq.dev"
     },
     {
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "author": "deepmind.google"
+      "title": "GPT-5.5 Price Increase: What It Costs",
+      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+      "author": "openrouter.ai"
     },
     {
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "title": "Teaching Claude Why",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
       "author": "anthropic.com"
     },
     {
-      "title": "ProgramBench: Can language models rebuild programs from scratch?",
-      "url": "https://arxiv.org/abs/2605.03546",
-      "author": "arxiv.org"
+      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+      "author": "ivanpleshkov.dev"
     },
     {
-      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "url": "https://unsloth.ai/blog/nvidia-collab",
-      "author": "unsloth.ai"
+      "title": "Show HN: Git for AI Agents",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "author": "github.com"
     },
     {
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "url": "https://ahk.cardor.dev",
-      "author": "ahk.cardor.dev"
+      "title": "Can LLMs model real-world systems in TLA+?",
+      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "author": "sigops.org"
     },
     {
-      "title": "Open weights are quietly closing up - and that's a problem",
-      "url": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/",
-      "author": "martinald"
+      "title": "A Path Not Taken for OxCaml",
+      "url": "https://joel.place/blog/path-not-taken/",
+      "author": "henrytill"
     },
     {
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "url": "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha",
-      "author": "Jess Lee"
+      "title": "I Built My Mom an AI Recipe Helper for Mother's Day",
+      "url": "https://dev.to/aws/i-built-my-mom-an-ai-recipe-helper-for-mothers-day-2hc5",
+      "author": "Ifeanyi O."
     }
   ],
   "repos": [
     {
-      "name": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "stars": 29713,
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars": 77448,
       "language": "Python"
     },
     {
-      "name": "xming521/WeClone",
-      "url": "https://github.com/xming521/WeClone",
-      "description": "🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分",
-      "stars": 17824,
+      "name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo",
+      "stars": 76591,
+      "language": "TypeScript"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 18919,
       "language": "Python"
     },
     {
-      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "stars": 7551,
+      "name": "vllm-project/vllm-ascend",
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "description": "Community maintained hardware plugin for vLLM on Ascend",
+      "stars": 2043,
       "language": "Python"
     },
     {
-      "name": "decolua/9router",
-      "url": "https://github.com/decolua/9router",
-      "description": "🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "stars": 4751,
-      "language": "JavaScript"
-    },
-    {
-      "name": "Blaizzy/mlx-vlm",
-      "url": "https://github.com/Blaizzy/mlx-vlm",
-      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-      "stars": 4665,
-      "language": "Python"
-    },
-    {
-      "name": "z-lab/dflash",
-      "url": "https://github.com/z-lab/dflash",
-      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
-      "stars": 3563,
+      "name": "awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "stars": 1815,
       "language": "Python"
     }
   ],
