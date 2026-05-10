@@ -1,31 +1,4 @@
 {
-  "2026-04-09": {
-    "papers": [
-      "https://arxiv.org/abs/2604.04734",
-      "https://arxiv.org/abs/2603.26657",
-      "https://arxiv.org/abs/2603.25111",
-      "https://arxiv.org/abs/2604.00698",
-      "https://arxiv.org/abs/2604.06757",
-      "https://arxiv.org/abs/2604.07350",
-      "https://arxiv.org/abs/2604.06912",
-      "https://arxiv.org/abs/2604.04746",
-      "https://arxiv.org/abs/2604.06427",
-      "https://arxiv.org/abs/2604.07340"
-    ],
-    "blogs": [
-      "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-      "https://claude.com/blog/claude-managed-agents",
-      "https://dev.to/copilotkit/aimock-one-mock-server-for-your-entire-ai-stack-1jhp",
-      "https://github.com/onesuper/tui-use"
-    ],
-    "repos": [
-      "https://github.com/unslothai/unsloth",
-      "https://github.com/mem0ai/mem0",
-      "https://github.com/HKUDS/AI-Trader",
-      "https://github.com/forrestchang/andrej-karpathy-skills",
-      "https://github.com/atilaahmettaner/tradingview-mcp"
-    ]
-  },
   "2026-04-10": {
     "papers": [
       "https://arxiv.org/abs/2604.08064",
@@ -962,6 +935,31 @@
       "https://github.com/anthropics/claude-plugins-official",
       "https://github.com/vllm-project/vllm-ascend",
       "https://github.com/awslabs/aidlc-workflows"
+    ]
+  },
+  "2026-05-10": {
+    "papers": [
+      "http://arxiv.org/abs/2605.06667v1",
+      "http://arxiv.org/abs/2605.06665v1",
+      "http://arxiv.org/abs/2605.06664v1",
+      "http://arxiv.org/abs/2605.06663v1",
+      "http://arxiv.org/abs/2605.06660v1",
+      "http://arxiv.org/abs/2605.06656v1",
+      "http://arxiv.org/abs/2605.06654v1",
+      "http://arxiv.org/abs/2605.06652v1",
+      "http://arxiv.org/abs/2605.06651v1",
+      "http://arxiv.org/abs/2605.06650v1"
+    ],
+    "blogs": [
+      "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "https://mojolang.org/releases/v1.0.0b1",
+      "https://wil.to/posts/googles-prompt-api/",
+      "https://medium.com/@sakti.bagchi/the-builders-toolkit-ai-skills-every-developer-needs-in-2026-84d4f0fb5936"
+    ],
+    "repos": [
+      "https://github.com/hesreallyhim/awesome-claude-code",
+      "https://github.com/bytedance/UI-TARS-desktop",
+      "https://github.com/anthropics/claude-agent-sdk-python"
     ]
   }
 }

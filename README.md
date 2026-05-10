@@ -10,6 +10,34 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-10</strong></summary>
+
+#### Papers
+1. **[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation](http://arxiv.org/abs/2605.06667v1)** — This paper presents a method for generating videos with precise control over actor movements and camera angles.
+2. **[UniPool: A Globally Shared Expert Pool for Mixture-of-Experts](http://arxiv.org/abs/2605.06665v1)** — Proposes a new architecture for Mixture-of-Experts that enhances model efficiency and scalability.
+3. **[BAMI: Training-Free Bias Mitigation in GUI Grounding](http://arxiv.org/abs/2605.06664v1)** — Introduces a novel approach to reduce bias in GUI agents without requiring extensive training.
+4. **[EMO: Pretraining Mixture of Experts for Emergent Modularity](http://arxiv.org/abs/2605.06663v1)** — Discusses a modular approach to deploying large language models, optimizing for specific capabilities.
+5. **[Verifier-Backed Hard Problem Generation for Mathematical Reasoning](http://arxiv.org/abs/2605.06660v1)** — Addresses the challenge of generating valid and novel mathematical problems using language models.
+6. **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](http://arxiv.org/abs/2605.06656v1)** — Analyzes the limitations of current LLM rankings based on human feedback across multiple languages.
+7. **[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less](http://arxiv.org/abs/2605.06654v1)** — Explores the impact of using the same optimizer during pretraining and finetuning on model retention.
+8. **[When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels](http://arxiv.org/abs/2605.06652v1)** — Proposes a framework for assessing language model safety in the absence of established benchmarks.
+9. **[AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](http://arxiv.org/abs/2605.06651v1)** — Introduces an AI tool designed to assist mathematicians in their research endeavors.
+10. **[Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients](http://arxiv.org/abs/2605.06650v1)** — Investigates a new reinforcement learning method that focuses on positive outcomes for improved reasoning.
+
+#### Blog Posts
+1. **[Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)** by blog.google
+2. **[Mojo v1.0.0b1](https://mojolang.org/releases/v1.0.0b1)** by jado
+3. **[Google’s Prompt API](https://wil.to/posts/googles-prompt-api/)** by outervale
+4. **[The Builder’s Toolkit: AI Skills Every Developer Needs in 2026](https://medium.com/@sakti.bagchi/the-builders-toolkit-ai-skills-every-developer-needs-in-2026-84d4f0fb5936)** by Sakti Bagchi
+
+#### Trending Repos
+1. **[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** — A curated list of skills and plugins for Claude Code. ⭐ 43186
+2. **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — Open-source multimodal AI agent stack for connecting AI models and infrastructure. ⭐ 31545
+3. **[anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python)** — SDK for integrating Claude agents in Python. ⭐ 6773
+
+</details>
+
+<details>
 <summary><strong>2026-05-09</strong></summary>
 
 #### Papers

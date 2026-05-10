@@ -1,133 +1,99 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "papers": [
     {
+      "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "url": "http://arxiv.org/abs/2605.06667v1",
+      "summary": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m"
+    },
+    {
+      "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2605.06665v1",
+      "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin"
+    },
+    {
+      "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
+      "url": "http://arxiv.org/abs/2605.06664v1",
+      "summary": "GUI grounding is a critical capability for enabling GUI agents to execute tasks such as clicking and dragging. However, in complex scenarios like the ScreenSpot-Pro benchmark, existing models often su"
+    },
+    {
       "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
-      "url": "https://arxiv.org/abs/2605.06663",
+      "url": "http://arxiv.org/abs/2605.06663v1",
       "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know"
     },
     {
-      "title": "PianoCoRe: Combined and Refined Piano MIDI Dataset",
-      "url": "https://arxiv.org/abs/2605.06627",
-      "summary": "Symbolic music datasets with matched scores and performances are essential for many music information retrieval (MIR) tasks. Yet, existing resources often cover a narrow range of composers, lack perfo"
+      "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+      "url": "http://arxiv.org/abs/2605.06660v1",
+      "summary": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon"
     },
     {
-      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
-      "url": "https://arxiv.org/abs/2605.06642",
-      "summary": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, wh"
+      "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "url": "http://arxiv.org/abs/2605.06656v1",
+      "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr"
     },
     {
-      "title": "GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs",
-      "url": "https://arxiv.org/abs/2605.06477",
-      "summary": "We address the challenge of knowledge composition in Vision-Language Models (VLMs), where accumulating expertise across multiple domains or tasks typically leads to catastrophic forgetting. We introdu"
+      "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "url": "http://arxiv.org/abs/2605.06654v1",
+      "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti"
     },
     {
-      "title": "Prescriptive Scaling Laws for Data Constrained Training",
-      "url": "https://arxiv.org/abs/2605.01640",
-      "summary": "Training compute is increasingly outpacing the availability of high-quality data. This shifts the central challenge from optimal compute allocation to extracting maximum value from limited data. The w"
+      "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "url": "http://arxiv.org/abs/2605.06652v1",
+      "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless"
     },
     {
-      "title": "Generative Quantum-inspired Kolmogorov-Arnold Eigensolver",
-      "url": "https://arxiv.org/abs/2605.04604",
-      "summary": "High-performance computing (HPC) is increasingly important for scalable quantum chemistry workflows that couple classical generative models, quantum circuit simulation, and selected configuration inte"
+      "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "url": "http://arxiv.org/abs/2605.06651v1",
+      "summary": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support"
     },
     {
-      "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction",
-      "url": "https://arxiv.org/abs/2605.05242",
-      "summary": "Modern retrieval systems, whether lexical or semantic, expose a corpus through a fixed similarity interface that compresses access into a single top-k retrieval step before reasoning. This abstraction"
-    },
-    {
-      "title": "Audio-Visual Intelligence in Large Foundation Models",
-      "url": "https://arxiv.org/abs/2605.04045",
-      "summary": "Audio-Visual Intelligence (AVI) has emerged as a central frontier in artificial intelligence, bridging auditory and visual modalities to enable machines that can perceive, generate, and interact in th"
-    },
-    {
-      "title": "BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models",
-      "url": "https://arxiv.org/abs/2605.05758",
-      "summary": "Despite the success of large language models (LLMs) on general-purpose tasks, their performance in highly specialized domains such as biomedicine remains unsatisfactory. A key limitation is the inabil"
-    },
-    {
-      "title": "The Scaling Properties of Implicit Deductive Reasoning in Transformers",
-      "url": "https://arxiv.org/abs/2605.04330",
-      "summary": "We investigate the scaling properties of implicit deductive reasoning over Horn clauses in depth-bounded Transformers. By systematically decorrelating provability from spurious features and enforcing "
+      "title": "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients",
+      "url": "http://arxiv.org/abs/2605.06650v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The commu"
     }
   ],
   "blog_posts": [
     {
-      "title": "OpenAI's WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "author": "moq.dev"
+      "title": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "author": "blog.google"
     },
     {
-      "title": "GPT-5.5 Price Increase: What It Costs",
-      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-      "author": "openrouter.ai"
+      "title": "Mojo v1.0.0b1",
+      "url": "https://mojolang.org/releases/v1.0.0b1",
+      "author": "jado"
     },
     {
-      "title": "Teaching Claude Why",
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "author": "anthropic.com"
+      "title": "Google’s Prompt API",
+      "url": "https://wil.to/posts/googles-prompt-api/",
+      "author": "outervale"
     },
     {
-      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-      "author": "ivanpleshkov.dev"
-    },
-    {
-      "title": "Show HN: Git for AI Agents",
-      "url": "https://github.com/regent-vcs/re_gent",
-      "author": "github.com"
-    },
-    {
-      "title": "Can LLMs model real-world systems in TLA+?",
-      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-      "author": "sigops.org"
-    },
-    {
-      "title": "A Path Not Taken for OxCaml",
-      "url": "https://joel.place/blog/path-not-taken/",
-      "author": "henrytill"
-    },
-    {
-      "title": "I Built My Mom an AI Recipe Helper for Mother's Day",
-      "url": "https://dev.to/aws/i-built-my-mom-an-ai-recipe-helper-for-mothers-day-2hc5",
-      "author": "Ifeanyi O."
+      "title": "The Builder’s Toolkit: AI Skills Every Developer Needs in 2026",
+      "url": "https://medium.com/@sakti.bagchi/the-builders-toolkit-ai-skills-every-developer-needs-in-2026-84d4f0fb5936",
+      "author": "Sakti Bagchi"
     }
   ],
   "repos": [
     {
-      "name": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": 77448,
+      "name": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+      "stars": 43186,
       "language": "Python"
     },
     {
-      "name": "lobehub/lobehub",
-      "url": "https://github.com/lobehub/lobehub",
-      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo",
-      "stars": 76591,
+      "name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars": 31545,
       "language": "TypeScript"
     },
     {
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 18919,
-      "language": "Python"
-    },
-    {
-      "name": "vllm-project/vllm-ascend",
-      "url": "https://github.com/vllm-project/vllm-ascend",
-      "description": "Community maintained hardware plugin for vLLM on Ascend",
-      "stars": 2043,
-      "language": "Python"
-    },
-    {
-      "name": "awslabs/aidlc-workflows",
-      "url": "https://github.com/awslabs/aidlc-workflows",
-      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-      "stars": 1815,
+      "name": "anthropics/claude-agent-sdk-python",
+      "url": "https://github.com/anthropics/claude-agent-sdk-python",
+      "description": "",
+      "stars": 6773,
       "language": "Python"
     }
   ],
