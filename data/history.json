@@ -1,36 +1,4 @@
 {
-  "2026-04-10": {
-    "papers": [
-      "https://arxiv.org/abs/2604.08064",
-      "https://arxiv.org/abs/2604.07427",
-      "https://arxiv.org/abs/2604.06938",
-      "https://arxiv.org/abs/2604.08168",
-      "https://arxiv.org/abs/2604.06628",
-      "https://arxiv.org/abs/2604.08523",
-      "https://arxiv.org/abs/2604.07966",
-      "https://arxiv.org/abs/2604.08544",
-      "https://arxiv.org/abs/2604.07776",
-      "https://arxiv.org/abs/2603.27070"
-    ],
-    "blogs": [
-      "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-      "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
-      "https://cssstudio.ai",
-      "https://publicdomainreview.org/collection/claude-monet-caricatures/",
-      "https://dev.to/maria_from_mlh/unlocking-casual-fun-ai-powered-vibe-coding-for-quick-niche-apps-ml5",
-      "https://pbement.com/posts/lie_brackets/",
-      "https://dev.to/nfrankel/experimenting-with-ai-subagents-pc7",
-      "https://pvp-ai.russell-harper.com"
-    ],
-    "repos": [
-      "https://github.com/open-webui/open-webui",
-      "https://github.com/apache/airflow",
-      "https://github.com/coleam00/Archon",
-      "https://github.com/opendataloader-project/opendataloader-pdf",
-      "https://github.com/huggingface/skills",
-      "https://github.com/YishenTu/claudian"
-    ]
-  },
   "2026-04-11": {
     "papers": [
       "https://arxiv.org/abs/2604.07338",
@@ -960,6 +928,32 @@
       "https://github.com/hesreallyhim/awesome-claude-code",
       "https://github.com/bytedance/UI-TARS-desktop",
       "https://github.com/anthropics/claude-agent-sdk-python"
+    ]
+  },
+  "2026-05-11": {
+    "papers": [
+      "https://arxiv.org/abs/2605.00425",
+      "https://arxiv.org/abs/2605.08043",
+      "https://arxiv.org/abs/2605.07243",
+      "https://arxiv.org/abs/2605.07748",
+      "https://arxiv.org/abs/2605.05136",
+      "https://arxiv.org/abs/2605.05781",
+      "https://arxiv.org/abs/2605.07177",
+      "https://arxiv.org/abs/2605.07825",
+      "https://arxiv.org/abs/2605.08063",
+      "https://arxiv.org/abs/2605.07915"
+    ],
+    "blogs": [
+      "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "https://arxiv.org/abs/2605.05419",
+      "https://medium.com/@tuanvietle/agent-skills-enterprise-ai-4427896100c1"
+    ],
+    "repos": [
+      "https://github.com/affaan-m/everything-claude-code",
+      "https://github.com/NousResearch/hermes-agent",
+      "https://github.com/HKUDS/AI-Trader",
+      "https://github.com/zai-org/GLM-OCR"
     ]
   }
 }

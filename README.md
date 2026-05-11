@@ -10,6 +10,35 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-11</strong></summary>
+
+#### Papers
+1. **[AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning](https://arxiv.org/abs/2605.00425)** — This paper explores how adaptive entropy modulation enhances multi-turn tasks in reinforcement learning for language models.
+2. **[SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation](https://arxiv.org/abs/2605.08043)** — It addresses challenges in text-to-image generation by introducing structured decomposition for better visual intent realization.
+3. **[SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting](https://arxiv.org/abs/2605.07243)** — This work presents a new method for accelerating LLM inference through improved speculative decoding techniques.
+4. **[TextLDM: Language Modeling with Continuous Latent Diffusion](https://arxiv.org/abs/2605.07748)** — The paper unifies visual generation across images and videos using a novel diffusion transformer architecture.
+5. **[CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization](https://arxiv.org/abs/2605.05136)** — It introduces a method to enhance domain generalization by learning robust representations under out-of-distribution shifts.
+6. **[HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents](https://arxiv.org/abs/2605.07177)** — This research proposes a more efficient approach for multimodal search agents to reduce redundant interactions.
+7. **[Anisotropic Modality Align](https://arxiv.org/abs/2605.07825)** — The paper tackles the limitations of training multimodal large language models due to the scarcity of high-quality paired data.
+8. **[Flow-OPD: On-Policy Distillation for Flow Matching Models](https://arxiv.org/abs/2605.08063)** — It addresses bottlenecks in text-to-image models by proposing on-policy distillation techniques for better multi-task alignment.
+9. **[Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping](http://arxiv.org/abs/2605.08075v1)** — This work presents a novel method for decoding imagined speech from brain recordings, overcoming dataset alignment challenges.
+10. **[Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning](http://arxiv.org/abs/2605.08061v1)** — The paper discusses a new approach to reinforcement learning that uses structured rewards for improved reasoning capabilities.
+
+#### Blog Posts
+1. **[Chrome's AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)** by theverge.com
+2. **[An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)** by jamesshore.com
+3. **[LLMorphism: When humans come to see themselves as language models](https://arxiv.org/abs/2605.05419)** by arxiv.org
+4. **[Agent Skills: The Cornerstone of Composable Enterprise AI](https://medium.com/@tuanvietle/agent-skills-enterprise-ai-4427896100c1)** by Tuan Le
+
+#### Trending Repos
+1. **[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)** — The agent harness performance optimization system for various coding platforms. ⭐ 178572
+2. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you. ⭐ 142974
+3. **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** — 100% Fully-Automated Agent-Native Trading. ⭐ 15761
+4. **[zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)** — GLM-OCR: Accurate × Fast × Comprehensive. ⭐ 6449
+
+</details>
+
+<details>
 <summary><strong>2026-05-10</strong></summary>
 
 #### Papers
