@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-12</strong></summary>
+
+#### Papers
+1. **[Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression](https://arxiv.org/abs/2605.01402)** — This paper addresses challenges in numerical regression for MLLMs under long-tailed distributions using reinforcement learning.
+2. **[FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration](https://arxiv.org/abs/2605.08520)** — It explores reducing the wall-clock cost of LLM-based evolution through asynchronous orchestration techniques.
+3. **[Dystruct: Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference](https://arxiv.org/abs/2605.09820)** — This research presents a new decoding method for diffusion language models using Bayesian inference to enhance parallel processing.
+4. **[CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models](https://arxiv.org/abs/2605.08735)** — The paper introduces a collaborative framework for video reasoning that utilizes advanced vision-language models.
+5. **[SEIF: Self-Evolving Reinforcement Learning for Instruction Following](https://arxiv.org/abs/2605.07465)** — It discusses a self-evolving approach to improve LLMs' instruction-following capabilities without extensive external data.
+6. **[SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning](https://arxiv.org/abs/2605.09423)** — This paper presents a system for generating interactive environments to enhance embodied agent learning.
+7. **[Qwen-Image-2.0 Technical Report](https://arxiv.org/abs/2605.10730)** — It details a new image generation model that combines high-fidelity generation with precise editing capabilities.
+8. **[MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation](https://arxiv.org/abs/2604.23789)** — The study introduces a dataset to advance multi-shot video generation, crucial for cinematic storytelling.
+9. **[Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning](https://arxiv.org/abs/2605.10923)** — This paper focuses on managing skills dynamically to enhance LLM agents' problem-solving capabilities.
+10. **[NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation](https://arxiv.org/abs/2605.10813)** — It explores automating the research process through co-evolving systems tailored to individual researchers' needs.
+
+#### Blog Posts
+1. **[Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html)** by cocoawithlove.com
+2. **[Interaction Models](https://thinkingmachines.ai/blog/interaction-models/)** by thinkingmachines.ai
+3. **[Interfaze: A new model architecture built for high accuracy at scale](https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale)** by interfaze.ai
+4. **[How to Secure AI Agents in Production: What MCP Gets Right (and What It Doesn’t)](https://dev.to/hadil/how-to-secure-ai-agents-in-production-what-mcp-gets-right-and-what-it-doesnt-1d12)** by Hadil Ben Abdallah
+5. **[The missing layer in prompt engineering: thinking quality](https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j)** by Julien Avezou
+
+#### Trending Repos
+1. **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** — Implement a ChatGPT-like LLM in PyTorch from scratch, step by step. ⭐ 93152
+2. **[yikart/AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn! ⭐ 11061
+3. **[huggingface/skills](https://github.com/huggingface/skills)** — Give your agents the power of the Hugging Face ecosystem. ⭐ 10466
+4. **[bytedance/UI-TARS](https://github.com/bytedance/UI-TARS)** — Pioneering Automated GUI Interaction with Native Agents. ⭐ 10450
+5. **[wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)** — Lightweight Markdown-only skills for autonomous ML research. ⭐ 8897
+6. **[millionco/react-doctor](https://github.com/millionco/react-doctor)** — Your agent writes bad React. This catches it. ⭐ 8201
+
+</details>
+
+<details>
 <summary><strong>2026-05-11</strong></summary>
 
 #### Papers

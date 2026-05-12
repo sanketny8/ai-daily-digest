@@ -1,107 +1,136 @@
 {
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "papers": [
     {
-      "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2605.00425",
-      "summary": "Reinforcement learning (RL) has substantially improved the ability of large language model (LLM) agents to interact with environments and solve multi-turn tasks. However, effective agentic RL remains "
+      "title": "Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression",
+      "url": "https://arxiv.org/abs/2605.01402",
+      "summary": "Multimodal large language models (MLLMs) struggle with numerical regression under long-tailed target distributions. Token-level supervised fine-tuning (SFT) and point-wise regression rewards bias lear"
     },
     {
-      "title": "SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation",
-      "url": "https://arxiv.org/abs/2605.08043",
-      "summary": "While text-to-image models have made strong progress in visual fidelity, faithfully realizing complex visual intents remains challenging because many requirements must be tracked across grounding, gen"
+      "title": "FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration",
+      "url": "https://arxiv.org/abs/2605.08520",
+      "summary": "LLM-based evolution has emerged as a promising way to improve agents by refining non-parametric artifacts, but its wall-clock cost remains a major bottleneck. We identify that this cost comes from syn"
     },
     {
-      "title": "SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting",
-      "url": "https://arxiv.org/abs/2605.07243",
-      "summary": "Speculative decoding accelerates LLM inference by drafting a tree of candidate continuations and verifying it in one target forward. Existing drafters fall into two camps with opposite weaknesses. Aut"
+      "title": "Dystruct: Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference",
+      "url": "https://arxiv.org/abs/2605.09820",
+      "summary": "Diffusion language models (DLMs) have recently emerged as a promising alternative to autoregressive models, primarily due to their ability to enable parallel decoding. Despite this advantage, most exi"
     },
     {
-      "title": "TextLDM: Language Modeling with Continuous Latent Diffusion",
-      "url": "https://arxiv.org/abs/2605.07748",
-      "summary": "Diffusion Transformers (DiT) trained with flow matching in a VAE latent space have unified visual generation across images and videos. A natural next step toward a single architecture for both generat"
+      "title": "CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models",
+      "url": "https://arxiv.org/abs/2605.08735",
+      "summary": "Recent \"Thinking with Video\" approaches use Video Generation Models (VGMs) for visual reasoning by producing temporally coherent Chain-of-Frames as reasoning artifacts. Even strong VGMs, however, exhi"
     },
     {
-      "title": "CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization",
-      "url": "https://arxiv.org/abs/2605.05136",
-      "summary": "Domain Generalization (DG) aims to learn representations that remain robust under out-of-distribution (OOD) shifts and generalize effectively to unseen target domains. While recent invariant learning "
+      "title": "SEIF: Self-Evolving Reinforcement Learning for Instruction Following",
+      "url": "https://arxiv.org/abs/2605.07465",
+      "summary": "Instruction following is a fundamental capability of large language models (LLMs), yet continuously improving this capability remains challenging. Existing methods typically rely either on costly exte"
     },
     {
-      "title": "Steering Visual Generation in Unified Multimodal Models with Understanding Supervision",
-      "url": "https://arxiv.org/abs/2605.05781",
-      "summary": "Unified multimodal models are envisioned to bridge the gap between understanding and generation. Yet, to achieve competitive performance, state-of-the-art models adopt largely decoupled understanding "
+      "title": "SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning",
+      "url": "https://arxiv.org/abs/2605.09423",
+      "summary": "LLM/VLM-based digital agents have advanced rapidly thanks to scalable sandboxes for coding, web navigation, and computer use, which provide rich interactive training grounds. In contrast, embodied age"
     },
     {
-      "title": "HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents",
-      "url": "https://arxiv.org/abs/2605.07177",
-      "summary": "Existing multimodal search agents process target entities sequentially, issuing one tool call per entity and accumulating redundant interaction rounds whenever a query decomposes into independent sub-"
+      "title": "Qwen-Image-2.0 Technical Report",
+      "url": "https://arxiv.org/abs/2605.10730",
+      "summary": "We present Qwen-Image-2.0, an omni-capable image generation foundation model that unifies high-fidelity generation and precise image editing within a single framework. Despite recent progress, existin"
     },
     {
-      "title": "Anisotropic Modality Align",
-      "url": "https://arxiv.org/abs/2605.07825",
-      "summary": "Training multimodal large language models has long been limited by the scarcity of high-quality paired multimodal data. Recent studies show that the shared representation space of pretrained multimoda"
+      "title": "MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation",
+      "url": "https://arxiv.org/abs/2604.23789",
+      "summary": "While video foundation models excel at single-shot generation, real-world cinematic storytelling inherently relies on complex multi-shot sequencing. Further progress is constrained by the absence of d"
     },
     {
-      "title": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
-      "url": "https://arxiv.org/abs/2605.08063",
-      "summary": "Existing Flow Matching (FM) text-to-image models suffer from two critical bottlenecks under multi-task alignment: the reward sparsity induced by scalar-valued rewards, and the gradient interference ar"
+      "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.10923",
+      "summary": "Large language model agents increasingly rely on external skills to solve complex tasks, where skills act as modular units that extend their capabilities beyond what parametric memory alone supports. "
     },
     {
-      "title": "What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion",
-      "url": "https://arxiv.org/abs/2605.07915",
-      "summary": "Tokenizers are a crucial component of latent diffusion models, as they define the latent space in which diffusion models operate. However, existing tokenizers are primarily designed to improve reconst"
+      "title": "NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation",
+      "url": "https://arxiv.org/abs/2605.10813",
+      "summary": "LLM-powered multi-agent systems can now automate the full research pipeline from ideation to paper writing, but a fundamental question remains: automation for whom? Researchers operate under different"
     }
   ],
   "blog_posts": [
     {
-      "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-      "author": "theverge.com"
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "author": "cocoawithlove.com"
     },
     {
-      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "author": "jamesshore.com"
+      "title": "Interaction Models",
+      "url": "https://thinkingmachines.ai/blog/interaction-models/",
+      "author": "thinkingmachines.ai"
     },
     {
-      "title": "LLMorphism: When humans come to see themselves as language models",
-      "url": "https://arxiv.org/abs/2605.05419",
-      "author": "arxiv.org"
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "author": "interfaze.ai"
     },
     {
-      "title": "Agent Skills: The Cornerstone of Composable Enterprise AI",
-      "url": "https://medium.com/@tuanvietle/agent-skills-enterprise-ai-4427896100c1",
-      "author": "Tuan Le"
+      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "url": "https://github.com/adamjgmiller/adamsreview",
+      "author": "github.com"
+    },
+    {
+      "title": "How to Secure AI Agents in Production: What MCP Gets Right (and What It Doesn’t)",
+      "url": "https://dev.to/hadil/how-to-secure-ai-agents-in-production-what-mcp-gets-right-and-what-it-doesnt-1d12",
+      "author": "Hadil Ben Abdallah"
+    },
+    {
+      "title": "The missing layer in prompt engineering: thinking quality",
+      "url": "https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j",
+      "author": "Julien Avezou"
+    },
+    {
+      "title": "Show HN: E2a – Open-source email gateway for AI agents",
+      "url": "https://github.com/Mnexa-AI/e2a",
+      "author": "github.com"
     }
   ],
   "repos": [
     {
-      "name": "affaan-m/everything-claude-code",
-      "url": "https://github.com/affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 178572,
-      "language": "JavaScript"
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "stars": 93152,
+      "language": "Jupyter Notebook"
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 142974,
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "stars": 11061,
+      "language": "TypeScript"
+    },
+    {
+      "name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "description": "Give your agents the power of the Hugging Face ecosystem",
+      "stars": 10466,
       "language": "Python"
     },
     {
-      "name": "HKUDS/AI-Trader",
-      "url": "https://github.com/HKUDS/AI-Trader",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "stars": 15761,
+      "name": "bytedance/UI-TARS",
+      "url": "https://github.com/bytedance/UI-TARS",
+      "description": "Pioneering Automated GUI Interaction with Native Agents",
+      "stars": 10450,
       "language": "Python"
     },
     {
-      "name": "zai-org/GLM-OCR",
-      "url": "https://github.com/zai-org/GLM-OCR",
-      "description": "GLM-OCR: Accurate × Fast × Comprehensive",
-      "stars": 6449,
+      "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi",
+      "stars": 8897,
       "language": "Python"
+    },
+    {
+      "name": "millionco/react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "stars": 8201,
+      "language": "TypeScript"
     }
   ],
   "tweets": []
