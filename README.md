@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-13</strong></summary>
+
+#### Papers
+1. **[L2P: Unlocking Latent Potential for Pixel Generation](https://arxiv.org/abs/2605.12013)** — This paper addresses the resource-intensive nature of training pixel diffusion models for visual generation.
+2. **[SeePhys Pro: Diagnosing Modality Transfer and Blind-Training Effects in Multimodal RLVR for Physics Reasoning](https://arxiv.org/abs/2605.09266)** — Introduces a benchmark to evaluate reasoning capabilities in multimodal reinforcement learning.
+3. **[MEME: Multi-entity & Evolving Memory Evaluation](https://arxiv.org/abs/2605.12477)** — Proposes a benchmark for evaluating LLM agents in persistent environments with evolving memory needs.
+4. **[Lite3R: A Model-Agnostic Framework for Efficient Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2605.11354)** — Discusses a framework for improving 3D reconstruction using transformer-based models.
+5. **[PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks](https://arxiv.org/abs/2605.10977)** — Proposes a watermarking method for LLM-generated text to enhance detection and responsible use.
+6. **[FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning](https://arxiv.org/abs/2605.09932)** — Addresses the challenges of effectively utilizing long input contexts in large language models.
+7. **[ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://arxiv.org/abs/2605.12481)** — Explores optimal action orchestration for computer use agents in hybrid action spaces.
+8. **[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](https://arxiv.org/abs/2605.12495)** — Introduces a framework for enhancing multimodal generation capabilities in unified models.
+9. **[World Model for Robot Learning: A Comprehensive Survey](https://arxiv.org/abs/2605.00080)** — Surveys the role of world models in robot learning, focusing on predictive representations.
+10. **[Learning, Fast and Slow: Towards LLMs That Adapt Continually](http://arxiv.org/abs/2605.12484v1)** — Discusses continual adaptation in LLMs without losing previously learned task-specific information.
+
+#### Blog Posts
+1. **[Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)** by github.com
+2. **[Show HN: Statewright – Visual state machines that make AI agents reliable](https://github.com/statewright/statewright)** by github.com
+3. **[Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)** by hypercubic.ai
+4. **[Launch HN: Voker (YC S24) – Analytics for AI Agents](https://voker.ai)** by voker.ai
+5. **[Open Vibe -- Ship your SaaS with AI. Without getting stuck.](https://dev.to/wasp/open-vibe-ship-your-saas-with-ai-without-getting-stuck-e2h)** by vincanger
+
+#### Trending Repos
+1. **[huggingface/transformers](https://github.com/huggingface/transformers)** — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models. ⭐ 160546
+2. **[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)** — 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming. ⭐ 67925
+3. **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** — #1 Persistent memory for AI coding agents based on real-world benchmarks. ⭐ 6174
+4. **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. Private, Simple and extremely powerful. ⭐ 3081
+5. **[zhangfengcdt/memoir](https://github.com/zhangfengcdt/memoir)** — Hierarchical Agent Memory with Git-Like Version Control. ⭐ 393
+
+</details>
+
+<details>
 <summary><strong>2026-05-12</strong></summary>
 
 #### Papers

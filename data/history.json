@@ -1,32 +1,4 @@
 {
-  "2026-04-12": {
-    "papers": [
-      "http://arxiv.org/abs/2604.08544v1",
-      "http://arxiv.org/abs/2604.08541v1",
-      "http://arxiv.org/abs/2604.08540v1",
-      "http://arxiv.org/abs/2604.08539v1",
-      "http://arxiv.org/abs/2604.08537v1",
-      "http://arxiv.org/abs/2604.08536v1",
-      "http://arxiv.org/abs/2604.08529v1",
-      "http://arxiv.org/abs/2604.08527v1",
-      "http://arxiv.org/abs/2604.08525v1"
-    ],
-    "blogs": [
-      "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "https://cirruslabs.org/",
-      "https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction",
-      "https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506",
-      "https://dev.to/rijultp/understanding-transformers-part-5-queries-keys-and-similarity-3o7k"
-    ],
-    "repos": [
-      "https://github.com/google-research/bert",
-      "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "https://github.com/Arindam200/awesome-ai-apps",
-      "https://github.com/alchaincyf/hermes-agent-orange-book",
-      "https://github.com/yizhiyanhua-ai/fireworks-tech-graph"
-    ]
-  },
   "2026-04-13": {
     "papers": [
       "https://arxiv.org/abs/2603.27490",
@@ -954,6 +926,34 @@
       "https://github.com/bytedance/UI-TARS",
       "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "https://github.com/millionco/react-doctor"
+    ]
+  },
+  "2026-05-13": {
+    "papers": [
+      "https://arxiv.org/abs/2605.12013",
+      "https://arxiv.org/abs/2605.09266",
+      "https://arxiv.org/abs/2605.12477",
+      "https://arxiv.org/abs/2605.11354",
+      "https://arxiv.org/abs/2605.10977",
+      "https://arxiv.org/abs/2605.09932",
+      "https://arxiv.org/abs/2605.12481",
+      "https://arxiv.org/abs/2605.12495",
+      "https://arxiv.org/abs/2605.08734",
+      "https://arxiv.org/abs/2605.00080"
+    ],
+    "blogs": [
+      "https://github.com/cactus-compute/needle",
+      "https://github.com/statewright/statewright",
+      "https://www.hypercubic.ai/hopper",
+      "https://voker.ai",
+      "https://dev.to/wasp/open-vibe-ship-your-saas-with-ai-without-getting-stuck-e2h"
+    ],
+    "repos": [
+      "https://github.com/huggingface/transformers",
+      "https://github.com/FoundationAgents/MetaGPT",
+      "https://github.com/rohitg00/agentmemory",
+      "https://github.com/tinyhumansai/openhuman",
+      "https://github.com/zhangfengcdt/memoir"
     ]
   }
 }

@@ -1,136 +1,119 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "papers": [
     {
-      "title": "Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression",
-      "url": "https://arxiv.org/abs/2605.01402",
-      "summary": "Multimodal large language models (MLLMs) struggle with numerical regression under long-tailed target distributions. Token-level supervised fine-tuning (SFT) and point-wise regression rewards bias lear"
+      "title": "L2P: Unlocking Latent Potential for Pixel Generation",
+      "url": "https://arxiv.org/abs/2605.12013",
+      "summary": "Pixel diffusion models have recently regained attention for visual generation. However, training advanced pixel-space models from scratch demands prohibitive computational and data resources. To addre"
     },
     {
-      "title": "FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration",
-      "url": "https://arxiv.org/abs/2605.08520",
-      "summary": "LLM-based evolution has emerged as a promising way to improve agents by refining non-parametric artifacts, but its wall-clock cost remains a major bottleneck. We identify that this cost comes from syn"
+      "title": "SeePhys Pro: Diagnosing Modality Transfer and Blind-Training Effects in Multimodal RLVR for Physics Reasoning",
+      "url": "https://arxiv.org/abs/2605.09266",
+      "summary": "We introduce SeePhys Pro, a fine-grained modality transfer benchmark that studies whether models preserve the same reasoning capability when critical information is progressively transferred from text"
     },
     {
-      "title": "Dystruct: Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference",
-      "url": "https://arxiv.org/abs/2605.09820",
-      "summary": "Diffusion language models (DLMs) have recently emerged as a promising alternative to autoregressive models, primarily due to their ability to enable parallel decoding. Despite this advantage, most exi"
+      "title": "MEME: Multi-entity & Evolving Memory Evaluation",
+      "url": "https://arxiv.org/abs/2605.12477",
+      "summary": "LLM-based agents increasingly operate in persistent environments where they must store, update, and reason over information across many sessions. While prior benchmarks evaluate only single-entity upd"
     },
     {
-      "title": "CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models",
-      "url": "https://arxiv.org/abs/2605.08735",
-      "summary": "Recent \"Thinking with Video\" approaches use Video Generation Models (VGMs) for visual reasoning by producing temporally coherent Chain-of-Frames as reasoning artifacts. Even strong VGMs, however, exhi"
+      "title": "Lite3R: A Model-Agnostic Framework for Efficient Feed-Forward 3D Reconstruction",
+      "url": "https://arxiv.org/abs/2605.11354",
+      "summary": "Transformer-based 3D reconstruction has emerged as a powerful paradigm for recovering geometry and appearance from multi-view observations, offering strong performance across challenging visual condit"
     },
     {
-      "title": "SEIF: Self-Evolving Reinforcement Learning for Instruction Following",
-      "url": "https://arxiv.org/abs/2605.07465",
-      "summary": "Instruction following is a fundamental capability of large language models (LLMs), yet continuously improving this capability remains challenging. Existing methods typically rely either on costly exte"
+      "title": "PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks",
+      "url": "https://arxiv.org/abs/2605.10977",
+      "summary": "Watermarking for large language models (LLMs) is a promising approach for detecting LLM-generated text and enabling responsible deployment. However, existing watermarking methods are often vulnerable "
     },
     {
-      "title": "SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning",
-      "url": "https://arxiv.org/abs/2605.09423",
-      "summary": "LLM/VLM-based digital agents have advanced rapidly thanks to scalable sandboxes for coding, web navigation, and computer use, which provide rich interactive training grounds. In contrast, embodied age"
+      "title": "FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning",
+      "url": "https://arxiv.org/abs/2605.09932",
+      "summary": "Large language models can now process increasingly long inputs, yet their ability to effectively use information spread across long contexts remains limited. We trace this gap to how attention budget "
     },
     {
-      "title": "Qwen-Image-2.0 Technical Report",
-      "url": "https://arxiv.org/abs/2605.10730",
-      "summary": "We present Qwen-Image-2.0, an omni-capable image generation foundation model that unifies high-fidelity generation and precise image editing within a single framework. Despite recent progress, existin"
+      "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents",
+      "url": "https://arxiv.org/abs/2605.12481",
+      "summary": "Computer Use Agents (CUAs) can act through both atomic GUI actions, such as click and type, and high-level tool calls, such as API-based file operations, but this hybrid action space often leaves them"
     },
     {
-      "title": "MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation",
-      "url": "https://arxiv.org/abs/2604.23789",
-      "summary": "While video foundation models excel at single-shot generation, real-world cinematic storytelling inherently relies on complex multi-shot sequencing. Further progress is constrained by the absence of d"
+      "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
+      "url": "https://arxiv.org/abs/2605.12495",
+      "summary": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabili"
     },
     {
-      "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2605.10923",
-      "summary": "Large language model agents increasingly rely on external skills to solve complex tasks, where skills act as modular units that extend their capabilities beyond what parametric memory alone supports. "
+      "title": "AdaPreLoRA: Adafactor Preconditioned Low-Rank Adaptation",
+      "url": "https://arxiv.org/abs/2605.08734",
+      "summary": "Low-Rank Adaptation (LoRA) reparameterizes a weight update as a product of two low-rank factors, but the Jacobian J_{G} of the generator mapping the factors to the weight matrix is rank-deficient, so "
     },
     {
-      "title": "NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation",
-      "url": "https://arxiv.org/abs/2605.10813",
-      "summary": "LLM-powered multi-agent systems can now automate the full research pipeline from ideation to paper writing, but a fundamental question remains: automation for whom? Researchers operate under different"
+      "title": "World Model for Robot Learning: A Comprehensive Survey",
+      "url": "https://arxiv.org/abs/2605.00080",
+      "summary": "World models, which are predictive representations of how environments evolve under actions, have become a central component of robot learning. They support policy learning, planning, simulation, eval"
     }
   ],
   "blog_posts": [
     {
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "author": "cocoawithlove.com"
-    },
-    {
-      "title": "Interaction Models",
-      "url": "https://thinkingmachines.ai/blog/interaction-models/",
-      "author": "thinkingmachines.ai"
-    },
-    {
-      "title": "Interfaze: A new model architecture built for high accuracy at scale",
-      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "author": "interfaze.ai"
-    },
-    {
-      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-      "url": "https://github.com/adamjgmiller/adamsreview",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
       "author": "github.com"
     },
     {
-      "title": "How to Secure AI Agents in Production: What MCP Gets Right (and What It Doesn’t)",
-      "url": "https://dev.to/hadil/how-to-secure-ai-agents-in-production-what-mcp-gets-right-and-what-it-doesnt-1d12",
-      "author": "Hadil Ben Abdallah"
-    },
-    {
-      "title": "The missing layer in prompt engineering: thinking quality",
-      "url": "https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j",
-      "author": "Julien Avezou"
-    },
-    {
-      "title": "Show HN: E2a – Open-source email gateway for AI agents",
-      "url": "https://github.com/Mnexa-AI/e2a",
+      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "url": "https://github.com/statewright/statewright",
       "author": "github.com"
+    },
+    {
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "author": "hypercubic.ai"
+    },
+    {
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "author": "voker.ai"
+    },
+    {
+      "title": "Open Vibe -- Ship your SaaS with AI. Without getting stuck.",
+      "url": "https://dev.to/wasp/open-vibe-ship-your-saas-with-ai-without-getting-stuck-e2h",
+      "author": "vincanger"
     }
   ],
   "repos": [
     {
-      "name": "rasbt/LLMs-from-scratch",
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": 93152,
-      "language": "Jupyter Notebook"
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": 160546,
+      "language": "Python"
     },
     {
-      "name": "yikart/AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "stars": 11061,
+      "name": "FoundationAgents/MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "stars": 67925,
+      "language": "Python"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars": 6174,
       "language": "TypeScript"
     },
     {
-      "name": "huggingface/skills",
-      "url": "https://github.com/huggingface/skills",
-      "description": "Give your agents the power of the Hugging Face ecosystem",
-      "stars": 10466,
-      "language": "Python"
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars": 3081,
+      "language": "Rust"
     },
     {
-      "name": "bytedance/UI-TARS",
-      "url": "https://github.com/bytedance/UI-TARS",
-      "description": "Pioneering Automated GUI Interaction with Native Agents",
-      "stars": 10450,
+      "name": "zhangfengcdt/memoir",
+      "url": "https://github.com/zhangfengcdt/memoir",
+      "description": "Hierarchical Agent Memory with Git-Like Version Control",
+      "stars": 393,
       "language": "Python"
-    },
-    {
-      "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
-      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works wi",
-      "stars": 8897,
-      "language": "Python"
-    },
-    {
-      "name": "millionco/react-doctor",
-      "url": "https://github.com/millionco/react-doctor",
-      "description": "Your agent writes bad React. This catches it",
-      "stars": 8201,
-      "language": "TypeScript"
     }
   ],
   "tweets": []
