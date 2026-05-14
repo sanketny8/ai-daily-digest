@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-14</strong></summary>
+
+#### Papers
+1. **[TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking](https://arxiv.org/abs/2605.12587)** — This paper explores using video diffusion transformers for effective dense 3D tracking in dynamic scenes.
+2. **[Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation](https://arxiv.org/abs/2605.12975)** — It addresses the challenges of multi-hop reasoning in retrieval-augmented generation systems.
+3. **[HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution](https://arxiv.org/abs/2605.09942)** — This work presents a dynamic approach to memory retrieval in large language models using reinforcement learning.
+4. **[Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion](https://arxiv.org/abs/2605.12825)** — Introduces a framework that combines the efficiency of parallel token generation with high fidelity in language models.
+5. **[WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data](http://arxiv.org/abs/2605.13846v1)** — A novel system for transcribing and translating the endangered Wardaman language, showcasing minimal data requirements.
+6. **[MinT: Managed Infrastructure for Training and Serving Millions of LLMs](https://arxiv.org/abs/2605.13779)** — This paper presents a toolkit for managing large-scale training and serving of language models efficiently.
+7. **[Negation Neglect: When models fail to learn negations in training](http://arxiv.org/abs/2605.13829v1)** — It reveals how fine-tuning can lead models to misinterpret negations, affecting their accuracy.
+8. **[RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data](https://arxiv.org/abs/2605.13775)** — This research addresses data scarcity in robotic manipulation through a co-evolving planner-simulator approach.
+9. **[Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context](https://arxiv.org/abs/2605.13831)** — Discusses advancements in managing long-context modeling for vision-language tasks.
+10. **[Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach](http://arxiv.org/abs/2605.13830v1)** — Explores the verification of decision tree ensembles, crucial for safety-critical applications.
+
+#### Blog Posts
+1. **[Medicare's new payment model is built for AI. Most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)** by techcrunch.com
+2. **[Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)** by anthropic.com
+3. **[How to Save Bloated MCP with Code Mode](https://dev.to/zenstack/how-to-save-bloated-mcp-with-code-mode-33e3)** by JS
+4. **[Lambda Just Got a File System. I Put AI Agents on It.](https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8)** by Eric D Johnson
+5. **[Sara Just Wanted Dinner](https://medium.com/@rishabhsharma_98553/sara-just-wanted-dinner-a201aeb9b173)** by Rishabh Sharma
+
+#### Trending Repos
+1. **[openai/whisper](https://github.com/openai/whisper)** — Robust Speech Recognition via Large-Scale Weak Supervision. ⭐ 99458
+2. **[ansible/ansible](https://github.com/ansible/ansible)** — A simple IT automation platform for deploying and maintaining applications. ⭐ 68536
+3. **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** — Transforms complex documents into LLM-ready formats for workflows. ⭐ 62939
+4. **[huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models)** — A large collection of PyTorch image encoders and pretrained weights. ⭐ 36797
+5. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Ready-to-use agent skills for various research and analysis tasks. ⭐ 21264
+6. **[influxdata/telegraf](https://github.com/influxdata/telegraf)** — Agent for collecting and processing metrics and logs. ⭐ 17050
+7. **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** — Infrastructure for enhancing human capabilities with AI. ⭐ 13477
+
+</details>
+
+<details>
 <summary><strong>2026-05-13</strong></summary>
 
 #### Papers

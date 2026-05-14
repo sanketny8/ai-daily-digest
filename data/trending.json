@@ -1,119 +1,133 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "papers": [
     {
-      "title": "L2P: Unlocking Latent Potential for Pixel Generation",
-      "url": "https://arxiv.org/abs/2605.12013",
-      "summary": "Pixel diffusion models have recently regained attention for visual generation. However, training advanced pixel-space models from scratch demands prohibitive computational and data resources. To addre"
+      "title": "TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking",
+      "url": "https://arxiv.org/abs/2605.12587",
+      "summary": "Dense 3D tracking from monocular video is fundamental to dynamic scene understanding. While recent 3D foundation models provide reliable per-frame geometry, recovering object motion in this geometry r"
     },
     {
-      "title": "SeePhys Pro: Diagnosing Modality Transfer and Blind-Training Effects in Multimodal RLVR for Physics Reasoning",
-      "url": "https://arxiv.org/abs/2605.09266",
-      "summary": "We introduce SeePhys Pro, a fine-grained modality transfer benchmark that studies whether models preserve the same reasoning capability when critical information is progressively transferred from text"
+      "title": "Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2605.12975",
+      "summary": "Retrieval-Augmented Generation (RAG) has become a standard approach for knowledge-intensive question answering, but existing systems remain brittle on multi-hop questions, where solving the task requi"
     },
     {
-      "title": "MEME: Multi-entity & Evolving Memory Evaluation",
-      "url": "https://arxiv.org/abs/2605.12477",
-      "summary": "LLM-based agents increasingly operate in persistent environments where they must store, update, and reason over information across many sessions. While prior benchmarks evaluate only single-entity upd"
+      "title": "HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution",
+      "url": "https://arxiv.org/abs/2605.09942",
+      "summary": "Memory retrieval in agentic large language model (LLM) systems is often treated as a static lookup problem, relying on flat vector search or fixed binary relational graphs. However, fixed graph struct"
     },
     {
-      "title": "Lite3R: A Model-Agnostic Framework for Efficient Feed-Forward 3D Reconstruction",
-      "url": "https://arxiv.org/abs/2605.11354",
-      "summary": "Transformer-based 3D reconstruction has emerged as a powerful paradigm for recovering geometry and appearance from multi-view observations, offering strong performance across challenging visual condit"
+      "title": "Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion",
+      "url": "https://arxiv.org/abs/2605.12825",
+      "summary": "We introduce Orthrus, a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token ge"
     },
     {
-      "title": "PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks",
-      "url": "https://arxiv.org/abs/2605.10977",
-      "summary": "Watermarking for large language models (LLMs) is a promising approach for detecting LLM-generated text and enabling responsible deployment. However, existing watermarking methods are often vulnerable "
+      "title": "MinT: Managed Infrastructure for Training and Serving Millions of LLMs",
+      "url": "https://arxiv.org/abs/2605.13779",
+      "summary": "We present MindLab Toolkit (MinT), a managed infrastructure system for Low-Rank Adaptation (LoRA) post-training and online serving. MinT targets a setting where many trained policies are produced over"
     },
     {
-      "title": "FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning",
-      "url": "https://arxiv.org/abs/2605.09932",
-      "summary": "Large language models can now process increasingly long inputs, yet their ability to effectively use information spread across long contexts remains limited. We trace this gap to how attention budget "
+      "title": "Many-Shot CoT-ICL: Making In-Context Learning Truly Learn",
+      "url": "https://arxiv.org/abs/2605.13511",
+      "summary": "In-context learning (ICL) adapts large language models (LLMs) to new tasks by conditioning on demonstrations in the prompt without parameter updates. With long-context models, many-shot ICL can use do"
     },
     {
-      "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents",
-      "url": "https://arxiv.org/abs/2605.12481",
-      "summary": "Computer Use Agents (CUAs) can act through both atomic GUI actions, such as click and type, and high-level tool calls, such as API-based file operations, but this hybrid action space often leaves them"
+      "title": "ShapeCodeBench: A Renewable Benchmark for Perception-to-Program Reconstruction of Synthetic Shape Scenes",
+      "url": "https://arxiv.org/abs/2605.11680",
+      "summary": "We introduce ShapeCodeBench, a synthetic benchmark for perception-to-program reconstruction: given a rendered raster image, a model must emit an executable drawing program that a deterministic evaluat"
     },
     {
-      "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
-      "url": "https://arxiv.org/abs/2605.12495",
-      "summary": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabili"
+      "title": "Qwen-Image-VAE-2.0 Technical Report",
+      "url": "https://arxiv.org/abs/2605.13565",
+      "summary": "We present Qwen-Image-VAE-2.0, a suite of high-compression Variational Autoencoders (VAEs) that achieve significant advances in both reconstruction fidelity and diffusability. To address the reconstru"
     },
     {
-      "title": "AdaPreLoRA: Adafactor Preconditioned Low-Rank Adaptation",
-      "url": "https://arxiv.org/abs/2605.08734",
-      "summary": "Low-Rank Adaptation (LoRA) reparameterizes a weight update as a product of two low-rank factors, but the Jacobian J_{G} of the generator mapping the factors to the weight matrix is rank-deficient, so "
+      "title": "RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data",
+      "url": "https://arxiv.org/abs/2605.13775",
+      "summary": "The scalability of robotic manipulation is fundamentally bottlenecked by the scarcity of task-aligned physical interaction data. While vision-language models (VLMs) and video generation models (VGMs) "
     },
     {
-      "title": "World Model for Robot Learning: A Comprehensive Survey",
-      "url": "https://arxiv.org/abs/2605.00080",
-      "summary": "World models, which are predictive representations of how environments evolve under actions, have become a central component of robot learning. They support policy learning, planning, simulation, eval"
+      "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
+      "url": "https://arxiv.org/abs/2605.13831",
+      "summary": "Long-context modeling is becoming a core capability of modern large vision-language models (LVLMs), enabling sustained context management across long-document understanding, video analysis, and multi-"
     }
   ],
   "blog_posts": [
     {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "author": "github.com"
+      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "author": "techcrunch.com"
     },
     {
-      "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-      "url": "https://github.com/statewright/statewright",
-      "author": "github.com"
+      "title": "Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "author": "anthropic.com"
     },
     {
-      "title": "Show HN: Agentic interface for mainframes and COBOL",
-      "url": "https://www.hypercubic.ai/hopper",
-      "author": "hypercubic.ai"
+      "title": "How to Save Bloated MCP with Code Mode",
+      "url": "https://dev.to/zenstack/how-to-save-bloated-mcp-with-code-mode-33e3",
+      "author": "JS"
     },
     {
-      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-      "url": "https://voker.ai",
-      "author": "voker.ai"
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+      "author": "Eric D Johnson"
     },
     {
-      "title": "Open Vibe -- Ship your SaaS with AI. Without getting stuck.",
-      "url": "https://dev.to/wasp/open-vibe-ship-your-saas-with-ai-without-getting-stuck-e2h",
-      "author": "vincanger"
+      "title": "Sara Just Wanted Dinner",
+      "url": "https://medium.com/@rishabhsharma_98553/sara-just-wanted-dinner-a201aeb9b173",
+      "author": "Rishabh Sharma"
     }
   ],
   "repos": [
     {
-      "name": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "stars": 160546,
+      "name": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "stars": 99458,
       "language": "Python"
     },
     {
-      "name": "FoundationAgents/MetaGPT",
-      "url": "https://github.com/FoundationAgents/MetaGPT",
-      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
-      "stars": 67925,
+      "name": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud ",
+      "stars": 68536,
       "language": "Python"
     },
     {
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "stars": 6174,
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "stars": 62939,
+      "language": "Python"
+    },
+    {
+      "name": "huggingface/pytorch-image-models",
+      "url": "https://github.com/huggingface/pytorch-image-models",
+      "description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)",
+      "stars": 36797,
+      "language": "Python"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars": 21264,
+      "language": "Python"
+    },
+    {
+      "name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "stars": 17050,
+      "language": "Go"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars": 13477,
       "language": "TypeScript"
-    },
-    {
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": 3081,
-      "language": "Rust"
-    },
-    {
-      "name": "zhangfengcdt/memoir",
-      "url": "https://github.com/zhangfengcdt/memoir",
-      "description": "Hierarchical Agent Memory with Git-Like Version Control",
-      "stars": 393,
-      "language": "Python"
     }
   ],
   "tweets": []

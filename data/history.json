@@ -1,31 +1,4 @@
 {
-  "2026-04-13": {
-    "papers": [
-      "https://arxiv.org/abs/2603.27490",
-      "https://arxiv.org/abs/2604.09544",
-      "https://arxiv.org/abs/2604.09450",
-      "https://arxiv.org/abs/2604.04415",
-      "https://arxiv.org/abs/2604.07786",
-      "https://arxiv.org/abs/2604.08626",
-      "https://arxiv.org/abs/2604.07413",
-      "https://arxiv.org/abs/2604.08644",
-      "https://arxiv.org/abs/2604.08995",
-      "https://arxiv.org/abs/2604.09201"
-    ],
-    "blogs": [
-      "https://github.com/anthropics/claude-code/issues/45756",
-      "https://github.com/anthropics/claude-code/issues/46829",
-      "https://europe.mistral.ai/",
-      "https://twitter.com/bridgemindai/status/2043321284113670594"
-    ],
-    "repos": [
-      "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "https://github.com/rustfs/rustfs",
-      "https://github.com/ahujasid/blender-mcp",
-      "https://github.com/snarktank/ralph",
-      "https://github.com/nashsu/llm_wiki"
-    ]
-  },
   "2026-04-14": {
     "papers": [
       "https://arxiv.org/abs/2604.11666",
@@ -954,6 +927,36 @@
       "https://github.com/rohitg00/agentmemory",
       "https://github.com/tinyhumansai/openhuman",
       "https://github.com/zhangfengcdt/memoir"
+    ]
+  },
+  "2026-05-14": {
+    "papers": [
+      "https://arxiv.org/abs/2605.12587",
+      "https://arxiv.org/abs/2605.12975",
+      "https://arxiv.org/abs/2605.09942",
+      "https://arxiv.org/abs/2605.12825",
+      "https://arxiv.org/abs/2605.13779",
+      "https://arxiv.org/abs/2605.13511",
+      "https://arxiv.org/abs/2605.11680",
+      "https://arxiv.org/abs/2605.13565",
+      "https://arxiv.org/abs/2605.13775",
+      "https://arxiv.org/abs/2605.13831"
+    ],
+    "blogs": [
+      "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "https://www.anthropic.com/news/claude-for-small-business",
+      "https://dev.to/zenstack/how-to-save-bloated-mcp-with-code-mode-33e3",
+      "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
+      "https://medium.com/@rishabhsharma_98553/sara-just-wanted-dinner-a201aeb9b173"
+    ],
+    "repos": [
+      "https://github.com/openai/whisper",
+      "https://github.com/ansible/ansible",
+      "https://github.com/opendatalab/MinerU",
+      "https://github.com/huggingface/pytorch-image-models",
+      "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "https://github.com/influxdata/telegraf",
+      "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     ]
   }
 }
