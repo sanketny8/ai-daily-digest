@@ -1,33 +1,4 @@
 {
-  "2026-04-14": {
-    "papers": [
-      "https://arxiv.org/abs/2604.11666",
-      "https://arxiv.org/abs/2604.10425",
-      "https://arxiv.org/abs/2604.08121",
-      "https://arxiv.org/abs/2604.11716",
-      "https://arxiv.org/abs/2604.10333",
-      "https://arxiv.org/abs/2604.10030",
-      "https://arxiv.org/abs/2604.11521",
-      "https://arxiv.org/abs/2604.09212",
-      "https://arxiv.org/abs/2604.10480",
-      "https://arxiv.org/abs/2604.11035"
-    ],
-    "blogs": [
-      "https://amd-gaia.ai/docs",
-      "https://www.vectorware.com/blog/threads-on-gpu/",
-      "https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/",
-      "https://dev.to/marcosomma/i-ran-500-more-agent-memory-experiments-the-real-problem-wasnt-recall-it-was-binding-24kc",
-      "https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2",
-      "https://dev.to/aws/ai-context-window-overflow-memory-pointer-fix-3akc",
-      "https://jaymavs.medium.com/the-fear-arrived-before-the-future-0c7484794f42"
-    ],
-    "repos": [
-      "https://github.com/gsd-build/get-shit-done",
-      "https://github.com/anthropics/claude-cookbooks",
-      "https://github.com/axolotl-ai-cloud/axolotl",
-      "https://github.com/AIDC-AI/Pixelle-Video"
-    ]
-  },
   "2026-04-15": {
     "papers": [
       "https://arxiv.org/abs/2604.12373",
@@ -957,6 +928,34 @@
       "https://github.com/K-Dense-AI/scientific-agent-skills",
       "https://github.com/influxdata/telegraf",
       "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    ]
+  },
+  "2026-05-15": {
+    "papers": [
+      "https://arxiv.org/abs/2605.13169",
+      "https://arxiv.org/abs/2605.13027",
+      "https://arxiv.org/abs/2605.14876",
+      "https://arxiv.org/abs/2605.00180",
+      "https://arxiv.org/abs/2605.09681",
+      "https://arxiv.org/abs/2605.14323",
+      "https://arxiv.org/abs/2605.06527",
+      "https://arxiv.org/abs/2605.15141",
+      "https://arxiv.org/abs/2605.10912",
+      "https://arxiv.org/abs/2605.14712"
+    ],
+    "blogs": [
+      "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "https://openai.com/index/work-with-codex-from-anywhere/",
+      "https://github.com/anthropics/claude-for-legal",
+      "https://www.opendata.dev/blog/introducing-vector/",
+      "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026"
+    ],
+    "repos": [
+      "https://github.com/garrytan/gstack",
+      "https://github.com/zubair-trabzada/geo-seo-claude",
+      "https://github.com/nexu-io/html-anything",
+      "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "https://github.com/awslabs/agent-plugins"
     ]
   }
 }

@@ -1,133 +1,119 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "papers": [
     {
-      "title": "TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking",
-      "url": "https://arxiv.org/abs/2605.12587",
-      "summary": "Dense 3D tracking from monocular video is fundamental to dynamic scene understanding. While recent 3D foundation models provide reliable per-frame geometry, recovering object motion in this geometry r"
+      "title": "PanoWorld: Towards Spatial Supersensing in 360^circ Panorama World",
+      "url": "https://arxiv.org/abs/2605.13169",
+      "summary": "Multimodal large laboratory models (MLLMs) still struggle with spatial understanding under the dominant perspective-image paradigm, which inherits the narrow field of view of human-like perception. Fo"
     },
     {
-      "title": "Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2605.12975",
-      "summary": "Retrieval-Augmented Generation (RAG) has become a standard approach for knowledge-intensive question answering, but existing systems remain brittle on multi-hop questions, where solving the task requi"
+      "title": "PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution",
+      "url": "https://arxiv.org/abs/2605.13027",
+      "summary": "Text image super-resolution (Text-SR) requires more than visually plausible detail synthesis: slight errors in stroke topology may alter character identity and break readability. Existing methods impr"
     },
     {
-      "title": "HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution",
-      "url": "https://arxiv.org/abs/2605.09942",
-      "summary": "Memory retrieval in agentic large language model (LLM) systems is often treated as a static lookup problem, relying on flat vector search or fixed binary relational graphs. However, fixed graph struct"
+      "title": "Unlocking Complex Visual Generation via Closed-Loop Verified Reasoning",
+      "url": "https://arxiv.org/abs/2605.14876",
+      "summary": "Despite rapid advancements, current text-to-image (T2I) models predominantly rely on a single-step generation paradigm, which struggles with complex semantics and faces diminishing returns from parame"
     },
     {
-      "title": "Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion",
-      "url": "https://arxiv.org/abs/2605.12825",
-      "summary": "We introduce Orthrus, a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token ge"
+      "title": "RouteProfile: Elucidating the Design Space of LLM Profiles for Routing",
+      "url": "https://arxiv.org/abs/2605.00180",
+      "summary": "As the large language model (LLM) ecosystem expands, individual models exhibit varying capabilities across queries, benchmarks, and domains, motivating the development of LLM routing. While prior work"
     },
     {
-      "title": "MinT: Managed Infrastructure for Training and Serving Millions of LLMs",
-      "url": "https://arxiv.org/abs/2605.13779",
-      "summary": "We present MindLab Toolkit (MinT), a managed infrastructure system for Low-Rank Adaptation (LoRA) post-training and online serving. MinT targets a setting where many trained policies are produced over"
+      "title": "Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.09681",
+      "summary": "Autoregressive (AR) video diffusion models adopt a streaming generation framework, enabling long-horizon video generation with real-time responsiveness, as exemplified by the Self Forcing training par"
     },
     {
-      "title": "Many-Shot CoT-ICL: Making In-Context Learning Truly Learn",
-      "url": "https://arxiv.org/abs/2605.13511",
-      "summary": "In-context learning (ICL) adapts large language models (LLMs) to new tasks by conditioning on demonstrations in the prompt without parameter updates. With long-context models, many-shot ICL can use do"
+      "title": "Dynamic Latent Routing",
+      "url": "https://arxiv.org/abs/2605.14323",
+      "summary": "We investigate the temporal concatenation of sub-policies in Markov Decision Processes (MDP) with time-varying reward functions. We introduce General Dijkstra Search (GDS), and prove that globally opt"
     },
     {
-      "title": "ShapeCodeBench: A Renewable Benchmark for Perception-to-Program Reconstruction of Synthetic Shape Scenes",
-      "url": "https://arxiv.org/abs/2605.11680",
-      "summary": "We introduce ShapeCodeBench, a synthetic benchmark for perception-to-program reconstruction: given a rendered raster image, a model must emit an executable drawing program that a deterministic evaluat"
+      "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
+      "url": "https://arxiv.org/abs/2605.06527",
+      "summary": "Large Language Model (LLM) agents are increasingly expected to maintain coherent, long-term personalized memory, yet current benchmarks primarily measure static fact retrieval, overlooking the ability"
     },
     {
-      "title": "Qwen-Image-VAE-2.0 Technical Report",
-      "url": "https://arxiv.org/abs/2605.13565",
-      "summary": "We present Qwen-Image-VAE-2.0, a suite of high-compression Variational Autoencoders (VAEs) that achieve significant advances in both reconstruction fidelity and diffusability. To address the reconstru"
+      "title": "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation",
+      "url": "https://arxiv.org/abs/2605.15141",
+      "summary": "Real-time interactive video generation requires low-latency, streaming, and controllable rollout. Existing autoregressive (AR) diffusion distillation methods have achieved strong results in the chunk-"
     },
     {
-      "title": "RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data",
-      "url": "https://arxiv.org/abs/2605.13775",
-      "summary": "The scalability of robotic manipulation is fundamentally bottlenecked by the scarcity of task-aligned physical interaction data. While vision-language models (VLMs) and video generation models (VGMs) "
+      "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
+      "url": "https://arxiv.org/abs/2605.10912",
+      "summary": "Large language and vision-language models increasingly power agents that act on a user's behalf through command-line interface (CLI) harnesses. However, most agent benchmarks still rely on synthetic s"
     },
     {
-      "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
-      "url": "https://arxiv.org/abs/2605.13831",
-      "summary": "Long-context modeling is becoming a core capability of modern large vision-language models (LVLMs), enabling sustained context management across long-document understanding, video analysis, and multi-"
+      "title": "IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation",
+      "url": "https://arxiv.org/abs/2605.14712",
+      "summary": "Robot imitation data are often multimodal: similar visual-language observations may be followed by different action chunks because human demonstrators act with different short-horizon intents, task ph"
     }
   ],
   "blog_posts": [
     {
-      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "author": "techcrunch.com"
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "author": "scottjg.com"
     },
     {
-      "title": "Claude for Small Business",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "author": "anthropic.com"
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "author": "openai.com"
     },
     {
-      "title": "How to Save Bloated MCP with Code Mode",
-      "url": "https://dev.to/zenstack/how-to-save-bloated-mcp-with-code-mode-33e3",
-      "author": "JS"
+      "title": "Claude for Legal",
+      "url": "https://github.com/anthropics/claude-for-legal",
+      "author": "github.com"
     },
     {
-      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-      "url": "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
-      "author": "Eric D Johnson"
+      "title": "OpenData Vector: MIT-Licensed Vector Search on Object Storage",
+      "url": "https://www.opendata.dev/blog/introducing-vector/",
+      "author": "opendata.dev"
     },
     {
-      "title": "Sara Just Wanted Dinner",
-      "url": "https://medium.com/@rishabhsharma_98553/sara-just-wanted-dinner-a201aeb9b173",
-      "author": "Rishabh Sharma"
+      "title": "Best \"Brain\" for Agents Is Just Versioned Folders of Markdown Files",
+      "url": "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026",
+      "author": "extency.com"
     }
   ],
   "repos": [
     {
-      "name": "openai/whisper",
-      "url": "https://github.com/openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "stars": 99458,
-      "language": "Python"
-    },
-    {
-      "name": "ansible/ansible",
-      "url": "https://github.com/ansible/ansible",
-      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud ",
-      "stars": 68536,
-      "language": "Python"
-    },
-    {
-      "name": "opendatalab/MinerU",
-      "url": "https://github.com/opendatalab/MinerU",
-      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "stars": 62939,
-      "language": "Python"
-    },
-    {
-      "name": "huggingface/pytorch-image-models",
-      "url": "https://github.com/huggingface/pytorch-image-models",
-      "description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)",
-      "stars": 36797,
-      "language": "Python"
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": 21264,
-      "language": "Python"
-    },
-    {
-      "name": "influxdata/telegraf",
-      "url": "https://github.com/influxdata/telegraf",
-      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-      "stars": 17050,
-      "language": "Go"
-    },
-    {
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": 13477,
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 96995,
       "language": "TypeScript"
+    },
+    {
+      "name": "zubair-trabzada/geo-seo-claude",
+      "url": "https://github.com/zubair-trabzada/geo-seo-claude",
+      "description": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and",
+      "stars": 7278,
+      "language": "Python"
+    },
+    {
+      "name": "nexu-io/html-anything",
+      "url": "https://github.com/nexu-io/html-anything",
+      "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre",
+      "stars": 1299,
+      "language": "HTML"
+    },
+    {
+      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "stars": 896,
+      "language": "Python"
+    },
+    {
+      "name": "awslabs/agent-plugins",
+      "url": "https://github.com/awslabs/agent-plugins",
+      "description": "Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.",
+      "stars": 705,
+      "language": "Python"
     }
   ],
   "tweets": []

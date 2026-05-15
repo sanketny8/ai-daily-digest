@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-15</strong></summary>
+
+#### Papers
+1. **[PanoWorld: Towards Spatial Supersensing in 360^circ Panorama World](https://arxiv.org/abs/2605.13169)** — This paper addresses spatial understanding challenges in multimodal models using a new perspective-image paradigm.
+2. **[PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution](https://arxiv.org/abs/2605.13027)** — It introduces a method for improving text image super-resolution by addressing stroke topology errors affecting readability.
+3. **[Unlocking Complex Visual Generation via Closed-Loop Verified Reasoning](https://arxiv.org/abs/2605.14876)** — This work proposes a closed-loop approach to enhance text-to-image generation, tackling complex semantics effectively.
+4. **[RouteProfile: Elucidating the Design Space of LLM Profiles for Routing](https://arxiv.org/abs/2605.00180)** — The paper explores LLM routing to optimize model performance across diverse queries and benchmarks.
+5. **[Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models](https://arxiv.org/abs/2605.09681)** — It presents a method for efficient video generation using autoregressive models with real-time responsiveness.
+6. **[Dynamic Latent Routing](https://arxiv.org/abs/2605.14323)** — This research investigates temporal sub-policy concatenation in MDPs, introducing a new search method for optimal solutions.
+7. **[STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?](https://arxiv.org/abs/2605.06527)** — The paper examines the ability of LLM agents to maintain coherent long-term memories beyond static fact retrieval.
+8. **[Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation](https://arxiv.org/abs/2605.15141)** — It focuses on low-latency video generation, enhancing interactivity and control in autoregressive models.
+9. **[WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation](https://arxiv.org/abs/2605.10912)** — This benchmark evaluates agents in realistic environments, moving beyond synthetic scenarios for better assessment.
+10. **[IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation](https://arxiv.org/abs/2605.14712)** — The study addresses multimodal robot imitation data, focusing on short-horizon intent variations in human actions.
+
+#### Blog Posts
+1. **[RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)** by scottjg.com
+2. **[Codex is now in the ChatGPT mobile app](https://openai.com/index/work-with-codex-from-anywhere/)** by openai.com
+3. **[Claude for Legal](https://github.com/anthropics/claude-for-legal)** by github.com
+4. **[OpenData Vector: MIT-Licensed Vector Search on Object Storage](https://www.opendata.dev/blog/introducing-vector/)** by opendata.dev
+5. **[Best "Brain" for Agents Is Just Versioned Folders of Markdown Files](https://extency.com/blog/markdown-versioned-folders-agent-brain-2026)** by extency.com
+
+#### Trending Repos
+1. **[garrytan/gstack](https://github.com/garrytan/gstack)** — Use Garry Tan's Claude Code setup with 23 opinionated tools. ⭐ 96995
+2. **[zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude)** — Comprehensive AI search optimization for websites. ⭐ 7278
+3. **[nexu-io/html-anything](https://github.com/nexu-io/html-anything)** — The agentic HTML editor for local AI-generated content. ⭐ 1299
+4. **[NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization)** — Reference architectures for GPU-accelerated vision agents. ⭐ 896
+5. **[awslabs/agent-plugins](https://github.com/awslabs/agent-plugins)** — Plugins for AWS to enhance AI coding agents. ⭐ 705
+
+</details>
+
+<details>
 <summary><strong>2026-05-14</strong></summary>
 
 #### Papers
