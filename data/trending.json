@@ -1,119 +1,107 @@
 {
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "papers": [
     {
-      "title": "PanoWorld: Towards Spatial Supersensing in 360^circ Panorama World",
-      "url": "https://arxiv.org/abs/2605.13169",
-      "summary": "Multimodal large laboratory models (MLLMs) still struggle with spatial understanding under the dominant perspective-image paradigm, which inherits the narrow field of view of human-like perception. Fo"
+      "title": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
+      "url": "https://arxiv.org/abs/2605.15193",
+      "summary": "Latent flow matching for image generation usually transports Gaussian noise to variational autoencoder latents along linear paths. Both endpoints, however, concentrate in thin spherical shells, and a "
     },
     {
-      "title": "PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution",
-      "url": "https://arxiv.org/abs/2605.13027",
-      "summary": "Text image super-resolution (Text-SR) requires more than visually plausible detail synthesis: slight errors in stroke topology may alter character identity and break readability. Existing methods impr"
+      "title": "WildTableBench: Benchmarking Multimodal Foundation Models on Table Understanding In the Wild",
+      "url": "https://arxiv.org/abs/2605.01018",
+      "summary": "Using multimodal foundation models to analyze table images is a high-value yet challenging application in consumer and enterprise scenarios. Despite its importance, current evaluations rely largely on"
     },
     {
-      "title": "Unlocking Complex Visual Generation via Closed-Loop Verified Reasoning",
-      "url": "https://arxiv.org/abs/2605.14876",
-      "summary": "Despite rapid advancements, current text-to-image (T2I) models predominantly rely on a single-step generation paradigm, which struggles with complex semantics and faces diminishing returns from parame"
+      "title": "Long Context Pre-Training with Lighthouse Attention",
+      "url": "https://arxiv.org/abs/2605.06554",
+      "summary": "Training causal transformers at extreme sequence lengths is bottlenecked by the quadratic time and memory of scaled dot-product attention (SDPA). In this work, we propose Lighthouse Attention, a train"
     },
     {
-      "title": "RouteProfile: Elucidating the Design Space of LLM Profiles for Routing",
-      "url": "https://arxiv.org/abs/2605.00180",
-      "summary": "As the large language model (LLM) ecosystem expands, individual models exhibit varying capabilities across queries, benchmarks, and domains, motivating the development of LLM routing. While prior work"
+      "title": "Boosting Reinforcement Learning with Verifiable Rewards via Randomly Selected Few-Shot Guidance",
+      "url": "https://arxiv.org/abs/2605.15012",
+      "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) has achieved great success in developing Large Language Models (LLMs) with chain-of-thought rollouts for many tasks such as math and coding. Never"
     },
     {
-      "title": "Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models",
-      "url": "https://arxiv.org/abs/2605.09681",
-      "summary": "Autoregressive (AR) video diffusion models adopt a streaming generation framework, enabling long-horizon video generation with real-time responsiveness, as exemplified by the Self Forcing training par"
+      "title": "PreScam: A Benchmark for Predicting Scam Progression from Early Conversations",
+      "url": "https://arxiv.org/abs/2605.12243",
+      "summary": "Conversational scams, such as romance and investment scams, are emerging as a major form of online fraud. Unlike one-shot scam lures such as fake lottery or unpaid toll messages, they unfold through m"
     },
     {
-      "title": "Dynamic Latent Routing",
-      "url": "https://arxiv.org/abs/2605.14323",
-      "summary": "We investigate the temporal concatenation of sub-policies in Markov Decision Processes (MDP) with time-varying reward functions. We introduce General Dijkstra Search (GDS), and prove that globally opt"
+      "title": "Sat3DGen: Comprehensive Street-Level 3D Scene Generation from Single Satellite Image",
+      "url": "https://arxiv.org/abs/2605.14984",
+      "summary": "Generating a street-level 3D scene from a single satellite image is a crucial yet challenging task. Current methods present a stark trade-off: geometry-colorization models achieve high geometric fidel"
     },
     {
-      "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
-      "url": "https://arxiv.org/abs/2605.06527",
-      "summary": "Large Language Model (LLM) agents are increasingly expected to maintain coherent, long-term personalized memory, yet current benchmarks primarily measure static fact retrieval, overlooking the ability"
+      "title": "Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding",
+      "url": "https://arxiv.org/abs/2605.07637",
+      "summary": "Multi-agent pathfinding (MAPF) is a widely used abstraction for multi-robot trajectory planning problems, where multiple homogeneous agents move simultaneously within a shared environment. Although so"
     },
     {
-      "title": "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation",
-      "url": "https://arxiv.org/abs/2605.15141",
-      "summary": "Real-time interactive video generation requires low-latency, streaming, and controllable rollout. Existing autoregressive (AR) diffusion distillation methods have achieved strong results in the chunk-"
+      "title": "ViMU: Benchmarking Video Metaphorical Understanding",
+      "url": "https://arxiv.org/abs/2605.14607",
+      "summary": "Any new medium, once it emerges, is used for more than the transmission of overt content alone. The information it carries typically operates on two levels: one is the content directly presented, whil"
     },
     {
-      "title": "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",
-      "url": "https://arxiv.org/abs/2605.10912",
-      "summary": "Large language and vision-language models increasingly power agents that act on a user's behalf through command-line interface (CLI) harnesses. However, most agent benchmarks still rely on synthetic s"
+      "title": "Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation",
+      "url": "https://arxiv.org/abs/2605.12034",
+      "summary": "Omni-modal language models are intended to jointly understand audio, visual inputs, and language, but benchmark gains can be inflated when visual evidence alone is enough to answer a query. We study w"
     },
     {
-      "title": "IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation",
-      "url": "https://arxiv.org/abs/2605.14712",
-      "summary": "Robot imitation data are often multimodal: similar visual-language observations may be followed by different action chunks because human demonstrators act with different short-horizon intents, task ph"
+      "title": "BEAM: Binary Expert Activation Masking for Dynamic Routing in MoE",
+      "url": "https://arxiv.org/abs/2605.14438",
+      "summary": "Mixture-of-Experts (MoE) architectures enhance the efficiency of large language models by activating only a subset of experts per token. However, standard MoE employs a fixed Top-K routing strategy, l"
     }
   ],
   "blog_posts": [
     {
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "author": "scottjg.com"
+      "title": "DeepSeek V4: The Open-Source Model Frontier Labs Feared",
+      "url": "https://helloai.com/articles/deepseek-v4-open-source-frontier-parity",
+      "author": "helloai.com"
     },
     {
-      "title": "Codex is now in the ChatGPT mobile app",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "author": "openai.com"
+      "title": "The 52-Page Memo That Nearly Destroyed OpenAI: Ilya Sutskever's Deposition",
+      "url": "https://medium.com/@prateekj24/the-52-page-memo-that-nearly-destroyed-openai-inside-ilya-sutskevers-deposition-acef91208a1c",
+      "author": "medium.com"
     },
     {
-      "title": "Claude for Legal",
-      "url": "https://github.com/anthropics/claude-for-legal",
-      "author": "github.com"
+      "title": "why use F# for scripting and automation?",
+      "url": "https://iev.ee/blog/why-use-fsharp/",
+      "author": "kryptiskt"
     },
     {
-      "title": "OpenData Vector: MIT-Licensed Vector Search on Object Storage",
-      "url": "https://www.opendata.dev/blog/introducing-vector/",
-      "author": "opendata.dev"
-    },
-    {
-      "title": "Best \"Brain\" for Agents Is Just Versioned Folders of Markdown Files",
-      "url": "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026",
-      "author": "extency.com"
+      "title": "Bigger AI models aren't always better. Here's how to actually choose.",
+      "url": "https://dev.to/aws/bigger-ai-models-arent-always-better-heres-how-to-actually-choose-56pc",
+      "author": "Rohini Gaonkar"
     }
   ],
   "repos": [
     {
-      "name": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": 96995,
-      "language": "TypeScript"
-    },
-    {
-      "name": "zubair-trabzada/geo-seo-claude",
-      "url": "https://github.com/zubair-trabzada/geo-seo-claude",
-      "description": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and",
-      "stars": 7278,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": 49934,
       "language": "Python"
     },
     {
-      "name": "nexu-io/html-anything",
-      "url": "https://github.com/nexu-io/html-anything",
-      "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre",
-      "stars": 1299,
-      "language": "HTML"
-    },
-    {
-      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
-      "stars": 896,
+      "name": "NVIDIA-NeMo/NeMo",
+      "url": "https://github.com/NVIDIA-NeMo/NeMo",
+      "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+      "stars": 17219,
       "language": "Python"
     },
     {
-      "name": "awslabs/agent-plugins",
-      "url": "https://github.com/awslabs/agent-plugins",
-      "description": "Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.",
-      "stars": 705,
+      "name": "joeseesun/qiaomu-anything-to-notebooklm",
+      "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+      "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+      "stars": 2799,
       "language": "Python"
+    },
+    {
+      "name": "yetone/native-feel-skill",
+      "url": "https://github.com/yetone/native-feel-skill",
+      "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer a",
+      "stars": 1097,
+      "language": null
     }
   ],
   "tweets": []

@@ -10,6 +10,35 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-16</strong></summary>
+
+#### Papers
+1. **[Aligning Latent Geometry for Spherical Flow Matching in Image Generation](https://arxiv.org/abs/2605.15193)** — This paper explores improved image generation by aligning latent flows in spherical geometry.
+2. **[WildTableBench: Benchmarking Multimodal Foundation Models on Table Understanding In the Wild](https://arxiv.org/abs/2605.01018)** — Introduces a benchmark for evaluating multimodal models on complex table data in real-world scenarios.
+3. **[Long Context Pre-Training with Lighthouse Attention](https://arxiv.org/abs/2605.06554)** — Proposes Lighthouse Attention to enhance training of transformers on long sequences, addressing memory and speed issues.
+4. **[Boosting Reinforcement Learning with Verifiable Rewards via Randomly Selected Few-Shot Guidance](https://arxiv.org/abs/2605.15012)** — Discusses a method to enhance reinforcement learning outcomes using verifiable rewards and few-shot guidance.
+5. **[PreScam: A Benchmark for Predicting Scam Progression from Early Conversations](https://arxiv.org/abs/2605.12243)** — Establishes a benchmark to analyze and predict the development of conversational scams.
+6. **[Sat3DGen: Comprehensive Street-Level 3D Scene Generation from Single Satellite Image](https://arxiv.org/abs/2605.14984)** — Focuses on generating detailed 3D street scenes from a single satellite image, improving urban modeling.
+7. **[Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding](https://arxiv.org/abs/2605.07637)** — Explores communication strategies among agents in multi-agent pathfinding to enhance efficiency and coordination.
+8. **[ViMU: Benchmarking Video Metaphorical Understanding](https://arxiv.org/abs/2605.14607)** — Proposes a benchmark for assessing how well models understand metaphors in video content.
+9. **[Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation](https://arxiv.org/abs/2605.12034)** — Investigates post-training strategies for improving omni-modal language models' performance across various inputs.
+10. **[BEAM: Binary Expert Activation Masking for Dynamic Routing in MoE](https://arxiv.org/abs/2605.14438)** — Introduces a new method for dynamic routing in mixture-of-experts models to enhance efficiency.
+
+#### Blog Posts
+1. **[DeepSeek V4: The Open-Source Model Frontier Labs Feared](https://helloai.com/articles/deepseek-v4-open-source-frontier-parity)** by helloai.com
+2. **[The 52-Page Memo That Nearly Destroyed OpenAI: Ilya Sutskever's Deposition](https://medium.com/@prateekj24/the-52-page-memo-that-nearly-destroyed-openai-inside-ilya-sutskevers-deposition-acef91208a1c)** by medium.com
+3. **[why use F# for scripting and automation?](https://iev.ee/blog/why-use-fsharp/)** by kryptiskt
+4. **[Bigger AI models aren't always better. Here's how to actually choose.](https://dev.to/aws/bigger-ai-models-arent-always-better-heres-how-to-actually-choose-56pc)** by Rohini Gaonkar
+
+#### Trending Repos
+1. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** — Train a 64M-parameter LLM from scratch in just 2h! ⭐ 49934
+2. **[NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo)** — A scalable generative AI framework for Large Language Models and Multimodal AI. ⭐ 17219
+3. **[joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)** — Multi-source content processor for NotebookLM supporting various formats. ⭐ 2799
+4. **[yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)** — An Agent Skill for designing cross-platform desktop apps that feel native. ⭐ 1097
+
+</details>
+
+<details>
 <summary><strong>2026-05-15</strong></summary>
 
 #### Papers
