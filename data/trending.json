@@ -1,107 +1,136 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "papers": [
     {
-      "title": "Aligning Latent Geometry for Spherical Flow Matching in Image Generation",
-      "url": "https://arxiv.org/abs/2605.15193",
-      "summary": "Latent flow matching for image generation usually transports Gaussian noise to variational autoencoder latents along linear paths. Both endpoints, however, concentrate in thin spherical shells, and a "
+      "title": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
+      "url": "http://arxiv.org/abs/2605.15199v1",
+      "summary": "Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque"
     },
     {
-      "title": "WildTableBench: Benchmarking Multimodal Foundation Models on Table Understanding In the Wild",
-      "url": "https://arxiv.org/abs/2605.01018",
-      "summary": "Using multimodal foundation models to analyze table images is a high-value yet challenging application in consumer and enterprise scenarios. Despite its importance, current evaluations rely largely on"
+      "title": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
+      "url": "http://arxiv.org/abs/2605.15198v1",
+      "summary": "Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is to directly generate images via unified models dur"
     },
     {
-      "title": "Long Context Pre-Training with Lighthouse Attention",
-      "url": "https://arxiv.org/abs/2605.06554",
-      "summary": "Training causal transformers at extreme sequence lengths is bottlenecked by the quadratic time and memory of scaled dot-product attention (SDPA). In this work, we propose Lighthouse Attention, a train"
+      "title": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
+      "url": "http://arxiv.org/abs/2605.15196v1",
+      "summary": "Video generation powers a vast array of downstream applications. However, while the de facto standard, i.e., latent diffusion models, typically employ heavily conditioned denoising networks, their dec"
     },
     {
-      "title": "Boosting Reinforcement Learning with Verifiable Rewards via Randomly Selected Few-Shot Guidance",
-      "url": "https://arxiv.org/abs/2605.15012",
-      "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) has achieved great success in developing Large Language Models (LLMs) with chain-of-thought rollouts for many tasks such as math and coding. Never"
+      "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
+      "url": "http://arxiv.org/abs/2605.15188v1",
+      "summary": "AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we"
     },
     {
-      "title": "PreScam: A Benchmark for Predicting Scam Progression from Early Conversations",
-      "url": "https://arxiv.org/abs/2605.12243",
-      "summary": "Conversational scams, such as romance and investment scams, are emerging as a major form of online fraud. Unlike one-shot scam lures such as fake lottery or unpaid toll messages, they unfold through m"
+      "title": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
+      "url": "http://arxiv.org/abs/2605.15186v1",
+      "summary": "High-quality 3D scene reconstruction has recently advanced toward generalizable feed-forward architectures, enabling the generation of complex environments in a single forward pass. However, despite t"
     },
     {
-      "title": "Sat3DGen: Comprehensive Street-Level 3D Scene Generation from Single Satellite Image",
-      "url": "https://arxiv.org/abs/2605.14984",
-      "summary": "Generating a street-level 3D scene from a single satellite image is a crucial yet challenging task. Current methods present a stark trade-off: geometry-colorization models achieve high geometric fidel"
+      "title": "Quantitative Video World Model Evaluation for Geometric-Consistency",
+      "url": "http://arxiv.org/abs/2605.15185v1",
+      "summary": "Generative video models are increasingly studied as implicit world models, yet evaluating whether they produce physically plausible 3D structure and motion remains challenging. Most existing video eva"
     },
     {
-      "title": "Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding",
-      "url": "https://arxiv.org/abs/2605.07637",
-      "summary": "Multi-agent pathfinding (MAPF) is a widely used abstraction for multi-robot trajectory planning problems, where multiple homogeneous agents move simultaneously within a shared environment. Although so"
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "url": "http://arxiv.org/abs/2605.15184v1",
+      "summary": "Recent advances in Large Language Model (LLM) agents have enabled complex agentic workflows where models autonomously retrieve information, call tools, and reason over large corpora to complete tasks "
     },
     {
-      "title": "ViMU: Benchmarking Video Metaphorical Understanding",
-      "url": "https://arxiv.org/abs/2605.14607",
-      "summary": "Any new medium, once it emerges, is used for more than the transmission of overt content alone. The information it carries typically operates on two levels: one is the content directly presented, whil"
+      "title": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability",
+      "url": "http://arxiv.org/abs/2605.15183v1",
+      "summary": "Mechanistic interpretability aims to break models into meaningful parts; verifying that two such parts implement the same computation is a prerequisite. Existing similarity measures evaluate either em"
     },
     {
-      "title": "Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation",
-      "url": "https://arxiv.org/abs/2605.12034",
-      "summary": "Omni-modal language models are intended to jointly understand audio, visual inputs, and language, but benchmark gains can be inflated when visual evidence alone is enough to answer a query. We study w"
+      "title": "Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing",
+      "url": "http://arxiv.org/abs/2605.15179v1",
+      "summary": "Scaling Scientific Machine Learning (SciML) toward universal foundation models is bottlenecked by negative transfer: the simultaneous co-training of disparate partial differential equation (PDE) regim"
     },
     {
-      "title": "BEAM: Binary Expert Activation Masking for Dynamic Routing in MoE",
-      "url": "https://arxiv.org/abs/2605.14438",
-      "summary": "Mixture-of-Experts (MoE) architectures enhance the efficiency of large language models by activating only a subset of experts per token. However, standard MoE employs a fixed Top-K routing strategy, l"
+      "title": "OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation",
+      "url": "http://arxiv.org/abs/2605.15177v1",
+      "summary": "Test-time compute scaling is a primary axis for improving LLM reasoning. Existing methods primarily scale depth by extending a single reasoning trace. Scaling breadth by sampling multiple candidates i"
     }
   ],
   "blog_posts": [
     {
-      "title": "DeepSeek V4: The Open-Source Model Frontier Labs Feared",
-      "url": "https://helloai.com/articles/deepseek-v4-open-source-frontier-parity",
-      "author": "helloai.com"
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "author": "seangoedecke.com"
     },
     {
-      "title": "The 52-Page Memo That Nearly Destroyed OpenAI: Ilya Sutskever's Deposition",
-      "url": "https://medium.com/@prateekj24/the-52-page-memo-that-nearly-destroyed-openai-inside-ilya-sutskevers-deposition-acef91208a1c",
-      "author": "medium.com"
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "author": "arxiv.org"
     },
     {
-      "title": "why use F# for scripting and automation?",
-      "url": "https://iev.ee/blog/why-use-fsharp/",
-      "author": "kryptiskt"
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "author": "openai.com"
     },
     {
-      "title": "Bigger AI models aren't always better. Here's how to actually choose.",
-      "url": "https://dev.to/aws/bigger-ai-models-arent-always-better-heres-how-to-actually-choose-56pc",
-      "author": "Rohini Gaonkar"
+      "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+      "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
+      "author": "firethering.com"
+    },
+    {
+      "title": "On biological neural systems underlying intelligence",
+      "url": "https://carlcorrensfoundation.medium.com/on-biological-neural-systems-underlying-intelligence-ebd1ec55bd70",
+      "author": "Gabriele Scheler"
+    },
+    {
+      "title": "Happycapy Review 2026: AI Agents Without Terminal Babysitting",
+      "url": "https://medium.com/@hungryclaw/happycapy-review-2026-ai-agents-without-terminal-babysitting-77c746437570",
+      "author": "Alex Whiteingale"
+    },
+    {
+      "title": "Who gets to define the future of design?",
+      "url": "https://medium.com/@dsmithdesignleadership/who-gets-to-define-the-future-of-design-d4daf95fb7a6",
+      "author": "Darren Smith"
     }
   ],
   "repos": [
     {
-      "name": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
-      "stars": 49934,
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 35155,
       "language": "Python"
     },
     {
-      "name": "NVIDIA-NeMo/NeMo",
-      "url": "https://github.com/NVIDIA-NeMo/NeMo",
-      "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
-      "stars": 17219,
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 33201,
       "language": "Python"
     },
     {
-      "name": "joeseesun/qiaomu-anything-to-notebooklm",
-      "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
-      "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
-      "stars": 2799,
+      "name": "confident-ai/deepeval",
+      "url": "https://github.com/confident-ai/deepeval",
+      "description": "The LLM Evaluation Framework",
+      "stars": 15488,
       "language": "Python"
     },
     {
-      "name": "yetone/native-feel-skill",
-      "url": "https://github.com/yetone/native-feel-skill",
-      "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer a",
-      "stars": 1097,
-      "language": null
+      "name": "BigBodyCobain/Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to",
+      "stars": 6584,
+      "language": "Python"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "stars": 2682,
+      "language": "TypeScript"
+    },
+    {
+      "name": "dograh-hq/dograh",
+      "url": "https://github.com/dograh-hq/dograh",
+      "description": "Open Source Voice Agent Platform",
+      "stars": 1357,
+      "language": "Python"
     }
   ],
   "tweets": []

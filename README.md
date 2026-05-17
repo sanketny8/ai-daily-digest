@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-17</strong></summary>
+
+#### Papers
+1. **[EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation](http://arxiv.org/abs/2605.15199v1)** — This paper addresses the challenge of maintaining consistent characters and locations in multi-shot video generation.
+2. **[ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](http://arxiv.org/abs/2605.15198v1)** — Explores a unified model approach for visual reasoning, enhancing image generation capabilities.
+3. **[RefDecoder: Enhancing Visual Generation with Conditional Video Decoding](http://arxiv.org/abs/2605.15196v1)** — Introduces a method to improve video generation through advanced conditional decoding techniques.
+4. **[FutureSim: Replaying World Events to Evaluate Adaptive Agents](http://arxiv.org/abs/2605.15188v1)** — Proposes a framework for assessing AI agents' adaptability in dynamic environments through event replay.
+5. **[VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction](http://arxiv.org/abs/2605.15186v1)** — Discusses advancements in 3D scene reconstruction using efficient feed-forward architectures.
+6. **[Quantitative Video World Model Evaluation for Geometric-Consistency](http://arxiv.org/abs/2605.15185v1)** — Evaluates generative video models for their ability to produce realistic 3D structures and motions.
+7. **[Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](http://arxiv.org/abs/2605.15184v1)** — Investigates the role of LLM agents in performing complex information retrieval and reasoning tasks.
+8. **[When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability](http://arxiv.org/abs/2605.15183v1)** — Focuses on verifying computational similarities in mechanistic interpretability of neural networks.
+9. **[Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing](http://arxiv.org/abs/2605.15179v1)** — Addresses the issue of negative transfer in scientific machine learning models for better performance.
+10. **[OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation](http://arxiv.org/abs/2605.15177v1)** — Proposes a method for enhancing LLM reasoning by scaling breadth through candidate sampling.
+
+#### Blog Posts
+1. **[DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)** by Sean Goedecke
+2. **[OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)** by OpenAI
+3. **[OpenAI is connecting ChatGPT to bank accounts via Plaid](https://firethering.com/chatgpt-bank-account-plaid-openai/)** by Firethering
+4. **[On biological neural systems underlying intelligence](https://carlcorrensfoundation.medium.com/on-biological-neural-systems-underlying-intelligence-ebd1ec55bd70)** by Gabriele Scheler
+5. **[Happycapy Review 2026: AI Agents Without Terminal Babysitting](https://medium.com/@hungryclaw/happycapy-review-2026-ai-agents-without-terminal-babysitting-77c746437570)** by Alex Whiteingale
+6. **[Who gets to define the future of design?](https://medium.com/@dsmithdesignleadership/who-gets-to-define-the-future-of-design-d4daf95fb7a6)** by Darren Smith
+
+#### Trending Repos
+1. **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — Making ALL Software Agent-Native. ⭐ 35155
+2. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** — A visual guide to Claude Code with practical templates. ⭐ 33201
+3. **[confident-ai/deepeval](https://github.com/confident-ai/deepeval)** — The LLM Evaluation Framework. ⭐ 15488
+4. **[BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** — Open-source intelligence platform for tracking various global events. ⭐ 6584
+5. **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** — Pre-indexed code knowledge graph for Claude Code. ⭐ 2682
+6. **[dograh-hq/dograh](https://github.com/dograh-hq/dograh)** — Open Source Voice Agent Platform. ⭐ 1357
+
+</details>
+
+<details>
 <summary><strong>2026-05-16</strong></summary>
 
 #### Papers
