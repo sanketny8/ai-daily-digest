@@ -1,135 +1,142 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "papers": [
     {
-      "title": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
-      "url": "http://arxiv.org/abs/2605.15199v1",
-      "summary": "Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque"
+      "title": "From Plans to Pixels: Learning to Plan and Orchestrate for Open-Ended Image Editing",
+      "url": "https://arxiv.org/abs/2605.15181",
+      "summary": "Modern image editing models produce realistic results but struggle with abstract, multi step instructions (e.g., ``make this advertisement more vegetarian-friendly''). Prior agent based methods decomp"
     },
     {
-      "title": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
-      "url": "http://arxiv.org/abs/2605.15198v1",
-      "summary": "Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is to directly generate images via unified models dur"
+      "title": "OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation",
+      "url": "https://arxiv.org/abs/2605.12038",
+      "summary": "Cross-embodiment video generation aims to transfer motions across different humanoid embodiments, such as human-to-robot and robot-to-robot, enabling scalable data generation for embodied intelligence"
     },
     {
-      "title": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
-      "url": "http://arxiv.org/abs/2605.15196v1",
-      "summary": "Video generation powers a vast array of downstream applications. However, while the de facto standard, i.e., latent diffusion models, typically employ heavily conditioned denoising networks, their dec"
+      "title": "Unlocking Dense Metric Depth Estimation in VLMs",
+      "url": "https://arxiv.org/abs/2605.15876",
+      "summary": "Vision-Language Models (VLMs) excel at 2D tasks such as grounding and captioning, yet remain limited in 3D understanding. A key limitation is their text-only supervision paradigm, which under-constrai"
     },
     {
-      "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
-      "url": "http://arxiv.org/abs/2605.15188v1",
-      "summary": "AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we"
+      "title": "FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization",
+      "url": "https://arxiv.org/abs/2605.15824",
+      "summary": "Human-centric video customization, particularly at the garment level, has shown significant commercial value. However, existing approaches cannot support low-latency and interactive garment control, w"
     },
     {
-      "title": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
-      "url": "http://arxiv.org/abs/2605.15186v1",
-      "summary": "High-quality 3D scene reconstruction has recently advanced toward generalizable feed-forward architectures, enabling the generation of complex environments in a single forward pass. However, despite t"
+      "title": "Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2605.14539",
+      "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) has emerged as an effective paradigm for improving the reasoning capabilities of large language models. However, RLVR training is often hindered b"
     },
     {
-      "title": "Quantitative Video World Model Evaluation for Geometric-Consistency",
-      "url": "http://arxiv.org/abs/2605.15185v1",
-      "summary": "Generative video models are increasingly studied as implicit world models, yet evaluating whether they produce physically plausible 3D structure and motion remains challenging. Most existing video eva"
+      "title": "DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo",
+      "url": "https://arxiv.org/abs/2605.16257",
+      "summary": "Achieving human-level manipulation requires dexterous robotic hands capable of complex object interactions. Advancing such capabilities further demands standardized benchmarks for systematic evaluatio"
     },
     {
-      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-      "url": "http://arxiv.org/abs/2605.15184v1",
-      "summary": "Recent advances in Large Language Model (LLM) agents have enabled complex agentic workflows where models autonomously retrieve information, call tools, and reason over large corpora to complete tasks "
+      "title": "WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes",
+      "url": "https://arxiv.org/abs/2605.15843",
+      "summary": "Recent 3D world modeling systems based on generative scene synthesis, such as Marble, can create coherent and explorable 3D environments, yet their outputs are typically static monolithic assets with "
     },
     {
-      "title": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability",
-      "url": "http://arxiv.org/abs/2605.15183v1",
-      "summary": "Mechanistic interpretability aims to break models into meaningful parts; verifying that two such parts implement the same computation is a prerequisite. Existing similarity measures evaluate either em"
+      "title": "Nudging Beyond the Comfort Zone: Efficient Strategy-Guided Exploration for RLVR",
+      "url": "https://arxiv.org/abs/2605.15726",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a scalable paradigm for improving the reasoning capabilities of large language models. However, its effectiveness is fundamentally "
     },
     {
-      "title": "Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing",
-      "url": "http://arxiv.org/abs/2605.15179v1",
-      "summary": "Scaling Scientific Machine Learning (SciML) toward universal foundation models is bottlenecked by negative transfer: the simultaneous co-training of disparate partial differential equation (PDE) regim"
+      "title": "MMSkills: Towards Multimodal Skills for General Visual Agents",
+      "url": "https://arxiv.org/abs/2605.13527",
+      "summary": "Reusable skills have become a core substrate for improving agent capabilities, yet most existing skill packages encode reusable behavior primarily as textual prompts, executable code, or learned routi"
     },
     {
-      "title": "OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation",
-      "url": "http://arxiv.org/abs/2605.15177v1",
-      "summary": "Test-time compute scaling is a primary axis for improving LLM reasoning. Existing methods primarily scale depth by extending a single reasoning trace. Scaling breadth by sampling multiple candidates i"
+      "title": "FFAvatar: Few-Shot, Feed-Forward, and Generalizable Avatar Reconstruction",
+      "url": "https://arxiv.org/abs/2605.15320",
+      "summary": "Avatar reconstruction has traditionally relied on per-subject optimization that requires hours of computation or on expensive preprocessing that limits scalability. We introduce FFAvatar, a generaliza"
     }
   ],
   "blog_posts": [
     {
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "url": "https://www.seangoedecke.com/steering-vectors/",
-      "author": "seangoedecke.com"
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble",
+      "author": "github.com"
     },
     {
-      "title": "δ-mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "author": "arxiv.org"
+      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "author": "hellmood.111mb.de"
     },
     {
-      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "author": "openai.com"
+      "title": "Agentic Trading with Safe Guardrails",
+      "url": "https://github.com/ShurikenTrade/shuriken-skills",
+      "author": "github.com"
     },
     {
-      "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
-      "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
-      "author": "firethering.com"
+      "title": "When the System Learned Too Well",
+      "url": "https://medium.com/@jawariamajeed065/when-the-system-learned-too-well-2691afe09f6f",
+      "author": "MetaCausality"
     },
     {
-      "title": "On biological neural systems underlying intelligence",
-      "url": "https://carlcorrensfoundation.medium.com/on-biological-neural-systems-underlying-intelligence-ebd1ec55bd70",
-      "author": "Gabriele Scheler"
+      "title": "From Silos to Systems: AI as an Organizational Glue",
+      "url": "https://jaideeparashar.medium.com/from-silos-to-systems-ai-as-an-organizational-glue-413a6134f768",
+      "author": "Jaideep Parashar"
     },
     {
-      "title": "Happycapy Review 2026: AI Agents Without Terminal Babysitting",
-      "url": "https://medium.com/@hungryclaw/happycapy-review-2026-ai-agents-without-terminal-babysitting-77c746437570",
-      "author": "Alex Whiteingale"
+      "title": "cgt-availability: A Python Library for Scientific Claim Diagnostics, Not Truth Judgments",
+      "url": "https://medium.com/@omanyuk/cgt-availability-a-python-library-for-scientific-claim-diagnostics-not-truth-judgments-f4f10055c271",
+      "author": "handman"
     },
     {
-      "title": "Who gets to define the future of design?",
-      "url": "https://medium.com/@dsmithdesignleadership/who-gets-to-define-the-future-of-design-d4daf95fb7a6",
-      "author": "Darren Smith"
+      "title": "The Time for Speed has Arrived",
+      "url": "https://warrenbrownwriter.medium.com/the-time-for-speed-has-arrived-bbac5769b584",
+      "author": "Warren Brown"
     }
   ],
   "repos": [
     {
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "stars": 35155,
+      "name": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 148409,
       "language": "Python"
     },
     {
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 33201,
-      "language": "Python"
-    },
-    {
-      "name": "confident-ai/deepeval",
-      "url": "https://github.com/confident-ai/deepeval",
-      "description": "The LLM Evaluation Framework",
-      "stars": 15488,
-      "language": "Python"
-    },
-    {
-      "name": "BigBodyCobain/Shadowbroker",
-      "url": "https://github.com/BigBodyCobain/Shadowbroker",
-      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to",
-      "stars": 6584,
-      "language": "Python"
-    },
-    {
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-      "stars": 2682,
+      "name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before",
+      "stars": 42831,
       "language": "TypeScript"
     },
     {
-      "name": "dograh-hq/dograh",
-      "url": "https://github.com/dograh-hq/dograh",
-      "description": "Open Source Voice Agent Platform",
-      "stars": 1357,
+      "name": "knadh/listmonk",
+      "url": "https://github.com/knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "stars": 20686,
+      "language": "Go"
+    },
+    {
+      "name": "NirDiamant/agents-towards-production",
+      "url": "https://github.com/NirDiamant/agents-towards-production",
+      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+      "stars": 20045,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "yichuan-w/LEANN",
+      "url": "https://github.com/yichuan-w/LEANN",
+      "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "stars": 11415,
+      "language": "Python"
+    },
+    {
+      "name": "simular-ai/Agent-S",
+      "url": "https://github.com/simular-ai/Agent-S",
+      "description": "Agent S: an open agentic framework that uses computers like a human",
+      "stars": 11385,
+      "language": "Python"
+    },
+    {
+      "name": "NVlabs/Sana",
+      "url": "https://github.com/NVlabs/Sana",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "stars": 6196,
       "language": "Python"
     }
   ],

@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-18</strong></summary>
+
+#### Papers
+1. **[From Plans to Pixels: Learning to Plan and Orchestrate for Open-Ended Image Editing](https://arxiv.org/abs/2605.15181)** — This paper addresses the challenges of modern image editing models in handling complex, multi-step instructions.
+2. **[OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation](https://arxiv.org/abs/2605.12038)** — It explores transferring motions across different humanoid embodiments, enhancing data generation for embodied intelligence.
+3. **[Unlocking Dense Metric Depth Estimation in VLMs](https://arxiv.org/abs/2605.15876)** — This work improves 3D understanding in Vision-Language Models, addressing limitations in their text-only supervision.
+4. **[FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization](https://arxiv.org/abs/2605.15824)** — The paper presents a method for low-latency, interactive customization of garments in videos.
+5. **[Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards](https://arxiv.org/abs/2605.14539)** — It discusses a new reinforcement learning paradigm that enhances reasoning in language models using verifiable rewards.
+6. **[DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo](https://arxiv.org/abs/2605.16257)** — This paper introduces benchmarks to evaluate dexterous robotic manipulation capabilities systematically.
+7. **[WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes](https://arxiv.org/abs/2605.15843)** — It focuses on transforming static 3D world models into interactive, object-centric environments.
+8. **[MMSkills: Towards Multimodal Skills for General Visual Agents](https://arxiv.org/abs/2605.13527)** — This research aims to enhance agent capabilities through reusable multimodal skills beyond textual prompts.
+9. **[Dynamics-Level Watermarking of Flow Matching Models with Random Codes](http://arxiv.org/abs/2605.16239v1)** — It proposes a novel method for watermarking generative models at the dynamics level, enhancing security.
+10. **[FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast](http://arxiv.org/abs/2605.16233v1)** — This paper presents a method for LLM agents to improve decision-making through self-generated memory without gradient updates.
+
+#### Blog Posts
+1. **[Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble)** by github.com
+2. **[Agentic Trading with Safe Guardrails](https://github.com/ShurikenTrade/shuriken-skills)** by github.com
+3. **[When the System Learned Too Well](https://medium.com/@jawariamajeed065/when-the-system-learned-too-well-2691afe09f6f)** by MetaCausality
+4. **[From Silos to Systems: AI as an Organizational Glue](https://jaideeparashar.medium.com/from-silos-to-systems-ai-as-an-organizational-glue-413a6134f768)** by Jaideep Parashar
+5. **[cgt-availability: A Python Library for Scientific Claim Diagnostics, Not Truth Judgments](https://medium.com/@omanyuk/cgt-availability-a-python-library-for-scientific-claim-diagnostics-not-truth-judgments-f4f10055c271)** by handman
+6. **[The Time for Speed has Arrived](https://warrenbrownwriter.medium.com/the-time-for-speed-has-arrived-bbac5769b584)** by Warren Brown
+
+#### Trending Repos
+1. **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** — Langflow is a powerful tool for building and deploying AI-powered agents and workflows. ⭐ 148409
+2. **[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)** — Shannon Lite is an autonomous AI pentester for web applications and APIs. ⭐ 42831
+3. **[knadh/listmonk](https://github.com/knadh/listmonk)** — High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ⭐ 20686
+4. **[NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)** — End-to-end tutorials for building production-grade GenAI agents. ⭐ 20045
+5. **[yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)** — RAG on Everything with LEANN, offering significant storage savings for private applications. ⭐ 11415
+6. **[simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)** — An open agentic framework that utilizes computers like a human. ⭐ 11385
+7. **[NVlabs/Sana](https://github.com/NVlabs/Sana)** — Efficient high-resolution image synthesis with Linear Diffusion Transformer. ⭐ 6196
+
+</details>
+
+<details>
 <summary><strong>2026-05-17</strong></summary>
 
 #### Papers

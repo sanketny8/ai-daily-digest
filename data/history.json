@@ -1,40 +1,4 @@
 {
-  "2026-04-17": {
-    "papers": [
-      "https://arxiv.org/abs/2604.14531",
-      "https://arxiv.org/abs/2604.14062",
-      "https://arxiv.org/abs/2604.11661",
-      "https://arxiv.org/abs/2604.15284",
-      "https://arxiv.org/abs/2603.27844",
-      "https://arxiv.org/abs/2604.04514",
-      "https://arxiv.org/abs/2604.14125",
-      "https://arxiv.org/abs/2604.14164",
-      "https://arxiv.org/abs/2604.14228",
-      "https://arxiv.org/abs/2604.13618"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/news/claude-opus-4-7",
-      "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "https://openai.com/index/codex-for-almost-everything/",
-      "https://blog.cloudflare.com/email-for-agents/",
-      "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-      "https://blog.cloudflare.com/ai-platform/",
-      "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
-      "https://anthropic.com/claude-opus-4-7-system-card",
-      "https://github.com/SeanFDZ/macmind"
-    ],
-    "repos": [
-      "https://github.com/oobabooga/textgen",
-      "https://github.com/datawhalechina/hello-agents",
-      "https://github.com/github/awesome-copilot",
-      "https://github.com/usestrix/strix",
-      "https://github.com/openai/openai-agents-python",
-      "https://github.com/topoteretes/cognee",
-      "https://github.com/jundot/omlx",
-      "https://github.com/BasedHardware/omi",
-      "https://github.com/EvoMap/evolver"
-    ]
-  },
   "2026-04-18": {
     "papers": [
       "https://arxiv.org/abs/2604.14265",
@@ -949,6 +913,38 @@
       "https://github.com/BigBodyCobain/Shadowbroker",
       "https://github.com/colbymchenry/codegraph",
       "https://github.com/dograh-hq/dograh"
+    ]
+  },
+  "2026-05-18": {
+    "papers": [
+      "https://arxiv.org/abs/2605.15181",
+      "https://arxiv.org/abs/2605.12038",
+      "https://arxiv.org/abs/2605.15876",
+      "https://arxiv.org/abs/2605.15824",
+      "https://arxiv.org/abs/2605.14539",
+      "https://arxiv.org/abs/2605.16257",
+      "https://arxiv.org/abs/2605.15843",
+      "https://arxiv.org/abs/2605.15726",
+      "https://arxiv.org/abs/2605.13527",
+      "https://arxiv.org/abs/2605.15320"
+    ],
+    "blogs": [
+      "https://github.com/MinishLab/semble",
+      "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "https://github.com/ShurikenTrade/shuriken-skills",
+      "https://medium.com/@jawariamajeed065/when-the-system-learned-too-well-2691afe09f6f",
+      "https://jaideeparashar.medium.com/from-silos-to-systems-ai-as-an-organizational-glue-413a6134f768",
+      "https://medium.com/@omanyuk/cgt-availability-a-python-library-for-scientific-claim-diagnostics-not-truth-judgments-f4f10055c271",
+      "https://warrenbrownwriter.medium.com/the-time-for-speed-has-arrived-bbac5769b584"
+    ],
+    "repos": [
+      "https://github.com/langflow-ai/langflow",
+      "https://github.com/KeygraphHQ/shannon",
+      "https://github.com/knadh/listmonk",
+      "https://github.com/NirDiamant/agents-towards-production",
+      "https://github.com/yichuan-w/LEANN",
+      "https://github.com/simular-ai/Agent-S",
+      "https://github.com/NVlabs/Sana"
     ]
   }
 }
