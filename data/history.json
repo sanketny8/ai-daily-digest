@@ -1,35 +1,4 @@
 {
-  "2026-04-18": {
-    "papers": [
-      "https://arxiv.org/abs/2604.14265",
-      "https://arxiv.org/abs/2604.14914",
-      "https://arxiv.org/abs/2604.14430",
-      "https://arxiv.org/abs/2211.16780",
-      "https://arxiv.org/abs/2604.12966",
-      "https://arxiv.org/abs/2604.15231",
-      "https://arxiv.org/abs/2604.14572",
-      "https://arxiv.org/abs/2604.11707",
-      "https://arxiv.org/abs/2604.14629",
-      "http://arxiv.org/abs/2604.15309v1"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
-      "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-      "https://isitagentready.com",
-      "https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab",
-      "https://dev.to/therealmrmumba/what-is-mcp-and-why-does-it-need-a-gateway-a-practical-guide-for-ai-engineers-2p0g"
-    ],
-    "repos": [
-      "https://github.com/anthropics/skills",
-      "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "https://github.com/lukilabs/craft-agents-oss",
-      "https://github.com/lsdefine/GenericAgent",
-      "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
-    ]
-  },
   "2026-04-19": {
     "papers": [
       "http://arxiv.org/abs/2604.15306v1",
@@ -945,6 +914,41 @@
       "https://github.com/yichuan-w/LEANN",
       "https://github.com/simular-ai/Agent-S",
       "https://github.com/NVlabs/Sana"
+    ]
+  },
+  "2026-05-19": {
+    "papers": [
+      "https://arxiv.org/abs/2605.18396",
+      "https://arxiv.org/abs/2605.18451",
+      "https://arxiv.org/abs/2605.17242",
+      "https://arxiv.org/abs/2605.18287",
+      "https://arxiv.org/abs/2605.18601",
+      "https://arxiv.org/abs/2605.16819",
+      "https://arxiv.org/abs/2605.17933",
+      "https://arxiv.org/abs/2605.18743",
+      "https://arxiv.org/abs/2605.18747",
+      "https://arxiv.org/abs/2605.16839"
+    ],
+    "blogs": [
+      "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "https://odyssey.ml/introducing-agora-1",
+      "https://modal.com/blog/truly-serverless-gpus",
+      "https://arxiv.org/abs/2601.10160",
+      "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+      "https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f",
+      "https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p",
+      "https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79",
+      "https://dev.to/devengers/honesty-is-the-best-policy-the-secret-wars-on-the-use-of-ai-on-dev-5606"
+    ],
+    "repos": [
+      "https://github.com/ggml-org/llama.cpp",
+      "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "https://github.com/humanlayer/12-factor-agents",
+      "https://github.com/topoteretes/cognee",
+      "https://github.com/GreyDGL/PentestGPT",
+      "https://github.com/Imbad0202/academic-research-skills",
+      "https://github.com/tech-leads-club/agent-skills"
     ]
   }
 }

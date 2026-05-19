@@ -1,143 +1,158 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "papers": [
     {
-      "title": "From Plans to Pixels: Learning to Plan and Orchestrate for Open-Ended Image Editing",
-      "url": "https://arxiv.org/abs/2605.15181",
-      "summary": "Modern image editing models produce realistic results but struggle with abstract, multi step instructions (e.g., ``make this advertisement more vegetarian-friendly''). Prior agent based methods decomp"
+      "title": "NEWTON: Agentic Planning for Physically Grounded Video Generation",
+      "url": "https://arxiv.org/abs/2605.18396",
+      "summary": "Video generation models produce visually compelling results but systematically violate physical commonsense -- on VideoPhy-2, the best model achieves only 32.6% joint accuracy. We identify a specifica"
     },
     {
-      "title": "OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation",
-      "url": "https://arxiv.org/abs/2605.12038",
-      "summary": "Cross-embodiment video generation aims to transfer motions across different humanoid embodiments, such as human-to-robot and robot-to-robot, enabling scalable data generation for embodied intelligence"
+      "title": "Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis",
+      "url": "https://arxiv.org/abs/2605.18451",
+      "summary": "Designing realistic and functional 3D indoor rooms is essential for a wide range of applications, including interior design, virtual reality, gaming, and embodied AI. While recent MLLM-based approache"
     },
     {
-      "title": "Unlocking Dense Metric Depth Estimation in VLMs",
-      "url": "https://arxiv.org/abs/2605.15876",
-      "summary": "Vision-Language Models (VLMs) excel at 2D tasks such as grounding and captioning, yet remain limited in 3D understanding. A key limitation is their text-only supervision paradigm, which under-constrai"
+      "title": "From Runnable to Shippable: Multi-Agent Test-Driven Development for Generating Full-Stack Web Applications from Requirements",
+      "url": "https://arxiv.org/abs/2605.17242",
+      "summary": "Coding agents can generate web applications from natural-language descriptions, yet a recent benchmark study shows that generated applications fail to meet functional requirements in over 70% of cases"
     },
     {
-      "title": "FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization",
-      "url": "https://arxiv.org/abs/2605.15824",
-      "summary": "Human-centric video customization, particularly at the garment level, has shown significant commercial value. However, existing approaches cannot support low-latency and interactive garment control, w"
+      "title": "StableVLA: Towards Robust Vision-Language-Action Models without Extra Data",
+      "url": "https://arxiv.org/abs/2605.18287",
+      "summary": "It is infeasible to encompass all possible disturbances within the training dataset. This raises a critical question regarding the robustness of Vision-Language-Action (VLA) models when encountering u"
     },
     {
-      "title": "Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards",
-      "url": "https://arxiv.org/abs/2605.14539",
-      "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) has emerged as an effective paradigm for improving the reasoning capabilities of large language models. However, RLVR training is often hindered b"
+      "title": "Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models",
+      "url": "https://arxiv.org/abs/2605.18601",
+      "summary": "Modern interactive video world models have achieved impressive visual fidelity, yet lack fine-grained multi-entity control and cross-entity, cross-world generalization. We trace this gap to the action"
     },
     {
-      "title": "DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo",
-      "url": "https://arxiv.org/abs/2605.16257",
-      "summary": "Achieving human-level manipulation requires dexterous robotic hands capable of complex object interactions. Advancing such capabilities further demands standardized benchmarks for systematic evaluatio"
+      "title": "AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents",
+      "url": "https://arxiv.org/abs/2605.16819",
+      "summary": "GPU kernel optimization is increasingly critical for efficient deep learning systems, but writing high-performance kernels still requires substantial low-level expertise. Recent AI coding agents can i"
     },
     {
-      "title": "WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes",
-      "url": "https://arxiv.org/abs/2605.15843",
-      "summary": "Recent 3D world modeling systems based on generative scene synthesis, such as Marble, can create coherent and explorable 3D environments, yet their outputs are typically static monolithic assets with "
+      "title": "AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents",
+      "url": "https://arxiv.org/abs/2605.17933",
+      "summary": "Vision-language model (VLM) agents increasingly rely on memory-augmented reinforcement learning to reuse experience across long-horizon tasks, yet most existing frameworks store memory as text and dep"
     },
     {
-      "title": "Nudging Beyond the Comfort Zone: Efficient Strategy-Guided Exploration for RLVR",
-      "url": "https://arxiv.org/abs/2605.15726",
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a scalable paradigm for improving the reasoning capabilities of large language models. However, its effectiveness is fundamentally "
+      "title": "Actionable World Representation",
+      "url": "https://arxiv.org/abs/2605.18743",
+      "summary": "Inspired by the emergent behaviors in large language models that generalized human intelligence, the research community is pursuing similar emergent capabilities within world models, with a emphasis o"
     },
     {
-      "title": "MMSkills: Towards Multimodal Skills for General Visual Agents",
-      "url": "https://arxiv.org/abs/2605.13527",
-      "summary": "Reusable skills have become a core substrate for improving agent capabilities, yet most existing skill packages encode reusable behavior primarily as textual prompts, executable code, or learned routi"
+      "title": "Code as Agent Harness",
+      "url": "https://arxiv.org/abs/2605.18747",
+      "summary": "Recent large language models (LLMs) have demonstrated strong capabilities in understanding and generating code, from competitive programming to repository-level software engineering. In emerging agent"
     },
     {
-      "title": "FFAvatar: Few-Shot, Feed-Forward, and Generalizable Avatar Reconstruction",
-      "url": "https://arxiv.org/abs/2605.15320",
-      "summary": "Avatar reconstruction has traditionally relied on per-subject optimization that requires hours of computation or on expensive preprocessing that limits scalability. We introduce FFAvatar, a generaliza"
+      "title": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection",
+      "url": "https://arxiv.org/abs/2605.16839",
+      "summary": "Chunked prefill has become a widely adopted serving strategy for long-context large language models, but efficient attention computation in this regime remains challenging. Existing sparse attention m"
     }
   ],
   "blog_posts": [
     {
-      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "url": "https://github.com/MinishLab/semble",
-      "author": "github.com"
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "author": "techcrunch.com"
     },
     {
-      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-      "author": "hellmood.111mb.de"
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "author": "anthropic.com"
     },
     {
-      "title": "Agentic Trading with Safe Guardrails",
-      "url": "https://github.com/ShurikenTrade/shuriken-skills",
-      "author": "github.com"
+      "title": "Agora-1: The Multi-Agent World Model",
+      "url": "https://odyssey.ml/introducing-agora-1",
+      "author": "odyssey.ml"
     },
     {
-      "title": "When the System Learned Too Well",
-      "url": "https://medium.com/@jawariamajeed065/when-the-system-learned-too-well-2691afe09f6f",
-      "author": "MetaCausality"
+      "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+      "url": "https://modal.com/blog/truly-serverless-gpus",
+      "author": "modal.com"
     },
     {
-      "title": "From Silos to Systems: AI as an Organizational Glue",
-      "url": "https://jaideeparashar.medium.com/from-silos-to-systems-ai-as-an-organizational-glue-413a6134f768",
-      "author": "Jaideep Parashar"
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "url": "https://arxiv.org/abs/2601.10160",
+      "author": "arxiv.org"
     },
     {
-      "title": "cgt-availability: A Python Library for Scientific Claim Diagnostics, Not Truth Judgments",
-      "url": "https://medium.com/@omanyuk/cgt-availability-a-python-library-for-scientific-claim-diagnostics-not-truth-judgments-f4f10055c271",
-      "author": "handman"
+      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+      "author": "Harsh "
     },
     {
-      "title": "The Time for Speed has Arrived",
-      "url": "https://warrenbrownwriter.medium.com/the-time-for-speed-has-arrived-bbac5769b584",
-      "author": "Warren Brown"
+      "title": "Your Codebase Has Technical Debt. But Does Your Team Have Comprehension Debt?",
+      "url": "https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f",
+      "author": "Julien Avezou"
+    },
+    {
+      "title": "I gave Claude six months of our retros. It found three things I'd missed.",
+      "url": "https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p",
+      "author": "Matt"
+    },
+    {
+      "title": "Rediscovering Domain-Driven Design, one MCP server at a time",
+      "url": "https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79",
+      "author": "Dennis Traub"
+    },
+    {
+      "title": "Honesty is the best Policy. The Secret Wars on the use of AI on DEV",
+      "url": "https://dev.to/devengers/honesty-is-the-best-policy-the-secret-wars-on-the-use-of-ai-on-dev-5606",
+      "author": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     }
   ],
   "repos": [
     {
-      "name": "langflow-ai/langflow",
-      "url": "https://github.com/langflow-ai/langflow",
-      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-      "stars": 148409,
+      "name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "stars": 111172,
+      "language": "C++"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "stars": 37379,
       "language": "Python"
     },
     {
-      "name": "KeygraphHQ/shannon",
-      "url": "https://github.com/KeygraphHQ/shannon",
-      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before",
-      "stars": 42831,
+      "name": "humanlayer/12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "stars": 20786,
       "language": "TypeScript"
     },
     {
-      "name": "knadh/listmonk",
-      "url": "https://github.com/knadh/listmonk",
-      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
-      "stars": 20686,
-      "language": "Go"
-    },
-    {
-      "name": "NirDiamant/agents-towards-production",
-      "url": "https://github.com/NirDiamant/agents-towards-production",
-      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
-      "stars": 20045,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "name": "yichuan-w/LEANN",
-      "url": "https://github.com/yichuan-w/LEANN",
-      "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-      "stars": 11415,
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Memory control plane for AI Agents in 6 lines of code",
+      "stars": 17329,
       "language": "Python"
     },
     {
-      "name": "simular-ai/Agent-S",
-      "url": "https://github.com/simular-ai/Agent-S",
-      "description": "Agent S: an open agentic framework that uses computers like a human",
-      "stars": 11385,
+      "name": "GreyDGL/PentestGPT",
+      "url": "https://github.com/GreyDGL/PentestGPT",
+      "description": "Automated Penetration Testing Agentic Framework Powered by Large Language Models",
+      "stars": 13172,
       "language": "Python"
     },
     {
-      "name": "NVlabs/Sana",
-      "url": "https://github.com/NVlabs/Sana",
-      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
-      "stars": 6196,
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars": 12468,
       "language": "Python"
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "stars": 4152,
+      "language": "TypeScript"
     }
   ],
   "tweets": []

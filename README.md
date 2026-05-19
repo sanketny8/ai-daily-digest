@@ -10,6 +10,43 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-19</strong></summary>
+
+#### Papers
+1. **[NEWTON: Agentic Planning for Physically Grounded Video Generation](https://arxiv.org/abs/2605.18396)** — This paper addresses the limitations of video generation models in adhering to physical commonsense.
+2. **[Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis](https://arxiv.org/abs/2605.18451)** — Proposes a method for creating realistic 3D indoor environments from top-down images using AI-generated code.
+3. **[From Runnable to Shippable: Multi-Agent Test-Driven Development for Generating Full-Stack Web Applications from Requirements](https://arxiv.org/abs/2605.17242)** — Introduces a framework for generating functional web applications from natural language descriptions, addressing high failure rates.
+4. **[StableVLA: Towards Robust Vision-Language-Action Models without Extra Data](https://arxiv.org/abs/2605.18287)** — Explores improving the robustness of Vision-Language-Action models in the face of unforeseen disturbances.
+5. **[Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models](https://arxiv.org/abs/2605.18601)** — Investigates using natural language for better control in interactive video world models.
+6. **[AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents](https://arxiv.org/abs/2605.16819)** — Focuses on benchmarking AI agents that optimize GPU kernels for better deep learning performance.
+7. **[AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents](https://arxiv.org/abs/2605.17933)** — Discusses a memory-augmented approach for vision-language model agents to enhance learning without supervision.
+8. **[Actionable World Representation](https://arxiv.org/abs/2605.18743)** — Explores emergent capabilities in world models inspired by human intelligence, aiming for actionable representations.
+9. **[Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation](https://arxiv.org/abs/2605.18740)** — Proposes a method for improving fine-grained visual understanding in multimodal large language models.
+10. **[What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models](https://arxiv.org/abs/2605.18738)** — Analyzes ethical dilemmas in AI applications in medicine, emphasizing the importance of pluralistic perspectives.
+
+#### Blog Posts
+1. **[Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)** by techcrunch.com
+2. **[Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)** by anthropic.com
+3. **[Agora-1: The Multi-Agent World Model](https://odyssey.ml/introducing-agora-1)** by odyssey.ml
+4. **[Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint](https://modal.com/blog/truly-serverless-gpus)** by modal.com
+5. **[DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You](https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47)** by Harsh
+6. **[Your Codebase Has Technical Debt. But Does Your Team Have Comprehension Debt?](https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f)** by Julien Avezou
+7. **[I gave Claude six months of our retros. It found three things I'd missed.](https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p)** by Matt
+8. **[Rediscovering Domain-Driven Design, one MCP server at a time](https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79)** by Dennis Traub
+9. **[Honesty is the best Policy. The Secret Wars on the use of AI on DEV](https://dev.to/devengers/honesty-is-the-best-policy-the-secret-wars-on-the-use-of-ai-on-dev-5606)** by FrancisTRᴅᴇᴠ (っ◔◡◔)っ
+
+#### Trending Repos
+1. **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** — LLM inference in C/C++. ⭐ 111172
+2. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM-powered stock analysis system for A/H/US markets. ⭐ 37379
+3. **[humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)** — Principles for building LLM-powered software suitable for production. ⭐ 20786
+4. **[topoteretes/cognee](https://github.com/topoteretes/cognee)** — Memory control plane for AI Agents in 6 lines of code. ⭐ 17329
+5. **[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)** — Automated Penetration Testing Agentic Framework Powered by Large Language Models. ⭐ 13172
+6. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — Academic Research Skills for Claude Code: research → write → review → revise → finalize. ⭐ 12468
+7. **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** — Secure skill registry for professional AI coding agents. ⭐ 4152
+
+</details>
+
+<details>
 <summary><strong>2026-05-18</strong></summary>
 
 #### Papers
