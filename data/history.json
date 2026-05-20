@@ -1,33 +1,4 @@
 {
-  "2026-04-19": {
-    "papers": [
-      "http://arxiv.org/abs/2604.15306v1",
-      "http://arxiv.org/abs/2604.15302v1",
-      "http://arxiv.org/abs/2604.15297v1",
-      "http://arxiv.org/abs/2604.15294v1",
-      "http://arxiv.org/abs/2604.15291v1",
-      "http://arxiv.org/abs/2604.15285v1",
-      "http://arxiv.org/abs/2604.15280v1",
-      "http://arxiv.org/abs/2604.15273v1",
-      "http://arxiv.org/abs/2604.15272v1"
-    ],
-    "blogs": [
-      "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
-      "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
-      "https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f",
-      "https://www.artificialintelligencemadesimple.com/p/anthropics-claude-mythos-launch-is",
-      "https://medium.com/@sovannaro/ai-can-write-code-but-it-cannot-replace-real-developers-eb0f85b6f1e4",
-      "https://medium.com/@3rror6t9/the-business-portrait-problem-why-most-professionals-look-amateur-online-c323a82fead9"
-    ],
-    "repos": [
-      "https://github.com/deepseek-ai/DeepGEMM",
-      "https://github.com/aaddrick/claude-desktop-debian",
-      "https://github.com/dimensionalOS/dimos",
-      "https://github.com/AI4Finance-Foundation/FinRL-Trading",
-      "https://github.com/thunderbird/thunderbolt"
-    ]
-  },
   "2026-04-20": {
     "papers": [
       "https://arxiv.org/abs/2502.07408",
@@ -949,6 +920,36 @@
       "https://github.com/GreyDGL/PentestGPT",
       "https://github.com/Imbad0202/academic-research-skills",
       "https://github.com/tech-leads-club/agent-skills"
+    ]
+  },
+  "2026-05-20": {
+    "papers": [
+      "https://arxiv.org/abs/2605.15458",
+      "https://arxiv.org/abs/2605.19932",
+      "https://arxiv.org/abs/2605.18746",
+      "https://arxiv.org/abs/2605.18703",
+      "https://arxiv.org/abs/2605.18827",
+      "https://arxiv.org/abs/2605.18714",
+      "https://arxiv.org/abs/2605.19577",
+      "https://arxiv.org/abs/2605.19995",
+      "https://arxiv.org/abs/2605.20183",
+      "https://arxiv.org/abs/2605.18748"
+    ],
+    "blogs": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "https://github.com/antoinezambelli/forge",
+      "https://deepmind.google/models/gemini-omni/",
+      "https://openai.com/index/advancing-content-provenance/",
+      "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+      "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g"
+    ],
+    "repos": [
+      "https://github.com/multica-ai/andrej-karpathy-skills",
+      "https://github.com/anthropics/skills",
+      "https://github.com/unslothai/unsloth",
+      "https://github.com/rtk-ai/rtk"
     ]
   }
 }

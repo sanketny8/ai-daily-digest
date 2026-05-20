@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-20</strong></summary>
+
+#### Papers
+1. **[Video Models Can Reason with Verifiable Rewards](https://arxiv.org/abs/2605.15458)** — This paper explores enhancing video diffusion models for better reasoning capabilities beyond mere generation.
+2. **[PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents](https://arxiv.org/abs/2605.19932)** — Introduces a method for LLM agents to efficiently manage long and recurring external contexts.
+3. **[ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop](https://arxiv.org/abs/2605.18746)** — Proposes a framework for agents to improve spatial intelligence through active observation and reasoning.
+4. **[EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL](https://arxiv.org/abs/2605.18703)** — Addresses challenges in equipping LLMs with tool-use capabilities through robust reinforcement learning.
+5. **[Code-Guided Reasoning for Small Language Models: Evaluating Executable MCQA Scaffolds](https://arxiv.org/abs/2605.18827)** — Evaluates how external scaffolds can enhance the reasoning capabilities of small language models in QA tasks.
+6. **[Semantic Generative Tuning for Unified Multimodal Models](https://arxiv.org/abs/2605.18714)** — Discusses a training paradigm for unified multimodal models to improve both visual understanding and generation.
+7. **[GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment](https://arxiv.org/abs/2605.19577)** — Introduces a post-training method for long-context reinforcement learning with a focus on capability alignment.
+8. **[CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition](https://arxiv.org/abs/2605.19995)** — Explores the integration of reasoning in video generation to enhance creative control and output quality.
+9. **[MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation](https://arxiv.org/abs/2605.20183)** — Proposes a benchmark for evaluating complex audio-video generation models in real-world scenarios.
+10. **[Aurora: Unified Video Editing with a Tool-Using Agent](https://arxiv.org/abs/2605.18748)** — Presents a unified approach to video editing that integrates various input modalities into a single model.
+
+#### Blog Posts
+1. **[Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)** by Google Blog
+2. **[Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge)** by GitHub
+3. **[Gemini Omni](https://deepmind.google/models/gemini-omni/)** by DeepMind
+4. **[OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)** by OpenAI
+5. **[Mistral AI acquires Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)** by Emmi AI
+6. **[Intro to TLA+ for the LLM Era: Prompt Your Way to Victory](https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/)** by Empty Square
+7. **[Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities](https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html)** by Gentoo
+8. **[What If Every Phone in the Room Was a Game Controller — in the Age of AI?](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g)** by Tim Vučina
+
+#### Trending Repos
+1. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — A resource to enhance Claude Code behavior based on LLM coding insights. ⭐ 138808
+2. **[anthropics/skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills. ⭐ 137779
+3. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** — Web UI for training and running open models locally. ⭐ 64753
+4. **[rtk-ai/rtk](https://github.com/rtk-ai/rtk)** — CLI proxy that significantly reduces LLM token consumption on common commands. ⭐ 51182
+
+</details>
+
+<details>
 <summary><strong>2026-05-19</strong></summary>
 
 #### Papers
