@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-21</strong></summary>
+
+#### Papers
+1. **[You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories](https://arxiv.org/abs/2605.21468)** — This paper explores a minimal reinforcement learning approach to enhance reasoning in large language models.
+2. **[OCTOPUS: Optimized KV Cache for Transformers via Octahedral Parametrization Under optimal Squared error quantization](https://arxiv.org/abs/2605.21226)** — Introduces a new method to optimize memory usage in transformers during long-context inference.
+3. **[Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency](https://arxiv.org/abs/2605.19008)** — Discusses strategies to stabilize language model training under stressful conditions to improve efficiency.
+4. **[IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools](https://arxiv.org/abs/2605.20682)** — Presents a multimodal approach for detecting industrial anomalies using large language models.
+5. **[Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection](https://arxiv.org/abs/2602.07892)** — Explores methods to enhance safety in language models while minimizing the trade-off in general utility.
+6. **[Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment](https://arxiv.org/abs/2605.20834)** — Analyzes the theoretical equivalence between Direct Preference Optimization and Reinforcement Learning from Human Feedback.
+7. **[OcclusionFormer: Arranging Z-Order for Layout-Grounded Image Generation](https://arxiv.org/abs/2605.21343)** — Addresses challenges in generating images with complex object occlusions in layout-to-image models.
+8. **[DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation](http://arxiv.org/abs/2605.21482v1)** — Proposes a benchmark for evaluating language models on deep research tasks requiring extensive reasoning.
+9. **[AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists](http://arxiv.org/abs/2605.21481v1)** — Discusses a new platform aimed at enhancing access to AI-generated and human-authored research.
+10. **[iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance](https://arxiv.org/abs/2605.21431)** — Introduces a method for interactive video virtual try-on that maintains temporal consistency in garment replacement.
+
+#### Blog Posts
+1. **[An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)** by OpenAI
+2. **[Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7)** by Qwen.ai
+3. **[Learnings from 100K lines of Rust with AI (2025)](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html)** by zfhuang99
+4. **[Formal Verification Gates for AI Coding Loops](https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/)** by Reuben Brooks
+5. **[OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)** by CNBC
+6. **[When Fast Fourier Transform Meets Transformer for Image Restoration (2024)](https://github.com/deng-ai-lab/SFHformer)** by Deng AI Lab
+7. **[Autoregressive next token prediction and KV Cache in transformers](https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf)** by Medium
+8. **[PopuLoRA: Co-Evolving LLM Populations for Reasoning Self-Play](https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play)** by Vmax.ai
+
+#### Trending Repos
+1. **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** — AI agents running research on single-GPU nanochat training automatically. ⭐ 82390
+2. **[vllm-project/vllm](https://github.com/vllm-project/vllm)** — A high-throughput and memory-efficient inference and serving engine for LLMs. ⭐ 80603
+3. **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)** — Open-source context database for AI agents, unifying context management. ⭐ 24335
+4. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** — AI generates natively editable PPTX from any document. ⭐ 19110
+
+</details>
+
+<details>
 <summary><strong>2026-05-20</strong></summary>
 
 #### Papers
