@@ -10,6 +10,36 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-22</strong></summary>
+
+#### Papers
+1. **[Q-ARVD: Quantizing Autoregressive Video Diffusion Models](https://arxiv.org/abs/2605.21072)** — This paper explores real-time interactive video generation using autoregressive video diffusion models.
+2. **[ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning](https://arxiv.org/abs/2605.20176)** — The study presents a system for automating clinical decision support using large language models.
+3. **[LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning](https://arxiv.org/abs/2605.22012)** — This research addresses challenges in joint audio-visual reasoning for enhanced multimodal understanding.
+4. **[SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation](https://arxiv.org/abs/2605.22536)** — The paper critiques existing benchmarks for spatial reasoning, emphasizing the need for real-world visual degradation considerations.
+5. **[One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems](https://arxiv.org/abs/2605.22144)** — This work introduces a multi-agent system for generating personalized short dramas, enhancing narrative creativity.
+6. **[Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking](https://arxiv.org/abs/2605.22538)** — The paper proposes a method for visual object tracking that adapts to complex scenarios without task-specific training.
+7. **[PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects](https://arxiv.org/abs/2605.21572)** — This research focuses on generating simulation-ready 3D assets for various applications in physical simulations.
+8. **[DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2605.21467)** — The study presents a novel approach to improve reinforcement learning through verifiable rewards and token credit assignment.
+9. **[SceneAligner: 3D-Grounded Floorplan Localization in the Wild](https://arxiv.org/abs/2605.22581)** — This paper discusses a method for localizing floorplans in public buildings using computational techniques.
+10. **[Training Large Language Models to Predict Clinical Events](https://arxiv.org/abs/2605.12817)** — The research addresses the challenges of training models on longitudinal clinical notes for predicting patient outcomes.
+
+#### Blog Posts
+1. **[Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)** by rosmine.ai
+2. **[Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)** by qz.com
+3. **[OpenAI Is Preparing to File for an IPO Soon](https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5)** by wsj.com
+4. **[Building a Database Performance Testing Tool With AI: The Honest Breakdown](https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c)** by Alicia Marianne Gonçalves
+5. **[I Used to Get Excited About New Tools Now I Feel Tired.](https://dev.to/harsh2644/i-used-to-get-excited-about-new-tools-now-i-feel-tired-1e18)** by Harsh
+6. **[Frameworks Are No Longer Being Designed Only for Humans](https://dev.to/hemapriya_kanagala/frameworks-are-no-longer-being-designed-only-for-humans-13de)** by Hemapriya Kanagala
+
+#### Trending Repos
+1. **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — Chrome DevTools for coding agents. ⭐ 40605
+2. **[multica-ai/multica](https://github.com/multica-ai/multica)** — The open-source managed agents platform for coding agents. ⭐ 30946
+3. **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** — Create interactive knowledge graphs from code. ⭐ 16931
+
+</details>
+
+<details>
 <summary><strong>2026-05-21</strong></summary>
 
 #### Papers

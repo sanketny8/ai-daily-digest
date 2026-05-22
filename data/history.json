@@ -1,35 +1,4 @@
 {
-  "2026-04-21": {
-    "papers": [
-      "https://arxiv.org/abs/2604.16902",
-      "https://arxiv.org/abs/2604.17308",
-      "https://arxiv.org/abs/2604.18394",
-      "https://arxiv.org/abs/2604.17388",
-      "https://arxiv.org/abs/2604.17454",
-      "https://arxiv.org/abs/2604.16893",
-      "https://arxiv.org/abs/2604.11102",
-      "https://arxiv.org/abs/2604.18574",
-      "https://arxiv.org/abs/2604.17406",
-      "https://arxiv.org/abs/2604.18131"
-    ],
-    "blogs": [
-      "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-      "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-      "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
-      "https://docs.openclaw.ai/providers/anthropic",
-      "https://mediator.ai/",
-      "https://dev.to/lovestaco/what-building-with-mcp-taught-me-about-its-biggest-gap-idl",
-      "https://dev.to/jon_at_backboardio/two-days-two-hacks-the-lovable-disclosure-and-the-pattern-nobody-wants-to-talk-about-47eh"
-    ],
-    "repos": [
-      "https://github.com/koala73/worldmonitor",
-      "https://github.com/kyegomez/swarms",
-      "https://github.com/alexzhang13/rlm",
-      "https://github.com/alchaincyf/huashu-design",
-      "https://github.com/kangarooking/cangjie-skill"
-    ]
-  },
   "2026-04-22": {
     "papers": [
       "https://arxiv.org/abs/2604.17982",
@@ -950,6 +919,34 @@
       "https://github.com/vllm-project/vllm",
       "https://github.com/volcengine/OpenViking",
       "https://github.com/hugohe3/ppt-master"
+    ]
+  },
+  "2026-05-22": {
+    "papers": [
+      "https://arxiv.org/abs/2605.21072",
+      "https://arxiv.org/abs/2605.20176",
+      "https://arxiv.org/abs/2605.22012",
+      "https://arxiv.org/abs/2605.22536",
+      "https://arxiv.org/abs/2605.22144",
+      "https://arxiv.org/abs/2605.22538",
+      "https://arxiv.org/abs/2605.21572",
+      "https://arxiv.org/abs/2605.21467",
+      "https://arxiv.org/abs/2605.22581",
+      "https://arxiv.org/abs/2605.12817"
+    ],
+    "blogs": [
+      "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
+      "https://arxiv.org/abs/2605.12460",
+      "https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c",
+      "https://dev.to/harsh2644/i-used-to-get-excited-about-new-tools-now-i-feel-tired-1e18",
+      "https://dev.to/hemapriya_kanagala/frameworks-are-no-longer-being-designed-only-for-humans-13de"
+    ],
+    "repos": [
+      "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "https://github.com/multica-ai/multica",
+      "https://github.com/Lum1104/Understand-Anything"
     ]
   }
 }
