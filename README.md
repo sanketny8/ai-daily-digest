@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-23</strong></summary>
+
+#### Papers
+1. **[LoREnc: Low-Rank Encryption for Securing Foundation Models and LoRA Adapters](https://arxiv.org/abs/2605.13163)** — This paper addresses security risks in generative AI models, proposing low-rank encryption as a defense.
+2. **[AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment](https://arxiv.org/abs/2605.17602)** — It presents a new model for aligning text-to-image generation with human preferences using robust scoring methods.
+3. **[Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators](https://arxiv.org/abs/2605.22717)** — This research explores interactive music generation for live performances, enhancing the capabilities of existing models.
+4. **[Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation](https://arxiv.org/abs/2605.15669)** — The paper benchmarks language models in generating scripts for design rule checking in chip layouts.
+5. **[Forecasting Scientific Progress with Artificial Intelligence](https://arxiv.org/abs/2605.22681)** — It investigates AI's role in predicting advancements in scientific research and discovery.
+6. **[SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild](https://arxiv.org/abs/2605.07604)** — This study tackles the challenges of reconstructing 3D models of animals from diverse and complex images.
+7. **[Efficient Agentic Reasoning Through Self-Regulated Simulative Planning](https://arxiv.org/abs/2605.22138)** — The paper discusses how agents can optimize planning and decision-making processes in dynamic environments.
+8. **[Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry](https://arxiv.org/abs/2605.20496)** — It explores the convergence of representations in neural networks and their implications for understanding geometry.
+9. **[AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild](https://arxiv.org/abs/2605.22715)** — This research presents a method for modeling human motion that adapts to various environments and contexts.
+10. **[Evaluating Commercial AI Chatbots as News Intermediaries](https://arxiv.org/abs/2605.22785)** — The study assesses the accuracy and impact of AI chatbots in delivering news to users.
+
+#### Blog Posts
+1. **[Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)** by modelrift.com
+2. **[Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)** by github.com
+3. **[Microsoft reports AI is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)** by fortune.com
+4. **[How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV](https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f)** by Ben Halpern
+5. **[The Most Concerning AI Risk of 2026](https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d)** by Sacha Greif
+6. **[Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.22001)** by arxiv.org
+
+#### Trending Repos
+1. **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** — The agent engineering platform. ⭐ 137429
+2. **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** — Modern finance application for market analytics and investment research. ⭐ 22726
+3. **[karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)** — Comprehensive guide to neural networks from basics to advanced concepts. ⭐ 22461
+4. **[aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)** — Autonomous research tool that generates papers from ideas. ⭐ 12517
+5. **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Educational resource for building AI systems from the ground up. ⭐ 12202
+6. **[facebookresearch/sam3](https://github.com/facebookresearch/sam3)** — Code and resources for the Meta Segment Anything Model 3. ⭐ 10061
+7. **[HKUDS/ViMax](https://github.com/HKUDS/ViMax)** — All-in-one video generation tool for creating videos autonomously. ⭐ 6761
+8. **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** — AI coding agent for terminal operations with optimized tools. ⭐ 6431
+
+</details>
+
+<details>
 <summary><strong>2026-05-22</strong></summary>
 
 #### Papers

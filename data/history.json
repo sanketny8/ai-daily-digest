@@ -1,35 +1,4 @@
 {
-  "2026-04-22": {
-    "papers": [
-      "https://arxiv.org/abs/2604.17982",
-      "https://arxiv.org/abs/2604.16913",
-      "https://arxiv.org/abs/2604.16060",
-      "https://arxiv.org/abs/2604.18518",
-      "https://arxiv.org/abs/2604.16054",
-      "https://arxiv.org/abs/2602.10751",
-      "https://arxiv.org/abs/2604.19747",
-      "https://arxiv.org/abs/2604.17761",
-      "https://arxiv.org/abs/2604.19587",
-      "https://arxiv.org/abs/2604.17397"
-    ],
-    "blogs": [
-      "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-      "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "https://github.com/ENTERPILOT/GOModel/",
-      "https://nial.se/blog/less-human-ai-agents-please/",
-      "https://www.brex.com/crabtrap",
-      "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/"
-    ],
-    "repos": [
-      "https://github.com/microsoft/ai-agents-for-beginners",
-      "https://github.com/PrefectHQ/fastmcp",
-      "https://github.com/OthmanAdi/planning-with-files",
-      "https://github.com/VoltAgent/awesome-agent-skills",
-      "https://github.com/MoonshotAI/kimi-cli",
-      "https://github.com/zilliztech/claude-context"
-    ]
-  },
   "2026-04-23": {
     "papers": [
       "https://arxiv.org/abs/2604.19945",
@@ -947,6 +916,38 @@
       "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "https://github.com/multica-ai/multica",
       "https://github.com/Lum1104/Understand-Anything"
+    ]
+  },
+  "2026-05-23": {
+    "papers": [
+      "https://arxiv.org/abs/2605.13163",
+      "https://arxiv.org/abs/2605.17602",
+      "https://arxiv.org/abs/2605.22717",
+      "https://arxiv.org/abs/2605.15669",
+      "https://arxiv.org/abs/2605.22681",
+      "https://arxiv.org/abs/2605.07604",
+      "https://arxiv.org/abs/2605.22138",
+      "https://arxiv.org/abs/2605.20496",
+      "https://arxiv.org/abs/2605.22715",
+      "https://arxiv.org/abs/2605.20405"
+    ],
+    "blogs": [
+      "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "https://github.com/anomalyco/models.dev",
+      "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
+      "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "https://arxiv.org/abs/2605.22001"
+    ],
+    "repos": [
+      "https://github.com/langchain-ai/langchain",
+      "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "https://github.com/karpathy/nn-zero-to-hero",
+      "https://github.com/aiming-lab/AutoResearchClaw",
+      "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "https://github.com/facebookresearch/sam3",
+      "https://github.com/HKUDS/ViMax",
+      "https://github.com/can1357/oh-my-pi"
     ]
   }
 }
