@@ -1,145 +1,118 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "papers": [
     {
-      "title": "LoREnc: Low-Rank Encryption for Securing Foundation Models and LoRA Adapters",
-      "url": "https://arxiv.org/abs/2605.13163",
-      "summary": "Foundation models and low-rank adapters enable efficient on-device generative AI but raise risks such as intellectual property leakage and model recovery attacks. Existing defenses are often impractic"
+      "title": "Tokenisation via Convex Relaxations",
+      "url": "http://arxiv.org/abs/2605.22821v1",
+      "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t"
     },
     {
-      "title": "AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment",
-      "url": "https://arxiv.org/abs/2605.17602",
-      "summary": "Aligning Text-to-Image (T2I) generation models with human preferences increasingly relies on image reward models that score or rank generated images according to prompt alignment and perceptual qualit"
+      "title": "Integrable Elasticity via Neural Demand Potentials",
+      "url": "http://arxiv.org/abs/2605.22820v1",
+      "summary": "We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-first neural model for multiproduct retail demand. The model learns log-demand as a smooth, context-conditioned function of "
     },
     {
-      "title": "Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators",
-      "url": "https://arxiv.org/abs/2605.22717",
-      "summary": "Interactive streaming music generation promises the use of generative models for live performance and co-creation that is impossible with offline models. However, SOTA models exist in the discrete-AR "
+      "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "url": "http://arxiv.org/abs/2605.22817v1",
+      "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific "
     },
     {
-      "title": "Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation",
-      "url": "https://arxiv.org/abs/2605.15669",
-      "summary": "Manufacturable chip layouts must satisfy thousands of geometry-based design rules, and design rule checking (DRC) enforces them by running executable DRC scripts on layouts. Translating natural langua"
+      "title": "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
+      "url": "http://arxiv.org/abs/2605.22814v1",
+      "summary": "Exploration is a prerequisite for learning useful behaviors in sparse-reward, long-horizon tasks, particularly within 3D environments. Curiosity-driven reinforcement learning addresses this via intrin"
     },
     {
-      "title": "Forecasting Scientific Progress with Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2605.22681",
-      "summary": "Artificial intelligence (AI) is increasingly embedded in scientific discovery, yet whether it can anticipate scientific progress remains unclear. To study this question, we introduce a temporally grou"
+      "title": "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+      "url": "http://arxiv.org/abs/2605.22800v1",
+      "summary": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a"
     },
     {
-      "title": "SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild",
-      "url": "https://arxiv.org/abs/2605.07604",
-      "summary": "3D animal reconstruction in the wild remains challenging due to large species variation, frequent occlusions, and the prevalence of multi-animal scenes, while existing methods predominantly focus on s"
+      "title": "Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models",
+      "url": "http://arxiv.org/abs/2605.22795v1",
+      "summary": "We propose and analyze a conservative drifting method for one-step generative modeling. The method replaces the original displacement-based drifting velocity by a kernel density estimator (KDE)-gradie"
     },
     {
-      "title": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning",
-      "url": "https://arxiv.org/abs/2605.22138",
-      "summary": "How should an agent decide when and how to plan? A dominant approach builds agents as reactive policies with adaptive computation (e.g., chain-of-thought), trained end-to-end expecting planning to eme"
+      "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+      "url": "http://arxiv.org/abs/2605.22794v1",
+      "summary": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving a"
     },
     {
-      "title": "Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry",
-      "url": "https://arxiv.org/abs/2605.20496",
-      "summary": "The Strong Platonic Representation Hypothesis suggests that representational convergence in artificial neural networks can be harnessed constructively: embeddings can be translated across models throu"
+      "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "url": "http://arxiv.org/abs/2605.22791v1",
+      "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just"
     },
     {
-      "title": "AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild",
-      "url": "https://arxiv.org/abs/2605.22715",
-      "summary": "As wearable and mobile devices become increasingly embedded in daily life, they offer a practical way to continuously sense human motion in the wild. But inertial signals are highly dependent on the s"
+      "title": "LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems",
+      "url": "http://arxiv.org/abs/2605.22786v1",
+      "summary": "Large language model (LLM)-based multi-agent systems increasingly rely on intermediate communication to coordinate complex tasks. While most existing systems communicate through natural language, rece"
     },
     {
-      "title": "Disentangling Sampling from Training Budget in Class-Imbalanced CT Body Composition Segmentation",
-      "url": "https://arxiv.org/abs/2605.20405",
-      "summary": "Class imbalance is a fundamental challenge in medical image segmentation, where frequent classes typically dominate training at the expense of rare classes. Loss-based approaches mitigate imbalance by"
+      "title": "Evaluating Commercial AI Chatbots as News Intermediaries",
+      "url": "http://arxiv.org/abs/2605.22785v1",
+      "summary": "AI chatbots are rapidly shaping how people encounter the news, yet no prior study has systematically measured how accurately these systems, with their proprietary search integrations and retrieval-syn"
     }
   ],
   "blog_posts": [
     {
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "author": "modelrift.com"
+      "title": "From an Abandoned Hackathon Project to an AI Study Workspace 🚀",
+      "url": "https://dev.to/hrishika_malviya_cec808f3/from-an-abandoned-hackathon-project-to-an-ai-study-workspace-c86",
+      "author": "Hrishika Malviya"
     },
     {
-      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "url": "https://github.com/anomalyco/models.dev",
-      "author": "github.com"
+      "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
+      "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+      "author": "arstechnica.com"
     },
     {
-      "title": "Microsoft reports AI is more expensive than paying human employees",
-      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-      "author": "fortune.com"
+      "title": "The Towers That Drew the Borders",
+      "url": "https://medium.com/@kalosbonasia/the-towers-that-drew-the-borders-c4414d5cf350",
+      "author": "Calogero (Kalos) Bonasia"
     },
     {
-      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
-      "url": "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "author": "Ben Halpern"
+      "title": "How the RAG(Retrieval-Augmented Generation)Works",
+      "url": "https://medium.com/@hari.nikesh.r.cce/how-the-rag-retrieval-augmented-generation-works-9c8e20c6f8d0",
+      "author": "Hari Nikesh R"
     },
     {
-      "title": "The Most Concerning AI Risk of 2026",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "author": "Sacha Greif"
+      "title": "My ADHD Brain Finally Has a Manager — and It's AI",
+      "url": "https://medium.com/@gwiedeman/my-adhd-brain-finally-has-a-manager-and-its-ai-2681e7d6b3b5",
+      "author": "Gregory Wiedeman"
     },
     {
-      "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
-      "url": "https://arxiv.org/abs/2605.22001",
-      "author": "arxiv.org"
+      "title": "The Microsoft AutoGen Workflow That Changed How I Build AI Agents Forever",
+      "url": "https://medium.com/h7w/the-microsoft-autogen-workflow-that-changed-how-i-build-ai-agents-forever-a639473673ef",
+      "author": "AshokReddy"
+    },
+    {
+      "title": "What is Generative AI? A Beginner-Friendly Guide",
+      "url": "https://medium.com/@mohamedabu.basith_91257/what-is-generative-ai-a-beginner-friendly-guide-64671647b766",
+      "author": "Mohamedabu Basith"
+    },
+    {
+      "title": "Building a Production Fraud Inference Platform: Dynamic Batching, Kubernetes, and Canary Deployments",
+      "url": "https://medium.com/@reimo36/building-a-production-fraud-inference-platform-dynamic-batching-kubernetes-and-canary-deployments-8085e7c22cfd",
+      "author": "Reimo Tamme"
+    },
+    {
+      "title": "The Thermostat for Truth: How a Physics Equation for Black Holes Could Fix AI Hallucinations",
+      "url": "https://medium.com/@tysontaber_41167/the-thermostat-for-truth-how-a-physics-equation-for-black-holes-could-fix-ai-hallucinations-1c1df5ab261a",
+      "author": "Tysontaber"
     }
   ],
   "repos": [
     {
-      "name": "langchain-ai/langchain",
-      "url": "https://github.com/langchain-ai/langchain",
-      "description": "The agent engineering platform.",
-      "stars": 137429,
+      "name": "OpenPipe/ART",
+      "url": "https://github.com/OpenPipe/ART",
+      "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!",
+      "stars": 9809,
       "language": "Python"
     },
     {
-      "name": "Fincept-Corporation/FinceptTerminal",
-      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
-      "stars": 22726,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, Gi",
+      "stars": 7593,
       "language": "Python"
-    },
-    {
-      "name": "karpathy/nn-zero-to-hero",
-      "url": "https://github.com/karpathy/nn-zero-to-hero",
-      "description": "Neural Networks: Zero to Hero",
-      "stars": 22461,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "name": "aiming-lab/AutoResearchClaw",
-      "url": "https://github.com/aiming-lab/AutoResearchClaw",
-      "description": "Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "stars": 12517,
-      "language": "Python"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 12202,
-      "language": "Python"
-    },
-    {
-      "name": "facebookresearch/sam3",
-      "url": "https://github.com/facebookresearch/sam3",
-      "description": "The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show h",
-      "stars": 10061,
-      "language": "Python"
-    },
-    {
-      "name": "HKUDS/ViMax",
-      "url": "https://github.com/HKUDS/ViMax",
-      "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
-      "stars": 6761,
-      "language": "Python"
-    },
-    {
-      "name": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 6431,
-      "language": "TypeScript"
     }
   ],
   "tweets": []

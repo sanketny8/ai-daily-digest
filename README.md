@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-24</strong></summary>
+
+#### Papers
+1. **[Tokenisation via Convex Relaxations](http://arxiv.org/abs/2605.22821v1)** — This paper explores a new method for tokenisation in NLP that improves upon greedy algorithms.
+2. **[Integrable Elasticity via Neural Demand Potentials](http://arxiv.org/abs/2605.22820v1)** — Introduces a demand-first neural model that enhances multiproduct retail demand forecasting.
+3. **[Vector Policy Optimization: Training for Diversity Improves Test-Time Search](http://arxiv.org/abs/2605.22817v1)** — Proposes a method to enhance language models' performance in novel environments through diverse training.
+4. **[Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration](http://arxiv.org/abs/2605.22814v1)** — Discusses curiosity-driven reinforcement learning for effective exploration in complex 3D environments.
+5. **[The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning](http://arxiv.org/abs/2605.22800v1)** — Presents a geometric framework for improving robustness in representation learning across various tasks.
+6. **[Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models](http://arxiv.org/abs/2605.22795v1)** — Analyzes a new method for generative modeling that enhances convergence rates.
+7. **[MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](http://arxiv.org/abs/2605.22794v1)** — Proposes a framework for autonomous agents to learn and evolve from user interactions post-deployment.
+8. **[Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](http://arxiv.org/abs/2605.22791v1)** — Introduces a linear attention mechanism that optimizes memory usage in sequence processing.
+9. **[LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems](http://arxiv.org/abs/2605.22786v1)** — Addresses safety in communication among multi-agent systems using large language models.
+10. **[Evaluating Commercial AI Chatbots as News Intermediaries](http://arxiv.org/abs/2605.22785v1)** — Systematically assesses the accuracy of AI chatbots in delivering news to users.
+
+#### Blog Posts
+1. **[From an Abandoned Hackathon Project to an AI Study Workspace 🚀](https://dev.to/hrishika_malviya_cec808f3/from-an-abandoned-hackathon-project-to-an-ai-study-workspace-c86)** by Hrishika Malviya
+2. **[Anthropic blames dystopian sci-fi for training AI models to act "evil"](https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/)** by arstechnica.com
+3. **[The Towers That Drew the Borders](https://medium.com/@kalosbonasia/the-towers-that-drew-the-borders-c4414d5cf350)** by Calogero (Kalos) Bonasia
+4. **[How the RAG(Retrieval-Augmented Generation)Works](https://medium.com/@hari.nikesh.r.cce/how-the-rag-retrieval-augmented-generation-works-9c8e20c6f8d0)** by Hari Nikesh R
+5. **[My ADHD Brain Finally Has a Manager — and It's AI](https://medium.com/@gwiedeman/my-adhd-brain-finally-has-a-manager-and-its-ai-2681e7d6b3b5)** by Gregory Wiedeman
+6. **[The Microsoft AutoGen Workflow That Changed How I Build AI Agents Forever](https://medium.com/h7w/the-microsoft-autogen-workflow-that-changed-how-i-build-ai-agents-forever-a639473673ef)** by AshokReddy
+7. **[What is Generative AI? A Beginner-Friendly Guide](https://medium.com/@mohamedabu.basith_91257/what-is-generative-ai-a-beginner-friendly-guide-64671647b766)** by Mohamedabu Basith
+8. **[Building a Production Fraud Inference Platform: Dynamic Batching, Kubernetes, and Canary Deployments](https://medium.com/@reimo36/building-a-production-fraud-inference-platform-dynamic-batching-kubernetes-and-canary-deployments-8085e7c22cfd)** by Reimo Tamme
+9. **[The Thermostat for Truth: How a Physics Equation for Black Holes Could Fix AI Hallucinations](https://medium.com/@tysontaber_41167/the-thermostat-for-truth-how-a-physics-equation-for-black-holes-could-fix-ai-hallucinations-1c1df5ab261a)** by Tysontaber
+
+#### Trending Repos
+1. **[OpenPipe/ART](https://github.com/OpenPipe/ART)** — Train multi-step agents for real-world tasks using GRPO. ⭐ 9809
+2. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** — Structured cybersecurity skills for AI agents, mapped to multiple frameworks. ⭐ 7593
+
+</details>
+
+<details>
 <summary><strong>2026-05-23</strong></summary>
 
 #### Papers
