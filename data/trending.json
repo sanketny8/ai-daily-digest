@@ -1,117 +1,131 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "papers": [
     {
-      "title": "Tokenisation via Convex Relaxations",
-      "url": "http://arxiv.org/abs/2605.22821v1",
-      "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t"
+      "title": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
+      "url": "https://arxiv.org/abs/2605.23892",
+      "summary": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computati"
     },
     {
-      "title": "Integrable Elasticity via Neural Demand Potentials",
-      "url": "http://arxiv.org/abs/2605.22820v1",
-      "summary": "We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-first neural model for multiproduct retail demand. The model learns log-demand as a smooth, context-conditioned function of "
+      "title": "PhotoFlow: Agentic 3D Virtual Photography Missions",
+      "url": "https://arxiv.org/abs/2605.23771",
+      "summary": "Virtual photography asks an agent to enter a prepared 3D scene with no preselected camera pose or reference image, infer a suitable shot from scene information and a language intent, choose executable"
     },
     {
-      "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
-      "url": "http://arxiv.org/abs/2605.22817v1",
-      "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific "
+      "title": "The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm",
+      "url": "https://arxiv.org/abs/2604.20665",
+      "summary": "The rapid proliferation of Vision-Language Models (VLMs) is often framed as enabling unified multimodal knowledge discovery but rests on an under-examined assumption: that current VLMs faithfully synt"
     },
     {
-      "title": "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
-      "url": "http://arxiv.org/abs/2605.22814v1",
-      "summary": "Exploration is a prerequisite for learning useful behaviors in sparse-reward, long-horizon tasks, particularly within 3D environments. Curiosity-driven reinforcement learning addresses this via intrin"
+      "title": "See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding",
+      "url": "https://arxiv.org/abs/2605.18018",
+      "summary": "We present SWIM (See What I Mean), a novel training strategy that aligns vision and language representations to enable fine-grained object understanding solely from textual prompts. Unlike existing ap"
     },
     {
-      "title": "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
-      "url": "http://arxiv.org/abs/2605.22800v1",
-      "summary": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a"
+      "title": "Geo-Align: Video Generation Alignment via Metric Geometry Reward",
+      "url": "https://arxiv.org/abs/2605.23903",
+      "summary": "Camera-controlled video generation has achieved remarkable progress in recent years. However, existing video-to-video re-rendering methods primarily rely on Supervised Fine-Tuning using synthetic data"
     },
     {
-      "title": "Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models",
-      "url": "http://arxiv.org/abs/2605.22795v1",
-      "summary": "We propose and analyze a conservative drifting method for one-step generative modeling. The method replaces the original displacement-based drifting velocity by a kernel density estimator (KDE)-gradie"
+      "title": "Rethinking Cross-Layer Information Routing in Diffusion Transformers",
+      "url": "https://arxiv.org/abs/2605.20708",
+      "summary": "Diffusion Transformers (DiTs) have become a de facto backbone of modern visual generation, and nearly every major axis of their design -- tokenization, attention, conditioning, objectives, and latent "
     },
     {
-      "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
-      "url": "http://arxiv.org/abs/2605.22794v1",
-      "summary": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving a"
+      "title": "RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution",
+      "url": "https://arxiv.org/abs/2605.21195",
+      "summary": "Discrete autoregressive (AR) text-to-image (T2I) models pair a VQ tokenizer with an AR policy, and current post-training pipelines optimize only the policy while keeping the VQ decoder frozen. Recent "
     },
     {
-      "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
-      "url": "http://arxiv.org/abs/2605.22791v1",
-      "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just"
+      "title": "SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models",
+      "url": "https://arxiv.org/abs/2605.23345",
+      "summary": "Interactive world models for first-person shooter (FPS) games must resolve high-frequency overlapping control signals at every frame without disrupting unaffected regions. Existing methods inject acti"
     },
     {
-      "title": "LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems",
-      "url": "http://arxiv.org/abs/2605.22786v1",
-      "summary": "Large language model (LLM)-based multi-agent systems increasingly rely on intermediate communication to coordinate complex tasks. While most existing systems communicate through natural language, rece"
+      "title": "VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis",
+      "url": "https://arxiv.org/abs/2605.22570",
+      "summary": "Spatio-temporal reasoning is a core capability for Multimodal Large Language Models (MLLMs) operating in the real world. As such, evaluating it precisely has become an essential challenge. However, ex"
     },
     {
-      "title": "Evaluating Commercial AI Chatbots as News Intermediaries",
-      "url": "http://arxiv.org/abs/2605.22785v1",
-      "summary": "AI chatbots are rapidly shaping how people encounter the news, yet no prior study has systematically measured how accurately these systems, with their proprietary search integrations and retrieval-syn"
+      "title": "StepAudio 2.5 Technical Report",
+      "url": "https://arxiv.org/abs/2605.23463",
+      "summary": "Unified audio-language modeling has emerged as a prominent trend in modern speech systems, promising to bring the reasoning capabilities of large language models to auditory tasks. However, existing u"
     }
   ],
   "blog_posts": [
     {
-      "title": "From an Abandoned Hackathon Project to an AI Study Workspace 🚀",
-      "url": "https://dev.to/hrishika_malviya_cec808f3/from-an-abandoned-hackathon-project-to-an-ai-study-workspace-c86",
-      "author": "Hrishika Malviya"
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "author": "arxiv.org"
     },
     {
-      "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
-      "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-      "author": "arstechnica.com"
+      "title": "Everyone's Talking About Gemini 3.5 Flash. The Real Story at Google I/O 2026 Was a Skill File.",
+      "url": "https://dev.to/sreejit_/everyones-talking-about-gemini-35-flash-the-real-story-at-google-io-2026-was-a-skill-file-4f3c",
+      "author": "Sreejit Pradhan"
     },
     {
-      "title": "The Towers That Drew the Borders",
-      "url": "https://medium.com/@kalosbonasia/the-towers-that-drew-the-borders-c4414d5cf350",
-      "author": "Calogero (Kalos) Bonasia"
+      "title": "I Quit My 9–5 Using These 3 AI Side Hustles",
+      "url": "https://medium.com/@AILeverage/i-quit-my-9-5-using-these-3-ai-side-hustles-74f0dd7d7a66",
+      "author": "AI Leverage"
     },
     {
-      "title": "How the RAG(Retrieval-Augmented Generation)Works",
-      "url": "https://medium.com/@hari.nikesh.r.cce/how-the-rag-retrieval-augmented-generation-works-9c8e20c6f8d0",
-      "author": "Hari Nikesh R"
+      "title": "Why 95 Percent of AI Consulting Services Are Scamming You Out of Your Margins",
+      "url": "https://medium.com/@arshthakkar127/why-95-percent-of-ai-consulting-services-are-scamming-you-out-of-your-margins-8382cfd560db",
+      "author": "Volture Luxe"
     },
     {
-      "title": "My ADHD Brain Finally Has a Manager — and It's AI",
-      "url": "https://medium.com/@gwiedeman/my-adhd-brain-finally-has-a-manager-and-its-ai-2681e7d6b3b5",
-      "author": "Gregory Wiedeman"
+      "title": "The Impact of AI on Human Creativity",
+      "url": "https://hanomatimes.com/the-impact-of-ai-on-human-creativity-106c349d731c",
+      "author": "Srishti Kumari"
     },
     {
-      "title": "The Microsoft AutoGen Workflow That Changed How I Build AI Agents Forever",
-      "url": "https://medium.com/h7w/the-microsoft-autogen-workflow-that-changed-how-i-build-ai-agents-forever-a639473673ef",
-      "author": "AshokReddy"
+      "title": "We Don’t Want to Be the Chimpanzee. But We’re Building the Cage Ourselves.",
+      "url": "https://medium.com/@keskinserdar/we-dont-want-to-be-the-chimpanzee-but-we-re-building-the-cage-ourselves-0f9c404cc91c",
+      "author": "Serdar Keskin"
     },
     {
-      "title": "What is Generative AI? A Beginner-Friendly Guide",
-      "url": "https://medium.com/@mohamedabu.basith_91257/what-is-generative-ai-a-beginner-friendly-guide-64671647b766",
-      "author": "Mohamedabu Basith"
+      "title": "Day 13 of 100: I’m Trying a New AI Tool Every Day So You Don’t Have To",
+      "url": "https://medium.com/@veekshac18/day-13-of-100-im-trying-a-new-ai-tool-every-day-so-you-don-t-have-to-6f5fefd250eb",
+      "author": "C Veeksha"
     },
     {
-      "title": "Building a Production Fraud Inference Platform: Dynamic Batching, Kubernetes, and Canary Deployments",
-      "url": "https://medium.com/@reimo36/building-a-production-fraud-inference-platform-dynamic-batching-kubernetes-and-canary-deployments-8085e7c22cfd",
-      "author": "Reimo Tamme"
+      "title": "Name : Shreyash Adinath Kandhare",
+      "url": "https://medium.com/@shreyashkandhare1234/name-shreyash-adinath-kandhare-30dc1c07ab07",
+      "author": "Shreyash Kandhare"
     },
     {
-      "title": "The Thermostat for Truth: How a Physics Equation for Black Holes Could Fix AI Hallucinations",
-      "url": "https://medium.com/@tysontaber_41167/the-thermostat-for-truth-how-a-physics-equation-for-black-holes-could-fix-ai-hallucinations-1c1df5ab261a",
-      "author": "Tysontaber"
+      "title": "Name : Shreyash Adinath Kandhare",
+      "url": "https://medium.com/@shreyashkandhare1234/name-shreyash-adinath-kandhare-7af9aa6eb30e",
+      "author": "Shreyash Kandhare"
     }
   ],
   "repos": [
     {
-      "name": "OpenPipe/ART",
-      "url": "https://github.com/OpenPipe/ART",
-      "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!",
-      "stars": 9809,
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods",
+      "stars": 54116,
+      "language": "TypeScript"
+    },
+    {
+      "name": "Aider-AI/aider",
+      "url": "https://github.com/Aider-AI/aider",
+      "description": "aider is AI pair programming in your terminal",
+      "stars": 45259,
       "language": "Python"
     },
     {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, Gi",
-      "stars": 7593,
+      "name": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "stars": 19145,
+      "language": "Swift"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 14296,
       "language": "Python"
     }
   ],

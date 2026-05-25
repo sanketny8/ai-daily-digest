@@ -1,37 +1,4 @@
 {
-  "2026-04-24": {
-    "papers": [
-      "https://arxiv.org/abs/2604.20398",
-      "https://arxiv.org/abs/2604.20244",
-      "https://arxiv.org/abs/2604.20987",
-      "https://arxiv.org/abs/2604.21193",
-      "https://arxiv.org/abs/2604.21300",
-      "https://arxiv.org/abs/2604.21889",
-      "https://arxiv.org/abs/2604.21904",
-      "https://arxiv.org/abs/2604.21375",
-      "https://arxiv.org/abs/2604.21689",
-      "https://arxiv.org/abs/2604.21686"
-    ],
-    "blogs": [
-      "https://openai.com/index/introducing-gpt-5-5/",
-      "https://www.anthropic.com/engineering/april-23-postmortem",
-      "https://medium.com/@future.space.freight/gpt-image-2-is-a-broken-masterpiece-and-nobody-wants-to-say-it-3312a9b033ad",
-      "https://medium.com/phala-italia/hermes-%C3%A8-ora-disponibile-su-clawdi-nessuna-configurazione-richiesta-66177b647621",
-      "https://medium.com/@jennifergraner5612/the-ultimate-guide-to-ai-app-development-in-2026-for-businesses-entrepreneurs-1be180f9f841",
-      "https://satyan-sharma.medium.com/yantra%C5%9Bar%C4%ABra-%C4%81tm%C4%81-self-with-a-machine-body-a6a0738d331d",
-      "https://medium.com/@fatimanasir7878/the-complete-guide-to-artificial-intelligence-2026-how-chatgpt-works-best-ai-tools-and-future-7cf58d4b354b",
-      "https://algorithm-alchemist.medium.com/escaping-mlops-tutorial-hell-architecting-pipelines-from-first-principles-79d9b3e8a7a3"
-    ],
-    "repos": [
-      "https://github.com/cline/cline",
-      "https://github.com/crewAIInc/crewAI",
-      "https://github.com/BerriAI/litellm",
-      "https://github.com/coreyhaines31/marketingskills",
-      "https://github.com/microsoft/onnxruntime",
-      "https://github.com/chiphuyen/aie-book",
-      "https://github.com/mksglu/context-mode"
-    ]
-  },
   "2026-04-25": {
     "papers": [
       "https://arxiv.org/abs/2604.20156",
@@ -945,6 +912,37 @@
     "repos": [
       "https://github.com/OpenPipe/ART",
       "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    ]
+  },
+  "2026-05-25": {
+    "papers": [
+      "https://arxiv.org/abs/2605.23892",
+      "https://arxiv.org/abs/2605.23771",
+      "https://arxiv.org/abs/2604.20665",
+      "https://arxiv.org/abs/2605.18018",
+      "https://arxiv.org/abs/2605.23903",
+      "https://arxiv.org/abs/2605.20708",
+      "https://arxiv.org/abs/2605.21195",
+      "https://arxiv.org/abs/2605.23345",
+      "https://arxiv.org/abs/2605.22570",
+      "https://arxiv.org/abs/2605.23463"
+    ],
+    "blogs": [
+      "https://arxiv.org/abs/2605.06445",
+      "https://dev.to/sreejit_/everyones-talking-about-gemini-35-flash-the-real-story-at-google-io-2026-was-a-skill-file-4f3c",
+      "https://medium.com/@AILeverage/i-quit-my-9-5-using-these-3-ai-side-hustles-74f0dd7d7a66",
+      "https://medium.com/@arshthakkar127/why-95-percent-of-ai-consulting-services-are-scamming-you-out-of-your-margins-8382cfd560db",
+      "https://hanomatimes.com/the-impact-of-ai-on-human-creativity-106c349d731c",
+      "https://medium.com/@keskinserdar/we-dont-want-to-be-the-chimpanzee-but-we-re-building-the-cage-ourselves-0f9c404cc91c",
+      "https://medium.com/@veekshac18/day-13-of-100-im-trying-a-new-ai-tool-every-day-so-you-don-t-have-to-6f5fefd250eb",
+      "https://medium.com/@shreyashkandhare1234/name-shreyash-adinath-kandhare-30dc1c07ab07",
+      "https://medium.com/@shreyashkandhare1234/name-shreyash-adinath-kandhare-7af9aa6eb30e"
+    ],
+    "repos": [
+      "https://github.com/earendil-works/pi",
+      "https://github.com/Aider-AI/aider",
+      "https://github.com/manaflow-ai/cmux",
+      "https://github.com/anthropics/knowledge-work-plugins"
     ]
   }
 }

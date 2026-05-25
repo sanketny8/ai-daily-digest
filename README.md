@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-25</strong></summary>
+
+#### Papers
+1. **[Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers](https://arxiv.org/abs/2605.23892)** — This paper explores effective token selection strategies for enhancing visual geometry transformers in 3D reconstruction tasks.
+2. **[PhotoFlow: Agentic 3D Virtual Photography Missions](https://arxiv.org/abs/2605.23771)** — Introduces a framework for virtual photography where agents autonomously choose camera poses based on scene information and language intent.
+3. **[The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm](https://arxiv.org/abs/2604.20665)** — Critiques the assumptions behind Vision-Language Models and their implications for multimodal knowledge discovery.
+4. **[See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding](https://arxiv.org/abs/2605.18018)** — Presents a novel training strategy for aligning vision and language representations to improve object understanding from text prompts.
+5. **[Geo-Align: Video Generation Alignment via Metric Geometry Reward](https://arxiv.org/abs/2605.23903)** — Discusses advancements in camera-controlled video generation, focusing on alignment through metric geometry rewards.
+6. **[Rethinking Cross-Layer Information Routing in Diffusion Transformers](https://arxiv.org/abs/2605.20708)** — Proposes new methods for information routing in diffusion transformers, enhancing their design and performance in visual generation.
+7. **[RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution](https://arxiv.org/abs/2605.21195)** — Explores end-to-end post-training techniques for improving text-to-image generation models through decoder co-evolution.
+8. **[SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models](https://arxiv.org/abs/2605.23345)** — Introduces a method for resolving control signals in FPS games, enhancing interactive world models.
+9. **[VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis](https://arxiv.org/abs/2605.22570)** — Establishes a benchmark for evaluating spatio-temporal reasoning capabilities in multimodal large language models.
+10. **[StepAudio 2.5 Technical Report](https://arxiv.org/abs/2605.23463)** — Discusses advancements in unified audio-language modeling, aiming to enhance reasoning capabilities in auditory tasks.
+
+#### Blog Posts
+1. **[Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445)** by arxiv.org
+2. **[Everyone's Talking About Gemini 3.5 Flash. The Real Story at Google I/O 2026 Was a Skill File.](https://dev.to/sreejit_/everyones-talking-about-gemini-35-flash-the-real-story-at-google-io-2026-was-a-skill-file-4f3c)** by Sreejit Pradhan
+3. **[I Quit My 9–5 Using These 3 AI Side Hustles](https://medium.com/@AILeverage/i-quit-my-9-5-using-these-3-ai-side-hustles-74f0dd7d7a66)** by AI Leverage
+4. **[Why 95 Percent of AI Consulting Services Are Scamming You Out of Your Margins](https://medium.com/@arshthakkar127/why-95-percent-of-ai-consulting-services-are-scamming-you-out-of-your-margins-8382cfd560db)** by Volture Luxe
+5. **[The Impact of AI on Human Creativity](https://hanomatimes.com/the-impact-of-ai-on-human-creativity-106c349d731c)** by Srishti Kumari
+6. **[We Don’t Want to Be the Chimpanzee. But We’re Building the Cage Ourselves.](https://medium.com/@keskinserdar/we-dont-want-to-be-the-chimpanzee-but-we-re-building-the-cage-ourselves-0f9c404cc91c)** by Serdar Keskin
+7. **[Day 13 of 100: I’m Trying a New AI Tool Every Day So You Don’t Have To](https://medium.com/@veekshac18/day-13-of-100-im-trying-a-new-ai-tool-every-day-so-you-don-t-have-to-6f5fefd250eb)** by C Veeksha
+
+#### Trending Repos
+1. **[earendil-works/pi](https://github.com/earendil-works/pi)** — AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods. ⭐ 54116
+2. **[Aider-AI/aider](https://github.com/Aider-AI/aider)** — Aider is AI pair programming in your terminal. ⭐ 45259
+3. **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. ⭐ 19145
+4. **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork. ⭐ 14296
+
+</details>
+
+<details>
 <summary><strong>2026-05-24</strong></summary>
 
 #### Papers
