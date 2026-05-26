@@ -1,37 +1,4 @@
 {
-  "2026-04-25": {
-    "papers": [
-      "https://arxiv.org/abs/2604.20156",
-      "https://arxiv.org/abs/2604.08645",
-      "https://arxiv.org/abs/2604.17492",
-      "https://arxiv.org/abs/2604.21915",
-      "https://arxiv.org/abs/2604.17295",
-      "https://arxiv.org/abs/2604.21668",
-      "https://arxiv.org/abs/2506.17001",
-      "https://arxiv.org/abs/2604.10268",
-      "http://arxiv.org/abs/2604.21931v1",
-      "http://arxiv.org/abs/2604.21930v1"
-    ],
-    "blogs": [
-      "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "https://developers.openai.com/api/docs/changelog",
-      "https://dev.to/harsh2644/i-used-to-love-coding-now-i-just-prompt-550l",
-      "https://www.minizinc.org",
-      "https://clad.you/blog/posts/questionnaire-mlp/",
-      "https://gdm-tipsv2.github.io/",
-      "https://medium.com/@pranaymalhan/from-data-to-dishes-20-ai-concepts-explained-using-restaurant-analogy-3bad706f21eb"
-    ],
-    "repos": [
-      "https://github.com/mlflow/mlflow",
-      "https://github.com/openai/skills",
-      "https://github.com/Alishahryar1/free-claude-code",
-      "https://github.com/deepseek-ai/DeepEP",
-      "https://github.com/google/adk-samples",
-      "https://github.com/Anil-matcha/Open-Generative-AI",
-      "https://github.com/microsoft/presidio",
-      "https://github.com/huggingface/ml-intern"
-    ]
-  },
   "2026-04-26": {
     "papers": [
       "http://arxiv.org/abs/2604.21928v1",
@@ -943,6 +910,38 @@
       "https://github.com/Aider-AI/aider",
       "https://github.com/manaflow-ai/cmux",
       "https://github.com/anthropics/knowledge-work-plugins"
+    ]
+  },
+  "2026-05-26": {
+    "papers": [
+      "https://arxiv.org/abs/2605.24426",
+      "https://arxiv.org/abs/2605.24218",
+      "https://arxiv.org/abs/2605.08129",
+      "https://arxiv.org/abs/2605.25052",
+      "https://arxiv.org/abs/2605.25569",
+      "https://arxiv.org/abs/2605.23218",
+      "https://arxiv.org/abs/2605.26109",
+      "https://arxiv.org/abs/2605.26105",
+      "https://arxiv.org/abs/2605.26089",
+      "https://arxiv.org/abs/2605.26115"
+    ],
+    "blogs": [
+      "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+      "http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "https://dev.to/harsh2644/why-ai-generated-code-is-always-good-enough-and-never-great-4lhn",
+      "https://dev.to/javz/dont-let-ai-break-your-collective-thinking-a-practical-guide-for-engineering-teams-41c4",
+      "https://dev.to/odingaval/building-cursor-for-community-a-buildathon-built-on-time-pressure-12ih",
+      "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+      "https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn",
+      "https://medium.com/@decodedbysania/google-just-quietly-rebuilt-the-internet-06bed91ea029"
+    ],
+    "repos": [
+      "https://github.com/affaan-m/ECC",
+      "https://github.com/OpenBB-finance/OpenBB",
+      "https://github.com/anthropics/claude-cookbooks",
+      "https://github.com/moeru-ai/airi",
+      "https://github.com/Leonxlnx/taste-skill"
     ]
   }
 }

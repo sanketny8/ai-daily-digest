@@ -1,132 +1,139 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "papers": [
     {
-      "title": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
-      "url": "https://arxiv.org/abs/2605.23892",
-      "summary": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computati"
+      "title": "SEAL: Synergistic Co-Evolution of Agents and Learning Environments",
+      "url": "https://arxiv.org/abs/2605.24426",
+      "summary": "Large Language Model (LLM) agents are increasingly improved through interaction, yet most self-evolution methods adapt either the policy or the learning environment in isolation. We identify this stru"
     },
     {
-      "title": "PhotoFlow: Agentic 3D Virtual Photography Missions",
-      "url": "https://arxiv.org/abs/2605.23771",
-      "summary": "Virtual photography asks an agent to enter a prepared 3D scene with no preselected camera pose or reference image, infer a suitable shot from scene information and a language intent, choose executable"
+      "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks",
+      "url": "https://arxiv.org/abs/2605.24218",
+      "summary": "Deep research agents extend the role of search engines from retrieving keyword-matched pages to synthesizing knowledge, fundamentally changing how humans interact with information. However, frontier s"
     },
     {
-      "title": "The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm",
-      "url": "https://arxiv.org/abs/2604.20665",
-      "summary": "The rapid proliferation of Vision-Language Models (VLMs) is often framed as enabling unified multimodal knowledge discovery but rests on an under-examined assumption: that current VLMs faithfully synt"
+      "title": "Towards Customized Multimodal Role-Play",
+      "url": "https://arxiv.org/abs/2605.08129",
+      "summary": "Unified multimodal understanding and generation models enable richer human-AI interaction. Yet jointly customizing a character's persona, dialogue style, and visual identity while maintaining output c"
     },
     {
-      "title": "See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding",
-      "url": "https://arxiv.org/abs/2605.18018",
-      "summary": "We present SWIM (See What I Mean), a novel training strategy that aligns vision and language representations to enable fine-grained object understanding solely from textual prompts. Unlike existing ap"
+      "title": "Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth",
+      "url": "https://arxiv.org/abs/2605.25052",
+      "summary": "Chains of thought (CoTs) have become central in interpreting and auditing behaviors of large language models. Yet growing evidence suggests that these traces often fail to faithfully represent the com"
     },
     {
-      "title": "Geo-Align: Video Generation Alignment via Metric Geometry Reward",
-      "url": "https://arxiv.org/abs/2605.23903",
-      "summary": "Camera-controlled video generation has achieved remarkable progress in recent years. However, existing video-to-video re-rendering methods primarily rely on Supervised Fine-Tuning using synthetic data"
+      "title": "ControlLight: Towards Controllable, Consistent, and Generalizable Low-Light Enhancement",
+      "url": "https://arxiv.org/abs/2605.25569",
+      "summary": "Existing deep learning-based low-light enhancement methods are typically trained on limited datasets with single enhancement targets, which restricts their generalization ability and controllability i"
     },
     {
-      "title": "Rethinking Cross-Layer Information Routing in Diffusion Transformers",
-      "url": "https://arxiv.org/abs/2605.20708",
-      "summary": "Diffusion Transformers (DiTs) have become a de facto backbone of modern visual generation, and nearly every major axis of their design -- tokenization, attention, conditioning, objectives, and latent "
+      "title": "Foundation Protocol: A Coordination Layer for Agentic Society",
+      "url": "https://arxiv.org/abs/2605.23218",
+      "summary": "Autonomous agents are moving from tools into a layer of social infrastructure: they browse, purchase, deploy software, manage systems, and increasingly interact with one another. As these systems scal"
     },
     {
-      "title": "RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution",
-      "url": "https://arxiv.org/abs/2605.21195",
-      "summary": "Discrete autoregressive (AR) text-to-image (T2I) models pair a VQ tokenizer with an AR policy, and current post-training pipelines optimize only the policy while keeping the VQ decoder frozen. Recent "
+      "title": "Helix4D: Complex 4D Mesh Generation",
+      "url": "https://arxiv.org/abs/2605.26109",
+      "summary": "Current video-to-4D methods struggle with complex topology changes, transparent materials, thin structures, and inner surfaces. We present Helix4D, a dynamic mesh generation framework by inheriting th"
     },
     {
-      "title": "SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models",
-      "url": "https://arxiv.org/abs/2605.23345",
-      "summary": "Interactive world models for first-person shooter (FPS) games must resolve high-frequency overlapping control signals at every frame without disrupting unaffected regions. Existing methods inject acti"
+      "title": "On-Policy Adversarial Flow Distillation for Autoregressive Video Generation",
+      "url": "https://arxiv.org/abs/2605.26105",
+      "summary": "Autoregressive video generators are attractive for streaming, long-horizon, and interactive applications, but distilling strong black-box teachers into causal students remains difficult. The student m"
     },
     {
-      "title": "VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis",
-      "url": "https://arxiv.org/abs/2605.22570",
-      "summary": "Spatio-temporal reasoning is a core capability for Multimodal Large Language Models (MLLMs) operating in the real world. As such, evaluating it precisely has become an essential challenge. However, ex"
+      "title": "Channel-wise Vector Quantization",
+      "url": "https://arxiv.org/abs/2605.26089",
+      "summary": "We present Channel-wise Vector Quantization (CVQ), a novel image tokenization paradigm that replaces patch-wise tokens with channel-wise tokens. Unlike conventional vector quantization, which assigns "
     },
     {
-      "title": "StepAudio 2.5 Technical Report",
-      "url": "https://arxiv.org/abs/2605.23463",
-      "summary": "Unified audio-language modeling has emerged as a prominent trend in modern speech systems, promising to bring the reasoning capabilities of large language models to auditory tasks. However, existing u"
+      "title": "TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction",
+      "url": "https://arxiv.org/abs/2605.26115",
+      "summary": "Sparse-view 3D reconstruction is increasingly addressed with feed-forward splatting networks that predict explicit primitives directly from images. Yet most existing methods remain centered on Gaussia"
     }
   ],
   "blog_posts": [
     {
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "url": "https://arxiv.org/abs/2605.06445",
-      "author": "arxiv.org"
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "author": "blocksandfiles.com"
     },
     {
-      "title": "Everyone's Talking About Gemini 3.5 Flash. The Real Story at Google I/O 2026 Was a Skill File.",
-      "url": "https://dev.to/sreejit_/everyones-talking-about-gemini-35-flash-the-real-story-at-google-io-2026-was-a-skill-file-4f3c",
-      "author": "Sreejit Pradhan"
+      "title": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
+      "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+      "author": "businessinsider.com"
     },
     {
-      "title": "I Quit My 9–5 Using These 3 AI Side Hustles",
-      "url": "https://medium.com/@AILeverage/i-quit-my-9-5-using-these-3-ai-side-hustles-74f0dd7d7a66",
-      "author": "AI Leverage"
+      "title": "Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas",
+      "url": "http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "author": "pyfisch"
     },
     {
-      "title": "Why 95 Percent of AI Consulting Services Are Scamming You Out of Your Margins",
-      "url": "https://medium.com/@arshthakkar127/why-95-percent-of-ai-consulting-services-are-scamming-you-out-of-your-margins-8382cfd560db",
-      "author": "Volture Luxe"
+      "title": "Why AI-Generated Code Is Always Good Enough — And Never Great",
+      "url": "https://dev.to/harsh2644/why-ai-generated-code-is-always-good-enough-and-never-great-4lhn",
+      "author": "Harsh "
     },
     {
-      "title": "The Impact of AI on Human Creativity",
-      "url": "https://hanomatimes.com/the-impact-of-ai-on-human-creativity-106c349d731c",
-      "author": "Srishti Kumari"
+      "title": "Don’t let AI break your collective thinking: a practical guide for engineering teams",
+      "url": "https://dev.to/javz/dont-let-ai-break-your-collective-thinking-a-practical-guide-for-engineering-teams-41c4",
+      "author": "Julien Avezou"
     },
     {
-      "title": "We Don’t Want to Be the Chimpanzee. But We’re Building the Cage Ourselves.",
-      "url": "https://medium.com/@keskinserdar/we-dont-want-to-be-the-chimpanzee-but-we-re-building-the-cage-ourselves-0f9c404cc91c",
-      "author": "Serdar Keskin"
+      "title": "Building Cursor for Community: A Buildathon Built on Time Pressure",
+      "url": "https://dev.to/odingaval/building-cursor-for-community-a-buildathon-built-on-time-pressure-12ih",
+      "author": "Valery Odinga"
     },
     {
-      "title": "Day 13 of 100: I’m Trying a New AI Tool Every Day So You Don’t Have To",
-      "url": "https://medium.com/@veekshac18/day-13-of-100-im-trying-a-new-ai-tool-every-day-so-you-don-t-have-to-6f5fefd250eb",
-      "author": "C Veeksha"
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+      "author": "Rohini Gaonkar"
     },
     {
-      "title": "Name : Shreyash Adinath Kandhare",
-      "url": "https://medium.com/@shreyashkandhare1234/name-shreyash-adinath-kandhare-30dc1c07ab07",
-      "author": "Shreyash Kandhare"
+      "title": "If Microsoft and Uber can't afford AI coding, what chance do the rest of us have?",
+      "url": "https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn",
+      "author": "Jonathan Murray"
     },
     {
-      "title": "Name : Shreyash Adinath Kandhare",
-      "url": "https://medium.com/@shreyashkandhare1234/name-shreyash-adinath-kandhare-7af9aa6eb30e",
-      "author": "Shreyash Kandhare"
+      "title": "Google Just Quietly Rebuilt the Internet",
+      "url": "https://medium.com/@decodedbysania/google-just-quietly-rebuilt-the-internet-06bed91ea029",
+      "author": "Sania"
     }
   ],
   "repos": [
     {
-      "name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods",
-      "stars": 54116,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 192853,
+      "language": "JavaScript"
+    },
+    {
+      "name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "stars": 68093,
+      "language": "Python"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 44133,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
+      "stars": 39854,
       "language": "TypeScript"
     },
     {
-      "name": "Aider-AI/aider",
-      "url": "https://github.com/Aider-AI/aider",
-      "description": "aider is AI pair programming in your terminal",
-      "stars": 45259,
-      "language": "Python"
-    },
-    {
-      "name": "manaflow-ai/cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-      "stars": 19145,
-      "language": "Swift"
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 14296,
-      "language": "Python"
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "stars": 20048,
+      "language": "Shell"
     }
   ],
   "tweets": []

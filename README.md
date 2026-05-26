@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-26</strong></summary>
+
+#### Papers
+1. **[SEAL: Synergistic Co-Evolution of Agents and Learning Environments](https://arxiv.org/abs/2605.24426)** — This paper explores how LLM agents can evolve through interactions with their learning environments, enhancing their capabilities.
+2. **[QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks](https://arxiv.org/abs/2605.24218)** — Discusses the transformation of search engines into knowledge-synthesizing agents, changing human information interaction.
+3. **[Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth](https://arxiv.org/abs/2605.25052)** — Analyzes the shortcomings of current metrics in evaluating the faithfulness of LLM outputs.
+4. **[Foundation Protocol: A Coordination Layer for Agentic Society](https://arxiv.org/abs/2605.23218)** — Proposes a framework for managing interactions among autonomous agents as they become integral to social infrastructure.
+5. **[ControlLight: Towards Controllable, Consistent, and Generalizable Low-Light Enhancement](https://arxiv.org/abs/2605.25569)** — Introduces a method for enhancing low-light images with improved generalization and controllability.
+6. **[Language Models Need Sleep](http://arxiv.org/abs/2605.26099v1)** — Investigates how a sleep-like mechanism can improve the performance of transformer-based language models over long tasks.
+7. **[Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay](http://arxiv.org/abs/2605.26097v1)** — Explores the phenomenon of forgetting in models and proposes methods to mitigate it through self-generated replay.
+8. **[Channel-wise Vector Quantization](https://arxiv.org/abs/2605.26089)** — Presents a new image tokenization method that enhances the efficiency of image processing in neural networks.
+9. **[MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](http://arxiv.org/abs/2605.26114v1)** — Introduces a simulation platform for mobile agents, emphasizing interaction fidelity and ease of use.
+10. **[TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction](https://arxiv.org/abs/2605.26115)** — Discusses a novel approach to 3D reconstruction from images using feed-forward networks, improving simulation readiness.
+
+#### Blog Posts
+1. **[Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)** by blocksandfiles.com
+2. **[Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing](https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5)** by businessinsider.com
+3. **[Why AI-Generated Code Is Always Good Enough — And Never Great](https://dev.to/harsh2644/why-ai-generated-code-is-always-good-enough-and-never-great-4lhn)** by Harsh 
+4. **[Don’t let AI break your collective thinking: a practical guide for engineering teams](https://dev.to/javz/dont-let-ai-break-your-collective-thinking-a-practical-guide-for-engineering-teams-41c4)** by Julien Avezou
+5. **[If Microsoft and Uber can't afford AI coding, what chance do the rest of us have?](https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn)** by Jonathan Murray
+6. **[Why does AI forget what you said (and how to fix it)](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6)** by Rohini Gaonkar
+7. **[Google Just Quietly Rebuilt the Internet](https://medium.com/@decodedbysania/google-just-quietly-rebuilt-the-internet-06bed91ea029)** by Sania
+
+#### Trending Repos
+1. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. ⭐ 192853
+2. **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)** — Financial data platform for analysts, quants and AI agents. ⭐ 68093
+3. **[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. ⭐ 44133
+4. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** — Self hosted, you-owned Grok Companion, capable of realtime voice chat. ⭐ 39854
+5. **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — Taste-Skill - gives your AI good taste, preventing boring outputs. ⭐ 20048
+
+</details>
+
+<details>
 <summary><strong>2026-05-25</strong></summary>
 
 #### Papers
