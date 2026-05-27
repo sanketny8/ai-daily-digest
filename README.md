@@ -10,6 +10,42 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-27</strong></summary>
+
+#### Papers
+1. **[SAM: State-Adaptive Memory for Long-Horizon Reasoning Agent](https://arxiv.org/abs/2605.24468)** — This paper explores how large language models can manage long interaction histories for better reasoning.
+2. **[LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence](https://arxiv.org/abs/2605.25979)** — Introducing a new vision-language model that excels in various multimodal benchmarks, enhancing perceptual intelligence.
+3. **[MobileMoE: Scaling On-Device Mixture of Experts](https://arxiv.org/abs/2605.27358)** — Investigates the benefits of Mixture-of-Experts architecture for on-device language models, focusing on efficiency.
+4. **[Beyond Final Answers: Auditing Trajectory-Level Hallucinations in Multi-Agent Industrial Workflows](https://arxiv.org/abs/2605.24219)** — Proposes a new method to evaluate hallucinations in multi-agent systems beyond just final outputs.
+5. **[MRT: Masked Region Transformer for Layered Image Generation and Editing at Scale](https://arxiv.org/abs/2605.27235)** — Discusses a new approach for layered image generation, allowing for more flexible editing and composition.
+6. **[LongAV-Compass: Towards Unified Evaluation of Minute-Scale Audio-Visual Generation Across T2AV, I2AV, and V2AV](https://arxiv.org/abs/2605.26244)** — Aims to create standardized evaluation metrics for longer audio-visual content generation.
+7. **[Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement](https://arxiv.org/abs/2605.26952)** — Explores improvements in reinforcement learning for agents using external tools, enhancing efficiency.
+8. **[Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases](http://arxiv.org/abs/2605.27355v1)** — Investigates vulnerabilities in aligning large language models with human preferences through reinforcement learning.
+9. **[LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](http://arxiv.org/abs/2605.27365v1)** — Proposes a new method for efficient visual grounding and detection using parallel decoding techniques.
+10. **[When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection](http://arxiv.org/abs/2605.27348v1)** — Examines how gaze consistency can help detect AI-generated images, addressing a growing concern in media authenticity.
+
+#### Blog Posts
+1. **[Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team](https://vllm.ai/blog/2026-05-26-eagle-3-1)** by vllm.ai
+2. **[DeepSWE: A contamination-free benchmark for long-horizon coding agents](https://deepswe.datacurve.ai/blog)** by deepswe.datacurve.ai
+3. **[OpenClaw vs CraftBot: Which Local AI Agent Is Right for You?](https://dev.to/harsh2644/openclaw-vs-craftbot-which-local-ai-agent-is-right-for-you-47k9)** by Harsh
+4. **[Top AI Outsourcing Companies for 2026](https://medium.com/@bhoomi.ahuja/top-ai-outsourcing-companies-for-2026-85c3b408d020)** by Bhoomi Ahuja
+5. **[Remote Health Monitoring: Top Features Every Platform Needs](https://medium.com/@marketing.hiteshi/remote-health-monitoring-top-features-every-platform-needs-1829911ee94b)** by Marketing Hiteshi
+6. **[Best Python FastAPI Production Tools 2026 (Complete Developer Guide)](https://medium.com/@atharvjaiswal56/best-python-fastapi-production-tools-2026-complete-developer-guide-e914d70ffe18)** by Programming India
+7. **[GenAI & Agentic AI Training in Electronic City](https://medium.com/@richuemexo/genai-agentic-ai-training-in-electronic-city-ab550c76b944)** by Richuemexo
+8. **[How AI-Powered KOL Discovery Improves Competitive Intelligence in Pharma](https://medium.com/@seosperreach/how-ai-powered-kol-discovery-improves-pharma-competitive-intelligence-20f5e41b5e03)** by Ankit kumar
+
+#### Trending Repos
+1. **[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)** — Free Domain For Everyone. ⭐ 167811
+2. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Captures agent session context and enhances future interactions. ⭐ 78823
+3. **[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** — A nano agent harness built from scratch. ⭐ 62891
+4. **[twentyhq/twenty](https://github.com/twentyhq/twenty)** — An open alternative to Salesforce, designed for AI. ⭐ 46978
+5. **[modelscope/FunASR](https://github.com/modelscope/FunASR)** — Industrial-grade speech recognition toolkit with extensive features. ⭐ 16339
+6. **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** — Open-source market platform for real-time price tracking. ⭐ 12266
+7. **[hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)** — A skill file for removing AI tells from prose. ⭐ 5159
+
+</details>
+
+<details>
 <summary><strong>2026-05-26</strong></summary>
 
 #### Papers

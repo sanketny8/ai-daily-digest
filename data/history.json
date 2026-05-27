@@ -1,36 +1,4 @@
 {
-  "2026-04-26": {
-    "papers": [
-      "http://arxiv.org/abs/2604.21928v1",
-      "http://arxiv.org/abs/2604.21927v1",
-      "http://arxiv.org/abs/2604.21923v1",
-      "http://arxiv.org/abs/2604.21916v1",
-      "http://arxiv.org/abs/2604.21911v1",
-      "http://arxiv.org/abs/2604.21910v1",
-      "http://arxiv.org/abs/2604.21905v1",
-      "http://arxiv.org/abs/2604.21903v1"
-    ],
-    "blogs": [
-      "https://github.com/nex-crm/wuphf",
-      "https://openai.com/index/introducing-openai-privacy-filter/",
-      "https://alash3al.github.io/stash?_v01",
-      "https://victortaelin.github.io/lambench/",
-      "https://medium.com/@jeetlahauk/generative-engine-optimization-geo-goes-mainstream-why-llm-visibility-is-the-new-1-ranking-899d35882751",
-      "https://medium.com/@miyagumsum/you-studied-ai-right-then-why-dont-you-have-a-job-d2e1cc8801a2",
-      "https://alkapandey.medium.com/python-isnt-one-skill-it-s-10-different-career-paths-996c4f76a0d6",
-      "https://medium.com/the-content-ledger/i-tried-selling-ai-prompts-for-7-days-heres-exactly-how-much-i-made-2c2b57dbeb88"
-    ],
-    "repos": [
-      "https://github.com/deepseek-ai/DeepSeek-V3",
-      "https://github.com/RooCodeInc/Roo-Code",
-      "https://github.com/mattpocock/skills",
-      "https://github.com/pydantic/pydantic-ai",
-      "https://github.com/MemoriLabs/Memori",
-      "https://github.com/tile-ai/tilelang",
-      "https://github.com/zilliztech/memsearch",
-      "https://github.com/ConardLi/garden-skills"
-    ]
-  },
   "2026-04-27": {
     "papers": [
       "https://arxiv.org/abs/2604.22294",
@@ -942,6 +910,39 @@
       "https://github.com/anthropics/claude-cookbooks",
       "https://github.com/moeru-ai/airi",
       "https://github.com/Leonxlnx/taste-skill"
+    ]
+  },
+  "2026-05-27": {
+    "papers": [
+      "https://arxiv.org/abs/2605.24468",
+      "https://arxiv.org/abs/2605.25979",
+      "https://arxiv.org/abs/2605.27358",
+      "https://arxiv.org/abs/2605.26114",
+      "https://arxiv.org/abs/2605.24219",
+      "https://arxiv.org/abs/2605.27235",
+      "https://arxiv.org/abs/2605.26244",
+      "https://arxiv.org/abs/2605.26952",
+      "https://arxiv.org/abs/2605.26494",
+      "https://arxiv.org/abs/2605.17423"
+    ],
+    "blogs": [
+      "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+      "https://deepswe.datacurve.ai/blog",
+      "https://dev.to/harsh2644/openclaw-vs-craftbot-which-local-ai-agent-is-right-for-you-47k9",
+      "https://medium.com/@bhoomi.ahuja/top-ai-outsourcing-companies-for-2026-85c3b408d020",
+      "https://medium.com/@marketing.hiteshi/remote-health-monitoring-top-features-every-platform-needs-1829911ee94b",
+      "https://medium.com/@atharvjaiswal56/best-python-fastapi-production-tools-2026-complete-developer-guide-e914d70ffe18",
+      "https://medium.com/@richuemexo/genai-agentic-ai-training-in-electronic-city-ab550c76b944",
+      "https://medium.com/@seosperreach/how-ai-powered-kol-discovery-improves-pharma-competitive-intelligence-20f5e41b5e03"
+    ],
+    "repos": [
+      "https://github.com/DigitalPlatDev/FreeDomain",
+      "https://github.com/thedotmack/claude-mem",
+      "https://github.com/shareAI-lab/learn-claude-code",
+      "https://github.com/twentyhq/twenty",
+      "https://github.com/modelscope/FunASR",
+      "https://github.com/Open-Dev-Society/OpenStock",
+      "https://github.com/hardikpandya/stop-slop"
     ]
   }
 }

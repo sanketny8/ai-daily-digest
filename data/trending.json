@@ -1,139 +1,148 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "papers": [
     {
-      "title": "SEAL: Synergistic Co-Evolution of Agents and Learning Environments",
-      "url": "https://arxiv.org/abs/2605.24426",
-      "summary": "Large Language Model (LLM) agents are increasingly improved through interaction, yet most self-evolution methods adapt either the policy or the learning environment in isolation. We identify this stru"
+      "title": "SAM: State-Adaptive Memory for Long-Horizon Reasoning Agent",
+      "url": "https://arxiv.org/abs/2605.24468",
+      "summary": "Long-horizon agentic reasoning requires large language models to act over long interaction histories containing thoughts, tool calls, observations, and partial conclusions. The challenge is not merely"
     },
     {
-      "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks",
-      "url": "https://arxiv.org/abs/2605.24218",
-      "summary": "Deep research agents extend the role of search engines from retrieving keyword-matched pages to synthesizing knowledge, fundamentally changing how humans interact with information. However, frontier s"
+      "title": "LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence",
+      "url": "https://arxiv.org/abs/2605.25979",
+      "summary": "We introduce LLaVA-OneVision-2 (LLaVA-OV-2), the most capable vision-language model in the LLaVA-OneVision series to date, achieving superior performance across a broad range of multimodal benchmarks."
     },
     {
-      "title": "Towards Customized Multimodal Role-Play",
-      "url": "https://arxiv.org/abs/2605.08129",
-      "summary": "Unified multimodal understanding and generation models enable richer human-AI interaction. Yet jointly customizing a character's persona, dialogue style, and visual identity while maintaining output c"
+      "title": "MobileMoE: Scaling On-Device Mixture of Experts",
+      "url": "https://arxiv.org/abs/2605.27358",
+      "summary": "Mixture-of-Experts (MoE) has become the de facto architecture for hundred-billion-parameter language models, yet its advantages at sub-billion scales for on-device deployment remain largely unexplored"
     },
     {
-      "title": "Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth",
-      "url": "https://arxiv.org/abs/2605.25052",
-      "summary": "Chains of thought (CoTs) have become central in interpreting and auditing behaviors of large language models. Yet growing evidence suggests that these traces often fail to faithfully represent the com"
+      "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+      "url": "https://arxiv.org/abs/2605.26114",
+      "summary": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two cap"
     },
     {
-      "title": "ControlLight: Towards Controllable, Consistent, and Generalizable Low-Light Enhancement",
-      "url": "https://arxiv.org/abs/2605.25569",
-      "summary": "Existing deep learning-based low-light enhancement methods are typically trained on limited datasets with single enhancement targets, which restricts their generalization ability and controllability i"
+      "title": "Beyond Final Answers: Auditing Trajectory-Level Hallucinations in Multi-Agent Industrial Workflows",
+      "url": "https://arxiv.org/abs/2605.24219",
+      "summary": "Large Language Models (LLMs) are increasingly deployed as autonomous agents that reason, use tools, and act over multiple steps. Yet most hallucination benchmarks still evaluate only the final output,"
     },
     {
-      "title": "Foundation Protocol: A Coordination Layer for Agentic Society",
-      "url": "https://arxiv.org/abs/2605.23218",
-      "summary": "Autonomous agents are moving from tools into a layer of social infrastructure: they browse, purchase, deploy software, manage systems, and increasingly interact with one another. As these systems scal"
+      "title": "MRT: Masked Region Transformer for Layered Image Generation and Editing at Scale",
+      "url": "https://arxiv.org/abs/2605.27235",
+      "summary": "Layered image generation and editing is a fundamental capability that enables layer-wise reuse, editing, and composition of generated visual content, analogous to word-level editing in natural languag"
     },
     {
-      "title": "Helix4D: Complex 4D Mesh Generation",
-      "url": "https://arxiv.org/abs/2605.26109",
-      "summary": "Current video-to-4D methods struggle with complex topology changes, transparent materials, thin structures, and inner surfaces. We present Helix4D, a dynamic mesh generation framework by inheriting th"
+      "title": "LongAV-Compass: Towards Unified Evaluation of Minute-Scale Audio-Visual Generation Across T2AV, I2AV, and V2AV",
+      "url": "https://arxiv.org/abs/2605.26244",
+      "summary": "Audio-visual generation is rapidly advancing from short clips to minute-long content, while existing evaluation protocols remain largely confined to short-form settings. Existing benchmarks primarily "
     },
     {
-      "title": "On-Policy Adversarial Flow Distillation for Autoregressive Video Generation",
-      "url": "https://arxiv.org/abs/2605.26105",
-      "summary": "Autoregressive video generators are attractive for streaming, long-horizon, and interactive applications, but distilling strong black-box teachers into causal students remains difficult. The student m"
+      "title": "Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement",
+      "url": "https://arxiv.org/abs/2605.26952",
+      "summary": "Agentic reinforcement learning (RL) has proven effective for training LLM-based agents with external tool-use capabilities. However, we identify that agentic RL training induces increasing redundant t"
     },
     {
-      "title": "Channel-wise Vector Quantization",
-      "url": "https://arxiv.org/abs/2605.26089",
-      "summary": "We present Channel-wise Vector Quantization (CVQ), a novel image tokenization paradigm that replaces patch-wise tokens with channel-wise tokens. Unlike conventional vector quantization, which assigns "
+      "title": "The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence",
+      "url": "https://arxiv.org/abs/2605.26494",
+      "summary": "We introduce the MiniMax-M2 series, a family of Mixture-of-Experts language models built around the principle that mini activations can unleash maximum real-world intelligence. The flagship M2 contain"
     },
     {
-      "title": "TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction",
-      "url": "https://arxiv.org/abs/2605.26115",
-      "summary": "Sparse-view 3D reconstruction is increasingly addressed with feed-forward splatting networks that predict explicit primitives directly from images. Yet most existing methods remain centered on Gaussia"
+      "title": "Soap2Soap: Long Cinematic Video Remaking via Multi-Agent Collaboration",
+      "url": "https://arxiv.org/abs/2605.17423",
+      "summary": "We study series-level cinematic remaking, a long-horizon video-to-video generation problem that localizes full episodes or films via stylization or actor replacement while strictly preserving narrativ"
     }
   ],
   "blog_posts": [
     {
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "author": "blocksandfiles.com"
+      "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
+      "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+      "author": "vllm.ai"
     },
     {
-      "title": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
-      "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
-      "author": "businessinsider.com"
+      "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+      "url": "https://deepswe.datacurve.ai/blog",
+      "author": "deepswe.datacurve.ai"
     },
     {
-      "title": "Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas",
-      "url": "http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "author": "pyfisch"
-    },
-    {
-      "title": "Why AI-Generated Code Is Always Good Enough — And Never Great",
-      "url": "https://dev.to/harsh2644/why-ai-generated-code-is-always-good-enough-and-never-great-4lhn",
+      "title": "OpenClaw vs CraftBot: Which Local AI Agent Is Right for You?",
+      "url": "https://dev.to/harsh2644/openclaw-vs-craftbot-which-local-ai-agent-is-right-for-you-47k9",
       "author": "Harsh "
     },
     {
-      "title": "Don’t let AI break your collective thinking: a practical guide for engineering teams",
-      "url": "https://dev.to/javz/dont-let-ai-break-your-collective-thinking-a-practical-guide-for-engineering-teams-41c4",
-      "author": "Julien Avezou"
+      "title": "Top AI Outsourcing Companies for 2026",
+      "url": "https://medium.com/@bhoomi.ahuja/top-ai-outsourcing-companies-for-2026-85c3b408d020",
+      "author": "Bhoomi Ahuja"
     },
     {
-      "title": "Building Cursor for Community: A Buildathon Built on Time Pressure",
-      "url": "https://dev.to/odingaval/building-cursor-for-community-a-buildathon-built-on-time-pressure-12ih",
-      "author": "Valery Odinga"
+      "title": "Remote Health Monitoring: Top Features Every Platform Needs",
+      "url": "https://medium.com/@marketing.hiteshi/remote-health-monitoring-top-features-every-platform-needs-1829911ee94b",
+      "author": "Marketing Hiteshi"
     },
     {
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
-      "author": "Rohini Gaonkar"
+      "title": "Best Python FastAPI Production Tools 2026 (Complete Developer Guide)",
+      "url": "https://medium.com/@atharvjaiswal56/best-python-fastapi-production-tools-2026-complete-developer-guide-e914d70ffe18",
+      "author": "Programming India"
     },
     {
-      "title": "If Microsoft and Uber can't afford AI coding, what chance do the rest of us have?",
-      "url": "https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn",
-      "author": "Jonathan Murray"
+      "title": "GenAI & Agentic AI Training in Electronic City",
+      "url": "https://medium.com/@richuemexo/genai-agentic-ai-training-in-electronic-city-ab550c76b944",
+      "author": "Richuemexo"
     },
     {
-      "title": "Google Just Quietly Rebuilt the Internet",
-      "url": "https://medium.com/@decodedbysania/google-just-quietly-rebuilt-the-internet-06bed91ea029",
-      "author": "Sania"
+      "title": "How AI-Powered KOL Discovery Improves Competitive Intelligence in Pharma",
+      "url": "https://medium.com/@seosperreach/how-ai-powered-kol-discovery-improves-pharma-competitive-intelligence-20f5e41b5e03",
+      "author": "Ankit kumar"
     }
   ],
   "repos": [
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 192853,
-      "language": "JavaScript"
+      "name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 167811,
+      "language": "HTML"
     },
     {
-      "name": "OpenBB-finance/OpenBB",
-      "url": "https://github.com/OpenBB-finance/OpenBB",
-      "description": "Financial data platform for analysts, quants and AI agents.",
-      "stars": 68093,
-      "language": "Python"
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": 44133,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "name": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
-      "stars": 39854,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "stars": 78823,
       "language": "TypeScript"
     },
     {
-      "name": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "stars": 20048,
-      "language": "Shell"
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "stars": 62891,
+      "language": "Python"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "stars": 46978,
+      "language": "TypeScript"
+    },
+    {
+      "name": "modelscope/FunASR",
+      "url": "https://github.com/modelscope/FunASR",
+      "description": "Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.",
+      "stars": 16339,
+      "language": "Python"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free",
+      "stars": 12266,
+      "language": "TypeScript"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "stars": 5159,
+      "language": ""
     }
   ],
   "tweets": []
