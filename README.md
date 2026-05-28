@@ -10,6 +10,36 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-28</strong></summary>
+
+#### Papers
+1. **[Triplet-Block Diffusion RWKV](https://arxiv.org/abs/2605.25969)** — This paper addresses the inefficiencies in causal Transformer models by introducing a new diffusion approach.
+2. **[AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems](https://arxiv.org/abs/2605.27466)** — It explores coordination strategies for multi-agent systems utilizing large language models, enhancing their operational efficiency.
+3. **[Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving](https://arxiv.org/abs/2605.23163)** — This work presents a novel model for improving trajectory planning in autonomous driving through efficient inference.
+4. **[PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective](https://arxiv.org/abs/2605.28819)** — It examines the balance between model stability and adaptability in parameter-efficient finetuning methods.
+5. **[ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation](https://arxiv.org/abs/2605.28293)** — This paper proposes a reinforcement learning approach for enhancing proactive recommendation systems.
+6. **[Rethinking Memory as Continuously Evolving Connectivity](https://arxiv.org/abs/2605.28773)** — It challenges traditional views of memory in LLMs, advocating for a dynamic, evolving memory system.
+7. **[MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems](https://arxiv.org/abs/2605.28732)** — This research focuses on improving the reliability and debuggability of memory systems in LLMs.
+8. **[Advancing Creative Physical Intelligence in Large Multimodal Models](https://arxiv.org/abs/2605.26396)** — It investigates the creative capabilities of multimodal models in solving complex physical tasks.
+9. **[GEM: Generative Supervision Helps Embodied Intelligence](https://arxiv.org/abs/2605.28548)** — This paper discusses the benefits of generative supervision for improving embodied vision-language models.
+10. **[Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization](https://arxiv.org/abs/2605.28109)** — It presents a novel approach to policy optimization in reinforcement learning, addressing imbalances in exploration.
+
+#### Blog Posts
+1. **[I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)** by Simon Willison
+2. **[Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs](https://arps18.github.io/posts/claude-code-mastery/)** by arps18
+3. **[Training our own AI models](https://posthog.com/blog/training-ai-models)** by PostHog
+4. **[Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)](https://www.thonking.ai/p/strangely-matrix-multiplications)** by Thonking AI
+5. **[How Are Developers Actually Using AI At Work?](https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c)** by Sylwia Laskowska
+6. **[AI Won’t Make You a Better Thinker. Learning to Code Will.](https://medium.com/@cinemainpictures/ai-wont-make-you-a-better-thinker-learning-to-code-will-feecb7dfdc22)** by Mike
+
+#### Trending Repos
+1. **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** — Open-source LLM Friendly Web Crawler & Scraper. ⭐ 66628
+2. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — Generate short videos with one click using AI LLM. ⭐ 63333
+3. **[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)** — Build and run agents you can see, understand and trust. ⭐ 25776
+
+</details>
+
+<details>
 <summary><strong>2026-05-27</strong></summary>
 
 #### Papers
