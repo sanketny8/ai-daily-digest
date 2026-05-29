@@ -1,119 +1,109 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "papers": [
     {
-      "title": "Triplet-Block Diffusion RWKV",
-      "url": "https://arxiv.org/abs/2605.25969",
-      "summary": "Causal Transformer language models suffer from strictly sequential decoding and a quadratic per-step attention cost. While linear-time causal models and discrete diffusion models each address these we"
+      "title": "ChildVox: A Speech, Audio, and Large Audio-Language Model Benchmark in Understanding and Characterizing Sound across Childhood",
+      "url": "https://arxiv.org/abs/2605.29257",
+      "summary": "We present ChildVox, a novel benchmark for characterizing the diverse acoustic signals through which children communicate. Specifically, ChildVox follows the full developmental trajectory from birth t"
     },
     {
-      "title": "AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2605.27466",
-      "summary": "Multi-agent systems built on large language models (LLMs) require many coordination choices that are difficult to fix a priori: which skill protocol to invoke, which agent role should perform a subtas"
+      "title": "Colored Noise Diffusion Sampling",
+      "url": "https://arxiv.org/abs/2605.30332",
+      "summary": "Diffusion models achieve state-of-the-art image synthesis, with their generative trajectories fundamentally exhibiting a spectral bias, resolving low-frequency global structures early and high-frequen"
     },
     {
-      "title": "Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving",
-      "url": "https://arxiv.org/abs/2605.23163",
-      "summary": "End-to-end autonomous driving via Vision-Language-Action (VLA) models demands a precarious balance between high-fidelity trajectory planning and efficient inference. Existing paradigms typically fall "
+      "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.28424",
+      "summary": "Equipping large language models with explicit skills has emerged as a promising paradigm for enabling autonomous agents to solve complex tasks. Agent skills can be inherently divided into general skil"
     },
     {
-      "title": "PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective",
-      "url": "https://arxiv.org/abs/2605.28819",
-      "summary": "Parameter-efficient finetuning (PEFT) has become the standard approach for adapting large language models, yet evaluations largely emphasize downstream accuracy while overlooking the retention of pret"
+      "title": "Is Position Bias in Dense Retrievers Built In-or Learned from Data?",
+      "url": "https://arxiv.org/abs/2605.26578",
+      "summary": "Dense retrievers exhibit positional bias, favoring documents whose query-relevant information appears near the beginning and degrading retrieval performance when the information appears later. While p"
     },
     {
-      "title": "ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation",
-      "url": "https://arxiv.org/abs/2605.28293",
-      "summary": "Proactive Recommender Systems (PRSs) aim to guide user preference shift toward target items by generating paths of intermediate recommendations. Reinforcement learning (RL) provides a principled frame"
+      "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists",
+      "url": "https://arxiv.org/abs/2605.26029",
+      "summary": "We introduce CausaLab, a scalable environment for evaluating interactive causal discovery by LLM agents. Unlike prior evaluations, CausaLab evaluates both whether an agent can solve a problem using ca"
     },
     {
-      "title": "Rethinking Memory as Continuously Evolving Connectivity",
-      "url": "https://arxiv.org/abs/2605.28773",
-      "summary": "Existing memory-augmented LLM agents often treat memory as a static repository with pre-defined representations and fixed retrieval pipelines, which is brittle in dynamic agentic environments where fe"
+      "title": "Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection",
+      "url": "https://arxiv.org/abs/2605.30189",
+      "summary": "We show that LoRA adapters, the dominant distribution format for fine-tuned LLMs, can be reliably backdoored through training data poisoning while preserving baseline task performance. On a Qwen 2.5 1"
     },
     {
-      "title": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems",
-      "url": "https://arxiv.org/abs/2605.28732",
-      "summary": "Memory is essential for enabling large language models to support long-horizon reasoning, yet existing memory systems remain unreliable and difficult to debug. Tracing memory's dynamic evolution is cr"
+      "title": "CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2605.25378",
+      "summary": "Customized image editing aims to equip pre-trained diffusion models with specific visual effects using limited paired data, typically via Low-Rank Adaptation (LoRA). As the number of desired effects g"
     },
     {
-      "title": "Advancing Creative Physical Intelligence in Large Multimodal Models",
-      "url": "https://arxiv.org/abs/2605.26396",
-      "summary": "Large multimodal models (LMMs) have rapidly advanced in perception and reasoning; however, it remains unclear whether these capabilities generalize to discovering visually grounded solutions in open-e"
+      "title": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
+      "url": "https://arxiv.org/abs/2605.30346",
+      "summary": "As video diffusion models (VDMs) advance toward world models, a key question arises: do they truly understand causality, or merely overfit to statistical temporal patterns? Existing benchmarks mostly "
     },
     {
-      "title": "GEM: Generative Supervision Helps Embodied Intelligence",
-      "url": "https://arxiv.org/abs/2605.28548",
-      "summary": "Embodied Vision-Language Models (VLMs) have demonstrated impressive performance and generalization in robotics, particularly within Vision-Language-Action frameworks. However, a significant gap remain"
+      "title": "PhoneWorld: Scaling Phone-Use Agent Environments",
+      "url": "https://arxiv.org/abs/2605.29486",
+      "summary": "A central bottleneck for phone-use agents is that controllable, reproducible environments covering real mobile behavior are hard to build at scale. Existing mobile-agent benchmarks have made important"
     },
     {
-      "title": "Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization",
-      "url": "https://arxiv.org/abs/2605.28109",
-      "summary": "Recent advances in online reinforcement learning (RL) for large language models (LLMs) have demonstrated promising performance in complex reasoning tasks. However, they often exhibit an imbalanced exp"
+      "title": "Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention",
+      "url": "https://arxiv.org/abs/2605.29548",
+      "summary": "Larger models learn tasks smaller models do not. What drives this phenomenon? We develop a simple phenomenological argument that power-law scaling already suggests that a larger model will be able to "
     }
   ],
   "blog_posts": [
     {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "author": "simonwillison.net"
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "author": "anthropic.com"
     },
     {
-      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-      "url": "https://arps18.github.io/posts/claude-code-mastery/",
-      "author": "arps18.github.io"
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "author": "anthropic.com"
     },
     {
-      "title": "Training our own AI models",
-      "url": "https://posthog.com/blog/training-ai-models",
-      "author": "posthog.com"
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "author": "llmgame.scalex.dev"
     },
     {
-      "title": "Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)",
-      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
-      "author": "thonking.ai"
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "author": "minimaxir.com"
     },
     {
-      "title": "How Are Developers Actually Using AI At Work?",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "author": "Sylwia Laskowska"
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
+      "author": "Harsh "
     },
     {
-      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "url": "https://arxiv.org/abs/2510.04950",
-      "author": "arxiv.org"
-    },
-    {
-      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-      "url": "https://arxiv.org/abs/2605.21779",
-      "author": "arxiv.org"
-    },
-    {
-      "title": "AI Won’t Make You a Better Thinker. Learning to Code Will.",
-      "url": "https://medium.com/@cinemainpictures/ai-wont-make-you-a-better-thinker-learning-to-code-will-feecb7dfdc22",
-      "author": "Mike"
+      "title": "From Chat Window to Operating System: How to Actually Run a Persistent Agent",
+      "url": "https://jinlow.medium.com/from-chat-window-to-operating-system-how-to-actually-run-a-persistent-agent-f020accccca5",
+      "author": "JIN"
     }
   ],
   "repos": [
     {
-      "name": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "stars": 66628,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "stars": 127450,
       "language": "Python"
     },
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": 63333,
-      "language": "Python"
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "stars": 17861,
+      "language": "TypeScript"
     },
     {
-      "name": "agentscope-ai/agentscope",
-      "url": "https://github.com/agentscope-ai/agentscope",
-      "description": "Build and run agents you can see, understand and trust.",
-      "stars": 25776,
+      "name": "adithya-s-k/omniparse",
+      "url": "https://github.com/adithya-s-k/omniparse",
+      "description": "Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks",
+      "stars": 7360,
       "language": "Python"
     }
   ],

@@ -10,6 +10,36 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-29</strong></summary>
+
+#### Papers
+1. **[ChildVox: A Speech, Audio, and Large Audio-Language Model Benchmark in Understanding and Characterizing Sound across Childhood](https://arxiv.org/abs/2605.29257)** — A benchmark to analyze children's diverse acoustic communication from birth through development.
+2. **[Colored Noise Diffusion Sampling](https://arxiv.org/abs/2605.30332)** — Investigates the spectral bias in diffusion models that affects image synthesis quality.
+3. **[Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning](https://arxiv.org/abs/2605.28424)** — Proposes a method for enhancing autonomous agents' task-solving abilities through skill integration.
+4. **[CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists](https://arxiv.org/abs/2605.26029)** — Introduces a platform for evaluating causal discovery capabilities in AI agents.
+5. **[Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection](https://arxiv.org/abs/2605.30189)** — Explores vulnerabilities in fine-tuned LLMs through data poisoning while maintaining performance.
+6. **[YoCausal: How Far is Video Generation from World Model? A Causality Perspective](https://arxiv.org/abs/2605.30346)** — Examines whether video diffusion models truly understand causality beyond statistical patterns.
+7. **[Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention](https://arxiv.org/abs/2605.29548)** — Analyzes why larger models outperform smaller ones in learning diverse tasks.
+8. **[Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1)** — Investigates the role of AI as a tool or collaborator in scientific software development.
+9. **[Fairness-Aware Federated Learning with Trajectory Shapley Value](http://arxiv.org/abs/2605.30336v1)** — Addresses fairness in federated learning by proposing a new value-based approach.
+10. **[GPIC: A Giant Permissive Image Corpus for Visual Generation](http://arxiv.org/abs/2605.30341v1)** — Introduces a massive dataset aimed at enhancing visual generative modeling research.
+
+#### Blog Posts
+1. **[Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)** by anthropic.com
+2. **[Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h)** by anthropic.com
+3. **[Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev)** by llmgame.scalex.dev
+4. **[The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/)** by minimaxir.com
+5. **[I Spent 10x Longer Debugging AI Code Than Writing It](https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4)** by Harsh
+6. **[From Chat Window to Operating System: How to Actually Run a Persistent Agent](https://jinlow.medium.com/from-chat-window-to-operating-system-how-to-actually-run-a-persistent-agent-f020accccca5)** by JIN
+
+#### Trending Repos
+1. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** — An agentic coding tool that enhances coding efficiency in terminal. ⭐ 127450
+2. **[EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** — Official Compound Engineering plugin for various coding tools. ⭐ 17861
+3. **[adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse)** — Tool for ingesting and optimizing data formats for GenAI frameworks. ⭐ 7360
+
+</details>
+
+<details>
 <summary><strong>2026-05-28</strong></summary>
 
 #### Papers
