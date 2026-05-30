@@ -1,109 +1,121 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "papers": [
     {
-      "title": "ChildVox: A Speech, Audio, and Large Audio-Language Model Benchmark in Understanding and Characterizing Sound across Childhood",
-      "url": "https://arxiv.org/abs/2605.29257",
-      "summary": "We present ChildVox, a novel benchmark for characterizing the diverse acoustic signals through which children communicate. Specifically, ChildVox follows the full developmental trajectory from birth t"
+      "title": "Reflective Prompt Tuning through Language Model Function-Calling",
+      "url": "https://arxiv.org/abs/2605.21781",
+      "summary": "Large language models (LLMs) have become increasingly capable of following instructions and complex reasoning, making prompting a flexible interface for adapting models without parameter updates. Yet "
     },
     {
-      "title": "Colored Noise Diffusion Sampling",
-      "url": "https://arxiv.org/abs/2605.30332",
-      "summary": "Diffusion models achieve state-of-the-art image synthesis, with their generative trajectories fundamentally exhibiting a spectral bias, resolving low-frequency global structures early and high-frequen"
+      "title": "Why Far Looks Up: Probing Spatial Representation in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2605.30161",
+      "summary": "Vision-language models (VLMs) achieve strong performance on spatial reasoning benchmarks, yet it remains unclear whether this reflects structured 3D understanding or reliance on statistical shortcuts "
     },
     {
-      "title": "Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2605.28424",
-      "summary": "Equipping large language models with explicit skills has emerged as a promising paradigm for enabling autonomous agents to solve complex tasks. Agent skills can be inherently divided into general skil"
+      "title": "CONF-KV: Confidence-Aware KV Cache Eviction with Mixed-Precision Storage for Long-Horizon LLM",
+      "url": "https://arxiv.org/abs/2605.24786",
+      "summary": "Long-horizon LLM inference turns the key--value (KV) cache into the dominant GPU memory consumer and makes per-token attention increasingly expensive. Many common eviction policies use static recency "
     },
     {
-      "title": "Is Position Bias in Dense Retrievers Built In-or Learned from Data?",
-      "url": "https://arxiv.org/abs/2605.26578",
-      "summary": "Dense retrievers exhibit positional bias, favoring documents whose query-relevant information appears near the beginning and degrading retrieval performance when the information appears later. While p"
+      "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation",
+      "url": "https://arxiv.org/abs/2605.24785",
+      "summary": "Recent advances in multimodal web agents often rely on increased inference-time computation, including rollout search, verifier passes, offline skill discovery, and specialist model stacks. This raise"
     },
     {
-      "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists",
-      "url": "https://arxiv.org/abs/2605.26029",
-      "summary": "We introduce CausaLab, a scalable environment for evaluating interactive causal discovery by LLM agents. Unlike prior evaluations, CausaLab evaluates both whether an agent can solve a problem using ca"
+      "title": "Convex Low-resource Accent-Robust Language Detection in Speech Recognition",
+      "url": "https://arxiv.org/abs/2605.23235",
+      "summary": "Globalization and multiculturalism continue to produce increasingly diverse speech varieties. Yet current spoken dialogue systems frequently fail on under-represented dialects and accents, often misid"
     },
     {
-      "title": "Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection",
-      "url": "https://arxiv.org/abs/2605.30189",
-      "summary": "We show that LoRA adapters, the dominant distribution format for fine-tuned LLMs, can be reliably backdoored through training data poisoning while preserving baseline task performance. On a Qwen 2.5 1"
+      "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
+      "url": "https://arxiv.org/abs/2605.30350",
+      "summary": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recog"
     },
     {
-      "title": "CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2605.25378",
-      "summary": "Customized image editing aims to equip pre-trained diffusion models with specific visual effects using limited paired data, typically via Low-Rank Adaptation (LoRA). As the number of desired effects g"
+      "title": "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection",
+      "url": "https://arxiv.org/abs/2605.30344",
+      "summary": "Recent advances in Vision-Language Models (VLMs) have achieved impressive performance across many tasks, yet prior studies report unsatisfactory performance when applying large language or multimodal "
     },
     {
-      "title": "YoCausal: How Far is Video Generation from World Model? A Causality Perspective",
-      "url": "https://arxiv.org/abs/2605.30346",
-      "summary": "As video diffusion models (VDMs) advance toward world models, a key question arises: do they truly understand causality, or merely overfit to statistical temporal patterns? Existing benchmarks mostly "
+      "title": "Reducing Political Manipulation with Consistency Training",
+      "url": "https://arxiv.org/abs/2605.22771",
+      "summary": "Large language models (LLMs) exhibit systematic political bias across a variety of sensitive contexts. We find that LLMs handle counterpart topics from opposing political sides asymmetrically. We refe"
     },
     {
-      "title": "PhoneWorld: Scaling Phone-Use Agent Environments",
-      "url": "https://arxiv.org/abs/2605.29486",
-      "summary": "A central bottleneck for phone-use agents is that controllable, reproducible environments covering real mobile behavior are hard to build at scale. Existing mobile-agent benchmarks have made important"
+      "title": "Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation",
+      "url": "https://arxiv.org/abs/2605.25220",
+      "summary": "High-fidelity 3D Gaussian head avatar generation is critical for applications such as AR/VR, telepresence, and digital humans. Existing methods depend on multi-view datasets, 3D captures, or intermedi"
     },
     {
-      "title": "Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention",
-      "url": "https://arxiv.org/abs/2605.29548",
-      "summary": "Larger models learn tasks smaller models do not. What drives this phenomenon? We develop a simple phenomenological argument that power-law scaling already suggests that a larger model will be able to "
+      "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair",
+      "url": "https://arxiv.org/abs/2605.30052",
+      "summary": "One-shot Program-of-Thought (PoT) emits a Python program that prints a primitive-action plan; a single invalid action silently invalidates the trajectory. We introduce RePoT (Recoverable PoT): a deter"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "author": "anthropic.com"
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "author": "koenvangilst.nl"
     },
     {
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "url": "https://www.anthropic.com/news/series-h",
-      "author": "anthropic.com"
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "author": "blog.kog.ai"
     },
     {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "author": "llmgame.scalex.dev"
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "author": "github.com"
     },
     {
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "author": "minimaxir.com"
+      "title": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "author": "theverge.com"
     },
     {
-      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
-      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
-      "author": "Harsh "
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "author": "techcrunch.com"
     },
     {
-      "title": "From Chat Window to Operating System: How to Actually Run a Persistent Agent",
-      "url": "https://jinlow.medium.com/from-chat-window-to-operating-system-how-to-actually-run-a-persistent-agent-f020accccca5",
-      "author": "JIN"
+      "title": "CAPTCHAs can still detect AI agents",
+      "url": "https://research.roundtable.ai/captchas-detect-ai/",
+      "author": "research.roundtable.ai"
+    },
+    {
+      "title": "How to Automate Mobile App Testing Without Writing a Single Line of Code",
+      "url": "https://dev.to/drizzdev/how-to-automate-mobile-app-testing-without-writing-a-single-line-of-code-5d17",
+      "author": "Jay Saadana"
     }
   ],
   "repos": [
     {
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
-      "stars": 127450,
-      "language": "Python"
-    },
-    {
-      "name": "EveryInc/compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "stars": 17861,
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars": 27031,
       "language": "TypeScript"
     },
     {
-      "name": "adithya-s-k/omniparse",
-      "url": "https://github.com/adithya-s-k/omniparse",
-      "description": "Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks",
-      "stars": 7360,
+      "name": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "stars": 7440,
+      "language": "Rust"
+    },
+    {
+      "name": "apurvsinghgautam/robin",
+      "url": "https://github.com/apurvsinghgautam/robin",
+      "description": "AI-Powered Dark Web OSINT Tool",
+      "stars": 5288,
+      "language": "Python"
+    },
+    {
+      "name": "GH05TCREW/pentestagent",
+      "url": "https://github.com/GH05TCREW/pentestagent",
+      "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
+      "stars": 2499,
       "language": "Python"
     }
   ],

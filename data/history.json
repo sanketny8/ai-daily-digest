@@ -1,37 +1,4 @@
 {
-  "2026-04-29": {
-    "papers": [
-      "https://arxiv.org/abs/2604.25032",
-      "https://arxiv.org/abs/2604.25719",
-      "https://arxiv.org/abs/2604.25806",
-      "https://arxiv.org/abs/2604.25256",
-      "https://arxiv.org/abs/2604.21481",
-      "https://arxiv.org/abs/2604.21523",
-      "https://arxiv.org/abs/2604.24005",
-      "https://arxiv.org/abs/2604.23941",
-      "https://arxiv.org/abs/2604.24441",
-      "https://arxiv.org/abs/2604.25203"
-    ],
-    "blogs": [
-      "https://status.claude.com/incidents/9l93x2ht4s5w",
-      "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "https://github.com/anthropics/claude-code/issues/49363",
-      "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
-      "https://www.anthropic.com/news/claude-for-creative-work",
-      "https://www.mendral.com/blog/frontier-model-lower-costs",
-      "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
-      "https://dev.to/javz/ai-through-visuals-hardware-5ha6"
-    ],
-    "repos": [
-      "https://github.com/obra/superpowers",
-      "https://github.com/microsoft/VibeVoice",
-      "https://github.com/warpdotdev/warp",
-      "https://github.com/soxoj/maigret",
-      "https://github.com/shaxiu/XianyuAutoAgent",
-      "https://github.com/KellerJordan/modded-nanogpt",
-      "https://github.com/nexu-io/open-design"
-    ]
-  },
   "2026-04-30": {
     "papers": [
       "https://arxiv.org/abs/2604.26752",
@@ -930,6 +897,35 @@
       "https://github.com/anthropics/claude-code",
       "https://github.com/EveryInc/compound-engineering-plugin",
       "https://github.com/adithya-s-k/omniparse"
+    ]
+  },
+  "2026-05-30": {
+    "papers": [
+      "https://arxiv.org/abs/2605.21781",
+      "https://arxiv.org/abs/2605.30161",
+      "https://arxiv.org/abs/2605.24786",
+      "https://arxiv.org/abs/2605.24785",
+      "https://arxiv.org/abs/2605.23235",
+      "https://arxiv.org/abs/2605.30350",
+      "https://arxiv.org/abs/2605.30344",
+      "https://arxiv.org/abs/2605.22771",
+      "https://arxiv.org/abs/2605.25220",
+      "https://arxiv.org/abs/2605.30052"
+    ],
+    "blogs": [
+      "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "https://github.com/jmaczan/tiny-vllm",
+      "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "https://research.roundtable.ai/captchas-detect-ai/",
+      "https://dev.to/drizzdev/how-to-automate-mobile-app-testing-without-writing-a-single-line-of-code-5d17"
+    ],
+    "repos": [
+      "https://github.com/Crosstalk-Solutions/project-nomad",
+      "https://github.com/run-llama/liteparse",
+      "https://github.com/apurvsinghgautam/robin",
+      "https://github.com/GH05TCREW/pentestagent"
     ]
   }
 }

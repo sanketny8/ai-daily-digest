@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-30</strong></summary>
+
+#### Papers
+1. **[Reflective Prompt Tuning through Language Model Function-Calling](https://arxiv.org/abs/2605.21781)** — This paper explores how prompting can adapt large language models without changing their parameters.
+2. **[Why Far Looks Up: Probing Spatial Representation in Vision-Language Models](https://arxiv.org/abs/2605.30161)** — Investigates whether vision-language models truly understand 3D space or rely on statistical shortcuts.
+3. **[CONF-KV: Confidence-Aware KV Cache Eviction with Mixed-Precision Storage for Long-Horizon LLM](https://arxiv.org/abs/2605.24786)** — Proposes a new method for managing memory in long-horizon LLM inference to reduce costs.
+4. **[PANDO: Efficient Multimodal AI Agents via Online Skill Distillation](https://arxiv.org/abs/2605.24785)** — Introduces a novel approach for creating efficient multimodal AI agents through skill distillation.
+5. **[Reducing Political Manipulation with Consistency Training](https://arxiv.org/abs/2605.22771)** — Examines how consistency training can mitigate political bias in large language models.
+6. **[Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection](https://arxiv.org/abs/2605.30344)** — Discusses a new method for improving time-series anomaly detection using vision-language models.
+7. **[Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation](https://arxiv.org/abs/2605.25220)** — Presents a technique for generating high-fidelity 3D avatars without needing multi-view datasets.
+8. **[Unlocking the Working Memory of Large Language Models for Latent Reasoning](http://arxiv.org/abs/2605.30343v1)** — Proposes a method to enhance reasoning capabilities in large language models during inference.
+9. **[GPIC: A Giant Permissive Image Corpus for Visual Generation](http://arxiv.org/abs/2605.30341v1)** — Introduces a massive image dataset aimed at advancing visual generative modeling research.
+10. **[Fairness-Aware Federated Learning with Trajectory Shapley Value](http://arxiv.org/abs/2605.30336v1)** — Explores a federated learning approach that incorporates fairness considerations in model training.
+
+#### Blog Posts
+1. **[Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit)** by koenvangilst.nl
+2. **[Real-time LLM Inference on Standard GPUs: 3k tokens/s per request](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/)** by blog.kog.ai
+3. **[Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)** by theverge.com
+4. **[Robinhood now lets your AI agents trade stocks](https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/)** by techcrunch.com
+5. **[CAPTCHAs can still detect AI agents](https://research.roundtable.ai/captchas-detect-ai/)** by research.roundtable.ai
+6. **[How to Automate Mobile App Testing Without Writing a Single Line of Code](https://dev.to/drizzdev/how-to-automate-mobile-app-testing-without-writing-a-single-line-of-code-5d17)** by Jay Saadana
+
+#### Trending Repos
+1. **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** — A self-contained survival computer with critical tools and AI. ⭐ 27031
+2. **[run-llama/liteparse](https://github.com/run-llama/liteparse)** — A fast, helpful, and open-source document parser. ⭐ 7440
+3. **[apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)** — AI-Powered Dark Web OSINT Tool. ⭐ 5288
+4. **[GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)** — An AI agent framework for black-box security testing. ⭐ 2499
+
+</details>
+
+<details>
 <summary><strong>2026-05-29</strong></summary>
 
 #### Papers
