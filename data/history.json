@@ -1,32 +1,4 @@
 {
-  "2026-04-30": {
-    "papers": [
-      "https://arxiv.org/abs/2604.26752",
-      "https://arxiv.org/abs/2604.24351",
-      "https://arxiv.org/abs/2604.26951",
-      "https://arxiv.org/abs/2604.26779",
-      "https://arxiv.org/abs/2604.26694",
-      "https://arxiv.org/abs/2604.26904",
-      "https://arxiv.org/abs/2604.21003",
-      "https://arxiv.org/abs/2604.23380",
-      "http://arxiv.org/abs/2604.26951v1",
-      "http://arxiv.org/abs/2604.26942v1"
-    ],
-    "blogs": [
-      "https://github.com/anthropics/claude-code/issues/53262",
-      "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "https://blog.jeffschomay.com/letting-ai-play-my-game",
-      "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-      "https://status.claude.com/incidents/2gf1jpyty350",
-      "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-      "https://openai.com/index/where-the-goblins-came-from/",
-      "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
-      "https://interfaze.ai/blog/introducing-structured-output-benchmark"
-    ],
-    "repos": [
-      "https://github.com/1jehuang/jcode"
-    ]
-  },
   "2026-05-01": {
     "papers": [
       "https://arxiv.org/abs/2604.27085",
@@ -926,6 +898,36 @@
       "https://github.com/run-llama/liteparse",
       "https://github.com/apurvsinghgautam/robin",
       "https://github.com/GH05TCREW/pentestagent"
+    ]
+  },
+  "2026-05-31": {
+    "papers": [
+      "http://arxiv.org/abs/2605.30353v1",
+      "http://arxiv.org/abs/2605.30351v1",
+      "http://arxiv.org/abs/2605.30350v1",
+      "http://arxiv.org/abs/2605.30348v1",
+      "http://arxiv.org/abs/2605.30345v1",
+      "http://arxiv.org/abs/2605.30344v1",
+      "http://arxiv.org/abs/2605.30343v1",
+      "http://arxiv.org/abs/2605.30341v1",
+      "http://arxiv.org/abs/2605.30337v1",
+      "http://arxiv.org/abs/2605.30336v1"
+    ],
+    "blogs": [
+      "https://openenvelope.org/docs/schema/",
+      "https://arxiv.org/abs/2605.29135",
+      "https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b",
+      "https://dev.to/chintanonweb/hermes-agent-gets-smarter-every-day-so-does-the-bill-4i8o"
+    ],
+    "repos": [
+      "https://github.com/apache/airflow",
+      "https://github.com/streamlit/streamlit",
+      "https://github.com/revfactory/harness",
+      "https://github.com/OpenMOSS/MOSS-TTS",
+      "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "https://github.com/galilai-group/stable-worldmodel",
+      "https://github.com/UditAkhourii/adhd",
+      "https://github.com/withkynam/vibecode-pro-max-kit"
     ]
   }
 }

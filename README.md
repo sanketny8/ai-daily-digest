@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-05-31</strong></summary>
+
+#### Papers
+1. **[Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1)** — This study explores the role of AI agents in scientific software development under physicist supervision.
+2. **[VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](http://arxiv.org/abs/2605.30351v1)** — Introduces a new approach to video diffusion using a low-rank latent cache for improved efficiency.
+3. **[DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation](http://arxiv.org/abs/2605.30350v1)** — Proposes a new perception framework for robotics that enhances action-relevant scene understanding.
+4. **[LLMSurgeon: Diagnosing Data Mixture of Large Language Models](http://arxiv.org/abs/2605.30348v1)** — Analyzes the impact of training data composition on the behavior and performance of large language models.
+5. **[SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations](http://arxiv.org/abs/2605.30345v1)** — Presents a generative AI approach to automate PCB schematic design, reducing manual effort.
+6. **[Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection](http://arxiv.org/abs/2605.30344v1)** — Discusses a new method for anomaly detection in time-series data using vision-language models.
+7. **[Unlocking the Working Memory of Large Language Models for Latent Reasoning](http://arxiv.org/abs/2605.30343v1)** — Explores enhancing reasoning capabilities in large language models through improved memory utilization.
+8. **[GPIC: A Giant Permissive Image Corpus for Visual Generation](http://arxiv.org/abs/2605.30341v1)** — Introduces a massive dataset for visual generative modeling, facilitating research in this area.
+9. **[Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching](http://arxiv.org/abs/2605.30337v1)** — Examines a novel approach for adapting language models during test time for better performance.
+10. **[Fairness-Aware Federated Learning with Trajectory Shapley Value](http://arxiv.org/abs/2605.30336v1)** — Addresses fairness in federated learning by introducing a new method for client collaboration.
+
+#### Blog Posts
+1. **[Show HN: Open Envelope – an open schema for defining AI agent teams](https://openenvelope.org/docs/schema/)** by openenvelope.org
+2. **[Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM](https://arxiv.org/abs/2605.29135)** by arxiv.org
+3. **[Your AI Agent Should Text You First](https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b)** by Nimesh Kulkarni
+4. **[Hermes Agent Gets Smarter Every Day. So Does the Bill.](https://dev.to/chintanonweb/hermes-agent-gets-smarter-every-day-so-does-the-bill-4i8o)** by chintanonweb
+
+#### Trending Repos
+1. **[apache/airflow](https://github.com/apache/airflow)** — A platform to programmatically author, schedule, and monitor workflows. ⭐ 45617
+2. **[streamlit/streamlit](https://github.com/streamlit/streamlit)** — Streamlit — A faster way to build and share data apps. ⭐ 44774
+3. **[revfactory/harness](https://github.com/revfactory/harness)** — A meta-skill that designs domain-specific agent teams and generates the skills they use. ⭐ 4334
+4. **[OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)** — Open-source speech and sound generation model family designed for high-fidelity scenarios. ⭐ 2678
+5. **[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)** — A straightforward method for training your LLM, from downloading data to generating text. ⭐ 2377
+6. **[galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)** — A platform for reproducible world model research and evaluation. ⭐ 1489
+7. **[UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)** — A skill for coding agents, built on Claude & Codex Agent SDK. ⭐ 616
+8. **[withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)** — Self-improving context memory harness for vibecoders and real builders. ⭐ 616
+
+</details>
+
+<details>
 <summary><strong>2026-05-30</strong></summary>
 
 #### Papers

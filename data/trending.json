@@ -1,122 +1,135 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "papers": [
     {
-      "title": "Reflective Prompt Tuning through Language Model Function-Calling",
-      "url": "https://arxiv.org/abs/2605.21781",
-      "summary": "Large language models (LLMs) have become increasingly capable of following instructions and complex reasoning, making prompting a flexible interface for adapting models without parameter updates. Yet "
+      "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
+      "url": "http://arxiv.org/abs/2605.30353v1",
+      "summary": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 s"
     },
     {
-      "title": "Why Far Looks Up: Probing Spatial Representation in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2605.30161",
-      "summary": "Vision-language models (VLMs) achieve strong performance on spatial reasoning benchmarks, yet it remains unclear whether this reflects structured 3D understanding or reliance on statistical shortcuts "
-    },
-    {
-      "title": "CONF-KV: Confidence-Aware KV Cache Eviction with Mixed-Precision Storage for Long-Horizon LLM",
-      "url": "https://arxiv.org/abs/2605.24786",
-      "summary": "Long-horizon LLM inference turns the key--value (KV) cache into the dominant GPU memory consumer and makes per-token attention increasingly expensive. Many common eviction policies use static recency "
-    },
-    {
-      "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation",
-      "url": "https://arxiv.org/abs/2605.24785",
-      "summary": "Recent advances in multimodal web agents often rely on increased inference-time computation, including rollout search, verifier passes, offline skill discovery, and specialist model stacks. This raise"
-    },
-    {
-      "title": "Convex Low-resource Accent-Robust Language Detection in Speech Recognition",
-      "url": "https://arxiv.org/abs/2605.23235",
-      "summary": "Globalization and multiculturalism continue to produce increasingly diverse speech varieties. Yet current spoken dialogue systems frequently fail on under-represented dialects and accents, often misid"
+      "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
+      "url": "http://arxiv.org/abs/2605.30351v1",
+      "summary": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their po"
     },
     {
       "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
-      "url": "https://arxiv.org/abs/2605.30350",
+      "url": "http://arxiv.org/abs/2605.30350v1",
       "summary": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recog"
     },
     {
+      "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+      "url": "http://arxiv.org/abs/2605.30348v1",
+      "summary": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making"
+    },
+    {
+      "title": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
+      "url": "http://arxiv.org/abs/2605.30345v1",
+      "summary": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB s"
+    },
+    {
       "title": "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection",
-      "url": "https://arxiv.org/abs/2605.30344",
+      "url": "http://arxiv.org/abs/2605.30344v1",
       "summary": "Recent advances in Vision-Language Models (VLMs) have achieved impressive performance across many tasks, yet prior studies report unsatisfactory performance when applying large language or multimodal "
     },
     {
-      "title": "Reducing Political Manipulation with Consistency Training",
-      "url": "https://arxiv.org/abs/2605.22771",
-      "summary": "Large language models (LLMs) exhibit systematic political bias across a variety of sensitive contexts. We find that LLMs handle counterpart topics from opposing political sides asymmetrically. We refe"
+      "title": "Unlocking the Working Memory of Large Language Models for Latent Reasoning",
+      "url": "http://arxiv.org/abs/2605.30343v1",
+      "summary": "To improve the reasoning capabilities of large language models, test-time compute is typically scaled by generating intermediate tokens before the final answer. However, this couples reasoning to auto"
     },
     {
-      "title": "Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation",
-      "url": "https://arxiv.org/abs/2605.25220",
-      "summary": "High-fidelity 3D Gaussian head avatar generation is critical for applications such as AR/VR, telepresence, and digital humans. Existing methods depend on multi-view datasets, 3D captures, or intermedi"
+      "title": "GPIC: A Giant Permissive Image Corpus for Visual Generation",
+      "url": "http://arxiv.org/abs/2605.30341v1",
+      "summary": "Studying scalable methods for visual generative modeling requires large, accessible, and stable datasets. We introduce GPIC, a Giant Permissive Image Corpus of approximately 28 trillion pixels. GPIC c"
     },
     {
-      "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair",
-      "url": "https://arxiv.org/abs/2605.30052",
-      "summary": "One-shot Program-of-Thought (PoT) emits a Python program that prints a primitive-action plan; a single invalid action silently invalidates the trajectory. We introduce RePoT (Recoverable PoT): a deter"
+      "title": "Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
+      "url": "http://arxiv.org/abs/2605.30337v1",
+      "summary": "Test-time finetuning (TTFT) is a rapidly evolving paradigm that adapts a language model to each prompt by retrieving related sequences, updating the model on them, and then evaluating the prompt. Howe"
+    },
+    {
+      "title": "Fairness-Aware Federated Learning with Trajectory Shapley Value",
+      "url": "http://arxiv.org/abs/2605.30336v1",
+      "summary": "Federated learning is an emerging distributed paradigm that addresses the challenges posed by heterogeneous, privacy-sensitive data. It enables multiple clients to train a model collaboratively by agg"
     }
   ],
   "blog_posts": [
     {
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "author": "koenvangilst.nl"
+      "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
+      "url": "https://openenvelope.org/docs/schema/",
+      "author": "openenvelope.org"
     },
     {
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "author": "blog.kog.ai"
+      "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
+      "url": "https://arxiv.org/abs/2605.29135",
+      "author": "arxiv.org"
     },
     {
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "url": "https://github.com/jmaczan/tiny-vllm",
-      "author": "github.com"
+      "title": "Your AI Agent Should Text You First",
+      "url": "https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b",
+      "author": "Nimesh Kulkarni"
     },
     {
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "author": "theverge.com"
-    },
-    {
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "author": "techcrunch.com"
-    },
-    {
-      "title": "CAPTCHAs can still detect AI agents",
-      "url": "https://research.roundtable.ai/captchas-detect-ai/",
-      "author": "research.roundtable.ai"
-    },
-    {
-      "title": "How to Automate Mobile App Testing Without Writing a Single Line of Code",
-      "url": "https://dev.to/drizzdev/how-to-automate-mobile-app-testing-without-writing-a-single-line-of-code-5d17",
-      "author": "Jay Saadana"
+      "title": "Hermes Agent Gets Smarter Every Day. So Does the Bill.",
+      "url": "https://dev.to/chintanonweb/hermes-agent-gets-smarter-every-day-so-does-the-bill-4i8o",
+      "author": "chintanonweb"
     }
   ],
   "repos": [
     {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "stars": 27031,
+      "name": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "stars": 45617,
+      "language": "Python"
+    },
+    {
+      "name": "streamlit/streamlit",
+      "url": "https://github.com/streamlit/streamlit",
+      "description": "Streamlit — A faster way to build and share data apps.",
+      "stars": 44774,
+      "language": "Python"
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stars": 4334,
+      "language": "HTML"
+    },
+    {
+      "name": "OpenMOSS/MOSS-TTS",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS",
+      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, ",
+      "stars": 2678,
+      "language": "Python"
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "stars": 2377,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "galilai-group/stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "description": "A platform for reproducible world model research and evaluation",
+      "stars": 1489,
+      "language": "Python"
+    },
+    {
+      "name": "UditAkhourii/adhd",
+      "url": "https://github.com/UditAkhourii/adhd",
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep",
+      "stars": 616,
       "language": "TypeScript"
     },
     {
-      "name": "run-llama/liteparse",
-      "url": "https://github.com/run-llama/liteparse",
-      "description": "A fast, helpful, and open-source document parser",
-      "stars": 7440,
-      "language": "Rust"
-    },
-    {
-      "name": "apurvsinghgautam/robin",
-      "url": "https://github.com/apurvsinghgautam/robin",
-      "description": "AI-Powered Dark Web OSINT Tool",
-      "stars": 5288,
-      "language": "Python"
-    },
-    {
-      "name": "GH05TCREW/pentestagent",
-      "url": "https://github.com/GH05TCREW/pentestagent",
-      "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.",
-      "stars": 2499,
-      "language": "Python"
+      "name": "withkynam/vibecode-pro-max-kit",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships featu",
+      "stars": 616,
+      "language": "JavaScript"
     }
   ],
   "tweets": []
