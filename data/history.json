@@ -1,34 +1,4 @@
 {
-  "2026-05-01": {
-    "papers": [
-      "https://arxiv.org/abs/2604.27085",
-      "https://arxiv.org/abs/2604.27039",
-      "https://arxiv.org/abs/2604.27505",
-      "https://arxiv.org/abs/2604.27711",
-      "https://arxiv.org/abs/2604.27083",
-      "https://arxiv.org/abs/2604.27419",
-      "https://arxiv.org/abs/2604.28130",
-      "https://arxiv.org/abs/2604.24658",
-      "https://arxiv.org/abs/2604.28169",
-      "https://arxiv.org/abs/2604.27578"
-    ],
-    "blogs": [
-      "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-      "https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941",
-      "https://dev.to/wasp/they-said-ai-would-kill-saas-boilerplates-its-doing-the-opposite-cba",
-      "https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4",
-      "https://dev.to/jon_at_backboardio/of-course-erodes-trust-faster-than-bad-code-two-words-that-are-killing-your-career-2h59",
-      "https://medium.com/@prowesssoftware11/do-you-know-why-enterprise-integration-is-becoming-non-negotiable-for-scaling-businesses-5dda6ce762fb",
-      "https://medium.com/@amit.kemnie/how-ai-agents-can-build-a-24-7-lead-generation-machine-for-your-business-powerful-playbook-for-790f960baf5d",
-      "https://toinfinityandbyond.medium.com/ultraviolet-vision-for-brands-62942536e8ce"
-    ],
-    "repos": [
-      "https://github.com/browserbase/skills",
-      "https://github.com/deepseek-ai/awesome-deepseek-agent",
-      "https://github.com/sandeco/reversa"
-    ]
-  },
   "2026-05-02": {
     "papers": [
       "https://arxiv.org/abs/2604.24954",
@@ -928,6 +898,39 @@
       "https://github.com/galilai-group/stable-worldmodel",
       "https://github.com/UditAkhourii/adhd",
       "https://github.com/withkynam/vibecode-pro-max-kit"
+    ]
+  },
+  "2026-06-01": {
+    "papers": [
+      "https://arxiv.org/abs/2605.29447",
+      "https://arxiv.org/abs/2605.30557",
+      "https://arxiv.org/abs/2605.31433",
+      "https://arxiv.org/abs/2605.30888",
+      "https://arxiv.org/abs/2605.30846",
+      "https://arxiv.org/abs/2605.29488",
+      "https://arxiv.org/abs/2605.29411",
+      "https://arxiv.org/abs/2605.27919",
+      "https://arxiv.org/abs/2605.28618",
+      "https://arxiv.org/abs/2605.30940"
+    ],
+    "blogs": [
+      "https://blog.tymscar.com/posts/v100localllm/",
+      "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+      "https://dev.to/pablonax/ultracode-for-codex-claude-style-dynamic-workflows-with-a-skill-3knk",
+      "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
+      "https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18",
+      "https://medium.com/@rajveersandhu123.q/ai-tools-that-save-10-hours-a-week-for-marketers-a849be76b9a0",
+      "https://medium.com/@madhupriya.basu/the-ai-that-doubts-itself-so-you-dont-have-to-6d7f258e8ef5"
+    ],
+    "repos": [
+      "https://github.com/Comfy-Org/ComfyUI",
+      "https://github.com/supermemoryai/supermemory",
+      "https://github.com/nesquena/hermes-webui",
+      "https://github.com/jamwithai/production-agentic-rag-course",
+      "https://github.com/nicobailon/pi-subagents",
+      "https://github.com/ai-boost/awesome-harness-engineering",
+      "https://github.com/2aronS/Duel-Agents"
     ]
   }
 }

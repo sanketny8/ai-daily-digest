@@ -10,6 +10,42 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-01</strong></summary>
+
+#### Papers
+1. **[Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents](https://arxiv.org/abs/2605.29447)** — This paper addresses the robustness of GUI agents in recovering from errors, crucial for real-world applications.
+2. **[Seeing Isn't Knowing: Do VLMs Know When Not to Answer Spatial Questions (and Why)?](https://arxiv.org/abs/2605.30557)** — Investigates the spatial reasoning capabilities of vision-language models and their limitations in real-world scenarios.
+3. **[SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks](https://arxiv.org/abs/2605.31433)** — Proposes a self-play method for training language models on open-ended tasks without external supervision.
+4. **[The Flip Side of RLHF: On-Policy Feedback for Reward Model Self-Supervised Improvement](https://arxiv.org/abs/2605.30888)** — Discusses improving reward models for language model alignment through on-policy feedback, addressing data acquisition challenges.
+5. **[Count Anything](https://arxiv.org/abs/2605.30846)** — Explores the fragmentation in object counting across datasets and proposes a unified approach for counting models.
+6. **[AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling](https://arxiv.org/abs/2605.29488)** — Addresses challenges in conditional human motion generation, proposing a method that scales across modalities.
+7. **[Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios](https://arxiv.org/abs/2605.28618)** — Evaluates long-form speech generation models, highlighting the need for systematic assessment in diverse contexts.
+8. **[Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](https://arxiv.org/abs/2605.30940)** — Focuses on real-time spatial audio generation, aiming to enhance immersive experiences in audio synthesis.
+9. **[Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions](http://arxiv.org/abs/2605.31586v1)** — Examines how language models grasp complex semantic constructions, revealing insights into their linguistic capabilities.
+10. **[LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](http://arxiv.org/abs/2605.31584v1)** — Addresses long-context reasoning challenges in language models using reinforcement learning techniques.
+
+#### Blog Posts
+1. **[I put a datacenter GPU in my gaming PC](https://blog.tymscar.com/posts/v100localllm/)** by blog.tymscar.com
+2. **[ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)** by promptarmor.com
+3. **[It's Not Just X. It's Y](https://mail.cyberneticforests.com/its-not-just-data-its-post-training/)** by mail.cyberneticforests.com
+4. **[Ultracode for Codex: Claude-style Dynamic Workflows with a Skill](https://dev.to/pablonax/ultracode-for-codex-claude-style-dynamic-workflows-with-a-skill-3knk)** by Pavel Kalo
+5. **[Unlawful by design: Exposing the human rights costs of generative AI](https://www.amnesty.org/en/documents/pol40/0996/2026/en/)** by amnesty.org
+6. **[I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB](https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18)** by S M Tahosin
+7. **[AI Tools That Save 10 Hours a Week for Marketers](https://medium.com/@rajveersandhu123.q/ai-tools-that-save-10-hours-a-week-for-marketers-a849be76b9a0)** by Rajveer Sandhu
+8. **[The AI that doubts itself so you don’t have to.](https://medium.com/@madhupriya.basu/the-ai-that-doubts-itself-so-you-dont-have-to-6d7f258e8ef5)** by Madhupriya Basu
+
+#### Trending Repos
+1. **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. ⭐ 115205
+2. **[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)** — Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. ⭐ 23513
+3. **[nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)** — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! ⭐ 10226
+4. **[jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)** — ⭐ 6169
+5. **[nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)** — Pi extension for async subagent delegation with truncation, artifacts, and session sharing. ⭐ 1923
+6. **[ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering)** — Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. ⭐ 1475
+7. **[2aronS/Duel-Agents](https://github.com/2aronS/Duel-Agents)** — CLI, SDK, and IDE plugins for Duel Agents. ⭐ 584
+
+</details>
+
+<details>
 <summary><strong>2026-05-31</strong></summary>
 
 #### Papers

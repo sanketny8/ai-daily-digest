@@ -1,135 +1,148 @@
 {
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "papers": [
     {
-      "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
-      "url": "http://arxiv.org/abs/2605.30353v1",
-      "summary": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 s"
+      "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents",
+      "url": "https://arxiv.org/abs/2605.29447",
+      "summary": "While GUI agents have advanced rapidly, they often lack the robustness to recover from their own errors, hindering real-world deployment. To bridge this gap at both the evaluation and data levels, we "
     },
     {
-      "title": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
-      "url": "http://arxiv.org/abs/2605.30351v1",
-      "summary": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their po"
+      "title": "Seeing Isn't Knowing: Do VLMs Know When Not to Answer Spatial Questions (and Why)?",
+      "url": "https://arxiv.org/abs/2605.30557",
+      "summary": "Spatial reasoning is a fundamental capability for vision-language models (VLMs) deployed in real-world environments. However, visual observations are inherently limited representations of a 3D world: "
     },
     {
-      "title": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
-      "url": "http://arxiv.org/abs/2605.30350v1",
-      "summary": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recog"
+      "title": "SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks",
+      "url": "https://arxiv.org/abs/2605.31433",
+      "summary": "Self-play can train language models without external supervision. However, existing methods require rule-checkable answers, leaving open-ended tasks dependent on curated prompts or frontier-model judg"
     },
     {
-      "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
-      "url": "http://arxiv.org/abs/2605.30348v1",
-      "summary": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making"
+      "title": "The Flip Side of RLHF: On-Policy Feedback for Reward Model Self-Supervised Improvement",
+      "url": "https://arxiv.org/abs/2605.30888",
+      "summary": "Building strong reward models (RMs) for language model alignment is bottlenecked by the cost and difficulty of acquiring diverse and reliable preference data from human annotation or judge models. It "
     },
     {
-      "title": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
-      "url": "http://arxiv.org/abs/2605.30345v1",
-      "summary": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB s"
+      "title": "Count Anything",
+      "url": "https://arxiv.org/abs/2605.30846",
+      "summary": "Object counting remains fragmented across domain-specific datasets and task formulations, despite rapid progress in generalist vision models. Existing counting models are often tailored to scenarios s"
     },
     {
-      "title": "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection",
-      "url": "http://arxiv.org/abs/2605.30344v1",
-      "summary": "Recent advances in Vision-Language Models (VLMs) have achieved impressive performance across many tasks, yet prior studies report unsatisfactory performance when applying large language or multimodal "
+      "title": "AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling",
+      "url": "https://arxiv.org/abs/2605.29488",
+      "summary": "Conditional human motion generation remains a fundamental challenge in computer vision and robotics. Despite significant progress, current methods are often constrained by fixed modality configuration"
     },
     {
-      "title": "Unlocking the Working Memory of Large Language Models for Latent Reasoning",
-      "url": "http://arxiv.org/abs/2605.30343v1",
-      "summary": "To improve the reasoning capabilities of large language models, test-time compute is typically scaled by generating intermediate tokens before the final answer. However, this couples reasoning to auto"
+      "title": "The Good, the Bad, and the Ugly of Markov Boundary for Tabular Prediction",
+      "url": "https://arxiv.org/abs/2605.29411",
+      "summary": "Under standard graphical assumptions, the Markov boundary of a target variable is the smallest set of features that renders every other feature redundant. Once the boundary is observed, the target is "
     },
     {
-      "title": "GPIC: A Giant Permissive Image Corpus for Visual Generation",
-      "url": "http://arxiv.org/abs/2605.30341v1",
-      "summary": "Studying scalable methods for visual generative modeling requires large, accessible, and stable datasets. We introduce GPIC, a Giant Permissive Image Corpus of approximately 28 trillion pixels. GPIC c"
+      "title": "Frequency-Guided Action Diffusion via Sub-Frequency Manifold Traversal",
+      "url": "https://arxiv.org/abs/2605.27919",
+      "summary": "Learning visuomotor policies via behavior cloning typically involves mimicking expert demonstrations collected by human operators. However, natural human demonstrations inherently contain high-frequen"
     },
     {
-      "title": "Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
-      "url": "http://arxiv.org/abs/2605.30337v1",
-      "summary": "Test-time finetuning (TTFT) is a rapidly evolving paradigm that adapts a language model to each prompt by retrieving related sequences, updating the model on them, and then evaluating the prompt. Howe"
+      "title": "Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios",
+      "url": "https://arxiv.org/abs/2605.28618",
+      "summary": "Recent advances in speech generation have enabled high-fidelity synthesis, yet systematic evaluation of models under long-context conditions remains largely underexplored. A comprehensive evaluation b"
     },
     {
-      "title": "Fairness-Aware Federated Learning with Trajectory Shapley Value",
-      "url": "http://arxiv.org/abs/2605.30336v1",
-      "summary": "Federated learning is an emerging distributed paradigm that addresses the challenges posed by heterogeneous, privacy-sensitive data. It enables multiple clients to train a model collaboratively by agg"
+      "title": "Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer",
+      "url": "https://arxiv.org/abs/2605.30940",
+      "summary": "Real-time and accurate spatial audio generation is pivotal for delivering an immersive experience. However, existing spatial audio synthesis technologies are often encumbered by a tradeoff between gen"
     }
   ],
   "blog_posts": [
     {
-      "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
-      "url": "https://openenvelope.org/docs/schema/",
-      "author": "openenvelope.org"
+      "title": "I put a datacenter GPU in my gaming PC",
+      "url": "https://blog.tymscar.com/posts/v100localllm/",
+      "author": "blog.tymscar.com"
     },
     {
-      "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-      "url": "https://arxiv.org/abs/2605.29135",
-      "author": "arxiv.org"
+      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "author": "promptarmor.com"
     },
     {
-      "title": "Your AI Agent Should Text You First",
-      "url": "https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b",
-      "author": "Nimesh Kulkarni"
+      "title": "It's Not Just X. It's Y",
+      "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+      "author": "mail.cyberneticforests.com"
     },
     {
-      "title": "Hermes Agent Gets Smarter Every Day. So Does the Bill.",
-      "url": "https://dev.to/chintanonweb/hermes-agent-gets-smarter-every-day-so-does-the-bill-4i8o",
-      "author": "chintanonweb"
+      "title": "Ultracode for Codex: Claude-style Dynamic Workflows with a Skill",
+      "url": "https://dev.to/pablonax/ultracode-for-codex-claude-style-dynamic-workflows-with-a-skill-3knk",
+      "author": "Pavel Kalo"
+    },
+    {
+      "title": "Unlawful by design: Exposing the human rights costs of generative AI",
+      "url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
+      "author": "amnesty.org"
+    },
+    {
+      "title": "I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB",
+      "url": "https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18",
+      "author": "S M Tahosin"
+    },
+    {
+      "title": "AI Tools That Save 10 Hours a Week for Marketers",
+      "url": "https://medium.com/@rajveersandhu123.q/ai-tools-that-save-10-hours-a-week-for-marketers-a849be76b9a0",
+      "author": "Rajveer Sandhu"
+    },
+    {
+      "title": "The AI that doubts itself so you don’t have to.",
+      "url": "https://medium.com/@madhupriya.basu/the-ai-that-doubts-itself-so-you-dont-have-to-6d7f258e8ef5",
+      "author": "Madhupriya Basu"
     }
   ],
   "repos": [
     {
-      "name": "apache/airflow",
-      "url": "https://github.com/apache/airflow",
-      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-      "stars": 45617,
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars": 115205,
       "language": "Python"
     },
     {
-      "name": "streamlit/streamlit",
-      "url": "https://github.com/streamlit/streamlit",
-      "description": "Streamlit — A faster way to build and share data apps.",
-      "stars": 44774,
-      "language": "Python"
-    },
-    {
-      "name": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": 4334,
-      "language": "HTML"
-    },
-    {
-      "name": "OpenMOSS/MOSS-TTS",
-      "url": "https://github.com/OpenMOSS/MOSS-TTS",
-      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, ",
-      "stars": 2678,
-      "language": "Python"
-    },
-    {
-      "name": "FareedKhan-dev/train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "stars": 2377,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "name": "galilai-group/stable-worldmodel",
-      "url": "https://github.com/galilai-group/stable-worldmodel",
-      "description": "A platform for reproducible world model research and evaluation",
-      "stars": 1489,
-      "language": "Python"
-    },
-    {
-      "name": "UditAkhourii/adhd",
-      "url": "https://github.com/UditAkhourii/adhd",
-      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep",
-      "stars": 616,
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "stars": 23513,
       "language": "TypeScript"
     },
     {
-      "name": "withkynam/vibecode-pro-max-kit",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships featu",
-      "stars": 616,
-      "language": "JavaScript"
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "stars": 10226,
+      "language": "Python"
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "",
+      "stars": 6169,
+      "language": "Python"
+    },
+    {
+      "name": "nicobailon/pi-subagents",
+      "url": "https://github.com/nicobailon/pi-subagents",
+      "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
+      "stars": 1923,
+      "language": "TypeScript"
+    },
+    {
+      "name": "ai-boost/awesome-harness-engineering",
+      "url": "https://github.com/ai-boost/awesome-harness-engineering",
+      "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+      "stars": 1475,
+      "language": "Python"
+    },
+    {
+      "name": "2aronS/Duel-Agents",
+      "url": "https://github.com/2aronS/Duel-Agents",
+      "description": "CLI, SDK, and IDE plugins for Duel Agents",
+      "stars": 584,
+      "language": "TypeScript"
     }
   ],
   "tweets": []
