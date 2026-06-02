@@ -1,148 +1,134 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "papers": [
     {
-      "title": "Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents",
-      "url": "https://arxiv.org/abs/2605.29447",
-      "summary": "While GUI agents have advanced rapidly, they often lack the robustness to recover from their own errors, hindering real-world deployment. To bridge this gap at both the evaluation and data levels, we "
+      "title": "MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation",
+      "url": "https://arxiv.org/abs/2606.02470",
+      "summary": "The Model Context Protocol (MCP) has emerged as a transformative standard for connecting large language models (LLMs) with external data sources and tools, and has been rapidly adopted across personal"
     },
     {
-      "title": "Seeing Isn't Knowing: Do VLMs Know When Not to Answer Spatial Questions (and Why)?",
-      "url": "https://arxiv.org/abs/2605.30557",
-      "summary": "Spatial reasoning is a fundamental capability for vision-language models (VLMs) deployed in real-world environments. However, visual observations are inherently limited representations of a 3D world: "
+      "title": "OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents",
+      "url": "https://arxiv.org/abs/2606.02031",
+      "summary": "Building capable visual web agents requires long-horizon reasoning, precise grounding, and robust interaction with dynamic real-world websites. Despite rapid progress, the strongest systems remain lar"
     },
     {
-      "title": "SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks",
-      "url": "https://arxiv.org/abs/2605.31433",
-      "summary": "Self-play can train language models without external supervision. However, existing methods require rule-checkable answers, leaving open-ended tasks dependent on curated prompts or frontier-model judg"
+      "title": "Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2606.01682",
+      "summary": "Selecting the best response from multiple small-model samples using a stronger scorer is a simple inference-time strategy, but fails when the small model has already committed to incorrect reasoning p"
     },
     {
-      "title": "The Flip Side of RLHF: On-Policy Feedback for Reward Model Self-Supervised Improvement",
-      "url": "https://arxiv.org/abs/2605.30888",
-      "summary": "Building strong reward models (RMs) for language model alignment is bottlenecked by the cost and difficulty of acquiring diverse and reliable preference data from human annotation or judge models. It "
+      "title": "Joint Agent Memory and Exploration Learning via Novelty Signals",
+      "url": "https://arxiv.org/abs/2606.01528",
+      "summary": "In open-ended environments, exploration is fundamental for autonomous agents, yet current language model agents struggle with this. Effective exploration requires memory, but retaining raw interaction"
     },
     {
-      "title": "Count Anything",
-      "url": "https://arxiv.org/abs/2605.30846",
-      "summary": "Object counting remains fragmented across domain-specific datasets and task formulations, despite rapid progress in generalist vision models. Existing counting models are often tailored to scenarios s"
+      "title": "Multi-Agent Computer Use",
+      "url": "https://arxiv.org/abs/2606.01533",
+      "summary": "Computer use agents (CUAs) today are primarily deployed as single serial agents. This setup is suboptimal for complex long-horizon tasks that benefit from task decomposition, parallel execution, and c"
     },
     {
-      "title": "AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling",
-      "url": "https://arxiv.org/abs/2605.29488",
-      "summary": "Conditional human motion generation remains a fundamental challenge in computer vision and robotics. Despite significant progress, current methods are often constrained by fixed modality configuration"
+      "title": "3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code",
+      "url": "https://arxiv.org/abs/2606.01057",
+      "summary": "Procedural 3D modeling through code is emerging as a versatile paradigm, offering deterministic, engine-ready, and precisely editable assets that neural 3D generators inherently lack. Authoring such p"
     },
     {
-      "title": "The Good, the Bad, and the Ugly of Markov Boundary for Tabular Prediction",
-      "url": "https://arxiv.org/abs/2605.29411",
-      "summary": "Under standard graphical assumptions, the Markov boundary of a target variable is the smallest set of features that renders every other feature redundant. Once the boundary is observed, the target is "
+      "title": "Not only where, But when: Temporal Scheduling for RLVR",
+      "url": "https://arxiv.org/abs/2605.25381",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has become a core technique for post-training of Large Language Models (LLMs). While policy optimization is driven by all sampled tokens under a g"
     },
     {
-      "title": "Frequency-Guided Action Diffusion via Sub-Frequency Manifold Traversal",
-      "url": "https://arxiv.org/abs/2605.27919",
-      "summary": "Learning visuomotor policies via behavior cloning typically involves mimicking expert demonstrations collected by human operators. However, natural human demonstrations inherently contain high-frequen"
+      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+      "url": "https://arxiv.org/abs/2606.02580",
+      "summary": "Inverse graphics is a longstanding and highly underconstrained problem that seeks to reconstruct images as editable 3D scenes which can be rendered, relit, and manipulated. In this work, we investigat"
     },
     {
-      "title": "Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios",
-      "url": "https://arxiv.org/abs/2605.28618",
-      "summary": "Recent advances in speech generation have enabled high-fidelity synthesis, yet systematic evaluation of models under long-context conditions remains largely underexplored. A comprehensive evaluation b"
+      "title": "StressDream: Steering Video World Models for Robust Policy Evaluation and Improvement",
+      "url": "https://arxiv.org/abs/2606.00267",
+      "summary": "Video world models (WMs) have shown promise for policy evaluation and improvement by imagining realistic future observations conditioned on ego-robot actions. While WMs can model distributions over fu"
     },
     {
-      "title": "Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer",
-      "url": "https://arxiv.org/abs/2605.30940",
-      "summary": "Real-time and accurate spatial audio generation is pivotal for delivering an immersive experience. However, existing spatial audio synthesis technologies are often encumbered by a tradeoff between gen"
+      "title": "When Does Multi-Agent RL Improve LLM Workflows? Workflow, Scale, and Policy-Sharing Tradeoffs",
+      "url": "https://arxiv.org/abs/2605.24202",
+      "summary": "Multi-agent LLM workflows route inference through specialized roles to lift end-task accuracy, but jointly training those roles with reinforcement learning is unstable in ways that are poorly understo"
     }
   ],
   "blog_posts": [
     {
-      "title": "I put a datacenter GPU in my gaming PC",
-      "url": "https://blog.tymscar.com/posts/v100localllm/",
-      "author": "blog.tymscar.com"
+      "title": "CS336: Language Modeling from Scratch",
+      "url": "https://cs336.stanford.edu/",
+      "author": "cs336.stanford.edu"
     },
     {
-      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "author": "promptarmor.com"
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "author": "github.com"
     },
     {
-      "title": "It's Not Just X. It's Y",
-      "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
-      "author": "mail.cyberneticforests.com"
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "author": "economist.com"
     },
     {
-      "title": "Ultracode for Codex: Claude-style Dynamic Workflows with a Skill",
-      "url": "https://dev.to/pablonax/ultracode-for-codex-claude-style-dynamic-workflows-with-a-skill-3knk",
-      "author": "Pavel Kalo"
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "author": "openai.com"
     },
     {
-      "title": "Unlawful by design: Exposing the human rights costs of generative AI",
-      "url": "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
-      "author": "amnesty.org"
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "author": "politico.com"
     },
     {
-      "title": "I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB",
-      "url": "https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18",
-      "author": "S M Tahosin"
+      "title": "From vibe coding to clear thinking: what non-technical builders need in the age of AI",
+      "url": "https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd",
+      "author": "Julien Avezou"
     },
     {
-      "title": "AI Tools That Save 10 Hours a Week for Marketers",
-      "url": "https://medium.com/@rajveersandhu123.q/ai-tools-that-save-10-hours-a-week-for-marketers-a849be76b9a0",
-      "author": "Rajveer Sandhu"
+      "title": "Build a Basic AI Agent from Scratch: Tools",
+      "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
+      "author": "ruxu.dev"
     },
     {
-      "title": "The AI that doubts itself so you don’t have to.",
-      "url": "https://medium.com/@madhupriya.basu/the-ai-that-doubts-itself-so-you-dont-have-to-6d7f258e8ef5",
-      "author": "Madhupriya Basu"
+      "title": "AI as Infrastructure: Architecting Human Leverage for the Sovereign Enterprise",
+      "url": "https://nabalkishorepande.medium.com/ai-as-infrastructure-architecting-human-leverage-for-the-sovereign-enterprise-5e69bf78fcb5",
+      "author": "Nabal Kishore Pande | FRYX Research"
     }
   ],
   "repos": [
     {
-      "name": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 115205,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 81946,
       "language": "Python"
     },
     {
-      "name": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "stars": 23513,
-      "language": "TypeScript"
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 32988,
+      "language": "JavaScript"
     },
     {
-      "name": "nesquena/hermes-webui",
-      "url": "https://github.com/nesquena/hermes-webui",
-      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "stars": 10226,
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "stars": 17993,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "dmtrKovalenko/fff",
+      "url": "https://github.com/dmtrKovalenko/fff",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "stars": 7268,
+      "language": "Rust"
+    },
+    {
+      "name": "elder-plinius/OBLITERATUS",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "stars": 5948,
       "language": "Python"
-    },
-    {
-      "name": "jamwithai/production-agentic-rag-course",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
-      "description": "",
-      "stars": 6169,
-      "language": "Python"
-    },
-    {
-      "name": "nicobailon/pi-subagents",
-      "url": "https://github.com/nicobailon/pi-subagents",
-      "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
-      "stars": 1923,
-      "language": "TypeScript"
-    },
-    {
-      "name": "ai-boost/awesome-harness-engineering",
-      "url": "https://github.com/ai-boost/awesome-harness-engineering",
-      "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
-      "stars": 1475,
-      "language": "Python"
-    },
-    {
-      "name": "2aronS/Duel-Agents",
-      "url": "https://github.com/2aronS/Duel-Agents",
-      "description": "CLI, SDK, and IDE plugins for Duel Agents",
-      "stars": 584,
-      "language": "TypeScript"
     }
   ],
   "tweets": []

@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-02</strong></summary>
+
+#### Papers
+1. **[MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation](https://arxiv.org/abs/2606.02470)** — Introduces a standard for connecting LLMs with external data, enhancing personal applications.
+2. **[OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents](https://arxiv.org/abs/2606.02031)** — Explores the challenges of creating effective visual web agents through reinforcement learning.
+3. **[Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning](https://arxiv.org/abs/2606.01682)** — Proposes a method for improving mathematical reasoning using existing LLMs without additional training.
+4. **[Joint Agent Memory and Exploration Learning via Novelty Signals](https://arxiv.org/abs/2606.01528)** — Discusses enhancing exploration in agents by integrating memory and novelty signals.
+5. **[Multi-Agent Computer Use](https://arxiv.org/abs/2606.01533)** — Investigates the benefits of deploying multiple agents for complex tasks instead of single agents.
+6. **[3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code](https://arxiv.org/abs/2606.01057)** — Highlights procedural 3D modeling through code as a versatile and efficient approach.
+7. **[Not only where, But when: Temporal Scheduling for RLVR](https://arxiv.org/abs/2605.25381)** — Examines the role of temporal scheduling in reinforcement learning with verifiable rewards.
+8. **[Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models](https://arxiv.org/abs/2606.02580)** — Investigates reconstructing images into editable 3D scenes using advanced vision-language models.
+9. **[StressDream: Steering Video World Models for Robust Policy Evaluation and Improvement](https://arxiv.org/abs/2606.00267)** — Proposes a method for improving policy evaluation using video world models.
+10. **[When Does Multi-Agent RL Improve LLM Workflows? Workflow, Scale, and Policy-Sharing Tradeoffs](https://arxiv.org/abs/2605.24202)** — Analyzes the impact of multi-agent reinforcement learning on LLM workflows.
+
+#### Blog Posts
+1. **[CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)** by cs336.stanford.edu
+2. **[AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)** by github.com
+3. **[Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)** by economist.com
+4. **[OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)** by openai.com
+5. **[Florida sues OpenAI and Sam Altman over AI risks](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)** by politico.com
+6. **[From vibe coding to clear thinking: what non-technical builders need in the age of AI](https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd)** by Julien Avezou
+7. **[Build a Basic AI Agent from Scratch: Tools](https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/)** by ruxu.dev
+8. **[AI as Infrastructure: Architecting Human Leverage for the Sovereign Enterprise](https://nabalkishorepande.medium.com/ai-as-infrastructure-architecting-human-leverage-for-the-sovereign-enterprise-5e69bf78fcb5)** by Nabal Kishore Pande | FRYX Research
+
+#### Trending Repos
+1. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — Multi-Agents LLM Financial Trading Framework. ⭐ 81946
+2. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design. ⭐ 32988
+3. **[stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)** — Code for Machine Learning for Algorithmic Trading, 2nd edition. ⭐ 17993
+4. **[dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)** — The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS. ⭐ 7268
+5. **[elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)** — OBLITERATE THE CHAINS THAT BIND YOU. ⭐ 5948
+
+</details>
+
+<details>
 <summary><strong>2026-06-01</strong></summary>
 
 #### Papers

@@ -1,34 +1,4 @@
 {
-  "2026-05-02": {
-    "papers": [
-      "https://arxiv.org/abs/2604.24954",
-      "https://arxiv.org/abs/2604.27151",
-      "https://arxiv.org/abs/2604.24953",
-      "https://arxiv.org/abs/2604.24952",
-      "https://arxiv.org/abs/2604.28157",
-      "https://arxiv.org/abs/2604.24902",
-      "https://arxiv.org/abs/2604.27766",
-      "https://arxiv.org/abs/2604.27251",
-      "https://arxiv.org/abs/2604.28139",
-      "http://arxiv.org/abs/2604.28186v1"
-    ],
-    "blogs": [
-      "https://docs.x.ai/developers/models/grok-4.3",
-      "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
-      "https://github.com/leox255/loopsy",
-      "https://www.kmjn.org/notes/microgpt_futhark.html",
-      "https://ultimeztechnologyhubli.medium.com/i-tested-claude-ai-for-deep-work-heres-the-honest-outcome-e7f553613135",
-      "https://medium.com/@cucukespe/how-to-make-money-working-online-in-2026-beginner-to-advanced-guide-1151c404a271",
-      "https://medium.com/@sujalsalunle401/%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AE-%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%A8%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%95-%E0%A4%B9%E0%A5%8B%E0%A4%8A-%E0%A4%B6%E0%A4%95%E0%A4%A4%E0%A5%87-%E0%A4%95%E0%A4%BE-28d3e341efc1",
-      "https://medium.com/@faraz.ishaq/your-biggest-cyber-risk-isnt-attackers-it-s-your-architecture-d629502cd027",
-      "https://medium.com/@davidsehyeonbaek/nsa-anthropics-mythos-and-microsoft-code-7d9877bf8e39"
-    ],
-    "repos": [
-      "https://github.com/simstudioai/sim",
-      "https://github.com/Lightricks/LTX-2",
-      "https://github.com/the-momentum/open-wearables"
-    ]
-  },
   "2026-05-03": {
     "papers": [
       "http://arxiv.org/abs/2604.28182v1",
@@ -931,6 +901,37 @@
       "https://github.com/nicobailon/pi-subagents",
       "https://github.com/ai-boost/awesome-harness-engineering",
       "https://github.com/2aronS/Duel-Agents"
+    ]
+  },
+  "2026-06-02": {
+    "papers": [
+      "https://arxiv.org/abs/2606.02470",
+      "https://arxiv.org/abs/2606.02031",
+      "https://arxiv.org/abs/2606.01682",
+      "https://arxiv.org/abs/2606.01528",
+      "https://arxiv.org/abs/2606.01533",
+      "https://arxiv.org/abs/2606.01057",
+      "https://arxiv.org/abs/2605.25381",
+      "https://arxiv.org/abs/2606.02580",
+      "https://arxiv.org/abs/2606.00267",
+      "https://arxiv.org/abs/2605.24202"
+    ],
+    "blogs": [
+      "https://cs336.stanford.edu/",
+      "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd",
+      "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
+      "https://nabalkishorepande.medium.com/ai-as-infrastructure-architecting-human-leverage-for-the-sovereign-enterprise-5e69bf78fcb5"
+    ],
+    "repos": [
+      "https://github.com/TauricResearch/TradingAgents",
+      "https://github.com/pbakaus/impeccable",
+      "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "https://github.com/dmtrKovalenko/fff",
+      "https://github.com/elder-plinius/OBLITERATUS"
     ]
   }
 }
