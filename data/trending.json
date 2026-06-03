@@ -1,133 +1,121 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "papers": [
     {
-      "title": "MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation",
-      "url": "https://arxiv.org/abs/2606.02470",
-      "summary": "The Model Context Protocol (MCP) has emerged as a transformative standard for connecting large language models (LLMs) with external data sources and tools, and has been rapidly adopted across personal"
+      "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
+      "url": "https://arxiv.org/abs/2606.03264",
+      "summary": "We introduce PaddleOCR-VL-1.6, an upgraded compact document parsing model built upon PaddleOCR-VL-1.5. Although PaddleOCR-VL-1.5 establishes a strong 0.9B baseline, its remaining errors concentrate in"
     },
     {
-      "title": "OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents",
-      "url": "https://arxiv.org/abs/2606.02031",
-      "summary": "Building capable visual web agents requires long-horizon reasoning, precise grounding, and robust interaction with dynamic real-world websites. Despite rapid progress, the strongest systems remain lar"
+      "title": "Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation",
+      "url": "https://arxiv.org/abs/2606.01048",
+      "summary": "We propose Decoupled Residual Denoising Diffusion models (DRDD) for unified and data-efficient image-to-image (I2I) translation. While diffusion models have advanced I2I translation in terms of qualit"
     },
     {
-      "title": "Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning",
-      "url": "https://arxiv.org/abs/2606.01682",
-      "summary": "Selecting the best response from multiple small-model samples using a stronger scorer is a simple inference-time strategy, but fails when the small model has already committed to incorrect reasoning p"
+      "title": "Small RL Controller, Large Language Model: RL-Guided Adaptive Sampling for Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2606.03102",
+      "summary": "Test-time scaling improves the reasoning performance of large language models but incurs substantial cost in both total computation and latency. Existing adaptive sampling methods partially mitigate t"
     },
     {
-      "title": "Joint Agent Memory and Exploration Learning via Novelty Signals",
-      "url": "https://arxiv.org/abs/2606.01528",
-      "summary": "In open-ended environments, exploration is fundamental for autonomous agents, yet current language model agents struggle with this. Effective exploration requires memory, but retaining raw interaction"
+      "title": "TRON: Targeted Rule-Verifiable Online Environments for Visual Reasoning RL",
+      "url": "https://arxiv.org/abs/2606.01599",
+      "summary": "Reinforcement learning (RL) for visual reasoning needs scalable, verifiable, and controllable training signals. Existing visual RL post-training trains on static curated datasets, with fixed image-que"
     },
     {
-      "title": "Multi-Agent Computer Use",
-      "url": "https://arxiv.org/abs/2606.01533",
-      "summary": "Computer use agents (CUAs) today are primarily deployed as single serial agents. This setup is suboptimal for complex long-horizon tasks that benefit from task decomposition, parallel execution, and c"
+      "title": "AutoMedBench: Towards Medical AutoResearch with Agentic AI Models",
+      "url": "https://arxiv.org/abs/2606.01961",
+      "summary": "Autonomous agents are increasingly expected to support end-to-end medical-AI research workflows, moving beyond isolated prediction tasks or short-form clinical question answering. However, existing me"
     },
     {
-      "title": "3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code",
-      "url": "https://arxiv.org/abs/2606.01057",
-      "summary": "Procedural 3D modeling through code is emerging as a versatile paradigm, offering deterministic, engine-ready, and precisely editable assets that neural 3D generators inherently lack. Authoring such p"
+      "title": "ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree",
+      "url": "https://arxiv.org/abs/2606.01494",
+      "summary": "Agent skills extend AI agents with reusable instructions, tools, scripts, references, and workflows, establishing a security boundary distinct from both model safety and traditional package-malware de"
     },
     {
-      "title": "Not only where, But when: Temporal Scheduling for RLVR",
-      "url": "https://arxiv.org/abs/2605.25381",
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) has become a core technique for post-training of Large Language Models (LLMs). While policy optimization is driven by all sampled tokens under a g"
+      "title": "Diagnosing Harmful Continuation in Answer-Correct Long-CoT Training Traces",
+      "url": "https://arxiv.org/abs/2605.29288",
+      "summary": "Long chain-of-thought (CoT) traces are widely used as supervision for reasoning-oriented LLM SFT, yet answer-correct traces can still lead to markedly different fine-tuning outcomes. We study post-con"
     },
     {
-      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
-      "url": "https://arxiv.org/abs/2606.02580",
-      "summary": "Inverse graphics is a longstanding and highly underconstrained problem that seeks to reconstruct images as editable 3D scenes which can be rendered, relit, and manipulated. In this work, we investigat"
+      "title": "A Local Perturbation Theory for Cross-Domain Interference and Recovery in Multi-Domain RL",
+      "url": "https://arxiv.org/abs/2606.02398",
+      "summary": "Reinforcement learning (RL) post-training improves large language models (LLMs) on individual domains such as mathematical reasoning, code generation, question answering, and creative writing (CW), bu"
     },
     {
-      "title": "StressDream: Steering Video World Models for Robust Policy Evaluation and Improvement",
-      "url": "https://arxiv.org/abs/2606.00267",
-      "summary": "Video world models (WMs) have shown promise for policy evaluation and improvement by imagining realistic future observations conditioned on ego-robot actions. While WMs can model distributions over fu"
+      "title": "World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning",
+      "url": "https://arxiv.org/abs/2606.03603",
+      "summary": "World models and multimodal large language models (MLLMs) provide complementary capabilities for predicting future outcomes from static visual observations. World models can generate concrete visual r"
     },
     {
-      "title": "When Does Multi-Agent RL Improve LLM Workflows? Workflow, Scale, and Policy-Sharing Tradeoffs",
-      "url": "https://arxiv.org/abs/2605.24202",
-      "summary": "Multi-agent LLM workflows route inference through specialized roles to lift end-task accuracy, but jointly training those roles with reinforcement learning is unstable in ways that are poorly understo"
+      "title": "Pressure-Testing Deception Probes in LLMs: Scaling, Robustness, and the Geometry of Deceptive Representations",
+      "url": "https://arxiv.org/abs/2605.27958",
+      "summary": "Linear probes trained on LLM activations are increasingly proposed as deception-detection metrics, yet report AUROC exceeding 0.96 on clean benchmarks while collapsing under distributional shift. This"
     }
   ],
   "blog_posts": [
     {
-      "title": "CS336: Language Modeling from Scratch",
-      "url": "https://cs336.stanford.edu/",
-      "author": "cs336.stanford.edu"
+      "title": "Agentic Mfw",
+      "url": "https://agenticmotherfucking.website",
+      "author": "agenticmotherfucking.website"
     },
     {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "author": "github.com"
+      "title": "How we index images for RAG",
+      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "author": "kapa.ai"
     },
     {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "author": "economist.com"
+      "title": "Now AI agents need what RSS does",
+      "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
+      "author": "julienreszka.com"
     },
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "author": "openai.com"
+      "title": "strace-ui, Bonsai_term, and the TUI renaissance",
+      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+      "author": "typesanitizer"
     },
     {
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "author": "politico.com"
+      "title": "AI Native DevCon Day 1: Making AI Agents Ready for Enterprise",
+      "url": "https://dev.to/tessl/ai-native-devcon-day-1-making-ai-agents-ready-for-enterprise-1e50",
+      "author": "Rohan Sharma"
     },
     {
-      "title": "From vibe coding to clear thinking: what non-technical builders need in the age of AI",
-      "url": "https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd",
-      "author": "Julien Avezou"
+      "title": "Your AI Agent Isn't Failing Because It Hallucinates — It's Failing Because of Rate Limits",
+      "url": "https://dev.to/p0rt/your-ai-agent-isnt-failing-because-it-hallucinates-its-failing-because-of-rate-limits-2d60",
+      "author": "Sergei Parfenov"
     },
     {
-      "title": "Build a Basic AI Agent from Scratch: Tools",
-      "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
-      "author": "ruxu.dev"
-    },
-    {
-      "title": "AI as Infrastructure: Architecting Human Leverage for the Sovereign Enterprise",
-      "url": "https://nabalkishorepande.medium.com/ai-as-infrastructure-architecting-human-leverage-for-the-sovereign-enterprise-5e69bf78fcb5",
-      "author": "Nabal Kishore Pande | FRYX Research"
+      "title": "The Missing Data Layer for Physical AI",
+      "url": "https://medium.com/@dushyant.singh_48270/the-missing-data-layer-for-physical-ai-3257f8815357",
+      "author": "Dushyant Singh"
     }
   ],
   "repos": [
     {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 81946,
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 9599,
       "language": "Python"
     },
     {
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 32988,
-      "language": "JavaScript"
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 7317,
+      "language": "Python"
     },
     {
-      "name": "stefan-jansen/machine-learning-for-trading",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "stars": 17993,
-      "language": "Jupyter Notebook"
+      "name": "zakirkun/deep-eye",
+      "url": "https://github.com/zakirkun/deep-eye",
+      "description": "Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerabilit",
+      "stars": 1674,
+      "language": "Python"
     },
     {
-      "name": "dmtrKovalenko/fff",
-      "url": "https://github.com/dmtrKovalenko/fff",
-      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "stars": 7268,
-      "language": "Rust"
-    },
-    {
-      "name": "elder-plinius/OBLITERATUS",
-      "url": "https://github.com/elder-plinius/OBLITERATUS",
-      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
-      "stars": 5948,
+      "name": "ClaudioDrews/memory-os",
+      "url": "https://github.com/ClaudioDrews/memory-os",
+      "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+      "stars": 666,
       "language": "Python"
     }
   ],

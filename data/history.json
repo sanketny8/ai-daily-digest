@@ -1,38 +1,4 @@
 {
-  "2026-05-03": {
-    "papers": [
-      "http://arxiv.org/abs/2604.28182v1",
-      "http://arxiv.org/abs/2604.28181v1",
-      "http://arxiv.org/abs/2604.28180v1",
-      "http://arxiv.org/abs/2604.28178v1",
-      "http://arxiv.org/abs/2604.28176v1",
-      "http://arxiv.org/abs/2604.28175v1",
-      "http://arxiv.org/abs/2604.28169v1",
-      "http://arxiv.org/abs/2604.28167v1",
-      "http://arxiv.org/abs/2604.28163v1"
-    ],
-    "blogs": [
-      "https://arxiv.org/abs/2406.11717",
-      "https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/",
-      "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "https://medium.com/easy-flutter/i-stopped-using-stack-overflow-for-60-days-claude-replaced-it-mostly-8435903e4ca3",
-      "https://blog.stackademic.com/this-ai-app-looked-ready-to-ship-it-was-hiding-a-critical-security-flaw-95ac02b4ad72",
-      "https://rogerchuakt.medium.com/the-1-000-output-gap-why-learning-more-ai-tools-will-actually-make-you-poorer-81121325eb58",
-      "https://medium.com/@krlinsner/revolver-d8b5dfcb5c92",
-      "https://medium.com/@dymiles/on-ai-architecture-19f833ceee7b",
-      "https://medium.com/@likhildahal5/i-finally-understood-how-transformers-work-heres-the-mental-model-that-changed-everything-4a5b26c151eb"
-    ],
-    "repos": [
-      "https://github.com/9001/copyparty",
-      "https://github.com/microsoft/qlib",
-      "https://github.com/ruvnet/ruflo",
-      "https://github.com/google-research/timesfm",
-      "https://github.com/tirth8205/code-review-graph",
-      "https://github.com/Q00/ouroboros",
-      "https://github.com/appergb/openless",
-      "https://github.com/noonghunna/club-3090"
-    ]
-  },
   "2026-05-04": {
     "papers": [
       "https://arxiv.org/abs/2604.24026",
@@ -932,6 +898,35 @@
       "https://github.com/stefan-jansen/machine-learning-for-trading",
       "https://github.com/dmtrKovalenko/fff",
       "https://github.com/elder-plinius/OBLITERATUS"
+    ]
+  },
+  "2026-06-03": {
+    "papers": [
+      "https://arxiv.org/abs/2606.03264",
+      "https://arxiv.org/abs/2606.01048",
+      "https://arxiv.org/abs/2606.03102",
+      "https://arxiv.org/abs/2606.01599",
+      "https://arxiv.org/abs/2606.01961",
+      "https://arxiv.org/abs/2606.01494",
+      "https://arxiv.org/abs/2605.29288",
+      "https://arxiv.org/abs/2606.02398",
+      "https://arxiv.org/abs/2606.03603",
+      "https://arxiv.org/abs/2605.27958"
+    ],
+    "blogs": [
+      "https://agenticmotherfucking.website",
+      "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
+      "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+      "https://dev.to/tessl/ai-native-devcon-day-1-making-ai-agents-ready-for-enterprise-1e50",
+      "https://dev.to/p0rt/your-ai-agent-isnt-failing-because-it-hallucinates-its-failing-because-of-rate-limits-2d60",
+      "https://medium.com/@dushyant.singh_48270/the-missing-data-layer-for-physical-ai-3257f8815357"
+    ],
+    "repos": [
+      "https://github.com/HKUDS/Vibe-Trading",
+      "https://github.com/chopratejas/headroom",
+      "https://github.com/zakirkun/deep-eye",
+      "https://github.com/ClaudioDrews/memory-os"
     ]
   }
 }

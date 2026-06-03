@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-03</strong></summary>
+
+#### Papers
+1. **[PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training](https://arxiv.org/abs/2606.03264)** — This paper presents an upgraded model for document parsing, improving upon previous versions with enhanced error handling.
+2. **[Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation](https://arxiv.org/abs/2606.01048)** — Introduces a novel approach to image translation that enhances efficiency and quality using decoupled diffusion models.
+3. **[Small RL Controller, Large Language Model: RL-Guided Adaptive Sampling for Test-Time Scaling](https://arxiv.org/abs/2606.03102)** — Explores adaptive sampling methods to improve large language model performance while reducing computational costs.
+4. **[TRON: Targeted Rule-Verifiable Online Environments for Visual Reasoning RL](https://arxiv.org/abs/2606.01599)** — Proposes a scalable framework for training visual reasoning in reinforcement learning, focusing on verifiable and controllable signals.
+5. **[AutoMedBench: Towards Medical AutoResearch with Agentic AI Models](https://arxiv.org/abs/2606.01961)** — Discusses the development of autonomous agents to enhance AI-driven medical research workflows beyond simple tasks.
+6. **[Diagnosing Harmful Continuation in Answer-Correct Long-CoT Training Traces](https://arxiv.org/abs/2605.29288)** — Investigates the impact of long chain-of-thought training on language model fine-tuning outcomes, highlighting potential issues.
+7. **[World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning](https://arxiv.org/abs/2606.03603)** — Examines how world models and language models can complement each other in predicting future outcomes from visual data.
+8. **[Pressure-Testing Deception Probes in LLMs: Scaling, Robustness, and the Geometry of Deceptive Representations](https://arxiv.org/abs/2605.27958)** — Analyzes the effectiveness of linear probes for deception detection in language models under varying conditions.
+9. **[Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](http://arxiv.org/abs/2606.03979v1)** — Proposes a mechanism for language models to improve memory retention and self-modification capabilities.
+10. **[AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Speech Translation Task](http://arxiv.org/abs/2606.03967v1)** — Introduces a new system for simultaneous speech translation, enhancing efficiency in multilingual tasks.
+
+#### Blog Posts
+1. **[Agentic Mfw](https://agenticmotherfucking.website)** by agenticmotherfucking.website
+2. **[How we index images for RAG](https://www.kapa.ai/blog/how-we-index-images-for-rag)** by kapa.ai
+3. **[Now AI agents need what RSS does](https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/)** by julienreszka.com
+4. **[strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)** by typesanitizer
+5. **[AI Native DevCon Day 1: Making AI Agents Ready for Enterprise](https://dev.to/tessl/ai-native-devcon-day-1-making-ai-agents-ready-for-enterprise-1e50)** by Rohan Sharma
+6. **[Your AI Agent Isn't Failing Because It Hallucinates — It's Failing Because of Rate Limits](https://dev.to/p0rt/your-ai-agent-isnt-failing-because-it-hallucinates-its-failing-because-of-rate-limits-2d60)** by Sergei Parfenov
+7. **[The Missing Data Layer for Physical AI](https://medium.com/@dushyant.singh_48270/the-missing-data-layer-for-physical-ai-3257f8815357)** by Dushyant Singh
+
+#### Trending Repos
+1. **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — Your Personal Trading Agent. ⭐ 9599
+2. **[chopratejas/headroom](https://github.com/chopratejas/headroom)** — Compress tool outputs and logs before they reach the LLM. ⭐ 7317
+3. **[zakirkun/deep-eye](https://github.com/zakirkun/deep-eye)** — Orchestrates multiple AI providers for intelligent payload generation and vulnerability scanning. ⭐ 1674
+4. **[ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)** — A memory operating system for Hermes Agent with persistent memory and structured facts. ⭐ 666
+
+</details>
+
+<details>
 <summary><strong>2026-06-02</strong></summary>
 
 #### Papers
