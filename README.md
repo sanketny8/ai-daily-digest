@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-04</strong></summary>
+
+#### Papers
+1. **[OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs](https://arxiv.org/abs/2606.03890)** — This paper introduces a benchmark for multimodal agents to improve spatial reasoning in robotics and AR.
+2. **[Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation](https://arxiv.org/abs/2606.02684)** — It discusses selective training paradigms in on-policy distillation for large language models.
+3. **[Unlocking Feature Learning in Gated Delta Networks at Scale](https://arxiv.org/abs/2606.04048)** — This research focuses on efficient training methods for large language models to reduce computational costs.
+4. **[OpenSTBench: Beyond Semantic Evaluation for Speech Translation](https://arxiv.org/abs/2605.30792)** — The paper presents a benchmark for evaluating various speech translation systems beyond traditional metrics.
+5. **[WebRISE: Requirement-Induced State Evaluation for MLLM-Generated Web Artifacts](https://arxiv.org/abs/2606.03220)** — It introduces a new evaluation framework for assessing MLLM-generated web artifacts based on user requirements.
+6. **[STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations](https://arxiv.org/abs/2606.05165)** — This work proposes a method for tracing model predictions back to training data using causal interventions.
+7. **[ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning](https://arxiv.org/abs/2606.03503)** — The paper explores improving reasoning models through introspective learning of reasoning chains.
+8. **[AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?](https://arxiv.org/abs/2606.05080)** — It investigates the capability of frontier models in managing long-term engineering tasks effectively.
+9. **[AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation](https://arxiv.org/abs/2606.03972)** — This research presents a new framework for generating videos from images using adversarial distillation.
+10. **[Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)](http://arxiv.org/abs/2606.05145v1)** — The paper argues that analyzing failed reasoning can guide improvements in language models.
+
+#### Blog Posts
+1. **[Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)** by blog.google
+2. **[Leiden Declaration on Artificial Intelligence and Mathematics](https://leidendeclaration.ai/)** by leidendeclaration.ai
+3. **[The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude)** by anthropic.com
+4. **[Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)](https://dev.to/sylwia-laskowska/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33)** by Sylwia Laskowska
+5. **[Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite, petgraph)](https://github.com/zaydmulani09/mnemo)** by github.com
+6. **[Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.](https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db)** by Ben Halpern
+
+#### Trending Repos
+1. **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** — 📚 Freely available programming books. ⭐ 389630
+2. **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** — 📚 从零开始的智能体原理与实践教程. ⭐ 56190
+3. **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** — Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more. ⭐ 35486
+4. **[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. ⭐ 23463
+5. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** — AirLLM 70B inference with single 4GB GPU. ⭐ 19051
+6. **[0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)** — HexStrike AI MCP Agents for automated pentesting and vulnerability discovery. ⭐ 9228
+7. **[NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym)** — Evaluate and improve models and agents using environments. ⭐ 944
+
+</details>
+
+<details>
 <summary><strong>2026-06-03</strong></summary>
 
 #### Papers

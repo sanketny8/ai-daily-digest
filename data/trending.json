@@ -1,121 +1,137 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "papers": [
     {
-      "title": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
-      "url": "https://arxiv.org/abs/2606.03264",
-      "summary": "We introduce PaddleOCR-VL-1.6, an upgraded compact document parsing model built upon PaddleOCR-VL-1.5. Although PaddleOCR-VL-1.5 establishes a strong 0.9B baseline, its remaining errors concentrate in"
+      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2606.03890",
+      "summary": "Multimodal agents in robotics, AR, and autonomous driving must reason about places and layouts from continuous egocentric streams, often using evidence outside the current view. Existing benchmarks ei"
     },
     {
-      "title": "Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation",
-      "url": "https://arxiv.org/abs/2606.01048",
-      "summary": "We propose Decoupled Residual Denoising Diffusion models (DRDD) for unified and data-efficient image-to-image (I2I) translation. While diffusion models have advanced I2I translation in terms of qualit"
+      "title": "Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2606.02684",
+      "summary": "On-Policy distillation (OPD) in large language models is shifting from full-trace KL supervision toward more selective training paradigms. Recent OPD methods increasingly focus on selecting which traj"
     },
     {
-      "title": "Small RL Controller, Large Language Model: RL-Guided Adaptive Sampling for Test-Time Scaling",
-      "url": "https://arxiv.org/abs/2606.03102",
-      "summary": "Test-time scaling improves the reasoning performance of large language models but incurs substantial cost in both total computation and latency. Existing adaptive sampling methods partially mitigate t"
+      "title": "Unlocking Feature Learning in Gated Delta Networks at Scale",
+      "url": "https://arxiv.org/abs/2606.04048",
+      "summary": "Training and scaling Large Language Models demand enormous computational resources, motivating both efficient sub-quadratic architectures and principled hyperparameter tuning methods. While the Maxima"
     },
     {
-      "title": "TRON: Targeted Rule-Verifiable Online Environments for Visual Reasoning RL",
-      "url": "https://arxiv.org/abs/2606.01599",
-      "summary": "Reinforcement learning (RL) for visual reasoning needs scalable, verifiable, and controllable training signals. Existing visual RL post-training trains on static curated datasets, with fixed image-que"
+      "title": "OpenSTBench: Beyond Semantic Evaluation for Speech Translation",
+      "url": "https://arxiv.org/abs/2605.30792",
+      "summary": "Speech translation systems increasingly span speech-to-text translation (S2TT), speech-to-speech translation (S2ST), offline translation, and streaming generation, producing outputs that differ in mod"
     },
     {
-      "title": "AutoMedBench: Towards Medical AutoResearch with Agentic AI Models",
-      "url": "https://arxiv.org/abs/2606.01961",
-      "summary": "Autonomous agents are increasingly expected to support end-to-end medical-AI research workflows, moving beyond isolated prediction tasks or short-form clinical question answering. However, existing me"
+      "title": "WebRISE: Requirement-Induced State Evaluation for MLLM-Generated Web Artifacts",
+      "url": "https://arxiv.org/abs/2606.03220",
+      "summary": "Existing benchmarks for MLLM-generated web artifacts assess interaction through local evidence and miss the requirement-induced states and transitions that determine whether a page works. We introduce"
     },
     {
-      "title": "ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree",
-      "url": "https://arxiv.org/abs/2606.01494",
-      "summary": "Agent skills extend AI agents with reusable instructions, tools, scripts, references, and workflows, establishing a security boundary distinct from both model safety and traditional package-malware de"
+      "title": "STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations",
+      "url": "https://arxiv.org/abs/2606.05165",
+      "summary": "Training Data Attribution (TDA) seeks to trace a model's predictions back to its training data. The gold standard for TDA relies on causal interventions, observing how a model changes when data is add"
     },
     {
-      "title": "Diagnosing Harmful Continuation in Answer-Correct Long-CoT Training Traces",
-      "url": "https://arxiv.org/abs/2605.29288",
-      "summary": "Long chain-of-thought (CoT) traces are widely used as supervision for reasoning-oriented LLM SFT, yet answer-correct traces can still lead to markedly different fine-tuning outcomes. We study post-con"
+      "title": "Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging",
+      "url": "https://arxiv.org/abs/2605.29489",
+      "summary": "Weight-space model merging is usually formulated as an algebraic operation on checkpoints, yet at LLM scale the limiting resource is often the set of expert weights that must be read. We introduce Mer"
     },
     {
-      "title": "A Local Perturbation Theory for Cross-Domain Interference and Recovery in Multi-Domain RL",
-      "url": "https://arxiv.org/abs/2606.02398",
-      "summary": "Reinforcement learning (RL) post-training improves large language models (LLMs) on individual domains such as mathematical reasoning, code generation, question answering, and creative writing (CW), bu"
+      "title": "ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning",
+      "url": "https://arxiv.org/abs/2606.03503",
+      "summary": "Large Reasoning Models (LRMs) have achieved remarkable progress thanks to Reinforcement Learning with Verifiable Rewards (RLVR) on Chain-of-Thoughts (CoTs). However, since long CoTs naturally contain "
     },
     {
-      "title": "World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning",
-      "url": "https://arxiv.org/abs/2606.03603",
-      "summary": "World models and multimodal large language models (MLLMs) provide complementary capabilities for predicting future outcomes from static visual observations. World models can generate concrete visual r"
+      "title": "AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?",
+      "url": "https://arxiv.org/abs/2606.05080",
+      "summary": "Scientific and engineering progress is fundamentally a long-horizon iterative process: proposing changes, running experiments, measuring outcomes, and continuously refining artifacts. Yet existing ben"
     },
     {
-      "title": "Pressure-Testing Deception Probes in LLMs: Scaling, Robustness, and the Geometry of Deceptive Representations",
-      "url": "https://arxiv.org/abs/2605.27958",
-      "summary": "Linear probes trained on LLM activations are increasingly proposed as deception-detection metrics, yet report AUROC exceeding 0.96 on clean benchmarks while collapsing under distributional shift. This"
+      "title": "AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation",
+      "url": "https://arxiv.org/abs/2606.03972",
+      "summary": "We present AAD-1, an Asymmetric Adversarial Distillation framework for One-step autoregressive image-to-video generation. State-of-the-art methods adopt adversarial distillation but suffer from motion"
     }
   ],
   "blog_posts": [
     {
-      "title": "Agentic Mfw",
-      "url": "https://agenticmotherfucking.website",
-      "author": "agenticmotherfucking.website"
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "author": "blog.google"
     },
     {
-      "title": "How we index images for RAG",
-      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-      "author": "kapa.ai"
+      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "url": "https://leidendeclaration.ai/",
+      "author": "leidendeclaration.ai"
     },
     {
-      "title": "Now AI agents need what RSS does",
-      "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
-      "author": "julienreszka.com"
+      "title": "The ways we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "author": "anthropic.com"
     },
     {
-      "title": "strace-ui, Bonsai_term, and the TUI renaissance",
-      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
-      "author": "typesanitizer"
+      "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
+      "url": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
+      "author": "Sylwia Laskowska"
     },
     {
-      "title": "AI Native DevCon Day 1: Making AI Agents Ready for Enterprise",
-      "url": "https://dev.to/tessl/ai-native-devcon-day-1-making-ai-agents-ready-for-enterprise-1e50",
-      "author": "Rohan Sharma"
+      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+      "url": "https://github.com/zaydmulani09/mnemo",
+      "author": "github.com"
     },
     {
-      "title": "Your AI Agent Isn't Failing Because It Hallucinates — It's Failing Because of Rate Limits",
-      "url": "https://dev.to/p0rt/your-ai-agent-isnt-failing-because-it-hallucinates-its-failing-because-of-rate-limits-2d60",
-      "author": "Sergei Parfenov"
-    },
-    {
-      "title": "The Missing Data Layer for Physical AI",
-      "url": "https://medium.com/@dushyant.singh_48270/the-missing-data-layer-for-physical-ai-3257f8815357",
-      "author": "Dushyant Singh"
+      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
+      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
+      "author": "Ben Halpern"
     }
   ],
   "repos": [
     {
-      "name": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 9599,
+      "name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "📚 Freely available programming books",
+      "stars": 389630,
       "language": "Python"
     },
     {
-      "name": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 7317,
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars": 56190,
       "language": "Python"
     },
     {
-      "name": "zakirkun/deep-eye",
-      "url": "https://github.com/zakirkun/deep-eye",
-      "description": "Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerabilit",
-      "stars": 1674,
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars": 35486,
+      "language": "Go"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars": 23463,
+      "language": "Java"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 19051,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "0x4m4/hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun",
+      "stars": 9228,
       "language": "Python"
     },
     {
-      "name": "ClaudioDrews/memory-os",
-      "url": "https://github.com/ClaudioDrews/memory-os",
-      "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
-      "stars": 666,
+      "name": "NVIDIA-NeMo/Gym",
+      "url": "https://github.com/NVIDIA-NeMo/Gym",
+      "description": "Evaluate and improve models and agents using environments",
+      "stars": 944,
       "language": "Python"
     }
   ],
