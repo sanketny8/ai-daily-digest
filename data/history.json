@@ -1,35 +1,4 @@
 {
-  "2026-05-05": {
-    "papers": [
-      "https://arxiv.org/abs/2605.00932",
-      "https://arxiv.org/abs/2605.02881",
-      "https://arxiv.org/abs/2605.00877",
-      "https://arxiv.org/abs/2605.01725",
-      "https://arxiv.org/abs/2605.02222",
-      "https://arxiv.org/abs/2605.02730",
-      "https://arxiv.org/abs/2605.02661",
-      "https://arxiv.org/abs/2605.02178",
-      "https://arxiv.org/abs/2605.02240",
-      "https://arxiv.org/abs/2604.27660"
-    ],
-    "blogs": [
-      "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-      "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
-      "https://dev.to/lovestaco/6-agent-gateway-platforms-that-actually-exist-in-2026-and-what-theyre-good-for-2kek",
-      "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n",
-      "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "https://dev.to/vystartasv/managing-150-ai-agent-skills-at-scale-what-broke-what-i-built-1e73",
-      "https://medium.com/@sparknp1/the-infinite-context-window-is-a-gilded-cage-914731d55c1b"
-    ],
-    "repos": [
-      "https://github.com/msitarzewski/agency-agents",
-      "https://github.com/sansan0/TrendRadar",
-      "https://github.com/virattt/dexter",
-      "https://github.com/MervinPraison/PraisonAI",
-      "https://github.com/ag2ai/ag2"
-    ]
-  },
   "2026-05-06": {
     "papers": [
       "https://arxiv.org/abs/2605.01717",
@@ -925,6 +894,35 @@
       "https://github.com/lyogavin/airllm",
       "https://github.com/0x4m4/hexstrike-ai",
       "https://github.com/NVIDIA-NeMo/Gym"
+    ]
+  },
+  "2026-06-05": {
+    "papers": [
+      "https://arxiv.org/abs/2606.04743",
+      "https://arxiv.org/abs/2606.05622",
+      "https://arxiv.org/abs/2606.05846",
+      "https://arxiv.org/abs/2606.06477",
+      "https://arxiv.org/abs/2606.03312",
+      "https://arxiv.org/abs/2606.01753",
+      "https://arxiv.org/abs/2606.05553",
+      "https://arxiv.org/abs/2606.06428",
+      "https://arxiv.org/abs/2606.03841",
+      "https://arxiv.org/abs/2606.05172"
+    ],
+    "blogs": [
+      "https://www.anthropic.com/institute/recursive-self-improvement",
+      "https://github.com/anthropics/defending-code-reference-harness",
+      "https://arxiv.org/abs/2604.24881",
+      "https://kyrieblunders.bearblog.dev/making-dr-grpo-go-brrr/",
+      "https://dev.to/nfrankel/ai-gateways-why-and-how-b5o",
+      "https://vpnreviewswithethan.medium.com/what-is-a-good-and-cheap-vpn-service-ea8e4342aa75"
+    ],
+    "repos": [
+      "https://github.com/mvanhorn/last30days-skill",
+      "https://github.com/AIDC-AI/Pixelle-Video",
+      "https://github.com/jundot/omlx",
+      "https://github.com/NVIDIA/cosmos",
+      "https://github.com/github/copilot-sdk"
     ]
   }
 }

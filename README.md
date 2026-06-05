@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-05</strong></summary>
+
+#### Papers
+1. **[TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration](https://arxiv.org/abs/2606.04743)** — This paper explores how agents can proactively discover problems beyond user requests using template-guided iteration.
+2. **[AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints](https://arxiv.org/abs/2606.05622)** — It discusses evaluating adaptive planning in language models considering evolving user and world constraints.
+3. **[Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs](https://arxiv.org/abs/2606.05846)** — This work addresses challenges in automatic speech recognition for code-switching across unseen language pairs.
+4. **[RobotValues: Evaluating Household Robots When Human Values Conflict](https://arxiv.org/abs/2606.03312)** — The paper investigates how household robots navigate situations where human values may conflict during task execution.
+5. **[Quality-Guided Semi-Supervised Learning for Medical Image Segmentation](https://arxiv.org/abs/2606.01753)** — It presents a method for improving medical image segmentation using semi-supervised learning to reduce annotation costs.
+6. **[ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?](https://arxiv.org/abs/2606.05553)** — This research evaluates whether role-playing agents maintain character consistency throughout evolving narratives.
+7. **[EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management](https://arxiv.org/abs/2606.03841)** — The paper introduces a self-evolving agent that enhances data science tasks through skill learning and context management.
+8. **[Is This Edit Correct? A Multi-Dimensional Benchmark for Reasoning-Aware Image Editing](https://arxiv.org/abs/2606.05172)** — It proposes a benchmark for evaluating reasoning in image editing systems that follow natural language instructions.
+9. **[Self-Augmenting Retrieval for Diffusion Language Models](https://arxiv.org/abs/2606.06474)** — This work discusses enhancing text generation in diffusion language models through self-augmenting retrieval techniques.
+10. **[DNQ: Deep Nash Q-Network for Partially Observable n-Player Games](https://arxiv.org/abs/2606.06480)** — The paper presents a deep learning approach for strategic decision-making in multi-player games with limited information.
+
+#### Blog Posts
+1. **[When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement)** by anthropic.com
+2. **[AI gateways: why and how](https://dev.to/nfrankel/ai-gateways-why-and-how-b5o)** by Nicolas Fränkel
+3. **[I made a kernel 2.2x faster. It made my training loop 3x slower](https://kyrieblunders.bearblog.dev/making-dr-grpo-go-brrr/)** by kyrieblunders.bearblog.dev
+4. **[Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate](https://arxiv.org/abs/2604.24881)** by arxiv.org
+5. **[Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)** by github.com
+
+#### Trending Repos
+1. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches topics and synthesizes summaries. ⭐ 27778
+2. **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — AI fully automated short video engine. ⭐ 21393
+3. **[jundot/omlx](https://github.com/jundot/omlx)** — LLM inference server with continuous batching for Apple Silicon. ⭐ 15939
+4. **[NVIDIA/cosmos](https://github.com/NVIDIA/cosmos)** — Open platform for world models and tools for building Physical AI. ⭐ 9119
+5. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** — SDK for integrating GitHub Copilot Agent into apps and services. ⭐ 9048
+
+</details>
+
+<details>
 <summary><strong>2026-06-04</strong></summary>
 
 #### Papers

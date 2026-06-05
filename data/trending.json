@@ -1,138 +1,124 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "papers": [
     {
-      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
-      "url": "https://arxiv.org/abs/2606.03890",
-      "summary": "Multimodal agents in robotics, AR, and autonomous driving must reason about places and layouts from continuous egocentric streams, often using evidence outside the current view. Existing benchmarks ei"
+      "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
+      "url": "https://arxiv.org/abs/2606.04743",
+      "summary": "Agents are widely deployed as assistants over documents, tools, and code. However, they typically act only on explicit user requests, which surface only the problems the user has noticed, while many o"
     },
     {
-      "title": "Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2606.02684",
-      "summary": "On-Policy distillation (OPD) in large language models is shifting from full-trace KL supervision toward more selective training paradigms. Recent OPD methods increasingly focus on selecting which traj"
+      "title": "AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints",
+      "url": "https://arxiv.org/abs/2606.05622",
+      "summary": "Planning for real-world problems by language models often involves both world and user constraints, which may not be fully specified upfront and are progressively disclosed through interaction. Howeve"
     },
     {
-      "title": "Unlocking Feature Learning in Gated Delta Networks at Scale",
-      "url": "https://arxiv.org/abs/2606.04048",
-      "summary": "Training and scaling Large Language Models demand enormous computational resources, motivating both efficient sub-quadratic architectures and principled hyperparameter tuning methods. While the Maxima"
+      "title": "Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs",
+      "url": "https://arxiv.org/abs/2606.05846",
+      "summary": "Automatic Speech Recognition (ASR) has become a key technology for human--AI interaction. However, code-switching ASR (CS-ASR) remains particularly challenging due to the severe scarcity of multilingu"
     },
     {
-      "title": "OpenSTBench: Beyond Semantic Evaluation for Speech Translation",
-      "url": "https://arxiv.org/abs/2605.30792",
-      "summary": "Speech translation systems increasingly span speech-to-text translation (S2TT), speech-to-speech translation (S2ST), offline translation, and streaming generation, producing outputs that differ in mod"
+      "title": "Complexity-Balanced Diffusion Splitting",
+      "url": "https://arxiv.org/abs/2606.06477",
+      "summary": "Standard continuous-time generative models rely on monolithic architectures that must navigate vastly different signal regimes, from isotropic noise to intricate data distributions. While scaling mode"
     },
     {
-      "title": "WebRISE: Requirement-Induced State Evaluation for MLLM-Generated Web Artifacts",
-      "url": "https://arxiv.org/abs/2606.03220",
-      "summary": "Existing benchmarks for MLLM-generated web artifacts assess interaction through local evidence and miss the requirement-induced states and transitions that determine whether a page works. We introduce"
+      "title": "RobotValues: Evaluating Household Robots When Human Values Conflict",
+      "url": "https://arxiv.org/abs/2606.03312",
+      "summary": "While household robots are often evaluated based on task completion, everyday domestic environments involve value-conflicting situations in which robots are expected to choose actions that prioritize "
     },
     {
-      "title": "STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations",
-      "url": "https://arxiv.org/abs/2606.05165",
-      "summary": "Training Data Attribution (TDA) seeks to trace a model's predictions back to its training data. The gold standard for TDA relies on causal interventions, observing how a model changes when data is add"
+      "title": "Quality-Guided Semi-Supervised Learning for Medical Image Segmentation",
+      "url": "https://arxiv.org/abs/2606.01753",
+      "summary": "Training accurate medical image segmentation models requires large amounts of densely annotated data, which is costly and time-consuming to obtain. Semi-supervised learning (SSL) alleviates this by le"
     },
     {
-      "title": "Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging",
-      "url": "https://arxiv.org/abs/2605.29489",
-      "summary": "Weight-space model merging is usually formulated as an algebraic operation on checkpoints, yet at LLM scale the limiting resource is often the set of expert weights that must be read. We introduce Mer"
+      "title": "ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?",
+      "url": "https://arxiv.org/abs/2606.05553",
+      "summary": "Role-playing language agents (RPLAs) should play characters whose values and behavior evolve as the story progresses, not maintain a fixed persona. Existing benchmarks measure factual recall at a give"
     },
     {
-      "title": "ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning",
-      "url": "https://arxiv.org/abs/2606.03503",
-      "summary": "Large Reasoning Models (LRMs) have achieved remarkable progress thanks to Reinforcement Learning with Verifiable Rewards (RLVR) on Chain-of-Thoughts (CoTs). However, since long CoTs naturally contain "
+      "title": "Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation",
+      "url": "https://arxiv.org/abs/2606.06428",
+      "summary": "Prior work has shown that large language models (LLMs) can translate unseen or low-resource languages by undergoing continued training or even by encoding a grammar book in their context. However, bot"
     },
     {
-      "title": "AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?",
-      "url": "https://arxiv.org/abs/2606.05080",
-      "summary": "Scientific and engineering progress is fundamentally a long-horizon iterative process: proposing changes, running experiments, measuring outcomes, and continuously refining artifacts. Yet existing ben"
+      "title": "EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management",
+      "url": "https://arxiv.org/abs/2606.03841",
+      "summary": "Recent progress in Large Language Model (LLM) agents has enabled promising advances in automated data science. However, existing approaches remain fundamentally limited by their static action sets and"
     },
     {
-      "title": "AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation",
-      "url": "https://arxiv.org/abs/2606.03972",
-      "summary": "We present AAD-1, an Asymmetric Adversarial Distillation framework for One-step autoregressive image-to-video generation. State-of-the-art methods adopt adversarial distillation but suffer from motion"
+      "title": "Is This Edit Correct? A Multi-Dimensional Benchmark for Reasoning-Aware Image Editing",
+      "url": "https://arxiv.org/abs/2606.05172",
+      "summary": "Diffusion-based image editing has achieved strong visual fidelity under natural language instructions, yet most existing systems still operate at the level of surface instruction following, without re"
     }
   ],
   "blog_posts": [
     {
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "author": "blog.google"
-    },
-    {
-      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
-      "url": "https://leidendeclaration.ai/",
-      "author": "leidendeclaration.ai"
-    },
-    {
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
       "author": "anthropic.com"
     },
     {
-      "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
-      "url": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
-      "author": "Sylwia Laskowska"
-    },
-    {
-      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "url": "https://github.com/zaydmulani09/mnemo",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
       "author": "github.com"
     },
     {
-      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
-      "url": "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db",
-      "author": "Ben Halpern"
+      "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2604.24881",
+      "author": "arxiv.org"
+    },
+    {
+      "title": "I made a kernel 2.2x faster. It made my training loop 3x slower",
+      "url": "https://kyrieblunders.bearblog.dev/making-dr-grpo-go-brrr/",
+      "author": "kyrieblunders.bearblog.dev"
+    },
+    {
+      "title": "AI gateways: why and how",
+      "url": "https://dev.to/nfrankel/ai-gateways-why-and-how-b5o",
+      "author": "Nicolas Fränkel"
+    },
+    {
+      "title": "What Is a Good and Cheap VPN Service?",
+      "url": "https://vpnreviewswithethan.medium.com/what-is-a-good-and-cheap-vpn-service-ea8e4342aa75",
+      "author": "Ethan Carter"
     }
   ],
   "repos": [
     {
-      "name": "EbookFoundation/free-programming-books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "description": "📚 Freely available programming books",
-      "stars": 389630,
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 27778,
       "language": "Python"
     },
     {
-      "name": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": 56190,
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars": 21393,
       "language": "Python"
     },
     {
-      "name": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": 35486,
-      "language": "Go"
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": 15939,
+      "language": "Python"
     },
     {
-      "name": "opendataloader-project/opendataloader-pdf",
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "stars": 23463,
-      "language": "Java"
-    },
-    {
-      "name": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "stars": 19051,
+      "name": "NVIDIA/cosmos",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "stars": 9119,
       "language": "Jupyter Notebook"
     },
     {
-      "name": "0x4m4/hexstrike-ai",
-      "url": "https://github.com/0x4m4/hexstrike-ai",
-      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun",
-      "stars": 9228,
-      "language": "Python"
-    },
-    {
-      "name": "NVIDIA-NeMo/Gym",
-      "url": "https://github.com/NVIDIA-NeMo/Gym",
-      "description": "Evaluate and improve models and agents using environments",
-      "stars": 944,
-      "language": "Python"
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 9048,
+      "language": "Java"
     }
   ],
   "tweets": []
