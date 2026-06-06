@@ -10,6 +10,36 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-06</strong></summary>
+
+#### Papers
+1. **[BRepCLIP: Contrastive Multimodal Pretraining on BRep Primitives for CAD Understanding](https://arxiv.org/abs/2606.05515)** — This paper addresses the challenge of learning representations for CAD models using boundary representations.
+2. **[The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset](https://arxiv.org/abs/2606.02956)** — Introduces a new dataset aimed at enhancing sensor fidelity and geographic diversity in autonomous driving research.
+3. **[MAOAM: Unified Object and Material Selection with Vision-Language Models](https://arxiv.org/abs/2606.04880)** — Proposes a method for interactive image editing that allows users to select regions using text or clicks.
+4. **[SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces](https://arxiv.org/abs/2606.01317)** — Evaluates the safety of large language models as coding agents in complex project environments.
+5. **[Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models](https://arxiv.org/abs/2606.05833)** — Focuses on enhancing 3D awareness in multimodal language models through video-based geometric learning.
+6. **[AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding](https://arxiv.org/abs/2606.06155)** — Introduces a model that combines vision and language for robotic manipulation tasks based on affordance understanding.
+7. **[Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](https://arxiv.org/abs/2606.06492)** — Discusses a novel approach for adapting code language models to evolving software contexts.
+8. **[TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning](http://arxiv.org/abs/2606.06494v1)** — Presents a method for continual learning that safeguards important model components during parameter-efficient fine-tuning.
+9. **[DNQ: Deep Nash Q-Network for Partially Observable n-Player Games](http://arxiv.org/abs/2606.06480v1)** — Explores a new approach for managing decision-making in competitive environments with limited information.
+10. **[Self-Augmenting Retrieval for Diffusion Language Models](http://arxiv.org/abs/2606.06474v1)** — Introduces a method for improving text generation in diffusion models through self-augmentation techniques.
+
+#### Blog Posts
+1. **[Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/)** by blog.google
+2. **[Fine-tuning an LLM to write docs like it's 1995](https://passo.uno/fine-tuning-docs-llm/)** by passo.uno
+3. **[Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)** by help.openai.com
+4. **[S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)** by arstechnica.com
+
+#### Trending Repos
+1. **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** — The best-benchmarked open-source AI memory system. ⭐ 53956
+2. **[microsoft/BitNet](https://github.com/microsoft/BitNet)** — Official inference framework for 1-bit LLMs. ⭐ 39224
+3. **[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)** — The Frontend Stack for Agents & Generative UI. ⭐ 32790
+4. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. ⭐ 21711
+5. **[microsoft/agent-framework](https://github.com/microsoft/agent-framework)** — A framework for building and deploying AI agents and workflows. ⭐ 11070
+
+</details>
+
+<details>
 <summary><strong>2026-06-05</strong></summary>
 
 #### Papers

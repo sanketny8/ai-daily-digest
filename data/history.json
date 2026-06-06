@@ -1,31 +1,4 @@
 {
-  "2026-05-06": {
-    "papers": [
-      "https://arxiv.org/abs/2605.01717",
-      "https://arxiv.org/abs/2605.01284",
-      "https://arxiv.org/abs/2605.03571",
-      "https://arxiv.org/abs/2605.02801",
-      "https://arxiv.org/abs/2605.01466",
-      "https://arxiv.org/abs/2604.28123",
-      "https://arxiv.org/abs/2605.02396",
-      "https://arxiv.org/abs/2605.02943",
-      "https://arxiv.org/abs/2411.18966",
-      "https://arxiv.org/abs/2605.03941"
-    ],
-    "blogs": [
-      "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "https://github.com/angelos-p/llm-from-scratch",
-      "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-      "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-      "https://www.anthropic.com/news/finance-agents",
-      "https://docs.docker.com/engine/storage/containerd"
-    ],
-    "repos": [
-      "https://github.com/cheahjs/free-llm-api-resources",
-      "https://github.com/bwya77/vscode-dark-islands"
-    ]
-  },
   "2026-05-07": {
     "papers": [
       "https://arxiv.org/abs/2605.04461",
@@ -923,6 +896,34 @@
       "https://github.com/jundot/omlx",
       "https://github.com/NVIDIA/cosmos",
       "https://github.com/github/copilot-sdk"
+    ]
+  },
+  "2026-06-06": {
+    "papers": [
+      "https://arxiv.org/abs/2606.05515",
+      "https://arxiv.org/abs/2606.06486",
+      "https://arxiv.org/abs/2606.02956",
+      "https://arxiv.org/abs/2606.04880",
+      "https://arxiv.org/abs/2605.27079",
+      "https://arxiv.org/abs/2605.30848",
+      "https://arxiv.org/abs/2606.01317",
+      "https://arxiv.org/abs/2606.05833",
+      "https://arxiv.org/abs/2606.06155",
+      "https://arxiv.org/abs/2606.06492"
+    ],
+    "blogs": [
+      "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "https://passo.uno/fine-tuning-docs-llm/",
+      "https://github.com/zdk/lowfat",
+      "https://help.openai.com/en/articles/20001061-lockdown-mode",
+      "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
+    ],
+    "repos": [
+      "https://github.com/MemPalace/mempalace",
+      "https://github.com/microsoft/BitNet",
+      "https://github.com/CopilotKit/CopilotKit",
+      "https://github.com/Panniantong/Agent-Reach",
+      "https://github.com/microsoft/agent-framework"
     ]
   }
 }
