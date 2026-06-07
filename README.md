@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-07</strong></summary>
+
+#### Papers
+1. **[TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning](http://arxiv.org/abs/2606.06494v1)** — Introduces TailLoR, a method enhancing continual learning through spectral decomposition.
+2. **[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](http://arxiv.org/abs/2606.06493v1)** — Proposes a control framework for humanoid robots to improve real-world task execution.
+3. **[Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](http://arxiv.org/abs/2606.06492v1)** — Discusses a method for enhancing code language models with repository-level context.
+4. **[TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](http://arxiv.org/abs/2606.06491v1)** — Presents a model for robots to manage varying execution speeds during manipulation tasks.
+5. **[Regret Minimization with Adaptive Opponents in Repeated Games](http://arxiv.org/abs/2606.06486v1)** — Explores regret minimization strategies in games with adaptive opponents, enhancing online learning.
+6. **[Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection](http://arxiv.org/abs/2606.06481v1)** — Introduces a benchmark for detecting AI-generated text in collaborative writing environments.
+7. **[DNQ: Deep Nash Q-Network for Partially Observable n-Player Games](http://arxiv.org/abs/2606.06480v1)** — Proposes a framework for decision-making in competitive environments with limited information.
+8. **[Pretraining Recurrent Networks without Recurrence](http://arxiv.org/abs/2606.06479v1)** — Suggests a novel approach to training RNNs that avoids traditional backpropagation challenges.
+9. **[RREDCoT: Segment-Level Reward Redistribution for Reasoning Models](http://arxiv.org/abs/2606.06475v1)** — Discusses reward redistribution techniques to enhance reasoning in language models.
+10. **[Self-Augmenting Retrieval for Diffusion Language Models](http://arxiv.org/abs/2606.06474v1)** — Introduces a method for generating text using discrete diffusion models through iterative denoising.
+
+#### Blog Posts
+1. **[Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)** by this.weekinsecurity.com
+2. **[Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)** by openai.com
+3. **[Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)** by arxiv.org
+4. **[Trees to Flows and Back: Unifying Decision Trees and Diffusion Models](https://arxiv.org/abs/2605.00414)** by arxiv.org
+5. **[Computex 2026: Are We Heading for the Agentic PC Era Yet?](https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/)** by eetimes.com
+6. **[If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/pdf/2605.31514)** by onbjerg
+
+#### Trending Repos
+1. **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works. ⭐ 219823
+2. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. ⭐ 113572
+3. **[santifer/career-ops](https://github.com/santifer/career-ops)** — AI-powered job search system with multiple skill modes and batch processing. ⭐ 49524
+4. **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI. ⭐ 48537
+5. **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)** — Your AI second brain for deep research and automation. ⭐ 34948
+6. **[cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)** — A list of free LLM inference resources accessible via API. ⭐ 23020
+
+</details>
+
+<details>
 <summary><strong>2026-06-06</strong></summary>
 
 #### Papers

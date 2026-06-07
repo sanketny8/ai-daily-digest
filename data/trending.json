@@ -1,118 +1,130 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "papers": [
     {
-      "title": "BRepCLIP: Contrastive Multimodal Pretraining on BRep Primitives for CAD Understanding",
-      "url": "https://arxiv.org/abs/2606.05515",
-      "summary": "Learning representations of CAD models is a largely open problem. While 3D representation learning has flourished around point clouds and meshes, the native format of CAD - boundary representations BR"
+      "title": "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
+      "url": "http://arxiv.org/abs/2606.06494v1",
+      "summary": "Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the"
     },
     {
-      "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
-      "url": "https://arxiv.org/abs/2606.06486",
-      "summary": "In this paper, we study regret minimization in repeated games with adaptive opponents who can respond based on histories of play. The standard metric of external regret in online learning is known to "
-    },
-    {
-      "title": "The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset",
-      "url": "https://arxiv.org/abs/2606.02956",
-      "summary": "Existing autonomous driving datasets have enabled major progress, but fall short in sensor fidelity, map completeness, or geographic diversity. We present KITScenes Multimodal, a European dataset buil"
-    },
-    {
-      "title": "MAOAM: Unified Object and Material Selection with Vision-Language Models",
-      "url": "https://arxiv.org/abs/2606.04880",
-      "summary": "Selection is a core operation in interactive image editing. To be practical, a user should be able to specify and disambiguate the desired selection region through either text or click-based interacti"
-    },
-    {
-      "title": "Trust Region Q Adjoint Matching",
-      "url": "https://arxiv.org/abs/2605.27079",
-      "summary": "Off-policy reinforcement learning of pretrained flow policies remains challenging due to the instability of optimization arising from the multi-step sampling process. Recently, Q-learning with Adjoint"
-    },
-    {
-      "title": "LLM Anonymization Against Agentic Re-Identification",
-      "url": "https://arxiv.org/abs/2605.30848",
-      "summary": "Agentic LLMs with web search change the threat model for text anonymization: weak contextual cues can become cross-referenceable evidence for re-identification, yet those same details also carry downs"
-    },
-    {
-      "title": "SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces",
-      "url": "https://arxiv.org/abs/2606.01317",
-      "summary": "Large language models are increasingly deployed as coding agents, shifting safety from individual responses to action sequences. Existing benchmarks, however, primarily assess whether models refuse un"
-    },
-    {
-      "title": "Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models",
-      "url": "https://arxiv.org/abs/2606.05833",
-      "summary": "Multimodal Large Language Models (MLLMs) excel at 2D semantic understanding but lack intrinsic 3D awareness, resulting in representations that fail to maintain geometric and spatial consistency across"
-    },
-    {
-      "title": "AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding",
-      "url": "https://arxiv.org/abs/2606.06155",
-      "summary": "Vision-Language-Action (VLA) models leverage the rich world knowledge of pretrained vision-language models (VLMs) to enable instruction-following robotic manipulation. However, the structural mismatch"
+      "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+      "url": "http://arxiv.org/abs/2606.06493v1",
+      "summary": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typica"
     },
     {
       "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
-      "url": "https://arxiv.org/abs/2606.06492",
+      "url": "http://arxiv.org/abs/2606.06492v1",
       "summary": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi"
+    },
+    {
+      "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
+      "url": "http://arxiv.org/abs/2606.06491v1",
+      "summary": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VL"
+    },
+    {
+      "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
+      "url": "http://arxiv.org/abs/2606.06486v1",
+      "summary": "In this paper, we study regret minimization in repeated games with \\emph{adaptive} opponents who can respond based on histories of play. The standard metric of \\emph{external regret} in online learnin"
+    },
+    {
+      "title": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
+      "url": "http://arxiv.org/abs/2606.06481v1",
+      "summary": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from prog"
+    },
+    {
+      "title": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
+      "url": "http://arxiv.org/abs/2606.06480v1",
+      "summary": "Many real-world competitive systems require multiple decision-makers to act simultaneously under shared constraints, limited information, and repeated interaction, as in auctions, resource allocation,"
+    },
+    {
+      "title": "Pretraining Recurrent Networks without Recurrence",
+      "url": "http://arxiv.org/abs/2606.06479v1",
+      "summary": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential "
+    },
+    {
+      "title": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models",
+      "url": "http://arxiv.org/abs/2606.06475v1",
+      "summary": "Recent advancements in reasoning language models have been driven by Reinforcement Learning (RL) fine-tuning. Most often, these rely on the Group Relative Policy Optimization (GRPO) algorithm or modif"
+    },
+    {
+      "title": "Self-Augmenting Retrieval for Diffusion Language Models",
+      "url": "http://arxiv.org/abs/2606.06474v1",
+      "summary": "Discrete diffusion language models generate text by iteratively denoising an entire response in parallel. At each step, they predict tentative tokens for every masked position, committing the confiden"
     }
   ],
   "blog_posts": [
     {
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "author": "blog.google"
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "author": "this.weekinsecurity.com"
     },
     {
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "url": "https://passo.uno/fine-tuning-docs-llm/",
-      "author": "passo.uno"
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering/",
+      "author": "openai.com"
     },
     {
-      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-      "url": "https://github.com/zdk/lowfat",
-      "author": "github.com"
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "author": "arxiv.org"
     },
     {
-      "title": "Lockdown Mode",
-      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
-      "author": "help.openai.com"
+      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.00414",
+      "author": "arxiv.org"
     },
     {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "author": "arstechnica.com"
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "author": "eetimes.com"
+    },
+    {
+      "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+      "url": "https://arxiv.org/pdf/2605.31514",
+      "author": "onbjerg"
     }
   ],
   "repos": [
     {
-      "name": "MemPalace/mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "stars": 53956,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "stars": 219823,
+      "language": "Shell"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "stars": 113572,
       "language": "Python"
     },
     {
-      "name": "microsoft/BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "stars": 39224,
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 49524,
+      "language": "JavaScript"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars": 48537,
       "language": "Python"
     },
     {
-      "name": "CopilotKit/CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents &amp; Generative UI. React + Angular. Makers of the AG-UI Protocol",
-      "stars": 32790,
-      "language": "TypeScript"
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 21711,
+      "name": "khoj-ai/khoj",
+      "url": "https://github.com/khoj-ai/khoj",
+      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI ",
+      "stars": 34948,
       "language": "Python"
     },
     {
-      "name": "microsoft/agent-framework",
-      "url": "https://github.com/microsoft/agent-framework",
-      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-      "stars": 11070,
+      "name": "cheahjs/free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "stars": 23020,
       "language": "Python"
     }
   ],

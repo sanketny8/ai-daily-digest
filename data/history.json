@@ -1,35 +1,4 @@
 {
-  "2026-05-07": {
-    "papers": [
-      "https://arxiv.org/abs/2605.04461",
-      "https://arxiv.org/abs/2605.04569",
-      "https://arxiv.org/abs/2605.04128",
-      "https://arxiv.org/abs/2605.03849",
-      "https://arxiv.org/abs/2605.03269",
-      "https://arxiv.org/abs/2605.04018",
-      "https://arxiv.org/abs/2605.05163",
-      "https://arxiv.org/abs/2605.05204",
-      "https://arxiv.org/abs/2604.28196",
-      "https://arxiv.org/abs/2604.20441"
-    ],
-    "blogs": [
-      "https://blog.cloudflare.com/agents-stripe-projects/",
-      "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "https://www.anthropic.com/news/higher-limits-spacex",
-      "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-      "https://sander.ai/2026/05/06/flow-maps.html",
-      "https://hfviewer.com/"
-    ],
-    "repos": [
-      "https://github.com/pytorch/pytorch",
-      "https://github.com/addyosmani/agent-skills",
-      "https://github.com/onyx-dot-app/onyx",
-      "https://github.com/hsliuping/TradingAgents-CN",
-      "https://github.com/anthropics/financial-services",
-      "https://github.com/InsForge/InsForge"
-    ]
-  },
   "2026-05-08": {
     "papers": [
       "https://arxiv.org/abs/2605.04077",
@@ -924,6 +893,36 @@
       "https://github.com/CopilotKit/CopilotKit",
       "https://github.com/Panniantong/Agent-Reach",
       "https://github.com/microsoft/agent-framework"
+    ]
+  },
+  "2026-06-07": {
+    "papers": [
+      "http://arxiv.org/abs/2606.06494v1",
+      "http://arxiv.org/abs/2606.06493v1",
+      "http://arxiv.org/abs/2606.06492v1",
+      "http://arxiv.org/abs/2606.06491v1",
+      "http://arxiv.org/abs/2606.06486v1",
+      "http://arxiv.org/abs/2606.06481v1",
+      "http://arxiv.org/abs/2606.06480v1",
+      "http://arxiv.org/abs/2606.06479v1",
+      "http://arxiv.org/abs/2606.06475v1",
+      "http://arxiv.org/abs/2606.06474v1"
+    ],
+    "blogs": [
+      "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "https://openai.com/index/harness-engineering/",
+      "https://arxiv.org/abs/2601.14470",
+      "https://arxiv.org/abs/2605.00414",
+      "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "https://arxiv.org/pdf/2605.31514"
+    ],
+    "repos": [
+      "https://github.com/obra/superpowers",
+      "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "https://github.com/santifer/career-ops",
+      "https://github.com/microsoft/VibeVoice",
+      "https://github.com/khoj-ai/khoj",
+      "https://github.com/cheahjs/free-llm-api-resources"
     ]
   }
 }
