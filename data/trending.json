@@ -1,130 +1,111 @@
 {
-  "date": "2026-06-07",
+  "date": "2026-06-08",
   "papers": [
     {
-      "title": "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
-      "url": "http://arxiv.org/abs/2606.06494v1",
-      "summary": "Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the"
+      "title": "SIA: Self Improving AI with Harness & Weight Updates",
+      "url": "https://arxiv.org/abs/2605.27276",
+      "summary": "Humans are the bottleneck in building and improving AI. Both the models and the agents that wrap them are written, tuned, and corrected by people. The long-horizon goal of an AI that can figure out ho"
     },
     {
-      "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
-      "url": "http://arxiv.org/abs/2606.06493v1",
-      "summary": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typica"
+      "title": "Streaming Video Generation with Streaming Force Control",
+      "url": "https://arxiv.org/abs/2606.07508",
+      "summary": "We introduce StreamForce, a streaming video generation framework that enables physically grounded control through continuous force inputs. Unlike prior video models that train separate models for diff"
     },
     {
-      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
-      "url": "http://arxiv.org/abs/2606.06492v1",
-      "summary": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi"
+      "title": "AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization",
+      "url": "https://arxiv.org/abs/2606.07326",
+      "summary": "Despite being a pivotal frontier, interactive world modeling remains underexplored in terms of the versatile controllability required by practical scenarios. To bridge this gap, we present AnchorWorld"
     },
     {
-      "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
-      "url": "http://arxiv.org/abs/2606.06491v1",
-      "summary": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VL"
+      "title": "MMAE: A Massive Multitask Audio Editing Benchmark",
+      "url": "https://arxiv.org/abs/2606.07229",
+      "summary": "We introduce MMAE, a Massive Multitask Audio Editing benchmark, serving as the first comprehensive evaluation testbed designed for general-purpose instruction-based audio editing. Spurred by the shift"
     },
     {
-      "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
-      "url": "http://arxiv.org/abs/2606.06486v1",
-      "summary": "In this paper, we study regret minimization in repeated games with \\emph{adaptive} opponents who can respond based on histories of play. The standard metric of \\emph{external regret} in online learnin"
+      "title": "Critic-R: Improving Agentic Search using Instruction-tuned Retrievers with Natural Language Introspective Feedback",
+      "url": "https://arxiv.org/abs/2606.00590",
+      "summary": "Agentic search systems iteratively interact with retrieval models to answer complex queries. Despite substantial progress, optimizing retrievers for agentic search remains challenging, often requiring"
     },
     {
-      "title": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
-      "url": "http://arxiv.org/abs/2606.06481v1",
-      "summary": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from prog"
+      "title": "Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors",
+      "url": "https://arxiv.org/abs/2606.06891",
+      "summary": "Despite advances in 3D scene understanding, existing 3D Large Multimodal Models operate in offline settings, requiring complete scene observations or predefined video clips. In this paper, we present "
     },
     {
-      "title": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
-      "url": "http://arxiv.org/abs/2606.06480v1",
-      "summary": "Many real-world competitive systems require multiple decision-makers to act simultaneously under shared constraints, limited information, and repeated interaction, as in auctions, resource allocation,"
+      "title": "LIMMT: Less is More for Motion Tracking",
+      "url": "https://arxiv.org/abs/2606.06953",
+      "summary": "We argue that high-quality motion data can steer tracking policies toward better optimization trajectories early in training. In this work, we introduce LIMMT (Less Is More for Motion Tracking). To ou"
     },
     {
-      "title": "Pretraining Recurrent Networks without Recurrence",
-      "url": "http://arxiv.org/abs/2606.06479v1",
-      "summary": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential "
+      "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
+      "url": "https://arxiv.org/abs/2606.07502",
+      "summary": "Large language models exhibit impressive zero-shot capabilities across a wide range of downstream tasks. However, they struggle to function as off-the-shelf embedding models, leading to suboptimal per"
     },
     {
-      "title": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models",
-      "url": "http://arxiv.org/abs/2606.06475v1",
-      "summary": "Recent advancements in reasoning language models have been driven by Reinforcement Learning (RL) fine-tuning. Most often, these rely on the Group Relative Policy Optimization (GRPO) algorithm or modif"
+      "title": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
+      "url": "https://arxiv.org/abs/2606.06476",
+      "summary": "While Vision-Language Models (VLMs) have shown strong visual reasoning capabilities, their spatial reasoning abilities remain largely constrained to the observed images and text-oriented chain-of-thou"
     },
     {
-      "title": "Self-Augmenting Retrieval for Diffusion Language Models",
-      "url": "http://arxiv.org/abs/2606.06474v1",
-      "summary": "Discrete diffusion language models generate text by iteratively denoising an entire response in parallel. At each step, they predict tentative tokens for every masked position, committing the confiden"
+      "title": "Parametric Social Identity Injection and Diversification in Public Opinion Simulation",
+      "url": "https://arxiv.org/abs/2603.16142",
+      "summary": "Large language models (LLMs) have recently been adopted as synthetic agents for public opinion simulation, offering a promising alternative to costly and slow human surveys. Despite their scalability,"
     }
   ],
   "blog_posts": [
     {
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "author": "this.weekinsecurity.com"
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "author": "github.com"
     },
     {
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
-      "author": "openai.com"
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "url": "https://github.com/devenjarvis/lathe",
+      "author": "github.com"
     },
     {
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "url": "https://arxiv.org/abs/2601.14470",
+      "title": "Efficient and Training-Free Single-Image Diffusion Models",
+      "url": "https://arxiv.org/abs/2606.04299",
       "author": "arxiv.org"
     },
     {
-      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
-      "url": "https://arxiv.org/abs/2605.00414",
-      "author": "arxiv.org"
+      "title": "How LLMs Actually Work",
+      "url": "https://0xkato.xyz/how-llms-actually-work/",
+      "author": "dgv"
     },
     {
-      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
-      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
-      "author": "eetimes.com"
-    },
-    {
-      "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-      "url": "https://arxiv.org/pdf/2605.31514",
-      "author": "onbjerg"
+      "title": "\"Terrorists?\": The Suffragette Arson and Bombing Campaign – Egham Museum",
+      "url": "https://eghammuseum.org/terrorists-the-suffragette-arson-and-bombing-campaign/",
+      "author": "eghammuseum.org"
     }
   ],
   "repos": [
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 219823,
-      "language": "Shell"
+      "name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 47665,
+      "language": "Rust"
     },
     {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
-      "stars": 113572,
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 34124,
       "language": "Python"
     },
     {
-      "name": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 49524,
-      "language": "JavaScript"
-    },
-    {
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "stars": 48537,
+      "name": "ashishpatel26/500-AI-Agents-Projects",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i",
+      "stars": 31975,
       "language": "Python"
     },
     {
-      "name": "khoj-ai/khoj",
-      "url": "https://github.com/khoj-ai/khoj",
-      "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI ",
-      "stars": 34948,
-      "language": "Python"
-    },
-    {
-      "name": "cheahjs/free-llm-api-resources",
-      "url": "https://github.com/cheahjs/free-llm-api-resources",
-      "description": "A list of free LLM inference resources accessible via API.",
-      "stars": 23020,
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars": 7536,
       "language": "Python"
     }
   ],

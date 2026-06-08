@@ -1,36 +1,4 @@
 {
-  "2026-05-08": {
-    "papers": [
-      "https://arxiv.org/abs/2605.04077",
-      "https://arxiv.org/abs/2605.04451",
-      "https://arxiv.org/abs/2605.06222",
-      "https://arxiv.org/abs/2602.00095",
-      "https://arxiv.org/abs/2605.06643",
-      "https://arxiv.org/abs/2605.06376",
-      "https://arxiv.org/abs/2605.06200",
-      "https://arxiv.org/abs/2605.06356",
-      "https://arxiv.org/abs/2605.00623",
-      "https://arxiv.org/abs/2605.04962"
-    ],
-    "blogs": [
-      "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "https://deepmind.google/blog/alphaevolve-impact/",
-      "https://www.anthropic.com/research/natural-language-autoencoders",
-      "https://arxiv.org/abs/2605.03546",
-      "https://unsloth.ai/blog/nvidia-collab",
-      "https://ahk.cardor.dev",
-      "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/",
-      "https://dev.to/devteam/congrats-to-the-openclaw-challenge-winners-1lha"
-    ],
-    "repos": [
-      "https://github.com/VectifyAI/PageIndex",
-      "https://github.com/xming521/WeClone",
-      "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "https://github.com/decolua/9router",
-      "https://github.com/Blaizzy/mlx-vlm",
-      "https://github.com/z-lab/dflash"
-    ]
-  },
   "2026-05-09": {
     "papers": [
       "https://arxiv.org/abs/2605.06663",
@@ -923,6 +891,33 @@
       "https://github.com/microsoft/VibeVoice",
       "https://github.com/khoj-ai/khoj",
       "https://github.com/cheahjs/free-llm-api-resources"
+    ]
+  },
+  "2026-06-08": {
+    "papers": [
+      "https://arxiv.org/abs/2605.27276",
+      "https://arxiv.org/abs/2606.07508",
+      "https://arxiv.org/abs/2606.07326",
+      "https://arxiv.org/abs/2606.07229",
+      "https://arxiv.org/abs/2606.00590",
+      "https://arxiv.org/abs/2606.06891",
+      "https://arxiv.org/abs/2606.06953",
+      "https://arxiv.org/abs/2606.07502",
+      "https://arxiv.org/abs/2606.06476",
+      "https://arxiv.org/abs/2603.16142"
+    ],
+    "blogs": [
+      "https://github.com/anthropics/claude-code/issues/65697",
+      "https://github.com/devenjarvis/lathe",
+      "https://arxiv.org/abs/2606.04299",
+      "https://0xkato.xyz/how-llms-actually-work/",
+      "https://eghammuseum.org/terrorists-the-suffragette-arson-and-bombing-campaign/"
+    ],
+    "repos": [
+      "https://github.com/aaif-goose/goose",
+      "https://github.com/AstrBotDevs/AstrBot",
+      "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "https://github.com/RyanCodrai/turbovec"
     ]
   }
 }

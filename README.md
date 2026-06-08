@@ -10,6 +10,36 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-08</strong></summary>
+
+#### Papers
+1. **[SIA: Self Improving AI with Harness & Weight Updates](https://arxiv.org/abs/2605.27276)** — This paper discusses how AI can autonomously improve without human intervention, addressing a critical bottleneck in AI development.
+2. **[Streaming Video Generation with Streaming Force Control](https://arxiv.org/abs/2606.07508)** — Introduces StreamForce, a framework for generating videos using continuous physical force inputs for grounded control.
+3. **[AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization](https://arxiv.org/abs/2606.07326)** — Presents a new approach to interactive world modeling, enhancing controllability for practical applications.
+4. **[MMAE: A Massive Multitask Audio Editing Benchmark](https://arxiv.org/abs/2606.07229)** — Introduces a comprehensive benchmark for instruction-based audio editing, addressing the growing demand for versatile audio tools.
+5. **[Critic-R: Improving Agentic Search using Instruction-tuned Retrievers with Natural Language Introspective Feedback](https://arxiv.org/abs/2606.00590)** — Explores optimizing retrieval models for complex queries in agentic search systems, enhancing their effectiveness.
+6. **[Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors](https://arxiv.org/abs/2606.06891)** — Proposes a method for real-time 3D scene understanding, overcoming limitations of existing offline models.
+7. **[Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators](https://arxiv.org/abs/2606.06476)** — Investigates the spatial reasoning capabilities of Vision-Language Models, aiming to enhance their performance in simulated environments.
+8. **[Parametric Social Identity Injection and Diversification in Public Opinion Simulation](https://arxiv.org/abs/2603.16142)** — Discusses using LLMs for public opinion simulations, offering a scalable alternative to traditional survey methods.
+9. **[How reliable are LLMs when it comes to playing dice?](http://arxiv.org/abs/2606.07515v1)** — Evaluates the probabilistic reasoning abilities of LLMs through a benchmarking study on discrete probability problems.
+10. **[MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism](http://arxiv.org/abs/2606.07512v1)** — Introduces a new approach to understanding long videos by separating perception from reasoning processes.
+
+#### Blog Posts
+1. **[Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697)** by github.com
+2. **[Show HN: Lathe – Use LLMs to learn a new domain, not skip past it](https://github.com/devenjarvis/lathe)** by github.com
+3. **[Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)** by arxiv.org
+4. **[How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/)** by dgv
+5. **["Terrorists?": The Suffragette Arson and Bombing Campaign – Egham Museum](https://eghammuseum.org/terrorists-the-suffragette-arson-and-bombing-campaign/)** by eghammuseum.org
+
+#### Trending Repos
+1. **[aaif-goose/goose](https://github.com/aaif-goose/goose)** — An open-source AI agent for code suggestions and execution. ⭐ 47665
+2. **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** — AI Agent Assistant integrating multiple platforms and features. ⭐ 34124
+3. **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** — A collection of AI agent use cases across various industries. ⭐ 31975
+4. **[RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)** — A vector index built on TurboQuant, with Python bindings. ⭐ 7536
+
+</details>
+
+<details>
 <summary><strong>2026-06-07</strong></summary>
 
 #### Papers
