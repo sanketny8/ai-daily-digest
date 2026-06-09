@@ -10,6 +10,35 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-09</strong></summary>
+
+#### Papers
+1. **[Cosine Misleads: Auxiliary Losses Reshape Vision Language Models, Not Their Latents](https://arxiv.org/abs/2606.05753)** — This paper explores how auxiliary losses affect vision-language models' latent representations and performance.
+2. **[Self-Evaluation Is Already There: Eliciting Latent Judge Calibration in Base LLMs with Minimal Data](https://arxiv.org/abs/2606.05122)** — Investigates if large language models can predict their own evaluation scores, finding significant existing capabilities.
+3. **[DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](https://arxiv.org/abs/2606.07299)** — Proposes a multi-agent system for complex research tasks, emphasizing iterative problem framing and evidence verification.
+4. **[Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill](https://arxiv.org/abs/2606.03980)** — Introduces a framework for reward models that integrates diverse evaluation criteria for better reinforcement learning outcomes.
+5. **[PIPE-Cypher: Automatic Enterprise Benchmark Generation for Text-to-Cypher Systems](https://arxiv.org/abs/2606.08481)** — Develops a benchmark for text-to-Cypher systems, addressing the variability in enterprise property graph schemas.
+6. **[Honest Lying: Understanding Memory Confabulation in Reflexive Agents](https://arxiv.org/abs/2605.29463)** — Examines how reflexive agents misdiagnose their failures due to reliance on self-generated reflections as memory.
+7. **[Why Muon Outperforms Adam: A Curvature Perspective](https://arxiv.org/abs/2606.04662)** — Analyzes the geometric advantages of the Muon optimizer over Adam in training large language models.
+8. **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826)** — Proposes a benchmark for evaluating vision-language model agents in gaming environments, focusing on improvement metrics.
+9. **[Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory](https://arxiv.org/abs/2606.06523)** — Discusses formal methods for ensuring reliable execution of multi-step workflows in large language models.
+10. **[Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](http://arxiv.org/abs/2606.09809v1)** — Suggests a standardized reporting framework for AI evaluation results to enhance interpretability and comparability.
+
+#### Blog Posts
+1. **[MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)** by mimo.xiaomi.com
+2. **[Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)** by macrumors.com
+3. **[Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/)** by openai.com
+4. **[🎥AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI Avatar v10: VS Code and Chrome Extension)](https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo)** by Web Developer Hyper
+5. **[My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.](https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e)** by xulingfeng
+
+#### Trending Repos
+1. **[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)** — The batteries-included agent harness. ⭐ 24229
+2. **[phuryn/pm-skills](https://github.com/phuryn/pm-skills)** — PM Skills Marketplace: 100+ agentic skills, commands, and plugins. ⭐ 12894
+3. **[google/skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies. ⭐ 12603
+
+</details>
+
+<details>
 <summary><strong>2026-06-08</strong></summary>
 
 #### Papers

@@ -1,111 +1,104 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "papers": [
     {
-      "title": "SIA: Self Improving AI with Harness & Weight Updates",
-      "url": "https://arxiv.org/abs/2605.27276",
-      "summary": "Humans are the bottleneck in building and improving AI. Both the models and the agents that wrap them are written, tuned, and corrected by people. The long-horizon goal of an AI that can figure out ho"
+      "title": "Cosine Misleads: Auxiliary Losses Reshape Vision Language Models, Not Their Latents",
+      "url": "https://arxiv.org/abs/2606.05753",
+      "summary": "Latent visual reasoning (LVR) inserts supervised latent tokens between perception and answer generation in vision-language models (VLMs). The field uses alignment between these latents and their visua"
     },
     {
-      "title": "Streaming Video Generation with Streaming Force Control",
-      "url": "https://arxiv.org/abs/2606.07508",
-      "summary": "We introduce StreamForce, a streaming video generation framework that enables physically grounded control through continuous force inputs. Unlike prior video models that train separate models for diff"
+      "title": "Self-Evaluation Is Already There: Eliciting Latent Judge Calibration in Base LLMs with Minimal Data",
+      "url": "https://arxiv.org/abs/2606.05122",
+      "summary": "Large language models are increasingly evaluated by other models, raising a natural question: can a model predict how a judge will score its own output? We find that the ability is largely present bef"
     },
     {
-      "title": "AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization",
-      "url": "https://arxiv.org/abs/2606.07326",
-      "summary": "Despite being a pivotal frontier, interactive world modeling remains underexplored in terms of the versatile controllability required by practical scenarios. To bridge this gap, we present AnchorWorld"
+      "title": "DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning",
+      "url": "https://arxiv.org/abs/2606.07299",
+      "summary": "Deep Research (DR) has emerged as a new agentic paradigm to tackle complex, open-ended research tasks, demanding systems that can iteratively frame problems, acquire evidence, verify sources, and synt"
     },
     {
-      "title": "MMAE: A Massive Multitask Audio Editing Benchmark",
-      "url": "https://arxiv.org/abs/2606.07229",
-      "summary": "We introduce MMAE, a Massive Multitask Audio Editing benchmark, serving as the first comprehensive evaluation testbed designed for general-purpose instruction-based audio editing. Spurred by the shift"
+      "title": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
+      "url": "https://arxiv.org/abs/2606.03980",
+      "summary": "Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relie"
     },
     {
-      "title": "Critic-R: Improving Agentic Search using Instruction-tuned Retrievers with Natural Language Introspective Feedback",
-      "url": "https://arxiv.org/abs/2606.00590",
-      "summary": "Agentic search systems iteratively interact with retrieval models to answer complex queries. Despite substantial progress, optimizing retrievers for agentic search remains challenging, often requiring"
+      "title": "PIPE-Cypher: Automatic Enterprise Benchmark Generation for Text-to-Cypher Systems",
+      "url": "https://arxiv.org/abs/2606.08481",
+      "summary": "Enterprise property graphs vary widely in schema structure, internal terminology, domain assumptions, governance constraints, and user interaction patterns. A deployment-relevant Text2Cypher benchmark"
     },
     {
-      "title": "Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors",
-      "url": "https://arxiv.org/abs/2606.06891",
-      "summary": "Despite advances in 3D scene understanding, existing 3D Large Multimodal Models operate in offline settings, requiring complete scene observations or predefined video clips. In this paper, we present "
+      "title": "Honest Lying: Understanding Memory Confabulation in Reflexive Agents",
+      "url": "https://arxiv.org/abs/2605.29463",
+      "summary": "Reflexion-style agents rely on self-generated reflections as memory, implicitly assuming that agents can accurately diagnose their own failures. We show that this assumption can fail systematically: a"
     },
     {
-      "title": "LIMMT: Less is More for Motion Tracking",
-      "url": "https://arxiv.org/abs/2606.06953",
-      "summary": "We argue that high-quality motion data can steer tracking policies toward better optimization trajectories early in training. In this work, we introduce LIMMT (Less Is More for Motion Tracking). To ou"
+      "title": "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing",
+      "url": "https://arxiv.org/abs/2606.09811",
+      "summary": "World-action models have emerged as a promising paradigm for robot manipulation, jointly modeling visual scene dynamics and actions to inject physical priors into policy learning. However, existing wo"
     },
     {
-      "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
-      "url": "https://arxiv.org/abs/2606.07502",
-      "summary": "Large language models exhibit impressive zero-shot capabilities across a wide range of downstream tasks. However, they struggle to function as off-the-shelf embedding models, leading to suboptimal per"
+      "title": "Why Muon Outperforms Adam: A Curvature Perspective",
+      "url": "https://arxiv.org/abs/2606.04662",
+      "summary": "Muon improves training efficiency over Adam in large language-model training by about two times, but the local geometric source of this advantage remains unclear. Our work takes a first step toward de"
     },
     {
-      "title": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
-      "url": "https://arxiv.org/abs/2606.06476",
-      "summary": "While Vision-Language Models (VLMs) have shown strong visual reasoning capabilities, their spatial reasoning abilities remain largely constrained to the observed images and text-oriented chain-of-thou"
+      "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+      "url": "https://arxiv.org/abs/2606.09826",
+      "summary": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, "
     },
     {
-      "title": "Parametric Social Identity Injection and Diversification in Public Opinion Simulation",
-      "url": "https://arxiv.org/abs/2603.16142",
-      "summary": "Large language models (LLMs) have recently been adopted as synthetic agents for public opinion simulation, offering a promising alternative to costly and slow human surveys. Despite their scalability,"
+      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+      "url": "https://arxiv.org/abs/2606.06523",
+      "summary": "Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most a"
     }
   ],
   "blog_posts": [
     {
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
-      "author": "github.com"
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "author": "mimo.xiaomi.com"
     },
     {
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "url": "https://github.com/devenjarvis/lathe",
-      "author": "github.com"
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "author": "macrumors.com"
     },
     {
-      "title": "Efficient and Training-Free Single-Image Diffusion Models",
-      "url": "https://arxiv.org/abs/2606.04299",
-      "author": "arxiv.org"
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "author": "openai.com"
     },
     {
-      "title": "How LLMs Actually Work",
-      "url": "https://0xkato.xyz/how-llms-actually-work/",
-      "author": "dgv"
+      "title": "🎥AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI Avatar v10: VS Code and Chrome Extension)",
+      "url": "https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo",
+      "author": "Web Developer Hyper"
     },
     {
-      "title": "\"Terrorists?\": The Suffragette Arson and Bombing Campaign – Egham Museum",
-      "url": "https://eghammuseum.org/terrorists-the-suffragette-arson-and-bombing-campaign/",
-      "author": "eghammuseum.org"
+      "title": "My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.",
+      "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e",
+      "author": "xulingfeng"
     }
   ],
   "repos": [
     {
-      "name": "aaif-goose/goose",
-      "url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": 47665,
-      "language": "Rust"
-    },
-    {
-      "name": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 34124,
+      "name": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "description": "The batteries-included agent harness.",
+      "stars": 24229,
       "language": "Python"
     },
     {
-      "name": "ashishpatel26/500-AI-Agents-Projects",
-      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
-      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i",
-      "stars": 31975,
-      "language": "Python"
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "stars": 12894,
+      "language": ""
     },
     {
-      "name": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "stars": 7536,
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": 12603,
       "language": "Python"
     }
   ],

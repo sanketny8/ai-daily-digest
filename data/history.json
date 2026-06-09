@@ -1,35 +1,4 @@
 {
-  "2026-05-09": {
-    "papers": [
-      "https://arxiv.org/abs/2605.06663",
-      "https://arxiv.org/abs/2605.06627",
-      "https://arxiv.org/abs/2605.06642",
-      "https://arxiv.org/abs/2605.06477",
-      "https://arxiv.org/abs/2605.01640",
-      "https://arxiv.org/abs/2605.04604",
-      "https://arxiv.org/abs/2605.05242",
-      "https://arxiv.org/abs/2605.04045",
-      "https://arxiv.org/abs/2605.05758",
-      "https://arxiv.org/abs/2605.04330"
-    ],
-    "blogs": [
-      "https://moq.dev/blog/webrtc-is-the-problem/",
-      "https://openrouter.ai/announcements/gpt55-cost-analysis",
-      "https://www.anthropic.com/research/teaching-claude-why",
-      "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-      "https://github.com/regent-vcs/re_gent",
-      "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-      "https://joel.place/blog/path-not-taken/",
-      "https://dev.to/aws/i-built-my-mom-an-ai-recipe-helper-for-mothers-day-2hc5"
-    ],
-    "repos": [
-      "https://github.com/PaddlePaddle/PaddleOCR",
-      "https://github.com/lobehub/lobehub",
-      "https://github.com/anthropics/claude-plugins-official",
-      "https://github.com/vllm-project/vllm-ascend",
-      "https://github.com/awslabs/aidlc-workflows"
-    ]
-  },
   "2026-05-10": {
     "papers": [
       "http://arxiv.org/abs/2605.06667v1",
@@ -918,6 +887,32 @@
       "https://github.com/AstrBotDevs/AstrBot",
       "https://github.com/ashishpatel26/500-AI-Agents-Projects",
       "https://github.com/RyanCodrai/turbovec"
+    ]
+  },
+  "2026-06-09": {
+    "papers": [
+      "https://arxiv.org/abs/2606.05753",
+      "https://arxiv.org/abs/2606.05122",
+      "https://arxiv.org/abs/2606.07299",
+      "https://arxiv.org/abs/2606.03980",
+      "https://arxiv.org/abs/2606.08481",
+      "https://arxiv.org/abs/2605.29463",
+      "https://arxiv.org/abs/2606.09811",
+      "https://arxiv.org/abs/2606.04662",
+      "https://arxiv.org/abs/2606.09826",
+      "https://arxiv.org/abs/2606.06523"
+    ],
+    "blogs": [
+      "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "https://openai.com/index/openai-submits-confidential-s-1/",
+      "https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo",
+      "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"
+    ],
+    "repos": [
+      "https://github.com/langchain-ai/deepagents",
+      "https://github.com/phuryn/pm-skills",
+      "https://github.com/google/skills"
     ]
   }
 }
