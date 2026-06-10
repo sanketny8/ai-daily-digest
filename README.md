@@ -10,6 +10,34 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-10</strong></summary>
+
+#### Papers
+1. **[Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts](https://arxiv.org/abs/2606.05922)** — This paper discusses enhancing AI agents' performance by optimizing their skill harnesses for complex problem-solving.
+2. **[Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization](https://arxiv.org/abs/2606.11180)** — Introduces a method for real-time lip synchronization using fewer denoising steps, improving practicality in applications.
+3. **[Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](https://arxiv.org/abs/2606.11176)** — Proposes an AI agent that converts raw data into trustworthy, engaging stories for non-experts.
+4. **[WorldOlympiad: Can Your World Model Survive a Triathlon?](https://arxiv.org/abs/2606.11129)** — Presents a benchmark for evaluating video-based world models on physical and interaction fidelity.
+5. **[Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It](https://arxiv.org/abs/2606.11052)** — Investigates how fine-tuning affects long-context recall in hybrid models and proposes solutions.
+6. **[EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents](https://arxiv.org/abs/2606.11182)** — Introduces a framework for enabling real-world test-time learning in LLM agents across multiple datasets.
+7. **[SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research](https://arxiv.org/abs/2606.09730)** — Discusses enhancing LLMs' capabilities to manage complex, long-term research tasks despite finite context windows.
+8. **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](http://arxiv.org/abs/2606.11190v1)** — Analyzes the conditions under which cross-modal alignment and prediction succeed in multimodal learning.
+9. **[The Role of Feedback Alignment in Self-Distillation](http://arxiv.org/abs/2606.11173v1)** — Explores how feedback improves language model responses and the effectiveness of self-distillation.
+10. **[Flaws in the LLM Automation Narrative](http://arxiv.org/abs/2606.11166v1)** — Critiques the narrative that LLMs perform at human expert levels, highlighting benchmarking limitations.
+
+#### Blog Posts
+1. **[Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)** by anthropic.com
+2. **[Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184)** by arxiv.org
+3. **[Self-hosting email the hard way from your own routable IPv4 block up](https://anil.recoil.org/notes/recoil-self-hosting-2026)** by ryangibb
+4. **[The 'Prompt' Is Not a Skill — And We Need to Stop Pretending](https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18)** by Harsh
+
+#### Trending Repos
+1. **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** — Comprehensive collection of AI tools and prompts. ⭐ 139263
+2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents. ⭐ 49984
+3. **[anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review)** — AI-powered security review tool for analyzing code changes. ⭐ 5163
+
+</details>
+
+<details>
 <summary><strong>2026-06-09</strong></summary>
 
 #### Papers

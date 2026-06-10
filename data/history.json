@@ -1,29 +1,4 @@
 {
-  "2026-05-10": {
-    "papers": [
-      "http://arxiv.org/abs/2605.06667v1",
-      "http://arxiv.org/abs/2605.06665v1",
-      "http://arxiv.org/abs/2605.06664v1",
-      "http://arxiv.org/abs/2605.06663v1",
-      "http://arxiv.org/abs/2605.06660v1",
-      "http://arxiv.org/abs/2605.06656v1",
-      "http://arxiv.org/abs/2605.06654v1",
-      "http://arxiv.org/abs/2605.06652v1",
-      "http://arxiv.org/abs/2605.06651v1",
-      "http://arxiv.org/abs/2605.06650v1"
-    ],
-    "blogs": [
-      "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "https://mojolang.org/releases/v1.0.0b1",
-      "https://wil.to/posts/googles-prompt-api/",
-      "https://medium.com/@sakti.bagchi/the-builders-toolkit-ai-skills-every-developer-needs-in-2026-84d4f0fb5936"
-    ],
-    "repos": [
-      "https://github.com/hesreallyhim/awesome-claude-code",
-      "https://github.com/bytedance/UI-TARS-desktop",
-      "https://github.com/anthropics/claude-agent-sdk-python"
-    ]
-  },
   "2026-05-11": {
     "papers": [
       "https://arxiv.org/abs/2605.00425",
@@ -913,6 +888,33 @@
       "https://github.com/langchain-ai/deepagents",
       "https://github.com/phuryn/pm-skills",
       "https://github.com/google/skills"
+    ]
+  },
+  "2026-06-10": {
+    "papers": [
+      "https://arxiv.org/abs/2606.05922",
+      "https://arxiv.org/abs/2606.11180",
+      "https://arxiv.org/abs/2606.11025",
+      "https://arxiv.org/abs/2606.11176",
+      "https://arxiv.org/abs/2606.11129",
+      "https://arxiv.org/abs/2606.11052",
+      "https://arxiv.org/abs/2606.09821",
+      "https://arxiv.org/abs/2606.11182",
+      "https://arxiv.org/abs/2606.09730",
+      "https://arxiv.org/abs/2606.10572"
+    ],
+    "blogs": [
+      "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "https://arxiv.org/abs/2605.15184",
+      "https://arxiv.org/abs/2604.19773",
+      "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+      "https://twitter.com/i/status/2064399902684139852",
+      "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18"
+    ],
+    "repos": [
+      "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "https://github.com/addyosmani/agent-skills",
+      "https://github.com/anthropics/claude-code-security-review"
     ]
   }
 }
