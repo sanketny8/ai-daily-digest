@@ -1,109 +1,145 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "papers": [
     {
-      "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts",
-      "url": "https://arxiv.org/abs/2606.05922",
-      "summary": "AI agents rely on a harness of skills, tools, and workflows to solve complex problems. Continually improving this harness is essential for adapting to new tasks. However, existing optimization methods"
+      "title": "EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.03108",
+      "summary": "Autonomous LLM training is often framed as recipe search, which leaves the training harness largely static. This limitation sharpens in agentic RL, where shifting bottlenecks and scalar rewards mask d"
     },
     {
-      "title": "Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization",
-      "url": "https://arxiv.org/abs/2606.11180",
-      "summary": "Diffusion-based lip synchronization models achieve strong visual quality and audio-visual alignment, but full-sequence bidirectional attention and many denoising steps make them impractical for real-t"
+      "title": "Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2606.11683",
+      "summary": "Spatial reasoning from egocentric videos is inherently challenging because the observable evidence is constrained by the camera trajectory. Existing methods rely on single-turn inference, forcing mode"
     },
     {
-      "title": "Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models",
-      "url": "https://arxiv.org/abs/2606.11025",
-      "summary": "Recent work has demonstrated that online reinforcement learning (RL) can substantially improve the quality and alignment of flow matching models for image and video generation. Methods such as Flow-GR"
+      "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
+      "url": "https://arxiv.org/abs/2606.12397",
+      "summary": "Router is the cornerstone component to the Mixture-of-Experts models. Serving as expert proxies, the rows of the router matrix compute their similarity to the MoE inputs to determine which subset of e"
     },
     {
-      "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
-      "url": "https://arxiv.org/abs/2606.11176",
-      "summary": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for con"
+      "title": "Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks",
+      "url": "https://arxiv.org/abs/2606.12344",
+      "summary": "General-purpose agents such as OpenClaw are increasingly used as autonomous tool users, but their coding ability is difficult to measure under SWE-bench: a generic agent does not by itself satisfy the"
     },
     {
-      "title": "WorldOlympiad: Can Your World Model Survive a Triathlon?",
-      "url": "https://arxiv.org/abs/2606.11129",
-      "summary": "We introduce WorldOlympiad, a benchmark for diagnosing video-based world models across physical faithfulness, geometric consistency, and interaction fidelity. While existing benchmarks often focus on "
+      "title": "ComBench: A Benchmark for Rigorous Proof Reasoning and Constructive Realization in Olympiad-Level Combinatorics",
+      "url": "https://arxiv.org/abs/2606.10479",
+      "summary": "Combinatorics is central to Olympiad-level mathematical problem solving, requiring deep discrete reasoning, creative constructions, and rigorous structural insight. Recent evidence suggests that even "
     },
     {
-      "title": "Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It",
-      "url": "https://arxiv.org/abs/2606.11052",
-      "summary": "Chain-of-thought (CoT) supervised fine-tuning (SFT) is widely adopted to improve reasoning ability, yet we find that it systematically degrades long-context recall in hybrid linear-attention models. A"
+      "title": "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement",
+      "url": "https://arxiv.org/abs/2606.11926",
+      "summary": "Scientific progress depends on a repeated loop of exploration, experimentation, and abstraction. Researchers test candidate directions, interpret the evidence, and carry the resulting lessons into lat"
     },
     {
-      "title": "Rethinking the Divergence Regularization in LLM RL",
-      "url": "https://arxiv.org/abs/2606.09821",
-      "summary": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy stalenes"
+      "title": "TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders",
+      "url": "https://arxiv.org/abs/2606.09323",
+      "summary": "Tabular encoders are usually evaluated inside task-specific end-to-end pipelines, so models from different training paradigms are difficult to compare directly even when they operate on similar tabula"
     },
     {
-      "title": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
-      "url": "https://arxiv.org/abs/2606.11182",
-      "summary": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are larg"
+      "title": "Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization",
+      "url": "https://arxiv.org/abs/2606.12373",
+      "summary": "Reinforcement Learning (RL) with verifiable environments has emerged as a powerful approach for enhancing the reasoning capabilities of Large Language Models (LLMs). While prior research demonstrates "
     },
     {
-      "title": "SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research",
-      "url": "https://arxiv.org/abs/2606.09730",
-      "summary": "Large language models are increasingly expected to handle complex, long-horizon real-world tasks whose context demands can grow without bound, yet model context windows remain inherently finite. Recen"
+      "title": "Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions",
+      "url": "https://arxiv.org/abs/2606.09076",
+      "summary": "Reward models are central to text-to-image post-training, but visual preference is subjective and better represented as a distribution over rubric scores than as a deterministic scalar. Existing scala"
     },
     {
-      "title": "One Token per Multimodal Evidence: Latent Memory for Resource-Constrained QA",
-      "url": "https://arxiv.org/abs/2606.10572",
-      "summary": "External memory effectively grounds large language models (LLMs) and vision-language models (VLMs)-based question answering (QA) in relevant multimodal evidence. However, existing memory paradigms rep"
+      "title": "Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",
+      "url": "https://arxiv.org/abs/2606.12191",
+      "summary": "Environments serve as interactive systems for large language model (LLM) based agents across diverse scenarios and play a crucial role in driving the continual evolution of model capabilities. Despite"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "author": "anthropic.com"
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "author": "github.com"
     },
     {
-      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-      "url": "https://arxiv.org/abs/2605.15184",
-      "author": "arxiv.org"
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "author": "techcrunch.com"
     },
     {
-      "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
-      "url": "https://arxiv.org/abs/2604.19773",
-      "author": "arxiv.org"
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "author": "support.claude.com"
     },
     {
-      "title": "Self-hosting email the hard way from your own routable IPv4 block up",
-      "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
-      "author": "ryangibb"
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "author": "lwn.net"
     },
     {
-      "title": "Claude Fable 5 will sabotage \"frontier LLM research\" tasks",
-      "url": "https://twitter.com/i/status/2064399902684139852",
-      "author": "twitter.com"
+      "title": "Anthropic's model naming, extrapolated",
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "author": "samwilkinson.io"
     },
     {
-      "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
-      "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-      "author": "Harsh "
+      "title": "DiffusionGemma: 4x Faster Text Generation",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "author": "blog.google"
+    },
+    {
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "author": "burr.apache.org"
+    },
+    {
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "author": "blue41.com"
+    },
+    {
+      "title": "Show HN: HelixDB – A graph database built on object storage",
+      "url": "https://github.com/HelixDB/helix-db/tree/main",
+      "author": "github.com"
     }
   ],
   "repos": [
     {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V",
-      "stars": 139263,
-      "language": ""
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi",
+      "stars": 49980,
+      "language": "Python"
     },
     {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 49984,
-      "language": "Shell"
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "stars": 32178,
+      "language": "Python"
     },
     {
-      "name": "anthropics/claude-code-security-review",
-      "url": "https://github.com/anthropics/claude-code-security-review",
-      "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.",
-      "stars": 5163,
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars": 30250,
+      "language": "Swift"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 27917,
+      "language": "Python"
+    },
+    {
+      "name": "comet-ml/opik",
+      "url": "https://github.com/comet-ml/opik",
+      "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+      "stars": 19569,
+      "language": "Python"
+    },
+    {
+      "name": "ml-explore/mlx-examples",
+      "url": "https://github.com/ml-explore/mlx-examples",
+      "description": "Examples in the MLX framework",
+      "stars": 8714,
       "language": "Python"
     }
   ],

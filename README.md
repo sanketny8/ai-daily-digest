@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-11</strong></summary>
+
+#### Papers
+1. **[EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning](https://arxiv.org/abs/2606.03108)** — This paper explores dynamic training harnesses for LLMs in reinforcement learning, enhancing agentic capabilities.
+2. **[Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning](https://arxiv.org/abs/2606.11683)** — It presents a method to improve spatial reasoning in videos by revisiting evidence from multiple perspectives.
+3. **[Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)** — This benchmark evaluates the coding capabilities of general-purpose agents like OpenClaw, addressing measurement challenges.
+4. **[Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://arxiv.org/abs/2606.11926)** — The study proposes a framework for autonomous research that enhances scientific exploration and hypothesis testing.
+5. **[Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization](https://arxiv.org/abs/2606.12373)** — This paper discusses using verifiable environments to improve reasoning in reinforcement learning applications.
+6. **[Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions](https://arxiv.org/abs/2606.09076)** — It suggests representing visual preferences as score distributions rather than deterministic values for better model training.
+7. **[Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](https://arxiv.org/abs/2606.12191)** — This survey examines the role of environments in enhancing LLM capabilities across various applications.
+8. **[Doc-to-Atom: Learning to Compile and Compose Memory Atoms](http://arxiv.org/abs/2606.12400v1)** — The paper addresses the challenges of long input sequences in LLMs by introducing a new memory management technique.
+9. **[TAHOE: Text-to-SQL with Automated Hint Optimization from Experience](http://arxiv.org/abs/2606.12387v1)** — This research focuses on improving Text-to-SQL systems through automated optimization based on user experience.
+10. **[Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs](http://arxiv.org/abs/2606.12385v1)** — The paper investigates the hidden dependencies in LLM training processes, emphasizing the need for transparency.
+
+#### Blog Posts
+1. **[Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use](https://github.com/anthropics/claude-code/issues/29045)** by github.com
+2. **[Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)** by techcrunch.com
+3. **[AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)** by lwn.net
+4. **[DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)** by blog.google
+5. **[A €0.01 bank transfer could compromise a banking AI agent](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)** by blue41.com
+
+#### Trending Repos
+1. **[BerriAI/litellm](https://github.com/BerriAI/litellm)** — Python SDK for accessing 100+ LLM APIs with cost tracking and load balancing. ⭐ 49980
+2. **[soxoj/maigret](https://github.com/soxoj/maigret)** — Tool to collect dossiers on individuals from over 3000 websites. ⭐ 32178
+3. **[apple/container](https://github.com/apple/container)** — Tool for creating and running Linux containers on Mac using lightweight VMs. ⭐ 30250
+4. **[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code. ⭐ 27917
+5. **[comet-ml/opik](https://github.com/comet-ml/opik)** — Debug and monitor LLM applications with automated evaluations and dashboards. ⭐ 19569
+6. **[ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples)** — Examples in the MLX framework for machine learning. ⭐ 8714
+
+</details>
+
+<details>
 <summary><strong>2026-06-10</strong></summary>
 
 #### Papers

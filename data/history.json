@@ -1,30 +1,4 @@
 {
-  "2026-05-11": {
-    "papers": [
-      "https://arxiv.org/abs/2605.00425",
-      "https://arxiv.org/abs/2605.08043",
-      "https://arxiv.org/abs/2605.07243",
-      "https://arxiv.org/abs/2605.07748",
-      "https://arxiv.org/abs/2605.05136",
-      "https://arxiv.org/abs/2605.05781",
-      "https://arxiv.org/abs/2605.07177",
-      "https://arxiv.org/abs/2605.07825",
-      "https://arxiv.org/abs/2605.08063",
-      "https://arxiv.org/abs/2605.07915"
-    ],
-    "blogs": [
-      "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-      "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "https://arxiv.org/abs/2605.05419",
-      "https://medium.com/@tuanvietle/agent-skills-enterprise-ai-4427896100c1"
-    ],
-    "repos": [
-      "https://github.com/affaan-m/everything-claude-code",
-      "https://github.com/NousResearch/hermes-agent",
-      "https://github.com/HKUDS/AI-Trader",
-      "https://github.com/zai-org/GLM-OCR"
-    ]
-  },
   "2026-05-12": {
     "papers": [
       "https://arxiv.org/abs/2605.01402",
@@ -915,6 +889,39 @@
       "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "https://github.com/addyosmani/agent-skills",
       "https://github.com/anthropics/claude-code-security-review"
+    ]
+  },
+  "2026-06-11": {
+    "papers": [
+      "https://arxiv.org/abs/2606.03108",
+      "https://arxiv.org/abs/2606.11683",
+      "https://arxiv.org/abs/2606.12397",
+      "https://arxiv.org/abs/2606.12344",
+      "https://arxiv.org/abs/2606.10479",
+      "https://arxiv.org/abs/2606.11926",
+      "https://arxiv.org/abs/2606.09323",
+      "https://arxiv.org/abs/2606.12373",
+      "https://arxiv.org/abs/2606.09076",
+      "https://arxiv.org/abs/2606.12191"
+    ],
+    "blogs": [
+      "https://github.com/anthropics/claude-code/issues/29045",
+      "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "https://burr.apache.org/",
+      "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "https://github.com/HelixDB/helix-db/tree/main"
+    ],
+    "repos": [
+      "https://github.com/BerriAI/litellm",
+      "https://github.com/soxoj/maigret",
+      "https://github.com/apple/container",
+      "https://github.com/davila7/claude-code-templates",
+      "https://github.com/comet-ml/opik",
+      "https://github.com/ml-explore/mlx-examples"
     ]
   }
 }
