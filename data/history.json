@@ -1,35 +1,4 @@
 {
-  "2026-05-12": {
-    "papers": [
-      "https://arxiv.org/abs/2605.01402",
-      "https://arxiv.org/abs/2605.08520",
-      "https://arxiv.org/abs/2605.09820",
-      "https://arxiv.org/abs/2605.08735",
-      "https://arxiv.org/abs/2605.07465",
-      "https://arxiv.org/abs/2605.09423",
-      "https://arxiv.org/abs/2605.10730",
-      "https://arxiv.org/abs/2604.23789",
-      "https://arxiv.org/abs/2605.10923",
-      "https://arxiv.org/abs/2605.10813"
-    ],
-    "blogs": [
-      "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "https://thinkingmachines.ai/blog/interaction-models/",
-      "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "https://github.com/adamjgmiller/adamsreview",
-      "https://dev.to/hadil/how-to-secure-ai-agents-in-production-what-mcp-gets-right-and-what-it-doesnt-1d12",
-      "https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j",
-      "https://github.com/Mnexa-AI/e2a"
-    ],
-    "repos": [
-      "https://github.com/rasbt/LLMs-from-scratch",
-      "https://github.com/yikart/AiToEarn",
-      "https://github.com/huggingface/skills",
-      "https://github.com/bytedance/UI-TARS",
-      "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-      "https://github.com/millionco/react-doctor"
-    ]
-  },
   "2026-05-13": {
     "papers": [
       "https://arxiv.org/abs/2605.12013",
@@ -922,6 +891,36 @@
       "https://github.com/davila7/claude-code-templates",
       "https://github.com/comet-ml/opik",
       "https://github.com/ml-explore/mlx-examples"
+    ]
+  },
+  "2026-06-12": {
+    "papers": [
+      "https://arxiv.org/abs/2606.13392",
+      "https://arxiv.org/abs/2606.09290",
+      "https://arxiv.org/abs/2606.09304",
+      "https://arxiv.org/abs/2606.08063",
+      "https://arxiv.org/abs/2606.13120",
+      "https://arxiv.org/abs/2606.08788",
+      "https://arxiv.org/abs/2606.13681",
+      "https://arxiv.org/abs/2606.08039",
+      "https://arxiv.org/abs/2606.13106",
+      "https://arxiv.org/abs/2606.12674"
+    ],
+    "blogs": [
+      "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "https://tonedear.com/",
+      "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+      "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+      "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "https://briandouglas.ie/llm-tailwind-template/",
+      "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8"
+    ],
+    "repos": [
+      "https://github.com/msitarzewski/agency-agents",
+      "https://github.com/chatwoot/chatwoot",
+      "https://github.com/onyx-dot-app/onyx",
+      "https://github.com/anthropics/claude-plugins-official",
+      "https://github.com/mlflow/mlflow"
     ]
   }
 }

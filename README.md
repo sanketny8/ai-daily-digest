@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-12</strong></summary>
+
+#### Papers
+1. **[MiniMax Sparse Attention](https://arxiv.org/abs/2606.13392)** — This paper discusses enhancing ultra-long-context capabilities in large language models for various applications.
+2. **[Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning](https://arxiv.org/abs/2606.09290)** — Proposes a framework to improve visual reasoning by integrating evidence across multiple dimensions.
+3. **[SG-OPD: Sign-Gated On-Policy Distillation via Sign-Consistency Gating and Phased Teacher Sampling](https://arxiv.org/abs/2606.09304)** — Introduces a method for training models on their own trajectories, improving performance over traditional approaches.
+4. **[Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Robust Understanding?](https://arxiv.org/abs/2606.08063)** — Explores how multimodal large language models can recover from real-world visual corruptions.
+5. **[EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge](https://arxiv.org/abs/2606.13120)** — Proposes new benchmarks for evaluating search agents that utilize evolving knowledge.
+6. **[EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](https://arxiv.org/abs/2606.13681)** — Discusses the need for LLM agents to adapt in dynamic environments rather than static evaluations.
+7. **[MuJoCo-Drones-Gym: A GPU-Accelerated Multi-Drone Simulator for Control and Reinforcement Learning](https://arxiv.org/abs/2606.08039)** — Introduces a simulator for aerial robotics, enhancing control algorithm development and reinforcement learning.
+8. **[Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1)** — Investigates improving reasoning in models through analogy and external knowledge retrieval.
+9. **[EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1)** — Highlights the potential of LLM agents in automating scientific discovery through optimized environments.
+10. **[HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents](http://arxiv.org/abs/2606.13663v1)** — Proposes a new approach for tool-augmented agents to enhance their operational efficiency.
+
+#### Blog Posts
+1. **[Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)** by theverge.com
+2. **[Build a Basic AI Agent from Scratch: Long Task Planning](https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d)** by medium.com
+3. **[OpenAI mulls slashing prices as it competes with Anthropic for users](https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html)** by cnbc.com
+4. **[AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)** by lantian.pub
+5. **[Tailwind and slop apps](https://briandouglas.ie/llm-tailwind-template/)** by briandouglas.ie
+6. **[My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.](https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8)** by Greg Baugues
+
+#### Trending Repos
+1. **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips. ⭐ 111794
+2. **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** — Open-source live-chat and email support platform. ⭐ 30455
+3. **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform with advanced chat features. ⭐ 30262
+4. **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official directory of high-quality Claude Code Plugins. ⭐ 29946
+5. **[mlflow/mlflow](https://github.com/mlflow/mlflow)** — Open source AI engineering platform for agents and ML models. ⭐ 26452
+
+</details>
+
+<details>
 <summary><strong>2026-06-11</strong></summary>
 
 #### Papers
