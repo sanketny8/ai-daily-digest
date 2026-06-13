@@ -1,128 +1,92 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "papers": [
     {
-      "title": "MiniMax Sparse Attention",
-      "url": "https://arxiv.org/abs/2606.13392",
-      "summary": "Ultra-long-context capability is becoming indispensable for frontier LLMs: agentic workflows, repository-scale code reasoning, and persistent memory all require the model to jointly attend over hundre"
+      "title": "On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annotation Task Performance",
+      "url": "https://arxiv.org/abs/2606.00467",
+      "summary": "Large Language Models (LLMs) are increasingly used for zero-shot annotation and LLM-as-a-judge tasks, yet their reliability hinges on how model-internalized priors interact with user-provided instruct"
     },
     {
-      "title": "Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning",
-      "url": "https://arxiv.org/abs/2606.09290",
-      "summary": "Visual reasoning requires integrating evidence distributed across regions, attributes, and relations, making single-chain reasoning prone to early perceptual commitment and hallucination. We propose V"
+      "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
+      "url": "https://arxiv.org/abs/2606.12730",
+      "summary": "Anticipating LLM behavioral tendencies from low-cost psychometric probes is critical for safe deployment, but only if self-reports (SR) reliably predict behavior. Recent work documented substantial SR"
     },
     {
-      "title": "SG-OPD: Sign-Gated On-Policy Distillation via Sign-Consistency Gating and Phased Teacher Sampling",
-      "url": "https://arxiv.org/abs/2606.09304",
-      "summary": "On-policy distillation (OPD) trains a student on its own trajectories with dense per-token supervision from a stronger teacher, and often outperforms off-policy distillation and standard reinforcement"
+      "title": "See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents",
+      "url": "https://arxiv.org/abs/2606.13594",
+      "summary": "Multi-agent systems communicate mostly through text, paying a lossy and expensive decode and re-encode cost. KV-cache communication is a promising alternative, yet most prior work is homogeneous, usin"
     },
     {
-      "title": "Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Robust Understanding?",
-      "url": "https://arxiv.org/abs/2606.08063",
-      "summary": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable success in visual understanding, yet their performance degrades significantly under real-world visual corruptions. While existing "
+      "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents",
+      "url": "https://arxiv.org/abs/2606.13174",
+      "summary": "Interactive LLM agents are becoming part of daily work, but they do not reliably become easier to work with over time: a correction remembered in one session may still be violated in the next. We stud"
     },
     {
-      "title": "EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge",
-      "url": "https://arxiv.org/abs/2606.13120",
-      "summary": "Search Agents -- large language models augmented with search tools -- have intensified the need for future-proof evaluation benchmarks. Existing benchmarks such as BrowseComp rely on static knowledge,"
+      "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent",
+      "url": "https://arxiv.org/abs/2606.10423",
+      "summary": "Autonomous web navigation remains challenging for LLM agents, and the strongest generalist systems rely on proprietary reasoning models whose inference cost is prohibitive for the repetitive tasks whe"
     },
     {
-      "title": "MaskAlign: Token-Subset Representation Alignment for Efficient Diffusion Training",
-      "url": "https://arxiv.org/abs/2606.08788",
-      "summary": "Representation alignment with pretrained vision models has recently shown strong potential for accelerating diffusion transformer training. By aligning intermediate diffusion features with clean-image"
+      "title": "The Cold-Start Safety Gap in LLM Agents",
+      "url": "https://arxiv.org/abs/2606.07867",
+      "summary": "Are tool-calling LLM agents equally safe throughout a conversation? We discover they are not: agents are most vulnerable at the very start of a session and become substantially safer after a few regul"
     },
     {
-      "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
-      "url": "https://arxiv.org/abs/2606.13681",
-      "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna"
+      "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models",
+      "url": "https://arxiv.org/abs/2606.11409",
+      "summary": "Adversarial robustness evaluations of large language models (LLMs) typically report attack success rate (ASR) under fixed query budgets, implicitly treating all attacks as equally costly. In practice,"
     },
     {
-      "title": "MuJoCo-Drones-Gym: A GPU-Accelerated Multi-Drone Simulator for Control and Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.08039",
-      "summary": "Robotic simulators are a cornerstone of modern research in aerial robotics, serving both as a vehicle for the development of new control algorithms and as the data source for training reinforcement le"
+      "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+      "url": "https://arxiv.org/abs/2606.12451",
+      "summary": "Large language models deployed as agents over large tool catalogs face a critical tool-retrieval bottleneck. As embedding-based retrieval approaches rely on compact encoders that may under-capture spe"
     },
     {
-      "title": "Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.13106",
-      "summary": "Latent chain-of-thought compresses reasoning by replacing visible reasoning traces with continuous hidden-state recurrence, but existing formulations are difficult to optimize with standard on-policy "
+      "title": "A Stationary (and Therefore Compatible) Representation is All You Need",
+      "url": "https://arxiv.org/abs/2606.12488",
+      "summary": "Learning compatible representations aims to learn feature representations that can be used interchangeably over time whenever a model undergoes updates. In this paper, we demonstrate that stationary r"
     },
     {
-      "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
-      "url": "https://arxiv.org/abs/2606.12674",
-      "summary": "Compact language models (LMs) reduce cost, latency, and deployment risk for tool agents. Yet MCP-style tool use requires more than isolated function calling: an agent must discover tools from live cat"
+      "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
+      "url": "https://arxiv.org/abs/2606.13572",
+      "summary": "Multimodal Large Language Models (MLLMs) have shown promising reasoning capabilities in general domains, yet their performance remains limited in specialized settings such as healthcare, especially in"
     }
   ],
   "blog_posts": [
     {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "author": "theverge.com"
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "author": "huggingface.co"
     },
     {
-      "title": "Ear Training Practice",
-      "url": "https://tonedear.com/",
-      "author": "tonedear.com"
+      "title": "A line-by-line translation of the OCaml runtime from C to Rust",
+      "url": "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
+      "author": "jbeckford"
     },
     {
-      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
-      "author": "medium.com"
+      "title": "Gemini CLI Skills: How to Create and Use Custom Skills",
+      "url": "https://medium.com/@sunil17bbmp/gemini-cli-skills-how-to-create-and-use-custom-skills-c4640504f5ef",
+      "author": "Code With Sunil | Code Smarter, not harder"
     },
     {
-      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
-      "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
-      "author": "cnbc.com"
-    },
-    {
-      "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "author": "lantian.pub"
-    },
-    {
-      "title": "Tailwind and slop apps",
-      "url": "https://briandouglas.ie/llm-tailwind-template/",
-      "author": "briandouglas.ie"
-    },
-    {
-      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.",
-      "url": "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8",
-      "author": "Greg Baugues"
+      "title": "How To Spoof Canvas Fingerprint: Step-by-Step Setup Guide (2026)",
+      "url": "https://medium.com/@don724969/how-to-spoof-canvas-fingerprint-step-by-step-setup-guide-2026-a76e2912a6f4",
+      "author": "Sendwin"
     }
   ],
   "repos": [
     {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 111794,
-      "language": "Shell"
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "stars": 118129,
+      "language": "TypeScript"
     },
     {
-      "name": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "stars": 30455,
-      "language": "Ruby"
-    },
-    {
-      "name": "onyx-dot-app/onyx",
-      "url": "https://github.com/onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "stars": 30262,
-      "language": "Python"
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 29946,
-      "language": "Python"
-    },
-    {
-      "name": "mlflow/mlflow",
-      "url": "https://github.com/mlflow/mlflow",
-      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin",
-      "stars": 26452,
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 98543,
       "language": "Python"
     }
   ],

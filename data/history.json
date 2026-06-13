@@ -1,32 +1,4 @@
 {
-  "2026-05-13": {
-    "papers": [
-      "https://arxiv.org/abs/2605.12013",
-      "https://arxiv.org/abs/2605.09266",
-      "https://arxiv.org/abs/2605.12477",
-      "https://arxiv.org/abs/2605.11354",
-      "https://arxiv.org/abs/2605.10977",
-      "https://arxiv.org/abs/2605.09932",
-      "https://arxiv.org/abs/2605.12481",
-      "https://arxiv.org/abs/2605.12495",
-      "https://arxiv.org/abs/2605.08734",
-      "https://arxiv.org/abs/2605.00080"
-    ],
-    "blogs": [
-      "https://github.com/cactus-compute/needle",
-      "https://github.com/statewright/statewright",
-      "https://www.hypercubic.ai/hopper",
-      "https://voker.ai",
-      "https://dev.to/wasp/open-vibe-ship-your-saas-with-ai-without-getting-stuck-e2h"
-    ],
-    "repos": [
-      "https://github.com/huggingface/transformers",
-      "https://github.com/FoundationAgents/MetaGPT",
-      "https://github.com/rohitg00/agentmemory",
-      "https://github.com/tinyhumansai/openhuman",
-      "https://github.com/zhangfengcdt/memoir"
-    ]
-  },
   "2026-05-14": {
     "papers": [
       "https://arxiv.org/abs/2605.12587",
@@ -921,6 +893,30 @@
       "https://github.com/onyx-dot-app/onyx",
       "https://github.com/anthropics/claude-plugins-official",
       "https://github.com/mlflow/mlflow"
+    ]
+  },
+  "2026-06-13": {
+    "papers": [
+      "https://arxiv.org/abs/2606.00467",
+      "https://arxiv.org/abs/2606.12730",
+      "https://arxiv.org/abs/2606.13594",
+      "https://arxiv.org/abs/2606.13174",
+      "https://arxiv.org/abs/2606.10423",
+      "https://arxiv.org/abs/2606.07867",
+      "https://arxiv.org/abs/2606.11409",
+      "https://arxiv.org/abs/2606.12451",
+      "https://arxiv.org/abs/2606.12488",
+      "https://arxiv.org/abs/2606.13572"
+    ],
+    "blogs": [
+      "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
+      "https://medium.com/@sunil17bbmp/gemini-cli-skills-how-to-create-and-use-custom-skills-c4640504f5ef",
+      "https://medium.com/@don724969/how-to-spoof-canvas-fingerprint-step-by-step-setup-guide-2026-a76e2912a6f4"
+    ],
+    "repos": [
+      "https://github.com/iptv-org/iptv",
+      "https://github.com/browser-use/browser-use"
     ]
   }
 }

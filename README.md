@@ -10,6 +10,33 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-13</strong></summary>
+
+#### Papers
+1. **[On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annotation Task Performance](https://arxiv.org/abs/2606.00467)** — Examines how internalized model priors affect the performance of LLMs in annotation tasks.
+2. **[Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior](https://arxiv.org/abs/2606.12730)** — Investigates the reliability of self-reports in predicting LLM behavior for safe deployment.
+3. **[Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents](https://arxiv.org/abs/2606.13174)** — Explores how LLM agents can learn from user corrections to improve interaction over time.
+4. **[The Cold-Start Safety Gap in LLM Agents](https://arxiv.org/abs/2606.07867)** — Identifies vulnerabilities in LLM agents at the start of interactions, impacting safety.
+5. **[ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs](https://arxiv.org/abs/2606.12451)** — Proposes a framework to improve tool knowledge retrieval in LLMs.
+6. **[ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages](https://arxiv.org/abs/2606.13572)** — Introduces a framework for enhancing medical reasoning capabilities in Indic languages using MLLMs.
+7. **[EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](http://arxiv.org/abs/2606.13681v1)** — Discusses memory evolution in LLM agents for better performance in changing environments.
+8. **[Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1)** — Examines how analogy-based reasoning can be enhanced through retrieval-augmented techniques.
+9. **[HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents](http://arxiv.org/abs/2606.13663v1)** — Proposes a new approach for tool-augmented LLM agents to improve execution efficiency.
+10. **[EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1)** — Highlights the potential of LLM agents in automating scientific discovery processes.
+
+#### Blog Posts
+1. **[Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code)** by huggingface.co
+2. **[A line-by-line translation of the OCaml runtime from C to Rust](https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247)** by jbeckford
+3. **[Gemini CLI Skills: How to Create and Use Custom Skills](https://medium.com/@sunil17bbmp/gemini-cli-skills-how-to-create-and-use-custom-skills-c4640504f5ef)** by Code With Sunil | Code Smarter, not harder
+4. **[How To Spoof Canvas Fingerprint: Step-by-Step Setup Guide (2026)](https://medium.com/@don724969/how-to-spoof-canvas-fingerprint-step-by-step-setup-guide-2026-a76e2912a6f4)** by Sendwin
+
+#### Trending Repos
+1. **[iptv-org/iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world. ⭐ 118129
+2. **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — Make websites accessible for AI agents. Automate tasks online with ease. ⭐ 98543
+
+</details>
+
+<details>
 <summary><strong>2026-06-12</strong></summary>
 
 #### Papers
