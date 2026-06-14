@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-14</strong></summary>
+
+#### Papers
+1. **[EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](http://arxiv.org/abs/2606.13681v1)** — This paper explores how LLM agents can adapt to changing environments, enhancing their real-world applicability.
+2. **[Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1)** — It presents a method to improve reasoning in LLMs by integrating retrieval-augmented techniques.
+3. **[Mana: Dexterous Manipulation of Articulated Tools](http://arxiv.org/abs/2606.13677v1)** — The study addresses challenges in robotic manipulation of tools requiring complex coordination and interaction.
+4. **[SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](http://arxiv.org/abs/2606.13673v1)** — This research redefines how agents perceive and interact with spatial environments, crucial for vision-language models.
+5. **[Understanding Truncated Positional Encodings for Graph Neural Networks](http://arxiv.org/abs/2606.13671v1)** — The paper investigates how positional encodings can enhance the performance of graph neural networks.
+6. **[Automated reproducibility assessments in the social and behavioral sciences using large language models](http://arxiv.org/abs/2606.13670v1)** — It discusses using LLMs to automate the evaluation of reproducibility in social science research.
+7. **[Agents-K1: Towards Agent-native Knowledge Orchestration](http://arxiv.org/abs/2606.13669v1)** — This work proposes a new approach for orchestrating scientific knowledge within LLM-based research agents.
+8. **[Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution](http://arxiv.org/abs/2606.13668v1)** — The paper focuses on improving data attribution in LLMs by analyzing gradient influences.
+9. **[HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents](http://arxiv.org/abs/2606.13663v1)** — It introduces a novel framework for enhancing the execution of tool-augmented LLM agents.
+10. **[EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1)** — This research highlights the potential of LLM agents in automating the scientific discovery process.
+
+#### Blog Posts
+1. **[Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink)** by wsj.com
+2. **[Codex for open source](https://openai.com/form/codex-for-oss/)** by openai.com
+3. **[State Attorneys General Are Investigating OpenAI](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html)** by nytimes.com
+4. **[Teach Your Agent to Forget (On Purpose)](https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh)** by Athreya aka Maneshwar
+5. **[Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist)** by anthropic.com
+6. **[Claude Fable 5 : The Most Interesting AI Release of 2026](https://medium.com/activated-thinker/claude-fable-5-the-most-interesting-ai-release-of-2026-57e1271754c9)** by LOGESH T V | Genai Developer
+
+#### Trending Repos
+1. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. ⭐18473
+2. **[andrewyng/aisuite](https://github.com/andrewyng/aisuite)** — Simple, unified interface to multiple Generative AI providers. ⭐14187
+3. **[skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)** — Run, manage, and scale AI workloads on any AI infrastructure. ⭐10139
+4. **[LMCache/LMCache](https://github.com/LMCache/LMCache)** — LMCache: Supercharge Your LLM with the Fastest KV Cache Layer. ⭐8960
+5. **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** — Security scanner for AI agent skills. ⭐4623
+
+</details>
+
+<details>
 <summary><strong>2026-06-13</strong></summary>
 
 #### Papers

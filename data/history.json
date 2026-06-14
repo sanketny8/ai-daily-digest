@@ -1,34 +1,4 @@
 {
-  "2026-05-14": {
-    "papers": [
-      "https://arxiv.org/abs/2605.12587",
-      "https://arxiv.org/abs/2605.12975",
-      "https://arxiv.org/abs/2605.09942",
-      "https://arxiv.org/abs/2605.12825",
-      "https://arxiv.org/abs/2605.13779",
-      "https://arxiv.org/abs/2605.13511",
-      "https://arxiv.org/abs/2605.11680",
-      "https://arxiv.org/abs/2605.13565",
-      "https://arxiv.org/abs/2605.13775",
-      "https://arxiv.org/abs/2605.13831"
-    ],
-    "blogs": [
-      "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "https://www.anthropic.com/news/claude-for-small-business",
-      "https://dev.to/zenstack/how-to-save-bloated-mcp-with-code-mode-33e3",
-      "https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8",
-      "https://medium.com/@rishabhsharma_98553/sara-just-wanted-dinner-a201aeb9b173"
-    ],
-    "repos": [
-      "https://github.com/openai/whisper",
-      "https://github.com/ansible/ansible",
-      "https://github.com/opendatalab/MinerU",
-      "https://github.com/huggingface/pytorch-image-models",
-      "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "https://github.com/influxdata/telegraf",
-      "https://github.com/danielmiessler/Personal_AI_Infrastructure"
-    ]
-  },
   "2026-05-15": {
     "papers": [
       "https://arxiv.org/abs/2605.13169",
@@ -917,6 +887,35 @@
     "repos": [
       "https://github.com/iptv-org/iptv",
       "https://github.com/browser-use/browser-use"
+    ]
+  },
+  "2026-06-14": {
+    "papers": [
+      "http://arxiv.org/abs/2606.13681v1",
+      "http://arxiv.org/abs/2606.13680v1",
+      "http://arxiv.org/abs/2606.13677v1",
+      "http://arxiv.org/abs/2606.13673v1",
+      "http://arxiv.org/abs/2606.13671v1",
+      "http://arxiv.org/abs/2606.13670v1",
+      "http://arxiv.org/abs/2606.13669v1",
+      "http://arxiv.org/abs/2606.13668v1",
+      "http://arxiv.org/abs/2606.13663v1",
+      "http://arxiv.org/abs/2606.13662v1"
+    ],
+    "blogs": [
+      "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "https://openai.com/form/codex-for-oss/",
+      "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+      "https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh",
+      "https://www.anthropic.com/research/making-claude-a-chemist",
+      "https://medium.com/activated-thinker/claude-fable-5-the-most-interesting-ai-release-of-2026-57e1271754c9"
+    ],
+    "repos": [
+      "https://github.com/tirth8205/code-review-graph",
+      "https://github.com/andrewyng/aisuite",
+      "https://github.com/skypilot-org/skypilot",
+      "https://github.com/LMCache/LMCache",
+      "https://github.com/NVIDIA/SkillSpector"
     ]
   }
 }

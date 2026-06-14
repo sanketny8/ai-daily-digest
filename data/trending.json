@@ -1,92 +1,123 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "papers": [
     {
-      "title": "On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annotation Task Performance",
-      "url": "https://arxiv.org/abs/2606.00467",
-      "summary": "Large Language Models (LLMs) are increasingly used for zero-shot annotation and LLM-as-a-judge tasks, yet their reliability hinges on how model-internalized priors interact with user-provided instruct"
+      "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "url": "http://arxiv.org/abs/2606.13681v1",
+      "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna"
     },
     {
-      "title": "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior",
-      "url": "https://arxiv.org/abs/2606.12730",
-      "summary": "Anticipating LLM behavioral tendencies from low-cost psychometric probes is critical for safe deployment, but only if self-reports (SR) reliably predict behavior. Recent work documented substantial SR"
+      "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "url": "http://arxiv.org/abs/2606.13680v1",
+      "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s"
     },
     {
-      "title": "See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents",
-      "url": "https://arxiv.org/abs/2606.13594",
-      "summary": "Multi-agent systems communicate mostly through text, paying a lossy and expensive decode and re-encode cost. KV-cache communication is a promising alternative, yet most prior work is homogeneous, usin"
+      "title": "Mana: Dexterous Manipulation of Articulated Tools",
+      "url": "http://arxiv.org/abs/2606.13677v1",
+      "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu"
     },
     {
-      "title": "Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents",
-      "url": "https://arxiv.org/abs/2606.13174",
-      "summary": "Interactive LLM agents are becoming part of daily work, but they do not reliably become easier to work with over time: a correction remembered in one session may still be violated in the next. We stud"
+      "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "url": "http://arxiv.org/abs/2606.13673v1",
+      "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp"
     },
     {
-      "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent",
-      "url": "https://arxiv.org/abs/2606.10423",
-      "summary": "Autonomous web navigation remains challenging for LLM agents, and the strongest generalist systems rely on proprietary reasoning models whose inference cost is prohibitive for the repetitive tasks whe"
+      "title": "Understanding Truncated Positional Encodings for Graph Neural Networks",
+      "url": "http://arxiv.org/abs/2606.13671v1",
+      "summary": "Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effec"
     },
     {
-      "title": "The Cold-Start Safety Gap in LLM Agents",
-      "url": "https://arxiv.org/abs/2606.07867",
-      "summary": "Are tool-calling LLM agents equally safe throughout a conversation? We discover they are not: agents are most vulnerable at the very start of a session and become substantially safer after a few regul"
+      "title": "Automated reproducibility assessments in the social and behavioral sciences using large language models",
+      "url": "http://arxiv.org/abs/2606.13670v1",
+      "summary": "Reproducibility in the social and behavioral sciences is typically evaluated by independent researchers who reanalyze the original data to assess whether the published findings can be recovered. Howev"
     },
     {
-      "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models",
-      "url": "https://arxiv.org/abs/2606.11409",
-      "summary": "Adversarial robustness evaluations of large language models (LLMs) typically report attack success rate (ASR) under fixed query budgets, implicitly treating all attacks as equally costly. In practice,"
+      "title": "Agents-K1: Towards Agent-native Knowledge Orchestration",
+      "url": "http://arxiv.org/abs/2606.13669v1",
+      "summary": "Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions,"
     },
     {
-      "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
-      "url": "https://arxiv.org/abs/2606.12451",
-      "summary": "Large language models deployed as agents over large tool catalogs face a critical tool-retrieval bottleneck. As embedding-based retrieval approaches rely on compact encoders that may under-capture spe"
+      "title": "Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution",
+      "url": "http://arxiv.org/abs/2606.13668v1",
+      "summary": "With the growth of LLMs' (Large Language Models) capabilities, there has been an increasing push to curate high quality datasets by filtering samples in the training data. In general, Data Attribution"
     },
     {
-      "title": "A Stationary (and Therefore Compatible) Representation is All You Need",
-      "url": "https://arxiv.org/abs/2606.12488",
-      "summary": "Learning compatible representations aims to learn feature representations that can be used interchangeably over time whenever a model undergoes updates. In this paper, we demonstrate that stationary r"
+      "title": "HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents",
+      "url": "http://arxiv.org/abs/2606.13663v1",
+      "summary": "Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where each invocation, observation, and value transfer is exposed in the main reasoning trace. This creates an \\emph{execution-g"
     },
     {
-      "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
-      "url": "https://arxiv.org/abs/2606.13572",
-      "summary": "Multimodal Large Language Models (MLLMs) have shown promising reasoning capabilities in general domains, yet their performance remains limited in specialized settings such as healthcare, especially in"
+      "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+      "url": "http://arxiv.org/abs/2606.13662v1",
+      "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti"
     }
   ],
   "blog_posts": [
     {
-      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-      "author": "huggingface.co"
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "author": "wsj.com"
     },
     {
-      "title": "A line-by-line translation of the OCaml runtime from C to Rust",
-      "url": "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
-      "author": "jbeckford"
+      "title": "Codex for open source",
+      "url": "https://openai.com/form/codex-for-oss/",
+      "author": "openai.com"
     },
     {
-      "title": "Gemini CLI Skills: How to Create and Use Custom Skills",
-      "url": "https://medium.com/@sunil17bbmp/gemini-cli-skills-how-to-create-and-use-custom-skills-c4640504f5ef",
-      "author": "Code With Sunil | Code Smarter, not harder"
+      "title": "State Attorneys General Are Investigating OpenAI",
+      "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+      "author": "nytimes.com"
     },
     {
-      "title": "How To Spoof Canvas Fingerprint: Step-by-Step Setup Guide (2026)",
-      "url": "https://medium.com/@don724969/how-to-spoof-canvas-fingerprint-step-by-step-setup-guide-2026-a76e2912a6f4",
-      "author": "Sendwin"
+      "title": "Teach Your Agent to Forget (On Purpose)",
+      "url": "https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh",
+      "author": "Athreya aka Maneshwar"
+    },
+    {
+      "title": "Making Claude a Chemist",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "author": "anthropic.com"
+    },
+    {
+      "title": "Claude Fable 5 : The Most Interesting AI Release of 2026",
+      "url": "https://medium.com/activated-thinker/claude-fable-5-the-most-interesting-ai-release-of-2026-57e1271754c9",
+      "author": "LOGESH T V | Genai Developer"
     }
   ],
   "repos": [
     {
-      "name": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "stars": 118129,
-      "language": "TypeScript"
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+      "stars": 18473,
+      "language": "Python"
     },
     {
-      "name": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "stars": 98543,
+      "name": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "stars": 14187,
+      "language": "Python"
+    },
+    {
+      "name": "skypilot-org/skypilot",
+      "url": "https://github.com/skypilot-org/skypilot",
+      "description": "Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access &amp; manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).",
+      "stars": 10139,
+      "language": "Python"
+    },
+    {
+      "name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "stars": 8960,
+      "language": "Python"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars": 4623,
       "language": "Python"
     }
   ],
