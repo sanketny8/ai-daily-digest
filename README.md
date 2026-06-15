@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-15</strong></summary>
+
+#### Papers
+1. **[AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](https://arxiv.org/abs/2606.14694)** — This paper explores adaptive reasoning models for dynamic contexts, enhancing real-world application.
+2. **[Measuring Epistemic Resilience of LLMs Under Misleading Medical Context](https://arxiv.org/abs/2606.12291)** — Investigates the reliability of LLMs in medical settings, emphasizing the risks of misleading information.
+3. **[Rethinking RAG in Long Videos: What to Retrieve and How to Use It?](https://arxiv.org/abs/2606.13141)** — Discusses advancements in retrieval-augmented generation for processing long videos across multiple modalities.
+4. **[CARVE: Certified Affordable Repair of Vetoed Maneuvers via Envelopes for Interactive Driving](https://arxiv.org/abs/2606.02641)** — Addresses challenges in autonomous driving by proposing a method for safe maneuvering in complex scenarios.
+5. **[Benchmarking AI Agents for Addressing Scientific Challenges Across Scales](https://arxiv.org/abs/2606.12736)** — Evaluates the effectiveness of AI agents in real-world scientific research, highlighting their potential and limitations.
+6. **[APPO: Agentic Procedural Policy Optimization](https://arxiv.org/abs/2606.12384)** — Introduces a new approach to enhance multi-turn tool-use capabilities in reinforcement learning agents.
+7. **[Gaze Heads: How VLMs Look at What They Describe](http://arxiv.org/abs/2606.14703v1)** — Explores the internal mechanisms of vision-language models in image description tasks.
+8. **[ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning](http://arxiv.org/abs/2606.14697v1)** — Proposes a benchmark for assessing hallucinations in medical language models to improve clinical decision-making.
+9. **[Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics](http://arxiv.org/abs/2606.14688v1)** — Examines the intersection of AI and mathematics, emphasizing the importance of trivia in generating valuable mathematical insights.
+10. **[HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification](http://arxiv.org/abs/2606.14684v1)** — Proposes a framework for real-time fire classification that balances accuracy and efficiency.
+
+#### Blog Posts
+1. **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)** by github.com
+2. **[Did Anthropic ask for this?](https://www.verysane.ai/p/did-anthropic-ask-for-this)** by verysane.ai
+3. **[AI is code – and can't be prompted into being smarter](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141)** by theregister.com
+4. **[The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/)** by achivetta
+5. **[Ponytail – make your AI agent think like the laziest senior dev in the room](https://github.com/DietrichGebert/ponytail)** by github.com
+
+#### Trending Repos
+1. **[AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — Stable Diffusion web UI. ⭐ 163708
+2. **[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)** — 🙌 OpenHands: AI-Driven Development. ⭐ 77116
+3. **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** — A lightweight coding agent for open models like Deepseek, Kimi, and Qwen. ⭐ 63965
+4. **[GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)** — 100+ open-source clones of popular sites with source code and demos. ⭐ 35674
+5. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. ⭐ 9546
+6. **[Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki)** — Framework for AI agents to build and maintain a digital brain through Obsidian wiki. ⭐ 2047
+7. **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** — A meta-harness for all your AI agents, providing a common layer for various models. ⭐ 1350
+8. **[plannotator/effective-html](https://github.com/plannotator/effective-html)** — Agent skill for elegant and simple HTML plans and architecture diagrams. ⭐ 855
+
+</details>
+
+<details>
 <summary><strong>2026-06-14</strong></summary>
 
 #### Papers

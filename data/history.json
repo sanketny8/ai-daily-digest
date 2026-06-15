@@ -1,32 +1,4 @@
 {
-  "2026-05-15": {
-    "papers": [
-      "https://arxiv.org/abs/2605.13169",
-      "https://arxiv.org/abs/2605.13027",
-      "https://arxiv.org/abs/2605.14876",
-      "https://arxiv.org/abs/2605.00180",
-      "https://arxiv.org/abs/2605.09681",
-      "https://arxiv.org/abs/2605.14323",
-      "https://arxiv.org/abs/2605.06527",
-      "https://arxiv.org/abs/2605.15141",
-      "https://arxiv.org/abs/2605.10912",
-      "https://arxiv.org/abs/2605.14712"
-    ],
-    "blogs": [
-      "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "https://openai.com/index/work-with-codex-from-anywhere/",
-      "https://github.com/anthropics/claude-for-legal",
-      "https://www.opendata.dev/blog/introducing-vector/",
-      "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026"
-    ],
-    "repos": [
-      "https://github.com/garrytan/gstack",
-      "https://github.com/zubair-trabzada/geo-seo-claude",
-      "https://github.com/nexu-io/html-anything",
-      "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "https://github.com/awslabs/agent-plugins"
-    ]
-  },
   "2026-05-16": {
     "papers": [
       "https://arxiv.org/abs/2605.15193",
@@ -916,6 +888,38 @@
       "https://github.com/skypilot-org/skypilot",
       "https://github.com/LMCache/LMCache",
       "https://github.com/NVIDIA/SkillSpector"
+    ]
+  },
+  "2026-06-15": {
+    "papers": [
+      "https://arxiv.org/abs/2606.14694",
+      "https://arxiv.org/abs/2606.12291",
+      "https://arxiv.org/abs/2606.13141",
+      "https://arxiv.org/abs/2606.02641",
+      "https://arxiv.org/abs/2605.30789",
+      "https://arxiv.org/abs/2606.12736",
+      "https://arxiv.org/abs/2606.12384",
+      "https://arxiv.org/abs/2606.06309",
+      "https://arxiv.org/abs/2606.10813",
+      "https://arxiv.org/abs/2606.00793"
+    ],
+    "blogs": [
+      "https://github.com/nex-agi/Nex-N2/issues/4",
+      "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "https://twitter.com/zenmagnets/status/2065796012820848699",
+      "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "https://github.com/DietrichGebert/ponytail",
+      "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/"
+    ],
+    "repos": [
+      "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "https://github.com/OpenHands/OpenHands",
+      "https://github.com/openinterpreter/openinterpreter",
+      "https://github.com/GorvGoyl/Clone-Wars",
+      "https://github.com/DietrichGebert/ponytail",
+      "https://github.com/Ar9av/obsidian-wiki",
+      "https://github.com/omnigent-ai/omnigent",
+      "https://github.com/plannotator/effective-html"
     ]
   }
 }
