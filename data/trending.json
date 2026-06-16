@@ -1,145 +1,134 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "papers": [
     {
-      "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-      "url": "https://arxiv.org/abs/2606.14694",
-      "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inhere"
+      "title": "Selective Control under Noisy Perception: Governance Failures Hidden by Aggregate Metrics in Modular Networks",
+      "url": "https://arxiv.org/abs/2606.14819",
+      "summary": "A content-moderation system can score well on every standard accuracy metric and still cause real harm, if its mistakes fall on the few users who connect otherwise separate communities. We show this i"
     },
     {
-      "title": "Measuring Epistemic Resilience of LLMs Under Misleading Medical Context",
-      "url": "https://arxiv.org/abs/2606.12291",
-      "summary": "Large language models (LLMs) now reach expert-level scores on medical licensing exams, encouraging the assumption that high scores imply safe medical judgment while patients increasingly use them for "
+      "title": "Who Flips? Self- and Cross-Model Counterarguments Reveal Answer Instability in LLMs",
+      "url": "https://arxiv.org/abs/2606.16011",
+      "summary": "Standard accuracy benchmarks are designed to test how closely large language models (LLMs) approach correct answers, but are not suitable for testing whether LLMs stick with a correct answer when that"
     },
     {
-      "title": "Rethinking RAG in Long Videos: What to Retrieve and How to Use It?",
-      "url": "https://arxiv.org/abs/2606.13141",
-      "summary": "Retrieval-augmented generation is moving beyond text into long, egocentric video, where systems must select query-relevant chunks across multiple modalities and temporal granularities. Yet progress in"
+      "title": "Where Did It Go Wrong? Process-Level Evaluation of Web Agents with Semantic State Tracking",
+      "url": "https://arxiv.org/abs/2606.15673",
+      "summary": "Web agents act through long interaction sequences, yet existing benchmarks evaluate only terminal success, discarding all process information and offering little guidance on improvement. In this work,"
     },
     {
-      "title": "CARVE: Certified Affordable Repair of Vetoed Maneuvers via Envelopes for Interactive Driving",
-      "url": "https://arxiv.org/abs/2606.02641",
-      "summary": "Interactive driving exposes a failure mode that is easy to miss in rule-aware autonomous-driving stacks: a hard-rule margin can be negative for an ego candidate even though a small lawful accommodatio"
+      "title": "PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory",
+      "url": "https://arxiv.org/abs/2606.16449",
+      "summary": "Consistent video generation under editing operations requires persistence: when edits modify scene appearance or layout, subsequent generations should remain coherent across time and viewpoints. Howev"
     },
     {
-      "title": "Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO",
-      "url": "https://arxiv.org/abs/2605.30789",
-      "summary": "We identify a new dimension for enhancing rollout diversity in Group Relative Policy Optimization (GRPO) for LLMs. While GRPO relies on diverse rollouts, prevailing strategies primarily increase diver"
+      "title": "Geometric Action Model for Robot Policy Learning",
+      "url": "https://arxiv.org/abs/2606.17046",
+      "summary": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and"
     },
     {
-      "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
-      "url": "https://arxiv.org/abs/2606.12736",
-      "summary": "AI agents are increasingly being developed to accelerate scientific discovery, yet their practical capabilities in real research settings remain poorly understood. Existing benchmarks for AI agents ra"
+      "title": "Implicit Reasoning for Large Language Model-based Generative Recommendation",
+      "url": "https://arxiv.org/abs/2606.14142",
+      "summary": "Large Language Models (LLMs) are increasingly adopted as backbones for Generative Recommendation (GR), promising access to pretrained world knowledge. Yet reliably invoking this knowledge for GR remai"
     },
     {
-      "title": "APPO: Agentic Procedural Policy Optimization",
-      "url": "https://arxiv.org/abs/2606.12384",
-      "summary": "Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit ove"
+      "title": "PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions",
+      "url": "https://arxiv.org/abs/2606.14832",
+      "summary": "Phone agents are increasingly expected to complete real mobile workflows rather than merely predict the next screen action. However, much of the current mobile-agent literature still evaluates agents "
     },
     {
-      "title": "RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling",
-      "url": "https://arxiv.org/abs/2606.06309",
-      "summary": "Video generation models based on Diffusion Transformers (DiTs) have achieved remarkable performance in video synthesis, yet they suffer from high inference latency and computational costs due to the q"
+      "title": "Artificial Intelligence Index Report 2026",
+      "url": "https://arxiv.org/abs/2606.15708",
+      "summary": "Welcome to the ninth edition of the AI Index report. As AI continues to advance rapidly, the question becomes whether the systems built around it can keep up. Governance frameworks, evaluation methods"
     },
     {
-      "title": "RedAct: Redacting Agent Capability Traces for Procedural Skill Protection",
-      "url": "https://arxiv.org/abs/2606.10813",
-      "summary": "Users rely on execution traces to observe agent behavior, diagnose failures, and ensure accountability. These traces contain rich procedural detail, including tool invocations, intermediate decisions,"
+      "title": "Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving",
+      "url": "https://arxiv.org/abs/2606.06302",
+      "summary": "Multi-turn LLM serving accumulates dialogue history whose Key-Value (KV) cache grows with every turn and every user, quickly exceeding the model weights themselves and making memory -- not compute -- "
     },
     {
-      "title": "MBench: A Comprehensive Benchmark on Memory Capability for Video World Models",
-      "url": "https://arxiv.org/abs/2606.00793",
-      "summary": "Recent advancements in video-based world models have demonstrated an unprecedented ability to synthesize high-fidelity visual sequences. However, a fundamental gap persists between visually plausible "
+      "title": "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence",
+      "url": "https://arxiv.org/abs/2606.14777",
+      "summary": "Many moments in the real world do not wait for a user to ask. A fire starts on a security monitor, an expression flickers across a video call, or a product a viewer wants flashes by in a livestream. Y"
     }
   ],
   "blog_posts": [
     {
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "title": "Apple Foundation Models",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "author": "platform.claude.com"
+    },
+    {
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "url": "https://github.com/sammysltd/euromesh",
       "author": "github.com"
     },
     {
-      "title": "Did Anthropic ask for this?",
-      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-      "author": "verysane.ai"
+      "title": "Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "author": "anthropic.com"
     },
     {
-      "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
-      "url": "https://twitter.com/zenmagnets/status/2065796012820848699",
-      "author": "twitter.com"
+      "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
+      "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
+      "author": "wheresyoured.at"
     },
     {
-      "title": "AI is code – and can't be prompted into being smarter",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-      "author": "theregister.com"
+      "title": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
+      "url": "https://shonczinner.github.io/posts/embedding-prediction/",
+      "author": "shonczinner.github.io"
     },
     {
-      "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "author": "github.com"
+      "title": "Building a Chrome Extension to Make AI Use More Intentional",
+      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
+      "author": "Julien Avezou"
     },
     {
-      "title": "The future of Siri, or: why private inference isn’t private enough",
-      "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
-      "author": "achivetta"
+      "title": "Has Sloan Flagged Your Article Lately?",
+      "url": "https://dev.to/dannwaneri/has-sloan-flagged-your-article-lately-1gmh",
+      "author": "Daniel Nwaneri"
+    },
+    {
+      "title": "AI Isn't Something to Trust — It's Something to Design (Series Final)",
+      "url": "https://dev.to/ryantsuji/ai-isnt-something-to-trust-its-something-to-design-series-final-30aa",
+      "author": "Ryosuke Tsuji"
     }
   ],
   "repos": [
     {
-      "name": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "description": "Stable Diffusion web UI",
-      "stars": 163708,
-      "language": "Python"
+      "name": "mikeroyal/Self-Hosting-Guide",
+      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Autom",
+      "stars": 21230,
+      "language": "Dockerfile"
     },
     {
-      "name": "OpenHands/OpenHands",
-      "url": "https://github.com/OpenHands/OpenHands",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "stars": 77116,
-      "language": "Python"
-    },
-    {
-      "name": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A lightweight coding agent for open models like Deepseek, Kimi, and Qwen",
-      "stars": 63965,
-      "language": "Python"
-    },
-    {
-      "name": "GorvGoyl/Clone-Wars",
-      "url": "https://github.com/GorvGoyl/Clone-Wars",
-      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
-      "stars": 35674,
-      "language": ""
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 9546,
-      "language": "JavaScript"
-    },
-    {
-      "name": "Ar9av/obsidian-wiki",
-      "url": "https://github.com/Ar9av/obsidian-wiki",
-      "description": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern",
-      "stars": 2047,
-      "language": "Python"
-    },
-    {
-      "name": "omnigent-ai/omnigent",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check",
-      "stars": 1350,
-      "language": "Python"
-    },
-    {
-      "name": "plannotator/effective-html",
-      "url": "https://github.com/plannotator/effective-html",
-      "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
-      "stars": 855,
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 18257,
       "language": "HTML"
+    },
+    {
+      "name": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "stars": 8302,
+      "language": "Elixir"
+    },
+    {
+      "name": "shuvonsec/claude-bug-bounty",
+      "url": "https://github.com/shuvonsec/claude-bug-bounty",
+      "description": "AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code.",
+      "stars": 3250,
+      "language": "Python"
+    },
+    {
+      "name": "orange2ai/renwei-writing",
+      "url": "https://github.com/orange2ai/renwei-writing",
+      "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "stars": 685,
+      "language": null
     }
   ],
   "tweets": []

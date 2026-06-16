@@ -1,30 +1,4 @@
 {
-  "2026-05-16": {
-    "papers": [
-      "https://arxiv.org/abs/2605.15193",
-      "https://arxiv.org/abs/2605.01018",
-      "https://arxiv.org/abs/2605.06554",
-      "https://arxiv.org/abs/2605.15012",
-      "https://arxiv.org/abs/2605.12243",
-      "https://arxiv.org/abs/2605.14984",
-      "https://arxiv.org/abs/2605.07637",
-      "https://arxiv.org/abs/2605.14607",
-      "https://arxiv.org/abs/2605.12034",
-      "https://arxiv.org/abs/2605.14438"
-    ],
-    "blogs": [
-      "https://helloai.com/articles/deepseek-v4-open-source-frontier-parity",
-      "https://medium.com/@prateekj24/the-52-page-memo-that-nearly-destroyed-openai-inside-ilya-sutskevers-deposition-acef91208a1c",
-      "https://iev.ee/blog/why-use-fsharp/",
-      "https://dev.to/aws/bigger-ai-models-arent-always-better-heres-how-to-actually-choose-56pc"
-    ],
-    "repos": [
-      "https://github.com/jingyaogong/minimind",
-      "https://github.com/NVIDIA-NeMo/NeMo",
-      "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
-      "https://github.com/yetone/native-feel-skill"
-    ]
-  },
   "2026-05-17": {
     "papers": [
       "http://arxiv.org/abs/2605.15199v1",
@@ -920,6 +894,37 @@
       "https://github.com/Ar9av/obsidian-wiki",
       "https://github.com/omnigent-ai/omnigent",
       "https://github.com/plannotator/effective-html"
+    ]
+  },
+  "2026-06-16": {
+    "papers": [
+      "https://arxiv.org/abs/2606.14819",
+      "https://arxiv.org/abs/2606.16011",
+      "https://arxiv.org/abs/2606.15673",
+      "https://arxiv.org/abs/2606.16449",
+      "https://arxiv.org/abs/2606.17046",
+      "https://arxiv.org/abs/2606.14142",
+      "https://arxiv.org/abs/2606.14832",
+      "https://arxiv.org/abs/2606.15708",
+      "https://arxiv.org/abs/2606.06302",
+      "https://arxiv.org/abs/2606.14777"
+    ],
+    "blogs": [
+      "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "https://github.com/sammysltd/euromesh",
+      "https://www.anthropic.com/news/claude-corps",
+      "https://www.wheresyoured.at/exclusive-openai-financials/",
+      "https://shonczinner.github.io/posts/embedding-prediction/",
+      "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
+      "https://dev.to/dannwaneri/has-sloan-flagged-your-article-lately-1gmh",
+      "https://dev.to/ryantsuji/ai-isnt-something-to-trust-its-something-to-design-series-final-30aa"
+    ],
+    "repos": [
+      "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "https://github.com/trycua/cua",
+      "https://github.com/teslamate-org/teslamate",
+      "https://github.com/shuvonsec/claude-bug-bounty",
+      "https://github.com/orange2ai/renwei-writing"
     ]
   }
 }

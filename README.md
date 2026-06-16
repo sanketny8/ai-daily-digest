@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-16</strong></summary>
+
+#### Papers
+1. **[Selective Control under Noisy Perception: Governance Failures Hidden by Aggregate Metrics in Modular Networks](https://arxiv.org/abs/2606.14819)** — Highlights how content moderation can harm users despite high accuracy metrics.
+2. **[Who Flips? Self- and Cross-Model Counterarguments Reveal Answer Instability in LLMs](https://arxiv.org/abs/2606.16011)** — Explores the instability of answers provided by large language models under different conditions.
+3. **[Where Did It Go Wrong? Process-Level Evaluation of Web Agents with Semantic State Tracking](https://arxiv.org/abs/2606.15673)** — Proposes a new evaluation method for web agents that considers the entire interaction process.
+4. **[PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory](https://arxiv.org/abs/2606.16449)** — Introduces a method for maintaining video coherence during edits across time and viewpoints.
+5. **[Artificial Intelligence Index Report 2026](https://arxiv.org/abs/2606.15708)** — The ninth edition of the AI Index report discussing advancements and governance in AI.
+6. **[JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](https://arxiv.org/abs/2606.14777)** — Discusses real-time interaction capabilities of AI in various real-world scenarios.
+7. **[Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning](http://arxiv.org/abs/2606.17035v1)** — Challenges the assumption that differential privacy enhances federated learning's robustness against attacks.
+8. **[The Value Axis: Language Models Encode Whether They're on the Right Track](http://arxiv.org/abs/2606.17056v1)** — Investigates how language models assess the likelihood of achieving their goals during processing.
+9. **[KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing](http://arxiv.org/abs/2606.17034v1)** — Addresses challenges in context erasing for key-value caches in AI models.
+10. **[Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio](http://arxiv.org/abs/2606.17041v1)** — Evaluates large language models on complex meta-analysis tasks, enhancing their utility in research.
+
+#### Blog Posts
+1. **[Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)** by platform.claude.com
+2. **[Can Europe train a frontier AI model on the compute it owns?](https://github.com/sammysltd/euromesh)** by github.com
+3. **[OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B](https://www.wheresyoured.at/exclusive-openai-financials/)** by wheresyoured.at
+4. **[The 90-year-old idea behind JEPA models: Canonical Correlation Analysis](https://shonczinner.github.io/posts/embedding-prediction/)** by shonczinner.github.io
+5. **[Building a Chrome Extension to Make AI Use More Intentional](https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0)** by Julien Avezou
+6. **[AI Isn't Something to Trust — It's Something to Design (Series Final)](https://dev.to/ryantsuji/ai-isnt-something-to-trust-its-something-to-design-series-final-30aa)** by Ryosuke Tsuji
+
+#### Trending Repos
+1. **[mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)** — Learn about locally hosting and managing software applications. ⭐ 21230
+2. **[trycua/cua](https://github.com/trycua/cua)** — Open-source infrastructure for training AI agents that control full desktops. ⭐ 18257
+3. **[teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)** — A self-hosted data logger for your Tesla. ⭐ 8302
+4. **[shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)** — AI-powered bug bounty hunting from your terminal. ⭐ 3250
+5. **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** — An AI agent skill for editing writing while preserving the author's voice. ⭐ 685
+
+</details>
+
+<details>
 <summary><strong>2026-06-15</strong></summary>
 
 #### Papers
