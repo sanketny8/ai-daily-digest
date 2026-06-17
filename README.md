@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-17</strong></summary>
+
+#### Papers
+1. **[Rethinking the Role of Efficient Attention in Hybrid Architectures](https://arxiv.org/abs/2606.15378)** — This paper explores how hybrid architectures in language models can effectively combine full and efficient attention mechanisms.
+2. **[ChLogic: Evaluating Robustness of Logical Reasoning in Chinese Expressions](https://arxiv.org/abs/2606.17905)** — Introduces ChLogic to assess the logical reasoning capabilities of language models in Chinese, expanding beyond English benchmarks.
+3. **[MotionVLA: Vision-Language-Action Model for Humanoid Motion](https://arxiv.org/abs/2606.15142)** — Discusses generating realistic humanoid motion from images and text, focusing on both pose semantics and physical dynamics.
+4. **[Show the Signal, Hide the Noise: Spectral Forcing for Pixel-Space Diffusion](https://arxiv.org/abs/2606.15236)** — Investigates how pixel-space diffusion models can enhance denoising by focusing on frequency-dependent signals.
+5. **[ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining](https://arxiv.org/abs/2606.17200)** — Proposes a unified approach to leverage egocentric data for training vision-language-action models effectively.
+6. **[Variable-Width Transformers](https://arxiv.org/abs/2606.18246)** — Explores the impact of varying transformer layer widths on model performance, challenging traditional constant-width architectures.
+7. **[OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation](https://arxiv.org/abs/2606.17628)** — Presents a method for evolving agents through memory, enhancing their learning from past experiences.
+8. **[Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](http://arxiv.org/abs/2606.18247v1)** — Proposes a framework for robots to learn and improve autonomously through visual feedback during deployment.
+9. **[ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](http://arxiv.org/abs/2606.18237v1)** — Discusses a system for improving reproducibility in research by leveraging GitHub issues for auditing.
+10. **[EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](http://arxiv.org/abs/2606.18235v1)** — Introduces a method for agents to navigate and locate objects without prior training, enhancing zero-shot capabilities.
+
+#### Blog Posts
+1. **[Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827)** by theregister.com
+2. **[GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)** by tno.nl
+3. **[Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence](https://qwen.ai/blog?id=qwen-robotsuite)** by qwen.ai
+4. **[I Got Flagged by Sloan. Sloan Is a Guy I Know.](https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e)** by Daniel Nwaneri
+5. **[A Company AI Flagged My Article As "Low Quality." I Ran the Numbers. Then I Ran Again.](https://dev.to/xulingfeng/a-company-ai-flagged-my-article-as-low-quality-i-ran-the-numbers-then-i-ran-again-1h0p)** by xulingfeng
+6. **[BrowserAct vs Playwright: Where Test Automation Hits Real-World Anti-Bot Friction (Hands-On Comparison)](https://dev.to/hadil/browseract-vs-playwright-where-test-automation-hits-real-world-anti-bot-friction-hands-on-432l)** by Hadil Ben Abdallah
+7. **[What Competitive Programming Taught Me That AI Tutorials Never Did](https://medium.com/@himanshsaini417/what-competitive-programming-taught-me-that-ai-tutorials-never-did-3528300a0c36)** by Himanshu Saini
+
+#### Trending Repos
+1. **[google-research/timesfm](https://github.com/google-research/timesfm)** — TimesFM is a pretrained time-series foundation model for forecasting. ⭐ 21333
+2. **[microsoft/fara](https://github.com/microsoft/fara)** — Fara-7B: An efficient agentic model designed for computer use. ⭐ 5827
+3. **[moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto)** — Memory that AI Agents Love! ⭐ 913
+4. **[DanMcInerney/architect-loop](https://github.com/DanMcInerney/architect-loop)** — A research-backed Claude Code skill for the cross-vendor agent loop. ⭐ 488
+
+</details>
+
+<details>
 <summary><strong>2026-06-16</strong></summary>
 
 #### Papers

@@ -1,134 +1,122 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "papers": [
     {
-      "title": "Selective Control under Noisy Perception: Governance Failures Hidden by Aggregate Metrics in Modular Networks",
-      "url": "https://arxiv.org/abs/2606.14819",
-      "summary": "A content-moderation system can score well on every standard accuracy metric and still cause real harm, if its mistakes fall on the few users who connect otherwise separate communities. We show this i"
+      "title": "Rethinking the Role of Efficient Attention in Hybrid Architectures",
+      "url": "https://arxiv.org/abs/2606.15378",
+      "summary": "Modern language models increasingly adopt hybrid architectures that combine full attention with efficient attention modules, such as sliding-window attention (SWA) and recurrent sequence mixers. Howev"
     },
     {
-      "title": "Who Flips? Self- and Cross-Model Counterarguments Reveal Answer Instability in LLMs",
-      "url": "https://arxiv.org/abs/2606.16011",
-      "summary": "Standard accuracy benchmarks are designed to test how closely large language models (LLMs) approach correct answers, but are not suitable for testing whether LLMs stick with a correct answer when that"
+      "title": "ChLogic: Evaluating Robustness of Logical Reasoning in Chinese Expressions",
+      "url": "https://arxiv.org/abs/2606.17905",
+      "summary": "Large language models perform increasingly well on standardized logical reasoning benchmarks, but whether this ability remains robust beyond English is unclear. We introduce ChLogic, an English--Chine"
     },
     {
-      "title": "Where Did It Go Wrong? Process-Level Evaluation of Web Agents with Semantic State Tracking",
-      "url": "https://arxiv.org/abs/2606.15673",
-      "summary": "Web agents act through long interaction sequences, yet existing benchmarks evaluate only terminal success, discarding all process information and offering little guidance on improvement. In this work,"
+      "title": "MotionVLA: Vision-Language-Action Model for Humanoid Motion",
+      "url": "https://arxiv.org/abs/2606.15142",
+      "summary": "Generating realistic humanoid motion from scene images and text involves both low-frequency pose semantics and high-frequency physical dynamics. However, many existing methods tokenize motion with a s"
     },
     {
-      "title": "PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory",
-      "url": "https://arxiv.org/abs/2606.16449",
-      "summary": "Consistent video generation under editing operations requires persistence: when edits modify scene appearance or layout, subsequent generations should remain coherent across time and viewpoints. Howev"
+      "title": "Show the Signal, Hide the Noise: Spectral Forcing for Pixel-Space Diffusion",
+      "url": "https://arxiv.org/abs/2606.15236",
+      "summary": "Pixel-space diffusion models are trained on full-bandwidth noisy images, yet the useful signal available to the denoiser is strongly frequency dependent. Under rectified-flow diffusion and natural-ima"
     },
     {
-      "title": "Geometric Action Model for Robot Policy Learning",
-      "url": "https://arxiv.org/abs/2606.17046",
-      "summary": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and"
+      "title": "ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining",
+      "url": "https://arxiv.org/abs/2606.17200",
+      "summary": "Vision-Language-Action (VLA) models benefit from large-scale and diverse embodied data, yet scaling robot trajectory collection is costly and labor-intensive. Recent advances show that large-scale ego"
     },
     {
-      "title": "Implicit Reasoning for Large Language Model-based Generative Recommendation",
-      "url": "https://arxiv.org/abs/2606.14142",
-      "summary": "Large Language Models (LLMs) are increasingly adopted as backbones for Generative Recommendation (GR), promising access to pretrained world knowledge. Yet reliably invoking this knowledge for GR remai"
+      "title": "Variable-Width Transformers",
+      "url": "https://arxiv.org/abs/2606.18246",
+      "summary": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocat"
     },
     {
-      "title": "PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions",
-      "url": "https://arxiv.org/abs/2606.14832",
-      "summary": "Phone agents are increasingly expected to complete real mobile workflows rather than merely predict the next screen action. However, much of the current mobile-agent literature still evaluates agents "
+      "title": "ProCUA-SFT Technical Report",
+      "url": "https://arxiv.org/abs/2606.17321",
+      "summary": "Training computer-use agents (CUAs) -- models that interact with graphical desktops through screenshots and keyboard/mouse actions -- requires large-scale, diverse trajectory data collected in full de"
     },
     {
-      "title": "Artificial Intelligence Index Report 2026",
-      "url": "https://arxiv.org/abs/2606.15708",
-      "summary": "Welcome to the ninth edition of the AI Index report. As AI continues to advance rapidly, the question becomes whether the systems built around it can keep up. Governance frameworks, evaluation methods"
+      "title": "LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling",
+      "url": "https://arxiv.org/abs/2606.18023",
+      "summary": "Looped Transformers scale latent computation by repeatedly applying shared blocks, but sequential looping increases latency and KV-cache memory with the loop count. Parallel loop Transformers (PLT) al"
     },
     {
-      "title": "Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving",
-      "url": "https://arxiv.org/abs/2606.06302",
-      "summary": "Multi-turn LLM serving accumulates dialogue history whose Key-Value (KV) cache grows with every turn and every user, quickly exceeding the model weights themselves and making memory -- not compute -- "
+      "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+      "url": "https://arxiv.org/abs/2606.18216",
+      "summary": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it "
     },
     {
-      "title": "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence",
-      "url": "https://arxiv.org/abs/2606.14777",
-      "summary": "Many moments in the real world do not wait for a user to ask. A fire starts on a security monitor, an expression flickers across a video call, or a product a viewer wants flashes by in a livestream. Y"
+      "title": "OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2606.17628",
+      "summary": "Memory has become a standard substrate for self-evolving agents, yet retaining experience is not the same as learning how to evolve through it. Existing memory agents can store trajectories, retrieve "
     }
   ],
   "blog_posts": [
     {
-      "title": "Apple Foundation Models",
-      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "author": "platform.claude.com"
+      "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "author": "theregister.com"
     },
     {
-      "title": "Can Europe train a frontier AI model on the compute it owns?",
-      "url": "https://github.com/sammysltd/euromesh",
-      "author": "github.com"
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "author": "tno.nl"
     },
     {
-      "title": "Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "author": "anthropic.com"
+      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+      "author": "qwen.ai"
     },
     {
-      "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
-      "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
-      "author": "wheresyoured.at"
-    },
-    {
-      "title": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
-      "url": "https://shonczinner.github.io/posts/embedding-prediction/",
-      "author": "shonczinner.github.io"
-    },
-    {
-      "title": "Building a Chrome Extension to Make AI Use More Intentional",
-      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
-      "author": "Julien Avezou"
-    },
-    {
-      "title": "Has Sloan Flagged Your Article Lately?",
-      "url": "https://dev.to/dannwaneri/has-sloan-flagged-your-article-lately-1gmh",
+      "title": "I Got Flagged by Sloan. Sloan Is a Guy I Know.",
+      "url": "https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e",
       "author": "Daniel Nwaneri"
     },
     {
-      "title": "AI Isn't Something to Trust — It's Something to Design (Series Final)",
-      "url": "https://dev.to/ryantsuji/ai-isnt-something-to-trust-its-something-to-design-series-final-30aa",
-      "author": "Ryosuke Tsuji"
+      "title": "A Company AI Flagged My Article As \"Low Quality.\" I Ran the Numbers. Then I Ran Again.",
+      "url": "https://dev.to/xulingfeng/a-company-ai-flagged-my-article-as-low-quality-i-ran-the-numbers-then-i-ran-again-1h0p",
+      "author": "xulingfeng"
+    },
+    {
+      "title": "BrowserAct vs Playwright: Where Test Automation Hits Real-World Anti-Bot Friction (Hands-On Comparison)",
+      "url": "https://dev.to/hadil/browseract-vs-playwright-where-test-automation-hits-real-world-anti-bot-friction-hands-on-432l",
+      "author": "Hadil Ben Abdallah"
+    },
+    {
+      "title": "What Competitive Programming Taught Me That AI Tutorials Never Did",
+      "url": "https://medium.com/@himanshsaini417/what-competitive-programming-taught-me-that-ai-tutorials-never-did-3528300a0c36",
+      "author": "Himanshu Saini"
     }
   ],
   "repos": [
     {
-      "name": "mikeroyal/Self-Hosting-Guide",
-      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
-      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Autom",
-      "stars": 21230,
-      "language": "Dockerfile"
-    },
-    {
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 18257,
-      "language": "HTML"
-    },
-    {
-      "name": "teslamate-org/teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "stars": 8302,
-      "language": "Elixir"
-    },
-    {
-      "name": "shuvonsec/claude-bug-bounty",
-      "url": "https://github.com/shuvonsec/claude-bug-bounty",
-      "description": "AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code.",
-      "stars": 3250,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 21333,
       "language": "Python"
     },
     {
-      "name": "orange2ai/renwei-writing",
-      "url": "https://github.com/orange2ai/renwei-writing",
-      "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-      "stars": 685,
-      "language": null
+      "name": "microsoft/fara",
+      "url": "https://github.com/microsoft/fara",
+      "description": "Fara-7B: An Efficient Agentic Model for Computer Use",
+      "stars": 5827,
+      "language": "Python"
+    },
+    {
+      "name": "moorcheh-ai/memanto",
+      "url": "https://github.com/moorcheh-ai/memanto",
+      "description": "Memory that AI Agents Love!",
+      "stars": 913,
+      "language": "Python"
+    },
+    {
+      "name": "DanMcInerney/architect-loop",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "stars": 488,
+      "language": "HTML"
     }
   ],
   "tweets": []

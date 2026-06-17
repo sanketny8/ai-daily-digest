@@ -1,35 +1,4 @@
 {
-  "2026-05-17": {
-    "papers": [
-      "http://arxiv.org/abs/2605.15199v1",
-      "http://arxiv.org/abs/2605.15198v1",
-      "http://arxiv.org/abs/2605.15196v1",
-      "http://arxiv.org/abs/2605.15188v1",
-      "http://arxiv.org/abs/2605.15186v1",
-      "http://arxiv.org/abs/2605.15185v1",
-      "http://arxiv.org/abs/2605.15184v1",
-      "http://arxiv.org/abs/2605.15183v1",
-      "http://arxiv.org/abs/2605.15179v1",
-      "http://arxiv.org/abs/2605.15177v1"
-    ],
-    "blogs": [
-      "https://www.seangoedecke.com/steering-vectors/",
-      "https://arxiv.org/abs/2605.12357",
-      "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "https://firethering.com/chatgpt-bank-account-plaid-openai/",
-      "https://carlcorrensfoundation.medium.com/on-biological-neural-systems-underlying-intelligence-ebd1ec55bd70",
-      "https://medium.com/@hungryclaw/happycapy-review-2026-ai-agents-without-terminal-babysitting-77c746437570",
-      "https://medium.com/@dsmithdesignleadership/who-gets-to-define-the-future-of-design-d4daf95fb7a6"
-    ],
-    "repos": [
-      "https://github.com/HKUDS/CLI-Anything",
-      "https://github.com/luongnv89/claude-howto",
-      "https://github.com/confident-ai/deepeval",
-      "https://github.com/BigBodyCobain/Shadowbroker",
-      "https://github.com/colbymchenry/codegraph",
-      "https://github.com/dograh-hq/dograh"
-    ]
-  },
   "2026-05-18": {
     "papers": [
       "https://arxiv.org/abs/2605.15181",
@@ -925,6 +894,35 @@
       "https://github.com/teslamate-org/teslamate",
       "https://github.com/shuvonsec/claude-bug-bounty",
       "https://github.com/orange2ai/renwei-writing"
+    ]
+  },
+  "2026-06-17": {
+    "papers": [
+      "https://arxiv.org/abs/2606.15378",
+      "https://arxiv.org/abs/2606.17905",
+      "https://arxiv.org/abs/2606.15142",
+      "https://arxiv.org/abs/2606.15236",
+      "https://arxiv.org/abs/2606.17200",
+      "https://arxiv.org/abs/2606.18246",
+      "https://arxiv.org/abs/2606.17321",
+      "https://arxiv.org/abs/2606.18023",
+      "https://arxiv.org/abs/2606.18216",
+      "https://arxiv.org/abs/2606.17628"
+    ],
+    "blogs": [
+      "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "https://qwen.ai/blog?id=qwen-robotsuite",
+      "https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e",
+      "https://dev.to/xulingfeng/a-company-ai-flagged-my-article-as-low-quality-i-ran-the-numbers-then-i-ran-again-1h0p",
+      "https://dev.to/hadil/browseract-vs-playwright-where-test-automation-hits-real-world-anti-bot-friction-hands-on-432l",
+      "https://medium.com/@himanshsaini417/what-competitive-programming-taught-me-that-ai-tutorials-never-did-3528300a0c36"
+    ],
+    "repos": [
+      "https://github.com/google-research/timesfm",
+      "https://github.com/microsoft/fara",
+      "https://github.com/moorcheh-ai/memanto",
+      "https://github.com/DanMcInerney/architect-loop"
     ]
   }
 }
