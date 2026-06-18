@@ -1,36 +1,4 @@
 {
-  "2026-05-18": {
-    "papers": [
-      "https://arxiv.org/abs/2605.15181",
-      "https://arxiv.org/abs/2605.12038",
-      "https://arxiv.org/abs/2605.15876",
-      "https://arxiv.org/abs/2605.15824",
-      "https://arxiv.org/abs/2605.14539",
-      "https://arxiv.org/abs/2605.16257",
-      "https://arxiv.org/abs/2605.15843",
-      "https://arxiv.org/abs/2605.15726",
-      "https://arxiv.org/abs/2605.13527",
-      "https://arxiv.org/abs/2605.15320"
-    ],
-    "blogs": [
-      "https://github.com/MinishLab/semble",
-      "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-      "https://github.com/ShurikenTrade/shuriken-skills",
-      "https://medium.com/@jawariamajeed065/when-the-system-learned-too-well-2691afe09f6f",
-      "https://jaideeparashar.medium.com/from-silos-to-systems-ai-as-an-organizational-glue-413a6134f768",
-      "https://medium.com/@omanyuk/cgt-availability-a-python-library-for-scientific-claim-diagnostics-not-truth-judgments-f4f10055c271",
-      "https://warrenbrownwriter.medium.com/the-time-for-speed-has-arrived-bbac5769b584"
-    ],
-    "repos": [
-      "https://github.com/langflow-ai/langflow",
-      "https://github.com/KeygraphHQ/shannon",
-      "https://github.com/knadh/listmonk",
-      "https://github.com/NirDiamant/agents-towards-production",
-      "https://github.com/yichuan-w/LEANN",
-      "https://github.com/simular-ai/Agent-S",
-      "https://github.com/NVlabs/Sana"
-    ]
-  },
   "2026-05-19": {
     "papers": [
       "https://arxiv.org/abs/2605.18396",
@@ -923,6 +891,41 @@
       "https://github.com/microsoft/fara",
       "https://github.com/moorcheh-ai/memanto",
       "https://github.com/DanMcInerney/architect-loop"
+    ]
+  },
+  "2026-06-18": {
+    "papers": [
+      "https://arxiv.org/abs/2606.19341",
+      "https://arxiv.org/abs/2606.17539",
+      "https://arxiv.org/abs/2606.18322",
+      "https://arxiv.org/abs/2606.18101",
+      "https://arxiv.org/abs/2606.19005",
+      "https://arxiv.org/abs/2606.14383",
+      "https://arxiv.org/abs/2606.16533",
+      "https://arxiv.org/abs/2606.19336",
+      "https://arxiv.org/abs/2606.18375",
+      "https://arxiv.org/abs/2606.18943"
+    ],
+    "blogs": [
+      "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "https://claude.com/blog/the-founders-playbook",
+      "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "https://artificialanalysis.ai/models/glm-5-2",
+      "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+      "https://github.com/evanklem/polypore",
+      "https://nathan.rs/posts/gzip-lm/",
+      "https://openai.com/index/ai-chemist-improves-reaction/",
+      "https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm"
+    ],
+    "repos": [
+      "https://github.com/mattpocock/skills",
+      "https://github.com/infiniflow/ragflow",
+      "https://github.com/PaddlePaddle/PaddleOCR",
+      "https://github.com/bytedance/UI-TARS-desktop",
+      "https://github.com/Alishahryar1/free-claude-code",
+      "https://github.com/continuedev/continue",
+      "https://github.com/microsoft/RD-Agent",
+      "https://github.com/yairm210/Unciv"
     ]
   }
 }

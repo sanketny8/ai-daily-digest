@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-18</strong></summary>
+
+#### Papers
+1. **[Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/abs/2606.19341)** — This paper critiques passive models for video understanding, proposing a more efficient approach to processing frames.
+2. **[Reinforcing Dual-Path Reasoning in Spatial Vision Language Models](https://arxiv.org/abs/2606.17539)** — It addresses the challenges in spatial reasoning for vision-language models, emphasizing the need for multi-step inference.
+3. **[SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](https://arxiv.org/abs/2606.18322)** — This study questions the reliability of Sparse Autoencoders in identifying unsafe behaviors in AI models.
+4. **[Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding](https://arxiv.org/abs/2606.18101)** — The paper explores self-distillation techniques to enhance GUI grounding in vision-language models.
+5. **[Sumi: Open Uniform Diffusion Language Model from Scratch](https://arxiv.org/abs/2606.19005)** — It introduces a new diffusion model that allows flexible token updates, enhancing language model capabilities.
+6. **[IndustryBench-MIPU: Benchmarking Multi-Image Attribute Value Extraction for Industrial Products](https://arxiv.org/abs/2606.14383)** — This paper presents a benchmark for extracting attributes from industrial product images, aiding procurement and safety.
+7. **[Kairos: A Native World Model Stack for Physical AI](https://arxiv.org/abs/2606.16533)** — It discusses the evolution of world models for Physical AI, focusing on knowledge acquisition from diverse experiences.
+8. **[Learning User Simulators with Turing Rewards](https://arxiv.org/abs/2606.19336)** — This research proposes methods for simulating human users to improve AI training and evaluation systems.
+9. **[PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation](https://arxiv.org/abs/2606.18375)** — The paper presents a model that enhances 3D consistency for robotic manipulation tasks.
+10. **[Physics-IQ Verified](https://arxiv.org/abs/2606.18943)** — It explores video generative models for various applications, including world modeling and task advancement.
+
+#### Blog Posts
+1. **[GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)** by artificialanalysis.ai
+2. **[The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook)** by claude.com
+3. **[A robot is sprinting towards you. Do you want it running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)** by openrouter.ai
+4. **[ChatGPT's image generator can be manipulated to produce violent, sexual content](https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt)** by mindgard.ai
+5. **[Using AI to improve a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)** by openai.com
+6. **[How I use premortems with Claude and Codex](https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm)** by Pavel Kalo
+
+#### Trending Repos
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .claude directory. ⭐ 134102
+2. **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** — A leading open-source Retrieval-Augmented Generation engine with advanced capabilities. ⭐ 83074
+3. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — An OCR toolkit that converts documents into structured data for AI. ⭐ 82876
+4. **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — Open-source multimodal AI agent stack connecting AI models and infrastructure. ⭐ 36755
+5. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use Claude code and Codex for free in various environments. ⭐ 35204
+6. **[continuedev/continue](https://github.com/continuedev/continue)** — Open-source coding agent for enhanced programming assistance. ⭐ 33980
+7. **[microsoft/RD-Agent](https://github.com/microsoft/RD-Agent)** — R&D tools focused on enhancing industrial productivity in the AI era. ⭐ 13507
+8. **[yairm210/Unciv](https://github.com/yairm210/Unciv)** — Open-source remake of Civilization V for Android and Desktop. ⭐ 10712
+
+</details>
+
+<details>
 <summary><strong>2026-06-17</strong></summary>
 
 #### Papers

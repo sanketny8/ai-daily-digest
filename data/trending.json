@@ -1,122 +1,160 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "papers": [
     {
-      "title": "Rethinking the Role of Efficient Attention in Hybrid Architectures",
-      "url": "https://arxiv.org/abs/2606.15378",
-      "summary": "Modern language models increasingly adopt hybrid architectures that combine full attention with efficient attention modules, such as sliding-window attention (SWA) and recurrent sequence mixers. Howev"
+      "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
+      "url": "https://arxiv.org/abs/2606.19341",
+      "summary": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video durat"
     },
     {
-      "title": "ChLogic: Evaluating Robustness of Logical Reasoning in Chinese Expressions",
-      "url": "https://arxiv.org/abs/2606.17905",
-      "summary": "Large language models perform increasingly well on standardized logical reasoning benchmarks, but whether this ability remains robust beyond English is unclear. We introduce ChLogic, an English--Chine"
+      "title": "Reinforcing Dual-Path Reasoning in Spatial Vision Language Models",
+      "url": "https://arxiv.org/abs/2606.17539",
+      "summary": "Spatial VLMs have made substantial progress in geometric perception, yet complex spatial reasoning requiring multi-step inference over depth, distance, and scene relations remains challenging. Moreove"
     },
     {
-      "title": "MotionVLA: Vision-Language-Action Model for Humanoid Motion",
-      "url": "https://arxiv.org/abs/2606.15142",
-      "summary": "Generating realistic humanoid motion from scene images and text involves both low-frequency pose semantics and high-frequency physical dynamics. However, many existing methods tokenize motion with a s"
+      "title": "SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior",
+      "url": "https://arxiv.org/abs/2606.18322",
+      "summary": "Sparse Autoencoders (SAEs) decompose residual-stream activations into interpretable features. Recent latent-space defenses increasingly rely on these decompositions, assuming that identified \"unsafe\" "
     },
     {
-      "title": "Show the Signal, Hide the Noise: Spectral Forcing for Pixel-Space Diffusion",
-      "url": "https://arxiv.org/abs/2606.15236",
-      "summary": "Pixel-space diffusion models are trained on full-bandwidth noisy images, yet the useful signal available to the denoiser is strongly frequency dependent. Under rectified-flow diffusion and natural-ima"
+      "title": "Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding",
+      "url": "https://arxiv.org/abs/2606.18101",
+      "summary": "Graphical user interface (GUI) grounding requires vision-language models (VLMs) to identify small target elements in high-resolution screenshots and predict precise screen coordinates. On-policy self-"
     },
     {
-      "title": "ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining",
-      "url": "https://arxiv.org/abs/2606.17200",
-      "summary": "Vision-Language-Action (VLA) models benefit from large-scale and diverse embodied data, yet scaling robot trajectory collection is costly and labor-intensive. Recent advances show that large-scale ego"
+      "title": "Sumi: Open Uniform Diffusion Language Model from Scratch",
+      "url": "https://arxiv.org/abs/2606.19005",
+      "summary": "Diffusion models have become a promising alternative to autoregressive models. Among these, uniform diffusion language models (UDLMs) permit any token to be updated at any step, in principle enabling "
     },
     {
-      "title": "Variable-Width Transformers",
-      "url": "https://arxiv.org/abs/2606.18246",
-      "summary": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocat"
+      "title": "IndustryBench-MIPU: Benchmarking Multi-Image Attribute Value Extraction for Industrial Products",
+      "url": "https://arxiv.org/abs/2606.14383",
+      "summary": "Industrial products such as valves and circuit breakers are defined by dense technical specifications that govern procurement, compatibility, and safety across supply chains. These specifications are "
     },
     {
-      "title": "ProCUA-SFT Technical Report",
-      "url": "https://arxiv.org/abs/2606.17321",
-      "summary": "Training computer-use agents (CUAs) -- models that interact with graphical desktops through screenshots and keyboard/mouse actions -- requires large-scale, diverse trajectory data collected in full de"
+      "title": "Kairos: A Native World Model Stack for Physical AI",
+      "url": "https://arxiv.org/abs/2606.16533",
+      "summary": "World models are transitioning from passive visual generators to foundational, operational infrastructure for Physical AI: they must natively acquire world knowledge from heterogeneous experience, mai"
     },
     {
-      "title": "LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling",
-      "url": "https://arxiv.org/abs/2606.18023",
-      "summary": "Looped Transformers scale latent computation by repeatedly applying shared blocks, but sequential looping increases latency and KV-cache memory with the loop count. Parallel loop Transformers (PLT) al"
+      "title": "Learning User Simulators with Turing Rewards",
+      "url": "https://arxiv.org/abs/2606.19336",
+      "summary": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing appr"
     },
     {
-      "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
-      "url": "https://arxiv.org/abs/2606.18216",
-      "summary": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it "
+      "title": "PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2606.18375",
+      "summary": "World foundation models (WFMs) are powerful simulators, yet they predominantly operate in a single-view setting and lack the multi-view 3D consistency required for robotic manipulation. While robotic "
     },
     {
-      "title": "OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2606.17628",
-      "summary": "Memory has become a standard substrate for self-evolving agents, yet retaining experience is not the same as learning how to evolve through it. Existing memory agents can store trajectories, retrieve "
+      "title": "Physics-IQ Verified",
+      "url": "https://arxiv.org/abs/2606.18943",
+      "summary": "Video generative models ( VGMs) have become a new frontier that can be used not just for video generation but for a multitude of downstream tasks, including world modeling. To advance these tasks, a g"
     }
   ],
   "blog_posts": [
     {
-      "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
-      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "author": "theregister.com"
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "author": "artificialanalysis.ai"
     },
     {
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "author": "tno.nl"
+      "title": "The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "author": "claude.com"
     },
     {
-      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-      "author": "qwen.ai"
+      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "author": "openrouter.ai"
     },
     {
-      "title": "I Got Flagged by Sloan. Sloan Is a Guy I Know.",
-      "url": "https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e",
-      "author": "Daniel Nwaneri"
+      "title": "GLM 5.2 Performance Benchmarks",
+      "url": "https://artificialanalysis.ai/models/glm-5-2",
+      "author": "artificialanalysis.ai"
     },
     {
-      "title": "A Company AI Flagged My Article As \"Low Quality.\" I Ran the Numbers. Then I Ran Again.",
-      "url": "https://dev.to/xulingfeng/a-company-ai-flagged-my-article-as-low-quality-i-ran-the-numbers-then-i-ran-again-1h0p",
-      "author": "xulingfeng"
+      "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
+      "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+      "author": "mindgard.ai"
     },
     {
-      "title": "BrowserAct vs Playwright: Where Test Automation Hits Real-World Anti-Bot Friction (Hands-On Comparison)",
-      "url": "https://dev.to/hadil/browseract-vs-playwright-where-test-automation-hits-real-world-anti-bot-friction-hands-on-432l",
-      "author": "Hadil Ben Abdallah"
+      "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+      "url": "https://github.com/evanklem/polypore",
+      "author": "github.com"
     },
     {
-      "title": "What Competitive Programming Taught Me That AI Tutorials Never Did",
-      "url": "https://medium.com/@himanshsaini417/what-competitive-programming-taught-me-that-ai-tutorials-never-did-3528300a0c36",
-      "author": "Himanshu Saini"
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "author": "AviKav"
+    },
+    {
+      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
+      "author": "openai.com"
+    },
+    {
+      "title": "How I use premortems with Claude and Codex",
+      "url": "https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm",
+      "author": "Pavel Kalo"
     }
   ],
   "repos": [
     {
-      "name": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 21333,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": 134102,
+      "language": "Shell"
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 83074,
       "language": "Python"
     },
     {
-      "name": "microsoft/fara",
-      "url": "https://github.com/microsoft/fara",
-      "description": "Fara-7B: An Efficient Agentic Model for Computer Use",
-      "stars": 5827,
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars": 82876,
       "language": "Python"
     },
     {
-      "name": "moorcheh-ai/memanto",
-      "url": "https://github.com/moorcheh-ai/memanto",
-      "description": "Memory that AI Agents Love!",
-      "stars": 913,
+      "name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars": 36755,
+      "language": "TypeScript"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)",
+      "stars": 35204,
       "language": "Python"
     },
     {
-      "name": "DanMcInerney/architect-loop",
-      "url": "https://github.com/DanMcInerney/architect-loop",
-      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
-      "stars": 488,
-      "language": "HTML"
+      "name": "continuedev/continue",
+      "url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "stars": 33980,
+      "language": "TypeScript"
+    },
+    {
+      "name": "microsoft/RD-Agent",
+      "url": "https://github.com/microsoft/RD-Agent",
+      "description": "Research and development (R&amp;D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&amp;D are mainly focused on data and models. We are ",
+      "stars": 13507,
+      "language": "Python"
+    },
+    {
+      "name": "yairm210/Unciv",
+      "url": "https://github.com/yairm210/Unciv",
+      "description": "Open-source Android/Desktop remake of Civ V",
+      "stars": 10712,
+      "language": "Kotlin"
     }
   ],
   "tweets": []
