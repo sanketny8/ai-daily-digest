@@ -1,39 +1,4 @@
 {
-  "2026-05-19": {
-    "papers": [
-      "https://arxiv.org/abs/2605.18396",
-      "https://arxiv.org/abs/2605.18451",
-      "https://arxiv.org/abs/2605.17242",
-      "https://arxiv.org/abs/2605.18287",
-      "https://arxiv.org/abs/2605.18601",
-      "https://arxiv.org/abs/2605.16819",
-      "https://arxiv.org/abs/2605.17933",
-      "https://arxiv.org/abs/2605.18743",
-      "https://arxiv.org/abs/2605.18747",
-      "https://arxiv.org/abs/2605.16839"
-    ],
-    "blogs": [
-      "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "https://odyssey.ml/introducing-agora-1",
-      "https://modal.com/blog/truly-serverless-gpus",
-      "https://arxiv.org/abs/2601.10160",
-      "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
-      "https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f",
-      "https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p",
-      "https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79",
-      "https://dev.to/devengers/honesty-is-the-best-policy-the-secret-wars-on-the-use-of-ai-on-dev-5606"
-    ],
-    "repos": [
-      "https://github.com/ggml-org/llama.cpp",
-      "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "https://github.com/humanlayer/12-factor-agents",
-      "https://github.com/topoteretes/cognee",
-      "https://github.com/GreyDGL/PentestGPT",
-      "https://github.com/Imbad0202/academic-research-skills",
-      "https://github.com/tech-leads-club/agent-skills"
-    ]
-  },
   "2026-05-20": {
     "papers": [
       "https://arxiv.org/abs/2605.15458",
@@ -926,6 +891,41 @@
       "https://github.com/continuedev/continue",
       "https://github.com/microsoft/RD-Agent",
       "https://github.com/yairm210/Unciv"
+    ]
+  },
+  "2026-06-19": {
+    "papers": [
+      "https://arxiv.org/abs/2604.13416",
+      "https://arxiv.org/abs/2606.19419",
+      "https://arxiv.org/abs/2606.20515",
+      "https://arxiv.org/abs/2606.20563",
+      "https://arxiv.org/abs/2606.16817",
+      "https://arxiv.org/abs/2606.19605",
+      "https://arxiv.org/abs/2606.15527",
+      "https://arxiv.org/abs/2606.18231",
+      "https://arxiv.org/abs/2606.19980",
+      "https://arxiv.org/abs/2606.20083"
+    ],
+    "blogs": [
+      "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "https://agenticresourcediscovery.org/introduction/",
+      "https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao",
+      "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+      "https://dev.to/xulingfeng/our-competitor-had-an-ai-that-covered-972-we-had-a-spreadsheet-and-a-fake-quote-guess-who-won-5cc3",
+      "https://www.mcsweeneys.net/articles/ai-economics-for-dummies"
+    ],
+    "repos": [
+      "https://github.com/crewAIInc/crewAI",
+      "https://github.com/microsoft/qlib",
+      "https://github.com/Kong/insomnia",
+      "https://github.com/anthropics/financial-services",
+      "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "https://github.com/openai/skills",
+      "https://github.com/Kilo-Org/kilocode",
+      "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "https://github.com/livekit/agents",
+      "https://github.com/Lightricks/LTX-2"
     ]
   }
 }

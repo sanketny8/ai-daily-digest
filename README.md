@@ -10,6 +10,43 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-19</strong></summary>
+
+#### Papers
+1. **[DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis](https://arxiv.org/abs/2604.13416)** — This paper presents a dataset that enhances photorealistic novel view synthesis, supporting comprehensive benchmarking.
+2. **[Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419)** — Explores the development of reusable skills in agentic robot systems beyond mere task-driven behavior.
+3. **[S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence](https://arxiv.org/abs/2606.20515)** — Introduces a model that enhances spatial reasoning in dynamic 3D environments through tool use.
+4. **[JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising](https://arxiv.org/abs/2606.20563)** — Proposes a method for quickly generating 3D visual illusions from a single mesh viewed from different angles.
+5. **[FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines](https://arxiv.org/abs/2606.19605)** — Discusses a system for optimizing multi-step LLM pipelines to improve performance across various tasks.
+6. **[ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980)** — Focuses on enabling robots to improve their manipulation skills autonomously in real-world settings.
+7. **[Holo-World: Unified Camera, Object and Weather Control for Video World Model](https://arxiv.org/abs/2606.20083)** — Introduces a unified model for controlling environmental variables in video world simulations.
+8. **[Understanding the Behaviors of Environment-aware Information Retrieval](https://arxiv.org/abs/2606.16817)** — Investigates the challenges in retrieval-augmented generation approaches for complex queries.
+9. **[Adaptive Volumetric Mechanical Property Fields Invariant to Resolution](https://arxiv.org/abs/2606.18231)** — Addresses the need for accurate mechanical properties in digital physics simulations for 3D assets.
+10. **[How Transparent is DiffusionGemma?](http://arxiv.org/abs/2606.20560v1)** — Examines the transparency of LLM reasoning, crucial for understanding model decisions and mitigating misuse.
+
+#### Blog Posts
+1. **[Noam Shazeer Joins OpenAI](https://twitter.com/NoamShazeer/status/2067400851438932297)** by Noam Shazeer
+2. **[Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)** by Model Context Protocol
+3. **[Agentic Resource Discovery Specification](https://agenticresourcediscovery.org/introduction/)** by Agentic Resource Discovery
+4. **[Tower Before Dusk: I Built a Puzzle Game for Humans and AI](https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao)** by Daniel Balcarek
+5. **[The Future of the Con Is Already Here, It's Just Not Evenly Distributed](http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/)** by Manishearth
+6. **[Our Competitor Had an AI That Covered 97.2%. We Had a Spreadsheet and a Fake Quote. Guess Who Won.](https://dev.to/xulingfeng/our-competitor-had-an-ai-that-covered-972-we-had-a-spreadsheet-and-a-fake-quote-guess-who-won-5cc3)** by xulingfeng
+7. **[AI Economics for Dummies](https://www.mcsweeneys.net/articles/ai-economics-for-dummies)** by Yogthos
+
+#### Trending Repos
+1. **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. ⭐ 53937
+2. **[microsoft/qlib](https://github.com/microsoft/qlib)** — AI-oriented Quant investment platform for empowering Quant Research. ⭐ 44786
+3. **[Kong/insomnia](https://github.com/Kong/insomnia)** — Open-source API client for GraphQL, REST, and more. ⭐ 38751
+4. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Library for turning AI agents into scientists with ready-to-use skills. ⭐ 28713
+5. **[openai/skills](https://github.com/openai/skills)** — Skills Catalog for Codex. ⭐ 22514
+6. **[Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)** — All-in-one agentic engineering platform for faster development. ⭐ 22367
+7. **[livekit/agents](https://github.com/livekit/agents)** — Framework for building realtime voice AI agents. ⭐ 11047
+8. **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** — Official Python package for the LTX-2 audio-video generative model. ⭐ 7530
+9. **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence MCP server for indexing codebases. ⭐ 7285
+
+</details>
+
+<details>
 <summary><strong>2026-06-18</strong></summary>
 
 #### Papers
