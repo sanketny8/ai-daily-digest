@@ -1,163 +1,141 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "papers": [
     {
-      "title": "DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis",
-      "url": "https://arxiv.org/abs/2604.13416",
-      "summary": "Advances in radiance fields have enabled photorealistic novel view synthesis. In several domains, large-scale real-world datasets have been developed to support comprehensive benchmarking and to facil"
+      "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+      "url": "https://arxiv.org/abs/2606.20529",
+      "summary": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifie"
     },
     {
-      "title": "Playful Agentic Robot Learning",
-      "url": "https://arxiv.org/abs/2606.19419",
-      "summary": "Current agentic robot systems can write executable Code-as-Policy programs, observe feedback, and revise behavior across multiple attempts, but they remain largely task-driven: reusable skills are acq"
+      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2606.17053",
+      "summary": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d"
     },
     {
-      "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
-      "url": "https://arxiv.org/abs/2606.20515",
-      "summary": "Real-world spatial intelligence requires reasoning over a continuous and evolving 3D world, yet existing VLMs and tool-augmented agents largely remain tied to static, stateless inference from isolated"
+      "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "url": "https://arxiv.org/abs/2606.19334",
+      "summary": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable"
     },
     {
-      "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
-      "url": "https://arxiv.org/abs/2606.20563",
-      "summary": "Creating 3D visual illusions, a single 3D mesh that reveals entirely different semantics from various viewing angles, is a fascinating but tough challenge. Existing optimization-based methods are slow"
+      "title": "ReSyn: A Generalized Recursive Regular Expression Synthesis Framework",
+      "url": "https://arxiv.org/abs/2603.24624",
+      "summary": "Existing Programming-By-Example (PBE) systems often rely on simplified benchmarks that fail to capture the high structural complexity of real-world regexes, such as deeper nesting and frequent use of "
     },
     {
-      "title": "Understanding the Behaviors of Environment-aware Information Retrieval",
-      "url": "https://arxiv.org/abs/2606.16817",
-      "summary": "Recent retrieval-augmented generation (RAG) approaches have demonstrated strong capability in handling complex queries, yet current research overlooks a critical challenge: different retrievers requir"
+      "title": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
+      "url": "https://arxiv.org/abs/2606.18021",
+      "summary": "AI systems deployed in legal workflows hallucinate at rates that aggregate metrics report at ~52%, but this average conceals where errors concentrate and in which direction they run, leaving complianc"
     },
     {
-      "title": "FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines",
-      "url": "https://arxiv.org/abs/2606.19605",
-      "summary": "Multi-step LLM pipelines fail through interactions among retrieval, reasoning, and formatting steps, so prompt-only optimization can miss bottlenecks in the chain. We present FAPO (Fully Autonomous Pr"
+      "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+      "url": "https://arxiv.org/abs/2606.19602",
+      "summary": "Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete"
     },
     {
-      "title": "Selective Synergistic Learning for Video Object-Centric Learning",
-      "url": "https://arxiv.org/abs/2606.15527",
-      "summary": "Typical video object-centric learning (VOCL) approaches employ slot-based frameworks that rely on reconstruction-driven encoder-decoder architectures, where learning is mediated by two spatial maps: a"
+      "title": "The Data Manifold under the Microscope",
+      "url": "https://arxiv.org/abs/2606.15760",
+      "summary": "A significant gap exists between theory and practice in deep learning. Generalization and approximation error bounds are often derived for simplified models or are too loose to be informative. Many re"
     },
     {
-      "title": "Adaptive Volumetric Mechanical Property Fields Invariant to Resolution",
-      "url": "https://arxiv.org/abs/2606.18231",
-      "summary": "Accurate mechanical properties (or materials) Young's modulus (E), Poisson's ratio (ν) and density (ρ) are essential for reliable physics simulation of digital worlds, but most 3D assets lack this inf"
+      "title": "The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation",
+      "url": "https://arxiv.org/abs/2606.20536",
+      "summary": "The Frechet Inception Distance (FID) is the de facto arbiter of image generation, yet most papers report just a single number from a single trained model using a single sampling seed. How reproducible"
     },
     {
-      "title": "ENPIRE: Agentic Robot Policy Self-Improvement in the Real World",
-      "url": "https://arxiv.org/abs/2606.19980",
-      "summary": "Achieving dexterous robotic manipulation in the real world heavily relies on human supervision and algorithm engineering, which becomes a central bottleneck in the pursuit of general physical intellig"
+      "title": "Duration Aware Scheduling for ASR Serving Under Workload Drift",
+      "url": "https://arxiv.org/abs/2603.11273",
+      "summary": "Scheduling policies in large-scale Automatic Speech Recognition (ASR) serving pipelines play a key role in determining end-to-end (E2E) latency. Yet, widely used serving engines rely on first-come-fir"
     },
     {
-      "title": "Holo-World: Unified Camera, Object and Weather Control for Video World Model",
-      "url": "https://arxiv.org/abs/2606.20083",
-      "summary": "Video world models are moving toward preserving an observed world under controllable camera and object motion while allowing its environmental state to change. Yet these controls remain isolated, and "
+      "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
+      "url": "https://arxiv.org/abs/2606.20381",
+      "summary": "FP4 training promises substantial reductions in memory and computation cost for LLM pretraining, yet current FP4 hardware paths and recipes, including NVIDIA Blackwell/Rubin-class systems and AMD MI35"
     }
   ],
   "blog_posts": [
     {
-      "title": "Noam Shazeer Joins OpenAI",
-      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "author": "twitter.com"
+      "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
+      "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+      "author": "the-independent.com"
     },
     {
-      "title": "Zero-Touch OAuth for MCP",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "author": "blog.modelcontextprotocol.io"
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "author": "arrowtsx.dev"
     },
     {
-      "title": "Agentic Resource Discovery Specification",
-      "url": "https://agenticresourcediscovery.org/introduction/",
-      "author": "agenticresourcediscovery.org"
+      "title": "Internmaxxing vs. Old Man Shakes Fist at Cloud",
+      "url": "https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd",
+      "author": "Jonathan Murray"
     },
     {
-      "title": "Tower Before Dusk: I Built a Puzzle Game for Humans and AI",
-      "url": "https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao",
-      "author": "Daniel Balcarek"
-    },
-    {
-      "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed",
-      "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
-      "author": "Manishearth"
-    },
-    {
-      "title": "Our Competitor Had an AI That Covered 97.2%. We Had a Spreadsheet and a Fake Quote. Guess Who Won.",
-      "url": "https://dev.to/xulingfeng/our-competitor-had-an-ai-that-covered-972-we-had-a-spreadsheet-and-a-fake-quote-guess-who-won-5cc3",
-      "author": "xulingfeng"
-    },
-    {
-      "title": "AI Economics for Dummies",
-      "url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
-      "author": "Yogthos"
+      "title": "MiniMax M3 vs. GLM 5.2: Codegen comparison across autonomous coding tasks",
+      "url": "https://thinkwright.ai/minimax-m3-vs-glm-5-2-coding-benchmark",
+      "author": "thinkwright.ai"
     }
   ],
   "repos": [
     {
-      "name": "crewAIInc/crewAI",
-      "url": "https://github.com/crewAIInc/crewAI",
-      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-      "stars": 53937,
-      "language": "Python"
-    },
-    {
-      "name": "microsoft/qlib",
-      "url": "https://github.com/microsoft/qlib",
-      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl",
-      "stars": 44786,
-      "language": "Python"
-    },
-    {
-      "name": "Kong/insomnia",
-      "url": "https://github.com/Kong/insomnia",
-      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "stars": 38751,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 57397,
       "language": "TypeScript"
     },
     {
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "stars": 31908,
+      "name": "stanford-oval/storm",
+      "url": "https://github.com/stanford-oval/storm",
+      "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+      "stars": 28834,
       "language": "Python"
     },
     {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemist",
-      "stars": 28713,
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "stars": 27702,
+      "language": "HTML"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "stars": 8474,
+      "language": "C"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 6415,
       "language": "Python"
     },
     {
-      "name": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "stars": 22514,
-      "language": "Python"
-    },
-    {
-      "name": "Kilo-Org/kilocode",
-      "url": "https://github.com/Kilo-Org/kilocode",
-      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "stars": 22367,
+      "name": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "description": "The sandbox agent framework.",
+      "stars": 5890,
       "language": "TypeScript"
     },
     {
-      "name": "owainlewis/awesome-artificial-intelligence",
-      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-      "stars": 14477,
+      "name": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "stars": 4651,
       "language": ""
     },
     {
-      "name": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
-      "stars": 11047,
+      "name": "OSU-NLP-Group/HippoRAG",
+      "url": "https://github.com/OSU-NLP-Group/HippoRAG",
+      "description": "[NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized",
+      "stars": 3752,
       "language": "Python"
     },
     {
-      "name": "Lightricks/LTX-2",
-      "url": "https://github.com/Lightricks/LTX-2",
-      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-      "stars": 7530,
+      "name": "VectifyAI/OpenKB",
+      "url": "https://github.com/VectifyAI/OpenKB",
+      "description": "OpenKB: Open LLM Knowledge Base",
+      "stars": 2423,
       "language": "Python"
     }
   ],

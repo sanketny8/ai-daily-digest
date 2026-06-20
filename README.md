@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-20</strong></summary>
+
+#### Papers
+1. **[LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents](https://arxiv.org/abs/2606.20529)** — This paper discusses agents in customer service that maintain task states while adhering to policies.
+2. **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053)** — Explores how LLMs can better identify crucial evidence in complex contexts using reinforcement learning.
+3. **[Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States](https://arxiv.org/abs/2606.19334)** — Introduces a corpus to enhance access to local legal texts for AI applications.
+4. **[LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI](https://arxiv.org/abs/2606.18021)** — Focuses on auditing AI hallucinations in legal contexts to improve compliance and trustworthiness.
+5. **[Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why](https://arxiv.org/abs/2606.19602)** — Investigates challenges in extracting clinical information from diverse patient documents.
+6. **[The Data Manifold under the Microscope](https://arxiv.org/abs/2606.15760)** — Analyzes the gap between theoretical models and practical applications in deep learning.
+7. **[The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation](https://arxiv.org/abs/2606.20536)** — Critiques the use of FID as a sole metric for evaluating generative models.
+8. **[Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe](https://arxiv.org/abs/2606.20381)** — Discusses the implications of FP4 training on LLM efficiency and performance.
+9. **[Multi-Task Bayesian In-Context Learning](http://arxiv.org/abs/2606.20538v1)** — Proposes a Bayesian framework for improving data efficiency and generalization in machine learning.
+10. **[How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech](http://arxiv.org/abs/2606.20532v1)** — Investigates how language instructions influence the acoustic output in text-to-speech systems.
+
+#### Blog Posts
+1. **[Amazon drops Sam Altman movie after announcing OpenAI partnership](https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html)** by the-independent.com
+2. **[GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2](https://arrowtsx.dev/bigger-models/)** by arrowtsx.dev
+3. **[Internmaxxing vs. Old Man Shakes Fist at Cloud](https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd)** by Jonathan Murray
+4. **[MiniMax M3 vs. GLM 5.2: Codegen comparison across autonomous coding tasks](https://thinkwright.ai/minimax-m3-vs-glm-5-2-coding-benchmark)** by thinkwright.ai
+
+#### Trending Repos
+1. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** — Real-time global intelligence dashboard for news aggregation and geopolitical monitoring. ⭐ 57397
+2. **[stanford-oval/storm](https://github.com/stanford-oval/storm)** — LLM-powered knowledge curation system that generates comprehensive reports with citations. ⭐ 28834
+3. **[aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)** — A comprehensive repository for generative AI research updates and resources. ⭐ 27702
+4. **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — High-performance code intelligence server indexing codebases into a persistent knowledge graph. ⭐ 8474
+5. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — Open-source, agentic video production system with multiple tools and pipelines. ⭐ 6415
+6. **[withastro/flue](https://github.com/withastro/flue)** — The sandbox agent framework for building AI applications. ⭐ 5890
+7. **[OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** — A novel RAG framework inspired by human memory for LLMs. ⭐ 3752
+8. **[VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB)** — Open LLM Knowledge Base for various applications. ⭐ 2423
+
+</details>
+
+<details>
 <summary><strong>2026-06-19</strong></summary>
 
 #### Papers

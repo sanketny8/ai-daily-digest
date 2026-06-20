@@ -1,34 +1,4 @@
 {
-  "2026-05-20": {
-    "papers": [
-      "https://arxiv.org/abs/2605.15458",
-      "https://arxiv.org/abs/2605.19932",
-      "https://arxiv.org/abs/2605.18746",
-      "https://arxiv.org/abs/2605.18703",
-      "https://arxiv.org/abs/2605.18827",
-      "https://arxiv.org/abs/2605.18714",
-      "https://arxiv.org/abs/2605.19577",
-      "https://arxiv.org/abs/2605.19995",
-      "https://arxiv.org/abs/2605.20183",
-      "https://arxiv.org/abs/2605.18748"
-    ],
-    "blogs": [
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "https://github.com/antoinezambelli/forge",
-      "https://deepmind.google/models/gemini-omni/",
-      "https://openai.com/index/advancing-content-provenance/",
-      "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-      "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
-      "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-      "https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g"
-    ],
-    "repos": [
-      "https://github.com/multica-ai/andrej-karpathy-skills",
-      "https://github.com/anthropics/skills",
-      "https://github.com/unslothai/unsloth",
-      "https://github.com/rtk-ai/rtk"
-    ]
-  },
   "2026-05-21": {
     "papers": [
       "https://arxiv.org/abs/2605.21468",
@@ -926,6 +896,37 @@
       "https://github.com/owainlewis/awesome-artificial-intelligence",
       "https://github.com/livekit/agents",
       "https://github.com/Lightricks/LTX-2"
+    ]
+  },
+  "2026-06-20": {
+    "papers": [
+      "https://arxiv.org/abs/2606.20529",
+      "https://arxiv.org/abs/2606.17053",
+      "https://arxiv.org/abs/2606.19334",
+      "https://arxiv.org/abs/2603.24624",
+      "https://arxiv.org/abs/2606.18021",
+      "https://arxiv.org/abs/2606.19602",
+      "https://arxiv.org/abs/2606.15760",
+      "https://arxiv.org/abs/2606.20536",
+      "https://arxiv.org/abs/2603.11273",
+      "https://arxiv.org/abs/2606.20381"
+    ],
+    "blogs": [
+      "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+      "https://arrowtsx.dev/bigger-models/",
+      "https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd",
+      "https://thinkwright.ai/minimax-m3-vs-glm-5-2-coding-benchmark"
+    ],
+    "repos": [
+      "https://github.com/koala73/worldmonitor",
+      "https://github.com/stanford-oval/storm",
+      "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "https://github.com/DeusData/codebase-memory-mcp",
+      "https://github.com/calesthio/OpenMontage",
+      "https://github.com/withastro/flue",
+      "https://github.com/zai-org/GLM-5",
+      "https://github.com/OSU-NLP-Group/HippoRAG",
+      "https://github.com/VectifyAI/OpenKB"
     ]
   }
 }
