@@ -10,6 +10,35 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-21</strong></summary>
+
+#### Papers
+1. **[How Transparent is DiffusionGemma?](http://arxiv.org/abs/2606.20560v1)** — This paper explores the transparency of LLM reasoning, crucial for understanding model decisions and debugging.
+2. **[UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning](http://arxiv.org/abs/2606.20559v1)** — Discusses overcoming limitations of egocentric video understanding by using proxies for richer representation.
+3. **[Optimal Deterministic Multicalibration and Omniprediction](http://arxiv.org/abs/2606.20557v1)** — Introduces a model calibration method that ensures unbiased predictions across various contexts.
+4. **[Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation](http://arxiv.org/abs/2606.20554v1)** — Examines a new approach to generative recommendation systems based on user behavior history.
+5. **[The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups](http://arxiv.org/abs/2606.20547v1)** — Proposes a novel attention mechanism using group elements to enhance model transformations.
+6. **[Predictability as a Fine-Grained Measure for Privacy](http://arxiv.org/abs/2606.20546v1)** — Investigates a new measure for privacy that balances individual privacy with model accuracy.
+7. **[Toward Calibrated Mixture-of-Experts Under Distribution Shift](http://arxiv.org/abs/2606.20544v1)** — Discusses calibration techniques for mixture models to improve predictive uncertainty under changing conditions.
+8. **[Multi-Task Bayesian In-Context Learning](http://arxiv.org/abs/2606.20538v1)** — Explores Bayesian learning frameworks that enhance data efficiency and generalization across multiple tasks.
+9. **[Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving](http://arxiv.org/abs/2606.20537v1)** — Proposes a method for efficient AI model serving with low latency and small batch sizes.
+10. **[How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech](http://arxiv.org/abs/2606.20532v1)** — Investigates the influence of text instructions on voice characteristics in speech synthesis systems.
+
+#### Blog Posts
+1. **[Temporary Cloudflare accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/)** by Cloudflare
+2. **[Show HN: We post-trained a model that pen tests instead of refusing](https://www.argusred.com/cli)** by argusred.com
+3. **[OCaml 5.5.0 released](https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265)** by shonfeder
+4. **[Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)** by Martin Fowler
+5. **[AI Won’t Replace You.](https://soumenshares.medium.com/ai-wont-replace-you-f4e8680fe682)** by Soumen Naskar
+
+#### Trending Repos
+1. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** — Web UI for training and running open models locally. ⭐ 66992
+2. **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** — Open-source AI voice studio for creating and dictating. ⭐ 31105
+3. **[microsoft/presidio](https://github.com/microsoft/presidio)** — Framework for detecting and anonymizing sensitive data across various formats. ⭐ 9373
+
+</details>
+
+<details>
 <summary><strong>2026-06-20</strong></summary>
 
 #### Papers

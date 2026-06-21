@@ -1,141 +1,104 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "papers": [
     {
-      "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
-      "url": "https://arxiv.org/abs/2606.20529",
-      "summary": "Policy-adherent tool-calling agents in customer-service domains must maintain task states across turns while calling tools and obeying domain policies. Task states consist of relevant facts, identifie"
+      "title": "How Transparent is DiffusionGemma?",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a "
     },
     {
-      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
-      "url": "https://arxiv.org/abs/2606.17053",
-      "summary": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d"
+      "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+      "url": "http://arxiv.org/abs/2606.20559v1",
+      "summary": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human acti"
     },
     {
-      "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
-      "url": "https://arxiv.org/abs/2606.19334",
-      "summary": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable"
+      "title": "Optimal Deterministic Multicalibration and Omniprediction",
+      "url": "http://arxiv.org/abs/2606.20557v1",
+      "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each"
     },
     {
-      "title": "ReSyn: A Generalized Recursive Regular Expression Synthesis Framework",
-      "url": "https://arxiv.org/abs/2603.24624",
-      "summary": "Existing Programming-By-Example (PBE) systems often rely on simplified benchmarks that fail to capture the high structural complexity of real-world regexes, such as deeper nesting and frequent use of "
+      "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2606.20554v1",
+      "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core o"
     },
     {
-      "title": "LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI",
-      "url": "https://arxiv.org/abs/2606.18021",
-      "summary": "AI systems deployed in legal workflows hallucinate at rates that aggregate metrics report at ~52%, but this average conceals where errors concentrate and in which direction they run, leaving complianc"
+      "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "url": "http://arxiv.org/abs/2606.20547v1",
+      "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $ρ(g)$ carrying it. To our kno"
     },
     {
-      "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
-      "url": "https://arxiv.org/abs/2606.19602",
-      "summary": "Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete"
+      "title": "Predictability as a Fine-Grained Measure for Privacy",
+      "url": "http://arxiv.org/abs/2606.20546v1",
+      "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W"
     },
     {
-      "title": "The Data Manifold under the Microscope",
-      "url": "https://arxiv.org/abs/2606.15760",
-      "summary": "A significant gap exists between theory and practice in deep learning. Generalization and approximation error bounds are often derived for simplified models or are too loose to be informative. Many re"
+      "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "url": "http://arxiv.org/abs/2606.20544v1",
+      "summary": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforc"
     },
     {
-      "title": "The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation",
-      "url": "https://arxiv.org/abs/2606.20536",
-      "summary": "The Frechet Inception Distance (FID) is the de facto arbiter of image generation, yet most papers report just a single number from a single trained model using a single sampling seed. How reproducible"
+      "title": "Multi-Task Bayesian In-Context Learning",
+      "url": "http://arxiv.org/abs/2606.20538v1",
+      "summary": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable ap"
     },
     {
-      "title": "Duration Aware Scheduling for ASR Serving Under Workload Drift",
-      "url": "https://arxiv.org/abs/2603.11273",
-      "summary": "Scheduling policies in large-scale Automatic Speech Recognition (ASR) serving pipelines play a key role in determining end-to-end (E2E) latency. Yet, widely used serving engines rely on first-come-fir"
+      "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+      "url": "http://arxiv.org/abs/2606.20537v1",
+      "summary": "Mainstream LLM serving systems reuse prefix work mainly through paged or radix key-value (KV) caches. This is highly effective for high-throughput, high-concurrency serving, but it manages only one po"
     },
     {
-      "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
-      "url": "https://arxiv.org/abs/2606.20381",
-      "summary": "FP4 training promises substantial reductions in memory and computation cost for LLM pretraining, yet current FP4 hardware paths and recipes, including NVIDIA Blackwell/Rubin-class systems and AMD MI35"
+      "title": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
+      "url": "http://arxiv.org/abs/2606.20532v1",
+      "summary": "Style-captioned text-to-speech systems use natural language to control voice characteristics, but how individual words influence acoustic output remains unclear. Understanding this is critical for dia"
     }
   ],
   "blog_posts": [
     {
-      "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
-      "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-      "author": "the-independent.com"
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "author": "blog.cloudflare.com"
     },
     {
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "url": "https://arrowtsx.dev/bigger-models/",
-      "author": "arrowtsx.dev"
+      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+      "url": "https://www.argusred.com/cli",
+      "author": "argusred.com"
     },
     {
-      "title": "Internmaxxing vs. Old Man Shakes Fist at Cloud",
-      "url": "https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd",
-      "author": "Jonathan Murray"
+      "title": "OCaml 5.5.0 released",
+      "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+      "author": "shonfeder"
     },
     {
-      "title": "MiniMax M3 vs. GLM 5.2: Codegen comparison across autonomous coding tasks",
-      "url": "https://thinkwright.ai/minimax-m3-vs-glm-5-2-coding-benchmark",
-      "author": "thinkwright.ai"
+      "title": "Building Reliable Agentic AI Systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "author": "martinfowler.com"
+    },
+    {
+      "title": "AI Won’t Replace You.",
+      "url": "https://soumenshares.medium.com/ai-wont-replace-you-f4e8680fe682",
+      "author": "Soumen Naskar"
     }
   ],
   "repos": [
     {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": 57397,
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+      "stars": 66992,
+      "language": "Python"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 31105,
       "language": "TypeScript"
     },
     {
-      "name": "stanford-oval/storm",
-      "url": "https://github.com/stanford-oval/storm",
-      "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
-      "stars": 28834,
-      "language": "Python"
-    },
-    {
-      "name": "aishwaryanr/awesome-generative-ai-guide",
-      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-      "stars": 27702,
-      "language": "HTML"
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
-      "stars": 8474,
-      "language": "C"
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": 6415,
-      "language": "Python"
-    },
-    {
-      "name": "withastro/flue",
-      "url": "https://github.com/withastro/flue",
-      "description": "The sandbox agent framework.",
-      "stars": 5890,
-      "language": "TypeScript"
-    },
-    {
-      "name": "zai-org/GLM-5",
-      "url": "https://github.com/zai-org/GLM-5",
-      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "stars": 4651,
-      "language": ""
-    },
-    {
-      "name": "OSU-NLP-Group/HippoRAG",
-      "url": "https://github.com/OSU-NLP-Group/HippoRAG",
-      "description": "[NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized",
-      "stars": 3752,
-      "language": "Python"
-    },
-    {
-      "name": "VectifyAI/OpenKB",
-      "url": "https://github.com/VectifyAI/OpenKB",
-      "description": "OpenKB: Open LLM Knowledge Base",
-      "stars": 2423,
+      "name": "microsoft/presidio",
+      "url": "https://github.com/microsoft/presidio",
+      "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
+      "stars": 9373,
       "language": "Python"
     }
   ],

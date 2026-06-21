@@ -1,34 +1,4 @@
 {
-  "2026-05-21": {
-    "papers": [
-      "https://arxiv.org/abs/2605.21468",
-      "https://arxiv.org/abs/2605.21226",
-      "https://arxiv.org/abs/2605.19008",
-      "https://arxiv.org/abs/2605.19804",
-      "https://arxiv.org/abs/2605.20682",
-      "https://arxiv.org/abs/2602.07892",
-      "https://arxiv.org/abs/2605.16787",
-      "https://arxiv.org/abs/2605.21343",
-      "https://arxiv.org/abs/2605.20834",
-      "https://arxiv.org/abs/2605.21431"
-    ],
-    "blogs": [
-      "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "https://qwen.ai/blog?id=qwen3.7",
-      "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
-      "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
-      "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
-      "https://github.com/deng-ai-lab/SFHformer",
-      "https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf",
-      "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play"
-    ],
-    "repos": [
-      "https://github.com/karpathy/autoresearch",
-      "https://github.com/vllm-project/vllm",
-      "https://github.com/volcengine/OpenViking",
-      "https://github.com/hugohe3/ppt-master"
-    ]
-  },
   "2026-05-22": {
     "papers": [
       "https://arxiv.org/abs/2605.21072",
@@ -927,6 +897,32 @@
       "https://github.com/zai-org/GLM-5",
       "https://github.com/OSU-NLP-Group/HippoRAG",
       "https://github.com/VectifyAI/OpenKB"
+    ]
+  },
+  "2026-06-21": {
+    "papers": [
+      "http://arxiv.org/abs/2606.20560v1",
+      "http://arxiv.org/abs/2606.20559v1",
+      "http://arxiv.org/abs/2606.20557v1",
+      "http://arxiv.org/abs/2606.20554v1",
+      "http://arxiv.org/abs/2606.20547v1",
+      "http://arxiv.org/abs/2606.20546v1",
+      "http://arxiv.org/abs/2606.20544v1",
+      "http://arxiv.org/abs/2606.20538v1",
+      "http://arxiv.org/abs/2606.20537v1",
+      "http://arxiv.org/abs/2606.20532v1"
+    ],
+    "blogs": [
+      "https://blog.cloudflare.com/temporary-accounts/",
+      "https://www.argusred.com/cli",
+      "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+      "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "https://soumenshares.medium.com/ai-wont-replace-you-f4e8680fe682"
+    ],
+    "repos": [
+      "https://github.com/unslothai/unsloth",
+      "https://github.com/jamiepine/voicebox",
+      "https://github.com/microsoft/presidio"
     ]
   }
 }
