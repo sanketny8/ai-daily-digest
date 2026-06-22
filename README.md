@@ -10,6 +10,35 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-22</strong></summary>
+
+#### Papers
+1. **[Distilling Examples into Task Instructions: Enhanced In-Context Learning for Real-World B2B Conversations](https://arxiv.org/abs/2606.15641)** — This paper explores improving in-context learning for specialized B2B conversation classification.
+2. **[GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents](https://arxiv.org/abs/2606.18829)** — It addresses memory management in shared environments for multi-user AI agents, highlighting a gap in current benchmarks.
+3. **[BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation](https://arxiv.org/abs/2606.19651)** — This research presents a tokenizer for generating 3D brain MRIs, aiding clinical neurology and privacy concerns.
+4. **[WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents](https://arxiv.org/abs/2606.18847)** — It focuses on long-term memory in embodied agents, crucial for assisting humans in real-life settings.
+5. **[PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models](https://arxiv.org/abs/2606.19534)** — This paper discusses enhancing multimodal models for better efficiency in visual understanding tasks.
+
+#### Blog Posts
+1. **[Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)** by apertvs.ai
+2. **[There is minimal downside to switching to open models](https://www.marble.onl/posts/cancel_claude.html)** by marble.onl
+3. **[Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)** by teachmecoolstuff.com
+4. **[Show HN: Recall – Local project memory for Claude Code](https://github.com/raiyanyahya/recall)** by github.com
+5. **[Turing's Mirror - A Game About the Question We Still Haven't Answered](https://dev.to/tejas164321/turings-mirror-a-game-about-the-question-we-still-havent-answered-1e3o)** by Tejas Patil
+
+#### Trending Repos
+1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you. ⭐ 199286
+2. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** — An open-source long-horizon SuperAgent harness for diverse tasks. ⭐ 72814
+3. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM-powered multi-market stock analysis system with real-time updates. ⭐ 45002
+4. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from various AI models. ⭐ 44695
+5. **[topoteretes/cognee](https://github.com/topoteretes/cognee)** — Open-source AI memory platform for agents with persistent memory. ⭐ 18803
+6. **[THUDM/slime](https://github.com/THUDM/slime)** — LLM post-training framework for reinforcement learning scaling. ⭐ 6640
+7. **[palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro)** — macOS video editor built for AI. ⭐ 5903
+8. **[vercel/eve](https://github.com/vercel/eve)** — The Framework for Building Agents. ⭐ 2140
+
+</details>
+
+<details>
 <summary><strong>2026-06-21</strong></summary>
 
 #### Papers

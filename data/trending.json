@@ -1,105 +1,115 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "papers": [
     {
-      "title": "How Transparent is DiffusionGemma?",
-      "url": "http://arxiv.org/abs/2606.20560v1",
-      "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a "
+      "title": "Distilling Examples into Task Instructions: Enhanced In-Context Learning for Real-World B2B Conversations",
+      "url": "https://arxiv.org/abs/2606.15641",
+      "summary": "In-context learning (ICL) is the standard method for low-resource classification, yet its efficacy in specialized domains remains largely unexplored. We address the challenge of classifying semantical"
     },
     {
-      "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
-      "url": "http://arxiv.org/abs/2606.20559v1",
-      "summary": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human acti"
+      "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+      "url": "https://arxiv.org/abs/2606.18829",
+      "summary": "Memory benchmarks for LLM agents largely assume single-user settings, leaving shared assistants for hospitals, workplaces, campuses, and households understudied. In these deployments, multiple princip"
     },
     {
-      "title": "Optimal Deterministic Multicalibration and Omniprediction",
-      "url": "http://arxiv.org/abs/2606.20557v1",
-      "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each"
+      "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
+      "url": "https://arxiv.org/abs/2606.19651",
+      "summary": "Three-dimensional (3D) brain MRI is central to clinical neurology and neuro-oncology, where generative models could augment under-represented cohorts, simulate disease trajectories, and support privac"
     },
     {
-      "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
-      "url": "http://arxiv.org/abs/2606.20554v1",
-      "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core o"
+      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+      "url": "https://arxiv.org/abs/2606.18847",
+      "summary": "To assist humans over extended periods in real homes, embodied agents must remember user routines, world states, and past interactions. Existing long-term memory benchmarks mainly evaluate language-ce"
     },
     {
-      "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
-      "url": "http://arxiv.org/abs/2606.20547v1",
-      "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $ρ(g)$ carrying it. To our kno"
-    },
-    {
-      "title": "Predictability as a Fine-Grained Measure for Privacy",
-      "url": "http://arxiv.org/abs/2606.20546v1",
-      "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W"
-    },
-    {
-      "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
-      "url": "http://arxiv.org/abs/2606.20544v1",
-      "summary": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforc"
-    },
-    {
-      "title": "Multi-Task Bayesian In-Context Learning",
-      "url": "http://arxiv.org/abs/2606.20538v1",
-      "summary": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable ap"
-    },
-    {
-      "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
-      "url": "http://arxiv.org/abs/2606.20537v1",
-      "summary": "Mainstream LLM serving systems reuse prefix work mainly through paged or radix key-value (KV) caches. This is highly effective for high-throughput, high-concurrency serving, but it manages only one po"
-    },
-    {
-      "title": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
-      "url": "http://arxiv.org/abs/2606.20532v1",
-      "summary": "Style-captioned text-to-speech systems use natural language to control voice characteristics, but how individual words influence acoustic output remains unclear. Understanding this is critical for dia"
+      "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2606.19534",
+      "summary": "Multimodal large language models (MLLMs) have achieved remarkable progress in visual understanding tasks. However, most existing MLLMs rely on autoregressive generation, which limits their efficiency "
     }
   ],
   "blog_posts": [
     {
-      "title": "Temporary Cloudflare accounts for AI agents",
-      "url": "https://blog.cloudflare.com/temporary-accounts/",
-      "author": "blog.cloudflare.com"
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "author": "apertvs.ai"
     },
     {
-      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-      "url": "https://www.argusred.com/cli",
-      "author": "argusred.com"
+      "title": "There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
+      "author": "marble.onl"
     },
     {
-      "title": "OCaml 5.5.0 released",
-      "url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
-      "author": "shonfeder"
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "author": "teachmecoolstuff.com"
     },
     {
-      "title": "Building Reliable Agentic AI Systems",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "author": "martinfowler.com"
+      "title": "Show HN: Recall – Local project memory for Claude Code",
+      "url": "https://github.com/raiyanyahya/recall",
+      "author": "github.com"
     },
     {
-      "title": "AI Won’t Replace You.",
-      "url": "https://soumenshares.medium.com/ai-wont-replace-you-f4e8680fe682",
-      "author": "Soumen Naskar"
+      "title": "Turing's Mirror - A Game About the Question We Still Haven't Answered",
+      "url": "https://dev.to/tejas164321/turings-mirror-a-game-about-the-question-we-still-havent-answered-1e3o",
+      "author": "Tejas Patil"
     }
   ],
   "repos": [
     {
-      "name": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
-      "stars": 66992,
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 199286,
       "language": "Python"
     },
     {
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "stars": 31105,
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+      "stars": 72814,
+      "language": "Python"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+      "stars": 45002,
+      "language": "Python"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+      "stars": 44695,
+      "language": "JavaScript"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "stars": 18803,
+      "language": "Python"
+    },
+    {
+      "name": "THUDM/slime",
+      "url": "https://github.com/THUDM/slime",
+      "description": "slime is an LLM post-training framework for RL Scaling.",
+      "stars": 6640,
+      "language": "Python"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "stars": 5903,
+      "language": "Swift"
+    },
+    {
+      "name": "vercel/eve",
+      "url": "https://github.com/vercel/eve",
+      "description": "The Framework for Building Agents",
+      "stars": 2140,
       "language": "TypeScript"
-    },
-    {
-      "name": "microsoft/presidio",
-      "url": "https://github.com/microsoft/presidio",
-      "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
-      "stars": 9373,
-      "language": "Python"
     }
   ],
   "tweets": []

@@ -1,32 +1,4 @@
 {
-  "2026-05-22": {
-    "papers": [
-      "https://arxiv.org/abs/2605.21072",
-      "https://arxiv.org/abs/2605.20176",
-      "https://arxiv.org/abs/2605.22012",
-      "https://arxiv.org/abs/2605.22536",
-      "https://arxiv.org/abs/2605.22144",
-      "https://arxiv.org/abs/2605.22538",
-      "https://arxiv.org/abs/2605.21572",
-      "https://arxiv.org/abs/2605.21467",
-      "https://arxiv.org/abs/2605.22581",
-      "https://arxiv.org/abs/2605.12817"
-    ],
-    "blogs": [
-      "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
-      "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
-      "https://arxiv.org/abs/2605.12460",
-      "https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c",
-      "https://dev.to/harsh2644/i-used-to-get-excited-about-new-tools-now-i-feel-tired-1e18",
-      "https://dev.to/hemapriya_kanagala/frameworks-are-no-longer-being-designed-only-for-humans-13de"
-    ],
-    "repos": [
-      "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "https://github.com/multica-ai/multica",
-      "https://github.com/Lum1104/Understand-Anything"
-    ]
-  },
   "2026-05-23": {
     "papers": [
       "https://arxiv.org/abs/2605.13163",
@@ -923,6 +895,32 @@
       "https://github.com/unslothai/unsloth",
       "https://github.com/jamiepine/voicebox",
       "https://github.com/microsoft/presidio"
+    ]
+  },
+  "2026-06-22": {
+    "papers": [
+      "https://arxiv.org/abs/2606.15641",
+      "https://arxiv.org/abs/2606.18829",
+      "https://arxiv.org/abs/2606.19651",
+      "https://arxiv.org/abs/2606.18847",
+      "https://arxiv.org/abs/2606.19534"
+    ],
+    "blogs": [
+      "https://apertvs.ai/",
+      "https://www.marble.onl/posts/cancel_claude.html",
+      "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "https://github.com/raiyanyahya/recall",
+      "https://dev.to/tejas164321/turings-mirror-a-game-about-the-question-we-still-havent-answered-1e3o"
+    ],
+    "repos": [
+      "https://github.com/NousResearch/hermes-agent",
+      "https://github.com/bytedance/deer-flow",
+      "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "https://github.com/asgeirtj/system_prompts_leaks",
+      "https://github.com/topoteretes/cognee",
+      "https://github.com/THUDM/slime",
+      "https://github.com/palmier-io/palmier-pro",
+      "https://github.com/vercel/eve"
     ]
   }
 }
