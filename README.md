@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-23</strong></summary>
+
+#### Papers
+1. **[Tmax: A simple recipe for terminal agents](https://arxiv.org/abs/2606.23321)** — This paper explores the training of terminal-using agents with reinforcement learning, addressing a gap in academic research.
+2. **[UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation](https://arxiv.org/abs/2606.23503)** — Introduces a new transformer model that adapts to varying input modalities and resolutions in Earth Observation tasks.
+3. **[FastMix: Fast Data Mixture Optimization via Gradient Descent](https://arxiv.org/abs/2606.14971)** — Proposes a method to optimize data mixtures for training large models, addressing a significant challenge in model performance.
+4. **[Unlimited OCR Works](https://arxiv.org/abs/2606.23050)** — Discusses the potential of using large language models as decoders in end-to-end OCR systems, enhancing performance.
+5. **[CLI-Universe: Towards Verifiable Task Synthesis Engine for Terminal Agents](https://arxiv.org/abs/2606.22883)** — Aims to improve the quality of training data for terminal agents by developing a verifiable task synthesis engine.
+6. **[Training Open Models for Agentic Phone Use](https://arxiv.org/abs/2606.23049)** — Investigates the challenges of training models for reliable phone use in real-world environments.
+7. **[Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views](https://arxiv.org/abs/2606.23557)** — Focuses on integrating 3D scene representations for improved visual question answering in multi-view contexts.
+8. **[PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support](http://arxiv.org/abs/2606.23673v1)** — Proposes a framework for comprehensive mental health assessment, integrating various data sources for better decision-making.
+9. **[Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles](http://arxiv.org/abs/2606.23672v1)** — Explores algorithmic strategies for enhancing LLMs' capabilities in solving complex logical puzzles.
+10. **[Randomized YaRN Improves Length Generalization for Long-Context Reasoning](http://arxiv.org/abs/2606.23687v1)** — Addresses the limitations of LLMs in generalizing to longer sequences, proposing a new training method.
+
+#### Blog Posts
+1. **[Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)** by github.com
+2. **[GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2)** by unsloth.ai
+3. **[Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)** by hustvl.github.io
+4. **[VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)** by arxiv.org
+5. **[Meta pauses AI training program tracking employee keystrokes after internal leak](https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6)** by businessinsider.com
+
+#### Trending Repos
+1. **[garrytan/gstack](https://github.com/garrytan/gstack)** — Use Garry Tan's exact Claude Code setup for various roles. ⭐ 113366
+2. **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** — An AI Hedge Fund Team. ⭐ 60455
+3. **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML and render video, designed for agents. ⭐ 30205
+4. **[HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)** — Agent-native personalized tutoring system. ⭐ 24918
+5. **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** — Clone any website with one command using AI coding agents. ⭐ 17952
+6. **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** — Hindsight: Agent Memory That Learns. ⭐ 16960
+
+</details>
+
+<details>
 <summary><strong>2026-06-22</strong></summary>
 
 #### Papers

@@ -1,115 +1,126 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "papers": [
     {
-      "title": "Distilling Examples into Task Instructions: Enhanced In-Context Learning for Real-World B2B Conversations",
-      "url": "https://arxiv.org/abs/2606.15641",
-      "summary": "In-context learning (ICL) is the standard method for low-resource classification, yet its efficacy in specialized domains remains largely unexplored. We address the challenge of classifying semantical"
+      "title": "Tmax: A simple recipe for terminal agents",
+      "url": "https://arxiv.org/abs/2606.23321",
+      "summary": "Terminal-using agents have quickly become the most popular downstream application of language models (LMs). Despite their prevalence, relatively little academic work has examined RL-based training of "
     },
     {
-      "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
-      "url": "https://arxiv.org/abs/2606.18829",
-      "summary": "Memory benchmarks for LLM agents largely assume single-user settings, leaving shared assistants for hospitals, workplaces, campuses, and households understudied. In these deployments, multiple princip"
+      "title": "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation",
+      "url": "https://arxiv.org/abs/2606.23503",
+      "summary": "Vision Transformers (ViT) dominate computer vision. However, their reliance on rigid patch projectors hinders transfer to Earth Observation (EO), where input modalities, scales, and resolutions vary w"
     },
     {
-      "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
-      "url": "https://arxiv.org/abs/2606.19651",
-      "summary": "Three-dimensional (3D) brain MRI is central to clinical neurology and neuro-oncology, where generative models could augment under-represented cohorts, simulate disease trajectories, and support privac"
+      "title": "Tapered Language Models",
+      "url": "https://arxiv.org/abs/2606.23670",
+      "summary": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This "
     },
     {
-      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
-      "url": "https://arxiv.org/abs/2606.18847",
-      "summary": "To assist humans over extended periods in real homes, embodied agents must remember user routines, world states, and past interactions. Existing long-term memory benchmarks mainly evaluate language-ce"
+      "title": "FastMix: Fast Data Mixture Optimization via Gradient Descent",
+      "url": "https://arxiv.org/abs/2606.14971",
+      "summary": "While large and diverse datasets have driven recent advances in large models, identifying the optimal data mixture for pre-training and post-training remains a significant open problem. We address thi"
     },
     {
-      "title": "PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2606.19534",
-      "summary": "Multimodal large language models (MLLMs) have achieved remarkable progress in visual understanding tasks. However, most existing MLLMs rely on autoregressive generation, which limits their efficiency "
+      "title": "Unlimited OCR Works",
+      "url": "https://arxiv.org/abs/2606.23050",
+      "summary": "Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the"
+    },
+    {
+      "title": "CLI-Universe: Towards Verifiable Task Synthesis Engine for Terminal Agents",
+      "url": "https://arxiv.org/abs/2606.22883",
+      "summary": "While recent LLM-based terminal agents have demonstrated promising capabilities, the scarcity of high-quality, executable training data remains a critical bottleneck. Existing synthesis pipelines typi"
+    },
+    {
+      "title": "Training Open Models for Agentic Phone Use",
+      "url": "https://arxiv.org/abs/2606.23049",
+      "summary": "Phones are becoming an important execution surface for general-purpose agents, but training open models for reliable phone use remains difficult because the environment that matters at deployment, rea"
+    },
+    {
+      "title": "PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning",
+      "url": "https://arxiv.org/abs/2606.21139",
+      "summary": "Latent action pretraining learns representations of visual change from pairs of observations, but existing methods typically encode each transition as a single unstructured representation that entangl"
+    },
+    {
+      "title": "Self-Compacting Language Model Agents",
+      "url": "https://arxiv.org/abs/2606.23525",
+      "summary": "Long agent traces composed of chains of thought and tool calls accumulate stale content that anchor subsequent generations, and eventually outgrow the context window. Existing scaffolds mitigate it wi"
+    },
+    {
+      "title": "Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views",
+      "url": "https://arxiv.org/abs/2606.23557",
+      "summary": "Multi-view 3D Visual Question Answering (MV3D-VQA) requires integrating partial observations into a coherent 3D scene representation and selecting informative viewpoints for multi-step spatial reasoni"
     }
   ],
   "blog_posts": [
     {
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "author": "apertvs.ai"
-    },
-    {
-      "title": "There is minimal downside to switching to open models",
-      "url": "https://www.marble.onl/posts/cancel_claude.html",
-      "author": "marble.onl"
-    },
-    {
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "author": "teachmecoolstuff.com"
-    },
-    {
-      "title": "Show HN: Recall – Local project memory for Claude Code",
-      "url": "https://github.com/raiyanyahya/recall",
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "url": "https://github.com/openai/codex/issues/28224",
       "author": "github.com"
     },
     {
-      "title": "Turing's Mirror - A Game About the Question We Still Haven't Answered",
-      "url": "https://dev.to/tejas164321/turings-mirror-a-game-about-the-question-we-still-havent-answered-1e3o",
-      "author": "Tejas Patil"
+      "title": "GLM-5.2 – How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "author": "unsloth.ai"
+    },
+    {
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "author": "hustvl.github.io"
+    },
+    {
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "url": "https://arxiv.org/abs/2606.16140",
+      "author": "arxiv.org"
+    },
+    {
+      "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+      "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+      "author": "businessinsider.com"
     }
   ],
   "repos": [
     {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 199286,
-      "language": "Python"
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-      "stars": 72814,
-      "language": "Python"
-    },
-    {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
-      "stars": 45002,
-      "language": "Python"
-    },
-    {
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
-      "stars": 44695,
-      "language": "JavaScript"
-    },
-    {
-      "name": "topoteretes/cognee",
-      "url": "https://github.com/topoteretes/cognee",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "stars": 18803,
-      "language": "Python"
-    },
-    {
-      "name": "THUDM/slime",
-      "url": "https://github.com/THUDM/slime",
-      "description": "slime is an LLM post-training framework for RL Scaling.",
-      "stars": 6640,
-      "language": "Python"
-    },
-    {
-      "name": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "stars": 5903,
-      "language": "Swift"
-    },
-    {
-      "name": "vercel/eve",
-      "url": "https://github.com/vercel/eve",
-      "description": "The Framework for Building Agents",
-      "stars": 2140,
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 113366,
       "language": "TypeScript"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "stars": 60455,
+      "language": "Python"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 30205,
+      "language": "TypeScript"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.",
+      "stars": 24918,
+      "language": "Python"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "stars": 17952,
+      "language": "TypeScript"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 16960,
+      "language": "Python"
     }
   ],
   "tweets": []

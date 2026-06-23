@@ -1,36 +1,4 @@
 {
-  "2026-05-23": {
-    "papers": [
-      "https://arxiv.org/abs/2605.13163",
-      "https://arxiv.org/abs/2605.17602",
-      "https://arxiv.org/abs/2605.22717",
-      "https://arxiv.org/abs/2605.15669",
-      "https://arxiv.org/abs/2605.22681",
-      "https://arxiv.org/abs/2605.07604",
-      "https://arxiv.org/abs/2605.22138",
-      "https://arxiv.org/abs/2605.20496",
-      "https://arxiv.org/abs/2605.22715",
-      "https://arxiv.org/abs/2605.20405"
-    ],
-    "blogs": [
-      "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "https://github.com/anomalyco/models.dev",
-      "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
-      "https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f",
-      "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "https://arxiv.org/abs/2605.22001"
-    ],
-    "repos": [
-      "https://github.com/langchain-ai/langchain",
-      "https://github.com/Fincept-Corporation/FinceptTerminal",
-      "https://github.com/karpathy/nn-zero-to-hero",
-      "https://github.com/aiming-lab/AutoResearchClaw",
-      "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "https://github.com/facebookresearch/sam3",
-      "https://github.com/HKUDS/ViMax",
-      "https://github.com/can1357/oh-my-pi"
-    ]
-  },
   "2026-05-24": {
     "papers": [
       "http://arxiv.org/abs/2605.22821v1",
@@ -921,6 +889,35 @@
       "https://github.com/THUDM/slime",
       "https://github.com/palmier-io/palmier-pro",
       "https://github.com/vercel/eve"
+    ]
+  },
+  "2026-06-23": {
+    "papers": [
+      "https://arxiv.org/abs/2606.23321",
+      "https://arxiv.org/abs/2606.23503",
+      "https://arxiv.org/abs/2606.23670",
+      "https://arxiv.org/abs/2606.14971",
+      "https://arxiv.org/abs/2606.23050",
+      "https://arxiv.org/abs/2606.22883",
+      "https://arxiv.org/abs/2606.23049",
+      "https://arxiv.org/abs/2606.21139",
+      "https://arxiv.org/abs/2606.23525",
+      "https://arxiv.org/abs/2606.23557"
+    ],
+    "blogs": [
+      "https://github.com/openai/codex/issues/28224",
+      "https://unsloth.ai/docs/models/glm-5.2",
+      "https://hustvl.github.io/Moebius/",
+      "https://arxiv.org/abs/2606.16140",
+      "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
+    ],
+    "repos": [
+      "https://github.com/garrytan/gstack",
+      "https://github.com/virattt/ai-hedge-fund",
+      "https://github.com/heygen-com/hyperframes",
+      "https://github.com/HKUDS/DeepTutor",
+      "https://github.com/JCodesMore/ai-website-cloner-template",
+      "https://github.com/vectorize-io/hindsight"
     ]
   }
 }
