@@ -1,126 +1,115 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "papers": [
     {
-      "title": "Tmax: A simple recipe for terminal agents",
-      "url": "https://arxiv.org/abs/2606.23321",
-      "summary": "Terminal-using agents have quickly become the most popular downstream application of language models (LMs). Despite their prevalence, relatively little academic work has examined RL-based training of "
+      "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+      "url": "https://arxiv.org/abs/2606.23449",
+      "summary": "AI agents are driving a new software paradigm, with the ability to autonomously call tools, extract information, manage memory, and complete tasks that span applications and data sources. Most existin"
     },
     {
-      "title": "UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation",
-      "url": "https://arxiv.org/abs/2606.23503",
-      "summary": "Vision Transformers (ViT) dominate computer vision. However, their reliance on rigid patch projectors hinders transfer to Earth Observation (EO), where input modalities, scales, and resolutions vary w"
+      "title": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
+      "url": "https://arxiv.org/abs/2606.24428",
+      "summary": "Experience-driven self-evolution is critical for large language model (LLM) agents to improve through open-world interaction. However, existing experience learning methods mostly rely on single-agent "
     },
     {
-      "title": "Tapered Language Models",
-      "url": "https://arxiv.org/abs/2606.23670",
-      "summary": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This "
+      "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
+      "url": "https://arxiv.org/abs/2606.24231",
+      "summary": "Multimodal driving planning faces a long-standing tension between two paradigms: scoring-based methods benefit from dense reward supervision but are confined to a fixed action vocabulary, while anchor"
     },
     {
-      "title": "FastMix: Fast Data Mixture Optimization via Gradient Descent",
-      "url": "https://arxiv.org/abs/2606.14971",
-      "summary": "While large and diverse datasets have driven recent advances in large models, identifying the optimal data mixture for pre-training and post-training remains a significant open problem. We address thi"
+      "title": "An Efficient Method for the Optimal Control of Microgrids Under Uncertainties using Local Reduction",
+      "url": "https://arxiv.org/abs/2606.12345",
+      "summary": "The problem of optimal sizing and power scheduling in microgrids subject to uncertainties is well known to the control community. Commonly, the optimal control problem is cast as a mixed-integer progr"
     },
     {
-      "title": "Unlimited OCR Works",
-      "url": "https://arxiv.org/abs/2606.23050",
-      "summary": "Recently, end-to-end OCR models, exemplified by DeepSeek OCR, have once again thrust OCR into the spotlight. A widely held view is that employing a large language model (LLM) as the decoder allows the"
+      "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
+      "url": "https://arxiv.org/abs/2606.24530",
+      "summary": "We introduce NatureBench, a cross-discipline benchmark of 90 tasks distilled from peer-reviewed Nature-family publications, designed to evaluate whether AI coding agents can move beyond reproduction t"
     },
     {
-      "title": "CLI-Universe: Towards Verifiable Task Synthesis Engine for Terminal Agents",
-      "url": "https://arxiv.org/abs/2606.22883",
-      "summary": "While recent LLM-based terminal agents have demonstrated promising capabilities, the scarcity of high-quality, executable training data remains a critical bottleneck. Existing synthesis pipelines typi"
+      "title": "DREAM: Dense Retrieval Embeddings via Autoregressive Modeling",
+      "url": "https://arxiv.org/abs/2606.24667",
+      "summary": "Dense retrieval embedding models are a fundamental component of modern retrieval-based AI systems. Most dense retrievers are trained with contrastive objectives, which require labeled positive and neg"
     },
     {
-      "title": "Training Open Models for Agentic Phone Use",
-      "url": "https://arxiv.org/abs/2606.23049",
-      "summary": "Phones are becoming an important execution surface for general-purpose agents, but training open models for reliable phone use remains difficult because the environment that matters at deployment, rea"
+      "title": "FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs",
+      "url": "https://arxiv.org/abs/2606.22875",
+      "summary": "Training Latent Diffusion Models (LDMs) within Federated Learning (FL) has attracted increasing attention due to its ability to combine the powerful generative capacity of LDMs with the privacy-preser"
     },
     {
-      "title": "PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning",
-      "url": "https://arxiv.org/abs/2606.21139",
-      "summary": "Latent action pretraining learns representations of visual change from pairs of observations, but existing methods typically encode each transition as a single unstructured representation that entangl"
+      "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+      "url": "https://arxiv.org/abs/2606.24112",
+      "summary": "Multimodal misinformation detection is increasingly important because viral posts now combine long multilingual narratives, several images, mixed provenance, and subtle text--image framing errors. Exi"
     },
     {
-      "title": "Self-Compacting Language Model Agents",
-      "url": "https://arxiv.org/abs/2606.23525",
-      "summary": "Long agent traces composed of chains of thought and tool calls accumulate stale content that anchor subsequent generations, and eventually outgrow the context window. Existing scaffolds mitigate it wi"
+      "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.24133",
+      "summary": "The composition of training data, governed by the diversity of sources and their mixing strategy, is a cornerstone of Large Language Model (LLM) pre-training. Online Data Mixing (ODM), the technique o"
     },
     {
-      "title": "Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views",
-      "url": "https://arxiv.org/abs/2606.23557",
-      "summary": "Multi-view 3D Visual Question Answering (MV3D-VQA) requires integrating partial observations into a coherent 3D scene representation and selecting informative viewpoints for multi-step spatial reasoni"
+      "title": "Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning",
+      "url": "https://arxiv.org/abs/2606.24548",
+      "summary": "Text-to-image (T2I) generation models have achieved remarkable progress in producing visually realistic images from natural language prompts. Yet it remains unclear whether their success reflects genu"
     }
   ],
   "blog_posts": [
     {
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "url": "https://github.com/openai/codex/issues/28224",
-      "author": "github.com"
+      "title": "Mistral OCR 4",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "author": "mistral.ai"
     },
     {
-      "title": "GLM-5.2 – How to Run Locally",
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "author": "unsloth.ai"
+      "title": "Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "author": "anthropic.com"
     },
     {
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "url": "https://hustvl.github.io/Moebius/",
-      "author": "hustvl.github.io"
+      "title": "Elevated error rate across multiple models",
+      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "author": "status.claude.com"
     },
     {
-      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-      "url": "https://arxiv.org/abs/2606.16140",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
       "author": "arxiv.org"
     },
     {
-      "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
-      "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-      "author": "businessinsider.com"
+      "title": "'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly",
+      "url": "https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370",
+      "author": "inc.com"
+    },
+    {
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+      "author": "github.com"
+    },
+    {
+      "title": "The 80/20 Rule of AI Code — Why the Last 20% Takes 80% of Your Time",
+      "url": "https://dev.to/harsh2644/the-8020-rule-of-ai-code-why-the-last-20-takes-80-of-your-time-3pcg",
+      "author": "Harsh "
     }
   ],
   "repos": [
     {
-      "name": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": 113366,
-      "language": "TypeScript"
-    },
-    {
-      "name": "virattt/ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "stars": 60455,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 154449,
       "language": "Python"
     },
     {
-      "name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "stars": 30205,
-      "language": "TypeScript"
-    },
-    {
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.",
-      "stars": 24918,
+      "name": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 88334,
       "language": "Python"
     },
     {
-      "name": "JCodesMore/ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "description": "Clone any website with one command using AI coding agents",
-      "stars": 17952,
-      "language": "TypeScript"
-    },
-    {
-      "name": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "stars": 16960,
-      "language": "Python"
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "stars": 59671,
+      "language": "HTML"
     }
   ],
   "tweets": []

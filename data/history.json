@@ -1,33 +1,4 @@
 {
-  "2026-05-24": {
-    "papers": [
-      "http://arxiv.org/abs/2605.22821v1",
-      "http://arxiv.org/abs/2605.22820v1",
-      "http://arxiv.org/abs/2605.22817v1",
-      "http://arxiv.org/abs/2605.22814v1",
-      "http://arxiv.org/abs/2605.22800v1",
-      "http://arxiv.org/abs/2605.22795v1",
-      "http://arxiv.org/abs/2605.22794v1",
-      "http://arxiv.org/abs/2605.22791v1",
-      "http://arxiv.org/abs/2605.22786v1",
-      "http://arxiv.org/abs/2605.22785v1"
-    ],
-    "blogs": [
-      "https://dev.to/hrishika_malviya_cec808f3/from-an-abandoned-hackathon-project-to-an-ai-study-workspace-c86",
-      "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-      "https://medium.com/@kalosbonasia/the-towers-that-drew-the-borders-c4414d5cf350",
-      "https://medium.com/@hari.nikesh.r.cce/how-the-rag-retrieval-augmented-generation-works-9c8e20c6f8d0",
-      "https://medium.com/@gwiedeman/my-adhd-brain-finally-has-a-manager-and-its-ai-2681e7d6b3b5",
-      "https://medium.com/h7w/the-microsoft-autogen-workflow-that-changed-how-i-build-ai-agents-forever-a639473673ef",
-      "https://medium.com/@mohamedabu.basith_91257/what-is-generative-ai-a-beginner-friendly-guide-64671647b766",
-      "https://medium.com/@reimo36/building-a-production-fraud-inference-platform-dynamic-batching-kubernetes-and-canary-deployments-8085e7c22cfd",
-      "https://medium.com/@tysontaber_41167/the-thermostat-for-truth-how-a-physics-equation-for-black-holes-could-fix-ai-hallucinations-1c1df5ab261a"
-    ],
-    "repos": [
-      "https://github.com/OpenPipe/ART",
-      "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
-    ]
-  },
   "2026-05-25": {
     "papers": [
       "https://arxiv.org/abs/2605.23892",
@@ -918,6 +889,34 @@
       "https://github.com/HKUDS/DeepTutor",
       "https://github.com/JCodesMore/ai-website-cloner-template",
       "https://github.com/vectorize-io/hindsight"
+    ]
+  },
+  "2026-06-24": {
+    "papers": [
+      "https://arxiv.org/abs/2606.23449",
+      "https://arxiv.org/abs/2606.24428",
+      "https://arxiv.org/abs/2606.24231",
+      "https://arxiv.org/abs/2606.12345",
+      "https://arxiv.org/abs/2606.24530",
+      "https://arxiv.org/abs/2606.24667",
+      "https://arxiv.org/abs/2606.22875",
+      "https://arxiv.org/abs/2606.24112",
+      "https://arxiv.org/abs/2606.24133",
+      "https://arxiv.org/abs/2606.24548"
+    ],
+    "blogs": [
+      "https://mistral.ai/news/ocr-4/",
+      "https://www.anthropic.com/news/introducing-claude-tag",
+      "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "https://arxiv.org/abs/2606.24597",
+      "https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370",
+      "https://github.com/End2End-Diffusion/diffusion-bench",
+      "https://dev.to/harsh2644/the-8020-rule-of-ai-code-why-the-last-20-takes-80-of-your-time-3pcg"
+    ],
+    "repos": [
+      "https://github.com/anthropics/skills",
+      "https://github.com/karpathy/autoresearch",
+      "https://github.com/shanraisshan/claude-code-best-practice"
     ]
   }
 }

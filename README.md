@@ -10,6 +10,35 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-24</strong></summary>
+
+#### Papers
+1. **[AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction](https://arxiv.org/abs/2606.23449)** — This paper presents a framework for AI agents to enhance software interaction securely and efficiently.
+2. **[Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning](https://arxiv.org/abs/2606.24428)** — It introduces a new paradigm for improving LLM agents through open-world interaction and experience learning.
+3. **[NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](https://arxiv.org/abs/2606.24530)** — This benchmark evaluates AI coding agents against tasks from peer-reviewed Nature-family publications.
+4. **[DREAM: Dense Retrieval Embeddings via Autoregressive Modeling](https://arxiv.org/abs/2606.24667)** — The paper discusses a new approach for training dense retrieval models using autoregressive techniques.
+5. **[FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs](https://arxiv.org/abs/2606.22875)** — It explores watermarking techniques for verifying ownership in federated learning of latent diffusion models.
+6. **[ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection](https://arxiv.org/abs/2606.24112)** — This work addresses the challenges of detecting multimodal misinformation in diverse languages and formats.
+7. **[InSight: Self-Guided Skill Acquisition via Steerable VLAs](http://arxiv.org/abs/2606.24884v1)** — The framework enables vision-language-action models to learn new skills from demonstrations effectively.
+8. **[IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation](http://arxiv.org/abs/2606.24849v1)** — This paper improves text-to-image generation by enhancing models' understanding of structural prompts.
+9. **[Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models](http://arxiv.org/abs/2606.24841v1)** — It investigates how different pre-training objectives affect the performance of language models.
+10. **[Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System](http://arxiv.org/abs/2606.24839v1)** — This study discusses the complexities of evaluating outputs from agentic data analysis systems.
+
+#### Blog Posts
+1. **[Mistral OCR 4](https://mistral.ai/news/ocr-4/)** by mistral.ai
+2. **[Claude Tag](https://www.anthropic.com/news/introducing-claude-tag)** by anthropic.com
+3. **[Elevated error rate across multiple models](https://status.claude.com/incidents/jbhf20wjmzrf)** by status.claude.com
+4. **['The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly](https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370)** by inc.com
+5. **[The 80/20 Rule of AI Code — Why the Last 20% Takes 80% of Your Time](https://dev.to/harsh2644/the-8020-rule-of-ai-code-why-the-last-20-takes-80-of-your-time-3pcg)** by Harsh
+
+#### Trending Repos
+1. **[anthropics/skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills. ⭐ 154449
+2. **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** — AI agents running research on single-GPU nanochat training automatically. ⭐ 88334
+3. **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** — From vibe coding to agentic engineering - practice makes claude perfect. ⭐ 59671
+
+</details>
+
+<details>
 <summary><strong>2026-06-23</strong></summary>
 
 #### Papers
