@@ -1,35 +1,4 @@
 {
-  "2026-05-25": {
-    "papers": [
-      "https://arxiv.org/abs/2605.23892",
-      "https://arxiv.org/abs/2605.23771",
-      "https://arxiv.org/abs/2604.20665",
-      "https://arxiv.org/abs/2605.18018",
-      "https://arxiv.org/abs/2605.23903",
-      "https://arxiv.org/abs/2605.20708",
-      "https://arxiv.org/abs/2605.21195",
-      "https://arxiv.org/abs/2605.23345",
-      "https://arxiv.org/abs/2605.22570",
-      "https://arxiv.org/abs/2605.23463"
-    ],
-    "blogs": [
-      "https://arxiv.org/abs/2605.06445",
-      "https://dev.to/sreejit_/everyones-talking-about-gemini-35-flash-the-real-story-at-google-io-2026-was-a-skill-file-4f3c",
-      "https://medium.com/@AILeverage/i-quit-my-9-5-using-these-3-ai-side-hustles-74f0dd7d7a66",
-      "https://medium.com/@arshthakkar127/why-95-percent-of-ai-consulting-services-are-scamming-you-out-of-your-margins-8382cfd560db",
-      "https://hanomatimes.com/the-impact-of-ai-on-human-creativity-106c349d731c",
-      "https://medium.com/@keskinserdar/we-dont-want-to-be-the-chimpanzee-but-we-re-building-the-cage-ourselves-0f9c404cc91c",
-      "https://medium.com/@veekshac18/day-13-of-100-im-trying-a-new-ai-tool-every-day-so-you-don-t-have-to-6f5fefd250eb",
-      "https://medium.com/@shreyashkandhare1234/name-shreyash-adinath-kandhare-30dc1c07ab07",
-      "https://medium.com/@shreyashkandhare1234/name-shreyash-adinath-kandhare-7af9aa6eb30e"
-    ],
-    "repos": [
-      "https://github.com/earendil-works/pi",
-      "https://github.com/Aider-AI/aider",
-      "https://github.com/manaflow-ai/cmux",
-      "https://github.com/anthropics/knowledge-work-plugins"
-    ]
-  },
   "2026-05-26": {
     "papers": [
       "https://arxiv.org/abs/2605.24426",
@@ -917,6 +886,36 @@
       "https://github.com/anthropics/skills",
       "https://github.com/karpathy/autoresearch",
       "https://github.com/shanraisshan/claude-code-best-practice"
+    ]
+  },
+  "2026-06-25": {
+    "papers": [
+      "https://arxiv.org/abs/2606.16316",
+      "https://arxiv.org/abs/2606.24083",
+      "https://arxiv.org/abs/2606.20023",
+      "https://arxiv.org/abs/2606.21661",
+      "https://arxiv.org/abs/2606.25319",
+      "https://arxiv.org/abs/2606.18239",
+      "https://arxiv.org/abs/2606.26092",
+      "https://arxiv.org/abs/2606.24775",
+      "https://arxiv.org/abs/2606.22565",
+      "https://arxiv.org/abs/2606.25996"
+    ],
+    "blogs": [
+      "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "https://rubyllm.com/",
+      "https://www.krea.ai/blog/krea-2-technical-report",
+      "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "https://haystack.deepset.ai/"
+    ],
+    "repos": [
+      "https://github.com/wshobson/agents",
+      "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "https://github.com/google-labs-code/design.md",
+      "https://github.com/stablyai/orca",
+      "https://github.com/interviewstreet/hiring-agent"
     ]
   }
 }

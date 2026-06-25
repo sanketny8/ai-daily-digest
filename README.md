@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-25</strong></summary>
+
+#### Papers
+1. **[RL-Index: Reinforcement Learning for Retrieval Index Reasoning](https://arxiv.org/abs/2606.16316)** — This paper explores challenges in retrieving external knowledge for real-world tasks using reinforcement learning.
+2. **[CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression](https://arxiv.org/abs/2606.24083)** — Investigates the effectiveness of linguistic compression strategies on the performance of large language models.
+3. **[When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents](https://arxiv.org/abs/2606.20023)** — Analyzes safety implications of tool selection by LLM agents with varying privilege levels.
+4. **[UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating](https://arxiv.org/abs/2606.21661)** — Introduces a method for coherent multi-shot video generation using structured memory and context awareness.
+5. **[V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning](https://arxiv.org/abs/2606.25319)** — Proposes a novel approach for fine-grained visual reasoning using multimodal large language models.
+6. **[EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies](https://arxiv.org/abs/2606.18239)** — Presents a benchmark for evaluating mobile manipulation policies across diverse tasks.
+7. **[Are We Ready For An Agent-Native Memory System?](https://arxiv.org/abs/2606.24775)** — Discusses the evolution of memory systems for LLM agents and their implications for data management.
+8. **[Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do](https://arxiv.org/abs/2606.22565)** — Evaluates the effectiveness of chain-of-thought reasoning in multimodal tasks.
+9. **[Autodata: An agentic data scientist to create high quality synthetic data](https://arxiv.org/abs/2606.25996)** — Introduces a method for AI agents to autonomously generate high-quality training data.
+10. **[Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment](http://arxiv.org/abs/2606.26071v1)** — Examines the relationship between model behavior and potential misalignment in AI systems.
+
+#### Blog Posts
+1. **[OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)** by TechCrunch
+2. **[RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/)** by RubyLLM
+3. **[Krea 2: SOTA open-weights 12B image model](https://www.krea.ai/blog/krea-2-technical-report)** by Krea
+4. **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)** by Reuters
+5. **[Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)** by Google Blog
+6. **[GLM-5.2 is a step change for open agents](https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open)** by Interconnects
+7. **[Haystack: Open-Source AI Framework for Production Ready Agents, RAG](https://haystack.deepset.ai/)** by Haystack
+
+#### Trending Repos
+1. **[wshobson/agents](https://github.com/wshobson/agents)** — Multi-harness agentic plugin marketplace for various coding agents. ⭐ 37156
+2. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** — Structured cybersecurity skills for AI agents mapped to multiple frameworks. ⭐ 20675
+3. **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** — Specification format for coding agents' visual identity. ⭐ 17606
+4. **[stablyai/orca](https://github.com/stablyai/orca)** — ADE for managing a fleet of parallel coding agents. ⭐ 6965
+5. **[interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent)** — AI agent designed to evaluate and score resumes. ⭐ 2390
+
+</details>
+
+<details>
 <summary><strong>2026-06-24</strong></summary>
 
 #### Papers

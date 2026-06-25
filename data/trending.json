@@ -1,115 +1,129 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "papers": [
     {
-      "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
-      "url": "https://arxiv.org/abs/2606.23449",
-      "summary": "AI agents are driving a new software paradigm, with the ability to autonomously call tools, extract information, manage memory, and complete tasks that span applications and data sources. Most existin"
+      "title": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
+      "url": "https://arxiv.org/abs/2606.16316",
+      "summary": "Retrieving external knowledge is essential for solving real-world tasks, yet it remains challenging when the relationship between a query and its relevant knowledge involves implicit and complex reaso"
     },
     {
-      "title": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
-      "url": "https://arxiv.org/abs/2606.24428",
-      "summary": "Experience-driven self-evolution is critical for large language model (LLM) agents to improve through open-world interaction. However, existing experience learning methods mostly rely on single-agent "
+      "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
+      "url": "https://arxiv.org/abs/2606.24083",
+      "summary": "\"Talk short. Drop grammar. Save token.\" This caveman style is widely promoted as a way to cut inference cost, but whether it actually saves anything depends on which channel (the user's prompt or the "
     },
     {
-      "title": "FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning",
-      "url": "https://arxiv.org/abs/2606.24231",
-      "summary": "Multimodal driving planning faces a long-standing tension between two paradigms: scoring-based methods benefit from dense reward supervision but are confined to a fixed action vocabulary, while anchor"
+      "title": "When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents",
+      "url": "https://arxiv.org/abs/2606.20023",
+      "summary": "As LLM agents increasingly select tools autonomously, their choices among tools with different privileges become safety-relevant. However, prior tool-selection studies focus on safety-agnostic metadat"
     },
     {
-      "title": "An Efficient Method for the Optimal Control of Microgrids Under Uncertainties using Local Reduction",
-      "url": "https://arxiv.org/abs/2606.12345",
-      "summary": "The problem of optimal sizing and power scheduling in microgrids subject to uncertainties is well known to the control community. Commonly, the optimal control problem is cast as a mixed-integer progr"
+      "title": "UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating",
+      "url": "https://arxiv.org/abs/2606.21661",
+      "summary": "Generating a coherent multi-shot video requires structured cross-shot memory. Subject appearance, scene context, and speaker identity must persist across cuts. Existing approaches either train end-to-"
     },
     {
-      "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
-      "url": "https://arxiv.org/abs/2606.24530",
-      "summary": "We introduce NatureBench, a cross-discipline benchmark of 90 tasks distilled from peer-reviewed Nature-family publications, designed to evaluate whether AI coding agents can move beyond reproduction t"
+      "title": "V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning",
+      "url": "https://arxiv.org/abs/2606.25319",
+      "summary": "Fine-grained visual reasoning requires multimodal large language models (MLLMs) to identify task-relevant visual evidence and ground their reasoning in local image regions. Existing agentic methods ty"
     },
     {
-      "title": "DREAM: Dense Retrieval Embeddings via Autoregressive Modeling",
-      "url": "https://arxiv.org/abs/2606.24667",
-      "summary": "Dense retrieval embedding models are a fundamental component of modern retrieval-based AI systems. Most dense retrievers are trained with contrastive objectives, which require labeled positive and neg"
+      "title": "EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies",
+      "url": "https://arxiv.org/abs/2606.18239",
+      "summary": "We present EBench, a simulation benchmark that diagnoses generalist mobile manipulation policies beyond a single success-rate scalar. EBench comprises 26 diverse and challenging manipulation tasks ann"
     },
     {
-      "title": "FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs",
-      "url": "https://arxiv.org/abs/2606.22875",
-      "summary": "Training Latent Diffusion Models (LDMs) within Federated Learning (FL) has attracted increasing attention due to its ability to combine the powerful generative capacity of LDMs with the privacy-preser"
+      "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
+      "url": "https://arxiv.org/abs/2606.26092",
+      "summary": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive depe"
     },
     {
-      "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
-      "url": "https://arxiv.org/abs/2606.24112",
-      "summary": "Multimodal misinformation detection is increasingly important because viral posts now combine long multilingual narratives, several images, mixed provenance, and subtle text--image framing errors. Exi"
+      "title": "Are We Ready For An Agent-Native Memory System?",
+      "url": "https://arxiv.org/abs/2606.24775",
+      "summary": "Memory for large language model (LLM) agents has rapidly evolved from simple retrieval-augmented mechanisms into a data management system that supports persistent information storage, retrieval, updat"
     },
     {
-      "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.24133",
-      "summary": "The composition of training data, governed by the diversity of sources and their mixing strategy, is a cornerstone of Large Language Model (LLM) pre-training. Online Data Mixing (ODM), the technique o"
+      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
+      "url": "https://arxiv.org/abs/2606.22565",
+      "summary": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks r"
     },
     {
-      "title": "Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning",
-      "url": "https://arxiv.org/abs/2606.24548",
-      "summary": "Text-to-image (T2I) generation models have achieved remarkable progress in producing visually realistic images from natural language prompts. Yet it remains unclear whether their success reflects genu"
+      "title": "Autodata: An agentic data scientist to create high quality synthetic data",
+      "url": "https://arxiv.org/abs/2606.25996",
+      "summary": "We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist"
     }
   ],
   "blog_posts": [
     {
-      "title": "Mistral OCR 4",
-      "url": "https://mistral.ai/news/ocr-4/",
-      "author": "mistral.ai"
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "author": "techcrunch.com"
     },
     {
-      "title": "Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "author": "anthropic.com"
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "author": "rubyllm.com"
     },
     {
-      "title": "Elevated error rate across multiple models",
-      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-      "author": "status.claude.com"
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "author": "krea.ai"
     },
     {
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://arxiv.org/abs/2606.24597",
-      "author": "arxiv.org"
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "author": "reuters.com"
     },
     {
-      "title": "'The Worst It's Ever Been': Why Meta's AI Reorg Backfired Spectacularly",
-      "url": "https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370",
-      "author": "inc.com"
+      "title": "Computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "author": "blog.google"
     },
     {
-      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
-      "author": "github.com"
+      "title": "GLM-5.2 is a step change for open agents",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "author": "interconnects.ai"
     },
     {
-      "title": "The 80/20 Rule of AI Code — Why the Last 20% Takes 80% of Your Time",
-      "url": "https://dev.to/harsh2644/the-8020-rule-of-ai-code-why-the-last-20-takes-80-of-your-time-3pcg",
-      "author": "Harsh "
+      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "url": "https://haystack.deepset.ai/",
+      "author": "haystack.deepset.ai"
     }
   ],
   "repos": [
     {
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "stars": 154449,
+      "name": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
+      "stars": 37156,
       "language": "Python"
     },
     {
-      "name": "karpathy/autoresearch",
-      "url": "https://github.com/karpathy/autoresearch",
-      "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 88334,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Wo",
+      "stars": 20675,
       "language": "Python"
     },
     {
-      "name": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "stars": 59671,
-      "language": "HTML"
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "stars": 17606,
+      "language": "TypeScript"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars": 6965,
+      "language": "TypeScript"
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
+      "stars": 2390,
+      "language": "Python"
     }
   ],
   "tweets": []
