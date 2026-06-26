@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-26</strong></summary>
+
+#### Papers
+1. **[JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](https://arxiv.org/abs/2606.18394)** — This paper explores a method to enhance speculative decoding in large language models by drafting tokens in parallel.
+2. **[How Post-Training Shapes Biological Reasoning Models](https://arxiv.org/abs/2606.16517)** — It discusses combining language models with biological data to improve scientific reasoning in biology.
+3. **[Hallucination in World Models is Predictable and Preventable](https://arxiv.org/abs/2606.27326)** — The study reveals that hallucinations in generative models can be anticipated and mitigated.
+4. **[The Verification Horizon: No Silver Bullet for Coding Agent Rewards](https://arxiv.org/abs/2606.26300)** — This paper challenges the notion that verifying solutions is easier than generating them in coding agents.
+5. **[Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It](https://arxiv.org/abs/2606.26027)** — It examines the failures of reinforcement learning in tool use and proposes solutions through supervisory signals.
+6. **[OpenBioRQ: Unsolved Biomedical Research Questions for Agents](https://arxiv.org/abs/2606.21959)** — The paper discusses the limitations of current agentic models in handling citations in biomedical research.
+7. **[In-Context World Modeling for Robotic Control](https://arxiv.org/abs/2606.26025)** — It addresses the generalization issues of vision-language-action models in robotic control tasks.
+8. **[Confidence-Aware Tool Orchestration for Robust Video Understanding](https://arxiv.org/abs/2606.26904)** — This research highlights the need for reliability in video reasoning models amidst various perturbations.
+9. **[Language-Based Digital Twins for Elderly Cognitive Assistance](http://arxiv.org/abs/2606.27334v1)** — The paper explores using digital twins for personalized healthcare in cognitive health for the elderly.
+10. **[Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](http://arxiv.org/abs/2606.27330v1)** — It discusses improving task planning in multimodal web agents through experience exploration.
+
+#### Blog Posts
+1. **[The unbearable cheapness of open weight models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)** by jamesoclaire.com
+2. **[Political bias in AI: Where the AI models stand](https://trakkr.ai/bias)** by trakkr.ai
+3. **[OpenAI Leans Toward Waiting Until Next Year for IPO](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html)** by nytimes.com
+4. **[The annotated PyTorch training loop](https://idlemachines.co.uk/essays/pytorch-training-loop)** by idlemachines.co.uk
+5. **[Thank you DEV community: the Thinking Engineer Toolkit is live](https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762)** by Julien Avezou
+
+#### Trending Repos
+1. **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** — Vision of accessible AI for everyone. ⭐185159
+2. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** — Tensors and dynamic neural networks in Python with strong GPU acceleration. ⭐101032
+3. **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** — Transforms complex documents into LLM-ready formats for workflows. ⭐69790
+4. **[run-llama/llama_index](https://github.com/run-llama/llama_index)** — Leading document agent and OCR platform. ⭐50409
+5. **[alibaba/page-agent](https://github.com/alibaba/page-agent)** — JavaScript in-page GUI agent for controlling web interfaces with natural language. ⭐19969
+
+</details>
+
+<details>
 <summary><strong>2026-06-25</strong></summary>
 
 #### Papers

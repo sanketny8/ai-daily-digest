@@ -1,36 +1,4 @@
 {
-  "2026-05-26": {
-    "papers": [
-      "https://arxiv.org/abs/2605.24426",
-      "https://arxiv.org/abs/2605.24218",
-      "https://arxiv.org/abs/2605.08129",
-      "https://arxiv.org/abs/2605.25052",
-      "https://arxiv.org/abs/2605.25569",
-      "https://arxiv.org/abs/2605.23218",
-      "https://arxiv.org/abs/2605.26109",
-      "https://arxiv.org/abs/2605.26105",
-      "https://arxiv.org/abs/2605.26089",
-      "https://arxiv.org/abs/2605.26115"
-    ],
-    "blogs": [
-      "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
-      "http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "https://dev.to/harsh2644/why-ai-generated-code-is-always-good-enough-and-never-great-4lhn",
-      "https://dev.to/javz/dont-let-ai-break-your-collective-thinking-a-practical-guide-for-engineering-teams-41c4",
-      "https://dev.to/odingaval/building-cursor-for-community-a-buildathon-built-on-time-pressure-12ih",
-      "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
-      "https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn",
-      "https://medium.com/@decodedbysania/google-just-quietly-rebuilt-the-internet-06bed91ea029"
-    ],
-    "repos": [
-      "https://github.com/affaan-m/ECC",
-      "https://github.com/OpenBB-finance/OpenBB",
-      "https://github.com/anthropics/claude-cookbooks",
-      "https://github.com/moeru-ai/airi",
-      "https://github.com/Leonxlnx/taste-skill"
-    ]
-  },
   "2026-05-27": {
     "papers": [
       "https://arxiv.org/abs/2605.24468",
@@ -916,6 +884,34 @@
       "https://github.com/google-labs-code/design.md",
       "https://github.com/stablyai/orca",
       "https://github.com/interviewstreet/hiring-agent"
+    ]
+  },
+  "2026-06-26": {
+    "papers": [
+      "https://arxiv.org/abs/2606.18394",
+      "https://arxiv.org/abs/2606.16517",
+      "https://arxiv.org/abs/2606.27326",
+      "https://arxiv.org/abs/2606.26300",
+      "https://arxiv.org/abs/2606.24551",
+      "https://arxiv.org/abs/2606.26027",
+      "https://arxiv.org/abs/2606.21959",
+      "https://arxiv.org/abs/2606.26025",
+      "https://arxiv.org/abs/2606.26904",
+      "https://arxiv.org/abs/2606.27313"
+    ],
+    "blogs": [
+      "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+      "https://trakkr.ai/bias",
+      "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+      "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762"
+    ],
+    "repos": [
+      "https://github.com/Significant-Gravitas/AutoGPT",
+      "https://github.com/pytorch/pytorch",
+      "https://github.com/opendatalab/MinerU",
+      "https://github.com/run-llama/llama_index",
+      "https://github.com/alibaba/page-agent"
     ]
   }
 }

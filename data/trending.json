@@ -1,129 +1,119 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "papers": [
     {
-      "title": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
-      "url": "https://arxiv.org/abs/2606.16316",
-      "summary": "Retrieving external knowledge is essential for solving real-world tasks, yet it remains challenging when the relationship between a query and its relevant knowledge involves implicit and complex reaso"
+      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+      "url": "https://arxiv.org/abs/2606.18394",
+      "summary": "Speculative decoding (SD) accelerates autoregressive Large Language Models (LLMs) by drafting multiple tokens and verifying them in parallel, but it faces a scaling limitation: increasing the draft bu"
     },
     {
-      "title": "CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression",
-      "url": "https://arxiv.org/abs/2606.24083",
-      "summary": "\"Talk short. Drop grammar. Save token.\" This caveman style is widely promoted as a way to cut inference cost, but whether it actually saves anything depends on which channel (the user's prompt or the "
+      "title": "How Post-Training Shapes Biological Reasoning Models",
+      "url": "https://arxiv.org/abs/2606.16517",
+      "summary": "Scientific reasoning models for biology combine language models with foundation models trained on multimodal biological data, including DNA, RNA, and proteins. These models are built through post-trai"
     },
     {
-      "title": "When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents",
-      "url": "https://arxiv.org/abs/2606.20023",
-      "summary": "As LLM agents increasingly select tools autonomously, their choices among tools with different privileges become safety-relevant. However, prior tool-selection studies focus on safety-agnostic metadat"
+      "title": "Hallucination in World Models is Predictable and Preventable",
+      "url": "https://arxiv.org/abs/2606.27326",
+      "summary": "Modern generative world models render increasingly realistic action-controllable futures, yet they frequently hallucinate: rollouts remain visually fluent while drifting from the ground-truth dynamics"
     },
     {
-      "title": "UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating",
-      "url": "https://arxiv.org/abs/2606.21661",
-      "summary": "Generating a coherent multi-shot video requires structured cross-shot memory. Subject appearance, scene context, and speaker identity must persist across cuts. Existing approaches either train end-to-"
+      "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+      "url": "https://arxiv.org/abs/2606.26300",
+      "summary": "A classical intuition holds that verifying a solution is easier than producing one. For today's coding agents, this intuition is being inverted: as foundation models develop stronger reasoning capabil"
     },
     {
-      "title": "V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning",
-      "url": "https://arxiv.org/abs/2606.25319",
-      "summary": "Fine-grained visual reasoning requires multimodal large language models (MLLMs) to identify task-relevant visual evidence and ground their reasoning in local image regions. Existing agentic methods ty"
+      "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2606.24551",
+      "summary": "Computer-use agents can execute software tasks through either graphical interfaces or programmatic command interfaces, but existing evaluations confound interaction modality with differences in tasks,"
     },
     {
-      "title": "EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies",
-      "url": "https://arxiv.org/abs/2606.18239",
-      "summary": "We present EBench, a simulation benchmark that diagnoses generalist mobile manipulation policies beyond a single success-rate scalar. EBench comprises 26 diverse and challenging manipulation tasks ann"
+      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
+      "url": "https://arxiv.org/abs/2606.26027",
+      "summary": "Tool use enables large language models (LLMs) to perform complex tasks, and recent agentic reinforcement learning (RL) methods show promise for enhancing model capabilities. However, RL alone often le"
     },
     {
-      "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
-      "url": "https://arxiv.org/abs/2606.26092",
-      "summary": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive depe"
+      "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
+      "url": "https://arxiv.org/abs/2606.21959",
+      "summary": "A working citation looks like proof -- but the fact that a link resolves does not mean the cited paper supports the claim. I find that current agentic models rarely fabricate citations (over 99% resol"
     },
     {
-      "title": "Are We Ready For An Agent-Native Memory System?",
-      "url": "https://arxiv.org/abs/2606.24775",
-      "summary": "Memory for large language model (LLM) agents has rapidly evolved from simple retrieval-augmented mechanisms into a data management system that supports persistent information storage, retrieval, updat"
+      "title": "In-Context World Modeling for Robotic Control",
+      "url": "https://arxiv.org/abs/2606.26025",
+      "summary": "Modern Vision-Language-Action (VLA) models often fail to generalize to novel setups, such as altered camera viewpoints or robot morphologies, because they are typically conditioned only on current obs"
     },
     {
-      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
-      "url": "https://arxiv.org/abs/2606.22565",
-      "summary": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks r"
+      "title": "Confidence-Aware Tool Orchestration for Robust Video Understanding",
+      "url": "https://arxiv.org/abs/2606.26904",
+      "summary": "Video reasoning language models implicitly assume that every input frame is equally reliable. This leads to what we term the Blind Trust Problem: under realistic perturbations such as motion blur, gla"
     },
     {
-      "title": "Autodata: An agentic data scientist to create high quality synthetic data",
-      "url": "https://arxiv.org/abs/2606.25996",
-      "summary": "We introduce Autodata, a general method that enables AI agents to act as data scientists who build high quality training and evaluation data. We show how to train (meta-optimize) such a data scientist"
+      "title": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
+      "url": "https://arxiv.org/abs/2606.27313",
+      "summary": "A unified representation for text and vision is a natural pursuit, as it enables simpler multimodal modeling and more efficient training. However, representing images as discrete signals in the same w"
     }
   ],
   "blog_posts": [
     {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "author": "techcrunch.com"
+      "title": "The unbearable cheapness of open weight models",
+      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+      "author": "jamesoclaire.com"
     },
     {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "author": "rubyllm.com"
+      "title": "Political bias in AI: Where the AI models stand",
+      "url": "https://trakkr.ai/bias",
+      "author": "trakkr.ai"
     },
     {
-      "title": "Krea 2: SOTA open-weights 12B image model",
-      "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "author": "krea.ai"
+      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+      "author": "nytimes.com"
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "author": "reuters.com"
+      "title": "The annotated PyTorch training loop",
+      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "author": "idlemachines.co.uk"
     },
     {
-      "title": "Computer use in Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "author": "blog.google"
-    },
-    {
-      "title": "GLM-5.2 is a step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "author": "interconnects.ai"
-    },
-    {
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "url": "https://haystack.deepset.ai/",
-      "author": "haystack.deepset.ai"
+      "title": "Thank you DEV community: the Thinking Engineer Toolkit is live",
+      "url": "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762",
+      "author": "Julien Avezou"
     }
   ],
   "repos": [
     {
-      "name": "wshobson/agents",
-      "url": "https://github.com/wshobson/agents",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
-      "stars": 37156,
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 185159,
       "language": "Python"
     },
     {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Wo",
-      "stars": 20675,
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 101032,
       "language": "Python"
     },
     {
-      "name": "google-labs-code/design.md",
-      "url": "https://github.com/google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "stars": 17606,
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "stars": 69790,
+      "language": "Python"
+    },
+    {
+      "name": "run-llama/llama_index",
+      "url": "https://github.com/run-llama/llama_index",
+      "description": "LlamaIndex is the leading document agent and OCR platform",
+      "stars": 50409,
+      "language": "Python"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 19969,
       "language": "TypeScript"
-    },
-    {
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "stars": 6965,
-      "language": "TypeScript"
-    },
-    {
-      "name": "interviewstreet/hiring-agent",
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "description": "AI agent to evaluate and score resumes.",
-      "stars": 2390,
-      "language": "Python"
     }
   ],
   "tweets": []
