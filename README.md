@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-27</strong></summary>
+
+#### Papers
+1. **[ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation](https://arxiv.org/abs/2606.23835)** — A unified model for counting and generating images without needing specific training.
+2. **[Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents](https://arxiv.org/abs/2606.26080)** — Discusses the challenges of building reward models for LLMs in agentic settings.
+3. **[Information-Aware KV Cache Compression for Long Reasoning](https://arxiv.org/abs/2606.26875)** — Introduces a method to compress key-value caches in LLMs to enhance reasoning capabilities.
+4. **[EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](https://arxiv.org/abs/2606.27277)** — Proposes a model for predicting Earth surface dynamics using satellite data.
+5. **[LISA: Likelihood Score Alignment for Visual-condition Controllable Generation](https://arxiv.org/abs/2606.27192)** — Explores a dual-branch training method for controllable image generation.
+6. **[Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments](https://arxiv.org/abs/2606.14397)** — Evaluates the capabilities of agents in unfamiliar environments, addressing current benchmark limitations.
+7. **[When Does Combining Language Models Help?](https://arxiv.org/abs/2606.27288)** — Investigates the effectiveness of multi-model systems in improving LLM accuracy.
+8. **[CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies](https://arxiv.org/abs/2606.16613)** — Introduces a benchmark for evaluating LLM agents in economic scenarios.
+9. **[DanceOPD: On-Policy Generative Field Distillation](http://arxiv.org/abs/2606.27377v1)** — Proposes a unified model for diverse image generation tasks like text-to-image.
+10. **[Hallucination in World Models is Predictable and Preventable](http://arxiv.org/abs/2606.27326v1)** — Discusses how to predict and prevent hallucinations in generative world models.
+
+#### Blog Posts
+1. **[U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)** by washingtonpost.com
+2. **[Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)** by openai.com
+3. **[U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)** by semafor.com
+4. **[The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm)** by blog.doubleword.ai
+5. **[Show HN: Smart model routing directly in Claude, Codex and Cursor](https://github.com/workweave/router)** by github.com
+
+#### Trending Repos
+1. **[vllm-project/vllm](https://github.com/vllm-project/vllm)** — A high-throughput and memory-efficient inference and serving engine for LLMs. ⭐ 84493
+2. **[safishamsi/graphify](https://github.com/safishamsi/graphify)** — AI coding assistant skill that turns various code formats into queryable data. ⭐ 72673
+3. **[commaai/openpilot](https://github.com/commaai/openpilot)** — An operating system for robotics enhancing driver assistance systems. ⭐ 61846
+4. **[SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships)** — A repository of summer 2026 internship postings in tech fields. ⭐ 45079
+5. **[Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI)** — AI Toolkit for Healthcare Imaging. ⭐ 8327
+
+</details>
+
+<details>
 <summary><strong>2026-06-26</strong></summary>
 
 #### Papers

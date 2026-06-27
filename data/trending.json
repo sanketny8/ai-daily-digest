@@ -1,119 +1,126 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "papers": [
     {
-      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
-      "url": "https://arxiv.org/abs/2606.18394",
-      "summary": "Speculative decoding (SD) accelerates autoregressive Large Language Models (LLMs) by drafting multiple tokens and verifying them in parallel, but it faces a scaling limitation: increasing the draft bu"
+      "title": "ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation",
+      "url": "https://arxiv.org/abs/2606.23835",
+      "summary": "ABACUS is a unified vision-language model that handles object counting, crowd counting, referring-expression counting, and count-faithful image generation without any benchmark-specific training requi"
     },
     {
-      "title": "How Post-Training Shapes Biological Reasoning Models",
-      "url": "https://arxiv.org/abs/2606.16517",
-      "summary": "Scientific reasoning models for biology combine language models with foundation models trained on multimodal biological data, including DNA, RNA, and proteins. These models are built through post-trai"
+      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "url": "https://arxiv.org/abs/2606.26080",
+      "summary": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and s"
     },
     {
-      "title": "Hallucination in World Models is Predictable and Preventable",
-      "url": "https://arxiv.org/abs/2606.27326",
-      "summary": "Modern generative world models render increasingly realistic action-controllable futures, yet they frequently hallucinate: rollouts remain visually fluent while drifting from the ground-truth dynamics"
+      "title": "Information-Aware KV Cache Compression for Long Reasoning",
+      "url": "https://arxiv.org/abs/2606.26875",
+      "summary": "Reasoning capability has advanced rapidly in large language models (LLMs), leading to an increasing size of key-value (KV) cache in both prefilling and decoding stages. Existing KV cache compression m"
     },
     {
-      "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
-      "url": "https://arxiv.org/abs/2606.26300",
-      "summary": "A classical intuition holds that verifying a solution is easier than producing one. For today's coding agents, this intuition is being inverted: as foundation models develop stronger reasoning capabil"
+      "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
+      "url": "https://arxiv.org/abs/2606.27277",
+      "summary": "Earth Observation (EO) forecasting aims to predict future Earth surface dynamics from satellite observations under changing meteorological conditions. In this paper, we view this task as a partially o"
     },
     {
-      "title": "GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents",
-      "url": "https://arxiv.org/abs/2606.24551",
-      "summary": "Computer-use agents can execute software tasks through either graphical interfaces or programmatic command interfaces, but existing evaluations confound interaction modality with differences in tasks,"
+      "title": "LISA: Likelihood Score Alignment for Visual-condition Controllable Generation",
+      "url": "https://arxiv.org/abs/2606.27192",
+      "summary": "The prevalent dual-branch paradigm, i.e., training a side network to encode visual conditions and fusing its intermediate-layer features to a frozen pretrained main network, has shown remarkable succe"
     },
     {
-      "title": "Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It",
-      "url": "https://arxiv.org/abs/2606.26027",
-      "summary": "Tool use enables large language models (LLMs) to perform complex tasks, and recent agentic reinforcement learning (RL) methods show promise for enhancing model capabilities. However, RL alone often le"
+      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
+      "url": "https://arxiv.org/abs/2606.14397",
+      "summary": "As agentic systems continue to evolve and are widely deployed in real-world scenarios, there is a growing demand to faithfully evaluate their capabilities. However, current benchmarks are typically bu"
     },
     {
-      "title": "OpenBioRQ: Unsolved Biomedical Research Questions for Agents",
-      "url": "https://arxiv.org/abs/2606.21959",
-      "summary": "A working citation looks like proof -- but the fact that a link resolves does not mean the cited paper supports the claim. I find that current agentic models rarely fabricate citations (over 99% resol"
+      "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
+      "url": "https://arxiv.org/abs/2606.27288",
+      "summary": "Multi-model LLM systems such as routing, voting, cascades, fusion, and mixture-of-agents are used to beat single-model accuracy. We show that their gain is capped by a quantity the field rarely report"
     },
     {
-      "title": "In-Context World Modeling for Robotic Control",
-      "url": "https://arxiv.org/abs/2606.26025",
-      "summary": "Modern Vision-Language-Action (VLA) models often fail to generalize to novel setups, such as altered camera viewpoints or robot morphologies, because they are typically conditioned only on current obs"
+      "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
+      "url": "https://arxiv.org/abs/2606.16613",
+      "summary": "As LLM agents become capable of increasingly long-horizon tasks, evaluating their performance in economic systems is becoming increasingly important. Unlike existing benchmarks that primarily evaluate"
     },
     {
-      "title": "Confidence-Aware Tool Orchestration for Robust Video Understanding",
-      "url": "https://arxiv.org/abs/2606.26904",
-      "summary": "Video reasoning language models implicitly assume that every input frame is equally reliable. This leads to what we term the Blind Trust Problem: under realistic perturbations such as motion blur, gla"
+      "title": "Discretizing Reward Models",
+      "url": "https://arxiv.org/abs/2606.21795",
+      "summary": "Despite their widespread use, the role of reward models in shaping reinforcement learning is poorly understood. Reward models offer a tempting promise: they automatically estimate response quality in "
     },
     {
-      "title": "ViQ: Text-Aligned Visual Quantized Representations at Any Resolution",
-      "url": "https://arxiv.org/abs/2606.27313",
-      "summary": "A unified representation for text and vision is a natural pursuit, as it enables simpler multimodal modeling and more efficient training. However, representing images as discrete signals in the same w"
+      "title": "DanceOPD: On-Policy Generative Field Distillation",
+      "url": "http://arxiv.org/abs/2606.27377v1",
+      "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali"
     }
   ],
   "blog_posts": [
     {
-      "title": "The unbearable cheapness of open weight models",
-      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-      "author": "jamesoclaire.com"
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "author": "washingtonpost.com"
     },
     {
-      "title": "Political bias in AI: Where the AI models stand",
-      "url": "https://trakkr.ai/bias",
-      "author": "trakkr.ai"
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "author": "openai.com"
     },
     {
-      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
-      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-      "author": "nytimes.com"
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "author": "semafor.com"
     },
     {
-      "title": "The annotated PyTorch training loop",
-      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-      "author": "idlemachines.co.uk"
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "author": "blog.doubleword.ai"
     },
     {
-      "title": "Thank you DEV community: the Thinking Engineer Toolkit is live",
-      "url": "https://dev.to/javz/thank-you-dev-community-the-thinking-engineer-toolkit-is-live-3762",
-      "author": "Julien Avezou"
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "author": "github.com"
     }
   ],
   "repos": [
     {
-      "name": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 185159,
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 84493,
       "language": "Python"
     },
     {
-      "name": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "stars": 101032,
+      "name": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
+      "stars": 72673,
       "language": "Python"
     },
     {
-      "name": "opendatalab/MinerU",
-      "url": "https://github.com/opendatalab/MinerU",
-      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "stars": 69790,
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "stars": 61846,
       "language": "Python"
     },
     {
-      "name": "run-llama/llama_index",
-      "url": "https://github.com/run-llama/llama_index",
-      "description": "LlamaIndex is the leading document agent and OCR platform",
-      "stars": 50409,
+      "name": "SimplifyJobs/Summer2026-Internships",
+      "url": "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "stars": 45079,
       "language": "Python"
     },
     {
-      "name": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 19969,
-      "language": "TypeScript"
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "stars": 9319,
+      "language": ""
+    },
+    {
+      "name": "Project-MONAI/MONAI",
+      "url": "https://github.com/Project-MONAI/MONAI",
+      "description": "AI Toolkit for Healthcare Imaging",
+      "stars": 8327,
+      "language": "Python"
     }
   ],
   "tweets": []

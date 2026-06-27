@@ -1,37 +1,4 @@
 {
-  "2026-05-27": {
-    "papers": [
-      "https://arxiv.org/abs/2605.24468",
-      "https://arxiv.org/abs/2605.25979",
-      "https://arxiv.org/abs/2605.27358",
-      "https://arxiv.org/abs/2605.26114",
-      "https://arxiv.org/abs/2605.24219",
-      "https://arxiv.org/abs/2605.27235",
-      "https://arxiv.org/abs/2605.26244",
-      "https://arxiv.org/abs/2605.26952",
-      "https://arxiv.org/abs/2605.26494",
-      "https://arxiv.org/abs/2605.17423"
-    ],
-    "blogs": [
-      "https://vllm.ai/blog/2026-05-26-eagle-3-1",
-      "https://deepswe.datacurve.ai/blog",
-      "https://dev.to/harsh2644/openclaw-vs-craftbot-which-local-ai-agent-is-right-for-you-47k9",
-      "https://medium.com/@bhoomi.ahuja/top-ai-outsourcing-companies-for-2026-85c3b408d020",
-      "https://medium.com/@marketing.hiteshi/remote-health-monitoring-top-features-every-platform-needs-1829911ee94b",
-      "https://medium.com/@atharvjaiswal56/best-python-fastapi-production-tools-2026-complete-developer-guide-e914d70ffe18",
-      "https://medium.com/@richuemexo/genai-agentic-ai-training-in-electronic-city-ab550c76b944",
-      "https://medium.com/@seosperreach/how-ai-powered-kol-discovery-improves-pharma-competitive-intelligence-20f5e41b5e03"
-    ],
-    "repos": [
-      "https://github.com/DigitalPlatDev/FreeDomain",
-      "https://github.com/thedotmack/claude-mem",
-      "https://github.com/shareAI-lab/learn-claude-code",
-      "https://github.com/twentyhq/twenty",
-      "https://github.com/modelscope/FunASR",
-      "https://github.com/Open-Dev-Society/OpenStock",
-      "https://github.com/hardikpandya/stop-slop"
-    ]
-  },
   "2026-05-28": {
     "papers": [
       "https://arxiv.org/abs/2605.25969",
@@ -912,6 +879,35 @@
       "https://github.com/opendatalab/MinerU",
       "https://github.com/run-llama/llama_index",
       "https://github.com/alibaba/page-agent"
+    ]
+  },
+  "2026-06-27": {
+    "papers": [
+      "https://arxiv.org/abs/2606.23835",
+      "https://arxiv.org/abs/2606.26080",
+      "https://arxiv.org/abs/2606.26875",
+      "https://arxiv.org/abs/2606.27277",
+      "https://arxiv.org/abs/2606.27192",
+      "https://arxiv.org/abs/2606.14397",
+      "https://arxiv.org/abs/2606.27288",
+      "https://arxiv.org/abs/2606.16613",
+      "https://arxiv.org/abs/2606.21795",
+      "http://arxiv.org/abs/2606.27377v1"
+    ],
+    "blogs": [
+      "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "https://blog.doubleword.ai/frontier-os-llm",
+      "https://github.com/workweave/router"
+    ],
+    "repos": [
+      "https://github.com/vllm-project/vllm",
+      "https://github.com/safishamsi/graphify",
+      "https://github.com/commaai/openpilot",
+      "https://github.com/SimplifyJobs/Summer2026-Internships",
+      "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "https://github.com/Project-MONAI/MONAI"
     ]
   }
 }
