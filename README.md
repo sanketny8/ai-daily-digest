@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-28</strong></summary>
+
+#### Papers
+1. **[Reinforcement Learning without Ground-Truth Solutions can Improve LLMs](http://arxiv.org/abs/2606.27369v1)** — This paper explores using reinforcement learning without relying on ground-truth answers to enhance large language models.
+2. **[Autoregressive Boltzmann Generators](http://arxiv.org/abs/2606.27361v1)** — Introduces a method for efficient sampling of molecular systems, addressing challenges in statistical physics.
+3. **[When are likely answers right? On Sequence Probability and Correctness in LLMs](http://arxiv.org/abs/2606.27359v1)** — Analyzes how decoding methods in LLMs can shift probability mass towards more likely outputs.
+4. **[Error-Conditioned Neural Solvers](http://arxiv.org/abs/2606.27354v1)** — Discusses improving neural surrogate models for solving PDEs by addressing their error correction capabilities.
+5. **[Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline](http://arxiv.org/abs/2606.27347v1)** — Investigates political elite networks in Europe, focusing on their organization and governance roles.
+6. **[Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching](http://arxiv.org/abs/2606.27342v1)** — Explores the core operation of entity matching in data integration, emphasizing domain-aware approaches.
+7. **[Language-Based Digital Twins for Elderly Cognitive Assistance](http://arxiv.org/abs/2606.27334v1)** — Proposes using digital twins for personalized healthcare, particularly in early detection of cognitive decline.
+8. **[Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](http://arxiv.org/abs/2606.27330v1)** — Focuses on enhancing multimodal web agents for effective task planning in GUI environments.
+9. **[Hallucination in World Models is Predictable and Preventable](http://arxiv.org/abs/2606.27326v1)** — Examines the predictability and prevention of hallucinations in generative world models.
+10. **[Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching](http://arxiv.org/abs/2606.27342v1)** — Discusses the importance of domain awareness in entity matching for effective data integration.
+
+#### Blog Posts
+1. **[DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)** by github.com
+2. **[Asian AI startups launch Mythos-like models](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)** by techcrunch.com
+3. **[AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)** by github.com
+4. **["How to Think About AI": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More](https://www.youtube.com/watch?v=OBUzl_IaWIw)** by chobeat
+5. **[I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway](https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5)** by Lolo
+6. **[How Small Can an Agent Model Get? The Nemotron Floor](https://dev.to/tessl-io/how-small-can-an-agent-model-get-the-nemotron-floor-5gne)** by Tessl
+7. **[The feature in OxCaml that more languages should steal](https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html)** by vaguelytagged
+8. **[Machine Learning](https://medium.com/@anshulprasad5440/machine-learning-68f4c6a3f3e2)** by Anshul
+9. **[7 Python Libraries That Made Me Ship Projects Quicker](https://blog.stackademic.com/7-python-libraries-that-made-me-ship-projects-quicker-f1d16401c3f9)** by Abdur Rahman
+
+#### Trending Repos
+1. **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — The open source coding agent. ⭐ 179877
+2. **[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)** — Spec-driven development (SDD) for AI coding assistants. ⭐ 57231
+3. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** — A visual guide to Claude Code with practical templates. ⭐ 38698
+4. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** — AI generates editable PowerPoints from documents with native features. ⭐ 33265
+
+</details>
+
+<details>
 <summary><strong>2026-06-27</strong></summary>
 
 #### Papers

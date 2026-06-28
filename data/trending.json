@@ -1,125 +1,126 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "papers": [
     {
-      "title": "ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation",
-      "url": "https://arxiv.org/abs/2606.23835",
-      "summary": "ABACUS is a unified vision-language model that handles object counting, crowd counting, referring-expression counting, and count-faithful image generation without any benchmark-specific training requi"
+      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "url": "http://arxiv.org/abs/2606.27369v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution "
     },
     {
-      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
-      "url": "https://arxiv.org/abs/2606.26080",
-      "summary": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and s"
+      "title": "Autoregressive Boltzmann Generators",
+      "url": "http://arxiv.org/abs/2606.27361v1",
+      "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo"
     },
     {
-      "title": "Information-Aware KV Cache Compression for Long Reasoning",
-      "url": "https://arxiv.org/abs/2606.26875",
-      "summary": "Reasoning capability has advanced rapidly in large language models (LLMs), leading to an increasing size of key-value (KV) cache in both prefilling and decoding stages. Existing KV cache compression m"
+      "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "url": "http://arxiv.org/abs/2606.27359v1",
+      "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the"
     },
     {
-      "title": "EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting",
-      "url": "https://arxiv.org/abs/2606.27277",
-      "summary": "Earth Observation (EO) forecasting aims to predict future Earth surface dynamics from satellite observations under changing meteorological conditions. In this paper, we view this task as a partially o"
+      "title": "Error-Conditioned Neural Solvers",
+      "url": "http://arxiv.org/abs/2606.27354v1",
+      "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow"
     },
     {
-      "title": "LISA: Likelihood Score Alignment for Visual-condition Controllable Generation",
-      "url": "https://arxiv.org/abs/2606.27192",
-      "summary": "The prevalent dual-branch paradigm, i.e., training a side network to encode visual conditions and fusing its intermediate-layer features to a frozen pretrained main network, has shown remarkable succe"
+      "title": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
+      "url": "http://arxiv.org/abs/2606.27347v1",
+      "summary": "Whether political elites organise into rent-seeking coalitions that capture public resources or civic networks that sustain governance is a central question in comparative politics. Yet observing thes"
     },
     {
-      "title": "Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments",
-      "url": "https://arxiv.org/abs/2606.14397",
-      "summary": "As agentic systems continue to evolve and are widely deployed in real-world scenarios, there is a growing demand to faithfully evaluate their capabilities. However, current benchmarks are typically bu"
+      "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
+      "url": "http://arxiv.org/abs/2606.27342v1",
+      "summary": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work "
     },
     {
-      "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
-      "url": "https://arxiv.org/abs/2606.27288",
-      "summary": "Multi-model LLM systems such as routing, voting, cascades, fusion, and mixture-of-agents are used to beat single-model accuracy. We show that their gain is capped by a quantity the field rarely report"
+      "title": "Language-Based Digital Twins for Elderly Cognitive Assistance",
+      "url": "http://arxiv.org/abs/2606.27334v1",
+      "summary": "Digital twins have emerged as a promising paradigm for personalized healthcare, enabling modeling of individual behavior and health trajectories. In cognitive health, early detection of Mild Cognitive"
     },
     {
-      "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
-      "url": "https://arxiv.org/abs/2606.16613",
-      "summary": "As LLM agents become capable of increasingly long-horizon tasks, evaluating their performance in economic systems is becoming increasingly important. Unlike existing benchmarks that primarily evaluate"
+      "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
+      "url": "http://arxiv.org/abs/2606.27330v1",
+      "summary": "Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLL"
     },
     {
-      "title": "Discretizing Reward Models",
-      "url": "https://arxiv.org/abs/2606.21795",
-      "summary": "Despite their widespread use, the role of reward models in shaping reinforcement learning is poorly understood. Reward models offer a tempting promise: they automatically estimate response quality in "
-    },
-    {
-      "title": "DanceOPD: On-Policy Generative Field Distillation",
-      "url": "http://arxiv.org/abs/2606.27377v1",
-      "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali"
+      "title": "Hallucination in World Models is Predictable and Preventable",
+      "url": "http://arxiv.org/abs/2606.27326v1",
+      "summary": "Modern generative world models render increasingly realistic action-controllable futures, yet they frequently hallucinate: rollouts remain visually fluent while drifting from the ground-truth dynamics"
     }
   ],
   "blog_posts": [
     {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "author": "washingtonpost.com"
-    },
-    {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "author": "openai.com"
-    },
-    {
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "author": "semafor.com"
-    },
-    {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "author": "blog.doubleword.ai"
-    },
-    {
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "author": "github.com"
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "author": "techcrunch.com"
+    },
+    {
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "author": "github.com"
+    },
+    {
+      "title": "\"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
+      "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+      "author": "chobeat"
+    },
+    {
+      "title": "I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway",
+      "url": "https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5",
+      "author": "Lolo"
+    },
+    {
+      "title": "How Small Can an Agent Model Get? The Nemotron Floor",
+      "url": "https://dev.to/tessl-io/how-small-can-an-agent-model-get-the-nemotron-floor-5gne",
+      "author": "Tessl"
+    },
+    {
+      "title": "The feature in OxCaml that more languages should steal",
+      "url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+      "author": "vaguelytagged"
+    },
+    {
+      "title": "Machine Learning",
+      "url": "https://medium.com/@anshulprasad5440/machine-learning-68f4c6a3f3e2",
+      "author": "Anshul"
+    },
+    {
+      "title": "7 Python Libraries That Made Me Ship Projects Quicker",
+      "url": "https://blog.stackademic.com/7-python-libraries-that-made-me-ship-projects-quicker-f1d16401c3f9",
+      "author": "Abdur Rahman"
     }
   ],
   "repos": [
     {
-      "name": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "stars": 84493,
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 179877,
+      "language": "TypeScript"
+    },
+    {
+      "name": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "stars": 57231,
+      "language": "TypeScript"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 38698,
       "language": "Python"
     },
     {
-      "name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
-      "stars": 72673,
-      "language": "Python"
-    },
-    {
-      "name": "commaai/openpilot",
-      "url": "https://github.com/commaai/openpilot",
-      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "stars": 61846,
-      "language": "Python"
-    },
-    {
-      "name": "SimplifyJobs/Summer2026-Internships",
-      "url": "https://github.com/SimplifyJobs/Summer2026-Internships",
-      "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
-      "stars": 45079,
-      "language": "Python"
-    },
-    {
-      "name": "alchaincyf/zhangxuefeng-skill",
-      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-      "stars": 9319,
-      "language": ""
-    },
-    {
-      "name": "Project-MONAI/MONAI",
-      "url": "https://github.com/Project-MONAI/MONAI",
-      "description": "AI Toolkit for Healthcare Imaging",
-      "stars": 8327,
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes &amp; animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images",
+      "stars": 33265,
       "language": "Python"
     }
   ],

@@ -1,33 +1,4 @@
 {
-  "2026-05-28": {
-    "papers": [
-      "https://arxiv.org/abs/2605.25969",
-      "https://arxiv.org/abs/2605.27466",
-      "https://arxiv.org/abs/2605.23163",
-      "https://arxiv.org/abs/2605.28819",
-      "https://arxiv.org/abs/2605.28293",
-      "https://arxiv.org/abs/2605.28773",
-      "https://arxiv.org/abs/2605.28732",
-      "https://arxiv.org/abs/2605.26396",
-      "https://arxiv.org/abs/2605.28548",
-      "https://arxiv.org/abs/2605.28109"
-    ],
-    "blogs": [
-      "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "https://arps18.github.io/posts/claude-code-mastery/",
-      "https://posthog.com/blog/training-ai-models",
-      "https://www.thonking.ai/p/strangely-matrix-multiplications",
-      "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "https://arxiv.org/abs/2510.04950",
-      "https://arxiv.org/abs/2605.21779",
-      "https://medium.com/@cinemainpictures/ai-wont-make-you-a-better-thinker-learning-to-code-will-feecb7dfdc22"
-    ],
-    "repos": [
-      "https://github.com/unclecode/crawl4ai",
-      "https://github.com/harry0703/MoneyPrinterTurbo",
-      "https://github.com/agentscope-ai/agentscope"
-    ]
-  },
   "2026-05-29": {
     "papers": [
       "https://arxiv.org/abs/2605.29257",
@@ -908,6 +879,36 @@
       "https://github.com/SimplifyJobs/Summer2026-Internships",
       "https://github.com/alchaincyf/zhangxuefeng-skill",
       "https://github.com/Project-MONAI/MONAI"
+    ]
+  },
+  "2026-06-28": {
+    "papers": [
+      "http://arxiv.org/abs/2606.27369v1",
+      "http://arxiv.org/abs/2606.27361v1",
+      "http://arxiv.org/abs/2606.27359v1",
+      "http://arxiv.org/abs/2606.27354v1",
+      "http://arxiv.org/abs/2606.27347v1",
+      "http://arxiv.org/abs/2606.27342v1",
+      "http://arxiv.org/abs/2606.27334v1",
+      "http://arxiv.org/abs/2606.27330v1",
+      "http://arxiv.org/abs/2606.27326v1"
+    ],
+    "blogs": [
+      "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+      "https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5",
+      "https://dev.to/tessl-io/how-small-can-an-agent-model-get-the-nemotron-floor-5gne",
+      "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
+      "https://medium.com/@anshulprasad5440/machine-learning-68f4c6a3f3e2",
+      "https://blog.stackademic.com/7-python-libraries-that-made-me-ship-projects-quicker-f1d16401c3f9"
+    ],
+    "repos": [
+      "https://github.com/anomalyco/opencode",
+      "https://github.com/Fission-AI/OpenSpec",
+      "https://github.com/luongnv89/claude-howto",
+      "https://github.com/hugohe3/ppt-master"
     ]
   }
 }
