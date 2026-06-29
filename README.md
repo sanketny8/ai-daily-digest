@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-29</strong></summary>
+
+#### Papers
+1. **[Learning to Fold: prizewinning solution at LeHome Challenge 2026](https://arxiv.org/abs/2606.27163)** — This paper details a top-performing solution for garment folding using bimanual robots in a competitive setting.
+2. **[Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots](https://arxiv.org/abs/2606.28133)** — Explores how robots can learn manipulation skills from human actions, leveraging abundant human data.
+3. **[ProMSA: Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2606.27974)** — Introduces a model that combines image understanding with external knowledge for improved visual question answering.
+4. **[NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning](https://arxiv.org/abs/2606.27771)** — Discusses a method to enhance reward alignment in reinforcement learning while maintaining perceptual quality.
+5. **[SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning](https://arxiv.org/abs/2606.22873)** — Proposes a guardrail for vision-language models to enhance safety in various applications.
+6. **[Towards Automating Scientific Review with Google's Paper Assistant Tool](https://arxiv.org/abs/2606.28277)** — Investigates AI's role in automating scientific reviews, enhancing the speed of scientific discovery.
+7. **[DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand](http://arxiv.org/abs/2606.28323v1)** — Addresses the challenge of composing dexterous manipulation policies for multi-tasking with a single hand.
+8. **[Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs](https://arxiv.org/abs/2606.27378)** — Introduces a framework for evaluating thought representations in large language models beyond standard benchmarks.
+9. **[Democratic ICAI: Debating Our Way to Steering Principles from Preferences](http://arxiv.org/abs/2606.28294v1)** — Explores preference-based alignment in AI and the challenges of capturing human reasoning.
+10. **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](http://arxiv.org/abs/2606.28287v1)** — Investigates the relationship between nuclear force symmetries and binding energies using neural networks.
+
+#### Blog Posts
+1. **[GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)** by semgrep.dev
+2. **[Google limits Meta's use of its Gemini AI models](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)** by cnbc.com
+3. **[Tokenmaxxing is dead, long live tokenmaxxing](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing)** by 12gramsofcarbon.com
+4. **[Model Training as Code](https://aleph-alpha.com/en/blog/model-training-as-code/)** by aleph-alpha.com
+5. **[A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)** by github.com
+
+#### Trending Repos
+1. **[ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)** — Explain complex systems using visuals and simple terms. ⭐ 84707
+2. **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI hackers to find and fix your app’s vulnerabilities. ⭐ 26928
+3. **[browser-use/video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents. ⭐ 11330
+4. **[xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)** — AI-era value investing research framework based on Claude Code/Codex. ⭐ 5764
+5. **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** — A curated library of resources for building and evaluating AI agents. ⭐ 569
+6. **[amplifthq/opentag](https://github.com/amplifthq/opentag)** — Open-source agent mentions for Slack and GitHub. ⭐ 356
+
+</details>
+
+<details>
 <summary><strong>2026-06-28</strong></summary>
 
 #### Papers

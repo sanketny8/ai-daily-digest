@@ -1,127 +1,143 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "papers": [
     {
-      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
-      "url": "http://arxiv.org/abs/2606.27369v1",
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution "
+      "title": "Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
+      "url": "https://arxiv.org/abs/2606.27163",
+      "summary": "I describe my solution to the LeHome Challenge 2026, an ICRA 2026 competition on bimanual garment folding. The system placed 1st of 62 teams in the online (simulation) round and 2nd in the real-world "
     },
     {
-      "title": "Autoregressive Boltzmann Generators",
-      "url": "http://arxiv.org/abs/2606.27361v1",
-      "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo"
+      "title": "Boundary-Aware Context Grounding for A Low-Channel EEG Agent",
+      "url": "https://arxiv.org/abs/2606.26519",
+      "summary": "Large language models (LLMs) can make scientific software easier to use. However, a general model does not automatically know which measurements a particular sensor can support, which algorithms are i"
     },
     {
-      "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
-      "url": "http://arxiv.org/abs/2606.27359v1",
-      "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the"
+      "title": "Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots",
+      "url": "https://arxiv.org/abs/2606.28133",
+      "summary": "We study whether we can learn novel manipulation skills from human actions to a bi-manual robot with parallel grippers. Human action data is cheap, abundant, and diverse, making it one of the most pro"
     },
     {
-      "title": "Error-Conditioned Neural Solvers",
-      "url": "http://arxiv.org/abs/2606.27354v1",
-      "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow"
+      "title": "ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering",
+      "url": "https://arxiv.org/abs/2606.27974",
+      "summary": "Knowledge-based Visual Question Answering (KB-VQA) requires models to combine image understanding with external knowledge. Most prior methods use a fixed retrieve-then-generate pipeline with a pre-sel"
     },
     {
-      "title": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
-      "url": "http://arxiv.org/abs/2606.27347v1",
-      "summary": "Whether political elites organise into rent-seeking coalitions that capture public resources or civic networks that sustain governance is a central question in comparative politics. Yet observing thes"
+      "title": "Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents",
+      "url": "https://arxiv.org/abs/2606.27595",
+      "summary": "Web-agent benchmarks overwhelmingly measure depth -- pinning one obscure answer behind a chain of constraints -- while breadth, exhaustively enumerating a closed set and filling each item's attributes"
     },
     {
-      "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
-      "url": "http://arxiv.org/abs/2606.27342v1",
-      "summary": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work "
+      "title": "NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.27771",
+      "summary": "Reinforcement learning (RL) post-training improves the reward alignment of flow-based generators, but often degrades perceptual quality in ways that are not captured by the reward proxy. We identify a"
     },
     {
-      "title": "Language-Based Digital Twins for Elderly Cognitive Assistance",
-      "url": "http://arxiv.org/abs/2606.27334v1",
-      "summary": "Digital twins have emerged as a promising paradigm for personalized healthcare, enabling modeling of individual behavior and health trajectories. In cognitive health, early detection of Mild Cognitive"
+      "title": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
+      "url": "https://arxiv.org/abs/2606.22873",
+      "summary": "Vision-language models (VLMs) are increasingly deployed in consumer, medical, financial, and enterprise applications. This broad deployment expands the safety surface: risks can arise from multimodal "
     },
     {
-      "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
-      "url": "http://arxiv.org/abs/2606.27330v1",
-      "summary": "Multimodal web agents can assist humans in operating repetitive GUI tasks, where effective task planning is essential for decomposing complex tasks into executable actions. While small open source MLL"
+      "title": "Qwen-Image-2.0-RL Technical Report",
+      "url": "https://arxiv.org/abs/2606.27608",
+      "summary": "We present Qwen-Image-2.0-RL, a post-training pipeline that applies reinforcement learning from human feedback (RLHF) and on-policy distillation (OPD) to improve both the visual quality and instructio"
     },
     {
-      "title": "Hallucination in World Models is Predictable and Preventable",
-      "url": "http://arxiv.org/abs/2606.27326v1",
-      "summary": "Modern generative world models render increasingly realistic action-controllable futures, yet they frequently hallucinate: rollouts remain visually fluent while drifting from the ground-truth dynamics"
+      "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
+      "url": "https://arxiv.org/abs/2606.27378",
+      "summary": "We introduce an axiomatic evaluation framework for latent thought representations in LLMs, comprising metrics that are independent of downstream benchmark scores and reveal representational failures t"
+    },
+    {
+      "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
+      "url": "https://arxiv.org/abs/2606.28277",
+      "summary": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creatin"
     }
   ],
   "blog_posts": [
     {
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "author": "semgrep.dev"
+    },
+    {
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "url": "https://github.com/openai/codex/issues/2847",
       "author": "github.com"
     },
     {
-      "title": "Asian AI startups launch Mythos-like models",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "author": "techcrunch.com"
+      "title": "Google limits Meta's use of its Gemini AI models",
+      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+      "author": "cnbc.com"
     },
     {
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "author": "github.com"
+      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "author": "12gramsofcarbon.com"
     },
     {
-      "title": "\"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
-      "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
-      "author": "chobeat"
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "url": "https://arxiv.org/abs/2401.07013",
+      "author": "arxiv.org"
     },
     {
-      "title": "I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway",
-      "url": "https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5",
-      "author": "Lolo"
+      "title": "Model Training as Code",
+      "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+      "author": "aleph-alpha.com"
     },
     {
-      "title": "How Small Can an Agent Model Get? The Nemotron Floor",
-      "url": "https://dev.to/tessl-io/how-small-can-an-agent-model-get-the-nemotron-floor-5gne",
-      "author": "Tessl"
-    },
-    {
-      "title": "The feature in OxCaml that more languages should steal",
-      "url": "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
-      "author": "vaguelytagged"
-    },
-    {
-      "title": "Machine Learning",
-      "url": "https://medium.com/@anshulprasad5440/machine-learning-68f4c6a3f3e2",
-      "author": "Anshul"
-    },
-    {
-      "title": "7 Python Libraries That Made Me Ship Projects Quicker",
-      "url": "https://blog.stackademic.com/7-python-libraries-that-made-me-ship-projects-quicker-f1d16401c3f9",
-      "author": "Abdur Rahman"
+      "title": "1%",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/1-15n0",
+      "author": "Pascal CESCATO"
     }
   ],
   "repos": [
     {
-      "name": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "stars": 179877,
-      "language": "TypeScript"
+      "name": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "stars": 84707,
+      "language": ""
     },
     {
-      "name": "Fission-AI/OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
-      "description": "Spec-driven development (SDD) for AI coding assistants.",
-      "stars": 57231,
-      "language": "TypeScript"
-    },
-    {
-      "name": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 38698,
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "stars": 26928,
       "language": "Python"
     },
     {
-      "name": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates a real, editable PowerPoint from any document — native shapes &amp; animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images",
-      "stars": 33265,
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 11330,
       "language": "Python"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
+      "stars": 5764,
+      "language": "Python"
+    },
+    {
+      "name": "winsznx/theeleven",
+      "url": "https://github.com/winsznx/theeleven",
+      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+      "stars": 705,
+      "language": "TypeScript"
+    },
+    {
+      "name": "benchflow-ai/awesome-evals",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "stars": 569,
+      "language": null
+    },
+    {
+      "name": "amplifthq/opentag",
+      "url": "https://github.com/amplifthq/opentag",
+      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+      "stars": 356,
+      "language": "TypeScript"
     }
   ],
   "tweets": []

@@ -1,31 +1,4 @@
 {
-  "2026-05-29": {
-    "papers": [
-      "https://arxiv.org/abs/2605.29257",
-      "https://arxiv.org/abs/2605.30332",
-      "https://arxiv.org/abs/2605.28424",
-      "https://arxiv.org/abs/2605.26578",
-      "https://arxiv.org/abs/2605.26029",
-      "https://arxiv.org/abs/2605.30189",
-      "https://arxiv.org/abs/2605.25378",
-      "https://arxiv.org/abs/2605.30346",
-      "https://arxiv.org/abs/2605.29486",
-      "https://arxiv.org/abs/2605.29548"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/news/claude-opus-4-8",
-      "https://www.anthropic.com/news/series-h",
-      "https://llmgame.scalex.dev",
-      "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
-      "https://jinlow.medium.com/from-chat-window-to-operating-system-how-to-actually-run-a-persistent-agent-f020accccca5"
-    ],
-    "repos": [
-      "https://github.com/anthropics/claude-code",
-      "https://github.com/EveryInc/compound-engineering-plugin",
-      "https://github.com/adithya-s-k/omniparse"
-    ]
-  },
   "2026-05-30": {
     "papers": [
       "https://arxiv.org/abs/2605.21781",
@@ -909,6 +882,38 @@
       "https://github.com/Fission-AI/OpenSpec",
       "https://github.com/luongnv89/claude-howto",
       "https://github.com/hugohe3/ppt-master"
+    ]
+  },
+  "2026-06-29": {
+    "papers": [
+      "https://arxiv.org/abs/2606.27163",
+      "https://arxiv.org/abs/2606.26519",
+      "https://arxiv.org/abs/2606.28133",
+      "https://arxiv.org/abs/2606.27974",
+      "https://arxiv.org/abs/2606.27595",
+      "https://arxiv.org/abs/2606.27771",
+      "https://arxiv.org/abs/2606.22873",
+      "https://arxiv.org/abs/2606.27608",
+      "https://arxiv.org/abs/2606.27378",
+      "https://arxiv.org/abs/2606.28277"
+    ],
+    "blogs": [
+      "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "https://github.com/openai/codex/issues/2847",
+      "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+      "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "https://arxiv.org/abs/2401.07013",
+      "https://aleph-alpha.com/en/blog/model-training-as-code/",
+      "https://dev.to/pascal_cescato_692b7a8a20/1-15n0"
+    ],
+    "repos": [
+      "https://github.com/ByteByteGoHq/system-design-101",
+      "https://github.com/usestrix/strix",
+      "https://github.com/browser-use/video-use",
+      "https://github.com/xbtlin/ai-berkshire",
+      "https://github.com/winsznx/theeleven",
+      "https://github.com/benchflow-ai/awesome-evals",
+      "https://github.com/amplifthq/opentag"
     ]
   }
 }
