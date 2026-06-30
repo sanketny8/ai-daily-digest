@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-06-30</strong></summary>
+
+#### Papers
+1. **[Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning](https://arxiv.org/abs/2606.27828)** — Investigates if multimodal large language models can reason over dynamic visual evidence in videos.
+2. **[Trimming the Long-Tail of Visual World Modeling Evaluation](https://arxiv.org/abs/2606.24256)** — Addresses the long-tailed distribution of physical interactions in visual data and human experience.
+3. **[LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing](https://arxiv.org/abs/2606.26740)** — Proposes solutions for stable backgrounds and low latency in streaming video editing.
+4. **[DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model](https://arxiv.org/abs/2606.30292)** — Introduces a foundational world model for real-time interactive simulation with low computational demands.
+5. **[TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents](https://arxiv.org/abs/2606.28480)** — Evaluates terminal-use agents' capabilities beyond coding, reflecting advancements in large language models.
+6. **[OSWorld2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks](https://arxiv.org/abs/2606.29537)** — Proposes a new benchmark capturing the complexity of real-world computer tasks for agent evaluation.
+7. **[SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing](https://arxiv.org/abs/2606.29887)** — Focuses on identifying unsafe interactions in user-model applications using application-specific safety policies.
+8. **[Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](http://arxiv.org/abs/2606.30616v1)** — Discusses achieving high performance in AI agents by scaling the agent horizon instead of parameters.
+9. **[Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models](http://arxiv.org/abs/2606.30627v1)** — Examines how conservative offline training can lead to issues during online adaptation in reasoning models.
+10. **[GROW$^2$: Grounding Which and Where for Robot Tool Use](http://arxiv.org/abs/2606.30632v1)** — Investigates how robots can creatively use tools beyond their intended functions, enhancing robotic capabilities.
+
+#### Blog Posts
+1. **[Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)** by github.com
+2. **[What's Next for AI?](https://dev.to/sylwia-lask/whats-next-for-ai-219i)** by Sylwia Laskowska
+3. **[Micro-Agent: Beat Frontier Models with Collaboration Inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)** by vllm.ai
+4. **[Welcome to AI Engineer World’s Fair 2026](https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09)** by swyx
+5. **[The Model Does Not Need Memory. The Situation Does.](https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g)** by marcosomma
+6. **[You’re not really that far behind.](https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d)** by Ryan Swift
+
+#### Trending Repos
+1. **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** — Open-source LLM Friendly Web Crawler & Scraper. ⭐ 70345
+2. **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — Making ALL Software Agent-Native. ⭐ 44281
+3. **[hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN)** — Multi-agent LLM-based Chinese financial trading framework. ⭐ 29375
+4. **[logto-io/logto](https://github.com/logto-io/logto)** — Authentication and authorization infrastructure for SaaS and AI apps. ⭐ 12808
+5. **[ladaapp/lada](https://github.com/ladaapp/lada)** — Restore videos with pixelated/mosaic regions. ⭐ 5159
+6. **[0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)** — 18 AI personas deliberate your hardest decisions across multiple LLM providers. ⭐ 2070
+
+</details>
+
+<details>
 <summary><strong>2026-06-29</strong></summary>
 
 #### Papers

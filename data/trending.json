@@ -1,143 +1,141 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "papers": [
     {
-      "title": "Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
-      "url": "https://arxiv.org/abs/2606.27163",
-      "summary": "I describe my solution to the LeHome Challenge 2026, an ICRA 2026 competition on bimanual garment folding. The system placed 1st of 62 teams in the online (simulation) round and 2nd in the real-world "
+      "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
+      "url": "https://arxiv.org/abs/2606.27828",
+      "summary": "Recent interest in multimodal large language models (MLLMs) raises a central question: can they reason over dynamic visual evidence rather than merely recognize objects or events in individual frames?"
     },
     {
-      "title": "Boundary-Aware Context Grounding for A Low-Channel EEG Agent",
-      "url": "https://arxiv.org/abs/2606.26519",
-      "summary": "Large language models (LLMs) can make scientific software easier to use. However, a general model does not automatically know which measurements a particular sensor can support, which algorithms are i"
+      "title": "Trimming the Long-Tail of Visual World Modeling Evaluation",
+      "url": "https://arxiv.org/abs/2606.24256",
+      "summary": "Physical interactions follow a long-tailed distribution: a set of common and regular interactions dominates human experience and visual data, while a broad spectrum of rare and irregular interactions "
     },
     {
-      "title": "Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots",
-      "url": "https://arxiv.org/abs/2606.28133",
-      "summary": "We study whether we can learn novel manipulation skills from human actions to a bi-manual robot with parallel grippers. Human action data is cheap, abundant, and diverse, making it one of the most pro"
+      "title": "LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing",
+      "url": "https://arxiv.org/abs/2606.26740",
+      "summary": "Streaming video editing has made rapid progress, yet practical deployment is still limited by two core issues: maintaining stable backgrounds and non-edited regions over time, and achieving the low la"
     },
     {
-      "title": "ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering",
-      "url": "https://arxiv.org/abs/2606.27974",
-      "summary": "Knowledge-based Visual Question Answering (KB-VQA) requires models to combine image understanding with external knowledge. Most prior methods use a fixed retrieve-then-generate pipeline with a pre-sel"
+      "title": "DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model",
+      "url": "https://arxiv.org/abs/2606.30292",
+      "summary": "We present DreamForge-World 0.1 Preview, a preview foundational world model for real-time interactive world simulation. The system adapts the LongLive 1 autoregressive video stack, itself derived from"
     },
     {
-      "title": "Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents",
-      "url": "https://arxiv.org/abs/2606.27595",
-      "summary": "Web-agent benchmarks overwhelmingly measure depth -- pinning one obscure answer behind a chain of constraints -- while breadth, exhaustively enumerating a closed set and filling each item's attributes"
+      "title": "Geometric Stability of Neural Population Codes: Regional Variation, Behavioral Relevance, and Circuit Dependence",
+      "url": "https://arxiv.org/abs/2606.29655",
+      "summary": "Current models of representational reliability in neural populations focus on temporal stability: whether population centroids are preserved across sessions and days. This framing leaves a fundamental"
     },
     {
-      "title": "NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.27771",
-      "summary": "Reinforcement learning (RL) post-training improves the reward alignment of flow-based generators, but often degrades perceptual quality in ways that are not captured by the reward proxy. We identify a"
+      "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
+      "url": "https://arxiv.org/abs/2606.28480",
+      "summary": "As large language models and harness frameworks continue to advance, agents operating in terminals are increasingly capable of performing a broader range of general computer-use tasks beyond coding. H"
     },
     {
-      "title": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
-      "url": "https://arxiv.org/abs/2606.22873",
-      "summary": "Vision-language models (VLMs) are increasingly deployed in consumer, medical, financial, and enterprise applications. This broad deployment expands the safety surface: risks can arise from multimodal "
+      "title": "OSWorld2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
+      "url": "https://arxiv.org/abs/2606.29537",
+      "summary": "Existing computer-use benchmarks fail to capture the realism, complexity, and long-horizon demands of real-world computer use, limiting their ability to reveal the limitations of frontier agents. We i"
     },
     {
-      "title": "Qwen-Image-2.0-RL Technical Report",
-      "url": "https://arxiv.org/abs/2606.27608",
-      "summary": "We present Qwen-Image-2.0-RL, a post-training pipeline that applies reinforcement learning from human feedback (RLHF) and on-policy distillation (OPD) to improve both the visual quality and instructio"
+      "title": "Walking in the Implicit: Interactive World Exploration via Neural Scene Representation",
+      "url": "https://arxiv.org/abs/2606.30045",
+      "summary": "Interactive video generation systems for camera-controlled world exploration roll out growing sequences of latent video frames, entangling state transition with high-frequency observation synthesis. W"
     },
     {
-      "title": "Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs",
-      "url": "https://arxiv.org/abs/2606.27378",
-      "summary": "We introduce an axiomatic evaluation framework for latent thought representations in LLMs, comprising metrics that are independent of downstream benchmark scores and reveal representational failures t"
+      "title": "SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing",
+      "url": "https://arxiv.org/abs/2606.29887",
+      "summary": "In real-world applications, guardrails are often expected to identify unsafe user-model interactions according to application-specific safety policies, rather than relying on predefined risk taxonomie"
     },
     {
-      "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
-      "url": "https://arxiv.org/abs/2606.28277",
-      "summary": "Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creatin"
+      "title": "One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding",
+      "url": "https://arxiv.org/abs/2606.30084",
+      "summary": "MLLM-based GUI grounding methods commonly formulate target localization as autoregressive coordinate generation, enabling models to leverage the strong instruction-following and semantic understanding"
     }
   ],
   "blog_posts": [
     {
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "author": "semgrep.dev"
-    },
-    {
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "url": "https://github.com/openai/codex/issues/2847",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "author": "github.com"
     },
     {
-      "title": "Google limits Meta's use of its Gemini AI models",
-      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-      "author": "cnbc.com"
+      "title": "What's Next for AI?",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "author": "Sylwia Laskowska"
     },
     {
-      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
-      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-      "author": "12gramsofcarbon.com"
+      "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
+      "url": "https://deep-reinforce.com/ornith_1_0.html",
+      "author": "deep-reinforce.com"
     },
     {
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "url": "https://arxiv.org/abs/2401.07013",
-      "author": "arxiv.org"
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "author": "vllm.ai"
     },
     {
-      "title": "Model Training as Code",
-      "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
-      "author": "aleph-alpha.com"
+      "title": "Need a break? Play today's game from The Daily Context.",
+      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
+      "author": "Jess Lee"
     },
     {
-      "title": "1%",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/1-15n0",
-      "author": "Pascal CESCATO"
+      "title": "Welcome to AI Engineer World’s Fair 2026",
+      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
+      "author": "swyx"
+    },
+    {
+      "title": "The Model Does Not Need Memory. The Situation Does.",
+      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
+      "author": "marcosomma"
+    },
+    {
+      "title": "You’re not really that far behind.",
+      "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d",
+      "author": "Ryan Swift"
     }
   ],
   "repos": [
     {
-      "name": "ByteByteGoHq/system-design-101",
-      "url": "https://github.com/ByteByteGoHq/system-design-101",
-      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-      "stars": 84707,
-      "language": ""
-    },
-    {
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-      "stars": 26928,
+      "name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "stars": 70345,
       "language": "Python"
     },
     {
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "stars": 11330,
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 44281,
       "language": "Python"
     },
     {
-      "name": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
-      "stars": 5764,
+      "name": "hsliuping/TradingAgents-CN",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "stars": 29375,
       "language": "Python"
     },
     {
-      "name": "winsznx/theeleven",
-      "url": "https://github.com/winsznx/theeleven",
-      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "stars": 705,
+      "name": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "stars": 12808,
       "language": "TypeScript"
     },
     {
-      "name": "benchflow-ai/awesome-evals",
-      "url": "https://github.com/benchflow-ai/awesome-evals",
-      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "stars": 569,
-      "language": null
+      "name": "ladaapp/lada",
+      "url": "https://github.com/ladaapp/lada",
+      "description": "Restore videos with pixelated/mosaic regions",
+      "stars": 5159,
+      "language": "Python"
     },
     {
-      "name": "amplifthq/opentag",
-      "url": "https://github.com/amplifthq/opentag",
-      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-      "stars": 356,
-      "language": "TypeScript"
+      "name": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp; more — structured multi-round deliberation with genuine model diversity. On",
+      "stars": 2070,
+      "language": "Shell"
     }
   ],
   "tweets": []

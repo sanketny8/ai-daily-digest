@@ -1,33 +1,4 @@
 {
-  "2026-05-30": {
-    "papers": [
-      "https://arxiv.org/abs/2605.21781",
-      "https://arxiv.org/abs/2605.30161",
-      "https://arxiv.org/abs/2605.24786",
-      "https://arxiv.org/abs/2605.24785",
-      "https://arxiv.org/abs/2605.23235",
-      "https://arxiv.org/abs/2605.30350",
-      "https://arxiv.org/abs/2605.30344",
-      "https://arxiv.org/abs/2605.22771",
-      "https://arxiv.org/abs/2605.25220",
-      "https://arxiv.org/abs/2605.30052"
-    ],
-    "blogs": [
-      "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "https://github.com/jmaczan/tiny-vllm",
-      "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "https://research.roundtable.ai/captchas-detect-ai/",
-      "https://dev.to/drizzdev/how-to-automate-mobile-app-testing-without-writing-a-single-line-of-code-5d17"
-    ],
-    "repos": [
-      "https://github.com/Crosstalk-Solutions/project-nomad",
-      "https://github.com/run-llama/liteparse",
-      "https://github.com/apurvsinghgautam/robin",
-      "https://github.com/GH05TCREW/pentestagent"
-    ]
-  },
   "2026-05-31": {
     "papers": [
       "http://arxiv.org/abs/2605.30353v1",
@@ -914,6 +885,38 @@
       "https://github.com/winsznx/theeleven",
       "https://github.com/benchflow-ai/awesome-evals",
       "https://github.com/amplifthq/opentag"
+    ]
+  },
+  "2026-06-30": {
+    "papers": [
+      "https://arxiv.org/abs/2606.27828",
+      "https://arxiv.org/abs/2606.24256",
+      "https://arxiv.org/abs/2606.26740",
+      "https://arxiv.org/abs/2606.30292",
+      "https://arxiv.org/abs/2606.29655",
+      "https://arxiv.org/abs/2606.28480",
+      "https://arxiv.org/abs/2606.29537",
+      "https://arxiv.org/abs/2606.30045",
+      "https://arxiv.org/abs/2606.29887",
+      "https://arxiv.org/abs/2606.30084"
+    ],
+    "blogs": [
+      "https://github.com/deepreinforce-ai/Ornith-1",
+      "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "https://deep-reinforce.com/ornith_1_0.html",
+      "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
+      "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
+      "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
+      "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d"
+    ],
+    "repos": [
+      "https://github.com/unclecode/crawl4ai",
+      "https://github.com/HKUDS/CLI-Anything",
+      "https://github.com/hsliuping/TradingAgents-CN",
+      "https://github.com/logto-io/logto",
+      "https://github.com/ladaapp/lada",
+      "https://github.com/0xNyk/council-of-high-intelligence"
     ]
   }
 }
