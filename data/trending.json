@@ -1,141 +1,141 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "papers": [
     {
-      "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
-      "url": "https://arxiv.org/abs/2606.27828",
-      "summary": "Recent interest in multimodal large language models (MLLMs) raises a central question: can they reason over dynamic visual evidence rather than merely recognize objects or events in individual frames?"
+      "title": "Multi-Block Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2606.29215",
+      "summary": "Block Diffusion Language Models (BD-LMs) improve diffusion-based text generation with KV caching and flexible-length generation. A natural next step is to extend them from Single-Block Diffusion (Sing"
     },
     {
-      "title": "Trimming the Long-Tail of Visual World Modeling Evaluation",
-      "url": "https://arxiv.org/abs/2606.24256",
-      "summary": "Physical interactions follow a long-tailed distribution: a set of common and regular interactions dominates human experience and visual data, while a broad spectrum of rare and irregular interactions "
+      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+      "url": "https://arxiv.org/abs/2606.32032",
+      "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive facu"
     },
     {
-      "title": "LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing",
-      "url": "https://arxiv.org/abs/2606.26740",
-      "summary": "Streaming video editing has made rapid progress, yet practical deployment is still limited by two core issues: maintaining stable backgrounds and non-edited regions over time, and achieving the low la"
+      "title": "TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive",
+      "url": "https://arxiv.org/abs/2606.31029",
+      "summary": "Generative models have achieved remarkable progress, yet applying them to satellite imagery remains challenging. Unlike natural imagery, satellite scenes are structured by spatially complex and semant"
     },
     {
-      "title": "DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model",
-      "url": "https://arxiv.org/abs/2606.30292",
-      "summary": "We present DreamForge-World 0.1 Preview, a preview foundational world model for real-time interactive world simulation. The system adapts the LongLive 1 autoregressive video stack, itself derived from"
+      "title": "PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising",
+      "url": "https://arxiv.org/abs/2606.30968",
+      "summary": "Photomosaics are large images whose local regions are seen as independent tiles while their overall arrangement forms a coherent scene. Generating them at high resolution, with every tile convincing i"
     },
     {
-      "title": "Geometric Stability of Neural Population Codes: Regional Variation, Behavioral Relevance, and Circuit Dependence",
-      "url": "https://arxiv.org/abs/2606.29655",
-      "summary": "Current models of representational reliability in neural populations focus on temporal stability: whether population centroids are preserved across sessions and days. This framing leaves a fundamental"
+      "title": "BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language",
+      "url": "https://arxiv.org/abs/2606.30319",
+      "summary": "Modeling the bidirectional correspondence between external sensory stimuli and internal neural activity has emerged as a critical frontier in neuroscience. However, existing approaches predominantly t"
     },
     {
-      "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
-      "url": "https://arxiv.org/abs/2606.28480",
-      "summary": "As large language models and harness frameworks continue to advance, agents operating in terminals are increasingly capable of performing a broader range of general computer-use tasks beyond coding. H"
+      "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
+      "url": "https://arxiv.org/abs/2606.31315",
+      "summary": "Speculative decoding accelerates inference by using a lightweight draft model to generate candidate tokens in parallel, and are then verified by the target model, enabling lossless acceleration. Recen"
     },
     {
-      "title": "OSWorld2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
-      "url": "https://arxiv.org/abs/2606.29537",
-      "summary": "Existing computer-use benchmarks fail to capture the realism, complexity, and long-horizon demands of real-world computer use, limiting their ability to reveal the limitations of frontier agents. We i"
+      "title": "Xiaomi-GUI-0 Technical Report",
+      "url": "https://arxiv.org/abs/2606.31410",
+      "summary": "Graphical user interface (GUI) agents build on vision-language models to complete user tasks end-to-end in real applications through interface actions such as tapping, swiping, text entry, and navigat"
     },
     {
-      "title": "Walking in the Implicit: Interactive World Exploration via Neural Scene Representation",
-      "url": "https://arxiv.org/abs/2606.30045",
-      "summary": "Interactive video generation systems for camera-controlled world exploration roll out growing sequences of latent video frames, entangling state transition with high-frequency observation synthesis. W"
+      "title": "PolyFlow: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation",
+      "url": "https://arxiv.org/abs/2606.30673",
+      "summary": "Autoregressive Transformers dominate high-quality mesh generation by producing artist-worthy topologies, yet their inherent sequential decoding induces substantial computational overhead, falling orde"
     },
     {
-      "title": "SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing",
-      "url": "https://arxiv.org/abs/2606.29887",
-      "summary": "In real-world applications, guardrails are often expected to identify unsafe user-model interactions according to application-specific safety policies, rather than relying on predefined risk taxonomie"
+      "title": "MemLearner: Learning to Query Context memory for Video World Models",
+      "url": "https://arxiv.org/abs/2606.31734",
+      "summary": "Video World Models are interactive video generation models that predict future world states based on user actions and history video frames. A critical challenge in video world models is the lack of me"
     },
     {
-      "title": "One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding",
-      "url": "https://arxiv.org/abs/2606.30084",
-      "summary": "MLLM-based GUI grounding methods commonly formulate target localization as autoregressive coordinate generation, enabling models to leverage the strong instruction-following and semantic understanding"
+      "title": "Orca: The World is in Your Mind",
+      "url": "https://arxiv.org/abs/2606.30534",
+      "summary": "We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf"
     }
   ],
   "blog_posts": [
     {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "author": "github.com"
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "author": "thereallo.dev"
     },
     {
-      "title": "What's Next for AI?",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "author": "Sylwia Laskowska"
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "author": "anthropic.com"
     },
     {
-      "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-      "url": "https://deep-reinforce.com/ornith_1_0.html",
-      "author": "deep-reinforce.com"
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "author": "twitter.com"
     },
     {
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "author": "vllm.ai"
+      "title": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "author": "deepmind.google"
     },
     {
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
-      "author": "Jess Lee"
+      "title": "Leanstral 1.5",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "author": "docs.mistral.ai"
     },
     {
-      "title": "Welcome to AI Engineer World’s Fair 2026",
-      "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
-      "author": "swyx"
+      "title": "Someone Else Pays for Your AI Access",
+      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
+      "author": "Daniel Nwaneri"
     },
     {
-      "title": "The Model Does Not Need Memory. The Situation Does.",
-      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
-      "author": "marcosomma"
+      "title": "The Future Of AI Is Local And Open",
+      "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
+      "author": "Paige Bailey"
     },
     {
-      "title": "You’re not really that far behind.",
-      "url": "https://dev.to/dailycontext/youre-not-really-that-far-behind-h4d",
-      "author": "Ryan Swift"
+      "title": "The Log Is the Agent",
+      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
+      "author": "Ishaan Sehgal"
     }
   ],
   "repos": [
     {
-      "name": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "stars": 70345,
-      "language": "Python"
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": 49640,
+      "language": "Jupyter Notebook"
     },
     {
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "stars": 44281,
-      "language": "Python"
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "stars": 9138,
+      "language": "Rust"
     },
     {
-      "name": "hsliuping/TradingAgents-CN",
-      "url": "https://github.com/hsliuping/TradingAgents-CN",
-      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "stars": 29375,
-      "language": "Python"
-    },
-    {
-      "name": "logto-io/logto",
-      "url": "https://github.com/logto-io/logto",
-      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-      "stars": 12808,
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15",
+      "stars": 8782,
       "language": "TypeScript"
     },
     {
-      "name": "ladaapp/lada",
-      "url": "https://github.com/ladaapp/lada",
-      "description": "Restore videos with pixelated/mosaic regions",
-      "stars": 5159,
-      "language": "Python"
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "stars": 7241,
+      "language": "HTML"
     },
     {
-      "name": "0xNyk/council-of-high-intelligence",
-      "url": "https://github.com/0xNyk/council-of-high-intelligence",
-      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp; more — structured multi-round deliberation with genuine model diversity. On",
-      "stars": 2070,
-      "language": "Shell"
+      "name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "stars": 5072,
+      "language": "Swift"
+    },
+    {
+      "name": "google/agents-cli",
+      "url": "https://github.com/google/agents-cli",
+      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "stars": 4363,
+      "language": "Python"
     }
   ],
   "tweets": []

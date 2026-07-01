@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-01</strong></summary>
+
+#### Papers
+1. **[Multi-Block Diffusion Language Models](https://arxiv.org/abs/2606.29215)** — This paper introduces Block Diffusion Language Models that enhance text generation through efficient caching and flexible-length outputs.
+2. **[Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](https://arxiv.org/abs/2606.32032)** — It explores how metacognitive feedback can improve uncertainty expression in large language models.
+3. **[TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive](https://arxiv.org/abs/2606.31029)** — This work presents a generative model for synthesizing complex satellite images using various geospatial primitives.
+4. **[PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising](https://arxiv.org/abs/2606.30968)** — The paper discusses a method for generating high-resolution photomosaics without the need for training.
+5. **[BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language](https://arxiv.org/abs/2606.30319)** — It proposes a model to bridge understanding and generation across sensory inputs and cognitive processes.
+6. **[BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding](https://arxiv.org/abs/2606.31315)** — This research focuses on improving inference speed in diffusion models through adaptive policy learning.
+7. **[Xiaomi-GUI-0 Technical Report](https://arxiv.org/abs/2606.31410)** — The report details GUI agents that utilize vision-language models for task completion in real applications.
+8. **[PolyFlow: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation](https://arxiv.org/abs/2606.30673)** — It introduces a method for generating artist-quality mesh topologies with reduced computational overhead.
+9. **[MemLearner: Learning to Query Context memory for Video World Models](https://arxiv.org/abs/2606.31734)** — This paper addresses memory querying challenges in interactive video generation models.
+10. **[Orca: The World is in Your Mind](https://arxiv.org/abs/2606.30534)** — It presents Orca, a model that learns a unified latent space from multimodal world signals.
+
+#### Blog Posts
+1. **[Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)** by thereallo.dev
+2. **[Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)** by anthropic.com
+3. **[Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)** by twitter.com
+4. **[Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)** by deepmind.google
+5. **[Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06)** by docs.mistral.ai
+6. **[Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149)** by Daniel Nwaneri
+7. **[The Future Of AI Is Local And Open](https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c)** by Paige Bailey
+8. **[The Log Is the Agent](https://dev.to/dailycontext/the-log-is-the-agent-5096)** by Ishaan Sehgal
+
+#### Trending Repos
+1. **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** — 12 Weeks, 24 Lessons, AI for All! ⭐ 49640
+2. **[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)** — Agent multiplexer that lives in your terminal. ⭐ 9138
+3. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Free AI gateway connecting multiple providers. ⭐ 8782
+4. **[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)** — Comprehensive dataset of fitness exercises with detailed entries. ⭐ 7241
+5. **[altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)** — Fast macOS dictation app with on-device STT and AI enhancements. ⭐ 5072
+6. **[google/agents-cli](https://github.com/google/agents-cli)** — CLI and skills for creating AI agents on Google Cloud. ⭐ 4363
+
+</details>
+
+<details>
 <summary><strong>2026-06-30</strong></summary>
 
 #### Papers

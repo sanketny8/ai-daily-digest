@@ -1,34 +1,4 @@
 {
-  "2026-05-31": {
-    "papers": [
-      "http://arxiv.org/abs/2605.30353v1",
-      "http://arxiv.org/abs/2605.30351v1",
-      "http://arxiv.org/abs/2605.30350v1",
-      "http://arxiv.org/abs/2605.30348v1",
-      "http://arxiv.org/abs/2605.30345v1",
-      "http://arxiv.org/abs/2605.30344v1",
-      "http://arxiv.org/abs/2605.30343v1",
-      "http://arxiv.org/abs/2605.30341v1",
-      "http://arxiv.org/abs/2605.30337v1",
-      "http://arxiv.org/abs/2605.30336v1"
-    ],
-    "blogs": [
-      "https://openenvelope.org/docs/schema/",
-      "https://arxiv.org/abs/2605.29135",
-      "https://dev.to/nimay_04/your-ai-agent-should-text-you-first-2b3b",
-      "https://dev.to/chintanonweb/hermes-agent-gets-smarter-every-day-so-does-the-bill-4i8o"
-    ],
-    "repos": [
-      "https://github.com/apache/airflow",
-      "https://github.com/streamlit/streamlit",
-      "https://github.com/revfactory/harness",
-      "https://github.com/OpenMOSS/MOSS-TTS",
-      "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "https://github.com/galilai-group/stable-worldmodel",
-      "https://github.com/UditAkhourii/adhd",
-      "https://github.com/withkynam/vibecode-pro-max-kit"
-    ]
-  },
   "2026-06-01": {
     "papers": [
       "https://arxiv.org/abs/2605.29447",
@@ -917,6 +887,38 @@
       "https://github.com/logto-io/logto",
       "https://github.com/ladaapp/lada",
       "https://github.com/0xNyk/council-of-high-intelligence"
+    ]
+  },
+  "2026-07-01": {
+    "papers": [
+      "https://arxiv.org/abs/2606.29215",
+      "https://arxiv.org/abs/2606.32032",
+      "https://arxiv.org/abs/2606.31029",
+      "https://arxiv.org/abs/2606.30968",
+      "https://arxiv.org/abs/2606.30319",
+      "https://arxiv.org/abs/2606.31315",
+      "https://arxiv.org/abs/2606.31410",
+      "https://arxiv.org/abs/2606.30673",
+      "https://arxiv.org/abs/2606.31734",
+      "https://arxiv.org/abs/2606.30534"
+    ],
+    "blogs": [
+      "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "https://www.anthropic.com/news/claude-sonnet-5",
+      "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "https://deepmind.google/models/gemini-image/flash-lite/",
+      "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
+      "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
+      "https://dev.to/dailycontext/the-log-is-the-agent-5096"
+    ],
+    "repos": [
+      "https://github.com/microsoft/AI-For-Beginners",
+      "https://github.com/ogulcancelik/herdr",
+      "https://github.com/diegosouzapw/OmniRoute",
+      "https://github.com/hasaneyldrm/exercises-dataset",
+      "https://github.com/altic-dev/FluidVoice",
+      "https://github.com/google/agents-cli"
     ]
   }
 }
