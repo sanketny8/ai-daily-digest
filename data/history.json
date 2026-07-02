@@ -1,37 +1,4 @@
 {
-  "2026-06-01": {
-    "papers": [
-      "https://arxiv.org/abs/2605.29447",
-      "https://arxiv.org/abs/2605.30557",
-      "https://arxiv.org/abs/2605.31433",
-      "https://arxiv.org/abs/2605.30888",
-      "https://arxiv.org/abs/2605.30846",
-      "https://arxiv.org/abs/2605.29488",
-      "https://arxiv.org/abs/2605.29411",
-      "https://arxiv.org/abs/2605.27919",
-      "https://arxiv.org/abs/2605.28618",
-      "https://arxiv.org/abs/2605.30940"
-    ],
-    "blogs": [
-      "https://blog.tymscar.com/posts/v100localllm/",
-      "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
-      "https://dev.to/pablonax/ultracode-for-codex-claude-style-dynamic-workflows-with-a-skill-3knk",
-      "https://www.amnesty.org/en/documents/pol40/0996/2026/en/",
-      "https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18",
-      "https://medium.com/@rajveersandhu123.q/ai-tools-that-save-10-hours-a-week-for-marketers-a849be76b9a0",
-      "https://medium.com/@madhupriya.basu/the-ai-that-doubts-itself-so-you-dont-have-to-6d7f258e8ef5"
-    ],
-    "repos": [
-      "https://github.com/Comfy-Org/ComfyUI",
-      "https://github.com/supermemoryai/supermemory",
-      "https://github.com/nesquena/hermes-webui",
-      "https://github.com/jamwithai/production-agentic-rag-course",
-      "https://github.com/nicobailon/pi-subagents",
-      "https://github.com/ai-boost/awesome-harness-engineering",
-      "https://github.com/2aronS/Duel-Agents"
-    ]
-  },
   "2026-06-02": {
     "papers": [
       "https://arxiv.org/abs/2606.02470",
@@ -919,6 +886,34 @@
       "https://github.com/hasaneyldrm/exercises-dataset",
       "https://github.com/altic-dev/FluidVoice",
       "https://github.com/google/agents-cli"
+    ]
+  },
+  "2026-07-02": {
+    "papers": [
+      "https://arxiv.org/abs/2607.00248",
+      "https://arxiv.org/abs/2607.00272",
+      "https://arxiv.org/abs/2607.01071",
+      "https://arxiv.org/abs/2606.32029",
+      "https://arxiv.org/abs/2607.01218",
+      "https://arxiv.org/abs/2607.01191",
+      "https://arxiv.org/abs/2606.19271",
+      "https://arxiv.org/abs/2606.31551",
+      "https://arxiv.org/abs/2607.01104",
+      "https://arxiv.org/abs/2607.00666"
+    ],
+    "blogs": [
+      "https://twitter.com/claudeai/status/2072402636813607381",
+      "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+      "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+      "https://senior-swe-bench.snorkel.ai/",
+      "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
+      "https://dev.to/xulingfeng/stratagems-4-p-walked-into-an-ai-monitoring-poc-p-didnt-run-a-single-test-1ejk"
+    ],
+    "repos": [
+      "https://github.com/open-webui/open-webui",
+      "https://github.com/ultralytics/yolov5",
+      "https://github.com/yikart/AiToEarn",
+      "https://github.com/allenai/olmocr"
     ]
   }
 }

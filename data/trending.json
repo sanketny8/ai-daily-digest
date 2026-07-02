@@ -1,140 +1,116 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "papers": [
     {
-      "title": "Multi-Block Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2606.29215",
-      "summary": "Block Diffusion Language Models (BD-LMs) improve diffusion-based text generation with KV caching and flexible-length generation. A natural next step is to extend them from Single-Block Diffusion (Sing"
+      "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+      "url": "https://arxiv.org/abs/2607.00248",
+      "summary": "We present Seed2.0, a model series that takes a meaningful step toward solving complex, real-world tasks. Our approach begins with identifying users' genuine needs and constructing a reliable, forward"
     },
     {
-      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
-      "url": "https://arxiv.org/abs/2606.32032",
-      "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive facu"
+      "title": "ASPIRE: Agentic /Skills Discovery for Robotics",
+      "url": "https://arxiv.org/abs/2607.00272",
+      "summary": "Traditional robot programming is challenging: it requires orchestrating multimodal perception, managing physical contact dynamics, and handling diverse configurations and execution failures. We introd"
     },
     {
-      "title": "TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive",
-      "url": "https://arxiv.org/abs/2606.31029",
-      "summary": "Generative models have achieved remarkable progress, yet applying them to satellite imagery remains challenging. Unlike natural imagery, satellite scenes are structured by spatially complex and semant"
+      "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+      "url": "https://arxiv.org/abs/2607.01071",
+      "summary": "Memory has emerged as a cornerstone of modern LLM-based agents, supporting their evolution from single-turn assistants to long-term collaborators. However, memory is not always beneficial: retrieved m"
     },
     {
-      "title": "PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising",
-      "url": "https://arxiv.org/abs/2606.30968",
-      "summary": "Photomosaics are large images whose local regions are seen as independent tiles while their overall arrangement forms a coherent scene. Generating them at high resolution, with every tile convincing i"
+      "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
+      "url": "https://arxiv.org/abs/2606.32029",
+      "summary": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table struc"
     },
     {
-      "title": "BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language",
-      "url": "https://arxiv.org/abs/2606.30319",
-      "summary": "Modeling the bidirectional correspondence between external sensory stimuli and internal neural activity has emerged as a critical frontier in neuroscience. However, existing approaches predominantly t"
+      "title": "The State-Prediction Separation Hypothesis",
+      "url": "https://arxiv.org/abs/2607.01218",
+      "summary": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the state-prediction separation hypothesis: disent"
     },
     {
-      "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
-      "url": "https://arxiv.org/abs/2606.31315",
-      "summary": "Speculative decoding accelerates inference by using a lightweight draft model to generate candidate tokens in parallel, and are then verified by the target model, enabling lossless acceleration. Recen"
+      "title": "Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning",
+      "url": "https://arxiv.org/abs/2607.01191",
+      "summary": "Fine-grained visual reasoning remains challenging for vision-language models, especially when small but critical visual cues are buried in high-resolution images. Existing approaches rely on repeated "
     },
     {
-      "title": "Xiaomi-GUI-0 Technical Report",
-      "url": "https://arxiv.org/abs/2606.31410",
-      "summary": "Graphical user interface (GUI) agents build on vision-language models to complete user tasks end-to-end in real applications through interface actions such as tapping, swiping, text entry, and navigat"
+      "title": "TurboServe: Serving Streaming Video Generation Efficiently and Economically",
+      "url": "https://arxiv.org/abs/2606.19271",
+      "summary": "Streaming video generation is emerging as a new serving workload in which users interact with long-lived sessions that generate video progressively, chunk by chunk. Unlike offline video generation or "
     },
     {
-      "title": "PolyFlow: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation",
-      "url": "https://arxiv.org/abs/2606.30673",
-      "summary": "Autoregressive Transformers dominate high-quality mesh generation by producing artist-worthy topologies, yet their inherent sequential decoding induces substantial computational overhead, falling orde"
+      "title": "AutoTrainess: Teaching Language Models to Improve Language Models Autonomously",
+      "url": "https://arxiv.org/abs/2606.31551",
+      "summary": "Training language models (LMs) remains a highly human-intensive process, even as frontier language model agents become increasingly capable at software engineering and other long-horizon tasks. A cent"
     },
     {
-      "title": "MemLearner: Learning to Query Context memory for Video World Models",
-      "url": "https://arxiv.org/abs/2606.31734",
-      "summary": "Video World Models are interactive video generation models that predict future world states based on user actions and history video frames. A critical challenge in video world models is the lack of me"
+      "title": "CausalMix: Data Mixture as Causal Inference for Language Model Training",
+      "url": "https://arxiv.org/abs/2607.01104",
+      "summary": "In Large Language Model (LLM) training, data mixing plays a pivotal role in determining model performance. Recent methods optimize mixture weights via proxy models, but they rely on the assumption of "
     },
     {
-      "title": "Orca: The World is in Your Mind",
-      "url": "https://arxiv.org/abs/2606.30534",
-      "summary": "We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interf"
+      "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
+      "url": "https://arxiv.org/abs/2607.00666",
+      "summary": "Vision-Language-Action (VLA) models often fail to perform the same learned tasks under environmental shifts, such as changes in camera pose and shifts to a different but similar robot (e.g., from Pand"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "author": "thereallo.dev"
-    },
-    {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "author": "anthropic.com"
-    },
-    {
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "title": "Fable 5 is Back",
+      "url": "https://twitter.com/claudeai/status/2072402636813607381",
       "author": "twitter.com"
     },
     {
-      "title": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "author": "deepmind.google"
+      "title": "Meta caps internal AI token spending",
+      "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+      "author": "mlq.ai"
     },
     {
-      "title": "Leanstral 1.5",
-      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-      "author": "docs.mistral.ai"
+      "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
+      "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+      "author": "cerebrium.ai"
     },
     {
-      "title": "Someone Else Pays for Your AI Access",
-      "url": "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
-      "author": "Daniel Nwaneri"
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "author": "senior-swe-bench.snorkel.ai"
     },
     {
-      "title": "The Future Of AI Is Local And Open",
-      "url": "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
-      "author": "Paige Bailey"
+      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
+      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
+      "author": "Ben Halpern"
     },
     {
-      "title": "The Log Is the Agent",
-      "url": "https://dev.to/dailycontext/the-log-is-the-agent-5096",
-      "author": "Ishaan Sehgal"
+      "title": "Stratagems #4: P Walked Into an AI Monitoring POC. P Didn't Run a Single Test.",
+      "url": "https://dev.to/xulingfeng/stratagems-4-p-walked-into-an-ai-monitoring-poc-p-didnt-run-a-single-test-1ejk",
+      "author": "xulingfeng"
     }
   ],
   "repos": [
     {
-      "name": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": 49640,
-      "language": "Jupyter Notebook"
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 143751,
+      "language": "Python"
     },
     {
-      "name": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "stars": 9138,
-      "language": "Rust"
+      "name": "ultralytics/yolov5",
+      "url": "https://github.com/ultralytics/yolov5",
+      "description": "Ultralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite",
+      "stars": 57601,
+      "language": "Python"
     },
     {
-      "name": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15",
-      "stars": 8782,
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "stars": 22683,
       "language": "TypeScript"
     },
     {
-      "name": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "stars": 7241,
-      "language": "HTML"
-    },
-    {
-      "name": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
-      "stars": 5072,
-      "language": "Swift"
-    },
-    {
-      "name": "google/agents-cli",
-      "url": "https://github.com/google/agents-cli",
-      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
-      "stars": 4363,
+      "name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "stars": 18367,
       "language": "Python"
     }
   ],

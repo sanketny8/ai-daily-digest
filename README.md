@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-02</strong></summary>
+
+#### Papers
+1. **[Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://arxiv.org/abs/2607.00248)** — Introduces Seed2.0, a model series aimed at addressing complex real-world tasks by understanding user needs.
+2. **[ASPIRE: Agentic /Skills Discovery for Robotics](https://arxiv.org/abs/2607.00272)** — Proposes a method for discovering robotic skills through multimodal perception and dynamic management.
+3. **[MemSyco-Bench: Benchmarking Sycophancy in Agent Memory](https://arxiv.org/abs/2607.01071)** — Examines the role of memory in LLM agents and its impact on collaboration and performance.
+4. **[When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors](https://arxiv.org/abs/2606.32029)** — Investigates data referencing errors in LLMs when processing tabular data and suggests improvements.
+5. **[Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning](https://arxiv.org/abs/2607.01191)** — Addresses challenges in visual reasoning by separating perception from reasoning in models.
+6. **[TurboServe: Serving Streaming Video Generation Efficiently and Economically](https://arxiv.org/abs/2606.19271)** — Discusses efficient methods for streaming video generation, enhancing user interaction and experience.
+7. **[AutoTrainess: Teaching Language Models to Improve Language Models Autonomously](https://arxiv.org/abs/2606.31551)** — Proposes a framework for LMs to autonomously enhance their training processes, reducing human effort.
+8. **[CausalMix: Data Mixture as Causal Inference for Language Model Training](https://arxiv.org/abs/2607.01104)** — Explores the impact of data mixing on LLM training and model performance.
+9. **[Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts](https://arxiv.org/abs/2607.00666)** — Investigates adaptation strategies for Vision-Language-Action models under varying environmental conditions.
+10. **[Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation](http://arxiv.org/abs/2607.01208v1)** — Analyzes bias in LLMs and proposes methods to detect and mitigate these biases effectively.
+
+#### Blog Posts
+1. **[Fable 5 is Back](https://twitter.com/claudeai/status/2072402636813607381)** by twitter.com
+2. **[Meta caps internal AI token spending](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)** by mlq.ai
+3. **[Reduce GVisor Cold Starts with GPU Snapshotting](https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second)** by cerebrium.ai
+4. **[Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)** by senior-swe-bench.snorkel.ai
+5. **[From Harness Engineering to Evals: What’s Trending at AI Engineer](https://dev.to/dailycontext/from-harness-engineering-to-evals-4212)** by Ben Halpern
+6. **[Stratagems #4: P Walked Into an AI Monitoring POC. P Didn't Run a Single Test.](https://dev.to/xulingfeng/stratagems-4-p-walked-into-an-ai-monitoring-poc-p-didnt-run-a-single-test-1ejk)** by xulingfeng
+
+#### Trending Repos
+1. **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) ⭐143751
+2. **[ultralytics/yolov5](https://github.com/ultralytics/yolov5)** — Ultralytics YOLOv5 in PyTorch > ONNX > CoreML > TFLite ⭐57601
+3. **[yikart/AiToEarn](https://github.com/yikart/AiToEarn)** — Let's use AI to Earn! ⭐22683
+4. **[allenai/olmocr](https://github.com/allenai/olmocr)** — Toolkit for linearizing PDFs for LLM datasets/training ⭐18367
+
+</details>
+
+<details>
 <summary><strong>2026-07-01</strong></summary>
 
 #### Papers
