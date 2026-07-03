@@ -1,117 +1,136 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "papers": [
     {
-      "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
-      "url": "https://arxiv.org/abs/2607.00248",
-      "summary": "We present Seed2.0, a model series that takes a meaningful step toward solving complex, real-world tasks. Our approach begins with identifying users' genuine needs and constructing a reliable, forward"
+      "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2607.02255",
+      "summary": "Memory for a long-horizon LLM agent is a contract about what each future decision is allowed to see. The simplest contract appends past observations, tool calls, and reflections to every prompt, which"
     },
     {
-      "title": "ASPIRE: Agentic /Skills Discovery for Robotics",
-      "url": "https://arxiv.org/abs/2607.00272",
-      "summary": "Traditional robot programming is challenging: it requires orchestrating multimodal perception, managing physical contact dynamics, and handling diverse configurations and execution failures. We introd"
+      "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
+      "url": "https://arxiv.org/abs/2607.02508",
+      "summary": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remo"
     },
     {
-      "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
-      "url": "https://arxiv.org/abs/2607.01071",
-      "summary": "Memory has emerged as a cornerstone of modern LLM-based agents, supporting their evolution from single-turn assistants to long-term collaborators. However, memory is not always beneficial: retrieved m"
+      "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+      "url": "https://arxiv.org/abs/2607.01436",
+      "summary": "Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to right, have become competitive with autoregressive (AR) generation. Medica"
     },
     {
-      "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
-      "url": "https://arxiv.org/abs/2606.32029",
-      "summary": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table struc"
+      "title": "When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search",
+      "url": "https://arxiv.org/abs/2606.27669",
+      "summary": "Search agents powered by large language models (LLMs) are increasingly used to solve complex information-seeking tasks, requiring multi-step retrieval and reasoning to fulfill user goals. However, exi"
     },
     {
-      "title": "The State-Prediction Separation Hypothesis",
-      "url": "https://arxiv.org/abs/2607.01218",
-      "summary": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the state-prediction separation hypothesis: disent"
+      "title": "SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use",
+      "url": "https://arxiv.org/abs/2607.01874",
+      "summary": "Skills are becoming a reusable operational layer for LLM agents, encoding SOPs, domain rules, tool workflows, scripts, and validation routines. In realistic skill repositories, overlapping skills make"
     },
     {
-      "title": "Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning",
-      "url": "https://arxiv.org/abs/2607.01191",
-      "summary": "Fine-grained visual reasoning remains challenging for vision-language models, especially when small but critical visual cues are buried in high-resolution images. Existing approaches rely on repeated "
+      "title": "PACE: A Proxy for Agentic Capability Evaluation",
+      "url": "https://arxiv.org/abs/2607.02032",
+      "summary": "Evaluating LLM agents on benchmarks like SWE-Bench and GAIA can be expensive, time-consuming, and requires complex infrastructure. A single evaluation can cost thousands of dollars and take days to co"
     },
     {
-      "title": "TurboServe: Serving Streaming Video Generation Efficiently and Economically",
-      "url": "https://arxiv.org/abs/2606.19271",
-      "summary": "Streaming video generation is emerging as a new serving workload in which users interact with long-lived sessions that generate video progressively, chunk by chunk. Unlike offline video generation or "
+      "title": "Representation Distribution Matching for One-Step Visual Generation",
+      "url": "https://arxiv.org/abs/2607.02375",
+      "summary": "We elucidate the design space of Representation Distribution Matching (RDM), our name for the paradigm that trains a one-step image generator by matching generated and reference feature distributions "
     },
     {
-      "title": "AutoTrainess: Teaching Language Models to Improve Language Models Autonomously",
-      "url": "https://arxiv.org/abs/2606.31551",
-      "summary": "Training language models (LMs) remains a highly human-intensive process, even as frontier language model agents become increasingly capable at software engineering and other long-horizon tasks. A cent"
+      "title": "Morphing into Hybrid Attention Models",
+      "url": "https://arxiv.org/abs/2606.30562",
+      "summary": "Hybrid attention models improve long-context efficiency by retaining only a subset of full-attention layers and replacing the remaining layers with linear attention. However, the effectiveness of Tran"
     },
     {
-      "title": "CausalMix: Data Mixture as Causal Inference for Language Model Training",
-      "url": "https://arxiv.org/abs/2607.01104",
-      "summary": "In Large Language Model (LLM) training, data mixing plays a pivotal role in determining model performance. Recent methods optimize mixture weights via proxy models, but they rely on the assumption of "
+      "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs",
+      "url": "https://arxiv.org/abs/2607.02466",
+      "summary": "Vision-Language-Action (VLA) models are fundamentally bottlenecked by the scarcity of expert demonstrations -- triplets of observations, instructions, and actions that are costly to collect at scale. "
     },
     {
-      "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
-      "url": "https://arxiv.org/abs/2607.00666",
-      "summary": "Vision-Language-Action (VLA) models often fail to perform the same learned tasks under environmental shifts, such as changes in camera pose and shifts to a different but similar robot (e.g., from Pand"
+      "title": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling",
+      "url": "https://arxiv.org/abs/2607.01642",
+      "summary": "Hardware-agnostic strategies for accelerating text-to-image diffusion, such as timestep distillation and feature caching, can reduce inference time without custom kernels or system-level optimization."
     }
   ],
   "blog_posts": [
     {
-      "title": "Fable 5 is Back",
-      "url": "https://twitter.com/claudeai/status/2072402636813607381",
-      "author": "twitter.com"
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "author": "arxiv.org"
     },
     {
-      "title": "Meta caps internal AI token spending",
-      "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
-      "author": "mlq.ai"
+      "title": "Claude-real-video － any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "author": "github.com"
     },
     {
-      "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
-      "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
-      "author": "cerebrium.ai"
+      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+      "url": "https://github.com/rafal-qa/slopo",
+      "author": "github.com"
     },
     {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "author": "senior-swe-bench.snorkel.ai"
-    },
-    {
-      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
-      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
+      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
+      "url": "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
       "author": "Ben Halpern"
     },
     {
-      "title": "Stratagems #4: P Walked Into an AI Monitoring POC. P Didn't Run a Single Test.",
-      "url": "https://dev.to/xulingfeng/stratagems-4-p-walked-into-an-ai-monitoring-poc-p-didnt-run-a-single-test-1ejk",
-      "author": "xulingfeng"
+      "title": "Let Us Be Free",
+      "url": "https://dev.to/dailycontext/let-us-be-free-2ico",
+      "author": "John McBride"
+    },
+    {
+      "title": "18 Hot Takes On Where AI is Headed Next",
+      "url": "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
+      "author": "dev.to staff"
+    },
+    {
+      "title": "These Founders Skipped Graduation To Be Here",
+      "url": "https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d",
+      "author": "Rachael Berkey"
     }
   ],
   "repos": [
     {
-      "name": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 143751,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 225308,
+      "language": "JavaScript"
+    },
+    {
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": 162179,
       "language": "Python"
     },
     {
-      "name": "ultralytics/yolov5",
-      "url": "https://github.com/ultralytics/yolov5",
-      "description": "Ultralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite",
-      "stars": 57601,
+      "name": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 150876,
       "language": "Python"
     },
     {
-      "name": "yikart/AiToEarn",
-      "url": "https://github.com/yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "stars": 22683,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "stars": 135555,
+      "language": "Python"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 81473,
+      "language": "JavaScript"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 45165,
       "language": "TypeScript"
-    },
-    {
-      "name": "allenai/olmocr",
-      "url": "https://github.com/allenai/olmocr",
-      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "stars": 18367,
-      "language": "Python"
     }
   ],
   "tweets": []

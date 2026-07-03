@@ -1,35 +1,4 @@
 {
-  "2026-06-02": {
-    "papers": [
-      "https://arxiv.org/abs/2606.02470",
-      "https://arxiv.org/abs/2606.02031",
-      "https://arxiv.org/abs/2606.01682",
-      "https://arxiv.org/abs/2606.01528",
-      "https://arxiv.org/abs/2606.01533",
-      "https://arxiv.org/abs/2606.01057",
-      "https://arxiv.org/abs/2605.25381",
-      "https://arxiv.org/abs/2606.02580",
-      "https://arxiv.org/abs/2606.00267",
-      "https://arxiv.org/abs/2605.24202"
-    ],
-    "blogs": [
-      "https://cs336.stanford.edu/",
-      "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd",
-      "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
-      "https://nabalkishorepande.medium.com/ai-as-infrastructure-architecting-human-leverage-for-the-sovereign-enterprise-5e69bf78fcb5"
-    ],
-    "repos": [
-      "https://github.com/TauricResearch/TradingAgents",
-      "https://github.com/pbakaus/impeccable",
-      "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "https://github.com/dmtrKovalenko/fff",
-      "https://github.com/elder-plinius/OBLITERATUS"
-    ]
-  },
   "2026-06-03": {
     "papers": [
       "https://arxiv.org/abs/2606.03264",
@@ -914,6 +883,37 @@
       "https://github.com/ultralytics/yolov5",
       "https://github.com/yikart/AiToEarn",
       "https://github.com/allenai/olmocr"
+    ]
+  },
+  "2026-07-03": {
+    "papers": [
+      "https://arxiv.org/abs/2607.02255",
+      "https://arxiv.org/abs/2607.02508",
+      "https://arxiv.org/abs/2607.01436",
+      "https://arxiv.org/abs/2606.27669",
+      "https://arxiv.org/abs/2607.01874",
+      "https://arxiv.org/abs/2607.02032",
+      "https://arxiv.org/abs/2607.02375",
+      "https://arxiv.org/abs/2606.30562",
+      "https://arxiv.org/abs/2607.02466",
+      "https://arxiv.org/abs/2607.01642"
+    ],
+    "blogs": [
+      "https://arxiv.org/abs/2607.01232",
+      "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "https://github.com/rafal-qa/slopo",
+      "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
+      "https://dev.to/dailycontext/let-us-be-free-2ico",
+      "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
+      "https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d"
+    ],
+    "repos": [
+      "https://github.com/affaan-m/ECC",
+      "https://github.com/huggingface/transformers",
+      "https://github.com/langflow-ai/langflow",
+      "https://github.com/anthropics/claude-code",
+      "https://github.com/JuliusBrussee/caveman",
+      "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     ]
   }
 }

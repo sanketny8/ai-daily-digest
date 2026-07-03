@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-03</strong></summary>
+
+#### Papers
+1. **[AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents](https://arxiv.org/abs/2607.02255)** — This paper introduces a memory framework for long-horizon LLM agents to optimize decision-making.
+2. **[Discrete Diffusion Language Models for Interactive Radiology Report Drafting](https://arxiv.org/abs/2607.01436)** — Explores the use of diffusion language models for generating radiology reports, enhancing medical documentation processes.
+3. **[SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use](https://arxiv.org/abs/2607.01874)** — Proposes a system for evaluating and improving skills in LLM agents, enhancing their operational efficiency.
+4. **[PACE: A Proxy for Agentic Capability Evaluation](https://arxiv.org/abs/2607.02032)** — Introduces a cost-effective method for evaluating LLM agents, reducing time and resource requirements.
+5. **[LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](http://arxiv.org/abs/2607.02513v1)** — Addresses the challenge of removing sensitive data from LLMs, providing a framework for effective unlearning.
+6. **[Online Safety Monitoring for LLMs](http://arxiv.org/abs/2607.02510v1)** — Discusses the importance of real-time monitoring of LLM outputs to ensure safety and alignment during deployment.
+7. **[ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning](http://arxiv.org/abs/2607.02509v1)** — Presents a method for improving long-context reasoning in LLMs, crucial for complex applications.
+8. **[When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search](https://arxiv.org/abs/2606.27669)** — Investigates the role of clarification in enhancing the performance of search agents powered by LLMs.
+9. **[Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling](https://arxiv.org/abs/2607.01642)** — Introduces strategies for accelerating text-to-image diffusion without requiring specialized hardware.
+10. **[Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials](http://arxiv.org/abs/2607.02499v1)** — Proposes new training methods for machine learning interatomic potentials, enhancing efficiency and accuracy.
+
+#### Blog Posts
+1. **[Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)** by arxiv.org
+2. **[Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** by github.com
+3. **[Letting the DEV Community Weigh in on the Topics of AIE](https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l)** by Ben Halpern
+4. **[Let Us Be Free](https://dev.to/dailycontext/let-us-be-free-2ico)** by John McBride
+5. **[18 Hot Takes On Where AI is Headed Next](https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9)** by dev.to staff
+6. **[These Founders Skipped Graduation To Be Here](https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d)** by Rachael Berkey
+
+#### Trending Repos
+1. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. ⭐ 225308
+2. **[huggingface/transformers](https://github.com/huggingface/transformers)** — Model-definition framework for state-of-the-art machine learning models. ⭐ 162179
+3. **[langflow-ai/langflow](https://github.com/langflow-ai/langflow)** — Tool for building and deploying AI-powered agents and workflows. ⭐ 150876
+4. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** — Agentic coding tool that enhances coding efficiency in terminal. ⭐ 135555
+5. **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** — Claude Code skill that reduces token usage significantly. ⭐ 81473
+6. **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — Chrome DevTools for coding agents. ⭐ 45165
+
+</details>
+
+<details>
 <summary><strong>2026-07-02</strong></summary>
 
 #### Papers
