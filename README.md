@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-04</strong></summary>
+
+#### Papers
+1. **[Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions](https://arxiv.org/abs/2607.01283)** — This paper analyzes a multiprobe grid algorithm for efficient nearest neighbor search in high-dimensional spaces.
+2. **[Parameter-Efficient Quantum-Inspired Fast Weight Programmers for Traffic-Matrix Forecasting](https://arxiv.org/abs/2606.27821)** — Introduces a method for accurately forecasting network-wide traffic matrices, crucial for traffic engineering.
+3. **[WARP: Weight-Space Analysis for Recovering Training Data Portfolios](https://arxiv.org/abs/2607.01686)** — Proposes a framework to analyze training data portfolios for foundation models, enhancing transparency in AI training.
+4. **[AutoMem: Automated Learning of Memory as a Cognitive Skill](https://arxiv.org/abs/2607.01224)** — Explores how memory skills can be automated in large language models, improving their cognitive capabilities.
+5. **[DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation](https://arxiv.org/abs/2606.29961)** — Discusses a method for creating memory-efficient agents that can perform complex tasks on devices.
+6. **[Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](https://arxiv.org/abs/2606.31825)** — Focuses on improving clinical image reasoning through a step-aware reinforcement learning approach.
+7. **[LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](http://arxiv.org/abs/2607.02513v1)** — Introduces a testbed for assessing the effectiveness of unlearning methods in large language models.
+8. **[Online Safety Monitoring for LLMs](http://arxiv.org/abs/2607.02510v1)** — Highlights the need for real-time monitoring of large language models to prevent unsafe outputs during deployment.
+9. **[What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates](http://arxiv.org/abs/2607.02507v1)** — Investigates how social structures influence the behavior of LLM agents in debates.
+10. **[DemoPSD: Disagreement-Modulated Policy Self-Distillation](http://arxiv.org/abs/2607.02502v1)** — Proposes a self-distillation method for training LLMs to enhance reasoning capabilities through disagreement.
+
+#### Blog Posts
+1. **[I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)](https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type)** by inpreparation.substack.com
+2. **[Memorizing session transcripts isn't useful](https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts)** by 12gramsofcarbon.com
+3. **[Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/)** by mistral.ai
+4. **[New serious vulnerabilities spiked around release of Claude Mythos Preview](https://epoch.ai/data-insights/cve-severity-spike)** by epoch.ai
+5. **[Dispersion loss counteracts embedding condensation in small language models](https://chenliu-1996.github.io/projects/LM-Dispersion/)** by chenliu-1996.github.io
+6. **[Show HN: CLI that helps AI agents avoid vulnerable dependencies](https://github.com/clidey/deptrust)** by github.com
+7. **[Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep](https://promptowl.ai/resources/persistent-memory-ai-agents/)** by promptowl.ai
+8. **[Agentic coding notes from Galapogos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)** by danluu.com
+
+#### Trending Repos
+1. **[supabase/supabase](https://github.com/supabase/supabase)** — The Postgres development platform. ⭐ 105551
+2. **[ansible/ansible](https://github.com/ansible/ansible)** — A radically simple IT automation platform. ⭐ 69238
+3. **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** — Use Codex from Claude Code to review code or delegate tasks. ⭐ 23356
+4. **[agentskills/agentskills](https://github.com/agentskills/agentskills)** — Specification and documentation for Agent Skills. ⭐ 22054
+5. **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** — 337 Claude Code skills & agent skills for various coding agents. ⭐ 19865
+
+</details>
+
+<details>
 <summary><strong>2026-07-03</strong></summary>
 
 #### Papers

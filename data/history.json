@@ -1,33 +1,4 @@
 {
-  "2026-06-03": {
-    "papers": [
-      "https://arxiv.org/abs/2606.03264",
-      "https://arxiv.org/abs/2606.01048",
-      "https://arxiv.org/abs/2606.03102",
-      "https://arxiv.org/abs/2606.01599",
-      "https://arxiv.org/abs/2606.01961",
-      "https://arxiv.org/abs/2606.01494",
-      "https://arxiv.org/abs/2605.29288",
-      "https://arxiv.org/abs/2606.02398",
-      "https://arxiv.org/abs/2606.03603",
-      "https://arxiv.org/abs/2605.27958"
-    ],
-    "blogs": [
-      "https://agenticmotherfucking.website",
-      "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-      "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
-      "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
-      "https://dev.to/tessl/ai-native-devcon-day-1-making-ai-agents-ready-for-enterprise-1e50",
-      "https://dev.to/p0rt/your-ai-agent-isnt-failing-because-it-hallucinates-its-failing-because-of-rate-limits-2d60",
-      "https://medium.com/@dushyant.singh_48270/the-missing-data-layer-for-physical-ai-3257f8815357"
-    ],
-    "repos": [
-      "https://github.com/HKUDS/Vibe-Trading",
-      "https://github.com/chopratejas/headroom",
-      "https://github.com/zakirkun/deep-eye",
-      "https://github.com/ClaudioDrews/memory-os"
-    ]
-  },
   "2026-06-04": {
     "papers": [
       "https://arxiv.org/abs/2606.03890",
@@ -914,6 +885,37 @@
       "https://github.com/anthropics/claude-code",
       "https://github.com/JuliusBrussee/caveman",
       "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    ]
+  },
+  "2026-07-04": {
+    "papers": [
+      "https://arxiv.org/abs/2607.01283",
+      "https://arxiv.org/abs/2606.27821",
+      "https://arxiv.org/abs/2607.01686",
+      "https://arxiv.org/abs/2607.01224",
+      "https://arxiv.org/abs/2606.29961",
+      "https://arxiv.org/abs/2607.01002",
+      "https://arxiv.org/abs/2607.02271",
+      "https://arxiv.org/abs/2606.25178",
+      "https://arxiv.org/abs/2606.31924",
+      "https://arxiv.org/abs/2606.31825"
+    ],
+    "blogs": [
+      "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+      "https://mistral.ai/news/leanstral-1-5/",
+      "https://epoch.ai/data-insights/cve-severity-spike",
+      "https://chenliu-1996.github.io/projects/LM-Dispersion/",
+      "https://github.com/clidey/deptrust",
+      "https://promptowl.ai/resources/persistent-memory-ai-agents/",
+      "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post"
+    ],
+    "repos": [
+      "https://github.com/supabase/supabase",
+      "https://github.com/ansible/ansible",
+      "https://github.com/openai/codex-plugin-cc",
+      "https://github.com/agentskills/agentskills",
+      "https://github.com/alirezarezvani/claude-skills"
     ]
   }
 }
