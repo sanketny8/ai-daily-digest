@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-05</strong></summary>
+
+#### Papers
+1. **[Distributed Attacks in Persistent-State AI Control](http://arxiv.org/abs/2607.02514v1)** — Explores new attack surfaces created by autonomous AI coding agents with persistent codebases.
+2. **[LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](http://arxiv.org/abs/2607.02513v1)** — Discusses the need for effective unlearning methods to remove sensitive data from LLMs.
+3. **[Program-as-Weights: A Programming Paradigm for Fuzzy Functions](http://arxiv.org/abs/2607.02512v1)** — Introduces a programming approach to handle complex tasks that resist traditional rule-based methods.
+4. **[Online Safety Monitoring for LLMs](http://arxiv.org/abs/2607.02510v1)** — Highlights the importance of real-time monitoring to prevent unsafe outputs from LLMs during deployment.
+5. **[ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning](http://arxiv.org/abs/2607.02509v1)** — Proposes a method to enhance LLMs' ability to reason over long contexts in practical applications.
+6. **[What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates](http://arxiv.org/abs/2607.02507v1)** — Investigates how social contexts influence the behavior of LLM agents in debates.
+7. **[Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](http://arxiv.org/abs/2607.02504v1)** — Examines how reasoning capabilities in LLMs enhance speaker recognition in complex video narratives.
+8. **[DemoPSD: Disagreement-Modulated Policy Self-Distillation](http://arxiv.org/abs/2607.02502v1)** — Discusses a novel self-distillation method for training LLMs to improve reasoning skills.
+9. **[Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials](http://arxiv.org/abs/2607.02499v1)** — Introduces new techniques for efficient training of machine learning models in scientific simulations.
+10. **[Controllable Sim Agents with Behavior Latents](http://arxiv.org/abs/2607.02496v1)** — Focuses on creating traffic simulation agents that can be controlled for specific behaviors and scenarios.
+
+#### Blog Posts
+1. **[Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)** by github.com
+2. **[GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)** by github.com
+3. **[Data structures your CS degree kind of glossed over](https://dev.to/lovestaco/data-structures-your-cs-degree-kind-of-glossed-over-29dh)** by Athreya aka Maneshwar
+4. **[jj_tui: terminal user interface to jujutsu focused on speed and clarity](https://tangled.org/elidowling.com/jj_tui)** by op
+5. **[What does it mean to be a mathematician when AI does the math?](https://spectrum.ieee.org/ai-in-mathematics)** by veqq
+6. **[Menulis di Medium, Berpikir dengan AI](https://medium.com/@xingrahmat/menulis-di-medium-berpikir-dengan-ai-52d21176e52b)** by Xingrahmat
+7. **[I Used AI for 90 Days to Work Smarter. Here’s What Actually Changed.](https://medium.com/@riffatmehmood1983/i-used-ai-for-90-days-to-work-smarter-heres-what-actually-changed-726a10d64bf0)** by R. Y. Writes
+
+#### Trending Repos
+1. **[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** — A curated collection of resources for Claude Code, a leading coding companion. ⭐ 48068
+2. **[google/adk-python](https://github.com/google/adk-python)** — An open-source Python toolkit for building and deploying sophisticated AI agents. ⭐ 20459
+3. **[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)** — Privacy-first AI meeting assistant with local processing for transcription and summarization. ⭐ 15479
+
+</details>
+
+<details>
 <summary><strong>2026-07-04</strong></summary>
 
 #### Papers

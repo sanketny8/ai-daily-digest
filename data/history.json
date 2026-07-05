@@ -1,35 +1,4 @@
 {
-  "2026-06-04": {
-    "papers": [
-      "https://arxiv.org/abs/2606.03890",
-      "https://arxiv.org/abs/2606.02684",
-      "https://arxiv.org/abs/2606.04048",
-      "https://arxiv.org/abs/2605.30792",
-      "https://arxiv.org/abs/2606.03220",
-      "https://arxiv.org/abs/2606.05165",
-      "https://arxiv.org/abs/2605.29489",
-      "https://arxiv.org/abs/2606.03503",
-      "https://arxiv.org/abs/2606.05080",
-      "https://arxiv.org/abs/2606.03972"
-    ],
-    "blogs": [
-      "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "https://leidendeclaration.ai/",
-      "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
-      "https://github.com/zaydmulani09/mnemo",
-      "https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db"
-    ],
-    "repos": [
-      "https://github.com/EbookFoundation/free-programming-books",
-      "https://github.com/datawhalechina/hello-agents",
-      "https://github.com/aquasecurity/trivy",
-      "https://github.com/opendataloader-project/opendataloader-pdf",
-      "https://github.com/lyogavin/airllm",
-      "https://github.com/0x4m4/hexstrike-ai",
-      "https://github.com/NVIDIA-NeMo/Gym"
-    ]
-  },
   "2026-06-05": {
     "papers": [
       "https://arxiv.org/abs/2606.04743",
@@ -916,6 +885,34 @@
       "https://github.com/openai/codex-plugin-cc",
       "https://github.com/agentskills/agentskills",
       "https://github.com/alirezarezvani/claude-skills"
+    ]
+  },
+  "2026-07-05": {
+    "papers": [
+      "http://arxiv.org/abs/2607.02514v1",
+      "http://arxiv.org/abs/2607.02513v1",
+      "http://arxiv.org/abs/2607.02512v1",
+      "http://arxiv.org/abs/2607.02510v1",
+      "http://arxiv.org/abs/2607.02509v1",
+      "http://arxiv.org/abs/2607.02507v1",
+      "http://arxiv.org/abs/2607.02504v1",
+      "http://arxiv.org/abs/2607.02502v1",
+      "http://arxiv.org/abs/2607.02499v1",
+      "http://arxiv.org/abs/2607.02496v1"
+    ],
+    "blogs": [
+      "https://github.com/anthropics/claude-code/issues/74066",
+      "https://github.com/openai/codex/issues/30364",
+      "https://dev.to/lovestaco/data-structures-your-cs-degree-kind-of-glossed-over-29dh",
+      "https://tangled.org/elidowling.com/jj_tui",
+      "https://spectrum.ieee.org/ai-in-mathematics",
+      "https://medium.com/@xingrahmat/menulis-di-medium-berpikir-dengan-ai-52d21176e52b",
+      "https://medium.com/@riffatmehmood1983/i-used-ai-for-90-days-to-work-smarter-heres-what-actually-changed-726a10d64bf0"
+    ],
+    "repos": [
+      "https://github.com/hesreallyhim/awesome-claude-code",
+      "https://github.com/google/adk-python",
+      "https://github.com/Zackriya-Solutions/meetily"
     ]
   }
 }
