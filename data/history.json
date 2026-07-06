@@ -1,33 +1,4 @@
 {
-  "2026-06-05": {
-    "papers": [
-      "https://arxiv.org/abs/2606.04743",
-      "https://arxiv.org/abs/2606.05622",
-      "https://arxiv.org/abs/2606.05846",
-      "https://arxiv.org/abs/2606.06477",
-      "https://arxiv.org/abs/2606.03312",
-      "https://arxiv.org/abs/2606.01753",
-      "https://arxiv.org/abs/2606.05553",
-      "https://arxiv.org/abs/2606.06428",
-      "https://arxiv.org/abs/2606.03841",
-      "https://arxiv.org/abs/2606.05172"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/institute/recursive-self-improvement",
-      "https://github.com/anthropics/defending-code-reference-harness",
-      "https://arxiv.org/abs/2604.24881",
-      "https://kyrieblunders.bearblog.dev/making-dr-grpo-go-brrr/",
-      "https://dev.to/nfrankel/ai-gateways-why-and-how-b5o",
-      "https://vpnreviewswithethan.medium.com/what-is-a-good-and-cheap-vpn-service-ea8e4342aa75"
-    ],
-    "repos": [
-      "https://github.com/mvanhorn/last30days-skill",
-      "https://github.com/AIDC-AI/Pixelle-Video",
-      "https://github.com/jundot/omlx",
-      "https://github.com/NVIDIA/cosmos",
-      "https://github.com/github/copilot-sdk"
-    ]
-  },
   "2026-06-06": {
     "papers": [
       "https://arxiv.org/abs/2606.05515",
@@ -913,6 +884,30 @@
       "https://github.com/hesreallyhim/awesome-claude-code",
       "https://github.com/google/adk-python",
       "https://github.com/Zackriya-Solutions/meetily"
+    ]
+  },
+  "2026-07-06": {
+    "papers": [
+      "https://arxiv.org/abs/2607.01804",
+      "https://arxiv.org/abs/2606.31227",
+      "https://arxiv.org/abs/2607.00052",
+      "https://arxiv.org/abs/2606.29526",
+      "https://arxiv.org/abs/2607.02501"
+    ],
+    "blogs": [
+      "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "https://github.com/langchain-ai/openwiki",
+      "https://arxiv.org/abs/2605.20049",
+      "https://dev.to/nandan_das_369/orinide-v109-local-ai-an-agentic-dev-squad-and-a-bug-fix-i-owe-you-an-explanation-for-4e3a",
+      "https://medium.com/adi-insights-innovations-collective/the-marketing-trick-that-works-better-than-marketing-e67d3329a337"
+    ],
+    "repos": [
+      "https://github.com/Comfy-Org/ComfyUI",
+      "https://github.com/openai/whisper",
+      "https://github.com/TauricResearch/TradingAgents",
+      "https://github.com/karpathy/nanoGPT",
+      "https://github.com/Leonxlnx/taste-skill",
+      "https://github.com/coreyhaines31/marketingskills"
     ]
   }
 }

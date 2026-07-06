@@ -1,115 +1,101 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "papers": [
     {
-      "title": "Distributed Attacks in Persistent-State AI Control",
-      "url": "http://arxiv.org/abs/2607.02514v1",
-      "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt"
+      "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
+      "url": "https://arxiv.org/abs/2607.01804",
+      "summary": "Vision-Language-Action (VLA) foundation models have recently achieved strong progress in embodied intelligence. To reduce policy-call frequency while preserving temporal coherence, most generative pol"
     },
     {
-      "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
-      "url": "http://arxiv.org/abs/2607.02513v1",
-      "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti"
+      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
+      "url": "https://arxiv.org/abs/2606.31227",
+      "summary": "The fast growth of open-source AI infrastructure, from model serving engines and agent platforms to the Model Context Protocol (MCP) ecosystem and the language models themselves, has outpaced the secu"
     },
     {
-      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
-      "url": "http://arxiv.org/abs/2607.02512v1",
-      "summary": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out"
+      "title": "AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2607.00052",
+      "summary": "GraphRAG is an extension of retrieval-augmented generation (RAG) that supports large language models (LLMs) by referring to graph-structured data as external knowledge. While this technique ideally ca"
     },
     {
-      "title": "Online Safety Monitoring for LLMs",
-      "url": "http://arxiv.org/abs/2607.02510v1",
-      "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical"
+      "title": "The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.29526",
+      "summary": "Reinforcement learning (RL) has gained growing attention in large language model (LLM) post-training, yet RL training remains fragile and can suffer from instability or collapse. One vital cause is tr"
     },
     {
-      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
-      "url": "http://arxiv.org/abs/2607.02509v1",
-      "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context"
-    },
-    {
-      "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
-      "url": "http://arxiv.org/abs/2607.02507v1",
-      "summary": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, w"
-    },
-    {
-      "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
-      "url": "http://arxiv.org/abs/2607.02504v1",
-      "summary": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attri"
-    },
-    {
-      "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
-      "url": "http://arxiv.org/abs/2607.02502v1",
-      "summary": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different l"
-    },
-    {
-      "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
-      "url": "http://arxiv.org/abs/2607.02499v1",
-      "summary": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general mo"
-    },
-    {
-      "title": "Controllable Sim Agents with Behavior Latents",
-      "url": "http://arxiv.org/abs/2607.02496v1",
-      "summary": "Realistic traffic simulation requires agents that imitate logged behavior and can also be steered along interpretable axes. Such controllability enables engineers to isolate variables, reproduce speci"
+      "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
+      "url": "https://arxiv.org/abs/2607.02501",
+      "summary": "Embodied AI models now span vision-language-action (VLA) models and world-action models (WAMs), but practical deployment remains fragmented across model-specific Python stacks, backend assumptions, an"
     }
   ],
   "blog_posts": [
     {
-      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "title": "Zuckerberg says AI agent development going slower than expected",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "author": "reuters.com"
+    },
+    {
+      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+      "url": "https://github.com/langchain-ai/openwiki",
       "author": "github.com"
     },
     {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "author": "github.com"
+      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+      "url": "https://arxiv.org/abs/2605.20049",
+      "author": "arxiv.org"
     },
     {
-      "title": "Data structures your CS degree kind of glossed over",
-      "url": "https://dev.to/lovestaco/data-structures-your-cs-degree-kind-of-glossed-over-29dh",
-      "author": "Athreya aka Maneshwar"
+      "title": "OrinIDE v1.0.9 — local AI, an Agentic dev squad, and a bug fix I owe you an explanation for",
+      "url": "https://dev.to/nandan_das_369/orinide-v109-local-ai-an-agentic-dev-squad-and-a-bug-fix-i-owe-you-an-explanation-for-4e3a",
+      "author": "Nandan Das"
     },
     {
-      "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity",
-      "url": "https://tangled.org/elidowling.com/jj_tui",
-      "author": "op"
-    },
-    {
-      "title": "What does it mean to be a mathematician when AI does the math?",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "author": "veqq"
-    },
-    {
-      "title": "Menulis di Medium, Berpikir dengan AI",
-      "url": "https://medium.com/@xingrahmat/menulis-di-medium-berpikir-dengan-ai-52d21176e52b",
-      "author": "Xingrahmat"
-    },
-    {
-      "title": "I Used AI for 90 Days to Work Smarter. Here’s What Actually Changed.",
-      "url": "https://medium.com/@riffatmehmood1983/i-used-ai-for-90-days-to-work-smarter-heres-what-actually-changed-726a10d64bf0",
-      "author": "R. Y .Writes"
+      "title": "The Marketing Trick That Works Better Than Marketing",
+      "url": "https://medium.com/adi-insights-innovations-collective/the-marketing-trick-that-works-better-than-marketing-e67d3329a337",
+      "author": "Diane Foster"
     }
   ],
   "repos": [
     {
-      "name": "hesreallyhim/awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable ",
-      "stars": 48068,
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars": 119568,
       "language": "Python"
     },
     {
-      "name": "google/adk-python",
-      "url": "https://github.com/google/adk-python",
-      "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-      "stars": 20459,
+      "name": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "stars": 104287,
       "language": "Python"
     },
     {
-      "name": "Zackriya-Solutions/meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
-      "stars": 15479,
-      "language": "Rust"
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 91146,
+      "language": "Python"
+    },
+    {
+      "name": "karpathy/nanoGPT",
+      "url": "https://github.com/karpathy/nanoGPT",
+      "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+      "stars": 60806,
+      "language": "Python"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "stars": 57870,
+      "language": "JavaScript"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": 36592,
+      "language": "JavaScript"
     }
   ],
   "tweets": []

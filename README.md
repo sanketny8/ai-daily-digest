@@ -10,6 +10,33 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-06</strong></summary>
+
+#### Papers
+1. **[VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon](https://arxiv.org/abs/2607.01804)** — This paper introduces a method to enhance the efficiency of Vision-Language-Action models in embodied intelligence.
+2. **[Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming](https://arxiv.org/abs/2606.31227)** — Proposes a comprehensive security framework to address vulnerabilities in rapidly evolving AI agent infrastructures.
+3. **[AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2607.00052)** — Discusses a technique to improve retrieval-augmented generation using graph-structured data for large language models.
+4. **[The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning](https://arxiv.org/abs/2606.29526)** — Explores the challenges of reinforcement learning in language models, emphasizing the importance of stable inference policies.
+5. **[Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots](https://arxiv.org/abs/2607.02501)** — Introduces a versatile runtime for deploying embodied AI models across various robotic platforms.
+
+#### Blog Posts
+1. **[Zuckerberg says AI agent development going slower than expected](https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/)** by reuters.com
+2. **[OpenWiki: CLI that writes and maintains agent documentation for your codebase](https://github.com/langchain-ai/openwiki)** by github.com
+3. **[Does code cleanliness affect coding agents? A controlled minimal-pair study](https://arxiv.org/abs/2605.20049)** by arxiv.org
+4. **[OrinIDE v1.0.9 — local AI, an Agentic dev squad, and a bug fix I owe you an explanation for](https://dev.to/nandan_das_369/orinide-v109-local-ai-an-agentic-dev-squad-and-a-bug-fix-i-owe-you-an-explanation-for-4e3a)** by Nandan Das
+5. **[The Marketing Trick That Works Better Than Marketing](https://medium.com/adi-insights-innovations-collective/the-marketing-trick-that-works-better-than-marketing-e67d3329a337)** by Diane Foster
+
+#### Trending Repos
+1. **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. ⭐ 119568
+2. **[openai/whisper](https://github.com/openai/whisper)** — Robust Speech Recognition via Large-Scale Weak Supervision. ⭐ 104287
+3. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — Multi-Agents LLM Financial Trading Framework. ⭐ 91146
+4. **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)** — The simplest, fastest repository for training/finetuning medium-sized GPTs. ⭐ 60806
+5. **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** — Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop. ⭐ 57870
+6. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. ⭐ 36592
+
+</details>
+
+<details>
 <summary><strong>2026-07-05</strong></summary>
 
 #### Papers
