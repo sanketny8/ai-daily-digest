@@ -1,32 +1,4 @@
 {
-  "2026-06-06": {
-    "papers": [
-      "https://arxiv.org/abs/2606.05515",
-      "https://arxiv.org/abs/2606.06486",
-      "https://arxiv.org/abs/2606.02956",
-      "https://arxiv.org/abs/2606.04880",
-      "https://arxiv.org/abs/2605.27079",
-      "https://arxiv.org/abs/2605.30848",
-      "https://arxiv.org/abs/2606.01317",
-      "https://arxiv.org/abs/2606.05833",
-      "https://arxiv.org/abs/2606.06155",
-      "https://arxiv.org/abs/2606.06492"
-    ],
-    "blogs": [
-      "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "https://passo.uno/fine-tuning-docs-llm/",
-      "https://github.com/zdk/lowfat",
-      "https://help.openai.com/en/articles/20001061-lockdown-mode",
-      "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
-    ],
-    "repos": [
-      "https://github.com/MemPalace/mempalace",
-      "https://github.com/microsoft/BitNet",
-      "https://github.com/CopilotKit/CopilotKit",
-      "https://github.com/Panniantong/Agent-Reach",
-      "https://github.com/microsoft/agent-framework"
-    ]
-  },
   "2026-06-07": {
     "papers": [
       "http://arxiv.org/abs/2606.06494v1",
@@ -908,6 +880,36 @@
       "https://github.com/karpathy/nanoGPT",
       "https://github.com/Leonxlnx/taste-skill",
       "https://github.com/coreyhaines31/marketingskills"
+    ]
+  },
+  "2026-07-07": {
+    "papers": [
+      "https://arxiv.org/abs/2607.04428",
+      "https://arxiv.org/abs/2602.11688",
+      "https://arxiv.org/abs/2607.04988",
+      "https://arxiv.org/abs/2607.05155",
+      "https://arxiv.org/abs/2607.02646",
+      "https://arxiv.org/abs/2607.05391",
+      "https://arxiv.org/abs/2607.05352",
+      "https://arxiv.org/abs/2607.03068",
+      "https://arxiv.org/abs/2607.05390",
+      "https://arxiv.org/abs/2607.05373"
+    ],
+    "blogs": [
+      "https://www.anthropic.com/research/global-workspace",
+      "https://ternlight-demo.vercel.app/",
+      "https://github.com/iOfficeAI/OfficeCLI",
+      "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "https://dev.to/xulingfeng/6-stories-6-people-16-of-the-way-an-honest-check-in-on-the-36-stratagems-series-55ci",
+      "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
+      "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm"
+    ],
+    "repos": [
+      "https://github.com/EbookFoundation/free-programming-books",
+      "https://github.com/ComposioHQ/awesome-claude-skills",
+      "https://github.com/mvanhorn/last30days-skill",
+      "https://github.com/karakeep-app/karakeep"
     ]
   }
 }

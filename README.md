@@ -10,6 +10,36 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-07</strong></summary>
+
+#### Papers
+1. **[dOPSD: On-Policy Self-Distillation for Diffusion Language Models](https://arxiv.org/abs/2607.04428)** — This paper explores a new method for improving reasoning in diffusion language models through self-distillation.
+2. **[GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving](https://arxiv.org/abs/2602.11688)** — It presents a load-balancing policy for LLM inference services that considers global network factors.
+3. **[InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization](https://arxiv.org/abs/2607.04988)** — This work proposes a unified model for robotic manipulation that integrates semantic and physical dynamics.
+4. **[EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments](https://arxiv.org/abs/2607.05155)** — The study investigates how model capability scales with real-world data and compute after deployment.
+5. **[LLM-as-a-Verifier: A General-Purpose Verification Framework](https://arxiv.org/abs/2607.05391)** — This paper introduces a framework for verifying the capabilities of large language models during various stages.
+6. **[Multiplayer Interactive World Models with Representation Autoencoders](https://arxiv.org/abs/2607.05352)** — It describes a novel multiplayer world model that accounts for complex interactions in dynamic environments.
+7. **[Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models](https://arxiv.org/abs/2607.05390)** — This paper presents a dataset aimed at improving robotic manipulation of deformable objects.
+8. **[PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](https://arxiv.org/abs/2607.05373)** — It explores a unified approach for 3D scene generation and reconstruction using pixel-based methods.
+9. **[Weak-to-Strong Generalization via Direct On-Policy Distillation](http://arxiv.org/abs/2607.05394v1)** — The paper discusses enhancing language model reasoning through reinforcement learning with verifiable rewards.
+10. **[Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation](http://arxiv.org/abs/2607.05377v1)** — This work introduces a framework to improve long-horizon tasks in embodied AI agents.
+
+#### Blog Posts
+1. **[A global workspace in language models](https://www.anthropic.com/research/global-workspace)** by anthropic.com
+2. **[Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)** by ternlight-demo.vercel.app
+3. **[Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)** by spectrum.ieee.org
+4. **[Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours](https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4)** by Daniel Nwaneri
+5. **[Where Do Your LLM API Keys Actually Live?](https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm)** by Hadil Ben Abdallah
+
+#### Trending Repos
+1. **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** — 📚 Freely available programming books. ⭐ 391390
+2. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows. ⭐ 67022
+3. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across various platforms and synthesizes a grounded summary. ⭐ 49930
+4. **[karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)** — A self-hostable bookmark-everything app with AI-based automatic tagging and full text search. ⭐ 26987
+
+</details>
+
+<details>
 <summary><strong>2026-07-06</strong></summary>
 
 #### Papers
