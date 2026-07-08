@@ -1,127 +1,127 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "papers": [
     {
-      "title": "dOPSD: On-Policy Self-Distillation for Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2607.04428",
-      "summary": "Diffusion large language models (dLLMs) generate text by iteratively denoising a masked sequence, offering a parallel alternative to autoregressive models, but eliciting strong reasoning through post-"
+      "title": "MentalThink: Shaping Thoughts in Mental SVG World",
+      "url": "https://arxiv.org/abs/2607.03530",
+      "summary": "We introduce MentalThink, a visual-symbolic reasoning paradigm that equips Multimodal LLMs (MLLMs) with an executable mechanism for \"mental\" visualization. The core of MentalThink is a think-with-SVG "
     },
     {
-      "title": "GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving",
-      "url": "https://arxiv.org/abs/2602.11688",
-      "summary": "Increasingly, LLM inference services proxy client requests to engine replicas distributed globally. Load-balancing policies must jointly account for factors including KV-cache locality, replica load, "
+      "title": "Vision as Unified Multimodal Generation",
+      "url": "https://arxiv.org/abs/2607.06560",
+      "summary": "We formulate computer vision as unified multimodal generation, where heterogeneous visual tasks are expressed in the native text and image generation spaces of a unified multimodal model, without task"
     },
     {
-      "title": "InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization",
-      "url": "https://arxiv.org/abs/2607.04988",
-      "summary": "Unified models for robot manipulation aim to equip one policy with both the semantic priors of pretrained VLMs and the physical dynamics learned through future prediction. In practice, existing design"
+      "title": "CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation",
+      "url": "https://arxiv.org/abs/2607.03819",
+      "summary": "Challenges remain in ego-centric 3D scene generation due to limited view overlap and the dominant influence of individual perspectives on scene interpretation. These factors hinder the creation of vie"
     },
     {
-      "title": "EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments",
-      "url": "https://arxiv.org/abs/2607.05155",
-      "summary": "Pretraining scaling laws reveal that model capability improves predictably with data and compute. But learning from real world environments after deployment remains far less understood. Analyzing roug"
+      "title": "Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment",
+      "url": "https://arxiv.org/abs/2607.02920",
+      "summary": "Significant disparities exist in the diagnosis and clinical presentation of depression across different linguistic populations. Speech-based depression detection performs well monolingually, but cross"
     },
     {
-      "title": "EVA-Client: A Unified Data Collection, Inference, and Deployment Framework for Embodied Policies on Real Robots",
-      "url": "https://arxiv.org/abs/2607.02646",
-      "summary": "We present EVA-Client, an open-source framework for deployment, data collection, and evaluation of trained manipulation policies on real robots. Sitting between a policy server and the physical hardwa"
+      "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling",
+      "url": "https://arxiv.org/abs/2607.02980",
+      "summary": "Scaling modern large language models (LLMs) to long contexts is limited by the quadratic computation cost, and poor length extrapolation of dense attention. Chunk-wise sparse attention offers a promis"
     },
     {
-      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-      "url": "https://arxiv.org/abs/2607.05391",
-      "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th"
+      "title": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
+      "url": "https://arxiv.org/abs/2607.05147",
+      "summary": "Speculative decoding accelerates Large Language Model (LLM) inference by decoupling draft generation from target verification. While recent parallel drafters efficiently propose long token sequences i"
     },
     {
-      "title": "Multiplayer Interactive World Models with Representation Autoencoders",
-      "url": "https://arxiv.org/abs/2607.05352",
-      "summary": "We introduce the first multiplayer world model for highly dynamic environments governed by complex physical interactions. Whereas single-player world models treat the other agents as part of the envir"
+      "title": "MuseBench: Benchmarking Intent-Level Audiovisual Arts Understanding in MLLMs",
+      "url": "https://arxiv.org/abs/2606.30026",
+      "summary": "Audiovisual arts encompass diverse creative disciplines, including cinema, visual arts, stage performance, and game design, where artistic meaning arises from deliberate combinations of visual, audito"
     },
     {
-      "title": "PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation",
-      "url": "https://arxiv.org/abs/2607.03068",
-      "summary": "Semi-supervised semantic segmentation (SSSS) has long turned on one question, which pseudo-labels to trust, and answered it with ever more careful confidence filtering. Foundation backbones change the"
+      "title": "Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model",
+      "url": "https://arxiv.org/abs/2607.03509",
+      "summary": "Recent progress in large-scale generative models has substantially advanced video generation, yet existing methods remain constrained by a rigid inference paradigm. Bidirectional diffusion models exce"
     },
     {
-      "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
-      "url": "https://arxiv.org/abs/2607.05390",
-      "summary": "Predicting object dynamics (i.e., world modeling) is a fundamental challenge for robotic manipulation, and modeling deformable objects presents a particularly difficult case due to their high-dimensio"
+      "title": "Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning",
+      "url": "https://arxiv.org/abs/2607.02963",
+      "summary": "Dense video captioning aims to generate temporally grounded descriptions of video events, benefiting both event-level video understanding and generation. In this domain, autoregressive video large lan"
     },
     {
-      "title": "PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space",
-      "url": "https://arxiv.org/abs/2607.05373",
-      "summary": "3D reconstruction and generation are commonly tackled by separate paradigms: pixel-based regression for reconstruction, and latent diffusion for generation. Recent works attempt to unify them in laten"
+      "title": "Quantifying and Expanding the Theoretical Capacity of Late-Interaction Retrieval Models",
+      "url": "https://arxiv.org/abs/2607.05803",
+      "summary": "Late-interaction retrieval models that use the MaxSim similarity function have shown strong empirical performance, often outperforming single-vector dense and sparse retrieval models. Despite these em"
     }
   ],
   "blog_posts": [
     {
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "author": "anthropic.com"
+      "title": "We're extending access to Fable 5 on all paid plans through July 12",
+      "url": "https://twitter.com/claudeai/status/2074548242386178258",
+      "author": "twitter.com"
     },
     {
-      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "url": "https://ternlight-demo.vercel.app/",
-      "author": "ternlight-demo.vercel.app"
+      "title": "Google’s exponential path to climate-wrecking digital bloat",
+      "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+      "author": "sjamaan"
     },
     {
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+      "url": "https://github.com/kklimuk/docx-cli",
       "author": "github.com"
     },
     {
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "author": "kapa.ai"
-    },
-    {
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "title": "IEEE Rolls Out Large Language Models Training Course",
+      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
       "author": "spectrum.ieee.org"
     },
     {
-      "title": "6 Stories, 6 People, 1/6 of the Way — An Honest Check-In on the 36 Stratagems Series",
-      "url": "https://dev.to/xulingfeng/6-stories-6-people-16-of-the-way-an-honest-check-in-on-the-36-stratagems-series-55ci",
-      "author": "xulingfeng"
-    },
-    {
-      "title": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
-      "url": "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
+      "title": "you stopped reading the docs. now you don't understand the systems.",
+      "url": "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
       "author": "Daniel Nwaneri"
     },
     {
-      "title": "Where Do Your LLM API Keys Actually Live?",
-      "url": "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm",
-      "author": "Hadil Ben Abdallah"
+      "title": "Reducing Doom Loops with Final Token Preference Optimization",
+      "url": "https://www.liquid.ai/blog/antidoom",
+      "author": "liquid.ai"
+    },
+    {
+      "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+      "url": "https://github.com/bkuan001/halo-record",
+      "author": "github.com"
+    },
+    {
+      "title": "Stratagems #7: P Watched an AI That Only Looked One Way. The 99.97% Was Real. It Just Missed Everything That Mattered.",
+      "url": "https://dev.to/xulingfeng/p-watched-an-ai-that-only-looked-one-way-the-9997-was-real-it-just-missed-everything-that-1djm",
+      "author": "xulingfeng"
     }
   ],
   "repos": [
     {
-      "name": "EbookFoundation/free-programming-books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "description": "📚 Freely available programming books",
-      "stars": 391390,
+      "name": "OthmanAdi/planning-with-files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen",
+      "stars": 25012,
       "language": "Python"
     },
     {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 67022,
+      "name": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "stars": 20618,
       "language": "Python"
     },
     {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 49930,
-      "language": "Python"
+      "name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "stars": 17086,
+      "language": "Swift"
     },
     {
-      "name": "karakeep-app/karakeep",
-      "url": "https://github.com/karakeep-app/karakeep",
-      "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
-      "stars": 26987,
-      "language": "TypeScript"
+      "name": "langbot-app/LangBot",
+      "url": "https://github.com/langbot-app/LangBot",
+      "description": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integr",
+      "stars": 16753,
+      "language": "Python"
     }
   ],
   "tweets": []

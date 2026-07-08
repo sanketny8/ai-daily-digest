@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-08</strong></summary>
+
+#### Papers
+1. **[MentalThink: Shaping Thoughts in Mental SVG World](https://arxiv.org/abs/2607.03530)** — Introduces a visual-symbolic reasoning paradigm for Multimodal LLMs using executable mental visualizations.
+2. **[Vision as Unified Multimodal Generation](https://arxiv.org/abs/2607.06560)** — Proposes a unified approach to express various visual tasks in multimodal models without task-specific constraints.
+3. **[CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation](https://arxiv.org/abs/2607.03819)** — Addresses challenges in ego-centric 3D scene generation by improving view overlap and perspective influence.
+4. **[Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment](https://arxiv.org/abs/2607.02920)** — Explores disparities in speech-based depression detection across different languages, enhancing cross-lingual performance.
+5. **[Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling](https://arxiv.org/abs/2607.02980)** — Proposes chunk-wise sparse attention to improve long-context modeling in large language models.
+6. **[DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation](https://arxiv.org/abs/2607.05147)** — Introduces a method to accelerate LLM inference by separating draft generation from target verification.
+7. **[Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model](https://arxiv.org/abs/2607.03509)** — Aims to unify autoregressive and bidirectional approaches in video generation for improved flexibility.
+8. **[Quantifying and Expanding the Theoretical Capacity of Late-Interaction Retrieval Models](https://arxiv.org/abs/2607.05803)** — Analyzes late-interaction retrieval models, demonstrating their effectiveness over traditional dense and sparse models.
+9. **[RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation](https://arxiv.org/abs/2607.06527v1)** — Tackles challenges in multi-hop question answering by improving the integration of retrieval and generation.
+10. **[The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology](http://arxiv.org/abs/2607.06531v1)** — Proposes a framework to enhance clinical decision support in oncology using multimodal deep learning.
+
+#### Blog Posts
+1. **[We're extending access to Fable 5 on all paid plans through July 12](https://twitter.com/claudeai/status/2074548242386178258)** by twitter.com
+2. **[Google’s exponential path to climate-wrecking digital bloat](https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/)** by sjamaan
+3. **[IEEE Rolls Out Large Language Models Training Course](https://spectrum.ieee.org/large-language-models-ieee-course)** by spectrum.ieee.org
+4. **[you stopped reading the docs. now you don't understand the systems.](https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1)** by Daniel Nwaneri
+5. **[Reducing Doom Loops with Final Token Preference Optimization](https://www.liquid.ai/blog/antidoom)** by liquid.ai
+6. **[Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents](https://github.com/bkuan001/halo-record)** by github.com
+
+#### Trending Repos
+1. **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** — Persistent file-based planning for AI coding agents and long-running tasks. ⭐ 25012
+2. **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** — 100% Fully-Automated Agent-Native Trading. ⭐ 20618
+3. **[steipete/CodexBar](https://github.com/steipete/CodexBar)** — Show usage stats for OpenAI Codex and Claude Code without login. ⭐ 17086
+4. **[langbot-app/LangBot](https://github.com/langbot-app/LangBot)** — Production-grade platform for building agentic IM bots across multiple platforms. ⭐ 16753
+
+</details>
+
+<details>
 <summary><strong>2026-07-07</strong></summary>
 
 #### Papers
