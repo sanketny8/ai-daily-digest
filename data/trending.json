@@ -1,127 +1,148 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "papers": [
     {
-      "title": "MentalThink: Shaping Thoughts in Mental SVG World",
-      "url": "https://arxiv.org/abs/2607.03530",
-      "summary": "We introduce MentalThink, a visual-symbolic reasoning paradigm that equips Multimodal LLMs (MLLMs) with an executable mechanism for \"mental\" visualization. The core of MentalThink is a think-with-SVG "
+      "title": "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
+      "url": "https://arxiv.org/abs/2607.04434",
+      "summary": "Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narro"
     },
     {
-      "title": "Vision as Unified Multimodal Generation",
-      "url": "https://arxiv.org/abs/2607.06560",
-      "summary": "We formulate computer vision as unified multimodal generation, where heterogeneous visual tasks are expressed in the native text and image generation spaces of a unified multimodal model, without task"
+      "title": "Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2607.07608",
+      "summary": "Mainstream Vision-Language-Action (VLA) models predict actions primarily from the current observation under a Markovian assumption, thus struggling with long-horizon, temporally dependent tasks. Exist"
     },
     {
-      "title": "CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation",
-      "url": "https://arxiv.org/abs/2607.03819",
-      "summary": "Challenges remain in ego-centric 3D scene generation due to limited view overlap and the dominant influence of individual perspectives on scene interpretation. These factors hinder the creation of vie"
+      "title": "WildCity: A Real-World City-Scale Testbed for Rendering, Simulation, and Spatial Intelligence",
+      "url": "https://arxiv.org/abs/2607.06838",
+      "summary": "Humans can navigate an unfamiliar city and gradually form a coherent spatial mental map spanning tens of square kilometers. Can AI build spatial representations at a comparable scale? Although recent "
     },
     {
-      "title": "Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment",
-      "url": "https://arxiv.org/abs/2607.02920",
-      "summary": "Significant disparities exist in the diagnosis and clinical presentation of depression across different linguistic populations. Speech-based depression detection performs well monolingually, but cross"
+      "title": "Infinite Worlds with Versatile Interactions",
+      "url": "https://arxiv.org/abs/2607.07534",
+      "summary": "We present LingBot-World 2.0 (also known as LingBot-World-Infinity), an advanced iteration of LingBot-World featuring four distinct upgrades. (1) Our model achieves an unbounded interaction horizon wh"
     },
     {
-      "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling",
-      "url": "https://arxiv.org/abs/2607.02980",
-      "summary": "Scaling modern large language models (LLMs) to long contexts is limited by the quadratic computation cost, and poor length extrapolation of dense attention. Chunk-wise sparse attention offers a promis"
+      "title": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://arxiv.org/abs/2607.07675",
+      "summary": "Despite the recent promise in robot control, video generative models suffer from a domain mismatch due to their primary focus on content creation. For example, their design inherently prioritizes visu"
     },
     {
-      "title": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
-      "url": "https://arxiv.org/abs/2607.05147",
-      "summary": "Speculative decoding accelerates Large Language Model (LLM) inference by decoupling draft generation from target verification. While recent parallel drafters efficiently propose long token sequences i"
+      "title": "JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",
+      "url": "https://arxiv.org/abs/2606.28070",
+      "summary": "JD.com, one of the world's largest e-commerce platforms, serves over 700 million active users and millions of merchants, with a catalog of tens of billions of SKUs. At this scale, high-quality, struct"
     },
     {
-      "title": "MuseBench: Benchmarking Intent-Level Audiovisual Arts Understanding in MLLMs",
-      "url": "https://arxiv.org/abs/2606.30026",
-      "summary": "Audiovisual arts encompass diverse creative disciplines, including cinema, visual arts, stage performance, and game design, where artistic meaning arises from deliberate combinations of visual, audito"
+      "title": "Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers",
+      "url": "https://arxiv.org/abs/2606.32020",
+      "summary": "Modern one-step diffusion models achieve impressive quality through distribution-based timestep distillation. Yet, they rely on a critical assumption: Teacher and Student must inhabit the same latent "
     },
     {
-      "title": "Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model",
-      "url": "https://arxiv.org/abs/2607.03509",
-      "summary": "Recent progress in large-scale generative models has substantially advanced video generation, yet existing methods remain constrained by a rigid inference paradigm. Bidirectional diffusion models exce"
+      "title": "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL",
+      "url": "https://arxiv.org/abs/2607.04412",
+      "summary": "Reinforcement learning (RL) for non-verifiable instruction following increasingly relies on LLM judges with prompt-specific rubrics as reward signals. While recent methods adapt these rubrics to the e"
     },
     {
-      "title": "Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning",
-      "url": "https://arxiv.org/abs/2607.02963",
-      "summary": "Dense video captioning aims to generate temporally grounded descriptions of video events, benefiting both event-level video understanding and generation. In this domain, autoregressive video large lan"
+      "title": "VIBE: Voice-Induced open-ended Bias Evaluation for Large Audio-Language Models via Real-World Speech",
+      "url": "https://arxiv.org/abs/2604.17248",
+      "summary": "Large Audio-Language Models (LALMs) are increasingly integrated into daily applications, yet their generative biases remain underexplored. Existing speech fairness benchmarks rely on synthetic speech "
     },
     {
-      "title": "Quantifying and Expanding the Theoretical Capacity of Late-Interaction Retrieval Models",
-      "url": "https://arxiv.org/abs/2607.05803",
-      "summary": "Late-interaction retrieval models that use the MaxSim similarity function have shown strong empirical performance, often outperforming single-vector dense and sparse retrieval models. Despite these em"
+      "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+      "url": "http://arxiv.org/abs/2607.07708v1",
+      "summary": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization."
     }
   ],
   "blog_posts": [
     {
-      "title": "We're extending access to Fable 5 on all paid plans through July 12",
-      "url": "https://twitter.com/claudeai/status/2074548242386178258",
-      "author": "twitter.com"
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "author": "openai.com"
     },
     {
-      "title": "Google’s exponential path to climate-wrecking digital bloat",
-      "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
-      "author": "sjamaan"
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "author": "noma.security"
     },
     {
-      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
-      "url": "https://github.com/kklimuk/docx-cli",
-      "author": "github.com"
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "author": "mistral.ai"
     },
     {
-      "title": "IEEE Rolls Out Large Language Models Training Course",
-      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
-      "author": "spectrum.ieee.org"
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "author": "microsoft.github.io"
     },
     {
-      "title": "you stopped reading the docs. now you don't understand the systems.",
-      "url": "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
-      "author": "Daniel Nwaneri"
+      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+      "author": "combine-lab.github.io"
     },
     {
-      "title": "Reducing Doom Loops with Final Token Preference Optimization",
-      "url": "https://www.liquid.ai/blog/antidoom",
-      "author": "liquid.ai"
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "author": "openai.com"
     },
     {
-      "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
-      "url": "https://github.com/bkuan001/halo-record",
-      "author": "github.com"
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "author": "tryai.dev"
     },
     {
-      "title": "Stratagems #7: P Watched an AI That Only Looked One Way. The 99.97% Was Real. It Just Missed Everything That Mattered.",
-      "url": "https://dev.to/xulingfeng/p-watched-an-ai-that-only-looked-one-way-the-9997-was-real-it-just-missed-everything-that-1djm",
-      "author": "xulingfeng"
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "url": "https://mira-wm.com/",
+      "author": "mira-wm.com"
     }
   ],
   "repos": [
     {
-      "name": "OthmanAdi/planning-with-files",
-      "url": "https://github.com/OthmanAdi/planning-with-files",
-      "description": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen",
-      "stars": 25012,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "stars": 250097,
+      "language": "Shell"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
+      "stars": 80616,
       "language": "Python"
     },
     {
-      "name": "HKUDS/AI-Trader",
-      "url": "https://github.com/HKUDS/AI-Trader",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "stars": 20618,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": 53034,
       "language": "Python"
     },
     {
-      "name": "steipete/CodexBar",
-      "url": "https://github.com/steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "stars": 17086,
-      "language": "Swift"
+      "name": "microsoft/SkillOpt",
+      "url": "https://github.com/microsoft/SkillOpt",
+      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+      "stars": 11768,
+      "language": "Python"
     },
     {
-      "name": "langbot-app/LangBot",
-      "url": "https://github.com/langbot-app/LangBot",
-      "description": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integr",
-      "stars": 16753,
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "stars": 9042,
+      "language": "Rust"
+    },
+    {
+      "name": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+      "stars": 8062,
       "language": "Python"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "stars": 7789,
+      "language": "TypeScript"
     }
   ],
   "tweets": []

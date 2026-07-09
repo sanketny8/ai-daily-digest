@@ -10,6 +10,42 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-09</strong></summary>
+
+#### Papers
+1. **[RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies](https://arxiv.org/abs/2607.04434)** — This paper introduces a benchmark for evaluating robot manipulation policies in diverse scenarios.
+2. **[Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2607.07608)** — It addresses the limitations of VLA models in handling long-horizon tasks by introducing dual latent memory.
+3. **[WildCity: A Real-World City-Scale Testbed for Rendering, Simulation, and Spatial Intelligence](https://arxiv.org/abs/2607.06838)** — This work presents a testbed for AI to develop spatial representations in large urban environments.
+4. **[Infinite Worlds with Versatile Interactions](https://arxiv.org/abs/2607.07534)** — The paper discusses an advanced model for unbounded interactions in simulated environments.
+5. **[Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://arxiv.org/abs/2607.07675)** — It explores the challenges of video generative models in robot control and proposes a solution.
+6. **[LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL](https://arxiv.org/abs/2607.04412)** — This research focuses on adapting reward signals in reinforcement learning using large language models.
+7. **[VIBE: Voice-Induced open-ended Bias Evaluation for Large Audio-Language Models via Real-World Speech](https://arxiv.org/abs/2604.17248)** — It examines biases in audio-language models and proposes a new evaluation framework.
+8. **[From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization](http://arxiv.org/abs/2607.07702v1)** — This paper presents a method for diagnosing and improving agent performance using LLMs.
+9. **[Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety](http://arxiv.org/abs/2607.07695v1)** — It introduces a methodology for evaluating multi-agent AI safety through deployment rules.
+10. **[ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening](http://arxiv.org/abs/2607.07683v1)** — This work proposes a framework for digitizing ECGs to improve cardiovascular disease diagnosis.
+
+#### Blog Posts
+1. **[GPT‑Live](https://openai.com/index/introducing-gpt-live/)** by OpenAI
+2. **[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)** by Noma Security
+3. **[Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)** by Mistral AI
+4. **[Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)** by Microsoft
+5. **[The classifiers Anthropic puts in front of Fable are too zealous](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)** by Combine Lab
+6. **[Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)** by OpenAI
+7. **[We made Grok 4.5, GPT-5.5, and Claude build the same apps](https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off)** by Try AI
+8. **[MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)** by MIRA
+
+#### Trending Repos
+1. **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework & software development methodology that works. ⭐ 250097
+2. **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** — AI coding assistant skill that turns code and documents into a queryable format. ⭐ 80616
+3. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** — Train a 64M-parameter LLM from scratch in just 2 hours! ⭐ 53034
+4. **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** — A text-space optimizer for training reusable natural-language skills for LLM agents. ⭐ 11768
+5. **[TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** — Instant, concurrent, secure & lightweight sandbox for AI agents. ⭐ 9042
+6. **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** — Build your own AI SRE agents with this open-source toolkit. ⭐ 8062
+7. **[TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** — Provides local long-term memory for AI agents with zero external API dependencies. ⭐ 7789
+
+</details>
+
+<details>
 <summary><strong>2026-07-08</strong></summary>
 
 #### Papers
