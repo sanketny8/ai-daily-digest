@@ -1,148 +1,134 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "papers": [
     {
-      "title": "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
-      "url": "https://arxiv.org/abs/2607.04434",
-      "summary": "Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narro"
+      "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
+      "url": "https://arxiv.org/abs/2601.16211",
+      "summary": "Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel verb-object combinations composed of previously observed primitives. In this work, we tackle a key failure mode: models p"
     },
     {
-      "title": "Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2607.07608",
-      "summary": "Mainstream Vision-Language-Action (VLA) models predict actions primarily from the current observation under a Markovian assumption, thus struggling with long-horizon, temporally dependent tasks. Exist"
+      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "url": "https://arxiv.org/abs/2607.08768",
+      "summary": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo"
     },
     {
-      "title": "WildCity: A Real-World City-Scale Testbed for Rendering, Simulation, and Spatial Intelligence",
-      "url": "https://arxiv.org/abs/2607.06838",
-      "summary": "Humans can navigate an unfamiliar city and gradually form a coherent spatial mental map spanning tens of square kilometers. Can AI build spatial representations at a comparable scale? Although recent "
+      "title": "Video-Oasis: Rethinking Evaluation of Video Understanding",
+      "url": "https://arxiv.org/abs/2603.29616",
+      "summary": "The inherent complexity of video understanding makes it difficult to determine whether Video-LLM benchmark performance stems from visual perception, linguistic reasoning, or knowledge priors. While ma"
     },
     {
-      "title": "Infinite Worlds with Versatile Interactions",
-      "url": "https://arxiv.org/abs/2607.07534",
-      "summary": "We present LingBot-World 2.0 (also known as LingBot-World-Infinity), an advanced iteration of LingBot-World featuring four distinct upgrades. (1) Our model achieves an unbounded interaction horizon wh"
+      "title": "Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs",
+      "url": "https://arxiv.org/abs/2607.03936",
+      "summary": "A key challenge in Arabic NLP is the scarcity of dialectal data relative to Modern Standard Arabic (MSA), causing LLMs to overproduce MSA and struggle with dialectally accurate generation. From an int"
     },
     {
-      "title": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://arxiv.org/abs/2607.07675",
-      "summary": "Despite the recent promise in robot control, video generative models suffer from a domain mismatch due to their primary focus on content creation. For example, their design inherently prioritizes visu"
+      "title": "CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation",
+      "url": "https://arxiv.org/abs/2607.03803",
+      "summary": "The growing demand for image-to-video creation on mobile devices has increasingly focused on cinematic motion effects like bullet time, dolly zoom, slow motion, etc. While Diffusion Transformers (DiTs"
     },
     {
-      "title": "JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",
-      "url": "https://arxiv.org/abs/2606.28070",
-      "summary": "JD.com, one of the world's largest e-commerce platforms, serves over 700 million active users and millions of merchants, with a catalog of tens of billions of SKUs. At this scale, high-quality, struct"
+      "title": "PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution",
+      "url": "https://arxiv.org/abs/2607.06238",
+      "summary": "Magnetic resonance imaging (MRI) super-resolution is vital for improving diagnostic accessibility, yet most methods treat it as a deterministic mapping from a fixed low-resolution input to a high-reso"
     },
     {
-      "title": "Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers",
-      "url": "https://arxiv.org/abs/2606.32020",
-      "summary": "Modern one-step diffusion models achieve impressive quality through distribution-based timestep distillation. Yet, they rely on a critical assumption: Teacher and Student must inhabit the same latent "
+      "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
+      "url": "https://arxiv.org/abs/2607.08093",
+      "summary": "Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic"
     },
     {
-      "title": "LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL",
-      "url": "https://arxiv.org/abs/2607.04412",
-      "summary": "Reinforcement learning (RL) for non-verifiable instruction following increasingly relies on LLM judges with prompt-specific rubrics as reward signals. While recent methods adapt these rubrics to the e"
+      "title": "UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma",
+      "url": "https://arxiv.org/abs/2607.06987",
+      "summary": "Reinforcement learning (RL) has become the standard paradigm for enhancing the complex reasoning capabilities of large language models (LLMs). To achieve sample efficiency, modern RL frameworks rely o"
     },
     {
-      "title": "VIBE: Voice-Induced open-ended Bias Evaluation for Large Audio-Language Models via Real-World Speech",
-      "url": "https://arxiv.org/abs/2604.17248",
-      "summary": "Large Audio-Language Models (LALMs) are increasingly integrated into daily applications, yet their generative biases remain underexplored. Existing speech fairness benchmarks rely on synthetic speech "
+      "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
+      "url": "https://arxiv.org/abs/2607.03118",
+      "summary": "We introduce Vidu S1, a real-time interactive video generation model supporting voice control of digital characters. Users can control video generation content at any moment through voice instructions"
     },
     {
-      "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
-      "url": "http://arxiv.org/abs/2607.07708v1",
-      "summary": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization."
+      "title": "Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models",
+      "url": "https://arxiv.org/abs/2607.04461",
+      "summary": "Inference-time scaling for text-to-image generation has progressed from simple Best-of-N (BoN) sampling to guided search methods that verify and steer candidate trajectories at intermediate denoising "
     }
   ],
   "blog_posts": [
     {
-      "title": "GPT‑Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
       "author": "openai.com"
     },
     {
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "author": "noma.security"
+      "title": "Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "author": "ai.meta.com"
     },
     {
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "author": "mistral.ai"
-    },
-    {
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "author": "microsoft.github.io"
-    },
-    {
-      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
-      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-      "author": "combine-lab.github.io"
-    },
-    {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "title": "ChatGPT Work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
       "author": "openai.com"
     },
     {
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-      "author": "tryai.dev"
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "author": "databricks.com"
     },
     {
-      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-      "url": "https://mira-wm.com/",
-      "author": "mira-wm.com"
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "url": "https://github.com/ronak-create/FableCut",
+      "author": "github.com"
+    },
+    {
+      "title": "The next era of AI is about infrastructure, not just models",
+      "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
+      "author": "blog.mozilla.ai"
+    },
+    {
+      "title": "Your Hand-Typed Slop Isn't Honest. It's Just Slower.",
+      "url": "https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei",
+      "author": "Daniel Nwaneri"
+    },
+    {
+      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+      "url": "https://github.com/Rodiun/frugon",
+      "author": "github.com"
     }
   ],
   "repos": [
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 250097,
-      "language": "Shell"
+      "name": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 100037,
+      "language": ""
     },
     {
-      "name": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
-      "stars": 80616,
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 47263,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "stanfordnlp/dspy",
+      "url": "https://github.com/stanfordnlp/dspy",
+      "description": "DSPy: The framework for programming—not prompting—language models",
+      "stars": 36013,
       "language": "Python"
     },
     {
-      "name": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
-      "stars": 53034,
-      "language": "Python"
-    },
-    {
-      "name": "microsoft/SkillOpt",
-      "url": "https://github.com/microsoft/SkillOpt",
-      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
-      "stars": 11768,
-      "language": "Python"
-    },
-    {
-      "name": "TencentCloud/CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
-      "stars": 9042,
-      "language": "Rust"
-    },
-    {
-      "name": "Tracer-Cloud/opensre",
-      "url": "https://github.com/Tracer-Cloud/opensre",
-      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
-      "stars": 8062,
-      "language": "Python"
-    },
-    {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "stars": 7789,
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "stars": 19624,
       "language": "TypeScript"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 19560,
+      "language": "Go"
     }
   ],
   "tweets": []

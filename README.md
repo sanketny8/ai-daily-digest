@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-10</strong></summary>
+
+#### Papers
+1. **[UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](https://arxiv.org/abs/2607.08768)** — This paper presents a benchmark for evaluating proactive agents in real-world applications using large language models.
+2. **[Video-Oasis: Rethinking Evaluation of Video Understanding](https://arxiv.org/abs/2603.29616)** — The study explores the complexities of video understanding and proposes new evaluation methods for video models.
+3. **[CausalDS: Benchmarking Causal Reasoning in Data-Science Agents](https://arxiv.org/abs/2607.08093)** — This work benchmarks causal reasoning capabilities in data-science agents, highlighting the integration of abstract reasoning and tool use.
+4. **[PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution](https://arxiv.org/abs/2607.06238)** — The paper discusses a physics-aware approach to improve MRI image resolution, enhancing diagnostic capabilities.
+5. **[Vidu S1: A Real-Time Interactive Video Generation Model](https://arxiv.org/abs/2607.03118)** — Introducing a model for real-time interactive video generation, allowing users to control content via voice instructions.
+6. **[OpenCoF: Learning to Reason Through Video Generation](http://arxiv.org/abs/2607.08763v1)** — This research focuses on enhancing reasoning capabilities in video generation models, providing a distinct reasoning path.
+7. **[Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](http://arxiv.org/abs/2607.08758v1)** — The paper presents a framework for understanding the lineage of scientific ideas, akin to biological genomes.
+8. **[CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation](https://arxiv.org/abs/2607.03803)** — This work addresses mobile image-to-video creation, focusing on cinematic motion effects using diffusion models.
+9. **[UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma](https://arxiv.org/abs/2607.06987)** — The paper proposes a new optimization framework to enhance exploration in reinforcement learning.
+10. **[Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models](https://arxiv.org/abs/2607.04461)** — This research introduces methods for efficient inference-time scaling in text-to-image diffusion models.
+
+#### Blog Posts
+1. **[GPT-5.6](https://openai.com/index/gpt-5-6/)** by OpenAI
+2. **[Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)** by Meta AI
+3. **[ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)** by OpenAI
+4. **[Benchmarking coding agents on Databricks' multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)** by Databricks
+5. **[The next era of AI is about infrastructure, not just models](https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/)** by Mozilla AI
+6. **[Your Hand-Typed Slop Isn't Honest. It's Just Slower.](https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei)** by Daniel Nwaneri
+
+#### Trending Repos
+1. **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** — A collection of DESIGN.md files for generating matching UIs. ⭐ 100037
+2. **[anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** — Notebooks showcasing effective uses of Claude. ⭐ 47263
+3. **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** — A framework for programming language models instead of prompting. ⭐ 36013
+4. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** — AI-powered job application framework using Claude. ⭐ 19624
+5. **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** — Autonomous AI Agents system for penetration testing tasks. ⭐ 19560
+
+</details>
+
+<details>
 <summary><strong>2026-07-09</strong></summary>
 
 #### Papers

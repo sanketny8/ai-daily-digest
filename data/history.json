@@ -1,30 +1,4 @@
 {
-  "2026-06-09": {
-    "papers": [
-      "https://arxiv.org/abs/2606.05753",
-      "https://arxiv.org/abs/2606.05122",
-      "https://arxiv.org/abs/2606.07299",
-      "https://arxiv.org/abs/2606.03980",
-      "https://arxiv.org/abs/2606.08481",
-      "https://arxiv.org/abs/2605.29463",
-      "https://arxiv.org/abs/2606.09811",
-      "https://arxiv.org/abs/2606.04662",
-      "https://arxiv.org/abs/2606.09826",
-      "https://arxiv.org/abs/2606.06523"
-    ],
-    "blogs": [
-      "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "https://openai.com/index/openai-submits-confidential-s-1/",
-      "https://dev.to/webdeveloperhyper/ai-chat-ai-cheering-messages-and-animation-editor-hyper-ai-avatar-v10-vs-code-and-chrome-1noo",
-      "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e"
-    ],
-    "repos": [
-      "https://github.com/langchain-ai/deepagents",
-      "https://github.com/phuryn/pm-skills",
-      "https://github.com/google/skills"
-    ]
-  },
   "2026-06-10": {
     "papers": [
       "https://arxiv.org/abs/2606.05922",
@@ -916,6 +890,37 @@
       "https://github.com/TencentCloud/CubeSandbox",
       "https://github.com/Tracer-Cloud/opensre",
       "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    ]
+  },
+  "2026-07-10": {
+    "papers": [
+      "https://arxiv.org/abs/2601.16211",
+      "https://arxiv.org/abs/2607.08768",
+      "https://arxiv.org/abs/2603.29616",
+      "https://arxiv.org/abs/2607.03936",
+      "https://arxiv.org/abs/2607.03803",
+      "https://arxiv.org/abs/2607.06238",
+      "https://arxiv.org/abs/2607.08093",
+      "https://arxiv.org/abs/2607.06987",
+      "https://arxiv.org/abs/2607.03118",
+      "https://arxiv.org/abs/2607.04461"
+    ],
+    "blogs": [
+      "https://openai.com/index/gpt-5-6/",
+      "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "https://github.com/ronak-create/FableCut",
+      "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
+      "https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei",
+      "https://github.com/Rodiun/frugon"
+    ],
+    "repos": [
+      "https://github.com/VoltAgent/awesome-design-md",
+      "https://github.com/anthropics/claude-cookbooks",
+      "https://github.com/stanfordnlp/dspy",
+      "https://github.com/MadsLorentzen/ai-job-search",
+      "https://github.com/vxcontrol/pentagi"
     ]
   }
 }
