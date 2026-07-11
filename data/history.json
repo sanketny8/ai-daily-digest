@@ -1,31 +1,4 @@
 {
-  "2026-06-10": {
-    "papers": [
-      "https://arxiv.org/abs/2606.05922",
-      "https://arxiv.org/abs/2606.11180",
-      "https://arxiv.org/abs/2606.11025",
-      "https://arxiv.org/abs/2606.11176",
-      "https://arxiv.org/abs/2606.11129",
-      "https://arxiv.org/abs/2606.11052",
-      "https://arxiv.org/abs/2606.09821",
-      "https://arxiv.org/abs/2606.11182",
-      "https://arxiv.org/abs/2606.09730",
-      "https://arxiv.org/abs/2606.10572"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "https://arxiv.org/abs/2605.15184",
-      "https://arxiv.org/abs/2604.19773",
-      "https://anil.recoil.org/notes/recoil-self-hosting-2026",
-      "https://twitter.com/i/status/2064399902684139852",
-      "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18"
-    ],
-    "repos": [
-      "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "https://github.com/addyosmani/agent-skills",
-      "https://github.com/anthropics/claude-code-security-review"
-    ]
-  },
   "2026-06-11": {
     "papers": [
       "https://arxiv.org/abs/2606.03108",
@@ -921,6 +894,35 @@
       "https://github.com/stanfordnlp/dspy",
       "https://github.com/MadsLorentzen/ai-job-search",
       "https://github.com/vxcontrol/pentagi"
+    ]
+  },
+  "2026-07-11": {
+    "papers": [
+      "https://arxiv.org/abs/2607.08716",
+      "https://arxiv.org/abs/2607.04690",
+      "https://arxiv.org/abs/2607.08688",
+      "https://arxiv.org/abs/2607.07816",
+      "https://arxiv.org/abs/2607.07953",
+      "https://arxiv.org/abs/2607.08404",
+      "https://arxiv.org/abs/2607.08770",
+      "https://arxiv.org/abs/2607.08765",
+      "https://arxiv.org/abs/2607.08526",
+      "http://arxiv.org/abs/2607.08768v1"
+    ],
+    "blogs": [
+      "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+      "https://abralo.com/",
+      "https://dev.to/kumakint/make-ai-agents-see-your-website-1d23"
+    ],
+    "repos": [
+      "https://github.com/hashicorp/terraform",
+      "https://github.com/microsoft/graphrag",
+      "https://github.com/tailscale/tailscale",
+      "https://github.com/openai/openai-python",
+      "https://github.com/agentscope-ai/agentscope"
     ]
   }
 }

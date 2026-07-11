@@ -1,134 +1,124 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "papers": [
     {
-      "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
-      "url": "https://arxiv.org/abs/2601.16211",
-      "summary": "Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel verb-object combinations composed of previously observed primitives. In this work, we tackle a key failure mode: models p"
+      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2607.08716",
+      "summary": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment f"
+    },
+    {
+      "title": "PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection",
+      "url": "https://arxiv.org/abs/2607.04690",
+      "summary": "We introduce PAST-TIDE, our stance detection system addressing both subtasks of the StanceNakba Shared Task at NakbaNLP@LREC-COLING 2026. The main idea is statement tuning. We redefine stance as cloze"
+    },
+    {
+      "title": "SAM-MT: Real-Time Interactive Multi-Target Video Segmentation",
+      "url": "https://arxiv.org/abs/2607.08688",
+      "summary": "Modern Video Object Segmentation (VOS) involves tracking and segmenting user-specified targets. While recent approaches have achieved remarkable performance in single-target scenarios, extending them "
+    },
+    {
+      "title": "A Sparse and Truncated State Vector Simulator for Peaked Circuits",
+      "url": "https://arxiv.org/abs/2607.07816",
+      "summary": "In a class of quantum circuits known as peaked circuits, the goal is to predict the most probable bit string at the output of the circuit. Since these circuits are designed to have a sharp peak in the"
+    },
+    {
+      "title": "Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing",
+      "url": "https://arxiv.org/abs/2607.07953",
+      "summary": "Self-attention lets each token retrieve information from the full context, but its quadratic cost in sequence length limits training and inference at long context. This paper presents a comparative st"
+    },
+    {
+      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
+      "url": "https://arxiv.org/abs/2607.08404",
+      "summary": "Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease cont"
+    },
+    {
+      "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+      "url": "https://arxiv.org/abs/2607.08770",
+      "summary": "Recovering high-quality video from sparse event streams is a challenging task. Regression methods often blur textures, while existing generative models struggle with long-term stability. We propose Lo"
+    },
+    {
+      "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
+      "url": "https://arxiv.org/abs/2607.08765",
+      "summary": "In this work, we present Canvas360, a two-stage framework for in-context panoramic generation that combines geometry-aware pretraining with downstream task-specific fine-tuning. To address the lack of"
+    },
+    {
+      "title": "A Quantized Native Runtime for On-Device Semantic Audio Generation",
+      "url": "https://arxiv.org/abs/2607.08526",
+      "summary": "Semantic audio applications increasingly require controllable generation on commodity and embedded hardware rather than through framework-heavy datacenter stacks. We present aria, a dependency-free na"
     },
     {
       "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-      "url": "https://arxiv.org/abs/2607.08768",
+      "url": "http://arxiv.org/abs/2607.08768v1",
       "summary": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-wo"
-    },
-    {
-      "title": "Video-Oasis: Rethinking Evaluation of Video Understanding",
-      "url": "https://arxiv.org/abs/2603.29616",
-      "summary": "The inherent complexity of video understanding makes it difficult to determine whether Video-LLM benchmark performance stems from visual perception, linguistic reasoning, or knowledge priors. While ma"
-    },
-    {
-      "title": "Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs",
-      "url": "https://arxiv.org/abs/2607.03936",
-      "summary": "A key challenge in Arabic NLP is the scarcity of dialectal data relative to Modern Standard Arabic (MSA), causing LLMs to overproduce MSA and struggle with dialectally accurate generation. From an int"
-    },
-    {
-      "title": "CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation",
-      "url": "https://arxiv.org/abs/2607.03803",
-      "summary": "The growing demand for image-to-video creation on mobile devices has increasingly focused on cinematic motion effects like bullet time, dolly zoom, slow motion, etc. While Diffusion Transformers (DiTs"
-    },
-    {
-      "title": "PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution",
-      "url": "https://arxiv.org/abs/2607.06238",
-      "summary": "Magnetic resonance imaging (MRI) super-resolution is vital for improving diagnostic accessibility, yet most methods treat it as a deterministic mapping from a fixed low-resolution input to a high-reso"
-    },
-    {
-      "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
-      "url": "https://arxiv.org/abs/2607.08093",
-      "summary": "Large language models (LLMs) increasingly act as integrated data-science agents, combining abstract reasoning with advanced tool use. Yet the relevant benchmark landscape largely divides into symbolic"
-    },
-    {
-      "title": "UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma",
-      "url": "https://arxiv.org/abs/2607.06987",
-      "summary": "Reinforcement learning (RL) has become the standard paradigm for enhancing the complex reasoning capabilities of large language models (LLMs). To achieve sample efficiency, modern RL frameworks rely o"
-    },
-    {
-      "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
-      "url": "https://arxiv.org/abs/2607.03118",
-      "summary": "We introduce Vidu S1, a real-time interactive video generation model supporting voice control of digital characters. Users can control video generation content at any moment through voice instructions"
-    },
-    {
-      "title": "Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models",
-      "url": "https://arxiv.org/abs/2607.04461",
-      "summary": "Inference-time scaling for text-to-image generation has progressed from simple Best-of-N (BoN) sampling to guided search methods that verify and steer candidate trajectories at intermediate denoising "
     }
   ],
   "blog_posts": [
     {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "author": "openai.com"
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "author": "9to5mac.com"
     },
     {
-      "title": "Muse Spark 1.1",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "author": "ai.meta.com"
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "author": "cdn.openai.com"
     },
     {
-      "title": "ChatGPT Work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "author": "openai.com"
+      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "author": "tryai.dev"
     },
     {
-      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-      "author": "databricks.com"
+      "title": "Please don't discontinue Gemini 2.5 Flash",
+      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+      "author": "discuss.ai.google.dev"
     },
     {
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "url": "https://github.com/ronak-create/FableCut",
-      "author": "github.com"
+      "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
+      "url": "https://abralo.com/",
+      "author": "abralo.com"
     },
     {
-      "title": "The next era of AI is about infrastructure, not just models",
-      "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
-      "author": "blog.mozilla.ai"
-    },
-    {
-      "title": "Your Hand-Typed Slop Isn't Honest. It's Just Slower.",
-      "url": "https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei",
-      "author": "Daniel Nwaneri"
-    },
-    {
-      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-      "url": "https://github.com/Rodiun/frugon",
-      "author": "github.com"
+      "title": "Make AI Agents See Your Website",
+      "url": "https://dev.to/kumakint/make-ai-agents-see-your-website-1d23",
+      "author": "Maks"
     }
   ],
   "repos": [
     {
-      "name": "VoltAgent/awesome-design-md",
-      "url": "https://github.com/VoltAgent/awesome-design-md",
-      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "stars": 100037,
-      "language": ""
+      "name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo",
+      "stars": 49206,
+      "language": "Go"
     },
     {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": 47263,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "name": "stanfordnlp/dspy",
-      "url": "https://github.com/stanfordnlp/dspy",
-      "description": "DSPy: The framework for programming—not prompting—language models",
-      "stars": 36013,
+      "name": "microsoft/graphrag",
+      "url": "https://github.com/microsoft/graphrag",
+      "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+      "stars": 34346,
       "language": "Python"
     },
     {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "stars": 19624,
-      "language": "TypeScript"
+      "name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "stars": 33709,
+      "language": "Go"
     },
     {
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": 19560,
-      "language": "Go"
+      "name": "openai/openai-python",
+      "url": "https://github.com/openai/openai-python",
+      "description": "The official Python library for the OpenAI API",
+      "stars": 31220,
+      "language": "Python"
+    },
+    {
+      "name": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "stars": 27745,
+      "language": "Python"
     }
   ],
   "tweets": []

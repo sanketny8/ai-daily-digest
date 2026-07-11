@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-11</strong></summary>
+
+#### Papers
+1. **[Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](https://arxiv.org/abs/2607.08716)** — This paper discusses how proactive memory agents can enhance decision-making in long-horizon tasks by surfacing relevant information.
+2. **[DrugGen 2: A disease-aware language model for enhancing drug discovery](https://arxiv.org/abs/2607.08404)** — Introduces a language model that improves drug design by considering disease context, enhancing the relevance of generated molecules.
+3. **[SAM-MT: Real-Time Interactive Multi-Target Video Segmentation](https://arxiv.org/abs/2607.08688)** — Presents a method for real-time video segmentation that can track and segment multiple user-specified targets effectively.
+4. **[UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](http://arxiv.org/abs/2607.08768v1)** — Establishes a benchmark for evaluating proactive agents in real-world applications, crucial for advancing AI usability.
+5. **[LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models](https://arxiv.org/abs/2607.08770)** — Proposes a novel approach for reconstructing high-quality video from sparse event streams, addressing challenges in video stability.
+6. **[OpenCoF: Learning to Reason Through Video Generation](http://arxiv.org/abs/2607.08763v1)** — Explores reasoning capabilities in video generation models, enhancing logical decision-making through visual data.
+7. **[Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing](https://arxiv.org/abs/2607.07953)** — Analyzes linear attention mechanisms, offering insights into their efficiency and potential applications in long context scenarios.
+8. **[Enhancing In-context Panoramic Generation via Geometric-aware Pretraining](https://arxiv.org/abs/2607.08765)** — Introduces a framework for generating panoramic images that leverages geometric understanding for improved quality.
+9. **[A Sparse and Truncated State Vector Simulator for Peaked Circuits](https://arxiv.org/abs/2607.07816)** — Develops a simulator for predicting outputs of peaked quantum circuits, addressing challenges in quantum computing.
+10. **[Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](http://arxiv.org/abs/2607.08758v1)** — Investigates the lineage of scientific ideas, proposing a framework for understanding and generating new concepts.
+
+#### Blog Posts
+1. **[Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)** by 9to5mac.com
+2. **[GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)** by cdn.openai.com
+3. **[GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps](https://www.tryai.dev/blog/gpt-5.6-build-off-12-models)** by tryai.dev
+4. **[Please don't discontinue Gemini 2.5 Flash](https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246)** by discuss.ai.google.dev
+5. **[Show HN: Abralo – Free, easy way to run several Claude Code agents in one window](https://abralo.com/)** by abralo.com
+6. **[Make AI Agents See Your Website](https://dev.to/kumakint/make-ai-agents-see-your-website-1d23)** by Maks
+
+#### Trending Repos
+1. **[hashicorp/terraform](https://github.com/hashicorp/terraform)** — Terraform enables you to safely and predictably create, change, and improve infrastructure. ⭐ 49206
+2. **[microsoft/graphrag](https://github.com/microsoft/graphrag)** — A modular graph-based Retrieval-Augmented Generation (RAG) system. ⭐ 34346
+3. **[tailscale/tailscale](https://github.com/tailscale/tailscale)** — The easiest, most secure way to use WireGuard and 2FA. ⭐ 33709
+4. **[openai/openai-python](https://github.com/openai/openai-python)** — The official Python library for the OpenAI API. ⭐ 31220
+5. **[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)** — Build and run agents you can see, understand and trust. ⭐ 27745
+
+</details>
+
+<details>
 <summary><strong>2026-07-10</strong></summary>
 
 #### Papers
