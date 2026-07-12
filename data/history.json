@@ -1,37 +1,4 @@
 {
-  "2026-06-11": {
-    "papers": [
-      "https://arxiv.org/abs/2606.03108",
-      "https://arxiv.org/abs/2606.11683",
-      "https://arxiv.org/abs/2606.12397",
-      "https://arxiv.org/abs/2606.12344",
-      "https://arxiv.org/abs/2606.10479",
-      "https://arxiv.org/abs/2606.11926",
-      "https://arxiv.org/abs/2606.09323",
-      "https://arxiv.org/abs/2606.12373",
-      "https://arxiv.org/abs/2606.09076",
-      "https://arxiv.org/abs/2606.12191"
-    ],
-    "blogs": [
-      "https://github.com/anthropics/claude-code/issues/29045",
-      "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-      "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
-      "https://burr.apache.org/",
-      "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-      "https://github.com/HelixDB/helix-db/tree/main"
-    ],
-    "repos": [
-      "https://github.com/BerriAI/litellm",
-      "https://github.com/soxoj/maigret",
-      "https://github.com/apple/container",
-      "https://github.com/davila7/claude-code-templates",
-      "https://github.com/comet-ml/opik",
-      "https://github.com/ml-explore/mlx-examples"
-    ]
-  },
   "2026-06-12": {
     "papers": [
       "https://arxiv.org/abs/2606.13392",
@@ -923,6 +890,33 @@
       "https://github.com/tailscale/tailscale",
       "https://github.com/openai/openai-python",
       "https://github.com/agentscope-ai/agentscope"
+    ]
+  },
+  "2026-07-12": {
+    "papers": [
+      "http://arxiv.org/abs/2607.08763v1",
+      "http://arxiv.org/abs/2607.08758v1",
+      "http://arxiv.org/abs/2607.08757v1",
+      "http://arxiv.org/abs/2607.08756v1",
+      "http://arxiv.org/abs/2607.08754v1",
+      "http://arxiv.org/abs/2607.08748v1",
+      "http://arxiv.org/abs/2607.08746v1",
+      "http://arxiv.org/abs/2607.08745v1",
+      "http://arxiv.org/abs/2607.08741v1"
+    ],
+    "blogs": [
+      "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "https://www.iroh.computer/blog/mesh-llm",
+      "https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p",
+      "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+      "https://medium.com/@princeverma50055/the-power-of-learning-in-public-why-sharing-your-journey-can-change-your-career-4ea08df6f8d6"
+    ],
+    "repos": [
+      "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "https://github.com/harry0703/MoneyPrinterTurbo",
+      "https://github.com/FoundationAgents/OpenManus",
+      "https://github.com/DayuanJiang/next-ai-draw-io"
     ]
   }
 }

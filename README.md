@@ -10,6 +10,36 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-12</strong></summary>
+
+#### Papers
+1. **[OpenCoF: Learning to Reason Through Video Generation](http://arxiv.org/abs/2607.08763v1)** — This paper explores how video generation models can enhance reasoning capabilities in AI systems.
+2. **[Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](http://arxiv.org/abs/2607.08758v1)** — It discusses how scientific ideas evolve similarly to biological genomes, emphasizing lineage in idea generation.
+3. **[Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling](http://arxiv.org/abs/2607.08757v1)** — This research reveals limitations in current methods for ensuring numerical stability in diffusion sampling processes.
+4. **[MulTTiPop: A Multitrack Transcription Dataset for Pop Music](http://arxiv.org/abs/2607.08756v1)** — Introduces a dataset aimed at improving automatic transcription models for pop music through multitrack MIDI recordings.
+5. **[SLORR: Simple and Efficient In-Training Low-Rank Regularization](http://arxiv.org/abs/2607.08754v1)** — Proposes a new method for low-rank regularization during training to enhance neural network efficiency without sacrificing accuracy.
+6. **[Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis](http://arxiv.org/abs/2607.08748v1)** — Analyzes the impact of AI learning assistants on student performance across a large dataset in higher education.
+7. **[Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph](http://arxiv.org/abs/2607.08746v1)** — Explores the potential of UMAP's kNN graph for better understanding high-dimensional data.
+8. **[AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding](http://arxiv.org/abs/2607.08745v1)** — Evaluates vision-language models for their effectiveness in understanding incidents captured by dashcams.
+9. **[ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation](http://arxiv.org/abs/2607.08741v1)** — Focuses on generating realistic 3D human motions in real-time for applications in animation and robotics.
+
+#### Blog Posts
+1. **[Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)** by io-fund.com
+2. **[Modern decor may be straining people's brains](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/)** by studyfinds.com
+3. **[Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)** by iroh.computer
+4. **[How I Turned Slack Into an AI Teammate That Opens Pull Requests](https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p)** by Med Marrouchi
+5. **[AI Surveillance and Social Progress](https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html)** by cyplo
+6. **[The Power of Learning in Public: Why Sharing Your Journey Can Change Your Career](https://medium.com/@princeverma50055/the-power-of-learning-in-public-why-sharing-your-journey-can-change-your-career-4ea08df6f8d6)** by Prince Verma
+
+#### Trending Repos
+1. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. ⭐ 118070
+2. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — Generate short videos with one click using AI LLM. ⭐ 96857
+3. **[FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus)** — No fortress, purely open ground. OpenManus is Coming. ⭐ 57191
+4. **[DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)** — Integrates AI capabilities with draw.io diagrams for enhanced visualization. ⭐ 33342
+
+</details>
+
+<details>
 <summary><strong>2026-07-11</strong></summary>
 
 #### Papers
