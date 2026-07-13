@@ -1,34 +1,4 @@
 {
-  "2026-06-12": {
-    "papers": [
-      "https://arxiv.org/abs/2606.13392",
-      "https://arxiv.org/abs/2606.09290",
-      "https://arxiv.org/abs/2606.09304",
-      "https://arxiv.org/abs/2606.08063",
-      "https://arxiv.org/abs/2606.13120",
-      "https://arxiv.org/abs/2606.08788",
-      "https://arxiv.org/abs/2606.13681",
-      "https://arxiv.org/abs/2606.08039",
-      "https://arxiv.org/abs/2606.13106",
-      "https://arxiv.org/abs/2606.12674"
-    ],
-    "blogs": [
-      "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "https://tonedear.com/",
-      "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
-      "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
-      "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "https://briandouglas.ie/llm-tailwind-template/",
-      "https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8"
-    ],
-    "repos": [
-      "https://github.com/msitarzewski/agency-agents",
-      "https://github.com/chatwoot/chatwoot",
-      "https://github.com/onyx-dot-app/onyx",
-      "https://github.com/anthropics/claude-plugins-official",
-      "https://github.com/mlflow/mlflow"
-    ]
-  },
   "2026-06-13": {
     "papers": [
       "https://arxiv.org/abs/2606.00467",
@@ -917,6 +887,39 @@
       "https://github.com/harry0703/MoneyPrinterTurbo",
       "https://github.com/FoundationAgents/OpenManus",
       "https://github.com/DayuanJiang/next-ai-draw-io"
+    ]
+  },
+  "2026-07-13": {
+    "papers": [
+      "https://arxiv.org/abs/2607.07964",
+      "https://arxiv.org/abs/2607.08964",
+      "https://arxiv.org/abs/2607.09020",
+      "https://arxiv.org/abs/2607.06553",
+      "https://arxiv.org/abs/2607.09661",
+      "https://arxiv.org/abs/2607.08393",
+      "https://arxiv.org/abs/2607.04751",
+      "https://arxiv.org/abs/2607.09415",
+      "https://arxiv.org/abs/2607.09024",
+      "https://arxiv.org/abs/2607.09424"
+    ],
+    "blogs": [
+      "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "https://nanduruganesh.github.io/flash-msa/",
+      "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+      "https://dev.to/xulingfeng/12-stories-in-and-a-journalist-came-to-interview-me-45f5"
+    ],
+    "repos": [
+      "https://github.com/Crosstalk-Solutions/project-nomad",
+      "https://github.com/davila7/claude-code-templates",
+      "https://github.com/HKUDS/Vibe-Trading",
+      "https://github.com/pydantic/pydantic-ai",
+      "https://github.com/teng-lin/notebooklm-py",
+      "https://github.com/MervinPraison/PraisonAI",
+      "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "https://github.com/lingfengQAQ/webnovel-writer",
+      "https://github.com/Nutlope/hallmark"
     ]
   }
 }

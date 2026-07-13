@@ -10,6 +10,42 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-13</strong></summary>
+
+#### Papers
+1. **[KronQ: LLM Quantization via Kronecker-Factored Hessian](https://arxiv.org/abs/2607.07964)** — This paper presents a method for compressing large language models without retraining, enhancing efficiency.
+2. **[Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](https://arxiv.org/abs/2607.08964)** — Introduces a benchmark for evaluating AI agents on complex, long-term tasks with dense rewards.
+3. **[Phone Segmentation and Recognition through Phonological Activation Mapping](https://arxiv.org/abs/2607.09020)** — Proposes a unified approach to phone segmentation and recognition by leveraging phonetic structures in representations.
+4. **[From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models](https://arxiv.org/abs/2607.06553)** — Explores the use of text-to-image models for dense prediction tasks, leveraging rich semantic priors.
+5. **[Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning](https://arxiv.org/abs/2607.08393)** — Analyzes the challenges of integrating new knowledge into LLMs and their generalization failures.
+6. **[Self-Guided Test-Time Training for Long-Context LLMs](https://arxiv.org/abs/2607.09415)** — Discusses methods to improve long-context processing in LLMs, enhancing their performance with extended inputs.
+7. **[Video Generation Models are General-Purpose Vision Learners](https://arxiv.org/abs/2607.09024)** — Investigates the potential of video generation models as versatile learners in vision tasks, akin to NLP models.
+8. **[A Sovereign, Open-Source Foundation Model for German and English](https://arxiv.org/abs/2607.09424)** — Introduces an open-source foundation model that efficiently utilizes a mixture of experts for bilingual applications.
+9. **[ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI](http://arxiv.org/abs/2607.09649v1)** — Proposes a framework for assessing the trustworthiness of explainable AI models based on concept-level outputs.
+10. **[Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection](http://arxiv.org/abs/2607.09641v1)** — Presents a novel approach to tackle class imbalance in financial anomaly detection through multi-objective reinforcement learning.
+
+#### Blog Posts
+1. **[Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)** by systima.ai
+2. **[Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)** by ploy.ai
+3. **[Mechanistic interpretability researchers applying causality theory to LLMs](https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/)** by cacm.acm.org
+4. **[Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels](https://nanduruganesh.github.io/flash-msa/)** by nanduruganesh.github.io
+5. **[Autoresearch, Claude and Constrained Optimization](https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/)** by elliotcsmith.com
+6. **[12 Stories In, and a Journalist Came to Interview Me](https://dev.to/xulingfeng/12-stories-in-and-a-journalist-came-to-interview-me-45f5)** by xulingfeng
+
+#### Trending Repos
+1. **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** — Offline survival computer with essential tools and AI. ⭐ 33888
+2. **[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code. ⭐ 29283
+3. **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — Your personal trading agent. ⭐ 20779
+4. **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** — AI Agent Framework, the Pydantic way. ⭐ 18459
+5. **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)** — Unofficial Python API for Google NotebookLM. ⭐ 17668
+6. **[MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI)** — Hire a 24/7 AI workforce with self-improving agents. ⭐ 8428
+7. **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** — MCP server for Claude with terminal control capabilities. ⭐ 8040
+8. **[lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)** — AI-assisted long-form writing system based on Claude Code. ⭐ 5637
+9. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code and Codex. ⭐ 4440
+
+</details>
+
+<details>
 <summary><strong>2026-07-12</strong></summary>
 
 #### Papers
