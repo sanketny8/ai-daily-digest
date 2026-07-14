@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-14</strong></summary>
+
+#### Papers
+1. **[4D Human-Scene Reconstruction from Low-Overlap Captures](https://arxiv.org/abs/2607.09125)** — This paper addresses volumetric capture of human performance using limited camera setups, enhancing real-world applications.
+2. **[Motion4Motion: Motion Transfer Across Subjects at Inference](https://arxiv.org/abs/2607.11644)** — Explores transferring motion between videos, crucial for animating diverse characters in animation.
+3. **[Weak-to-Strong Generalization via Direct On-Policy Distillation](https://arxiv.org/abs/2607.05394)** — Introduces a method to enhance reinforcement learning models using direct distillation for better reasoning.
+4. **[NeuroCogMap Reveals Cognitive Organization of Large Language Models](https://arxiv.org/abs/2607.00397)** — Investigates the cognitive structures within large language models, linking them to biological cognition.
+5. **[AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification](https://arxiv.org/abs/2607.11849)** — Aims to evaluate LLMs' capabilities in advanced mathematics, a less understood area.
+6. **[LightMem-Ego: Your AI Memory for Everyday Life](https://arxiv.org/abs/2607.11487)** — Proposes a lightweight AI memory system for personal assistants to recall past experiences effectively.
+7. **[ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory](https://arxiv.org/abs/2607.10350)** — Presents a versatile OS for robotic agents, enhancing reasoning and memory capabilities.
+8. **[Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks](http://arxiv.org/abs/2607.11843v1)** — Explores security vulnerabilities in quantum neural networks, highlighting the need for better defenses.
+9. **[Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks](http://arxiv.org/abs/2607.11875v1)** — Offers a theoretical framework explaining inductive reasoning in Transformer models.
+10. **[ABot-N1: Toward a General Visual Language Navigation Foundation Model](https://arxiv.org/abs/2607.10383)** — Aims to unify reasoning and spatial decision-making in visual language navigation tasks.
+
+#### Blog Posts
+1. **[Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)** by get-inscribe.com
+2. **[Samsung Health app threatens data deletion if users opt out AI training](https://neow.in/cWsyMTV3)** by neow.in
+3. **[Benchmarking 15 “E-Waste” GPUs with Modern Workloads](https://esologic.com/benchmarking-tesla-gpus/)** by esologic.com
+4. **[The Myth of the Post-Documentation Era](https://dev.to/ben/the-myth-of-the-post-documentation-era-39al)** by Ben Halpern
+5. **[Show HN: I implemented a neural network in SQL](https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py)** by github.com
+
+#### Trending Repos
+1. **[moeru-ai/airi](https://github.com/moeru-ai/airi)** — Self-hosted AI companion capable of real-time voice chat. ⭐ 42034
+2. **[Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)** — Open-source meeting transcription API for major platforms. ⭐ 2515
+3. **[simonlin1212/TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock)** — A multi-agent investment research framework for A-share markets. ⭐ 2161
+4. **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** — Local-first IDE for autonomous software development. ⭐ 698
+5. **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** — Open-source guide for mastering WorkBuddy workflows. ⭐ 543
+6. **[cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)** — Visualization tool for replaying coding-agent sessions on a 3D codebase map. ⭐ 502
+
+</details>
+
+<details>
 <summary><strong>2026-07-13</strong></summary>
 
 #### Papers

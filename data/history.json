@@ -1,28 +1,4 @@
 {
-  "2026-06-13": {
-    "papers": [
-      "https://arxiv.org/abs/2606.00467",
-      "https://arxiv.org/abs/2606.12730",
-      "https://arxiv.org/abs/2606.13594",
-      "https://arxiv.org/abs/2606.13174",
-      "https://arxiv.org/abs/2606.10423",
-      "https://arxiv.org/abs/2606.07867",
-      "https://arxiv.org/abs/2606.11409",
-      "https://arxiv.org/abs/2606.12451",
-      "https://arxiv.org/abs/2606.12488",
-      "https://arxiv.org/abs/2606.13572"
-    ],
-    "blogs": [
-      "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-      "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
-      "https://medium.com/@sunil17bbmp/gemini-cli-skills-how-to-create-and-use-custom-skills-c4640504f5ef",
-      "https://medium.com/@don724969/how-to-spoof-canvas-fingerprint-step-by-step-setup-guide-2026-a76e2912a6f4"
-    ],
-    "repos": [
-      "https://github.com/iptv-org/iptv",
-      "https://github.com/browser-use/browser-use"
-    ]
-  },
   "2026-06-14": {
     "papers": [
       "http://arxiv.org/abs/2606.13681v1",
@@ -920,6 +896,37 @@
       "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "https://github.com/lingfengQAQ/webnovel-writer",
       "https://github.com/Nutlope/hallmark"
+    ]
+  },
+  "2026-07-14": {
+    "papers": [
+      "https://arxiv.org/abs/2607.09125",
+      "https://arxiv.org/abs/2607.11644",
+      "https://arxiv.org/abs/2607.10623",
+      "https://arxiv.org/abs/2607.05394",
+      "https://arxiv.org/abs/2607.10350",
+      "https://arxiv.org/abs/2607.11849",
+      "https://arxiv.org/abs/2607.11487",
+      "https://arxiv.org/abs/2607.00397",
+      "https://arxiv.org/abs/2607.10383",
+      "https://arxiv.org/abs/2607.07673"
+    ],
+    "blogs": [
+      "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "https://neow.in/cWsyMTV3",
+      "https://esologic.com/benchmarking-tesla-gpus/",
+      "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+      "https://github.com/morganwilliscloud/billai-bass",
+      "https://dev.to/ben/the-myth-of-the-post-documentation-era-39al",
+      "https://dev.to/xulingfeng/stratagems-13-p-posted-a-question-on-a-public-forum-24-hours-later-their-sales-team-called-29h1"
+    ],
+    "repos": [
+      "https://github.com/moeru-ai/airi",
+      "https://github.com/Vexa-ai/vexa",
+      "https://github.com/simonlin1212/TradingAgents-astock",
+      "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "https://github.com/AlephAITech/WorkBuddyGuide",
+      "https://github.com/cosmtrek/mindwalk"
     ]
   }
 }
