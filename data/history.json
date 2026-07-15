@@ -1,33 +1,4 @@
 {
-  "2026-06-14": {
-    "papers": [
-      "http://arxiv.org/abs/2606.13681v1",
-      "http://arxiv.org/abs/2606.13680v1",
-      "http://arxiv.org/abs/2606.13677v1",
-      "http://arxiv.org/abs/2606.13673v1",
-      "http://arxiv.org/abs/2606.13671v1",
-      "http://arxiv.org/abs/2606.13670v1",
-      "http://arxiv.org/abs/2606.13669v1",
-      "http://arxiv.org/abs/2606.13668v1",
-      "http://arxiv.org/abs/2606.13663v1",
-      "http://arxiv.org/abs/2606.13662v1"
-    ],
-    "blogs": [
-      "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "https://openai.com/form/codex-for-oss/",
-      "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
-      "https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh",
-      "https://www.anthropic.com/research/making-claude-a-chemist",
-      "https://medium.com/activated-thinker/claude-fable-5-the-most-interesting-ai-release-of-2026-57e1271754c9"
-    ],
-    "repos": [
-      "https://github.com/tirth8205/code-review-graph",
-      "https://github.com/andrewyng/aisuite",
-      "https://github.com/skypilot-org/skypilot",
-      "https://github.com/LMCache/LMCache",
-      "https://github.com/NVIDIA/SkillSpector"
-    ]
-  },
   "2026-06-15": {
     "papers": [
       "https://arxiv.org/abs/2606.14694",
@@ -927,6 +898,38 @@
       "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
       "https://github.com/AlephAITech/WorkBuddyGuide",
       "https://github.com/cosmtrek/mindwalk"
+    ]
+  },
+  "2026-07-15": {
+    "papers": [
+      "https://arxiv.org/abs/2607.11886",
+      "https://arxiv.org/abs/2607.11111",
+      "https://arxiv.org/abs/2607.11250",
+      "https://arxiv.org/abs/2607.11862",
+      "https://arxiv.org/abs/2607.11736",
+      "https://arxiv.org/abs/2607.07470",
+      "https://arxiv.org/abs/2607.11643",
+      "https://arxiv.org/abs/2607.09701",
+      "https://arxiv.org/abs/2607.11885",
+      "https://arxiv.org/abs/2607.11505"
+    ],
+    "blogs": [
+      "https://prismml.com/news/bonsai-27b",
+      "https://github.com/juggler-ai/juggler",
+      "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "https://github.com/Danau5tin/ai-trains-ai",
+      "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+      "https://www.benjamin-bai.com/projects/lemario",
+      "https://agnost.ai",
+      "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio"
+    ],
+    "repos": [
+      "https://github.com/google/skills",
+      "https://github.com/Arindam200/awesome-ai-apps",
+      "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "https://github.com/PrimeIntellect-ai/verifiers",
+      "https://github.com/kangarooking/cangjie-skill",
+      "https://github.com/AIEraDev/Clypra"
     ]
   }
 }

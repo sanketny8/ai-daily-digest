@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-15</strong></summary>
+
+#### Papers
+1. **[Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation](https://arxiv.org/abs/2607.11886)** — This paper introduces SpectraReward, a training-free reward function for image generation using pretrained MLLMs.
+2. **[Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution](https://arxiv.org/abs/2607.11111)** — The study addresses factual errors in LLM-based coding agents by enhancing repository understanding for software issue resolution.
+3. **[Multi-Agent LLMs Fail to Explore Each Other](https://arxiv.org/abs/2607.11250)** — This research investigates the exploration capabilities of LLM agents in multi-agent systems, highlighting their limitations.
+4. **[Evidence-Backed Video Question Answering](https://arxiv.org/abs/2607.11862)** — The paper critiques current Video LLMs for lacking explainability and proposes methods for visual grounding in video QA.
+5. **[MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning](https://arxiv.org/abs/2607.11736)** — This work focuses on multilingual moral decision-making, addressing gaps in existing evaluations across diverse cultures.
+6. **[Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model](https://arxiv.org/abs/2607.11643)** — The paper discusses advancements in applying foundation models to embodied scenarios with improved generalization and controllability.
+7. **[EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos](https://arxiv.org/abs/2607.09701)** — This research presents a system for dexterous manipulation in robotics, utilizing egocentric video data for training.
+8. **[Latent-Identity Tuning in Text-to-Image Personalization Models](https://arxiv.org/abs/2607.11885)** — The study explores high-precision face generation and editing in personalization models, emphasizing identity preservation.
+9. **[Proxy Exploration and Reusable Guidance: A Modular LLM Post-Training Paradigm via Proxy-Guided Update Signals](https://arxiv.org/abs/2607.11505)** — This paper proposes a new post-training method for LLMs to enhance domain-specific capabilities through modular updates.
+10. **[Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution](http://arxiv.org/abs/2607.13034v1)** — The research examines LLM agents' ability to assess task complexity and adapt their execution strategies accordingly.
+
+#### Blog Posts
+1. **[Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b)** by prismml.com
+2. **[The zero-cost fallacy: open-source software in the agentic era](https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era)** by thoughtworks.com
+3. **[Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler)** by github.com
+4. **[The Agentic Loop: Three loops in a trench coat](https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a)** by bobbytables.io
+5. **[LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)** by benjamin-bai.com
+6. **[Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)** by agnost.ai
+7. **[8 Things Developers Confidently Explain After Watching One YouTube Video](https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio)** by Sylwia Laskowska
+
+#### Trending Repos
+1. **[google/skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies. ⭐ 14807
+2. **[Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)** — A collection of projects showcasing RAG, agents, workflows, and other AI use cases. ⭐ 13149
+3. **[HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)** — Become a cracked AI/ML Research Engineer. ⭐ 5372
+4. **[PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers)** — Our library for RL environments + evals. ⭐ 4356
+5. **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills. ⭐ 2963
+6. **[AIEraDev/Clypra](https://github.com/AIEraDev/Clypra)** — A modern video editor built with Tauri, React, and TypeScript. ⭐ 2702
+
+</details>
+
+<details>
 <summary><strong>2026-07-14</strong></summary>
 
 #### Papers
