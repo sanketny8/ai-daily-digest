@@ -1,141 +1,122 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "papers": [
     {
-      "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
-      "url": "https://arxiv.org/abs/2607.11886",
-      "summary": "In this paper, we propose SpectraReward, a training-free reward function that turns pretrained MLLMs into off-the-shelf reward models for image-generation reinforcement learning. Instead of asking the"
+      "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
+      "url": "https://arxiv.org/abs/2607.13125",
+      "summary": "We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in"
     },
     {
-      "title": "Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution",
-      "url": "https://arxiv.org/abs/2607.11111",
-      "summary": "LLM-based coding agents have significantly advanced automated software issue resolution, yet they remain highly prone to factual errors caused by insufficient repository understanding. Recent methods "
+      "title": "Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation",
+      "url": "https://arxiv.org/abs/2607.12752",
+      "summary": "While recent advances in 3D generation have enabled impressive visual synthesis, existing methods often rely on 2D diffusion supervision without explicit mechanisms for geometric consistency, leading "
     },
     {
-      "title": "Multi-Agent LLMs Fail to Explore Each Other",
-      "url": "https://arxiv.org/abs/2607.11250",
-      "summary": "Exploration is essential for reliable autonomy in multi-agent systems, yet it remains unclear whether large language model (LLM) agents can explore effectively when interacting with one another. We sh"
+      "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
+      "url": "https://arxiv.org/abs/2607.11523",
+      "summary": "When should an intelligent assistant speak up without being asked? Continuous egocentric video offers rich, evolving context that enables a new form of assistance: one that is proactive rather than me"
     },
     {
-      "title": "Evidence-Backed Video Question Answering",
-      "url": "https://arxiv.org/abs/2607.11862",
-      "summary": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding. Existing explainabi"
+      "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+      "url": "https://arxiv.org/abs/2607.07702",
+      "summary": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policie"
     },
     {
-      "title": "MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning",
-      "url": "https://arxiv.org/abs/2607.11736",
-      "summary": "Language models are increasingly used for moral decision-making across diverse linguistic and cultural contexts, yet existing work overlooks multilinguality on three aspects: 1) multilingual evaluatio"
+      "title": "Tracing Agentic Failure from the Flow of Success",
+      "url": "https://arxiv.org/abs/2607.12747",
+      "summary": "Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems. Existing approa"
     },
     {
-      "title": "A Theory of Contrastive Learning with Natural Images",
-      "url": "https://arxiv.org/abs/2607.07470",
-      "summary": "Why does contrastive learning with simple images and augmentations yield useful representations for downstream tasks? We address this question by analytically computing the optimal representation in t"
+      "title": "MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors",
+      "url": "https://arxiv.org/abs/2607.12000",
+      "summary": "Current visual generation models are capable of producing high-quality content, yet they lack a coherent perception of the spatial structure. Existing generative novel view synthesis methods typically"
     },
     {
-      "title": "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model",
-      "url": "https://arxiv.org/abs/2607.11643",
-      "summary": "Recent foundation image and video generation models offer strong generalization and controllability, but their direct application to embodied scenarios is limited by requirements for multi-view consis"
+      "title": "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch",
+      "url": "https://arxiv.org/abs/2607.13960",
+      "summary": "World Action Models (WAMs) improve robot policy learning by jointly modeling actions and future visual observations, using future scene evolution as dense supervision for physically grounded action ge"
     },
     {
-      "title": "EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos",
-      "url": "https://arxiv.org/abs/2607.09701",
-      "summary": "Steerability is a defining capability of generalist robot policies, yet remains largely absent in dexterous-hand systems for lack of large-scale, language-aligned, and action-accurate demonstration da"
+      "title": "PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails",
+      "url": "https://arxiv.org/abs/2607.05910",
+      "summary": "Image guardrails are typically trained and evaluated under a fixed safety policy, implicitly treating safety as an intrinsic property of an image. Real deployments are different: the same image may be"
     },
     {
-      "title": "Latent-Identity Tuning in Text-to-Image Personalization Models",
-      "url": "https://arxiv.org/abs/2607.11885",
-      "summary": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity. Current personalization and editing methods built on "
+      "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2607.13124",
+      "summary": "Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the same compressed checkpoints can collapse on the free-form gen"
     },
     {
-      "title": "Proxy Exploration and Reusable Guidance: A Modular LLM Post-Training Paradigm via Proxy-Guided Update Signals",
-      "url": "https://arxiv.org/abs/2607.11505",
-      "summary": "Post-training is essential for refining the domain-specific capabilities of large language models (LLMs), yet existing reward optimization and distribution matching methods tightly couple policy explo"
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "url": "https://arxiv.org/abs/2607.12395",
+      "summary": "Reinforcement learning with verifiable rewards without human-annotated data, often referred to as zero RL, has emerged as a powerful paradigm for eliciting chain-of-thought reasoning. However, due to "
     }
   ],
   "blog_posts": [
     {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "author": "prismml.com"
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "author": "thinkingmachines.ai"
     },
     {
-      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-      "url": "https://github.com/juggler-ai/juggler",
+      "title": "Codex Micro",
+      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "author": "openai.com"
+    },
+    {
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "author": "neomindlabs.com"
+    },
+    {
+      "title": "OpenAI loses trademark dispute at EU court",
+      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "author": "dpa-international.com"
+    },
+    {
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "url": "https://brainless.swerdlow.dev",
+      "author": "brainless.swerdlow.dev"
+    },
+    {
+      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+      "url": "https://coasty.ai/docs",
+      "author": "coasty.ai"
+    },
+    {
+      "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+      "url": "https://github.com/1ay1/agentty",
       "author": "github.com"
-    },
-    {
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "author": "thoughtworks.com"
-    },
-    {
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
-      "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "author": "github.com"
-    },
-    {
-      "title": "The Agentic Loop: Three loops in a trench coat",
-      "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
-      "author": "bobbytables.io"
-    },
-    {
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "url": "https://www.benjamin-bai.com/projects/lemario",
-      "author": "benjamin-bai.com"
-    },
-    {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "author": "agnost.ai"
-    },
-    {
-      "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
-      "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
-      "author": "Sylwia Laskowska"
     }
   ],
   "repos": [
     {
-      "name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "stars": 14807,
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars": 66493,
       "language": "Python"
     },
     {
-      "name": "Arindam200/awesome-ai-apps",
-      "url": "https://github.com/Arindam200/awesome-ai-apps",
-      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
-      "stars": 13149,
+      "name": "HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 45679,
       "language": "Python"
     },
     {
-      "name": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "description": "Become a cracked AI/ML Research Engineer",
-      "stars": 5372,
-      "language": "TypeScript"
-    },
-    {
-      "name": "PrimeIntellect-ai/verifiers",
-      "url": "https://github.com/PrimeIntellect-ai/verifiers",
-      "description": "Our library for RL environments + evals",
-      "stars": 4356,
+      "name": "triton-inference-server/server",
+      "url": "https://github.com/triton-inference-server/server",
+      "description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+      "stars": 10842,
       "language": "Python"
     },
     {
-      "name": "kangarooking/cangjie-skill",
-      "url": "https://github.com/kangarooking/cangjie-skill",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
-      "stars": 2963,
-      "language": "Python"
-    },
-    {
-      "name": "AIEraDev/Clypra",
-      "url": "https://github.com/AIEraDev/Clypra",
-      "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
-      "stars": 2702,
-      "language": "TypeScript"
+      "name": "xai-org/grok-build",
+      "url": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "stars": 5656,
+      "language": "Rust"
     }
   ],
   "tweets": []

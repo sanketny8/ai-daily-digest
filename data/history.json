@@ -1,36 +1,4 @@
 {
-  "2026-06-15": {
-    "papers": [
-      "https://arxiv.org/abs/2606.14694",
-      "https://arxiv.org/abs/2606.12291",
-      "https://arxiv.org/abs/2606.13141",
-      "https://arxiv.org/abs/2606.02641",
-      "https://arxiv.org/abs/2605.30789",
-      "https://arxiv.org/abs/2606.12736",
-      "https://arxiv.org/abs/2606.12384",
-      "https://arxiv.org/abs/2606.06309",
-      "https://arxiv.org/abs/2606.10813",
-      "https://arxiv.org/abs/2606.00793"
-    ],
-    "blogs": [
-      "https://github.com/nex-agi/Nex-N2/issues/4",
-      "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-      "https://twitter.com/zenmagnets/status/2065796012820848699",
-      "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-      "https://github.com/DietrichGebert/ponytail",
-      "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/"
-    ],
-    "repos": [
-      "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "https://github.com/OpenHands/OpenHands",
-      "https://github.com/openinterpreter/openinterpreter",
-      "https://github.com/GorvGoyl/Clone-Wars",
-      "https://github.com/DietrichGebert/ponytail",
-      "https://github.com/Ar9av/obsidian-wiki",
-      "https://github.com/omnigent-ai/omnigent",
-      "https://github.com/plannotator/effective-html"
-    ]
-  },
   "2026-06-16": {
     "papers": [
       "https://arxiv.org/abs/2606.14819",
@@ -930,6 +898,35 @@
       "https://github.com/PrimeIntellect-ai/verifiers",
       "https://github.com/kangarooking/cangjie-skill",
       "https://github.com/AIEraDev/Clypra"
+    ]
+  },
+  "2026-07-16": {
+    "papers": [
+      "https://arxiv.org/abs/2607.13125",
+      "https://arxiv.org/abs/2607.12752",
+      "https://arxiv.org/abs/2607.11523",
+      "https://arxiv.org/abs/2607.07702",
+      "https://arxiv.org/abs/2607.12747",
+      "https://arxiv.org/abs/2607.12000",
+      "https://arxiv.org/abs/2607.13960",
+      "https://arxiv.org/abs/2607.05910",
+      "https://arxiv.org/abs/2607.13124",
+      "https://arxiv.org/abs/2607.12395"
+    ],
+    "blogs": [
+      "https://thinkingmachines.ai/news/introducing-inkling/",
+      "https://openai.com/supply/co-lab/work-louder/",
+      "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "https://brainless.swerdlow.dev",
+      "https://coasty.ai/docs",
+      "https://github.com/1ay1/agentty"
+    ],
+    "repos": [
+      "https://github.com/datawhalechina/hello-agents",
+      "https://github.com/HKUDS/nanobot",
+      "https://github.com/triton-inference-server/server",
+      "https://github.com/xai-org/grok-build"
     ]
   }
 }

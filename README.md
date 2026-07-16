@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-16</strong></summary>
+
+#### Papers
+1. **[Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2607.13125)** — A new open-source model family for multimodal understanding and generation with competitive performance.
+2. **[Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation](https://arxiv.org/abs/2607.12752)** — This paper addresses geometric consistency in 3D generation, improving visual synthesis methods.
+3. **[Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos](https://arxiv.org/abs/2607.11523)** — Proposes a proactive intelligent assistant model that utilizes continuous video context for timely assistance.
+4. **[From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization](https://arxiv.org/abs/2607.07702)** — Introduces a method for diagnosing agent failures using LLMs to optimize long-horizon agents.
+5. **[Tracing Agentic Failure from the Flow of Success](https://arxiv.org/abs/2607.12747)** — Focuses on identifying failure points in LLM-based systems to enhance debugging and performance.
+6. **[MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors](https://arxiv.org/abs/2607.12000)** — A novel approach to generating high-quality visual content with improved spatial structure perception.
+7. **[GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch](https://arxiv.org/abs/2607.13960)** — Enhances robot policy learning through improved action modeling and future scene supervision.
+8. **[PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails](https://arxiv.org/abs/2607.05910)** — Evaluates and enhances image safety policies for real-world applications.
+9. **[ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation](https://arxiv.org/abs/2607.13124)** — Addresses challenges in structured pruning of LLMs for effective free-form generation.
+10. **[Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)** — Explores reinforcement learning without human-annotated data, focusing on reasoning capabilities.
+
+#### Blog Posts
+1. **[Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)** by thinkingmachines.ai
+2. **[Codex Micro](https://openai.com/supply/co-lab/work-louder/)** by openai.com
+3. **[Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/)** by neomindlabs.com
+4. **[OpenAI loses trademark dispute at EU court](https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/)** by dpa-international.com
+5. **[Brainless: Shadcn components that look like Claude Code, Codex and Grok](https://brainless.swerdlow.dev)** by brainless.swerdlow.dev
+6. **[Launch HN: Coasty (YC S26) – An API for computer-use agents](https://coasty.ai/docs)** by coasty.ai
+7. **[Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary](https://github.com/1ay1/agentty)** by github.com
+
+#### Trending Repos
+1. **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** — A comprehensive tutorial on building intelligent agents from scratch. ⭐ 66493
+2. **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** — Lightweight, open-source AI agent for tools, chats, and workflows. ⭐ 45679
+3. **[triton-inference-server/server](https://github.com/triton-inference-server/server)** — Optimized cloud and edge inferencing solution. ⭐ 10842
+4. **[xai-org/grok-build](https://github.com/xai-org/grok-build)** — SpaceXAI's coding agent harness with a mouse interactive TUI. ⭐ 5656
+
+</details>
+
+<details>
 <summary><strong>2026-07-15</strong></summary>
 
 #### Papers
