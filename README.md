@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-17</strong></summary>
+
+#### Papers
+1. **[DeepLoop: Depth Scaling for Looped Transformers](https://arxiv.org/abs/2607.13491)** — This paper introduces a method to scale sequential computation in Transformers without increasing stored parameters.
+2. **[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935)** — Discusses advancements in video understanding for real-world applications, focusing on open-source models.
+3. **[MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation](https://arxiv.org/abs/2607.14189)** — Proposes a framework for evaluating audio-video generation based on multiple references and textual instructions.
+4. **[Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations](https://arxiv.org/abs/2607.13399)** — Explores the dynamics of on-policy distillation in large language models, revealing its complexities and challenges.
+5. **[Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes](https://arxiv.org/abs/2607.13188)** — Introduces a model that simultaneously understands and generates content, mimicking human cognitive processes.
+6. **[SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](https://arxiv.org/abs/2607.15257)** — Addresses challenges in agent collaboration for information-seeking tasks, enhancing web search capabilities.
+7. **[BadWAM: When World-Action Models Dream Right but Act Wrong](https://arxiv.org/abs/2607.15207)** — Investigates the limitations of world-action models in embodied control, focusing on action generation and future predictions.
+8. **[SceneBind: Binding What and Where Across Vision, Audio and Language](http://arxiv.org/abs/2607.15265v1)** — Presents a multi-modal representation framework that integrates vision, audio, and language for scene understanding.
+9. **[Pretraining Data Can Be Poisoned through Computational Propaganda](http://arxiv.org/abs/2607.15267v1)** — Discusses how malicious data can corrupt language models, making harmful behaviors difficult to detect.
+10. **[SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions](http://arxiv.org/abs/2607.15272v1)** — Explores automated editing of scientific diagrams, streamlining the revision process for researchers.
+
+#### Blog Posts
+1. **[NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)** by blog.google
+2. **[LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)** by lmstudio.ai
+3. **[$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)** by tryai.dev
+4. **[Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)** by blog.lyc8503.net
+5. **[German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)** by the-decoder.com
+6. **[How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)** by zhinit.dev
+7. **[AI Data Centers and the Concentration of Wealth](https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html)** by brn
+
+#### Trending Repos
+1. **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — Organizes AI agents into operations for efficient management. ⭐ 80249
+2. **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** — A coding agent for open models like Kimi K3. ⭐ 66052
+3. **[PostHog/posthog](https://github.com/PostHog/posthog)** — Platform for building self-driving products with various developer tools. ⭐ 35916
+4. **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source plugins for knowledge workers using Claude Cowork. ⭐ 22795
+5. **[HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)** — Open Agent Harness with a built-in personal agent. ⭐ 14871
+6. **[github/copilot-sdk](https://github.com/github/copilot-sdk)** — SDK for integrating GitHub Copilot Agent into applications. ⭐ 9684
+
+</details>
+
+<details>
 <summary><strong>2026-07-16</strong></summary>
 
 #### Papers

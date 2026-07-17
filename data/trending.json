@@ -1,122 +1,136 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "papers": [
     {
-      "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
-      "url": "https://arxiv.org/abs/2607.13125",
-      "summary": "We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in"
+      "title": "DeepLoop: Depth Scaling for Looped Transformers",
+      "url": "https://arxiv.org/abs/2607.13491",
+      "summary": "Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes "
     },
     {
-      "title": "Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation",
-      "url": "https://arxiv.org/abs/2607.12752",
-      "summary": "While recent advances in 3D generation have enabled impressive visual synthesis, existing methods often rely on 2D diffusion supervision without explicit mechanisms for geometric consistency, leading "
+      "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
+      "url": "https://arxiv.org/abs/2607.14935",
+      "summary": "Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models "
     },
     {
-      "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
-      "url": "https://arxiv.org/abs/2607.11523",
-      "summary": "When should an intelligent assistant speak up without being asked? Continuous egocentric video offers rich, evolving context that enables a new form of assistance: one that is proactive rather than me"
+      "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
+      "url": "https://arxiv.org/abs/2607.14189",
+      "summary": "Multi-reference-to-audio-video (MR2AV) generation aims to generate coherent audio-video content conditioned on multiple references and textual instructions. Existing benchmarks mainly focus on text-dr"
     },
     {
-      "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
-      "url": "https://arxiv.org/abs/2607.07702",
-      "summary": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policie"
+      "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
+      "url": "https://arxiv.org/abs/2607.14202",
+      "summary": "Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning,"
     },
     {
-      "title": "Tracing Agentic Failure from the Flow of Success",
-      "url": "https://arxiv.org/abs/2607.12747",
-      "summary": "Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems. Existing approa"
+      "title": "Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations",
+      "url": "https://arxiv.org/abs/2607.13399",
+      "summary": "On-policy distillation (OPD) has become a key paradigm in LLM post-training, yet its training dynamics remain poorly understood. We present a systematic study examining the role, pathologies, and regu"
     },
     {
-      "title": "MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors",
-      "url": "https://arxiv.org/abs/2607.12000",
-      "summary": "Current visual generation models are capable of producing high-quality content, yet they lack a coherent perception of the spatial structure. Existing generative novel view synthesis methods typically"
+      "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
+      "url": "https://arxiv.org/abs/2607.13188",
+      "summary": "Human cognition does not separate understanding and generation. A teacher at a whiteboard speaks and draws together, each modality reshapes the other. In this paper, we bring this coupled loop to arti"
     },
     {
-      "title": "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch",
-      "url": "https://arxiv.org/abs/2607.13960",
-      "summary": "World Action Models (WAMs) improve robot policy learning by jointly modeling actions and future visual observations, using future scene evolution as dense supervision for physically grounded action ge"
+      "title": "WanSong v1.0 Technical Report",
+      "url": "https://arxiv.org/abs/2607.14749",
+      "summary": "Music generation foundation models have recently attracted significant industry attention. However, achieving efficient generation and high-fidelity long-form audio while supporting controllability re"
     },
     {
-      "title": "PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails",
-      "url": "https://arxiv.org/abs/2607.05910",
-      "summary": "Image guardrails are typically trained and evaluated under a fixed safety policy, implicitly treating safety as an intrinsic property of an image. Real deployments are different: the same image may be"
+      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+      "url": "https://arxiv.org/abs/2607.15257",
+      "summary": "Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to t"
     },
     {
-      "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2607.13124",
-      "summary": "Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the same compressed checkpoints can collapse on the free-form gen"
+      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+      "url": "https://arxiv.org/abs/2607.15207",
+      "summary": "World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world"
     },
     {
-      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
-      "url": "https://arxiv.org/abs/2607.12395",
-      "summary": "Reinforcement learning with verifiable rewards without human-annotated data, often referred to as zero RL, has emerged as a powerful paradigm for eliciting chain-of-thought reasoning. However, due to "
+      "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+      "url": "https://arxiv.org/abs/2607.15273",
+      "summary": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a power"
     }
   ],
   "blog_posts": [
     {
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "author": "thinkingmachines.ai"
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "author": "blog.google"
     },
     {
-      "title": "Codex Micro",
-      "url": "https://openai.com/supply/co-lab/work-louder/",
-      "author": "openai.com"
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "author": "lmstudio.ai"
     },
     {
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "author": "neomindlabs.com"
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "author": "tryai.dev"
     },
     {
-      "title": "OpenAI loses trademark dispute at EU court",
-      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
-      "author": "dpa-international.com"
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "author": "blog.lyc8503.net"
     },
     {
-      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "url": "https://brainless.swerdlow.dev",
-      "author": "brainless.swerdlow.dev"
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "author": "the-decoder.com"
     },
     {
-      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-      "url": "https://coasty.ai/docs",
-      "author": "coasty.ai"
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "author": "zhinit.dev"
     },
     {
-      "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
-      "url": "https://github.com/1ay1/agentty",
-      "author": "github.com"
+      "title": "AI Data Centers and the Concentration of Wealth",
+      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+      "author": "brn"
     }
   ],
   "repos": [
     {
-      "name": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": 66493,
-      "language": "Python"
+      "name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "stars": 80249,
+      "language": "TypeScript"
     },
     {
-      "name": "HKUDS/nanobot",
-      "url": "https://github.com/HKUDS/nanobot",
-      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 45679,
-      "language": "Python"
-    },
-    {
-      "name": "triton-inference-server/server",
-      "url": "https://github.com/triton-inference-server/server",
-      "description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
-      "stars": 10842,
-      "language": "Python"
-    },
-    {
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "stars": 5656,
+      "name": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "stars": 66052,
       "language": "Rust"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al",
+      "stars": 35916,
+      "language": "Python"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 22795,
+      "language": "Python"
+    },
+    {
+      "name": "HKUDS/OpenHarness",
+      "url": "https://github.com/HKUDS/OpenHarness",
+      "description": "\"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!\"",
+      "stars": 14871,
+      "language": "Python"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 9684,
+      "language": "Java"
     }
   ],
   "tweets": []

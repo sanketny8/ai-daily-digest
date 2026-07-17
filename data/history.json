@@ -1,35 +1,4 @@
 {
-  "2026-06-16": {
-    "papers": [
-      "https://arxiv.org/abs/2606.14819",
-      "https://arxiv.org/abs/2606.16011",
-      "https://arxiv.org/abs/2606.15673",
-      "https://arxiv.org/abs/2606.16449",
-      "https://arxiv.org/abs/2606.17046",
-      "https://arxiv.org/abs/2606.14142",
-      "https://arxiv.org/abs/2606.14832",
-      "https://arxiv.org/abs/2606.15708",
-      "https://arxiv.org/abs/2606.06302",
-      "https://arxiv.org/abs/2606.14777"
-    ],
-    "blogs": [
-      "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "https://github.com/sammysltd/euromesh",
-      "https://www.anthropic.com/news/claude-corps",
-      "https://www.wheresyoured.at/exclusive-openai-financials/",
-      "https://shonczinner.github.io/posts/embedding-prediction/",
-      "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
-      "https://dev.to/dannwaneri/has-sloan-flagged-your-article-lately-1gmh",
-      "https://dev.to/ryantsuji/ai-isnt-something-to-trust-its-something-to-design-series-final-30aa"
-    ],
-    "repos": [
-      "https://github.com/mikeroyal/Self-Hosting-Guide",
-      "https://github.com/trycua/cua",
-      "https://github.com/teslamate-org/teslamate",
-      "https://github.com/shuvonsec/claude-bug-bounty",
-      "https://github.com/orange2ai/renwei-writing"
-    ]
-  },
   "2026-06-17": {
     "papers": [
       "https://arxiv.org/abs/2606.15378",
@@ -927,6 +896,37 @@
       "https://github.com/HKUDS/nanobot",
       "https://github.com/triton-inference-server/server",
       "https://github.com/xai-org/grok-build"
+    ]
+  },
+  "2026-07-17": {
+    "papers": [
+      "https://arxiv.org/abs/2607.13491",
+      "https://arxiv.org/abs/2607.14935",
+      "https://arxiv.org/abs/2607.14189",
+      "https://arxiv.org/abs/2607.14202",
+      "https://arxiv.org/abs/2607.13399",
+      "https://arxiv.org/abs/2607.13188",
+      "https://arxiv.org/abs/2607.14749",
+      "https://arxiv.org/abs/2607.15257",
+      "https://arxiv.org/abs/2607.15207",
+      "https://arxiv.org/abs/2607.15273"
+    ],
+    "blogs": [
+      "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html"
+    ],
+    "repos": [
+      "https://github.com/lobehub/lobehub",
+      "https://github.com/openinterpreter/openinterpreter",
+      "https://github.com/PostHog/posthog",
+      "https://github.com/anthropics/knowledge-work-plugins",
+      "https://github.com/HKUDS/OpenHarness",
+      "https://github.com/github/copilot-sdk"
     ]
   }
 }
