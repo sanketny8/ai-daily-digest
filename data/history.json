@@ -1,33 +1,4 @@
 {
-  "2026-06-17": {
-    "papers": [
-      "https://arxiv.org/abs/2606.15378",
-      "https://arxiv.org/abs/2606.17905",
-      "https://arxiv.org/abs/2606.15142",
-      "https://arxiv.org/abs/2606.15236",
-      "https://arxiv.org/abs/2606.17200",
-      "https://arxiv.org/abs/2606.18246",
-      "https://arxiv.org/abs/2606.17321",
-      "https://arxiv.org/abs/2606.18023",
-      "https://arxiv.org/abs/2606.18216",
-      "https://arxiv.org/abs/2606.17628"
-    ],
-    "blogs": [
-      "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "https://qwen.ai/blog?id=qwen-robotsuite",
-      "https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e",
-      "https://dev.to/xulingfeng/a-company-ai-flagged-my-article-as-low-quality-i-ran-the-numbers-then-i-ran-again-1h0p",
-      "https://dev.to/hadil/browseract-vs-playwright-where-test-automation-hits-real-world-anti-bot-friction-hands-on-432l",
-      "https://medium.com/@himanshsaini417/what-competitive-programming-taught-me-that-ai-tutorials-never-did-3528300a0c36"
-    ],
-    "repos": [
-      "https://github.com/google-research/timesfm",
-      "https://github.com/microsoft/fara",
-      "https://github.com/moorcheh-ai/memanto",
-      "https://github.com/DanMcInerney/architect-loop"
-    ]
-  },
   "2026-06-18": {
     "papers": [
       "https://arxiv.org/abs/2606.19341",
@@ -927,6 +898,37 @@
       "https://github.com/anthropics/knowledge-work-plugins",
       "https://github.com/HKUDS/OpenHarness",
       "https://github.com/github/copilot-sdk"
+    ]
+  },
+  "2026-07-18": {
+    "papers": [
+      "https://arxiv.org/abs/2607.09061",
+      "https://arxiv.org/abs/2607.12227",
+      "https://arxiv.org/abs/2607.14387",
+      "https://arxiv.org/abs/2607.15278",
+      "https://arxiv.org/abs/2607.14187",
+      "https://arxiv.org/abs/2607.14106",
+      "https://arxiv.org/abs/2607.15058",
+      "https://arxiv.org/abs/2607.10995",
+      "https://arxiv.org/abs/2607.14952",
+      "https://arxiv.org/abs/2607.14660"
+    ],
+    "blogs": [
+      "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "https://pramodaiml.medium.com/we-have-been-asking-the-wrong-question-about-ai-and-society-33a0290a887f",
+      "https://medium.com/@ifstevenistrue/ai-content-should-earn-its-indexability-a-practical-publication-gate-be35212c4264",
+      "https://medium.com/@ar3942050/why-we-trust-ai-generated-code-before-we-verify-it-a7e7af0df70f",
+      "https://medium.com/@datablize/the-ai-revolution-in-indias-msme-sector-isn-t-happening-in-the-cloud-it-s-happening-on-premise-a953e2cff032"
+    ],
+    "repos": [
+      "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "https://github.com/tirth8205/code-review-graph",
+      "https://github.com/RyanCodrai/turbovec",
+      "https://github.com/PurpleAILAB/Decepticon",
+      "https://github.com/aws/agent-toolkit-for-aws",
+      "https://github.com/PrismML-Eng/Bonsai-demo",
+      "https://github.com/anthropics/cwc-workshops"
     ]
   }
 }

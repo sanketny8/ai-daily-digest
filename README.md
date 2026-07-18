@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-18</strong></summary>
+
+#### Papers
+1. **[On Locality and Length Generalization in Visual Reasoning](https://arxiv.org/abs/2607.09061)** — This paper explores how human vision processes information through local glimpses rather than a global view.
+2. **[Rethinking the Evaluation of Harness Evolution for Agents](https://arxiv.org/abs/2607.12227)** — It critiques current methods for evaluating LLM agents and proposes improved performance metrics.
+3. **[Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving](https://arxiv.org/abs/2607.14387)** — Introduces a framework for generating diverse test scenarios for validating autonomous driving systems.
+4. **[RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination](https://arxiv.org/abs/2607.14187)** — Proposes a model that integrates language and visual reasoning for embodied cognition tasks.
+5. **[VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance](https://arxiv.org/abs/2607.14660)** — A benchmark aimed at improving visual assistance technologies for visually impaired individuals.
+6. **[Token Time Continuous Diffusion for Language Modeling](https://arxiv.org/abs/2607.14106)** — Introduces a novel diffusion language model that operates in continuous space for improved token generation.
+7. **[LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://arxiv.org/abs/2607.14952)** — Addresses the challenge of scaling reinforcement learning context lengths while managing GPU resources.
+8. **[SceneBind: Binding What and Where Across Vision, Audio and Language](http://arxiv.org/abs/2607.15265v1)** — Presents a multi-modal representation that integrates understanding across vision, audio, and language.
+9. **[Pretraining Data Can Be Poisoned through Computational Propaganda](http://arxiv.org/abs/2607.15267v1)** — Discusses the risks of data poisoning in pretraining language models and its implications.
+10. **[Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](http://arxiv.org/abs/2607.15277v1)** — Explores in-context learning as a form of conditional inference in language models.
+
+#### Blog Posts
+1. **[Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166)** by ft.com
+2. **[VulnHunter: Capital One's agentic AI code security tool](https://www.capitalone.com/tech/open-source/announcing-vulnhunter/)** by capitalone.com
+3. **[We Have Been Asking the Wrong Question About AI and Society.](https://pramodaiml.medium.com/we-have-been-asking-the-wrong-question-about-ai-and-society-33a0290a887f)** by @pramodchandrayan
+4. **[AI Content Should Earn Its Indexability: A Practical Publication Gate](https://medium.com/@ifstevenistrue/ai-content-should-earn-its-indexability-a-practical-publication-gate-be35212c4264)** by Steven Shen
+5. **[Why We Trust AI-Generated Code Before We Verify It](https://medium.com/@ar3942050/why-we-trust-ai-generated-code-before-we-verify-it-a7e7af0df70f)** by Virtuanest Studio
+6. **[The AI Revolution in India’s MSME Sector Isn’t Happening in the Cloud. It’s Happening On-Premise](https://medium.com/@datablize/the-ai-revolution-in-indias-msme-sector-isn-t-happening-in-the-cloud-it-s-happening-on-premise-a953e2cff032)** by Datablize
+
+#### Trending Repos
+1. **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others. ⭐ 38805
+2. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. ⭐ 19822
+3. **[RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)** — A vector index built on TurboQuant, written in Rust with Python bindings. ⭐ 13378
+4. **[PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon)** — Autonomous Hacking Agent for Red Team. ⭐ 4802
+5. **[aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)** — Official, AWS-supported MCP servers, skills, and plugins for AI agents. ⭐ 1948
+6. **[PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)** — Bonsai Demo. ⭐ 1736
+7. **[anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops)** —  ⭐ 1618
+
+</details>
+
+<details>
 <summary><strong>2026-07-17</strong></summary>
 
 #### Papers
