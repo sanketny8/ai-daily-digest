@@ -1,39 +1,4 @@
 {
-  "2026-06-18": {
-    "papers": [
-      "https://arxiv.org/abs/2606.19341",
-      "https://arxiv.org/abs/2606.17539",
-      "https://arxiv.org/abs/2606.18322",
-      "https://arxiv.org/abs/2606.18101",
-      "https://arxiv.org/abs/2606.19005",
-      "https://arxiv.org/abs/2606.14383",
-      "https://arxiv.org/abs/2606.16533",
-      "https://arxiv.org/abs/2606.19336",
-      "https://arxiv.org/abs/2606.18375",
-      "https://arxiv.org/abs/2606.18943"
-    ],
-    "blogs": [
-      "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "https://claude.com/blog/the-founders-playbook",
-      "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
-      "https://artificialanalysis.ai/models/glm-5-2",
-      "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-      "https://github.com/evanklem/polypore",
-      "https://nathan.rs/posts/gzip-lm/",
-      "https://openai.com/index/ai-chemist-improves-reaction/",
-      "https://dev.to/pablonax/how-i-use-premortems-with-claude-and-codex-46mm"
-    ],
-    "repos": [
-      "https://github.com/mattpocock/skills",
-      "https://github.com/infiniflow/ragflow",
-      "https://github.com/PaddlePaddle/PaddleOCR",
-      "https://github.com/bytedance/UI-TARS-desktop",
-      "https://github.com/Alishahryar1/free-claude-code",
-      "https://github.com/continuedev/continue",
-      "https://github.com/microsoft/RD-Agent",
-      "https://github.com/yairm210/Unciv"
-    ]
-  },
   "2026-06-19": {
     "papers": [
       "https://arxiv.org/abs/2604.13416",
@@ -929,6 +894,39 @@
       "https://github.com/aws/agent-toolkit-for-aws",
       "https://github.com/PrismML-Eng/Bonsai-demo",
       "https://github.com/anthropics/cwc-workshops"
+    ]
+  },
+  "2026-07-19": {
+    "papers": [
+      "http://arxiv.org/abs/2607.15277v1",
+      "http://arxiv.org/abs/2607.15275v1",
+      "http://arxiv.org/abs/2607.15273v1",
+      "http://arxiv.org/abs/2607.15272v1",
+      "http://arxiv.org/abs/2607.15271v1",
+      "http://arxiv.org/abs/2607.15267v1",
+      "http://arxiv.org/abs/2607.15265v1",
+      "http://arxiv.org/abs/2607.15263v1",
+      "http://arxiv.org/abs/2607.15258v1",
+      "http://arxiv.org/abs/2607.15257v1"
+    ],
+    "blogs": [
+      "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "https://calculus.academa.ai/",
+      "https://medium.com/@abiralmahafuz/i-didnt-need-better-prompts-i-needed-a-better-mental-model-7da2c50a6acf",
+      "https://satynath.medium.com/sunil-narine-is-38-and-still-winning-finals-why-are-experienced-professionals-giving-up-on-ai-6867bbc35941",
+      "https://medium.com/@pdelsignore/youre-paying-for-intelligence-twice-51fd87eccccf",
+      "https://synapticloop.medium.com/the-inevitable-future-of-ai-and-why-hosted-ai-is-probably-doomed-8c51244e8782",
+      "https://medium.com/@kadenjeong/how-to-rank-in-ai-search-the-complete-aeo-guide-for-2026-423f48de0447",
+      "https://medium.com/@krishnafattepurkar/building-the-production-llm-pipeline-rag-fine-tuning-and-evaluation-as-code-part-3-559646679ebc"
+    ],
+    "repos": [
+      "https://github.com/lyogavin/airllm",
+      "https://github.com/elder-plinius/G0DM0D3",
+      "https://github.com/MoonshotAI/kimi-cli",
+      "https://github.com/KnockOutEZ/wigolo",
+      "https://github.com/apache/ossie",
+      "https://github.com/nethical6/conversation-steganography",
+      "https://github.com/PengZhang64/circuit-framework"
     ]
   }
 }

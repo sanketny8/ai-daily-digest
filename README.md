@@ -10,6 +10,42 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-19</strong></summary>
+
+#### Papers
+1. **[Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](http://arxiv.org/abs/2607.15277v1)** — This paper explores in-context learning as conditional inference, enhancing understanding of language model outputs.
+2. **[RoboTTT: Context Scaling for Robot Policies](http://arxiv.org/abs/2607.15275v1)** — Introduces a new robot model that scales visuomotor context for improved policy training and performance.
+3. **[Pretraining Data Can Be Poisoned through Computational Propaganda](http://arxiv.org/abs/2607.15267v1)** — Discusses how harmful behaviors can be introduced into language models via poisoned pretraining data.
+4. **[SceneBind: Binding What and Where Across Vision, Audio and Language](http://arxiv.org/abs/2607.15265v1)** — Presents an omni-modal representation for understanding scenes across different sensory modalities.
+5. **[Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier](http://arxiv.org/abs/2607.15258v1)** — Analyzes Bitcoin market behavior using a new sentiment classification approach based on blockchain data.
+6. **[MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators](http://arxiv.org/abs/2607.15273v1)** — Proposes a method for efficient generation using reinforcement learning to predict average velocities.
+7. **[SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](http://arxiv.org/abs/2607.15257v1)** — Explores enhancing information-seeking agents' capabilities through improved web search integration.
+8. **[Online Neural Space Time Memory for Dynamic Novel View Synthesis](http://arxiv.org/abs/2607.15271v1)** — Addresses challenges in synthesizing novel views from streaming videos with a focus on memory management.
+9. **[Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents](http://arxiv.org/abs/2607.15263v1)** — Proposes a new evaluation framework for security agents that considers cost-effectiveness beyond just success rates.
+10. **[SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions](http://arxiv.org/abs/2607.15272v1)** — Introduces a method for automating the editing of scientific diagrams based on revisions in research papers.
+
+#### Blog Posts
+1. **[GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)** by old.reddit.com
+2. **[LLM-Integrated Multivariable Calculus Course](https://calculus.academa.ai/)** by calculus.academa.ai
+3. **[I Didn’t Need Better Prompts. I Needed a Better Mental Model.](https://medium.com/@abiralmahafuz/i-didnt-need-better-prompts-i-needed-a-better-mental-model-7da2c50a6acf)** by Abiralmahafuz
+4. **[Sunil Narine Is 38 and Still Winning Finals. Why Are Experienced Professionals Giving Up on AI?](https://satynath.medium.com/sunil-narine-is-38-and-still-winning-finals-why-are-experienced-professionals-giving-up-on-ai-6867bbc35941)** by Satyajit Nath
+5. **[You’re Paying for Intelligence Twice](https://medium.com/@pdelsignore/youre-paying-for-intelligence-twice-51fd87eccccf)** by Paul DelSignore
+6. **[The Inevitable Future Of AI And Why Hosted AI is Probably Doomed](https://synapticloop.medium.com/the-inevitable-future-of-ai-and-why-hosted-ai-is-probably-doomed-8c51244e8782)** by synapticloop
+7. **[How to Rank in AI Search: The Complete AEO Guide for 2026](https://medium.com/@kadenjeong/how-to-rank-in-ai-search-the-complete-aeo-guide-for-2026-423f48de0447)** by Kadenjeong
+8. **[Building the Production LLM Pipeline RAG, Fine-Tuning, and Evaluation as Code Part-3](https://medium.com/@krishnafattepurkar/building-the-production-llm-pipeline-rag-fine-tuning-and-evaluation-as-code-part-3-559646679ebc)** by Krishna Fattepurkar
+
+#### Trending Repos
+1. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** — AirLLM 70B inference with single 4GB GPU. ⭐ 23386
+2. **[elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)** — LIBERATED AI CHAT. ⭐ 9556
+3. **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** — Kimi Code CLI is your next CLI agent. ⭐ 9548
+4. **[KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo)** — Local-first search, fetch, crawl & research over MCP. No API keys, no cloud. ⭐ 1319
+5. **[apache/ossie](https://github.com/apache/ossie)** — Standardizing semantic metadata exchange across analytics, AI, and BI platforms. ⭐ 1308
+6. **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** — Use LLMs to hide messages inside normal looking conversations. ⭐ 722
+7. **[PengZhang64/circuit-framework](https://github.com/PengZhang64/circuit-framework)** — Multi-agent LLM trading research system. ⭐ 483
+
+</details>
+
+<details>
 <summary><strong>2026-07-18</strong></summary>
 
 #### Papers
