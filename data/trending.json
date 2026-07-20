@@ -1,148 +1,129 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "papers": [
     {
-      "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-      "url": "http://arxiv.org/abs/2607.15277v1",
-      "summary": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona"
+      "title": "Qwen-Music Technical Report",
+      "url": "https://arxiv.org/abs/2607.11699",
+      "summary": "In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: "
     },
     {
-      "title": "RoboTTT: Context Scaling for Robot Policies",
-      "url": "http://arxiv.org/abs/2607.15275v1",
-      "summary": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu"
+      "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+      "url": "https://arxiv.org/abs/2607.14088",
+      "summary": "Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can li"
     },
     {
-      "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
-      "url": "http://arxiv.org/abs/2607.15273v1",
-      "summary": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a power"
+      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
+      "url": "https://arxiv.org/abs/2607.15330",
+      "summary": "We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen en"
     },
     {
-      "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
-      "url": "http://arxiv.org/abs/2607.15272v1",
-      "summary": "Editing the figures in a research paper is a routine and time-consuming part of everyday research practice: authors relabel components, rearrange panels, and restyle visuals as they revise their manus"
+      "title": "On-Policy Delta Distillation",
+      "url": "https://arxiv.org/abs/2607.15161",
+      "summary": "On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher mod"
     },
     {
-      "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
-      "url": "http://arxiv.org/abs/2607.15271v1",
-      "summary": "Online novel view synthesis from multi-view streaming videos faces a fundamental trade-off: maintaining a persistent, long-horizon memory to reconstruct temporarily occluded regions while operating un"
+      "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
+      "url": "https://arxiv.org/abs/2607.15901",
+      "summary": "Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottlenec"
     },
     {
-      "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
-      "url": "http://arxiv.org/abs/2607.15267v1",
-      "summary": "Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources suc"
+      "title": "xHC: Expanded Hyper-Connections",
+      "url": "https://arxiv.org/abs/2607.14530",
+      "summary": "Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes thi"
     },
     {
-      "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
-      "url": "http://arxiv.org/abs/2607.15265v1",
-      "summary": "We present SceneBind, an omni-modal representation of realistic scenes with joint semantic and 3D spatial understanding across vision, audio and language. Existing omni-modal encoders excel at instanc"
+      "title": "Recursive Harness Self-Improvement",
+      "url": "https://arxiv.org/abs/2607.15524",
+      "summary": "Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in"
     },
     {
-      "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
-      "url": "http://arxiv.org/abs/2607.15263v1",
-      "summary": "Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completio"
+      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+      "url": "https://arxiv.org/abs/2607.15314",
+      "summary": "Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient co"
     },
     {
-      "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
-      "url": "http://arxiv.org/abs/2607.15258v1",
-      "summary": "The growing use of Bitcoin as a decentralized digital asset and investment tool has sparked strong interest in understanding its market behavior. This study presents a new approach to analyze Bitcoin "
+      "title": "Loop the Loopies!",
+      "url": "https://arxiv.org/abs/2607.16051",
+      "summary": "We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter mo"
     },
     {
-      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-      "url": "http://arxiv.org/abs/2607.15257v1",
-      "summary": "Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to t"
+      "title": "Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos",
+      "url": "https://arxiv.org/abs/2607.16107",
+      "summary": "We present Audio-Visual Flamingo (AV-Flamingo), a fully open state-of-the-art audio-visual large language model (AV-LLM) for joint understanding and reasoning over audio, images, and long-form videos."
     }
   ],
   "blog_posts": [
     {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "author": "old.reddit.com"
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "author": "github.com"
     },
     {
-      "title": "LLM-Integrated Multivariable Calculus Course",
-      "url": "https://calculus.academa.ai/",
-      "author": "calculus.academa.ai"
+      "title": "Ollama: All Aboard Open Models",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "author": "ollama.com"
     },
     {
-      "title": "I Didn’t Need Better Prompts. I Needed a Better Mental Model.",
-      "url": "https://medium.com/@abiralmahafuz/i-didnt-need-better-prompts-i-needed-a-better-mental-model-7da2c50a6acf",
-      "author": "Abiralmahafuz"
+      "title": "Anthropic runs large-scale code migrations with Claude Code",
+      "url": "https://claude.com/blog/ai-code-migration",
+      "author": "claude.com"
     },
     {
-      "title": "Sunil Narine Is 38 and Still Winning Finals. Why Are Experienced Professionals Giving Up on AI?",
-      "url": "https://satynath.medium.com/sunil-narine-is-38-and-still-winning-finals-why-are-experienced-professionals-giving-up-on-ai-6867bbc35941",
-      "author": "Satyajit Nath"
+      "title": "Building AI Agents for Social Media with TypeScript and Hono.js",
+      "url": "https://dev.to/mayu2008/building-ai-agents-for-social-media-with-typescript-and-honojs-4lgp",
+      "author": "Mayuresh Smita Suresh"
     },
     {
-      "title": "You’re Paying for Intelligence Twice",
-      "url": "https://medium.com/@pdelsignore/youre-paying-for-intelligence-twice-51fd87eccccf",
-      "author": "Paul DelSignore"
+      "title": "Google Updates Gemma 4: The best Small LLM is back !!",
+      "url": "https://medium.com/data-science-in-your-pocket/google-updates-gemma-4-the-best-small-llm-is-back-86018f0e2afd",
+      "author": "Mehul Gupta"
     },
     {
-      "title": "The Inevitable Future Of AI And Why Hosted AI is Probably Doomed",
-      "url": "https://synapticloop.medium.com/the-inevitable-future-of-ai-and-why-hosted-ai-is-probably-doomed-8c51244e8782",
-      "author": "synapticloop"
+      "title": "Why Most Enterprise AI Programmes Stall After the Pilot Phase",
+      "url": "https://medium.com/@sumitdhamija16/why-most-enterprise-ai-programmes-stall-after-the-pilot-phase-8057d016c0bb",
+      "author": "Sumit"
     },
     {
-      "title": "How to Rank in AI Search: The Complete AEO Guide for 2026",
-      "url": "https://medium.com/@kadenjeong/how-to-rank-in-ai-search-the-complete-aeo-guide-for-2026-423f48de0447",
-      "author": "Kadenjeong"
-    },
-    {
-      "title": "Building the Production LLM Pipeline RAG, Fine-Tuning, and Evaluation as Code Part-3",
-      "url": "https://medium.com/@krishnafattepurkar/building-the-production-llm-pipeline-rag-fine-tuning-and-evaluation-as-code-part-3-559646679ebc",
-      "author": "Krishna Fattepurkar"
+      "title": "How Does Route Optimization Software Development Actually Work?",
+      "url": "https://medium.com/@swarnalatashetty/how-does-route-optimization-software-development-actually-work-36f54bec5a5e",
+      "author": "Swarnalata Shetty"
     }
   ],
   "repos": [
     {
-      "name": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "stars": 23386,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "name": "elder-plinius/G0DM0D3",
-      "url": "https://github.com/elder-plinius/G0DM0D3",
-      "description": "LIBERATED AI CHAT",
-      "stars": 9556,
-      "language": "TypeScript"
-    },
-    {
-      "name": "MoonshotAI/kimi-cli",
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "stars": 9548,
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 36757,
       "language": "Python"
     },
     {
-      "name": "KnockOutEZ/wigolo",
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "stars": 1319,
-      "language": "TypeScript"
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 20265,
+      "language": "HTML"
     },
     {
-      "name": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic",
-      "stars": 1308,
+      "name": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 18464,
       "language": "Python"
     },
     {
-      "name": "nethical6/conversation-steganography",
-      "url": "https://github.com/nethical6/conversation-steganography",
-      "description": "Use LLMs to hide messages inside normal looking conversations",
-      "stars": 722,
-      "language": "Go"
+      "name": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s",
+      "stars": 16285,
+      "language": "Python"
     },
     {
-      "name": "PengZhang64/circuit-framework",
-      "url": "https://github.com/PengZhang64/circuit-framework",
-      "description": "Circuit Framework — multi-agent LLM trading research system",
-      "stars": 483,
-      "language": "Python"
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars": 9019,
+      "language": "Rust"
     }
   ],
   "tweets": []

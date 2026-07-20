@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-20</strong></summary>
+
+#### Papers
+1. **[Qwen-Music Technical Report](https://arxiv.org/abs/2607.11699)** — A music generation model that creates high-fidelity songs with complete vocal singing capabilities.
+2. **[VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders](https://arxiv.org/abs/2607.14088)** — Introduces a new approach to video generative modeling using advanced representation autoencoders.
+3. **[Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories](https://arxiv.org/abs/2607.15330)** — A foundational model for mobile manipulation tasks using diverse language instructions.
+4. **[On-Policy Delta Distillation](https://arxiv.org/abs/2607.15161)** — A novel method in reinforcement learning that enhances performance through token-level supervision.
+5. **[DSWorld: A Data Science World Model for Efficient Autonomous Agents](https://arxiv.org/abs/2607.15901)** — Proposes a model to improve decision-making efficiency in autonomous data science agents.
+6. **[Cura 1T: Specialized Model for Agentic Healthcare](https://arxiv.org/abs/2607.15314)** — A healthcare-focused model that integrates communication, reasoning, and workflow execution.
+7. **[Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos](https://arxiv.org/abs/2607.16107)** — An advanced model for understanding and reasoning across audio, images, and videos.
+8. **[PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization](http://arxiv.org/abs/2607.16184v1)** — Addresses efficiency challenges in serving large language models with a new weight quantization method.
+9. **[Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems](http://arxiv.org/abs/2607.16177v1)** — Combines physics principles with RL for better control of complex systems.
+10. **[Learning Standard Model structure from LHC data with Riemannian flow matching](http://arxiv.org/abs/2607.16144v1)** — Demonstrates a generative model's ability to capture complex physical structures from experimental data.
+
+#### Blog Posts
+1. **[OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files)** by github.com
+2. **[Ollama: All Aboard Open Models](https://ollama.com/blog/all-aboard-open-models)** by ollama.com
+3. **[Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration)** by claude.com
+4. **[Building AI Agents for Social Media with TypeScript and Hono.js](https://dev.to/mayu2008/building-ai-agents-for-social-media-with-typescript-and-honojs-4lgp)** by Mayuresh Smita Suresh
+5. **[Google Updates Gemma 4: The best Small LLM is back !!](https://medium.com/data-science-in-your-pocket/google-updates-gemma-4-the-best-small-llm-is-back-86018f0e2afd)** by Mehul Gupta
+6. **[Why Most Enterprise AI Programmes Stall After the Pilot Phase](https://medium.com/@sumitdhamija16/why-most-enterprise-ai-programmes-stall-after-the-pilot-phase-8057d016c0bb)** by Sumit
+7. **[How Does Route Optimization Software Development Actually Work?](https://medium.com/@swarnalatashetty/how-does-route-optimization-software-development-actually-work-36f54bec5a5e)** by Swarnalata Shetty
+
+#### Trending Repos
+1. **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** — AI Agent Assistant & development framework integrating multiple platforms and AI features. ⭐ 36757
+2. **[trycua/cua](https://github.com/trycua/cua)** — Scale computer-use 2.0 with open-source drivers and benchmarks. ⭐ 20265
+3. **[kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)** — A flexible framework for optimizing LLM inference and fine-tuning. ⭐ 18464
+4. **[Canner/WrenAI](https://github.com/Canner/WrenAI)** — GenBI for AI agents, transforming natural-language questions into SQL and dashboards. ⭐ 16285
+5. **[1jehuang/jcode](https://github.com/1jehuang/jcode)** — Coding Agent Harness. ⭐ 9019
+
+</details>
+
+<details>
 <summary><strong>2026-07-19</strong></summary>
 
 #### Papers
