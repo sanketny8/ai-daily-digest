@@ -1,35 +1,4 @@
 {
-  "2026-06-20": {
-    "papers": [
-      "https://arxiv.org/abs/2606.20529",
-      "https://arxiv.org/abs/2606.17053",
-      "https://arxiv.org/abs/2606.19334",
-      "https://arxiv.org/abs/2603.24624",
-      "https://arxiv.org/abs/2606.18021",
-      "https://arxiv.org/abs/2606.19602",
-      "https://arxiv.org/abs/2606.15760",
-      "https://arxiv.org/abs/2606.20536",
-      "https://arxiv.org/abs/2603.11273",
-      "https://arxiv.org/abs/2606.20381"
-    ],
-    "blogs": [
-      "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-      "https://arrowtsx.dev/bigger-models/",
-      "https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd",
-      "https://thinkwright.ai/minimax-m3-vs-glm-5-2-coding-benchmark"
-    ],
-    "repos": [
-      "https://github.com/koala73/worldmonitor",
-      "https://github.com/stanford-oval/storm",
-      "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-      "https://github.com/DeusData/codebase-memory-mcp",
-      "https://github.com/calesthio/OpenMontage",
-      "https://github.com/withastro/flue",
-      "https://github.com/zai-org/GLM-5",
-      "https://github.com/OSU-NLP-Group/HippoRAG",
-      "https://github.com/VectifyAI/OpenKB"
-    ]
-  },
   "2026-06-21": {
     "papers": [
       "http://arxiv.org/abs/2606.20560v1",
@@ -922,6 +891,38 @@
       "https://github.com/kvcache-ai/ktransformers",
       "https://github.com/Canner/WrenAI",
       "https://github.com/1jehuang/jcode"
+    ]
+  },
+  "2026-07-21": {
+    "papers": [
+      "https://arxiv.org/abs/2607.17247",
+      "https://arxiv.org/abs/2607.18217",
+      "https://arxiv.org/abs/2607.09759",
+      "https://arxiv.org/abs/2607.18171",
+      "https://arxiv.org/abs/2607.18213",
+      "https://arxiv.org/abs/2607.09655",
+      "https://arxiv.org/abs/2607.17977",
+      "https://arxiv.org/abs/2607.16850",
+      "https://arxiv.org/abs/2607.18110",
+      "https://arxiv.org/abs/2607.16900"
+    ],
+    "blogs": [
+      "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "https://blaizzy.github.io/nativ/",
+      "https://cursor.com/blog/agent-swarm-model-economics",
+      "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+      "https://yang-ai-lab.github.io/Inertia-1/",
+      "https://soteria-tools.com/blog/meta-garbage-collection",
+      "https://openai.com/index/safety-alignment-long-horizon-models/",
+      "https://deepmind.google/models/gemma/gemmaverse/cue-ai/",
+      "https://medium.com/@bulanramai2558/when-structure-appears-e1b56fc7a1bf"
+    ],
+    "repos": [
+      "https://github.com/msitarzewski/agency-agents",
+      "https://github.com/iptv-org/iptv",
+      "https://github.com/Alishahryar1/free-claude-code",
+      "https://github.com/PrefectHQ/fastmcp",
+      "https://github.com/megadose/holehe"
     ]
   }
 }

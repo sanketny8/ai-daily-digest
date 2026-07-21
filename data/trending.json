@@ -1,129 +1,139 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "papers": [
     {
-      "title": "Qwen-Music Technical Report",
-      "url": "https://arxiv.org/abs/2607.11699",
-      "summary": "In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: "
+      "title": "Distilled Reinforcement Learning for LLM Post-training",
+      "url": "https://arxiv.org/abs/2607.17247",
+      "summary": "Large language model (LLM) post-training is essential for improving reasoning, adaptation, and alignment. Existing methods mainly follow two paradigms: reinforcement learning (RL) and on-policy distil"
     },
     {
-      "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
-      "url": "https://arxiv.org/abs/2607.14088",
-      "summary": "Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can li"
+      "title": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
+      "url": "https://arxiv.org/abs/2607.18217",
+      "summary": "Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on "
     },
     {
-      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
-      "url": "https://arxiv.org/abs/2607.15330",
-      "summary": "We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen en"
+      "title": "ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams",
+      "url": "https://arxiv.org/abs/2607.09759",
+      "summary": "Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with lon"
     },
     {
-      "title": "On-Policy Delta Distillation",
-      "url": "https://arxiv.org/abs/2607.15161",
-      "summary": "On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher mod"
+      "title": "FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications",
+      "url": "https://arxiv.org/abs/2607.18171",
+      "summary": "Real-time multimodal applications, including voice agents and interactive video generation, compose heterogeneous models into pipelines whose efficient deployment requires application-specific decisio"
     },
     {
-      "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
-      "url": "https://arxiv.org/abs/2607.15901",
-      "summary": "Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottlenec"
+      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+      "url": "https://arxiv.org/abs/2607.18213",
+      "summary": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code"
     },
     {
-      "title": "xHC: Expanded Hyper-Connections",
-      "url": "https://arxiv.org/abs/2607.14530",
-      "summary": "Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes thi"
+      "title": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
+      "url": "https://arxiv.org/abs/2607.09655",
+      "summary": "Scaling robust driving policies is fundamentally bottlenecked by the scarcity of edge cases in curated datasets. While the real world continuously captures these critical events, such long-tail events"
     },
     {
-      "title": "Recursive Harness Self-Improvement",
-      "url": "https://arxiv.org/abs/2607.15524",
-      "summary": "Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in"
+      "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
+      "url": "https://arxiv.org/abs/2607.17977",
+      "summary": "We present RynnBrain 1.1, a family of embodied foundation models spanning 2B, 9B, and 122B-A10B scales. Trained with a unified spatio-temporal and physically grounded framework, RynnBrain 1.1 supports"
     },
     {
-      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-      "url": "https://arxiv.org/abs/2607.15314",
-      "summary": "Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient co"
+      "title": "Group Entropy-Controlled Policy Optimization",
+      "url": "https://arxiv.org/abs/2607.16850",
+      "summary": "Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradi"
     },
     {
-      "title": "Loop the Loopies!",
-      "url": "https://arxiv.org/abs/2607.16051",
-      "summary": "We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter mo"
+      "title": "LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks",
+      "url": "https://arxiv.org/abs/2607.18110",
+      "summary": "Reinforcement learning (RL) on open-ended tasks compresses an LLM's rubric-based evaluation into a scalar reward, discarding rich textual feedback and conflating responses with distinct quality profil"
     },
     {
-      "title": "Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos",
-      "url": "https://arxiv.org/abs/2607.16107",
-      "summary": "We present Audio-Visual Flamingo (AV-Flamingo), a fully open state-of-the-art audio-visual large language model (AV-LLM) for joint understanding and reasoning over audio, images, and long-form videos."
+      "title": "Environment-free Synthetic Data Generation for API-Calling Agents",
+      "url": "https://arxiv.org/abs/2607.16900",
+      "summary": "Training API-calling large language model (LLM) agents demands massive amounts of high-quality trajectories. However, collecting such data at scale typically requires fully implemented environments wi"
     }
   ],
   "blog_posts": [
     {
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "author": "github.com"
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "author": "stratechery.com"
     },
     {
-      "title": "Ollama: All Aboard Open Models",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "author": "ollama.com"
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "author": "blaizzy.github.io"
     },
     {
-      "title": "Anthropic runs large-scale code migrations with Claude Code",
-      "url": "https://claude.com/blog/ai-code-migration",
-      "author": "claude.com"
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "author": "cursor.com"
     },
     {
-      "title": "Building AI Agents for Social Media with TypeScript and Hono.js",
-      "url": "https://dev.to/mayu2008/building-ai-agents-for-social-media-with-typescript-and-honojs-4lgp",
-      "author": "Mayuresh Smita Suresh"
+      "title": "Controlling Reasoning Effort in LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+      "author": "magazine.sebastianraschka.com"
     },
     {
-      "title": "Google Updates Gemma 4: The best Small LLM is back !!",
-      "url": "https://medium.com/data-science-in-your-pocket/google-updates-gemma-4-the-best-small-llm-is-back-86018f0e2afd",
-      "author": "Mehul Gupta"
+      "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
+      "url": "https://yang-ai-lab.github.io/Inertia-1/",
+      "author": "yang-ai-lab.github.io"
     },
     {
-      "title": "Why Most Enterprise AI Programmes Stall After the Pilot Phase",
-      "url": "https://medium.com/@sumitdhamija16/why-most-enterprise-ai-programmes-stall-after-the-pilot-phase-8057d016c0bb",
-      "author": "Sumit"
+      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+      "author": "annieversary"
     },
     {
-      "title": "How Does Route Optimization Software Development Actually Work?",
-      "url": "https://medium.com/@swarnalatashetty/how-does-route-optimization-software-development-actually-work-36f54bec5a5e",
-      "author": "Swarnalata Shetty"
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models/",
+      "author": "openai.com"
+    },
+    {
+      "title": "Cue AI",
+      "url": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/",
+      "author": "deepmind.google"
+    },
+    {
+      "title": "When Structure Appears",
+      "url": "https://medium.com/@bulanramai2558/when-structure-appears-e1b56fc7a1bf",
+      "author": "Supat Charoensappuech"
     }
   ],
   "repos": [
     {
-      "name": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 36757,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars": 134882,
+      "language": "Shell"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "stars": 133830,
+      "language": "TypeScript"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)",
+      "stars": 41326,
       "language": "Python"
     },
     {
-      "name": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20265,
-      "language": "HTML"
-    },
-    {
-      "name": "kvcache-ai/ktransformers",
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "stars": 18464,
+      "name": "PrefectHQ/fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "stars": 26594,
       "language": "Python"
     },
     {
-      "name": "Canner/WrenAI",
-      "url": "https://github.com/Canner/WrenAI",
-      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s",
-      "stars": 16285,
+      "name": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "stars": 11752,
       "language": "Python"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "stars": 9019,
-      "language": "Rust"
     }
   ],
   "tweets": []

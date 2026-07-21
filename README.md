@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-21</strong></summary>
+
+#### Papers
+1. **[Distilled Reinforcement Learning for LLM Post-training](https://arxiv.org/abs/2607.17247)** — This paper discusses improving large language models through post-training using reinforcement learning and distillation techniques.
+2. **[HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enhancement](https://arxiv.org/abs/2607.18217)** — Introduces a method for personalized video generation focusing on human-object interactions, addressing key limitations in existing approaches.
+3. **[ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams](https://arxiv.org/abs/2607.09759)** — Proposes a multimodal agent capable of continuous observation and reasoning over video streams, enhancing memory and interaction.
+4. **[FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications](https://arxiv.org/abs/2607.18171)** — Discusses an efficient framework for deploying real-time multimodal applications by optimizing decision-making in heterogeneous model pipelines.
+5. **[OpenLongTail: Generative Scaling of Long-Tail Driving Data](https://arxiv.org/abs/2607.09655)** — Addresses the challenge of scarce edge cases in driving datasets by proposing generative scaling techniques for long-tail events.
+6. **[RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model](https://arxiv.org/abs/2607.17977)** — Introduces a family of embodied foundation models with enhanced capabilities through a unified training framework.
+7. **[Group Entropy-Controlled Policy Optimization](https://arxiv.org/abs/2607.16850)** — Explores entropy control in reinforcement learning to improve exploration-exploitation balance in large language models.
+8. **[LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks](https://arxiv.org/abs/2607.18110)** — Examines how reinforcement learning can enhance experiential learning in large language models for complex tasks.
+9. **[Environment-free Synthetic Data Generation for API-Calling Agents](https://arxiv.org/abs/2607.16900)** — Proposes a method for generating high-quality training data for API-calling agents without needing fully implemented environments.
+10. **[GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis](http://arxiv.org/abs/2607.18218v1)** — Discusses the use of foundation models in computational pathology to improve cancer diagnosis and treatment selection.
+
+#### Blog Posts
+1. **[Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)** by stratechery.com
+2. **[Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)** by blaizzy.github.io
+3. **[Agent swarms and the new model economics](https://cursor.com/blog/agent-swarm-model-economics)** by cursor.com
+4. **[Controlling Reasoning Effort in LLMs](https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms)** by magazine.sebastianraschka.com
+5. **[Inertia-1: An Open Exploration to a Unified Motion Foundation Model](https://yang-ai-lab.github.io/Inertia-1/)** by yang-ai-lab.github.io
+6. **[Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/)** by openai.com
+7. **[Cue AI](https://deepmind.google/models/gemma/gemmaverse/cue-ai/)** by deepmind.google
+8. **[When Structure Appears](https://medium.com/@bulanramai2558/when-structure-appears-e1b56fc7a1bf)** by Supat Charoensappuech
+
+#### Trending Repos
+1. **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips. ⭐ 134882
+2. **[iptv-org/iptv](https://github.com/iptv-org/iptv)** — Collection of publicly available IPTV channels from all over the world. ⭐ 133830
+3. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use claude code, codex or pi for free from the terminal or IDE. ⭐ 41326
+4. **[PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)** — The fast, Pythonic way to build MCP servers and clients. ⭐ 26594
+5. **[megadose/holehe](https://github.com/megadose/holehe)** — Check if an email is used on different sites and retrieve information. ⭐ 11752
+
+</details>
+
+<details>
 <summary><strong>2026-07-20</strong></summary>
 
 #### Papers
