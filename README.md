@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-22</strong></summary>
+
+#### Papers
+1. **[Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers](https://arxiv.org/abs/2607.19139)** — This paper explores the internal workings of text-to-image diffusion transformers and their interpretability.
+2. **[ISO: An RLVR-Native Optimization Stack](https://arxiv.org/abs/2607.19331)** — It presents a new optimization layer for reinforcement learning that enhances language model reasoning capabilities.
+3. **[ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](https://arxiv.org/abs/2607.19191)** — Introduces a video world model enabling real-time, long-horizon interactions on standard hardware.
+4. **[Trajectory-aware Cross-view Geo-localization with Sequential Observations](https://arxiv.org/abs/2607.15491)** — Discusses improved geo-localization methods using sequential video clips for richer spatial cues.
+5. **[HPD-Parsing: Hierarchical Parallel Document Parsing](https://arxiv.org/abs/2607.18839)** — Proposes a new approach for efficient document parsing that combines global coordination with parallel execution.
+6. **[Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness](https://arxiv.org/abs/2607.19322)** — Introduces a benchmark to evaluate factual accuracy in long-form text generations.
+7. **[DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines](https://arxiv.org/abs/2607.16617)** — A platform for automating data workflows with large language models, enhancing code editability.
+8. **[Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning](https://arxiv.org/abs/2607.18722)** — Addresses challenges in asynchronous reinforcement learning by introducing adaptive trust regions.
+9. **[SciForma: Structure-Faithful Generation of Scientific Diagrams](https://arxiv.org/abs/2607.18091)** — Focuses on generating scientifically accurate diagrams essential for research communication.
+10. **[Associative Emotional Learning in Convolutional Neural Networks](http://arxiv.org/abs/2607.19327)** — Explores how neural networks can adaptively link emotions to predictive stimuli for better learning.
+
+#### Blog Posts
+1. **[OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)** by openai.com
+2. **[Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)** by blog.google
+3. **[Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63)** by apnews.com
+4. **[Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)** by runtimewire.com
+5. **["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)** by tryai.dev
+6. **[Meta's AI models are powering the first wave of Genesis Mission projects](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1)** by ai.meta.com
+
+#### Trending Repos
+1. **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. ⭐ 66094
+2. **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** — Hundreds of models & providers. One command to find what runs on your hardware. ⭐ 30290
+3. **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** — Open-source repository for the book on AI agents, including code and compiled PDFs. ⭐ 15432
+4. **[owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)** — A curated list of AI courses, books, video lectures, and papers. ⭐ 15378
+5. **[dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)** — Structured Outputs. ⭐ 14898
+6. **[langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)** — Repository for open deep research initiatives. ⭐ 12290
+
+</details>
+
+<details>
 <summary><strong>2026-07-21</strong></summary>
 
 #### Papers

@@ -1,138 +1,140 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "papers": [
     {
-      "title": "Distilled Reinforcement Learning for LLM Post-training",
-      "url": "https://arxiv.org/abs/2607.17247",
-      "summary": "Large language model (LLM) post-training is essential for improving reasoning, adaptation, and alignment. Existing methods mainly follow two paradigms: reinforcement learning (RL) and on-policy distil"
+      "title": "Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers",
+      "url": "https://arxiv.org/abs/2607.19139",
+      "summary": "Text-to-image diffusion transformers (DiTs) jointly process text and image tokens, yet their internal computation during denoising remains poorly understood. We introduce a causal interpretability fra"
     },
     {
-      "title": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
-      "url": "https://arxiv.org/abs/2607.18217",
-      "summary": "Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on "
+      "title": "ISO: An RLVR-Native Optimization Stack",
+      "url": "https://arxiv.org/abs/2607.19331",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) is rapidly advancing the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space upd"
     },
     {
-      "title": "ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams",
-      "url": "https://arxiv.org/abs/2607.09759",
-      "summary": "Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with lon"
+      "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
+      "url": "https://arxiv.org/abs/2607.19191",
+      "summary": "We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation eng"
     },
     {
-      "title": "FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications",
-      "url": "https://arxiv.org/abs/2607.18171",
-      "summary": "Real-time multimodal applications, including voice agents and interactive video generation, compose heterogeneous models into pipelines whose efficient deployment requires application-specific decisio"
+      "title": "Trajectory-aware Cross-view Geo-localization with Sequential Observations",
+      "url": "https://arxiv.org/abs/2607.15491",
+      "summary": "Cross-view geo-localization matches ground-level observations against geo-tagged satellite imagery. Recent methods show that sequential queries such as video clips yield richer spatiotemporal cues tha"
     },
     {
-      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
-      "url": "https://arxiv.org/abs/2607.18213",
-      "summary": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code"
+      "title": "HPD-Parsing: Hierarchical Parallel Document Parsing",
+      "url": "https://arxiv.org/abs/2607.18839",
+      "summary": "Efficient teamwork typically combines global coordination with parallel execution, a principle not yet fully reflected in unified Vision-Language Model (VLM)-based document parsers. Existing unified p"
     },
     {
-      "title": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
-      "url": "https://arxiv.org/abs/2607.09655",
-      "summary": "Scaling robust driving policies is fundamentally bottlenecked by the scarcity of edge cases in curated datasets. While the real world continuously captures these critical events, such long-tail events"
+      "title": "Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness",
+      "url": "https://arxiv.org/abs/2607.19322",
+      "summary": "Evaluating the factuality of long-form generations has focused predominantly on precision, measuring whether the claims a model makes are correct. The dominant decompose-search-verify pipeline catches"
     },
     {
-      "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
-      "url": "https://arxiv.org/abs/2607.17977",
-      "summary": "We present RynnBrain 1.1, a family of embodied foundation models spanning 2B, 9B, and 122B-A10B scales. Trained with a unified spatio-temporal and physically grounded framework, RynnBrain 1.1 supports"
+      "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report",
+      "url": "https://arxiv.org/abs/2607.18367",
+      "summary": "Unlike conventional video game development, which relies on labor-intensive pipelines for asset production, animation, physics, and programming, video world models generate interactive environments fr"
     },
     {
-      "title": "Group Entropy-Controlled Policy Optimization",
-      "url": "https://arxiv.org/abs/2607.16850",
-      "summary": "Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradi"
+      "title": "DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines",
+      "url": "https://arxiv.org/abs/2607.16617",
+      "summary": "Large language models (LLMs) are increasingly used to automate data-processing workflows, yet coding agents typically produce scripts that are not automatically materialized as persistent, editable pl"
     },
     {
-      "title": "LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks",
-      "url": "https://arxiv.org/abs/2607.18110",
-      "summary": "Reinforcement learning (RL) on open-ended tasks compresses an LLM's rubric-based evaluation into a scalar reward, discarding rich textual feedback and conflating responses with distinct quality profil"
+      "title": "Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.18722",
+      "summary": "Asynchronous reinforcement learning improves throughput by decoupling rollout generation from optimization, but staleness is an inevitable byproduct compounded by policy lag, engine delays, and mixtur"
     },
     {
-      "title": "Environment-free Synthetic Data Generation for API-Calling Agents",
-      "url": "https://arxiv.org/abs/2607.16900",
-      "summary": "Training API-calling large language model (LLM) agents demands massive amounts of high-quality trajectories. However, collecting such data at scale typically requires fully implemented environments wi"
+      "title": "SciForma: Structure-Faithful Generation of Scientific Diagrams",
+      "url": "https://arxiv.org/abs/2607.18091",
+      "summary": "Structural fidelity is essential to scientific methodology diagrams. To communicate research logic, these diagrams must faithfully render components, directional relations, and textual annotations. Si"
     }
   ],
   "blog_posts": [
     {
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "author": "stratechery.com"
-    },
-    {
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "url": "https://blaizzy.github.io/nativ/",
-      "author": "blaizzy.github.io"
-    },
-    {
-      "title": "Agent swarms and the new model economics",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "author": "cursor.com"
-    },
-    {
-      "title": "Controlling Reasoning Effort in LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
-      "author": "magazine.sebastianraschka.com"
-    },
-    {
-      "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
-      "url": "https://yang-ai-lab.github.io/Inertia-1/",
-      "author": "yang-ai-lab.github.io"
-    },
-    {
-      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-      "url": "https://soteria-tools.com/blog/meta-garbage-collection",
-      "author": "annieversary"
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models/",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "author": "openai.com"
     },
     {
-      "title": "Cue AI",
-      "url": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/",
-      "author": "deepmind.google"
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "author": "blog.google"
     },
     {
-      "title": "When Structure Appears",
-      "url": "https://medium.com/@bulanramai2558/when-structure-appears-e1b56fc7a1bf",
-      "author": "Supat Charoensappuech"
+      "title": "Advertise in ChatGPT",
+      "url": "https://ads.openai.com/",
+      "author": "ads.openai.com"
+    },
+    {
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "author": "runtimewire.com"
+    },
+    {
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "author": "apnews.com"
+    },
+    {
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "author": "tryai.dev"
+    },
+    {
+      "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "author": "ai.meta.com"
+    },
+    {
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "author": "ai.google.dev"
     }
   ],
   "repos": [
     {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 134882,
-      "language": "Shell"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "stars": 133830,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 66094,
       "language": "TypeScript"
     },
     {
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)",
-      "stars": 41326,
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "stars": 30290,
+      "language": "Rust"
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 15432,
       "language": "Python"
     },
     {
-      "name": "PrefectHQ/fastmcp",
-      "url": "https://github.com/PrefectHQ/fastmcp",
-      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
-      "stars": 26594,
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "stars": 15378,
       "language": "Python"
     },
     {
-      "name": "megadose/holehe",
-      "url": "https://github.com/megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "stars": 11752,
+      "name": "dottxt-ai/outlines",
+      "url": "https://github.com/dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "stars": 14898,
+      "language": "Python"
+    },
+    {
+      "name": "langchain-ai/open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "description": "",
+      "stars": 12290,
       "language": "Python"
     }
   ],
