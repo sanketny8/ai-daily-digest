@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-23</strong></summary>
+
+#### Papers
+1. **[Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization](https://arxiv.org/abs/2607.10169)** — This paper addresses exploration collapse in reinforcement learning for large language models, proposing a novel optimization approach.
+2. **[Self Gradient Forcing: Native Long Video Extrapolation](https://arxiv.org/abs/2607.20368)** — Introduces a method for video extrapolation using self-forced training, enhancing the quality of long video generation.
+3. **[Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment](https://arxiv.org/abs/2607.13429)** — Discusses a new approach to finetuning vision-language models for improved performance in robot demonstrations.
+4. **[Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking](https://arxiv.org/abs/2607.19747)** — Proposes a new framework for document selection that enhances the quality of AI-generated content.
+5. **[SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD](https://arxiv.org/abs/2607.20145)** — Explores challenges in post-training trillion-parameter models, addressing memory and system-level issues.
+6. **[SLPO: Scaling Latent Reasoning via a Surrogate Policy](https://arxiv.org/abs/2607.19691)** — Presents a method for enhancing reasoning capabilities in reinforcement learning through surrogate policies.
+7. **[SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments](https://arxiv.org/abs/2607.20207)** — Introduces a framework for robotic grasping that integrates language guidance and spatial reasoning.
+8. **[PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs](http://arxiv.org/abs/2607.20378v1)** — Discusses a new physics-informed approach for solving partial differential equations using neural networks.
+9. **[Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations](http://arxiv.org/abs/2607.20379v1)** — Proposes a novel method for evaluating explanations of neural network activations through reconstruction.
+10. **[FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization](http://arxiv.org/abs/2607.20382v1)** — Describes an AI-augmented architecture for optimizing clinical workflows, ensuring compliance with healthcare regulations.
+
+#### Blog Posts
+1. **[GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)** by github.com
+2. **[Can a MUD evaluate LLMs? A $99 proof of concept](https://cruciblebench.ai/)** by cruciblebench.ai
+3. **[OpenAI’s accidental attack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/)** by simonwillison.net
+4. **[Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL](https://deepsql.ai/)** by deepsql.ai
+5. **[Substack's New AI Detector Has the Same Blind Spot DEV.to's Did](https://dev.to/dannwaneri/substacks-new-ai-detector-has-the-same-blind-spot-devtos-did-103j)** by Daniel Nwaneri
+6. **[The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI](https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9)** by Yechiel Kalmenson
+7. **[What is a context window, actually?](https://dev.to/ale3oula/what-is-a-context-window-actually-13l6)** by Alexandra
+
+#### Trending Repos
+1. **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create. ⭐ 45917
+2. **[HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)** — [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation". ⭐ 38017
+3. **[dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)** — CloudFlare free temp domain email service supporting attachments. ⭐ 10865
+
+</details>
+
+<details>
 <summary><strong>2026-07-22</strong></summary>
 
 #### Papers
