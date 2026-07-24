@@ -10,6 +10,44 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-24</strong></summary>
+
+#### Papers
+1. **[Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text](https://arxiv.org/abs/2607.21072)** — This paper explores spatial intelligence in agents for better interaction with physical environments through visual scenes.
+2. **[Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation](https://arxiv.org/abs/2607.21485)** — Investigates sinusoidal recurrence in implicit neural representations to enhance harmonic spectral enrichment.
+3. **[Visual Contrastive Self-Distillation](https://arxiv.org/abs/2607.21556)** — Proposes a self-distillation method that removes the need for an external teacher, enhancing learning efficiency.
+4. **[Robostral Navigate](https://arxiv.org/abs/2607.20785)** — Discusses scalable navigation systems for robots that minimize sensor assumptions and generalize across different embodiments.
+5. **[AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://arxiv.org/abs/2607.21461)** — Introduces a framework for agents to find answers that satisfy multiple constraints in deep research contexts.
+6. **[GraphVid: Interactive Graph-Controllable Video Generation](https://arxiv.org/abs/2607.21580)** — Addresses challenges in controllable video generation by enabling precise multi-object interactions.
+7. **[Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction](https://arxiv.org/abs/2607.20911)** — Presents a new benchmark for coding agents with a focus on contamination-resistant task construction.
+8. **[Predictive Divergence Masks for LLM RL](https://arxiv.org/abs/2607.10848)** — Explores reinforcement learning techniques for large language models to stabilize updates using trust-region masks.
+9. **[MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education](http://arxiv.org/abs/2607.21570v1)** — Proposes a gamified approach to medical education using storytelling and large language models.
+10. **[Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana](http://arxiv.org/abs/2607.21559v1)** — Applies a consensus anomaly detection framework to identify unusual malaria transmission patterns in Ghana.
+
+#### Blog Posts
+1. **[Why Software Factories Fail (or: harness engineering is not enough)](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md)** by github.com
+2. **[Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli)** by github.com
+3. **[ANSI escape injection in MCP servers: Hidden from humans, visible to AI](https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/)** by brightsec.com
+4. **[Stripe in talks to buy OpenRouter for ~10B](https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74)** by wsj.com
+5. **[Taking OCaml and Eio for a spin](https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html)** by winter
+6. **[Understanding the System Is the Skill AI Can't Replace](https://medium.com/@godlessspirit/understanding-the-system-is-the-skill-ai-cant-replace-c8d29dbd2cc2)** by Dane
+7. **[What is an AI Agent? The Simplest Explanation You’ll Find](https://pub.towardsai.net/what-is-an-ai-agent-the-simplest-explanation-youll-find-e7b176a31c44)** by Sai Bhargav Rallapalli
+8. **[I Spent 7 Days Letting AI Agents Run My Life. Here’s What Happened………](https://medium.com/@nyakazeyaanotida/i-spent-7-days-letting-ai-agents-run-my-life-heres-what-happened-c9377a582dcb)** by Chelsea
+
+#### Trending Repos
+1. **[oraios/serena](https://github.com/oraios/serena)** — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent. ⭐ 26814
+2. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** — Open-source & free code review tool with hybrid architecture and built-in fine-tuned ruleset. ⭐ 11745
+3. **[skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)** — AI Compute Platform that turns fragmented AI compute into one AI supercomputer for faster custom intelligence building. ⭐ 10372
+4. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** — A collection of agent skills for CAD, robotics, and hardware design. ⭐ 10102
+5. **[raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)** — The fastest local AI engine for Apple Silicon, significantly improving performance. ⭐ 3371
+6. **[agegr/pi-web](https://github.com/agegr/pi-web)** — Web UI for the pi coding agent. ⭐ 2447
+7. **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** — Anthology and field guide for harness engineering. ⭐ 2284
+8. **[slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)** — A comprehensive list of 300+ resources related to agentic AI. ⭐ 2048
+9. **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** — A browser designed for parallel work with AI agents. ⭐ 1820
+
+</details>
+
+<details>
 <summary><strong>2026-07-23</strong></summary>
 
 #### Papers

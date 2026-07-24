@@ -1,120 +1,162 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "papers": [
     {
-      "title": "Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization",
-      "url": "https://arxiv.org/abs/2607.10169",
-      "summary": "Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent w"
+      "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
+      "url": "https://arxiv.org/abs/2607.21072",
+      "summary": "Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where l"
     },
     {
-      "title": "Self Gradient Forcing: Native Long Video Extrapolation",
-      "url": "https://arxiv.org/abs/2607.20368",
-      "summary": "Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. T"
+      "title": "Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation",
+      "url": "https://arxiv.org/abs/2607.21485",
+      "summary": "We study sinusoidal recurrence as an iterative mechanism for harmonic spectral enrichment in implicit neural representations (INRs). Our analysis reveals that sinusoidal activations induce a harmonic "
     },
     {
-      "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
-      "url": "https://arxiv.org/abs/2607.13429",
-      "summary": "Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning p"
+      "title": "Visual Contrastive Self-Distillation",
+      "url": "https://arxiv.org/abs/2607.21556",
+      "summary": "On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to en"
     },
     {
-      "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
-      "url": "https://arxiv.org/abs/2607.19747",
-      "summary": "As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain "
+      "title": "Robostral Navigate",
+      "url": "https://arxiv.org/abs/2607.20785",
+      "summary": "Deploying navigation systems at scale requires a recipe that minimizes sensor assumptions, generalizes across robot embodiments, and trains efficiently. Yet, today's best systems depend on depth senso"
     },
     {
-      "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
-      "url": "https://arxiv.org/abs/2607.20145",
-      "summary": "Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlappe"
+      "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
+      "url": "https://arxiv.org/abs/2607.20061",
+      "summary": "Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) polic"
     },
     {
-      "title": "SLPO: Scaling Latent Reasoning via a Surrogate Policy",
-      "url": "https://arxiv.org/abs/2607.19691",
-      "summary": "Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally c"
+      "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
+      "url": "https://arxiv.org/abs/2607.21461",
+      "summary": "Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constr"
     },
     {
-      "title": "G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection",
-      "url": "https://arxiv.org/abs/2607.19942",
-      "summary": "This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial da"
+      "title": "GraphVid: Interactive Graph-Controllable Video Generation",
+      "url": "https://arxiv.org/abs/2607.21580",
+      "summary": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem"
     },
     {
-      "title": "SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments",
-      "url": "https://arxiv.org/abs/2607.20207",
-      "summary": "Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requir"
+      "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
+      "url": "https://arxiv.org/abs/2607.20911",
+      "summary": "We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its cor"
     },
     {
-      "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
-      "url": "https://arxiv.org/abs/2607.20417",
-      "summary": "3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-"
+      "title": "Predictive Divergence Masks for LLM RL",
+      "url": "https://arxiv.org/abs/2607.10848",
+      "summary": "Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio "
     },
     {
-      "title": "Reading and Steering Representations of Materials-Science Mechanisms in an Open-Weight Language Model",
-      "url": "https://arxiv.org/abs/2607.20058",
-      "summary": "Large language models can answer scientific questions, yet a correct output does not reveal whether the model represents or uses the governing physics. Here we show that materials science mechanism in"
+      "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
+      "url": "https://arxiv.org/abs/2607.20709",
+      "summary": "Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for"
     }
   ],
   "blog_posts": [
     {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
       "author": "github.com"
     },
     {
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "url": "https://cruciblebench.ai/",
-      "author": "cruciblebench.ai"
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli",
+      "author": "github.com"
     },
     {
-      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "author": "simonwillison.net"
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "author": "brightsec.com"
     },
     {
-      "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
-      "url": "https://deepsql.ai/",
-      "author": "deepsql.ai"
+      "title": "Stripe in talks to buy OpenRouter for ~10B",
+      "url": "https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74",
+      "author": "wsj.com"
     },
     {
-      "title": "Substack's New AI Detector Has the Same Blind Spot DEV.to's Did",
-      "url": "https://dev.to/dannwaneri/substacks-new-ai-detector-has-the-same-blind-spot-devtos-did-103j",
-      "author": "Daniel Nwaneri"
+      "title": "Taking OCaml and Eio for a spin",
+      "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+      "author": "winter"
     },
     {
-      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
-      "url": "https://arxiv.org/abs/2607.18250",
-      "author": "arxiv.org"
+      "title": "Understanding the System Is the Skill AI Can't Replace",
+      "url": "https://medium.com/@godlessspirit/understanding-the-system-is-the-skill-ai-cant-replace-c8d29dbd2cc2",
+      "author": "Dane"
     },
     {
-      "title": "The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI",
-      "url": "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
-      "author": "Yechiel Kalmenson"
+      "title": "What is an AI Agent? The Simplest Explanation You’ll Find",
+      "url": "https://pub.towardsai.net/what-is-an-ai-agent-the-simplest-explanation-youll-find-e7b176a31c44",
+      "author": "Sai Bhargav Rallapalli"
     },
     {
-      "title": "What is a context window, actually?",
-      "url": "https://dev.to/ale3oula/what-is-a-context-window-actually-13l6",
-      "author": "Alexandra"
+      "title": "I Spent 7 Days Letting AI Agents Run My Life. Here’s What Happened………",
+      "url": "https://medium.com/@nyakazeyaanotida/i-spent-7-days-letting-ai-agents-run-my-life-heres-what-happened-c9377a582dcb",
+      "author": "Chelsea"
     }
   ],
   "repos": [
     {
-      "name": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "stars": 45917,
-      "language": "TypeScript"
-    },
-    {
-      "name": "HKUDS/LightRAG",
-      "url": "https://github.com/HKUDS/LightRAG",
-      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-      "stars": 38017,
+      "name": "oraios/serena",
+      "url": "https://github.com/oraios/serena",
+      "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent",
+      "stars": 26814,
       "language": "Python"
     },
     {
-      "name": "dreamhunter2333/cloudflare_temp_email",
-      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
-      "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
-      "stars": 10865,
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thr",
+      "stars": 11745,
+      "language": "Go"
+    },
+    {
+      "name": "skypilot-org/skypilot",
+      "url": "https://github.com/skypilot-org/skypilot",
+      "description": "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.",
+      "stars": 10372,
+      "language": "Python"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "stars": 10102,
+      "language": "JavaScript"
+    },
+    {
+      "name": "raullenchai/Rapid-MLX",
+      "url": "https://github.com/raullenchai/Rapid-MLX",
+      "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replace",
+      "stars": 3371,
+      "language": "Python"
+    },
+    {
+      "name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "stars": 2447,
       "language": "TypeScript"
+    },
+    {
+      "name": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "stars": 2284,
+      "language": "Python"
+    },
+    {
+      "name": "slavakurilyak/awesome-ai-agents",
+      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+      "description": "Awesome list of 300+ agentic AI resources",
+      "stars": 2048,
+      "language": "Python"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "stars": 1820,
+      "language": "JavaScript"
     }
   ],
   "tweets": []

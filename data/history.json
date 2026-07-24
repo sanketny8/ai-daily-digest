@@ -1,33 +1,4 @@
 {
-  "2026-06-23": {
-    "papers": [
-      "https://arxiv.org/abs/2606.23321",
-      "https://arxiv.org/abs/2606.23503",
-      "https://arxiv.org/abs/2606.23670",
-      "https://arxiv.org/abs/2606.14971",
-      "https://arxiv.org/abs/2606.23050",
-      "https://arxiv.org/abs/2606.22883",
-      "https://arxiv.org/abs/2606.23049",
-      "https://arxiv.org/abs/2606.21139",
-      "https://arxiv.org/abs/2606.23525",
-      "https://arxiv.org/abs/2606.23557"
-    ],
-    "blogs": [
-      "https://github.com/openai/codex/issues/28224",
-      "https://unsloth.ai/docs/models/glm-5.2",
-      "https://hustvl.github.io/Moebius/",
-      "https://arxiv.org/abs/2606.16140",
-      "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6"
-    ],
-    "repos": [
-      "https://github.com/garrytan/gstack",
-      "https://github.com/virattt/ai-hedge-fund",
-      "https://github.com/heygen-com/hyperframes",
-      "https://github.com/HKUDS/DeepTutor",
-      "https://github.com/JCodesMore/ai-website-cloner-template",
-      "https://github.com/vectorize-io/hindsight"
-    ]
-  },
   "2026-06-24": {
     "papers": [
       "https://arxiv.org/abs/2606.23449",
@@ -932,6 +903,41 @@
       "https://github.com/jamiepine/voicebox",
       "https://github.com/HKUDS/LightRAG",
       "https://github.com/dreamhunter2333/cloudflare_temp_email"
+    ]
+  },
+  "2026-07-24": {
+    "papers": [
+      "https://arxiv.org/abs/2607.21072",
+      "https://arxiv.org/abs/2607.21485",
+      "https://arxiv.org/abs/2607.21556",
+      "https://arxiv.org/abs/2607.20785",
+      "https://arxiv.org/abs/2607.20061",
+      "https://arxiv.org/abs/2607.21461",
+      "https://arxiv.org/abs/2607.21580",
+      "https://arxiv.org/abs/2607.20911",
+      "https://arxiv.org/abs/2607.10848",
+      "https://arxiv.org/abs/2607.20709"
+    ],
+    "blogs": [
+      "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "https://github.com/onecli/onecli",
+      "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74",
+      "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+      "https://medium.com/@godlessspirit/understanding-the-system-is-the-skill-ai-cant-replace-c8d29dbd2cc2",
+      "https://pub.towardsai.net/what-is-an-ai-agent-the-simplest-explanation-youll-find-e7b176a31c44",
+      "https://medium.com/@nyakazeyaanotida/i-spent-7-days-letting-ai-agents-run-my-life-heres-what-happened-c9377a582dcb"
+    ],
+    "repos": [
+      "https://github.com/oraios/serena",
+      "https://github.com/alibaba/open-code-review",
+      "https://github.com/skypilot-org/skypilot",
+      "https://github.com/earthtojake/text-to-cad",
+      "https://github.com/raullenchai/Rapid-MLX",
+      "https://github.com/agegr/pi-web",
+      "https://github.com/lopopolo/harness-engineering",
+      "https://github.com/slavakurilyak/awesome-ai-agents",
+      "https://github.com/citrolabs/ego-lite"
     ]
   }
 }
