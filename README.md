@@ -10,6 +10,43 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-25</strong></summary>
+
+#### Papers
+1. **[OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557)** — This paper discusses a new framework for training AI agents using complex inference harnesses for better reasoning and tool use.
+2. **[Dataset Distillation by Influence Matching](https://arxiv.org/abs/2607.16859)** — It presents a novel approach to dataset distillation that focuses on aligning the influence of training data outcomes.
+3. **[FinanceComplexQA: Benchmarking Agentic Reasoning on Industrial-grade Financial Documents](https://arxiv.org/abs/2607.19238)** — This work benchmarks AI's reasoning capabilities in analyzing complex financial documents, enhancing financial analysis.
+4. **[SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation](https://arxiv.org/abs/2607.21553)** — Introduces a new video generation model that efficiently produces high-quality videos using advanced attention mechanisms.
+5. **[Self-Supervised Learning of Structured Dynamics from Videos](https://arxiv.org/abs/2607.21576)** — Explores a self-supervised method to understand motion in videos by separating camera and object dynamics.
+6. **[K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs](https://arxiv.org/abs/2605.09635)** — Proposes a knowledge graph to improve the training and evaluation of educational language models in K-12 settings.
+7. **[Sample-Efficient Learning from Agent Experience](https://arxiv.org/abs/2607.21051)** — Discusses strategies for improving learning efficiency in real-world agent interactions with limited data.
+8. **[GraphVid: Interactive Graph-Controllable Video Generation](http://arxiv.org/abs/2607.21580v1)** — This paper addresses the challenges of generating videos with precise control over multi-object interactions.
+9. **[MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education](http://arxiv.org/abs/2607.21570v1)** — Explores how LLMs can enhance medical education through gamified storytelling approaches.
+10. **[Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana](http://arxiv.org/abs/2607.21559v1)** — Introduces a framework for detecting unusual malaria transmission patterns using surveillance data.
+
+#### Blog Posts
+1. **[Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)** by anthropic.com
+2. **[Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)** by cnbc.com
+3. **[Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)** by theguardian.com
+4. **[Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)** by bfl.ai
+5. **[Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)** by artificialanalysis.ai
+6. **[The Person Who Fixed the Bugs Just Vanished](https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm)** by xulingfeng
+7. **[Sentry's Span Hierarchy Exposed a Silent Retry in My 5-Agent Pipeline. One Agent Took 22.6s, the Others Took 5.](https://dev.to/sarvar_04/sentrys-span-hierarchy-exposed-a-silent-retry-in-my-5-agent-pipeline-one-agent-took-226s-the-fb4)** by Sarvar Nadaf
+8. **[6 Open Source Tools That Give You the Web Back](https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak)** by Athreya aka Maneshwar
+
+#### Trending Repos
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory. ⭐ 187049
+2. **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. ⭐ 106652
+3. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. ⭐ 60657
+4. **[Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)** — 《动手学大模型Dive into LLMs》系列编程实践教程. ⭐ 45074
+5. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. ⭐ 42034
+6. **[cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)** — A list of free LLM inference resources accessible via API. ⭐ 28134
+7. **[OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB)** — 🔥🔥🔥 AI-driven database tool and SQL client, supporting multiple databases. ⭐ 26393
+8. **[pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)** — Graph Neural Network Library for PyTorch. ⭐ 23926
+
+</details>
+
+<details>
 <summary><strong>2026-07-24</strong></summary>
 
 #### Papers

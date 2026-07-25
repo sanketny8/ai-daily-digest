@@ -1,162 +1,160 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "papers": [
     {
-      "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
-      "url": "https://arxiv.org/abs/2607.21072",
-      "summary": "Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where l"
+      "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+      "url": "https://arxiv.org/abs/2607.21557",
+      "summary": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex h"
     },
     {
-      "title": "Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation",
-      "url": "https://arxiv.org/abs/2607.21485",
-      "summary": "We study sinusoidal recurrence as an iterative mechanism for harmonic spectral enrichment in implicit neural representations (INRs). Our analysis reveals that sinusoidal activations induce a harmonic "
+      "title": "Dataset Distillation by Influence Matching",
+      "url": "https://arxiv.org/abs/2607.16859",
+      "summary": "We revisit dataset distillation from an outcome-centric perspective. Rather than aligning process surrogates (per-step gradients or training trajectories), Influence Matching (Inf-Match) aligns the fi"
     },
     {
-      "title": "Visual Contrastive Self-Distillation",
-      "url": "https://arxiv.org/abs/2607.21556",
-      "summary": "On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to en"
+      "title": "Multi-Turn On-Policy Distillation with Prefix Replay",
+      "url": "https://arxiv.org/abs/2607.04763",
+      "summary": "We study on-policy distillation (OPD) for agentic tasks, where an LLM agent interacts with an environment over multiple turns and a student imitates a teacher over these multi-turn interaction histori"
     },
     {
-      "title": "Robostral Navigate",
-      "url": "https://arxiv.org/abs/2607.20785",
-      "summary": "Deploying navigation systems at scale requires a recipe that minimizes sensor assumptions, generalizes across robot embodiments, and trains efficiently. Yet, today's best systems depend on depth senso"
+      "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+      "url": "https://arxiv.org/abs/2607.21553",
+      "summary": "We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SA"
     },
     {
-      "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
-      "url": "https://arxiv.org/abs/2607.20061",
-      "summary": "Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) polic"
+      "title": "FinanceComplexQA: Benchmarking Agentic Reasoning on Industrial-grade Financial Documents",
+      "url": "https://arxiv.org/abs/2607.19238",
+      "summary": "Agentic Reasoning has become a transformative force in financial analysis due to its ability to integrate large-scale information and generate reliable and accurate content. However, when handling com"
     },
     {
-      "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
-      "url": "https://arxiv.org/abs/2607.21461",
-      "summary": "Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constr"
+      "title": "Self-Supervised Learning of Structured Dynamics from Videos",
+      "url": "https://arxiv.org/abs/2607.21576",
+      "summary": "Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remain"
     },
     {
-      "title": "GraphVid: Interactive Graph-Controllable Video Generation",
-      "url": "https://arxiv.org/abs/2607.21580",
-      "summary": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem"
+      "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
+      "url": "https://arxiv.org/abs/2605.09635",
+      "summary": "Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually"
     },
     {
-      "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
-      "url": "https://arxiv.org/abs/2607.20911",
-      "summary": "We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its cor"
+      "title": "Sample-Efficient Learning from Agent Experience",
+      "url": "https://arxiv.org/abs/2607.21051",
+      "summary": "Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-ef"
     },
     {
-      "title": "Predictive Divergence Masks for LLM RL",
-      "url": "https://arxiv.org/abs/2607.10848",
-      "summary": "Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio "
+      "title": "Color Pass-Through via Camera-Display Coupling",
+      "url": "https://arxiv.org/abs/2607.12746",
+      "summary": "When a real-world scene is captured by a smartphone camera and viewed on its screen, the displayed image often differs noticeably from the original scene in color, brightness, and contrast. This gap p"
     },
     {
-      "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
-      "url": "https://arxiv.org/abs/2607.20709",
-      "summary": "Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for"
+      "title": "LLMs Get Lost in Evolving User Intent",
+      "url": "https://arxiv.org/abs/2607.20734",
+      "summary": "As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users "
     }
   ],
   "blog_posts": [
     {
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "author": "github.com"
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "author": "anthropic.com"
     },
     {
-      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-      "url": "https://github.com/onecli/onecli",
-      "author": "github.com"
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "author": "cnbc.com"
     },
     {
-      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
-      "author": "brightsec.com"
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "author": "theguardian.com"
     },
     {
-      "title": "Stripe in talks to buy OpenRouter for ~10B",
-      "url": "https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74",
-      "author": "wsj.com"
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "author": "bfl.ai"
     },
     {
-      "title": "Taking OCaml and Eio for a spin",
-      "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
-      "author": "winter"
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "author": "discuss.haiku-os.org"
     },
     {
-      "title": "Understanding the System Is the Skill AI Can't Replace",
-      "url": "https://medium.com/@godlessspirit/understanding-the-system-is-the-skill-ai-cant-replace-c8d29dbd2cc2",
-      "author": "Dane"
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "author": "artificialanalysis.ai"
     },
     {
-      "title": "What is an AI Agent? The Simplest Explanation You’ll Find",
-      "url": "https://pub.towardsai.net/what-is-an-ai-agent-the-simplest-explanation-youll-find-e7b176a31c44",
-      "author": "Sai Bhargav Rallapalli"
+      "title": "The Person Who Fixed the Bugs Just Vanished",
+      "url": "https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm",
+      "author": "xulingfeng"
     },
     {
-      "title": "I Spent 7 Days Letting AI Agents Run My Life. Here’s What Happened………",
-      "url": "https://medium.com/@nyakazeyaanotida/i-spent-7-days-letting-ai-agents-run-my-life-heres-what-happened-c9377a582dcb",
-      "author": "Chelsea"
+      "title": "Sentry's Span Hierarchy Exposed a Silent Retry in My 5-Agent Pipeline. One Agent Took 22.6s, the Others Took 5.",
+      "url": "https://dev.to/sarvar_04/sentrys-span-hierarchy-exposed-a-silent-retry-in-my-5-agent-pipeline-one-agent-took-226s-the-fb4",
+      "author": "Sarvar Nadaf"
+    },
+    {
+      "title": "6 Open Source Tools That Give You the Web Back",
+      "url": "https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak",
+      "author": "Athreya aka Maneshwar"
     }
   ],
   "repos": [
     {
-      "name": "oraios/serena",
-      "url": "https://github.com/oraios/serena",
-      "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent",
-      "stars": 26814,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 187049,
+      "language": "Shell"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 106652,
       "language": "Python"
     },
     {
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thr",
-      "stars": 11745,
-      "language": "Go"
-    },
-    {
-      "name": "skypilot-org/skypilot",
-      "url": "https://github.com/skypilot-org/skypilot",
-      "description": "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.",
-      "stars": 10372,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 60657,
       "language": "Python"
     },
     {
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "A collection of agent skills for CAD, robotics and hardware design",
-      "stars": 10102,
-      "language": "JavaScript"
+      "name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "stars": 45074,
+      "language": "Jupyter Notebook"
     },
     {
-      "name": "raullenchai/Rapid-MLX",
-      "url": "https://github.com/raullenchai/Rapid-MLX",
-      "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replace",
-      "stars": 3371,
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
+      "stars": 42034,
       "language": "Python"
     },
     {
-      "name": "agegr/pi-web",
-      "url": "https://github.com/agegr/pi-web",
-      "description": "Web UI for the pi coding agent",
-      "stars": 2447,
-      "language": "TypeScript"
-    },
-    {
-      "name": "lopopolo/harness-engineering",
-      "url": "https://github.com/lopopolo/harness-engineering",
-      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "stars": 2284,
+      "name": "cheahjs/free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "stars": 28134,
       "language": "Python"
     },
     {
-      "name": "slavakurilyak/awesome-ai-agents",
-      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
-      "description": "Awesome list of 300+ agentic AI resources",
-      "stars": 2048,
-      "language": "Python"
+      "name": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "stars": 26393,
+      "language": "Java"
     },
     {
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The best browser for both you and your AI agents work in parallel.",
-      "stars": 1820,
-      "language": "JavaScript"
+      "name": "pyg-team/pytorch_geometric",
+      "url": "https://github.com/pyg-team/pytorch_geometric",
+      "description": "Graph Neural Network Library for PyTorch",
+      "stars": 23926,
+      "language": "Python"
     }
   ],
   "tweets": []
