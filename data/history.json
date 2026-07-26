@@ -1,34 +1,4 @@
 {
-  "2026-06-25": {
-    "papers": [
-      "https://arxiv.org/abs/2606.16316",
-      "https://arxiv.org/abs/2606.24083",
-      "https://arxiv.org/abs/2606.20023",
-      "https://arxiv.org/abs/2606.21661",
-      "https://arxiv.org/abs/2606.25319",
-      "https://arxiv.org/abs/2606.18239",
-      "https://arxiv.org/abs/2606.26092",
-      "https://arxiv.org/abs/2606.24775",
-      "https://arxiv.org/abs/2606.22565",
-      "https://arxiv.org/abs/2606.25996"
-    ],
-    "blogs": [
-      "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "https://rubyllm.com/",
-      "https://www.krea.ai/blog/krea-2-technical-report",
-      "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "https://haystack.deepset.ai/"
-    ],
-    "repos": [
-      "https://github.com/wshobson/agents",
-      "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "https://github.com/google-labs-code/design.md",
-      "https://github.com/stablyai/orca",
-      "https://github.com/interviewstreet/hiring-agent"
-    ]
-  },
   "2026-06-26": {
     "papers": [
       "https://arxiv.org/abs/2606.18394",
@@ -945,6 +915,36 @@
       "https://github.com/cheahjs/free-llm-api-resources",
       "https://github.com/OtterMind/Chat2DB",
       "https://github.com/pyg-team/pytorch_geometric"
+    ]
+  },
+  "2026-07-26": {
+    "papers": [
+      "http://arxiv.org/abs/2607.21595v1",
+      "http://arxiv.org/abs/2607.21585v1",
+      "http://arxiv.org/abs/2607.21580v1",
+      "http://arxiv.org/abs/2607.21579v1",
+      "http://arxiv.org/abs/2607.21577v1",
+      "http://arxiv.org/abs/2607.21574v1",
+      "http://arxiv.org/abs/2607.21573v1",
+      "http://arxiv.org/abs/2607.21570v1",
+      "http://arxiv.org/abs/2607.21561v1",
+      "http://arxiv.org/abs/2607.21559v1"
+    ],
+    "blogs": [
+      "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "https://github.com/slvDev/esp32-ai",
+      "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+      "https://medium.com/@diademg9/10-ai-tools-that-can-save-you-hours-every-week-and-why-millions-of-people-are-using-them-67c15eae26b6",
+      "https://medium.com/@elaineouyangml/the-ai-bubble-isnt-really-about-ai-2c87477cc05e",
+      "https://ai.gopubby.com/why-python-is-still-the-1-language-for-ai-engineers-in-2026-637379055067",
+      "https://medium.com/@toyezyadav/backend-engineers-are-about-to-become-the-most-valuable-people-in-the-room-for-the-wrong-reasons-4fbce9806db0",
+      "https://medium.com/@michaelgill448/the-best-free-ai-tools-i-actually-use-every-day-4280f0a78e8a"
+    ],
+    "repos": [
+      "https://github.com/apache/superset",
+      "https://github.com/VectifyAI/PageIndex",
+      "https://github.com/MODSetter/SurfSense",
+      "https://github.com/andrewyng/aisuite"
     ]
   }
 }

@@ -1,159 +1,126 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "papers": [
     {
-      "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
-      "url": "https://arxiv.org/abs/2607.21557",
-      "summary": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex h"
+      "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
+      "url": "http://arxiv.org/abs/2607.21595v1",
+      "summary": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason"
     },
     {
-      "title": "Dataset Distillation by Influence Matching",
-      "url": "https://arxiv.org/abs/2607.16859",
-      "summary": "We revisit dataset distillation from an outcome-centric perspective. Rather than aligning process surrogates (per-step gradients or training trajectories), Influence Matching (Inf-Match) aligns the fi"
+      "title": "Expanding Flow Maps",
+      "url": "http://arxiv.org/abs/2607.21585v1",
+      "summary": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed d"
     },
     {
-      "title": "Multi-Turn On-Policy Distillation with Prefix Replay",
-      "url": "https://arxiv.org/abs/2607.04763",
-      "summary": "We study on-policy distillation (OPD) for agentic tasks, where an LLM agent interacts with an environment over multiple turns and a student imitates a teacher over these multi-turn interaction histori"
+      "title": "GraphVid: Interactive Graph-Controllable Video Generation",
+      "url": "http://arxiv.org/abs/2607.21580v1",
+      "summary": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem"
     },
     {
-      "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
-      "url": "https://arxiv.org/abs/2607.21553",
-      "summary": "We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SA"
+      "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
+      "url": "http://arxiv.org/abs/2607.21579v1",
+      "summary": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is"
     },
     {
-      "title": "FinanceComplexQA: Benchmarking Agentic Reasoning on Industrial-grade Financial Documents",
-      "url": "https://arxiv.org/abs/2607.19238",
-      "summary": "Agentic Reasoning has become a transformative force in financial analysis due to its ability to integrate large-scale information and generate reliable and accurate content. However, when handling com"
+      "title": "Synthetic data generation framework for quality control automation in gravure printing",
+      "url": "http://arxiv.org/abs/2607.21577v1",
+      "summary": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-"
     },
     {
-      "title": "Self-Supervised Learning of Structured Dynamics from Videos",
-      "url": "https://arxiv.org/abs/2607.21576",
-      "summary": "Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remain"
+      "title": "Surprisal Theory is Tautological (without Rational Grounding)",
+      "url": "http://arxiv.org/abs/2607.21574v1",
+      "summary": "Surprisal theory holds that the human processing difficulty of a linguistic unit in context is an affine function of its surprisal under some language model. I argue this claim is a tautology without "
     },
     {
-      "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
-      "url": "https://arxiv.org/abs/2605.09635",
-      "summary": "Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually"
+      "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
+      "url": "http://arxiv.org/abs/2607.21573v1",
+      "summary": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, e"
     },
     {
-      "title": "Sample-Efficient Learning from Agent Experience",
-      "url": "https://arxiv.org/abs/2607.21051",
-      "summary": "Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-ef"
+      "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+      "url": "http://arxiv.org/abs/2607.21570v1",
+      "summary": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an"
     },
     {
-      "title": "Color Pass-Through via Camera-Display Coupling",
-      "url": "https://arxiv.org/abs/2607.12746",
-      "summary": "When a real-world scene is captured by a smartphone camera and viewed on its screen, the displayed image often differs noticeably from the original scene in color, brightness, and contrast. This gap p"
+      "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling",
+      "url": "http://arxiv.org/abs/2607.21561v1",
+      "summary": "Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a mol"
     },
     {
-      "title": "LLMs Get Lost in Evolving User Intent",
-      "url": "https://arxiv.org/abs/2607.20734",
-      "summary": "As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users "
+      "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana",
+      "url": "http://arxiv.org/abs/2607.21559v1",
+      "summary": "A consensus anomaly detection framework was applied to monthly malaria surveillance data from Ghana (2014-2023) to identify atypical transmission patterns. Anomalies were highly structured in space an"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "author": "anthropic.com"
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "author": "claude.com"
     },
     {
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "author": "cnbc.com"
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "author": "github.com"
     },
     {
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "author": "theguardian.com"
+      "title": "Bringing PyTorch Monarch to AMD GPUs",
+      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+      "author": "pytorch.org"
     },
     {
-      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "author": "bfl.ai"
+      "title": "10 AI Tools That Can Save You Hours Every Week (And Why Millions of People Are Using Them)",
+      "url": "https://medium.com/@diademg9/10-ai-tools-that-can-save-you-hours-every-week-and-why-millions-of-people-are-using-them-67c15eae26b6",
+      "author": "Diadem G"
     },
     {
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "author": "discuss.haiku-os.org"
+      "title": "The AI Bubble Isn’t Really About AI",
+      "url": "https://medium.com/@elaineouyangml/the-ai-bubble-isnt-really-about-ai-2c87477cc05e",
+      "author": "Elaine Reset"
     },
     {
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "url": "https://artificialanalysis.ai/models",
-      "author": "artificialanalysis.ai"
+      "title": "Why Python Is Still the #1 Language for AI Engineers in 2026",
+      "url": "https://ai.gopubby.com/why-python-is-still-the-1-language-for-ai-engineers-in-2026-637379055067",
+      "author": "Amit Tripathi (Dev)"
     },
     {
-      "title": "The Person Who Fixed the Bugs Just Vanished",
-      "url": "https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm",
-      "author": "xulingfeng"
+      "title": "Backend Engineers Are About to Become the Most Valuable People in the Room. For the Wrong Reasons.",
+      "url": "https://medium.com/@toyezyadav/backend-engineers-are-about-to-become-the-most-valuable-people-in-the-room-for-the-wrong-reasons-4fbce9806db0",
+      "author": "Toyez"
     },
     {
-      "title": "Sentry's Span Hierarchy Exposed a Silent Retry in My 5-Agent Pipeline. One Agent Took 22.6s, the Others Took 5.",
-      "url": "https://dev.to/sarvar_04/sentrys-span-hierarchy-exposed-a-silent-retry-in-my-5-agent-pipeline-one-agent-took-226s-the-fb4",
-      "author": "Sarvar Nadaf"
-    },
-    {
-      "title": "6 Open Source Tools That Give You the Web Back",
-      "url": "https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak",
-      "author": "Athreya aka Maneshwar"
+      "title": "The Best Free AI Tools I Actually Use Every Day",
+      "url": "https://medium.com/@michaelgill448/the-best-free-ai-tools-i-actually-use-every-day-4280f0a78e8a",
+      "author": "Michael Javeed Gill"
     }
   ],
   "repos": [
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 187049,
-      "language": "Shell"
-    },
-    {
-      "name": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "stars": 106652,
+      "name": "apache/superset",
+      "url": "https://github.com/apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "stars": 73989,
       "language": "Python"
     },
     {
-      "name": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 60657,
+      "name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 34580,
       "language": "Python"
     },
     {
-      "name": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "stars": 45074,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
-      "stars": 42034,
+      "name": "MODSetter/SurfSense",
+      "url": "https://github.com/MODSetter/SurfSense",
+      "description": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis",
+      "stars": 15469,
       "language": "Python"
     },
     {
-      "name": "cheahjs/free-llm-api-resources",
-      "url": "https://github.com/cheahjs/free-llm-api-resources",
-      "description": "A list of free LLM inference resources accessible via API.",
-      "stars": 28134,
-      "language": "Python"
-    },
-    {
-      "name": "OtterMind/Chat2DB",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "stars": 26393,
-      "language": "Java"
-    },
-    {
-      "name": "pyg-team/pytorch_geometric",
-      "url": "https://github.com/pyg-team/pytorch_geometric",
-      "description": "Graph Neural Network Library for PyTorch",
-      "stars": 23926,
+      "name": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "stars": 15260,
       "language": "Python"
     }
   ],

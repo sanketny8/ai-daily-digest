@@ -10,6 +10,39 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-26</strong></summary>
+
+#### Papers
+1. **[3D-Aware VLMs with Implicit and Explicit Geometries](http://arxiv.org/abs/2607.21595v1)** — This paper explores improving vision-language models to better understand and process 3D tasks.
+2. **[Expanding Flow Maps](http://arxiv.org/abs/2607.21585v1)** — Discusses advancements in flow-based generative models for efficient generation across various state spaces.
+3. **[GraphVid: Interactive Graph-Controllable Video Generation](http://arxiv.org/abs/2607.21580v1)** — Introduces a method for generating videos with controllable multi-object interactions using graphs.
+4. **[Synthetic data generation framework for quality control automation in gravure printing](http://arxiv.org/abs/2607.21577v1)** — Proposes an automated framework to enhance quality control in gravure printing through synthetic data.
+5. **[Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity](http://arxiv.org/abs/2607.21573v1)** — Examines the need for identifying necessary subsequences in time-series classifiers for accurate explanations.
+6. **[MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education](http://arxiv.org/abs/2607.21570v1)** — Explores the use of LLMs in gamifying medical education to enhance learning experiences.
+7. **[Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling](http://arxiv.org/abs/2607.21561v1)** — Investigates molecular property prediction using ensembles rather than single conformations for better accuracy.
+8. **[Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana](http://arxiv.org/abs/2607.21559v1)** — Applies a novel framework to detect malaria transmission anomalies in Ghana using surveillance data.
+9. **[Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$](http://arxiv.org/abs/2607.21579v1)** — Analyzes the convergence issues of the Barzilai-Borwein method in optimization across various dimensions.
+10. **[Surprisal Theory is Tautological (without Rational Grounding)](http://arxiv.org/abs/2607.21574v1)** — Critiques the foundational assumptions of surprisal theory in linguistic processing, arguing for a need for rational grounding.
+
+#### Blog Posts
+1. **[The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)** by claude.com
+2. **[Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai)** by github.com
+3. **[Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)** by pytorch.org
+4. **[10 AI Tools That Can Save You Hours Every Week (And Why Millions of People Are Using Them)](https://medium.com/@diademg9/10-ai-tools-that-can-save-you-hours-every-week-and-why-millions-of-people-are-using-them-67c15eae26b6)** by Diadem G
+5. **[The AI Bubble Isn’t Really About AI](https://medium.com/@elaineouyangml/the-ai-bubble-isnt-really-about-ai-2c87477cc05e)** by Elaine Reset
+6. **[Why Python Is Still the #1 Language for AI Engineers in 2026](https://ai.gopubby.com/why-python-is-still-the-1-language-for-ai-engineers-in-2026-637379055067)** by Amit Tripathi (Dev)
+7. **[Backend Engineers Are About to Become the Most Valuable People in the Room. For the Wrong Reasons.](https://medium.com/@toyezyadav/backend-engineers-are-about-to-become-the-most-valuable-people-in-the-room-for-the-wrong-reasons-4fbce9806db0)** by Toyez
+8. **[The Best Free AI Tools I Actually Use Every Day](https://medium.com/@michaelgill448/the-best-free-ai-tools-i-actually-use-every-day-4280f0a78e8a)** by Michael Javeed Gill
+
+#### Trending Repos
+1. **[apache/superset](https://github.com/apache/superset)** — Apache Superset is a Data Visualization and Data Exploration Platform. ⭐ 73989
+2. **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** — Document Index for Vectorless, Reasoning-based RAG. ⭐ 34580
+3. **[MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)** — Open-source NotebookLM alternative for research with live data across platforms. ⭐ 15469
+4. **[andrewyng/aisuite](https://github.com/andrewyng/aisuite)** — Simple, unified interface to multiple Generative AI providers. ⭐ 15260
+
+</details>
+
+<details>
 <summary><strong>2026-07-25</strong></summary>
 
 #### Papers
