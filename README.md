@@ -10,6 +10,40 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-27</strong></summary>
+
+#### Papers
+1. **[Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems](https://arxiv.org/abs/2607.21503)** — This paper addresses AI agents' failures due to context management rather than reasoning abilities.
+2. **[IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation](https://arxiv.org/abs/2607.22375)** — Proposes a method for generating diverse research ideas using large language models.
+3. **[VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression](https://arxiv.org/abs/2607.12756)** — Introduces a new approach to reduce latency and memory usage in vision-language models.
+4. **[LAMAR: An Open Language-Aware Multilingual Alignment Reranker](https://arxiv.org/abs/2607.22042)** — Presents a multilingual reranking system to enhance retrieval-augmented generation.
+5. **[Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering](https://arxiv.org/abs/2607.21848)** — Discusses advancements in generating photorealistic videos from 3D renderings.
+6. **[Scaling Native Multimodal Pre-Training From Scratch](https://arxiv.org/abs/2607.22043)** — Explores the benefits of multimodal pre-training for enhancing LLM capabilities.
+7. **[Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills](https://arxiv.org/abs/2607.22529)** — Investigates self-evolving training methods to improve LLM performance.
+8. **[Explainable Reinforcement Learning for assisting Air Traffic Controllers](http://arxiv.org/abs/2607.22525v1)** — Focuses on integrating explainable AI into critical environments like air traffic control.
+9. **[The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents](http://arxiv.org/abs/2607.22520v1)** — Analyzes the dual impact of procedural skills on LLM agent performance.
+10. **[CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference](http://arxiv.org/abs/2607.22511v1)** — Proposes a framework for automating research in causal inference.
+
+#### Blog Posts
+1. **[The relay market powering token resellers and fraud](https://vectoral.com/blog/token-relay-market)** by vectoral.com
+2. **[18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems](https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-strategems-ih0)** by xulingfeng
+3. **[7 Hidden Ways to Use Claude at Its Peak Potential](https://medium.com/@ismailsaleem/7-hidden-ways-to-use-claude-at-its-peak-potential-2325a1ddddd2)** by Hams AI Tech
+4. **[What Microsoft’s, Amazon’s, and Alphabet’s AI Spending Means for the Future of Corporate Finance](https://medium.com/@toverstreet_54150/what-microsofts-amazon-s-and-alphabet-s-ai-spending-means-for-the-future-of-corporate-finance-2ddcfd7ca429)** by Tim Overstreet
+5. **[The Best Google AI Tools in 2026: I Tested Over 30 Tools — Here’s What’s Actually Worth Using](https://medium.com/@aitoolinsight/the-best-google-ai-tools-in-2026-i-tested-over-30-tools-heres-what-s-actually-worth-using-995828bb112d)** by Tien | AI Tools Reviewer
+6. **[Agents + Humans: The Future of Data Modelling](https://blog.colrows.com/agents-humans-the-future-of-data-modelling-691354063151)** by Nilesh S
+
+#### Trending Repos
+1. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design. ⭐ 50837
+2. **[Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)** — 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale. ⭐ 13580
+3. **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. ⭐ 10181
+4. **[OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow)** — Easy Data Preparation with latest LLMs-based Operators and Pipelines. ⭐ 7038
+5. **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** — Build local voice agents with open-source models. ⭐ 6488
+6. **[CoreBunch/Instatic](https://github.com/CoreBunch/Instatic)** — The open-source alternative to Webflow, Framer and WordPress. ⭐ 5806
+7. **[microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)** — AI Agent Governance Toolkit for policy enforcement and reliability engineering. ⭐ 4929
+
+</details>
+
+<details>
 <summary><strong>2026-07-26</strong></summary>
 
 #### Papers

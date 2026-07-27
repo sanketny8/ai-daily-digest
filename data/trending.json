@@ -1,126 +1,142 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "papers": [
     {
-      "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
-      "url": "http://arxiv.org/abs/2607.21595v1",
-      "summary": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason"
+      "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
+      "url": "https://arxiv.org/abs/2607.21503",
+      "summary": "Production AI agents' failures are less often due to an inability to reason well and more often because they cannot manage what is in their reasoning context: conversation histories, large prompts, la"
     },
     {
-      "title": "Expanding Flow Maps",
-      "url": "http://arxiv.org/abs/2607.21585v1",
-      "summary": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed d"
+      "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
+      "url": "https://arxiv.org/abs/2607.22375",
+      "summary": "Large Language Models (LLMs) have significantly automated the process of scientific discovery over the past few years. However, existing systems share one core limitation: they generate and optimize i"
     },
     {
-      "title": "GraphVid: Interactive Graph-Controllable Video Generation",
-      "url": "http://arxiv.org/abs/2607.21580v1",
-      "summary": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem"
+      "title": "VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression",
+      "url": "https://arxiv.org/abs/2607.12756",
+      "summary": "Vision-language models (VLMs) process large numbers of visual tokens, resulting in substantial inference latency and memory overhead. This has motivated extensive research on visual token compression."
     },
     {
-      "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
-      "url": "http://arxiv.org/abs/2607.21579v1",
-      "summary": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is"
+      "title": "LAMAR: An Open Language-Aware Multilingual Alignment Reranker",
+      "url": "https://arxiv.org/abs/2607.22042",
+      "summary": "In multilingual retrieval augmented generation, a retriever can retrieve relevant documents written in multiple languages, which are subsequently reranked before answer generation. However, it remains"
     },
     {
-      "title": "Synthetic data generation framework for quality control automation in gravure printing",
-      "url": "http://arxiv.org/abs/2607.21577v1",
-      "summary": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-"
+      "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.21653",
+      "summary": "Agentic reinforcement learning research is constant algorithm modification, new estimators, new pipeline stages, new rollout schemes, and in mainstream frameworks each change threads through layers of"
     },
     {
-      "title": "Surprisal Theory is Tautological (without Rational Grounding)",
-      "url": "http://arxiv.org/abs/2607.21574v1",
-      "summary": "Surprisal theory holds that the human processing difficulty of a linguistic unit in context is an affine function of its surprisal under some language model. I argue this claim is a tautology without "
+      "title": "Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering",
+      "url": "https://arxiv.org/abs/2607.21848",
+      "summary": "Recent conditional video generation models have shown promising potentials to transform 3D engine renderings, such as depth maps and untextured geometry, into photorealistic videos for gaming and imme"
     },
     {
-      "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
-      "url": "http://arxiv.org/abs/2607.21573v1",
-      "summary": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, e"
+      "title": "Scaling Native Multimodal Pre-Training From Scratch",
+      "url": "https://arxiv.org/abs/2607.22043",
+      "summary": "Although large language models (LLMs) exhibit remarkable reasoning capabilities, their reliance on text-only pre-training restricts the perception of the multimodal physical world. Native multimodal p"
     },
     {
-      "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
-      "url": "http://arxiv.org/abs/2607.21570v1",
-      "summary": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an"
+      "title": "SceneActBench: Can Agents Act on the 3D Scenes They See?",
+      "url": "https://arxiv.org/abs/2607.22393",
+      "summary": "Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving agent "
     },
     {
-      "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling",
-      "url": "http://arxiv.org/abs/2607.21561v1",
-      "summary": "Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a mol"
+      "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+      "url": "https://arxiv.org/abs/2607.22529",
+      "summary": "LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verif"
     },
     {
-      "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana",
-      "url": "http://arxiv.org/abs/2607.21559v1",
-      "summary": "A consensus anomaly detection framework was applied to monthly malaria surveillance data from Ghana (2014-2023) to identify atypical transmission patterns. Anomalies were highly structured in space an"
+      "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+      "url": "http://arxiv.org/abs/2607.22534v1",
+      "summary": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti"
     }
   ],
   "blog_posts": [
     {
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "author": "claude.com"
+      "title": "The relay market powering token resellers and fraud",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "author": "vectoral.com"
     },
     {
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "author": "github.com"
+      "title": "18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems",
+      "url": "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
+      "author": "xulingfeng"
     },
     {
-      "title": "Bringing PyTorch Monarch to AMD GPUs",
-      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-      "author": "pytorch.org"
+      "title": "7 Hidden Ways to Use Claude at Its Peak Potential",
+      "url": "https://medium.com/@ismailsaleem/7-hidden-ways-to-use-claude-at-its-peak-potential-2325a1ddddd2",
+      "author": "Hams AI Tech"
     },
     {
-      "title": "10 AI Tools That Can Save You Hours Every Week (And Why Millions of People Are Using Them)",
-      "url": "https://medium.com/@diademg9/10-ai-tools-that-can-save-you-hours-every-week-and-why-millions-of-people-are-using-them-67c15eae26b6",
-      "author": "Diadem G"
+      "title": "Let’s build Claude Code’s harness (step-by-step)",
+      "url": "https://iamdgarcia.medium.com/lets-build-claude-code-s-harness-step-by-step-2f2f2d486343",
+      "author": "Daniel García"
     },
     {
-      "title": "The AI Bubble Isn’t Really About AI",
-      "url": "https://medium.com/@elaineouyangml/the-ai-bubble-isnt-really-about-ai-2c87477cc05e",
-      "author": "Elaine Reset"
+      "title": "What Microsoft’s, Amazon’s, and Alphabet’s AI Spending Means for the Future of Corporate Finance",
+      "url": "https://medium.com/@toverstreet_54150/what-microsofts-amazon-s-and-alphabet-s-ai-spending-means-for-the-future-of-corporate-finance-2ddcfd7ca429",
+      "author": "Tim Overstreet"
     },
     {
-      "title": "Why Python Is Still the #1 Language for AI Engineers in 2026",
-      "url": "https://ai.gopubby.com/why-python-is-still-the-1-language-for-ai-engineers-in-2026-637379055067",
-      "author": "Amit Tripathi (Dev)"
+      "title": "The Best Google AI Tools in 2026: I Tested Over 30 Tools — Here’s What’s Actually Worth Using",
+      "url": "https://medium.com/@aitoolinsight/the-best-google-ai-tools-in-2026-i-tested-over-30-tools-heres-what-s-actually-worth-using-995828bb112d",
+      "author": "Tien | AI Tools Reviewer"
     },
     {
-      "title": "Backend Engineers Are About to Become the Most Valuable People in the Room. For the Wrong Reasons.",
-      "url": "https://medium.com/@toyezyadav/backend-engineers-are-about-to-become-the-most-valuable-people-in-the-room-for-the-wrong-reasons-4fbce9806db0",
-      "author": "Toyez"
-    },
-    {
-      "title": "The Best Free AI Tools I Actually Use Every Day",
-      "url": "https://medium.com/@michaelgill448/the-best-free-ai-tools-i-actually-use-every-day-4280f0a78e8a",
-      "author": "Michael Javeed Gill"
+      "title": "Agents + Humans: The Future of Data Modelling",
+      "url": "https://blog.colrows.com/agents-humans-the-future-of-data-modelling-691354063151",
+      "author": "Nilesh S"
     }
   ],
   "repos": [
     {
-      "name": "apache/superset",
-      "url": "https://github.com/apache/superset",
-      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-      "stars": 73989,
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 50837,
+      "language": "JavaScript"
+    },
+    {
+      "name": "Lightning-AI/litgpt",
+      "url": "https://github.com/Lightning-AI/litgpt",
+      "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+      "stars": 13580,
       "language": "Python"
     },
     {
-      "name": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "stars": 34580,
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars": 10181,
       "language": "Python"
     },
     {
-      "name": "MODSetter/SurfSense",
-      "url": "https://github.com/MODSetter/SurfSense",
-      "description": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis",
-      "stars": 15469,
+      "name": "OpenDCAI/DataFlow",
+      "url": "https://github.com/OpenDCAI/DataFlow",
+      "description": "Easy Data Preparation with latest LLMs-based Operators and Pipelines.",
+      "stars": 7038,
       "language": "Python"
     },
     {
-      "name": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "stars": 15260,
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "stars": 6488,
+      "language": "Python"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "stars": 5806,
+      "language": "TypeScript"
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "stars": 4929,
       "language": "Python"
     }
   ],
