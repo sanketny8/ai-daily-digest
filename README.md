@@ -10,6 +10,41 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-28</strong></summary>
+
+#### Papers
+1. **[The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation](https://arxiv.org/abs/2607.24720)** — This paper explores improving long-horizon planning for foundation models using innovative training techniques.
+2. **[Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels](https://arxiv.org/abs/2607.24651)** — It presents a method for attributing answers in visual document understanding without relying on traditional coordinate systems.
+3. **[IndicTalk: A Large-Scale Persona-Based Multilingual Conversational Corpus for Indic Languages](https://arxiv.org/abs/2607.23242)** — This work introduces a multilingual conversational corpus aimed at enhancing dialogue systems for Indic languages.
+4. **[Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2607.21936)** — The paper discusses restoring historical documents using advanced language models and external knowledge retrieval.
+5. **[A Frozen 12B Beats Frontier Models on Verified Work: 100% Accuracy, 0 Tokens, Bit-Exact, Forever](https://arxiv.org/abs/2607.23806)** — It proposes a novel approach where a frozen model achieves high accuracy without retraining, challenging conventional methods.
+6. **[ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](http://arxiv.org/abs/2607.24743v1)** — This paper presents a multimodal system designed to enhance understanding in clinical settings through visual data integration.
+7. **[FilmBench: A Film-Grade Benchmark for Cinematic Video Generation](https://arxiv.org/abs/2607.24241)** — It introduces a benchmark aimed at evaluating AI-generated cinematic video quality against professional standards.
+8. **[KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](http://arxiv.org/abs/2607.24730v1)** — This research focuses on enhancing interpretability in medical AI applications, addressing clinician trust issues.
+9. **[DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data](http://arxiv.org/abs/2607.24717v1)** — The paper discusses innovative strategies for curating pretraining data to improve model performance.
+10. **[Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs](http://arxiv.org/abs/2607.24726v1)** — It explores the convergence properties of popular algorithms for solving complex nonlinear partial differential equations.
+
+#### Blog Posts
+1. **[Kimi-K3 on HuggingFace](https://huggingface.co/moonshotai/Kimi-K3)** by huggingface.co
+2. **[Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)** by anthropic.com
+3. **[The Junior Developer Pipeline Is Broken... And AI Broke It](https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai)** by Nazar Boyko
+4. **[A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)** by fermisense.com
+5. **[Unlimited context is not a feature. It's technical debt with better marketing.](https://dev.to/cyclopt_dimitrisk/unlimited-context-is-not-a-feature-its-technical-debt-with-better-marketing-4443)** by Dimitris Kyrkos
+
+#### Trending Repos
+1. **[arc53/DocsGPT](https://github.com/arc53/DocsGPT)** — Private AI platform for agents and enterprise search. ⭐18136
+2. **[nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)** — Best way to use Hermes Agent from the web or phone! ⭐16628
+3. **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** — Enables Claude to watch and analyze videos. ⭐11281
+4. **[XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)** — AI-boosted concurrent downloader with a fluent design. ⭐7489
+5. **[kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)** — Distributed platform for running agent environments at scale. ⭐942
+6. **[makecindy/cindy](https://github.com/makecindy/cindy)** — Open-source AI agent that works out of the box. ⭐896
+7. **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** — Permanent memory solution for AI agents. ⭐664
+8. **[sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp)** — MCP servers for the UniFi suite of applications. ⭐603
+9. **[0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved)** — A versatile tool that runs anywhere and uses anything. ⭐577
+
+</details>
+
+<details>
 <summary><strong>2026-07-27</strong></summary>
 
 #### Papers
