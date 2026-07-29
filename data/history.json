@@ -1,34 +1,4 @@
 {
-  "2026-06-28": {
-    "papers": [
-      "http://arxiv.org/abs/2606.27369v1",
-      "http://arxiv.org/abs/2606.27361v1",
-      "http://arxiv.org/abs/2606.27359v1",
-      "http://arxiv.org/abs/2606.27354v1",
-      "http://arxiv.org/abs/2606.27347v1",
-      "http://arxiv.org/abs/2606.27342v1",
-      "http://arxiv.org/abs/2606.27334v1",
-      "http://arxiv.org/abs/2606.27330v1",
-      "http://arxiv.org/abs/2606.27326v1"
-    ],
-    "blogs": [
-      "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "https://www.youtube.com/watch?v=OBUzl_IaWIw",
-      "https://dev.to/manolito99/i-got-tired-of-rewriting-ai-api-wrappers-so-i-built-a-gateway-58n5",
-      "https://dev.to/tessl-io/how-small-can-an-agent-model-get-the-nemotron-floor-5gne",
-      "https://theconsensus.dev/p/2026/06/27/the-feature-in-oxcaml-more-languages-should-steal.html",
-      "https://medium.com/@anshulprasad5440/machine-learning-68f4c6a3f3e2",
-      "https://blog.stackademic.com/7-python-libraries-that-made-me-ship-projects-quicker-f1d16401c3f9"
-    ],
-    "repos": [
-      "https://github.com/anomalyco/opencode",
-      "https://github.com/Fission-AI/OpenSpec",
-      "https://github.com/luongnv89/claude-howto",
-      "https://github.com/hugohe3/ppt-master"
-    ]
-  },
   "2026-06-29": {
     "papers": [
       "https://arxiv.org/abs/2606.27163",
@@ -955,6 +925,35 @@
       "https://github.com/VictorTaelin/OptMem",
       "https://github.com/sirkirby/unifi-mcp",
       "https://github.com/0xwilliamortiz/openclaude-improved"
+    ]
+  },
+  "2026-07-29": {
+    "papers": [
+      "https://arxiv.org/abs/2607.25565",
+      "https://arxiv.org/abs/2607.24904",
+      "https://arxiv.org/abs/2607.24223",
+      "https://arxiv.org/abs/2607.25895",
+      "https://arxiv.org/abs/2607.24957",
+      "https://arxiv.org/abs/2607.24368",
+      "https://arxiv.org/abs/2607.25537",
+      "https://arxiv.org/abs/2607.25669",
+      "https://arxiv.org/abs/2607.26037",
+      "https://arxiv.org/abs/2607.25857"
+    ],
+    "blogs": [
+      "https://github.com/openai/codex-security",
+      "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "https://learnvector.ai/",
+      "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
+      "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2"
+    ],
+    "repos": [
+      "https://github.com/agentscope-ai/QwenPaw",
+      "https://github.com/volcengine/OpenViking",
+      "https://github.com/HKUDS/OpenSpace",
+      "https://github.com/lightseekorg/tokenspeed"
     ]
   }
 }

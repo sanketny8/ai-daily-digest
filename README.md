@@ -10,6 +10,38 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-29</strong></summary>
+
+#### Papers
+1. **[ReDesign: Recovering Editable Design Structures from Images via Agentic Decomposition](https://arxiv.org/abs/2607.25565)** — This paper addresses the challenge of converting raster images back into editable design files.
+2. **[Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model](https://arxiv.org/abs/2607.24904)** — Proposes a model that improves efficiency in streaming perception tasks for vision-language models.
+3. **[A New Role for Relevance: Guiding Corpus Interaction in Agentic Search](https://arxiv.org/abs/2607.24223)** — Introduces a method to enhance document relevance in retrieval systems beyond traditional top-k selection.
+4. **[HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://arxiv.org/abs/2607.25895)** — Discusses a new approach for training manipulation policies using high-fidelity data without real-robot teleoperation.
+5. **[PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models](https://arxiv.org/abs/2607.24957)** — Introduces a benchmark to assess visual perception capabilities in multimodal language models.
+6. **[Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory](https://arxiv.org/abs/2607.24368)** — Explores the limitations of long-term memory systems in AI and their implications for user interaction.
+7. **[Wonder: Video World Model Done Better](https://arxiv.org/abs/2607.26037)** — Presents a video world model that allows real-time exploration based on images or conditional videos.
+8. **[Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment](http://arxiv.org/abs/2607.26034v1)** — Analyzes the risks of rapid AI development in competitive environments and its impact on safety.
+9. **[VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening](http://arxiv.org/abs/2607.26042v1)** — Introduces a system for early veterinary disease detection using edge-cloud technology.
+10. **[Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis](http://arxiv.org/abs/2607.26043v1)** — Proposes a new framework to enhance mammography classification performance using transfer learning.
+
+#### Blog Posts
+1. **[Codex Security](https://github.com/openai/codex-security)** by github.com
+2. **[Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)** by anthropic.com
+3. **[DMARC has been public since 2012 but most company domains still don't enforce it](https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026)** by ciphercue.com
+4. **[MCP 2026-07-28 Specification: transport going stateless](https://blog.modelcontextprotocol.io/posts/2026-07-28/)** by blog.modelcontextprotocol.io
+5. **[LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai)** by learnvector.ai
+6. **[Understanding Over Origin](https://dev.to/adamthedeveloper/understanding-over-origin-4685)** by Adam - The Developer ✨
+7. **[Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations](https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2)** by Nazar Boyko
+
+#### Trending Repos
+1. **[agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw)** — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud. ⭐ 29816
+2. **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)** — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. ⭐ 27586
+3. **[HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)** — "OpenSpace: The Skill Management Layer for AI Agents". ⭐ 7154
+4. **[lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)** — TokenSpeed is a speed-of-light LLM inference engine. ⭐ 1737
+
+</details>
+
+<details>
 <summary><strong>2026-07-28</strong></summary>
 
 #### Papers
