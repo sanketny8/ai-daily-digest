@@ -1,36 +1,4 @@
 {
-  "2026-06-29": {
-    "papers": [
-      "https://arxiv.org/abs/2606.27163",
-      "https://arxiv.org/abs/2606.26519",
-      "https://arxiv.org/abs/2606.28133",
-      "https://arxiv.org/abs/2606.27974",
-      "https://arxiv.org/abs/2606.27595",
-      "https://arxiv.org/abs/2606.27771",
-      "https://arxiv.org/abs/2606.22873",
-      "https://arxiv.org/abs/2606.27608",
-      "https://arxiv.org/abs/2606.27378",
-      "https://arxiv.org/abs/2606.28277"
-    ],
-    "blogs": [
-      "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "https://github.com/openai/codex/issues/2847",
-      "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-      "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-      "https://arxiv.org/abs/2401.07013",
-      "https://aleph-alpha.com/en/blog/model-training-as-code/",
-      "https://dev.to/pascal_cescato_692b7a8a20/1-15n0"
-    ],
-    "repos": [
-      "https://github.com/ByteByteGoHq/system-design-101",
-      "https://github.com/usestrix/strix",
-      "https://github.com/browser-use/video-use",
-      "https://github.com/xbtlin/ai-berkshire",
-      "https://github.com/winsznx/theeleven",
-      "https://github.com/benchflow-ai/awesome-evals",
-      "https://github.com/amplifthq/opentag"
-    ]
-  },
   "2026-06-30": {
     "papers": [
       "https://arxiv.org/abs/2606.27828",
@@ -954,6 +922,36 @@
       "https://github.com/volcengine/OpenViking",
       "https://github.com/HKUDS/OpenSpace",
       "https://github.com/lightseekorg/tokenspeed"
+    ]
+  },
+  "2026-07-30": {
+    "papers": [
+      "https://arxiv.org/abs/2607.25294",
+      "https://arxiv.org/abs/2607.25659",
+      "https://arxiv.org/abs/2607.26784",
+      "https://arxiv.org/abs/2607.25675",
+      "https://arxiv.org/abs/2607.25308",
+      "https://arxiv.org/abs/2607.26314",
+      "https://arxiv.org/abs/2607.27155",
+      "https://arxiv.org/abs/2607.27191",
+      "https://arxiv.org/abs/2607.27205",
+      "https://arxiv.org/abs/2607.27180"
+    ],
+    "blogs": [
+      "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "https://aistack.imec-int.com/blog/gpu-self-hosting",
+      "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+      "https://usetokenless.com/",
+      "https://github.com/funador/claude-code-merge-queue",
+      "https://medium.com/ruang-kontemplasi/sukses-ad3b7e4f579d",
+      "https://medium.com/@taurusai/how-ai-is-redefining-enterprise-recruitment-de6985064125"
+    ],
+    "repos": [
+      "https://github.com/microsoft/VibeVoice",
+      "https://github.com/sgl-project/sglang",
+      "https://github.com/different-ai/openwork",
+      "https://github.com/maderix/ANE"
     ]
   }
 }

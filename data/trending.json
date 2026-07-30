@@ -1,122 +1,127 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "papers": [
     {
-      "title": "ReDesign: Recovering Editable Design Structures from Images via Agentic Decomposition",
-      "url": "https://arxiv.org/abs/2607.25565",
-      "summary": "Recovering an editable design file from a raster image is a common and costly bottleneck in modern design workflows, yet remains challenging since editability depends on recovering multi-modal attribu"
+      "title": "CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition",
+      "url": "https://arxiv.org/abs/2607.25294",
+      "summary": "Real-world tasks often require models to learn from task-specific context rather than relying only on pre-trained knowledge. While recent work has highlighted this capability as context learning, exis"
     },
     {
-      "title": "Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model",
-      "url": "https://arxiv.org/abs/2607.24904",
-      "summary": "Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently."
+      "title": "CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization",
+      "url": "https://arxiv.org/abs/2607.25659",
+      "summary": "Rubric-based reinforcement learning enriches language model training by evaluating model outputs against explicit criteria. Yet in GRPO-style pipelines, these structured judgments are reduced to a sca"
     },
     {
-      "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search",
-      "url": "https://arxiv.org/abs/2607.24223",
-      "summary": "Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-k content, but document relevance alone cannot "
+      "title": "SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution",
+      "url": "https://arxiv.org/abs/2607.26784",
+      "summary": "Large language model agents often encounter related yet distinct tasks that share reusable solution patterns. Yet standard agentic reinforcement learning treats tasks as independent episodes, while ex"
     },
     {
-      "title": "HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone",
-      "url": "https://arxiv.org/abs/2607.25895",
-      "summary": "Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capt"
+      "title": "DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space",
+      "url": "https://arxiv.org/abs/2607.25675",
+      "summary": "Text-space optimization adapts large language models (LLMs) by editing external natural-language artifacts rather than model weights, so the optimized artifacts remain inspectable and the model can be"
     },
     {
-      "title": "PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models",
-      "url": "https://arxiv.org/abs/2607.24957",
-      "summary": "We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to iso"
+      "title": "CAST: Game Solvers as Turn-Level Teachers for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.25308",
+      "summary": "Training large language models (LLMs) to act in long-horizon games is a promising step toward generalist decision-making, yet reinforcement learning with verifiable rewards (RLVR) relies on sparse fin"
     },
     {
-      "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory",
-      "url": "https://arxiv.org/abs/2607.24368",
-      "summary": "Long-term memory systems store what a user says in an external store and retrieve it when a related query arrives. This interface rests on an assumption so natural that it is rarely stated: a memory t"
+      "title": "StealthBench: Measuring Operational Stealth in Autonomous Offensive-Security Agents",
+      "url": "https://arxiv.org/abs/2607.26314",
+      "summary": "Stealth, the discipline of achieving an objective without revealing your presence, capabilities, or collected intelligence, is what separates sophisticated operators from detectable ones. Elite securi"
     },
     {
-      "title": "Visual prompt engineering for video models",
-      "url": "https://arxiv.org/abs/2607.25537",
-      "summary": "In the age of foundation models, a model is only as good as its prompt. For this reason, prompt engineering has become an essential technique for improving language model performance. Since video mode"
+      "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
+      "url": "https://arxiv.org/abs/2607.27155",
+      "summary": "Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents can carry out office"
     },
     {
-      "title": "OmniDelta: Skill-Driven Budget Allocation for Token Compression in OmniLLMs",
-      "url": "https://arxiv.org/abs/2607.25669",
-      "summary": "Emerging Omni-modal Large Language Models (OmniLLMs) enable unified understanding of text, audio, and video, but their long audio-video token sequences introduce substantial memory and inference costs"
+      "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+      "url": "https://arxiv.org/abs/2607.27191",
+      "summary": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on nar"
     },
     {
-      "title": "Wonder: Video World Model Done Better",
-      "url": "https://arxiv.org/abs/2607.26037",
-      "summary": "We present Wonder, a general-purpose video world model for real-time, camera-controllable world exploration. Given an image or a conditional video, Wonder constructs a playable world where users can n"
+      "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "url": "https://arxiv.org/abs/2607.27205",
+      "summary": "Vision-language-action (VLA) models commonly adopt an LLM-centric V to L to A pathway, where visual observations are projected into the representation space of a large language model before being deco"
     },
     {
-      "title": "Shieldstral",
-      "url": "https://arxiv.org/abs/2607.25857",
-      "summary": "We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the ar"
+      "title": "HumanCLAW: Can Vision-Language Models Act Through a Body?",
+      "url": "https://arxiv.org/abs/2607.27180",
+      "summary": "Evaluating whether a vision-language model (VLM) can act through a physical body is challenging. The outcome of an action couples the VLM's decision with motor control. When a task fails, it is hard t"
     }
   ],
   "blog_posts": [
     {
-      "title": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "author": "huggingface.co"
+    },
+    {
+      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "author": "nytimes.com"
+    },
+    {
+      "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
+      "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
+      "author": "aistack.imec-int.com"
+    },
+    {
+      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+      "author": "juliahub.com"
+    },
+    {
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "url": "https://usetokenless.com/",
+      "author": "usetokenless.com"
+    },
+    {
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue",
       "author": "github.com"
     },
     {
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "author": "anthropic.com"
+      "title": "Sukses",
+      "url": "https://medium.com/ruang-kontemplasi/sukses-ad3b7e4f579d",
+      "author": "Xingrahmat"
     },
     {
-      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "author": "ciphercue.com"
-    },
-    {
-      "title": "MCP 2026-07-28 Specification: transport going stateless",
-      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-      "author": "blog.modelcontextprotocol.io"
-    },
-    {
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "url": "https://learnvector.ai/",
-      "author": "learnvector.ai"
-    },
-    {
-      "title": "Understanding Over Origin",
-      "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
-      "author": "Adam - The Developer ✨"
-    },
-    {
-      "title": "Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations",
-      "url": "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
-      "author": "Nazar Boyko"
+      "title": "How AI Is Redefining Enterprise Recruitment",
+      "url": "https://medium.com/@taurusai/how-ai-is-redefining-enterprise-recruitment-de6985064125",
+      "author": "Taurus"
     }
   ],
   "repos": [
     {
-      "name": "agentscope-ai/QwenPaw",
-      "url": "https://github.com/agentscope-ai/QwenPaw",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 29816,
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars": 51410,
       "language": "Python"
     },
     {
-      "name": "volcengine/OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "stars": 27586,
+      "name": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "stars": 30944,
       "language": "Python"
     },
     {
-      "name": "HKUDS/OpenSpace",
-      "url": "https://github.com/HKUDS/OpenSpace",
-      "description": "\"OpenSpace: The Skill Management Layer for AI Agents\" -- https://open-space.cloud/",
-      "stars": 7154,
-      "language": "Python"
+      "name": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "stars": 18087,
+      "language": "TypeScript"
     },
     {
-      "name": "lightseekorg/tokenspeed",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "stars": 1737,
-      "language": "Python"
+      "name": "maderix/ANE",
+      "url": "https://github.com/maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "stars": 7177,
+      "language": "Objective-C"
     }
   ],
   "tweets": []

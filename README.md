@@ -10,6 +10,37 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-30</strong></summary>
+
+#### Papers
+1. **[CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition](https://arxiv.org/abs/2607.25294)** — This paper explores how models can learn from specific contexts in real-world tasks, enhancing their performance.
+2. **[CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization](https://arxiv.org/abs/2607.25659)** — It introduces a method to improve language model training by using structured evaluations against explicit criteria.
+3. **[SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution](https://arxiv.org/abs/2607.26784)** — This research addresses how agents can evolve skills across related tasks, enhancing their efficiency in problem-solving.
+4. **[DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space](https://arxiv.org/abs/2607.25675)** — The paper discusses optimizing language models by editing natural-language artifacts instead of altering model weights.
+5. **[CAST: Game Solvers as Turn-Level Teachers for LLM Agents](https://arxiv.org/abs/2607.25308)** — It examines using game solvers to train large language models for better decision-making in complex environments.
+6. **[StealthBench: Measuring Operational Stealth in Autonomous Offensive-Security Agents](https://arxiv.org/abs/2607.26314)** — This paper presents a framework for evaluating the stealth capabilities of autonomous security agents.
+7. **[OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](https://arxiv.org/abs/2607.27155)** — It benchmarks LLM agents on office tasks, focusing on their economic grounding and task execution capabilities.
+8. **[Can AI agents conduct open-ended AI research? Early evidence from two case studies](https://arxiv.org/abs/2607.27191)** — The study investigates the potential of AI agents to autonomously conduct AI research, presenting initial findings.
+9. **[TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM](https://arxiv.org/abs/2607.27205)** — This paper introduces a lightweight model for real-time vision-language-action tasks, optimizing resource usage.
+10. **[The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making](http://arxiv.org/abs/2607.27179v1)** — It explores how AI teammates influence communication dynamics among human team members in decision-making scenarios.
+
+#### Blog Posts
+1. **[Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)** by huggingface.co
+2. **[A.I. companies are recruiting electricians and carpenters by the thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)** by nytimes.com
+3. **[Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution](https://aistack.imec-int.com/blog/gpu-self-hosting)** by aistack.imec-int.com
+4. **[GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](https://juliahub.com/blog/frontier-models-physical-ai-evaluation)** by juliahub.com
+5. **[Launch HN: Tokenless (YC S26) – Automatic model switching to save money](https://usetokenless.com/)** by usetokenless.com
+6. **[How AI Is Redefining Enterprise Recruitment](https://medium.com/@taurusai/how-ai-is-redefining-enterprise-recruitment-de6985064125)** by Taurus
+
+#### Trending Repos
+1. **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI. ⭐ 51410
+2. **[sgl-project/sglang](https://github.com/sgl-project/sglang)** — SGLang is a high-performance serving framework for large language models and multimodal models. ⭐ 30944
+3. **[different-ai/openwork](https://github.com/different-ai/openwork)** — The open-source alternative to Claude Cowork (powered by opencode). ⭐ 18087
+4. **[maderix/ANE](https://github.com/maderix/ANE)** — Training neural networks on Apple Neural Engine via reverse-engineered private APIs. ⭐ 7177
+
+</details>
+
+<details>
 <summary><strong>2026-07-29</strong></summary>
 
 #### Papers
