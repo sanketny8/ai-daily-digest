@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-07-31</strong></summary>
+
+#### Papers
+
+1. **[INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models](https://arxiv.org/abs/2607.26056)**
+
+2. **[LEDGERMIND: Provenance-Constrained Multimodal Agentic Reasoning with a Structured Evidence Ledger](https://arxiv.org/abs/2607.28374)**
+
+3. **[Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation](https://arxiv.org/abs/2607.27372)**
+
+4. **[Revisiting Lossy Verification in Speculative Decoding: Mechanisms, Trade-offs, and Failure Modes](https://arxiv.org/abs/2607.26627)**
+
+5. **[AI Tour Meeting: Group Travel Planning by LLM Agents](https://arxiv.org/abs/2607.18806)**
+
+6. **[Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation](https://arxiv.org/abs/2607.27816)**
+
+7. **[MPIE-Bench: Benchmarking Anatomically Plausible Multi-Person Interaction Editing](https://arxiv.org/abs/2607.27616)**
+
+8. **[Can Large Language Models Execute Parent Orders?](https://arxiv.org/abs/2607.28410)**
+
+9. **[Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory](https://arxiv.org/abs/2607.27919)**
+
+10. **[Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents](https://arxiv.org/abs/2607.28227)**
+
+
+#### Blog Posts
+
+1. **[Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)** by openai.com
+
+2. **[Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)** by ctgt.ai
+
+3. **[Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode](https://github.com/YoanWai/agent-manager)** by github.com
+
+4. **[OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)** by openjdk.org
+
+5. **[SDL_GPU minimal, single-header, high-performance 2D graphics painting library](https://github.com/n67094/sdl_gp)** by github.com
+
+6. **[Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test](https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/)** by blog.jetbrains.com
+
+7. **[Skills vs MCP: How AI tools have evolved](https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk)** by Tilde A. Thurium
+
+8. **[Judge Voices Doubt US Has Justified Its Ban on Anthropic AI](https://www.bloomberg.com/news/articles/2026-07-30/judge-voices-doubt-us-has-justified-its-ban-on-anthropic-ai)** by bloomberg.com
+
+
+#### Trending Repos
+
+1. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. ⭐ 86613
+
+2. **[streamlit/streamlit](https://github.com/streamlit/streamlit)** — Streamlit — A faster way to build and share data apps. ⭐ 45433
+
+3. **[github/awesome-copilot](https://github.com/github/awesome-copilot)** — Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. ⭐ 37270
+
+4. **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI ⭐ 28822
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-07-30</strong></summary>
 
 #### Papers

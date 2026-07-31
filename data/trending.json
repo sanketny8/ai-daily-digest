@@ -1,127 +1,127 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "papers": [
     {
-      "title": "CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition",
-      "url": "https://arxiv.org/abs/2607.25294",
-      "summary": "Real-world tasks often require models to learn from task-specific context rather than relying only on pre-trained knowledge. While recent work has highlighted this capability as context learning, exis"
+      "title": "INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models",
+      "url": "https://arxiv.org/abs/2607.26056",
+      "summary": "Forward latent world models predict how actions change a scene, but recover actions for a desired change only through expensive test-time search. We introduce INTACT (INtent-To-ACTion), an end-to-end "
     },
     {
-      "title": "CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization",
-      "url": "https://arxiv.org/abs/2607.25659",
-      "summary": "Rubric-based reinforcement learning enriches language model training by evaluating model outputs against explicit criteria. Yet in GRPO-style pipelines, these structured judgments are reduced to a sca"
+      "title": "LEDGERMIND: Provenance-Constrained Multimodal Agentic Reasoning with a Structured Evidence Ledger",
+      "url": "https://arxiv.org/abs/2607.28374",
+      "summary": "Multimodal agents for visual question answering increasingly operate as multi-step trajectories that interleave perception, retrieval, and reasoning, yet evaluation still largely reduces to final-answ"
     },
     {
-      "title": "SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution",
-      "url": "https://arxiv.org/abs/2607.26784",
-      "summary": "Large language model agents often encounter related yet distinct tasks that share reusable solution patterns. Yet standard agentic reinforcement learning treats tasks as independent episodes, while ex"
+      "title": "Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation",
+      "url": "https://arxiv.org/abs/2607.27372",
+      "summary": "The deep learning revolution, kicked off by AlexNet, taught us that end-to-end training beats decomposing a problem into hand-designed stages. Generative modeling, however, has remained the exception-"
     },
     {
-      "title": "DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space",
-      "url": "https://arxiv.org/abs/2607.25675",
-      "summary": "Text-space optimization adapts large language models (LLMs) by editing external natural-language artifacts rather than model weights, so the optimized artifacts remain inspectable and the model can be"
+      "title": "Revisiting Lossy Verification in Speculative Decoding: Mechanisms, Trade-offs, and Failure Modes",
+      "url": "https://arxiv.org/abs/2607.26627",
+      "summary": "Speculative Decoding (SD) accelerates large language model inference by allowing a lightweight draft model to propose tokens that are subsequently verified in parallel by a larger target model. Recent"
     },
     {
-      "title": "CAST: Game Solvers as Turn-Level Teachers for LLM Agents",
-      "url": "https://arxiv.org/abs/2607.25308",
-      "summary": "Training large language models (LLMs) to act in long-horizon games is a promising step toward generalist decision-making, yet reinforcement learning with verifiable rewards (RLVR) relies on sparse fin"
+      "title": "AI Tour Meeting: Group Travel Planning by LLM Agents",
+      "url": "https://arxiv.org/abs/2607.18806",
+      "summary": "This paper proposes AI Tour Meeting, a group travel planning framework powered by multiple Large Language Model (LLM)-based agents. The agents are instantiated with distinct personas and collaborative"
     },
     {
-      "title": "StealthBench: Measuring Operational Stealth in Autonomous Offensive-Security Agents",
-      "url": "https://arxiv.org/abs/2607.26314",
-      "summary": "Stealth, the discipline of achieving an objective without revealing your presence, capabilities, or collected intelligence, is what separates sophisticated operators from detectable ones. Elite securi"
+      "title": "Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation",
+      "url": "https://arxiv.org/abs/2607.27816",
+      "summary": "Role-playing agents (RPAs) have become one of the most important consumer applications of large language models. Users engage in multi-turn conversations with RPAs for experiences such as emotional co"
     },
     {
-      "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
-      "url": "https://arxiv.org/abs/2607.27155",
-      "summary": "Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents can carry out office"
+      "title": "MPIE-Bench: Benchmarking Anatomically Plausible Multi-Person Interaction Editing",
+      "url": "https://arxiv.org/abs/2607.27616",
+      "summary": "Text-to-image and personalized editing models now synthesize high-fidelity single-subject images with ease. Yet placing multiple named people into shared contact actions such as embrace, carry, or gra"
     },
     {
-      "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-      "url": "https://arxiv.org/abs/2607.27191",
-      "summary": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on nar"
+      "title": "Can Large Language Models Execute Parent Orders?",
+      "url": "https://arxiv.org/abs/2607.28410",
+      "summary": "Parent-order execution is a core problem in algorithmic trading, where the goal is to split a large order into smaller orders while reducing execution costs. Existing approaches either rely on pre-spe"
     },
     {
-      "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
-      "url": "https://arxiv.org/abs/2607.27205",
-      "summary": "Vision-language-action (VLA) models commonly adopt an LLM-centric V to L to A pathway, where visual observations are projected into the representation space of a large language model before being deco"
+      "title": "Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory",
+      "url": "https://arxiv.org/abs/2607.27919",
+      "summary": "Decoder-only language models entangle long-term memory and reasoning in a single parameter set, making it difficult to scale memory capacity independently. Memory Decoder introduces a parametric long-"
     },
     {
-      "title": "HumanCLAW: Can Vision-Language Models Act Through a Body?",
-      "url": "https://arxiv.org/abs/2607.27180",
-      "summary": "Evaluating whether a vision-language model (VLM) can act through a physical body is challenging. The outcome of an action couples the VLM's decision with motor control. When a task fails, it is hard t"
+      "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
+      "url": "https://arxiv.org/abs/2607.28227",
+      "summary": "GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execu"
     }
   ],
   "blog_posts": [
     {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "author": "huggingface.co"
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "author": "openai.com"
     },
     {
-      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "author": "nytimes.com"
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "author": "ctgt.ai"
     },
     {
-      "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
-      "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-      "author": "aistack.imec-int.com"
-    },
-    {
-      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-      "author": "juliahub.com"
-    },
-    {
-      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-      "url": "https://usetokenless.com/",
-      "author": "usetokenless.com"
-    },
-    {
-      "title": "Show HN: A local merge queue for parallel Claude Code agents",
-      "url": "https://github.com/funador/claude-code-merge-queue",
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://github.com/YoanWai/agent-manager",
       "author": "github.com"
     },
     {
-      "title": "Sukses",
-      "url": "https://medium.com/ruang-kontemplasi/sukses-ad3b7e4f579d",
-      "author": "Xingrahmat"
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "url": "https://openjdk.org/legal/ai",
+      "author": "openjdk.org"
     },
     {
-      "title": "How AI Is Redefining Enterprise Recruitment",
-      "url": "https://medium.com/@taurusai/how-ai-is-redefining-enterprise-recruitment-de6985064125",
-      "author": "Taurus"
+      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+      "url": "https://github.com/n67094/sdl_gp",
+      "author": "github.com"
+    },
+    {
+      "title": "Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test",
+      "url": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
+      "author": "blog.jetbrains.com"
+    },
+    {
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "author": "Tilde A. Thurium"
+    },
+    {
+      "title": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/judge-voices-doubt-us-has-justified-its-ban-on-anthropic-ai",
+      "author": "bloomberg.com"
     }
   ],
   "repos": [
     {
-      "name": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "stars": 51410,
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars": 86613,
       "language": "Python"
     },
     {
-      "name": "sgl-project/sglang",
-      "url": "https://github.com/sgl-project/sglang",
-      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
-      "stars": 30944,
+      "name": "streamlit/streamlit",
+      "url": "https://github.com/streamlit/streamlit",
+      "description": "Streamlit — A faster way to build and share data apps.",
+      "stars": 45433,
       "language": "Python"
     },
     {
-      "name": "different-ai/openwork",
-      "url": "https://github.com/different-ai/openwork",
-      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "stars": 18087,
-      "language": "TypeScript"
+      "name": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "stars": 37270,
+      "language": "Python"
     },
     {
-      "name": "maderix/ANE",
-      "url": "https://github.com/maderix/ANE",
-      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
-      "stars": 7177,
-      "language": "Objective-C"
+      "name": "ScrapeGraphAI/Scrapegraph-ai",
+      "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+      "description": "Python scraper based on AI",
+      "stars": 28822,
+      "language": "Python"
     }
   ],
   "tweets": []
