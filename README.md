@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-01</strong></summary>
+
+#### Papers
+
+1. **[OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models](https://arxiv.org/abs/2607.23193)**
+
+2. **[β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation](https://arxiv.org/abs/2607.28582)**
+
+3. **[Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing](https://arxiv.org/abs/2607.28308)**
+
+4. **[Fairness Pruning: Locating Demographic Bias in GLU-MLP Layers via Differential Activations](https://arxiv.org/abs/2607.28319)**
+
+5. **[Σ-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2607.27958)**
+
+6. **[See2Think: Do Multimodal Models Really Use Intermediate Visual States?](https://arxiv.org/abs/2607.26769)**
+
+7. **[Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability](https://arxiv.org/abs/2607.26637)**
+
+8. **[Pedestrian Archetypes Extension -- More Pedestrian Models for Autonomous Vehicle Safety Testing](https://arxiv.org/abs/2607.16922)**
+
+9. **[Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions](https://arxiv.org/abs/2607.20891)**
+
+10. **[ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow](https://arxiv.org/abs/2607.28362)**
+
+
+#### Blog Posts
+
+1. **[DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash)** by artificialanalysis.ai
+
+2. **[Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)** by tailscale.com
+
+3. **[Is AI reasoning right for the wrong reasons?](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)** by quantamagazine.org
+
+4. **[Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)** by marbleos.com
+
+5. **[13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](https://swe-rebench.com)** by swe-rebench.com
+
+6. **[Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)** by jwlabs.vercel.app
+
+7. **[Orca-Bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545)** by arxiv.org
+
+8. **[Show HN: How to build and self-host a code review agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)** by trytilde.ai
+
+
+#### Trending Repos
+
+1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you ⭐ 223495
+
+2. **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** — Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 ⭐ 35183
+
+3. **[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)** — The batteries-included agent harness. ⭐ 27175
+
+4. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K ⭐ 10930
+
+5. **[0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)** — HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun ⭐ 10721
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-07-31</strong></summary>
 
 #### Papers

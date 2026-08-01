@@ -1,36 +1,4 @@
 {
-  "2026-07-01": {
-    "papers": [
-      "https://arxiv.org/abs/2606.29215",
-      "https://arxiv.org/abs/2606.32032",
-      "https://arxiv.org/abs/2606.31029",
-      "https://arxiv.org/abs/2606.30968",
-      "https://arxiv.org/abs/2606.30319",
-      "https://arxiv.org/abs/2606.31315",
-      "https://arxiv.org/abs/2606.31410",
-      "https://arxiv.org/abs/2606.30673",
-      "https://arxiv.org/abs/2606.31734",
-      "https://arxiv.org/abs/2606.30534"
-    ],
-    "blogs": [
-      "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "https://www.anthropic.com/news/claude-sonnet-5",
-      "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "https://deepmind.google/models/gemini-image/flash-lite/",
-      "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-      "https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149",
-      "https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c",
-      "https://dev.to/dailycontext/the-log-is-the-agent-5096"
-    ],
-    "repos": [
-      "https://github.com/microsoft/AI-For-Beginners",
-      "https://github.com/ogulcancelik/herdr",
-      "https://github.com/diegosouzapw/OmniRoute",
-      "https://github.com/hasaneyldrm/exercises-dataset",
-      "https://github.com/altic-dev/FluidVoice",
-      "https://github.com/google/agents-cli"
-    ]
-  },
   "2026-07-02": {
     "papers": [
       "https://arxiv.org/abs/2607.00248",
@@ -950,6 +918,37 @@
       "https://github.com/streamlit/streamlit",
       "https://github.com/github/awesome-copilot",
       "https://github.com/ScrapeGraphAI/Scrapegraph-ai"
+    ]
+  },
+  "2026-08-01": {
+    "papers": [
+      "https://arxiv.org/abs/2607.23193",
+      "https://arxiv.org/abs/2607.28582",
+      "https://arxiv.org/abs/2607.28308",
+      "https://arxiv.org/abs/2607.28319",
+      "https://arxiv.org/abs/2607.27958",
+      "https://arxiv.org/abs/2607.26769",
+      "https://arxiv.org/abs/2607.26637",
+      "https://arxiv.org/abs/2607.16922",
+      "https://arxiv.org/abs/2607.20891",
+      "https://arxiv.org/abs/2607.28362"
+    ],
+    "blogs": [
+      "https://artificialanalysis.ai/models/deepseek-v4-flash",
+      "https://tailscale.com/blog/hugging-face-intrusion",
+      "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "https://marbleos.com/demo",
+      "https://swe-rebench.com",
+      "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "https://arxiv.org/abs/2607.28545",
+      "https://www.trytilde.ai/blog/how-to-build-code-review-agent"
+    ],
+    "repos": [
+      "https://github.com/NousResearch/hermes-agent",
+      "https://github.com/chatwoot/chatwoot",
+      "https://github.com/langchain-ai/deepagents",
+      "https://github.com/zhaoxuya520/reverse-skill",
+      "https://github.com/0x4m4/hexstrike-ai"
     ]
   }
 }

@@ -1,126 +1,133 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "papers": [
     {
-      "title": "INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models",
-      "url": "https://arxiv.org/abs/2607.26056",
-      "summary": "Forward latent world models predict how actions change a scene, but recover actions for a desired change only through expensive test-time search. We introduce INTACT (INtent-To-ACTion), an end-to-end "
+      "title": "OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2607.23193",
+      "summary": "Existing token compression methods for omnimodal large language models typically rely on one modality to determine what to retain in the other. We show that this assumption often breaks down: for the "
     },
     {
-      "title": "LEDGERMIND: Provenance-Constrained Multimodal Agentic Reasoning with a Structured Evidence Ledger",
-      "url": "https://arxiv.org/abs/2607.28374",
-      "summary": "Multimodal agents for visual question answering increasingly operate as multi-step trajectories that interleave perception, retrieval, and reasoning, yet evaluation still largely reduces to final-answ"
+      "title": "β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
+      "url": "https://arxiv.org/abs/2607.28582",
+      "summary": "On-policy self-distillation (OPSD) is a promising approach to improve reasoning language models, but it remains brittle in practice: making it work reliably often requires substantial engineering effo"
     },
     {
-      "title": "Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation",
-      "url": "https://arxiv.org/abs/2607.27372",
-      "summary": "The deep learning revolution, kicked off by AlexNet, taught us that end-to-end training beats decomposing a problem into hand-designed stages. Generative modeling, however, has remained the exception-"
+      "title": "Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing",
+      "url": "https://arxiv.org/abs/2607.28308",
+      "summary": "Sparse mixture-of-experts (MoE) language models route each token to multiple experts, suggesting a geometric account of their benefit: co-selected experts should contribute distinct representation dir"
     },
     {
-      "title": "Revisiting Lossy Verification in Speculative Decoding: Mechanisms, Trade-offs, and Failure Modes",
-      "url": "https://arxiv.org/abs/2607.26627",
-      "summary": "Speculative Decoding (SD) accelerates large language model inference by allowing a lightweight draft model to propose tokens that are subsequently verified in parallel by a larger target model. Recent"
+      "title": "Fairness Pruning: Locating Demographic Bias in GLU-MLP Layers via Differential Activations",
+      "url": "https://arxiv.org/abs/2607.28319",
+      "summary": "This work presents Fairness Pruning, a lightweight structural intervention method designed for the management and future mitigation of demographic bias in large language models (LLMs). As a foundation"
     },
     {
-      "title": "AI Tour Meeting: Group Travel Planning by LLM Agents",
-      "url": "https://arxiv.org/abs/2607.18806",
-      "summary": "This paper proposes AI Tour Meeting, a group travel planning framework powered by multiple Large Language Model (LLM)-based agents. The agents are instantiated with distinct personas and collaborative"
+      "title": "Σ-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2607.27958",
+      "summary": "Memory is central to long-horizon LLM agents, yet existing memory systems primarily preserve interaction content rather than modeling which agents can be trusted and under what conditions. This limita"
     },
     {
-      "title": "Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation",
-      "url": "https://arxiv.org/abs/2607.27816",
-      "summary": "Role-playing agents (RPAs) have become one of the most important consumer applications of large language models. Users engage in multi-turn conversations with RPAs for experiences such as emotional co"
+      "title": "See2Think: Do Multimodal Models Really Use Intermediate Visual States?",
+      "url": "https://arxiv.org/abs/2607.26769",
+      "summary": "Multimodal large language models increasingly use sketches, annotations, tools, and intermediate images during reasoning, but it remains unclear whether they truly rely on these visual states. Existin"
     },
     {
-      "title": "MPIE-Bench: Benchmarking Anatomically Plausible Multi-Person Interaction Editing",
-      "url": "https://arxiv.org/abs/2607.27616",
-      "summary": "Text-to-image and personalized editing models now synthesize high-fidelity single-subject images with ease. Yet placing multiple named people into shared contact actions such as embrace, carry, or gra"
+      "title": "Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability",
+      "url": "https://arxiv.org/abs/2607.26637",
+      "summary": "Deployed LLM agents increasingly keep their long-term memory as a filesystem: a directory tree of markdown files that the agent itself reads, writes, and reorganizes through generic file tools. Yet re"
     },
     {
-      "title": "Can Large Language Models Execute Parent Orders?",
-      "url": "https://arxiv.org/abs/2607.28410",
-      "summary": "Parent-order execution is a core problem in algorithmic trading, where the goal is to split a large order into smaller orders while reducing execution costs. Existing approaches either rely on pre-spe"
+      "title": "Pedestrian Archetypes Extension -- More Pedestrian Models for Autonomous Vehicle Safety Testing",
+      "url": "https://arxiv.org/abs/2607.16922",
+      "summary": "In our prior work, Pedestrian Archetypes, we defined pedestrian archetypes as collections of behaviors that uniquely identify a specific type of pedestrian. The first paper proposed 12 pedestrian arch"
     },
     {
-      "title": "Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory",
-      "url": "https://arxiv.org/abs/2607.27919",
-      "summary": "Decoder-only language models entangle long-term memory and reasoning in a single parameter set, making it difficult to scale memory capacity independently. Memory Decoder introduces a parametric long-"
+      "title": "Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions",
+      "url": "https://arxiv.org/abs/2607.20891",
+      "summary": "Deep Research agents extend LLM-based assistants into long-horizon workflows involving planning, retrieval, evidence synthesis, and report generation, yet their reliability in open information environ"
     },
     {
-      "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
-      "url": "https://arxiv.org/abs/2607.28227",
-      "summary": "GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execu"
+      "title": "ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow",
+      "url": "https://arxiv.org/abs/2607.28362",
+      "summary": "We present ShadowDancer, a novel approach to any-action, frame-level control of interactive video world models. The obstacle is representational: existing interfaces either encode an action loosely, l"
     }
   ],
   "blog_posts": [
     {
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "author": "openai.com"
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+      "author": "artificialanalysis.ai"
     },
     {
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "author": "ctgt.ai"
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "author": "tailscale.com"
     },
     {
-      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
-      "url": "https://github.com/YoanWai/agent-manager",
-      "author": "github.com"
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "author": "quantamagazine.org"
     },
     {
-      "title": "OpenJDK Interim Policy on Generative AI",
-      "url": "https://openjdk.org/legal/ai",
-      "author": "openjdk.org"
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "url": "https://marbleos.com/demo",
+      "author": "marbleos.com"
     },
     {
-      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
-      "url": "https://github.com/n67094/sdl_gp",
-      "author": "github.com"
+      "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
+      "url": "https://swe-rebench.com",
+      "author": "swe-rebench.com"
     },
     {
-      "title": "Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test",
-      "url": "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
-      "author": "blog.jetbrains.com"
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "author": "jwlabs.vercel.app"
     },
     {
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "author": "Tilde A. Thurium"
+      "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+      "url": "https://arxiv.org/abs/2607.28545",
+      "author": "arxiv.org"
     },
     {
-      "title": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/judge-voices-doubt-us-has-justified-its-ban-on-anthropic-ai",
-      "author": "bloomberg.com"
+      "title": "Show HN: How to build and self-host a code review agent",
+      "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+      "author": "trytilde.ai"
     }
   ],
   "repos": [
     {
-      "name": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": 86613,
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 223495,
       "language": "Python"
     },
     {
-      "name": "streamlit/streamlit",
-      "url": "https://github.com/streamlit/streamlit",
-      "description": "Streamlit — A faster way to build and share data apps.",
-      "stars": 45433,
+      "name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "stars": 35183,
+      "language": "Ruby"
+    },
+    {
+      "name": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "description": "The batteries-included agent harness.",
+      "stars": 27175,
       "language": "Python"
     },
     {
-      "name": "github/awesome-copilot",
-      "url": "https://github.com/github/awesome-copilot",
-      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-      "stars": 37270,
-      "language": "Python"
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+      "stars": 10930,
+      "language": "PowerShell"
     },
     {
-      "name": "ScrapeGraphAI/Scrapegraph-ai",
-      "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
-      "description": "Python scraper based on AI",
-      "stars": 28822,
+      "name": "0x4m4/hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun",
+      "stars": 10721,
       "language": "Python"
     }
   ],
