@@ -10,6 +10,71 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-02</strong></summary>
+
+#### Papers
+
+1. **[Learning to Trace Seiberg Dualities](http://arxiv.org/abs/2607.28628v1)**
+
+2. **[ReToken: One Token to Improve Vision-Language Models for Visual Retrieval](http://arxiv.org/abs/2607.28627v1)**
+
+3. **[PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball](http://arxiv.org/abs/2607.28623v1)**
+
+4. **[AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](http://arxiv.org/abs/2607.28618v1)**
+
+5. **[AISPA: User-Centric System Prompt Auditing for Large Language Model Applications](http://arxiv.org/abs/2607.28617v1)**
+
+6. **[OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](http://arxiv.org/abs/2607.28609v1)**
+
+7. **[KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models](http://arxiv.org/abs/2607.28608v1)**
+
+8. **[Inducing language models to assert their own consciousness restores human beliefs and values](http://arxiv.org/abs/2607.28607v1)**
+
+9. **[Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments](http://arxiv.org/abs/2607.28591v1)**
+
+10. **[VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation](http://arxiv.org/abs/2607.28590v1)**
+
+
+#### Blog Posts
+
+1. **[Explorative modeling: Train on the best of K guesses](https://alexiglad.github.io/blog/2026/explorative_modeling/)** by alexiglad.github.io
+
+2. **[OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]](https://philarchive.org/archive/NIEWTCv17)** by philarchive.org
+
+3. **[Catbot: Custom Grammar Problem Fixed](https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5)** by Anna Villarreal
+
+4. **[Do Knowledge Graphs Actually Improve Accuracy in Pharma Manufacturing?](https://medium.com/@clearmindrocks/do-knowledge-graphs-actually-improve-accuracy-in-pharma-manufacturing-19291dff8651)** by Chinmaya Panda
+
+5. **[You Can’t Just Decide to Think Better](https://medium.com/@aludanyi/you-cant-just-decide-to-think-better-21cd6d15e96b)** by Andras Ludanyi
+
+6. **[Temperature 0 vs 1.0: Greedy Decoding Collapsed 14% of Llama's 128K Calls](https://pub.towardsai.net/temperature-0-vs-1-0-greedy-decoding-collapsed-14-of-llamas-128k-calls-5e36ddd81c1f)** by Chew Loong Nian - AI ENGINEER
+
+7. **[The Math You Already Know Is Running Your RAG Pipeline](https://medium.com/@ashtosh.shenoy/the-math-you-already-know-is-running-your-rag-pipeline-298eb4efa7a1)** by Ashutosh Shenoy
+
+
+#### Trending Repos
+
+1. **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** — 21 Lessons, Get Started Building with Generative AI ⭐ 114319
+
+2. **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** — AI agents running research on single-GPU nanochat training automatically ⭐ 92758
+
+3. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta ⭐ 78793
+
+4. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** — Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models. ⭐ 69366
+
+5. **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** — 12 Weeks, 24 Lessons, AI for All! ⭐ 57623
+
+6. **[SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships)** — Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC. ⭐ 45674
+
+7. **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** — The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i ⭐ 35572
+
+8. **[abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)** — Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 &amp; F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal i ⭐ 11830
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-01</strong></summary>
 
 #### Papers

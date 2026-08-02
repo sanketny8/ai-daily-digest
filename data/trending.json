@@ -1,133 +1,149 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "papers": [
     {
-      "title": "OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models",
-      "url": "https://arxiv.org/abs/2607.23193",
-      "summary": "Existing token compression methods for omnimodal large language models typically rely on one modality to determine what to retain in the other. We show that this assumption often breaks down: for the "
+      "title": "Learning to Trace Seiberg Dualities",
+      "url": "http://arxiv.org/abs/2607.28628v1",
+      "summary": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ"
     },
     {
-      "title": "β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
-      "url": "https://arxiv.org/abs/2607.28582",
-      "summary": "On-policy self-distillation (OPSD) is a promising approach to improve reasoning language models, but it remains brittle in practice: making it work reliably often requires substantial engineering effo"
+      "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
+      "url": "http://arxiv.org/abs/2607.28627v1",
+      "summary": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU mem"
     },
     {
-      "title": "Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing",
-      "url": "https://arxiv.org/abs/2607.28308",
-      "summary": "Sparse mixture-of-experts (MoE) language models route each token to multiple experts, suggesting a geometric account of their benefit: co-selected experts should contribute distinct representation dir"
+      "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
+      "url": "http://arxiv.org/abs/2607.28623v1",
+      "summary": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ba"
     },
     {
-      "title": "Fairness Pruning: Locating Demographic Bias in GLU-MLP Layers via Differential Activations",
-      "url": "https://arxiv.org/abs/2607.28319",
-      "summary": "This work presents Fairness Pruning, a lightweight structural intervention method designed for the management and future mitigation of demographic bias in large language models (LLMs). As a foundation"
+      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+      "url": "http://arxiv.org/abs/2607.28618v1",
+      "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul"
     },
     {
-      "title": "Σ-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2607.27958",
-      "summary": "Memory is central to long-horizon LLM agents, yet existing memory systems primarily preserve interaction content rather than modeling which agents can be trusted and under what conditions. This limita"
+      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "url": "http://arxiv.org/abs/2607.28617v1",
+      "summary": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to t"
     },
     {
-      "title": "See2Think: Do Multimodal Models Really Use Intermediate Visual States?",
-      "url": "https://arxiv.org/abs/2607.26769",
-      "summary": "Multimodal large language models increasingly use sketches, annotations, tools, and intermediate images during reasoning, but it remains unclear whether they truly rely on these visual states. Existin"
+      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+      "url": "http://arxiv.org/abs/2607.28609v1",
+      "summary": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is"
     },
     {
-      "title": "Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability",
-      "url": "https://arxiv.org/abs/2607.26637",
-      "summary": "Deployed LLM agents increasingly keep their long-term memory as a filesystem: a directory tree of markdown files that the agent itself reads, writes, and reorganizes through generic file tools. Yet re"
+      "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
+      "url": "http://arxiv.org/abs/2607.28608v1",
+      "summary": "Clinical risk models routinely achieve strong aggregate performance while producing materially different error rates across patient subgroups. Audit pipelines have been proposed to catch this, but the"
     },
     {
-      "title": "Pedestrian Archetypes Extension -- More Pedestrian Models for Autonomous Vehicle Safety Testing",
-      "url": "https://arxiv.org/abs/2607.16922",
-      "summary": "In our prior work, Pedestrian Archetypes, we defined pedestrian archetypes as collections of behaviors that uniquely identify a specific type of pedestrian. The first paper proposed 12 pedestrian arch"
+      "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
+      "url": "http://arxiv.org/abs/2607.28607v1",
+      "summary": "Aligning large language models to prevent them attributing consciousness to themselves inadvertently alters their representations of mindedness in other entities alongside human beliefs and values. We"
     },
     {
-      "title": "Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions",
-      "url": "https://arxiv.org/abs/2607.20891",
-      "summary": "Deep Research agents extend LLM-based assistants into long-horizon workflows involving planning, retrieval, evidence synthesis, and report generation, yet their reliability in open information environ"
+      "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+      "url": "http://arxiv.org/abs/2607.28591v1",
+      "summary": "Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with a specification, deve"
     },
     {
-      "title": "ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow",
-      "url": "https://arxiv.org/abs/2607.28362",
-      "summary": "We present ShadowDancer, a novel approach to any-action, frame-level control of interactive video world models. The obstacle is representational: existing interfaces either encode an action loosely, l"
+      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2607.28590v1",
+      "summary": "Multimodal on-policy distillation (OPD) transfers fine-grained visual knowledge by supervising student-generated trajectories with a privileged-view teacher. Yet its next-token corrections are source-"
     }
   ],
   "blog_posts": [
     {
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "author": "artificialanalysis.ai"
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "author": "alexiglad.github.io"
     },
     {
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "author": "tailscale.com"
+      "title": "OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+      "url": "https://philarchive.org/archive/NIEWTCv17",
+      "author": "philarchive.org"
     },
     {
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "author": "quantamagazine.org"
+      "title": "Catbot: Custom Grammar Problem Fixed",
+      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "author": "Anna Villarreal"
     },
     {
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "url": "https://marbleos.com/demo",
-      "author": "marbleos.com"
+      "title": "Do Knowledge Graphs Actually Improve Accuracy in Pharma Manufacturing?",
+      "url": "https://medium.com/@clearmindrocks/do-knowledge-graphs-actually-improve-accuracy-in-pharma-manufacturing-19291dff8651",
+      "author": "Chinmaya Panda"
     },
     {
-      "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-      "url": "https://swe-rebench.com",
-      "author": "swe-rebench.com"
+      "title": "You Can’t Just Decide to Think Better",
+      "url": "https://medium.com/@aludanyi/you-cant-just-decide-to-think-better-21cd6d15e96b",
+      "author": "Andras Ludanyi"
     },
     {
-      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-      "author": "jwlabs.vercel.app"
+      "title": "Temperature 0 vs 1.0: Greedy Decoding Collapsed 14% of Llama's 128K Calls",
+      "url": "https://pub.towardsai.net/temperature-0-vs-1-0-greedy-decoding-collapsed-14-of-llamas-128k-calls-5e36ddd81c1f",
+      "author": "Chew Loong Nian - AI ENGINEER"
     },
     {
-      "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-      "url": "https://arxiv.org/abs/2607.28545",
-      "author": "arxiv.org"
-    },
-    {
-      "title": "Show HN: How to build and self-host a code review agent",
-      "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
-      "author": "trytilde.ai"
+      "title": "The Math You Already Know Is Running Your RAG Pipeline",
+      "url": "https://medium.com/@ashtosh.shenoy/the-math-you-already-know-is-running-your-rag-pipeline-298eb4efa7a1",
+      "author": "Ashutosh Shenoy"
     }
   ],
   "repos": [
     {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 223495,
+      "name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "stars": 114319,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "karpathy/autoresearch",
+      "url": "https://github.com/karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 92758,
       "language": "Python"
     },
     {
-      "name": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "stars": 35183,
-      "language": "Ruby"
-    },
-    {
-      "name": "langchain-ai/deepagents",
-      "url": "https://github.com/langchain-ai/deepagents",
-      "description": "The batteries-included agent harness.",
-      "stars": 27175,
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+      "stars": 78793,
       "language": "Python"
     },
     {
-      "name": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
-      "stars": 10930,
-      "language": "PowerShell"
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.",
+      "stars": 69366,
+      "language": "Python"
     },
     {
-      "name": "0x4m4/hexstrike-ai",
-      "url": "https://github.com/0x4m4/hexstrike-ai",
-      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun",
-      "stars": 10721,
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": 57623,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "SimplifyJobs/Summer2027-Internships",
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "stars": 45674,
+      "language": "Python"
+    },
+    {
+      "name": "ashishpatel26/500-AI-Agents-Projects",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i",
+      "stars": 35572,
+      "language": "Python"
+    },
+    {
+      "name": "abus-aikorea/voice-pro",
+      "url": "https://github.com/abus-aikorea/voice-pro",
+      "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 &amp; F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal i",
+      "stars": 11830,
       "language": "Python"
     }
   ],

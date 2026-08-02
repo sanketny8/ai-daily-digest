@@ -1,32 +1,4 @@
 {
-  "2026-07-02": {
-    "papers": [
-      "https://arxiv.org/abs/2607.00248",
-      "https://arxiv.org/abs/2607.00272",
-      "https://arxiv.org/abs/2607.01071",
-      "https://arxiv.org/abs/2606.32029",
-      "https://arxiv.org/abs/2607.01218",
-      "https://arxiv.org/abs/2607.01191",
-      "https://arxiv.org/abs/2606.19271",
-      "https://arxiv.org/abs/2606.31551",
-      "https://arxiv.org/abs/2607.01104",
-      "https://arxiv.org/abs/2607.00666"
-    ],
-    "blogs": [
-      "https://twitter.com/claudeai/status/2072402636813607381",
-      "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
-      "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
-      "https://senior-swe-bench.snorkel.ai/",
-      "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
-      "https://dev.to/xulingfeng/stratagems-4-p-walked-into-an-ai-monitoring-poc-p-didnt-run-a-single-test-1ejk"
-    ],
-    "repos": [
-      "https://github.com/open-webui/open-webui",
-      "https://github.com/ultralytics/yolov5",
-      "https://github.com/yikart/AiToEarn",
-      "https://github.com/allenai/olmocr"
-    ]
-  },
   "2026-07-03": {
     "papers": [
       "https://arxiv.org/abs/2607.02255",
@@ -949,6 +921,39 @@
       "https://github.com/langchain-ai/deepagents",
       "https://github.com/zhaoxuya520/reverse-skill",
       "https://github.com/0x4m4/hexstrike-ai"
+    ]
+  },
+  "2026-08-02": {
+    "papers": [
+      "http://arxiv.org/abs/2607.28628v1",
+      "http://arxiv.org/abs/2607.28627v1",
+      "http://arxiv.org/abs/2607.28623v1",
+      "http://arxiv.org/abs/2607.28618v1",
+      "http://arxiv.org/abs/2607.28617v1",
+      "http://arxiv.org/abs/2607.28609v1",
+      "http://arxiv.org/abs/2607.28608v1",
+      "http://arxiv.org/abs/2607.28607v1",
+      "http://arxiv.org/abs/2607.28591v1",
+      "http://arxiv.org/abs/2607.28590v1"
+    ],
+    "blogs": [
+      "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "https://philarchive.org/archive/NIEWTCv17",
+      "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
+      "https://medium.com/@clearmindrocks/do-knowledge-graphs-actually-improve-accuracy-in-pharma-manufacturing-19291dff8651",
+      "https://medium.com/@aludanyi/you-cant-just-decide-to-think-better-21cd6d15e96b",
+      "https://pub.towardsai.net/temperature-0-vs-1-0-greedy-decoding-collapsed-14-of-llamas-128k-calls-5e36ddd81c1f",
+      "https://medium.com/@ashtosh.shenoy/the-math-you-already-know-is-running-your-rag-pipeline-298eb4efa7a1"
+    ],
+    "repos": [
+      "https://github.com/microsoft/generative-ai-for-beginners",
+      "https://github.com/karpathy/autoresearch",
+      "https://github.com/bytedance/deer-flow",
+      "https://github.com/unslothai/unsloth",
+      "https://github.com/microsoft/AI-For-Beginners",
+      "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "https://github.com/abus-aikorea/voice-pro"
     ]
   }
 }
