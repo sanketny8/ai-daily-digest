@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-03</strong></summary>
+
+#### Papers
+
+1. **[Enhancing Rubric-based RL via Self-Distillation](https://arxiv.org/abs/2607.18082)**
+
+2. **[Evaluation-Verification Reward for Consistent Multi-Reference Image Editing](https://arxiv.org/abs/2607.29025)**
+
+3. **[ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction](https://arxiv.org/abs/2607.29677)**
+
+4. **[Meshy T2: Fast Native Mesh Generation with Flow Matching](https://arxiv.org/abs/2607.28675)**
+
+5. **[Scaling Properties of Text Conditioning in Visual Generation](https://arxiv.org/abs/2607.29679)**
+
+6. **[QQWorld: Quantile-Quantile Matching for World Model Regularization](https://arxiv.org/abs/2607.28415)**
+
+7. **[N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://arxiv.org/abs/2607.23782)**
+
+8. **[From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement](https://arxiv.org/abs/2607.23802)**
+
+9. **[AISPA: User-Centric System Prompt Auditing for Large Language Model Applications](https://arxiv.org/abs/2607.28617)**
+
+10. **[TokTier: Exact Stateful Tokenization for Agentic LLM Serving](http://arxiv.org/abs/2607.29678v1)**
+
+
+#### Blog Posts
+
+1. **[My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”](https://frogs.vaguespac.es/)** by frogs.vaguespac.es
+
+2. **[Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)** by publicdomainreview.org
+
+3. **[Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html)** by mattbeton.com
+
+4. **[Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.](https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7)** by xulingfeng
+
+5. **[OpenAI's super PAC is funding AI-generated news site attacking industry critics](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)** by modelrepublic.org
+
+6. **[OpenAI’s amazing — but vastly oversold — new model Astra](https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold)** by garymarcus.substack.com
+
+7. **[Dollars and rupees without Stripe: what building Skill Exchange's checkout taught me (PayPal + UPI)](https://dev.to/mohanvenkatakrishnan/dollars-and-rupees-without-stripe-what-building-skill-exchanges-checkout-taught-me-paypal-upi-3i8p)** by Mohan
+
+8. **[Delegation: How AI Reshapes Leadership’s Oldest Question](https://centerforhciva.medium.com/delegation-how-ai-reshapes-leaderships-oldest-question-b286fe2c9afe)** by Center For Human Capital Innovation
+
+
+#### Trending Repos
+
+1. **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. ⭐ 29279
+
+2. **[antirez/ds4](https://github.com/antirez/ds4)** — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm ⭐ 20086
+
+3. **[Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)** — Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 ⭐ 18031
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-02</strong></summary>
 
 #### Papers

@@ -1,35 +1,4 @@
 {
-  "2026-07-03": {
-    "papers": [
-      "https://arxiv.org/abs/2607.02255",
-      "https://arxiv.org/abs/2607.02508",
-      "https://arxiv.org/abs/2607.01436",
-      "https://arxiv.org/abs/2606.27669",
-      "https://arxiv.org/abs/2607.01874",
-      "https://arxiv.org/abs/2607.02032",
-      "https://arxiv.org/abs/2607.02375",
-      "https://arxiv.org/abs/2606.30562",
-      "https://arxiv.org/abs/2607.02466",
-      "https://arxiv.org/abs/2607.01642"
-    ],
-    "blogs": [
-      "https://arxiv.org/abs/2607.01232",
-      "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "https://github.com/rafal-qa/slopo",
-      "https://dev.to/dailycontext/letting-the-dev-community-weigh-in-on-the-topics-of-aie-439l",
-      "https://dev.to/dailycontext/let-us-be-free-2ico",
-      "https://dev.to/dailycontext/18-hot-takes-on-where-ai-is-headed-next-10b9",
-      "https://dev.to/dailycontext/these-founders-skipped-graduation-to-be-here-1o3d"
-    ],
-    "repos": [
-      "https://github.com/affaan-m/ECC",
-      "https://github.com/huggingface/transformers",
-      "https://github.com/langflow-ai/langflow",
-      "https://github.com/anthropics/claude-code",
-      "https://github.com/JuliusBrussee/caveman",
-      "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-    ]
-  },
   "2026-07-04": {
     "papers": [
       "https://arxiv.org/abs/2607.01283",
@@ -954,6 +923,35 @@
       "https://github.com/SimplifyJobs/Summer2027-Internships",
       "https://github.com/ashishpatel26/500-AI-Agents-Projects",
       "https://github.com/abus-aikorea/voice-pro"
+    ]
+  },
+  "2026-08-03": {
+    "papers": [
+      "https://arxiv.org/abs/2607.18082",
+      "https://arxiv.org/abs/2607.29025",
+      "https://arxiv.org/abs/2607.29677",
+      "https://arxiv.org/abs/2607.28675",
+      "https://arxiv.org/abs/2607.29679",
+      "https://arxiv.org/abs/2607.28415",
+      "https://arxiv.org/abs/2607.23782",
+      "https://arxiv.org/abs/2607.23802",
+      "https://arxiv.org/abs/2607.28617",
+      "http://arxiv.org/abs/2607.29678v1"
+    ],
+    "blogs": [
+      "https://frogs.vaguespac.es/",
+      "https://publicdomainreview.org/essay/ars-notoria/",
+      "https://mattbeton.com/blog/bitnet-6502.html",
+      "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
+      "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+      "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "https://dev.to/mohanvenkatakrishnan/dollars-and-rupees-without-stripe-what-building-skill-exchanges-checkout-taught-me-paypal-upi-3i8p",
+      "https://centerforhciva.medium.com/delegation-how-ai-reshapes-leaderships-oldest-question-b286fe2c9afe"
+    ],
+    "repos": [
+      "https://github.com/esengine/DeepSeek-Reasonix",
+      "https://github.com/antirez/ds4",
+      "https://github.com/Huanshere/VideoLingo"
     ]
   }
 }

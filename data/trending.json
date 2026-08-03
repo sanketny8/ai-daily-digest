@@ -1,149 +1,119 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "papers": [
     {
-      "title": "Learning to Trace Seiberg Dualities",
-      "url": "http://arxiv.org/abs/2607.28628v1",
-      "summary": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ"
+      "title": "Enhancing Rubric-based RL via Self-Distillation",
+      "url": "https://arxiv.org/abs/2607.18082",
+      "summary": "Rubric-based RL has recently shown promise in improving LLMs on open-ended tasks. A widely recognized limitation of rubric-based RL is limited exploration: criteria that no rollout manages to satisfy "
     },
     {
-      "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
-      "url": "http://arxiv.org/abs/2607.28627v1",
-      "summary": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU mem"
+      "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
+      "url": "https://arxiv.org/abs/2607.29025",
+      "summary": "While recent image editing models have made rapid progress, multi-reference editing remains challenging, particularly in maintaining visual consistency across references and ensuring overall visual ha"
     },
     {
-      "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
-      "url": "http://arxiv.org/abs/2607.28623v1",
-      "summary": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ba"
+      "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+      "url": "https://arxiv.org/abs/2607.29677",
+      "summary": "Enterprise workflows increasingly rely on agents for schema-guided extraction: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with so"
     },
     {
-      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
-      "url": "http://arxiv.org/abs/2607.28618v1",
-      "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul"
+      "title": "Meshy T2: Fast Native Mesh Generation with Flow Matching",
+      "url": "https://arxiv.org/abs/2607.28675",
+      "summary": "Polygonal meshes are the standard surface representation of modern 3D pipelines, and generating high-quality meshes with artist-style topology is essential for film, gaming, and interactive 3D applica"
+    },
+    {
+      "title": "Scaling Properties of Text Conditioning in Visual Generation",
+      "url": "https://arxiv.org/abs/2607.29679",
+      "summary": "We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-l"
+    },
+    {
+      "title": "QQWorld: Quantile-Quantile Matching for World Model Regularization",
+      "url": "https://arxiv.org/abs/2607.28415",
+      "summary": "Latent world models enable efficient planning by predicting future states in a compact representation space, but their performance depends critically on the quality of the learned latent distribution."
+    },
+    {
+      "title": "N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens",
+      "url": "https://arxiv.org/abs/2607.23782",
+      "summary": "We present N_0-VTLA, a vision-tactile-language-action (VTLA) foundation model capable of (1) fine-grained contact-rich manipulation with tactile perception and tactile-feedback control, and (2) offlin"
+    },
+    {
+      "title": "From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement",
+      "url": "https://arxiv.org/abs/2607.23802",
+      "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) has driven recent progress in reasoning-oriented large language models (LLMs) by enabling large-scale optimization. However, its applicability rem"
     },
     {
       "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
-      "url": "http://arxiv.org/abs/2607.28617v1",
+      "url": "https://arxiv.org/abs/2607.28617",
       "summary": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to t"
     },
     {
-      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
-      "url": "http://arxiv.org/abs/2607.28609v1",
-      "summary": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is"
-    },
-    {
-      "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
-      "url": "http://arxiv.org/abs/2607.28608v1",
-      "summary": "Clinical risk models routinely achieve strong aggregate performance while producing materially different error rates across patient subgroups. Audit pipelines have been proposed to catch this, but the"
-    },
-    {
-      "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
-      "url": "http://arxiv.org/abs/2607.28607v1",
-      "summary": "Aligning large language models to prevent them attributing consciousness to themselves inadvertently alters their representations of mindedness in other entities alongside human beliefs and values. We"
-    },
-    {
-      "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
-      "url": "http://arxiv.org/abs/2607.28591v1",
-      "summary": "Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with a specification, deve"
-    },
-    {
-      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
-      "url": "http://arxiv.org/abs/2607.28590v1",
-      "summary": "Multimodal on-policy distillation (OPD) transfers fine-grained visual knowledge by supervising student-generated trajectories with a privileged-view teacher. Yet its next-token corrections are source-"
+      "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
+      "url": "http://arxiv.org/abs/2607.29678v1",
+      "summary": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small"
     }
   ],
   "blog_posts": [
     {
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "author": "alexiglad.github.io"
+      "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+      "url": "https://frogs.vaguespac.es/",
+      "author": "frogs.vaguespac.es"
     },
     {
-      "title": "OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
-      "url": "https://philarchive.org/archive/NIEWTCv17",
-      "author": "philarchive.org"
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
+      "author": "publicdomainreview.org"
     },
     {
-      "title": "Catbot: Custom Grammar Problem Fixed",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
-      "author": "Anna Villarreal"
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "author": "mattbeton.com"
     },
     {
-      "title": "Do Knowledge Graphs Actually Improve Accuracy in Pharma Manufacturing?",
-      "url": "https://medium.com/@clearmindrocks/do-knowledge-graphs-actually-improve-accuracy-in-pharma-manufacturing-19291dff8651",
-      "author": "Chinmaya Panda"
+      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
+      "url": "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
+      "author": "xulingfeng"
     },
     {
-      "title": "You Can’t Just Decide to Think Better",
-      "url": "https://medium.com/@aludanyi/you-cant-just-decide-to-think-better-21cd6d15e96b",
-      "author": "Andras Ludanyi"
+      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+      "author": "modelrepublic.org"
     },
     {
-      "title": "Temperature 0 vs 1.0: Greedy Decoding Collapsed 14% of Llama's 128K Calls",
-      "url": "https://pub.towardsai.net/temperature-0-vs-1-0-greedy-decoding-collapsed-14-of-llamas-128k-calls-5e36ddd81c1f",
-      "author": "Chew Loong Nian - AI ENGINEER"
+      "title": "OpenAI’s amazing — but vastly oversold — new model Astra",
+      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "author": "garymarcus.substack.com"
     },
     {
-      "title": "The Math You Already Know Is Running Your RAG Pipeline",
-      "url": "https://medium.com/@ashtosh.shenoy/the-math-you-already-know-is-running-your-rag-pipeline-298eb4efa7a1",
-      "author": "Ashutosh Shenoy"
+      "title": "Dollars and rupees without Stripe: what building Skill Exchange's checkout taught me (PayPal + UPI)",
+      "url": "https://dev.to/mohanvenkatakrishnan/dollars-and-rupees-without-stripe-what-building-skill-exchanges-checkout-taught-me-paypal-upi-3i8p",
+      "author": "Mohan"
+    },
+    {
+      "title": "Delegation: How AI Reshapes Leadership’s Oldest Question",
+      "url": "https://centerforhciva.medium.com/delegation-how-ai-reshapes-leaderships-oldest-question-b286fe2c9afe",
+      "author": "Center For Human Capital Innovation"
     }
   ],
   "repos": [
     {
-      "name": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI",
-      "stars": 114319,
-      "language": "Jupyter Notebook"
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 29279,
+      "language": "Go"
     },
     {
-      "name": "karpathy/autoresearch",
-      "url": "https://github.com/karpathy/autoresearch",
-      "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 92758,
-      "language": "Python"
+      "name": "antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "stars": 20086,
+      "language": "C"
     },
     {
-      "name": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-      "stars": 78793,
-      "language": "Python"
-    },
-    {
-      "name": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.",
-      "stars": 69366,
-      "language": "Python"
-    },
-    {
-      "name": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": 57623,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "name": "SimplifyJobs/Summer2027-Internships",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
-      "stars": 45674,
-      "language": "Python"
-    },
-    {
-      "name": "ashishpatel26/500-AI-Agents-Projects",
-      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
-      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i",
-      "stars": 35572,
-      "language": "Python"
-    },
-    {
-      "name": "abus-aikorea/voice-pro",
-      "url": "https://github.com/abus-aikorea/voice-pro",
-      "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 &amp; F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal i",
-      "stars": 11830,
+      "name": "Huanshere/VideoLingo",
+      "url": "https://github.com/Huanshere/VideoLingo",
+      "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+      "stars": 18031,
       "language": "Python"
     }
   ],
