@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-04</strong></summary>
+
+#### Papers
+
+1. **[SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation](https://arxiv.org/abs/2608.02287)**
+
+2. **[WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity](https://arxiv.org/abs/2608.02603)**
+
+3. **[SWE-Touch: Benchmarking Coding Agents When Users Touch the Code](https://arxiv.org/abs/2608.02499)**
+
+4. **[UEmbed: Unified Sparse and Dense Multimodal Embeddings](https://arxiv.org/abs/2608.02583)**
+
+5. **[Poplar: A Scalable Pipeline for Human-Centric Image Dataset Synthesis](https://arxiv.org/abs/2608.00440)**
+
+6. **[SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks](https://arxiv.org/abs/2608.02023)**
+
+7. **[WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning](https://arxiv.org/abs/2607.29613)**
+
+8. **[StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph Field](https://arxiv.org/abs/2608.01954)**
+
+9. **[ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step](https://arxiv.org/abs/2608.02358)**
+
+10. **[Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis](https://arxiv.org/abs/2608.01973)**
+
+
+#### Blog Posts
+
+1. **[Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)** by openai.com
+
+2. **[Why we write our own C and C++ inference engines](https://localai.io/blog/why-we-write-our-own-engines/)** by localai.io
+
+3. **[Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler/)** by github.com
+
+4. **[Why Rocq is better than Lean for program verification](https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html)** by joomy
+
+5. **[How would you decide, whether the content is good or bad?](https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p)** by FrancisTRᴅᴇᴠ (っ◔◡◔)っ
+
+6. **[Show HN: Product analytics (and evals) for agent sessions on your MCP](https://armature.tech/)** by armature.tech
+
+7. **[We’re Giving AI Agents More Tools. What Happens When the Boundaries Fail?](https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh)** by Hemapriya Kanagala
+
+
+#### Trending Repos
+
+1. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist ⭐ 32547
+
+2. **[invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)** — Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol ⭐ 27755
+
+3. **[comet-ml/opik](https://github.com/comet-ml/opik)** — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. ⭐ 21096
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-03</strong></summary>
 
 #### Papers

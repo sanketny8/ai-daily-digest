@@ -1,119 +1,114 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "papers": [
     {
-      "title": "Enhancing Rubric-based RL via Self-Distillation",
-      "url": "https://arxiv.org/abs/2607.18082",
-      "summary": "Rubric-based RL has recently shown promise in improving LLMs on open-ended tasks. A widely recognized limitation of rubric-based RL is limited exploration: criteria that no rollout manages to satisfy "
+      "title": "SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation",
+      "url": "https://arxiv.org/abs/2608.02287",
+      "summary": "Agent skills have become an important mechanism for equipping language-model agents with reusable procedural knowledge. However, providing skills alone does not guarantee that current models can effec"
     },
     {
-      "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
-      "url": "https://arxiv.org/abs/2607.29025",
-      "summary": "While recent image editing models have made rapid progress, multi-reference editing remains challenging, particularly in maintaining visual consistency across references and ensuring overall visual ha"
+      "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
+      "url": "https://arxiv.org/abs/2608.02603",
+      "summary": "Controllable video generation models are increasingly being developed as world models. Accordingly, evaluating them in this role extends beyond the apparent appearance of generated videos to the inher"
     },
     {
-      "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
-      "url": "https://arxiv.org/abs/2607.29677",
-      "summary": "Enterprise workflows increasingly rely on agents for schema-guided extraction: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with so"
+      "title": "SWE-Touch: Benchmarking Coding Agents When Users Touch the Code",
+      "url": "https://arxiv.org/abs/2608.02499",
+      "summary": "Real-world software development requires coding agents to operate in shared workspaces where users may inspect and modify code during an ongoing task, yet existing repository-level benchmarks typicall"
     },
     {
-      "title": "Meshy T2: Fast Native Mesh Generation with Flow Matching",
-      "url": "https://arxiv.org/abs/2607.28675",
-      "summary": "Polygonal meshes are the standard surface representation of modern 3D pipelines, and generating high-quality meshes with artist-style topology is essential for film, gaming, and interactive 3D applica"
+      "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+      "url": "https://arxiv.org/abs/2608.02583",
+      "summary": "Sparse retrieval underpins modern search systems, from web search to retrieval-augmented generation. Existing work has introduced Learned Sparse Retrieval (LSR) to push beyond exact lexical matching t"
     },
     {
-      "title": "Scaling Properties of Text Conditioning in Visual Generation",
-      "url": "https://arxiv.org/abs/2607.29679",
-      "summary": "We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-l"
+      "title": "Poplar: A Scalable Pipeline for Human-Centric Image Dataset Synthesis",
+      "url": "https://arxiv.org/abs/2608.00440",
+      "summary": "Recent image generators can synthesize convincing human-centric images, yet producing a useful collection remains different from producing a single successful image. A human-centric dataset must cover"
     },
     {
-      "title": "QQWorld: Quantile-Quantile Matching for World Model Regularization",
-      "url": "https://arxiv.org/abs/2607.28415",
-      "summary": "Latent world models enable efficient planning by predicting future states in a compact representation space, but their performance depends critically on the quality of the learned latent distribution."
+      "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
+      "url": "https://arxiv.org/abs/2608.02023",
+      "summary": "Speech and audio generation is often needed in animation dubbing, audio drama, movies, advertising, games, podcasts, and short-video production. In these scenarios, creators may need to design voices "
     },
     {
-      "title": "N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens",
-      "url": "https://arxiv.org/abs/2607.23782",
-      "summary": "We present N_0-VTLA, a vision-tactile-language-action (VTLA) foundation model capable of (1) fine-grained contact-rich manipulation with tactile perception and tactile-feedback control, and (2) offlin"
+      "title": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.29613",
+      "summary": "Reinforcement learning (RL) post-training of Vision-Language-Action (VLA) models has shown strong promise for robotic manipulation. Among RL methods, critic-based approaches rely on a value estimator "
     },
     {
-      "title": "From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement",
-      "url": "https://arxiv.org/abs/2607.23802",
-      "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) has driven recent progress in reasoning-oriented large language models (LLMs) by enabling large-scale optimization. However, its applicability rem"
+      "title": "StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph Field",
+      "url": "https://arxiv.org/abs/2608.01954",
+      "summary": "Fixed-layout indoor furniture styling requires selecting assets that form a coherent room without changing the prescribed furniture categories, positions, orientations, or scales. Existing approaches "
     },
     {
-      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
-      "url": "https://arxiv.org/abs/2607.28617",
-      "summary": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to t"
+      "title": "ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step",
+      "url": "https://arxiv.org/abs/2608.02358",
+      "summary": "To operate robustly in open-world environments, autonomous agents should be able to infer the behavior of unfamiliar systems through interaction alone, even in the absence of documentation. However, e"
     },
     {
-      "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
-      "url": "http://arxiv.org/abs/2607.29678v1",
-      "summary": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small"
+      "title": "Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis",
+      "url": "https://arxiv.org/abs/2608.01973",
+      "summary": "Existing indoor layout generators produce globally plausible layouts yet may retain local violations such as collisions, out-of-bounds placements, obstructed openings, and blocked circulation. Most pr"
     }
   ],
   "blog_posts": [
     {
-      "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "url": "https://frogs.vaguespac.es/",
-      "author": "frogs.vaguespac.es"
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "author": "openai.com"
     },
     {
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "author": "publicdomainreview.org"
+      "title": "Why we write our own C and C++ inference engines",
+      "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+      "author": "localai.io"
     },
     {
-      "title": "Autoregressive Language Model on the 6502 Processor",
-      "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "author": "mattbeton.com"
+      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "url": "https://github.com/garagehq/nightcrawler/",
+      "author": "github.com"
     },
     {
-      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
-      "url": "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
-      "author": "xulingfeng"
+      "title": "Why Rocq is better than Lean for program verification",
+      "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+      "author": "joomy"
     },
     {
-      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "author": "modelrepublic.org"
+      "title": "How would you decide, whether the content is good or bad?",
+      "url": "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
+      "author": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ"
     },
     {
-      "title": "OpenAI’s amazing — but vastly oversold — new model Astra",
-      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "author": "garymarcus.substack.com"
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "url": "https://armature.tech/",
+      "author": "armature.tech"
     },
     {
-      "title": "Dollars and rupees without Stripe: what building Skill Exchange's checkout taught me (PayPal + UPI)",
-      "url": "https://dev.to/mohanvenkatakrishnan/dollars-and-rupees-without-stripe-what-building-skill-exchanges-checkout-taught-me-paypal-upi-3i8p",
-      "author": "Mohan"
-    },
-    {
-      "title": "Delegation: How AI Reshapes Leadership’s Oldest Question",
-      "url": "https://centerforhciva.medium.com/delegation-how-ai-reshapes-leaderships-oldest-question-b286fe2c9afe",
-      "author": "Center For Human Capital Innovation"
+      "title": "We’re Giving AI Agents More Tools. What Happens When the Boundaries Fail?",
+      "url": "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh",
+      "author": "Hemapriya Kanagala"
     }
   ],
   "repos": [
     {
-      "name": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 29279,
-      "language": "Go"
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist",
+      "stars": 32547,
+      "language": "Python"
     },
     {
-      "name": "antirez/ds4",
-      "url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "stars": 20086,
-      "language": "C"
+      "name": "invoke-ai/InvokeAI",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol",
+      "stars": 27755,
+      "language": "Python"
     },
     {
-      "name": "Huanshere/VideoLingo",
-      "url": "https://github.com/Huanshere/VideoLingo",
-      "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
-      "stars": 18031,
+      "name": "comet-ml/opik",
+      "url": "https://github.com/comet-ml/opik",
+      "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+      "stars": 21096,
       "language": "Python"
     }
   ],
