@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-05</strong></summary>
+
+#### Papers
+
+1. **[ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts](https://arxiv.org/abs/2607.28993)**
+
+2. **[Quo Vadis, World Modeling?](https://arxiv.org/abs/2608.02713)**
+
+3. **[ExplainBench: Evaluating Code Explanations from Agents](https://arxiv.org/abs/2607.26451)**
+
+4. **[Knowledge-Geometry Decoupling: Refreshable Pretrained Transfer for Streaming Recommendation](https://arxiv.org/abs/2608.02738)**
+
+5. **[PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](https://arxiv.org/abs/2608.04003)**
+
+6. **[PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning](https://arxiv.org/abs/2608.01837)**
+
+7. **[OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models](https://arxiv.org/abs/2608.03812)**
+
+8. **[AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](https://arxiv.org/abs/2608.02602)**
+
+9. **[CAPEval: A Decoupled Caption Evaluation across Understanding and Generation](https://arxiv.org/abs/2608.02589)**
+
+10. **[TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](https://arxiv.org/abs/2608.04007)**
+
+
+#### Blog Posts
+
+1. **[Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)** by techcrunch.com
+
+2. **[Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)** by mistral.ai
+
+3. **[Show HN: Fine-tune an 8B model on a 4 GB laptop GPU](https://github.com/MakazhanAlpamys/Soup)** by github.com
+
+4. **[When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://arxiv.org/abs/2602.16763)** by arxiv.org
+
+5. **[After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted](https://www.asiae.co.kr/en/article/2026080416131786841)** by asiae.co.kr
+
+6. **[Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)** by openai.com
+
+7. **[Cloudflare Wallets: the programmable wallet for the agentic Internet](https://blog.cloudflare.com/wallets/)** by blog.cloudflare.com
+
+
+#### Trending Repos
+
+1. **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** — A utility-first CSS framework for rapid UI development. ⭐ 96542
+
+2. **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. ⭐ 48450
+
+3. **[RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)** — Easily train a good VC model with voice data &lt;= 10 mins! ⭐ 37094
+
+4. **[EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** — Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more ⭐ 23921
+
+5. **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** — 345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding ag ⭐ 23825
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-04</strong></summary>
 
 #### Papers

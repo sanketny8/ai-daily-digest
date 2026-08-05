@@ -1,32 +1,4 @@
 {
-  "2026-07-05": {
-    "papers": [
-      "http://arxiv.org/abs/2607.02514v1",
-      "http://arxiv.org/abs/2607.02513v1",
-      "http://arxiv.org/abs/2607.02512v1",
-      "http://arxiv.org/abs/2607.02510v1",
-      "http://arxiv.org/abs/2607.02509v1",
-      "http://arxiv.org/abs/2607.02507v1",
-      "http://arxiv.org/abs/2607.02504v1",
-      "http://arxiv.org/abs/2607.02502v1",
-      "http://arxiv.org/abs/2607.02499v1",
-      "http://arxiv.org/abs/2607.02496v1"
-    ],
-    "blogs": [
-      "https://github.com/anthropics/claude-code/issues/74066",
-      "https://github.com/openai/codex/issues/30364",
-      "https://dev.to/lovestaco/data-structures-your-cs-degree-kind-of-glossed-over-29dh",
-      "https://tangled.org/elidowling.com/jj_tui",
-      "https://spectrum.ieee.org/ai-in-mathematics",
-      "https://medium.com/@xingrahmat/menulis-di-medium-berpikir-dengan-ai-52d21176e52b",
-      "https://medium.com/@riffatmehmood1983/i-used-ai-for-90-days-to-work-smarter-heres-what-actually-changed-726a10d64bf0"
-    ],
-    "repos": [
-      "https://github.com/hesreallyhim/awesome-claude-code",
-      "https://github.com/google/adk-python",
-      "https://github.com/Zackriya-Solutions/meetily"
-    ]
-  },
   "2026-07-06": {
     "papers": [
       "https://arxiv.org/abs/2607.01804",
@@ -949,6 +921,36 @@
       "https://github.com/K-Dense-AI/scientific-agent-skills",
       "https://github.com/invoke-ai/InvokeAI",
       "https://github.com/comet-ml/opik"
+    ]
+  },
+  "2026-08-05": {
+    "papers": [
+      "https://arxiv.org/abs/2607.28993",
+      "https://arxiv.org/abs/2608.02713",
+      "https://arxiv.org/abs/2607.26451",
+      "https://arxiv.org/abs/2608.02738",
+      "https://arxiv.org/abs/2608.04003",
+      "https://arxiv.org/abs/2608.01837",
+      "https://arxiv.org/abs/2608.03812",
+      "https://arxiv.org/abs/2608.02602",
+      "https://arxiv.org/abs/2608.02589",
+      "https://arxiv.org/abs/2608.04007"
+    ],
+    "blogs": [
+      "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "https://mistral.ai/news/shieldstral/",
+      "https://github.com/MakazhanAlpamys/Soup",
+      "https://arxiv.org/abs/2602.16763",
+      "https://www.asiae.co.kr/en/article/2026080416131786841",
+      "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "https://blog.cloudflare.com/wallets/"
+    ],
+    "repos": [
+      "https://github.com/tailwindlabs/tailwindcss",
+      "https://github.com/usestrix/strix",
+      "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+      "https://github.com/EveryInc/compound-engineering-plugin",
+      "https://github.com/alirezarezvani/claude-skills"
     ]
   }
 }
