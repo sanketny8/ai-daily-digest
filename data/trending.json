@@ -1,128 +1,123 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "papers": [
     {
-      "title": "ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts",
-      "url": "https://arxiv.org/abs/2607.28993",
-      "summary": "World Action Models (WAMs) have emerged as a promising paradigm by jointly modeling robot actions and future visual dynamics. However, their reliance on pixel-generative future supervision can entangl"
+      "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
+      "url": "https://arxiv.org/abs/2608.05108",
+      "summary": "Prompt injection poses significant security risks to LLM agents. Efficient and effective red-teaming is therefore critical, both for evaluating these risks and for collecting training data to improve "
     },
     {
-      "title": "Quo Vadis, World Modeling?",
-      "url": "https://arxiv.org/abs/2608.02713",
-      "summary": "Continually improving agents require dynamic interaction feedback beyond static supervision, yet direct real-environment interaction is costly, slow, unsafe, and hard to parallelize. World modeling of"
+      "title": "Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning",
+      "url": "https://arxiv.org/abs/2608.04926",
+      "summary": "As chart images, tabular data, and visualization code play increasingly important roles across diverse domains, cross-representation understanding across these modalities poses fundamental challenges "
     },
     {
-      "title": "ExplainBench: Evaluating Code Explanations from Agents",
-      "url": "https://arxiv.org/abs/2607.26451",
-      "summary": "Large Language Model (LLM) agents have seen rapid adoption in software engineering. As agents take a greater role in the actual generation of code, they are making larger changes, spanning tens to hun"
+      "title": "Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data",
+      "url": "https://arxiv.org/abs/2608.02580",
+      "summary": "Learning generalizable robot manipulation policies requires large-scale and diverse demonstration data. Egocentric human manipulation videos offer rich scene and task diversity, and prior work has sho"
     },
     {
-      "title": "Knowledge-Geometry Decoupling: Refreshable Pretrained Transfer for Streaming Recommendation",
-      "url": "https://arxiv.org/abs/2608.02738",
-      "summary": "Industrial recommenders increasingly adopt the pretrain-then-transfer paradigm, yet behavioral distribution drift raises two questions: what to learn from behavior sequences, and how to transfer the l"
+      "title": "K-EXAONE 2.0 Technical Report",
+      "url": "https://arxiv.org/abs/2608.04505",
+      "summary": "This technical report presents K-EXAONE 2.0, an open-weight multilingual foundation model developed by LG AI Research as a step in our effort toward global frontier-scale foundation models. Rather tha"
     },
     {
-      "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
-      "url": "https://arxiv.org/abs/2608.04003",
-      "summary": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain pref"
+      "title": "Distill Where You Fail: Recovering Learning Signals of Negative RL-Groups from Adaptive Teacher Guidance",
+      "url": "https://arxiv.org/abs/2608.00782",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has become a standard paradigm for post-training large language models (LLMs). While Group Relative Policy Optimization (GRPO) is widely adopted, "
     },
     {
-      "title": "PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2608.01837",
-      "summary": "Large language model agents have shown strong potential in complex interactive tasks, yet their reinforcement learning (RL) is often hindered by sparse rewards, as a long multi-turn trajectory may rec"
+      "title": "BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation",
+      "url": "https://arxiv.org/abs/2608.05042",
+      "summary": "Leveraging pre-trained vision-language models (VLMs) to construct vision-language-action (VLA) models has emerged as a promising paradigm for 3D robot manipulation. However, existing 3D VLA methods re"
     },
     {
-      "title": "OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models",
-      "url": "https://arxiv.org/abs/2608.03812",
-      "summary": "Omni-modal large language models (Omni-LLMs) have achieved remarkable performance on audio-visual understanding tasks, but processing long and highly redundant visual and audio token sequences incurs "
+      "title": "WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models",
+      "url": "https://arxiv.org/abs/2608.04964",
+      "summary": "Interactive video world models are essential for long-horizon planning and exploration, yet they suffer from compounding errors. Post-training methods such as reinforcement learning (RL) can improve t"
     },
     {
-      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
-      "url": "https://arxiv.org/abs/2608.02602",
-      "summary": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. "
+      "title": "OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents",
+      "url": "https://arxiv.org/abs/2608.05013",
+      "summary": "LLM agents are increasingly applied to open-ended everyday requests that span work, study, and life. These tasks are long-horizon, cross-environment, and multimodal, forcing the agent to preserve goal"
     },
     {
-      "title": "CAPEval: A Decoupled Caption Evaluation across Understanding and Generation",
-      "url": "https://arxiv.org/abs/2608.02589",
-      "summary": "Captions serve as a primary supervision signal for both multimodal understanding and text-to-image generation. However, previous evaluations treat the caption quality as a single scalar objective, whi"
+      "title": "When Teachers Mislead: Spurious-Signal-Aware On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2608.03632",
+      "summary": "On-Policy distillation (OPD) transfers teacher capabilities by supervising student-sampled trajectories with dense token-level teacher signals. Recent selective OPD methods improve this process by pri"
     },
     {
-      "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
-      "url": "https://arxiv.org/abs/2608.04007",
-      "summary": "Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, li"
+      "title": "The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads",
+      "url": "https://arxiv.org/abs/2608.04570",
+      "summary": "Personalized LLMs with persistent memory are increasingly deployed, yet the faithfulness of their user models remains unexamined. We study over-inference (OI): the phenomenon where LLMs fabricate user"
     }
   ],
   "blog_posts": [
     {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "author": "techcrunch.com"
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "author": "neon.com"
     },
     {
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "author": "mistral.ai"
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "author": "blog.fogus.me"
     },
     {
-      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "author": "github.com"
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "author": "primeintellect.ai"
     },
     {
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "url": "https://arxiv.org/abs/2602.16763",
+      "title": "Building an Advanced Agentic Harness",
+      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+      "author": "data4sci.com"
+    },
+    {
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
       "author": "arxiv.org"
     },
     {
-      "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
-      "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
-      "author": "asiae.co.kr"
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "author": "openai.com"
-    },
-    {
-      "title": "Cloudflare Wallets: the programmable wallet for the agentic Internet",
-      "url": "https://blog.cloudflare.com/wallets/",
-      "author": "blog.cloudflare.com"
+      "title": "The Review Tax: Why 81% of Developers Are Buried in AI Code Review",
+      "url": "https://dev.to/harsh2644/the-review-tax-why-81-of-developers-are-buried-in-ai-code-review-9k6",
+      "author": "Harsh "
     }
   ],
   "repos": [
     {
-      "name": "tailwindlabs/tailwindcss",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "stars": 96542,
-      "language": "TypeScript"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 82081,
+      "language": "JavaScript"
     },
     {
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": 48450,
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi",
+      "stars": 55661,
       "language": "Python"
     },
     {
-      "name": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
-      "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
-      "description": "Easily train a good VC model with voice data &lt;= 10 mins!",
-      "stars": 37094,
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": 33795,
       "language": "Python"
     },
     {
-      "name": "EveryInc/compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "stars": 23921,
-      "language": "TypeScript"
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 19770,
+      "language": "Python"
     },
     {
-      "name": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding ag",
-      "stars": 23825,
+      "name": "NVIDIA-NeMo/Speech",
+      "url": "https://github.com/NVIDIA-NeMo/Speech",
+      "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+      "stars": 17913,
       "language": "Python"
     }
   ],

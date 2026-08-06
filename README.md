@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-06</strong></summary>
+
+#### Papers
+
+1. **[Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming](https://arxiv.org/abs/2608.05108)**
+
+2. **[Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning](https://arxiv.org/abs/2608.04926)**
+
+3. **[Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data](https://arxiv.org/abs/2608.02580)**
+
+4. **[K-EXAONE 2.0 Technical Report](https://arxiv.org/abs/2608.04505)**
+
+5. **[Distill Where You Fail: Recovering Learning Signals of Negative RL-Groups from Adaptive Teacher Guidance](https://arxiv.org/abs/2608.00782)**
+
+6. **[BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation](https://arxiv.org/abs/2608.05042)**
+
+7. **[WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models](https://arxiv.org/abs/2608.04964)**
+
+8. **[OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents](https://arxiv.org/abs/2608.05013)**
+
+9. **[When Teachers Mislead: Spurious-Signal-Aware On-Policy Distillation](https://arxiv.org/abs/2608.03632)**
+
+10. **[The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads](https://arxiv.org/abs/2608.04570)**
+
+
+#### Blog Posts
+
+1. **[Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)** by neon.com
+
+2. **[Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html)** by blog.fogus.me
+
+3. **[Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)** by primeintellect.ai
+
+4. **[Building an Advanced Agentic Harness](https://data4sci.com/blog/building-an-advanced-agentic-harness)** by data4sci.com
+
+5. **[Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)** by arxiv.org
+
+6. **[The Review Tax: Why 81% of Developers Are Buried in AI Code Review](https://dev.to/harsh2644/the-review-tax-why-81-of-developers-are-buried-in-ai-code-review-9k6)** by Harsh 
+
+
+#### Trending Repos
+
+1. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents. ⭐ 82081
+
+2. **[BerriAI/litellm](https://github.com/BerriAI/litellm)** — The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi ⭐ 55661
+
+3. **[blader/humanizer](https://github.com/blader/humanizer)** — Agent skill that removes signs of AI-generated writing from text ⭐ 33795
+
+4. **[browser-use/video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents ⭐ 19770
+
+5. **[NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech)** — A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech) ⭐ 17913
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-05</strong></summary>
 
 #### Papers
