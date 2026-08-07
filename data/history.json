@@ -1,34 +1,4 @@
 {
-  "2026-07-07": {
-    "papers": [
-      "https://arxiv.org/abs/2607.04428",
-      "https://arxiv.org/abs/2602.11688",
-      "https://arxiv.org/abs/2607.04988",
-      "https://arxiv.org/abs/2607.05155",
-      "https://arxiv.org/abs/2607.02646",
-      "https://arxiv.org/abs/2607.05391",
-      "https://arxiv.org/abs/2607.05352",
-      "https://arxiv.org/abs/2607.03068",
-      "https://arxiv.org/abs/2607.05390",
-      "https://arxiv.org/abs/2607.05373"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/research/global-workspace",
-      "https://ternlight-demo.vercel.app/",
-      "https://github.com/iOfficeAI/OfficeCLI",
-      "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "https://dev.to/xulingfeng/6-stories-6-people-16-of-the-way-an-honest-check-in-on-the-36-stratagems-series-55ci",
-      "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
-      "https://dev.to/hadil/where-do-your-llm-api-keys-actually-live-2cjm"
-    ],
-    "repos": [
-      "https://github.com/EbookFoundation/free-programming-books",
-      "https://github.com/ComposioHQ/awesome-claude-skills",
-      "https://github.com/mvanhorn/last30days-skill",
-      "https://github.com/karakeep-app/karakeep"
-    ]
-  },
   "2026-07-08": {
     "papers": [
       "https://arxiv.org/abs/2607.03530",
@@ -956,6 +926,32 @@
       "https://github.com/blader/humanizer",
       "https://github.com/browser-use/video-use",
       "https://github.com/NVIDIA-NeMo/Speech"
+    ]
+  },
+  "2026-08-07": {
+    "papers": [
+      "https://arxiv.org/abs/2608.05369",
+      "https://arxiv.org/abs/2608.06197",
+      "https://arxiv.org/abs/2608.05137",
+      "https://arxiv.org/abs/2608.06352",
+      "https://arxiv.org/abs/2608.05987",
+      "https://arxiv.org/abs/2608.05248",
+      "https://arxiv.org/abs/2608.05747",
+      "https://arxiv.org/abs/2608.05802",
+      "https://arxiv.org/abs/2608.06060",
+      "https://arxiv.org/abs/2608.05631"
+    ],
+    "blogs": [
+      "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "https://www.aleksagordic.com/blog/vllm"
+    ],
+    "repos": [
+      "https://github.com/Significant-Gravitas/AutoGPT",
+      "https://github.com/unclecode/crawl4ai",
+      "https://github.com/livekit/agents"
     ]
   }
 }

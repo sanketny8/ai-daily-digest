@@ -10,6 +10,57 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-07</strong></summary>
+
+#### Papers
+
+1. **[World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation](https://arxiv.org/abs/2608.05369)**
+
+2. **[EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.06197)**
+
+3. **[SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding](https://arxiv.org/abs/2608.05137)**
+
+4. **[CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks](https://arxiv.org/abs/2608.06352)**
+
+5. **[AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2608.05987)**
+
+6. **[WorldClaw: Agentic 3D Open-World Generation at Scale](https://arxiv.org/abs/2608.05248)**
+
+7. **[GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?](https://arxiv.org/abs/2608.05747)**
+
+8. **[On-Policy Delta Distillation for Multilingual Math Reasoning](https://arxiv.org/abs/2608.05802)**
+
+9. **[Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval](https://arxiv.org/abs/2608.06060)**
+
+10. **[ChronoVision: Temporal Reasoning via Latent State Reconstruction](https://arxiv.org/abs/2608.05631)**
+
+
+#### Blog Posts
+
+1. **[AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)** by theregister.com
+
+2. **[Qwen3.8 Max now ranked as the best overall model by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index)** by artificialanalysis.ai
+
+3. **[Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)** by scalex.dev
+
+4. **[Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/)** by openai.com
+
+5. **[Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm)** by aleksagordic.com
+
+
+#### Trending Repos
+
+1. **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. ⭐ 186079
+
+2. **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN ⭐ 77083
+
+3. **[livekit/agents](https://github.com/livekit/agents)** — A framework for building realtime voice AI agents 🤖🎙️📹 ⭐ 12711
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-06</strong></summary>
 
 #### Papers
