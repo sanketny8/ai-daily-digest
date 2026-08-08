@@ -1,105 +1,130 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "papers": [
     {
-      "title": "World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation",
-      "url": "https://arxiv.org/abs/2608.05369",
-      "summary": "Vision-language-action (VLA) models often treat main-view and wrist-view observations as parallel visual inputs, overlooking their distinct roles in robot manipulation. Fine-grained manipulation, howe"
+      "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
+      "url": "https://arxiv.org/abs/2608.01492",
+      "summary": "Selecting a complete 3D object from a reconstructed scene with minimal user effort is essential for practical scene editing and embodied interaction. Existing 3DGS-based methods either retrain the Gau"
     },
     {
-      "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2608.06197",
-      "summary": "Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verification are costly, or on "
+      "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
+      "url": "https://arxiv.org/abs/2608.01851",
+      "summary": "Robot learning is splitting into two bets: policies that bake competence into frozen weights (vision-language-action, or VLA, models), and agents that write and refine their own executable skills as c"
     },
     {
-      "title": "SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding",
-      "url": "https://arxiv.org/abs/2608.05137",
-      "summary": "Understanding 3D scenes is fundamental to embodied intelligence, requiring joint reasoning over heterogeneous information from multiple modalities, including visual and geometric cues. However, the re"
+      "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
+      "url": "https://arxiv.org/abs/2608.01049",
+      "summary": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Arch"
     },
     {
-      "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
-      "url": "https://arxiv.org/abs/2608.06352",
-      "summary": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not "
+      "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
+      "url": "https://arxiv.org/abs/2608.05798",
+      "summary": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce"
     },
     {
-      "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2608.05987",
-      "summary": "Reinforcement learning (RL) with verifiable rewards constructs trajectory-level advantage estimates, yet it often fails to credit the few pivotal decisions that determine outcomes in long-horizon, mul"
+      "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
+      "url": "https://arxiv.org/abs/2608.05784",
+      "summary": "Computer-use agents pay full frontier inference to re-derive routines their user has already performed, because an agent's memory today records what the user said, not what the user did. We compile pa"
     },
     {
-      "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
-      "url": "https://arxiv.org/abs/2608.05248",
-      "summary": "Generating large-scale, freely explorable 3D worlds from open-ended text remains challenging because a system must jointly maintain global spatial coherence, rich local content, and explicit assets su"
+      "title": "DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces",
+      "url": "https://arxiv.org/abs/2608.03451",
+      "summary": "Data agents enable natural-language analytics over organizational workspaces, where relevant evidence may be scattered across databases, structured files, long documents, and multimedia. Existing benc"
     },
     {
-      "title": "GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?",
-      "url": "https://arxiv.org/abs/2608.05747",
-      "summary": "Spatial intelligence is fundamental to embodied agents, yet existing benchmarks focus on local spatial perception from single or few viewpoints, overlooking global spatial awareness over continuous, l"
+      "title": "Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval",
+      "url": "https://arxiv.org/abs/2608.01481",
+      "summary": "Short segments of perceived speech can be retrieved from non-invasive magnetoencephalographic (MEG) recordings by deep networks trained with a CLIP-style objective against wav2vec 2.0 audio embeddings"
     },
     {
-      "title": "On-Policy Delta Distillation for Multilingual Math Reasoning",
-      "url": "https://arxiv.org/abs/2608.05802",
-      "summary": "On-Policy Distillation (OPD) is emerging as a promising alternative to reinforcement learning for LLM post-training, yet its effectiveness in multilingual settings remains underexplored. We study OPD "
+      "title": "MameLoshnLM: Yiddish Language Model and Evaluation Benchmark",
+      "url": "https://arxiv.org/abs/2608.05850",
+      "summary": "We present MameLoshnLM, the first open-source 8B-parameter language model built specifically for Yiddish. Despite Yiddish's rich textual tradition, its limited digital presence and the scarcity of rel"
     },
     {
-      "title": "Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval",
-      "url": "https://arxiv.org/abs/2608.06060",
-      "summary": "Unified multimodal retrieval aims to identify candidates that satisfy complex user intent expressed through heterogeneous inputs. Although Large Vision-Language Model (LVLM)-based retrievers are effic"
+      "title": "Continual Learning in Transition",
+      "url": "https://arxiv.org/abs/2608.06216",
+      "summary": "Classical continual learning (CL) has primarily focused on enabling models to update and retain knowledge through parameter-centric mechanisms, e.g., training strategies, architectural designs, and we"
     },
     {
-      "title": "ChronoVision: Temporal Reasoning via Latent State Reconstruction",
-      "url": "https://arxiv.org/abs/2608.05631",
-      "summary": "Multimodal large language models excel at passive perception but struggle with complex visual cognitive tasks requiring multi-step temporal reasoning. This degradation largely stems from the inherent "
+      "title": "Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation",
+      "url": "https://arxiv.org/abs/2608.05785",
+      "summary": "Multilingual text embedding models are commonly adapted using a single training objective across diverse tasks, despite different tasks requiring fundamentally different optimization strategies. We in"
     }
   ],
   "blog_posts": [
     {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "author": "theregister.com"
-    },
-    {
-      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-      "author": "artificialanalysis.ai"
-    },
-    {
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "author": "scalex.dev"
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
       "author": "openai.com"
     },
     {
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "author": "aleksagordic.com"
+      "title": "Guarded methods in OCaml",
+      "url": "https://xvw.lol/en/articles/oop-refl.html",
+      "author": "xvw"
+    },
+    {
+      "title": "Xavier Leroy on programming, languages and formal verification",
+      "url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
+      "author": "xvw"
     }
   ],
   "repos": [
     {
-      "name": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 186079,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "stars": 140614,
       "language": "Python"
     },
     {
-      "name": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "stars": 77083,
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars": 124673,
       "language": "Python"
     },
     {
-      "name": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
-      "stars": 12711,
+      "name": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
+      "stars": 38603,
       "language": "Python"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 33252,
+      "language": "Python"
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "stars": 19809,
+      "language": "Go"
+    },
+    {
+      "name": "p1ngul1n0/blackbird",
+      "url": "https://github.com/p1ngul1n0/blackbird",
+      "description": "An OSINT tool to search for accounts by username and email in social networks.",
+      "stars": 7406,
+      "language": "Python"
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": 6741,
+      "language": "TypeScript"
+    },
+    {
+      "name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "stars": 5829,
+      "language": "TypeScript"
     }
   ],
   "tweets": []

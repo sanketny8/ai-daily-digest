@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-08</strong></summary>
+
+#### Papers
+
+1. **[GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization](https://arxiv.org/abs/2608.01492)**
+
+2. **[Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills](https://arxiv.org/abs/2608.01851)**
+
+3. **[FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds](https://arxiv.org/abs/2608.01049)**
+
+4. **[KVAE: Family of Tokenizers for Multimodal Generative Models](https://arxiv.org/abs/2608.05798)**
+
+5. **[Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay](https://arxiv.org/abs/2608.05784)**
+
+6. **[DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces](https://arxiv.org/abs/2608.03451)**
+
+7. **[Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval](https://arxiv.org/abs/2608.01481)**
+
+8. **[MameLoshnLM: Yiddish Language Model and Evaluation Benchmark](https://arxiv.org/abs/2608.05850)**
+
+9. **[Continual Learning in Transition](https://arxiv.org/abs/2608.06216)**
+
+10. **[Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation](https://arxiv.org/abs/2608.05785)**
+
+
+#### Blog Posts
+
+1. **[Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)** by openai.com
+
+2. **[Guarded methods in OCaml](https://xvw.lol/en/articles/oop-refl.html)** by xvw
+
+3. **[Xavier Leroy on programming, languages and formal verification](https://www.youtube.com/watch?v=9Cswiqrq6So)** by xvw
+
+
+#### Trending Repos
+
+1. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows  ⭐ 140614
+
+2. **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. ⭐ 124673
+
+3. **[wshobson/agents](https://github.com/wshobson/agents)** — Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI ⭐ 38603
+
+4. **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official, Anthropic-managed directory of high quality Claude Code Plugins. ⭐ 33252
+
+5. **[pranshuparmar/witr](https://github.com/pranshuparmar/witr)** — Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. ⭐ 19809
+
+6. **[p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird)** — An OSINT tool to search for accounts by username and email in social networks. ⭐ 7406
+
+7. **[PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** — A self-improving RLM agent for coding workflows and long-running autonomous tasks. ⭐ 6741
+
+8. **[cloudflare/computer](https://github.com/cloudflare/computer)** — Give your agent a computer 👾 ⭐ 5829
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-07</strong></summary>
 
 #### Papers
