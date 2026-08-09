@@ -1,37 +1,4 @@
 {
-  "2026-07-09": {
-    "papers": [
-      "https://arxiv.org/abs/2607.04434",
-      "https://arxiv.org/abs/2607.07608",
-      "https://arxiv.org/abs/2607.06838",
-      "https://arxiv.org/abs/2607.07534",
-      "https://arxiv.org/abs/2607.07675",
-      "https://arxiv.org/abs/2606.28070",
-      "https://arxiv.org/abs/2606.32020",
-      "https://arxiv.org/abs/2607.04412",
-      "https://arxiv.org/abs/2604.17248",
-      "http://arxiv.org/abs/2607.07708v1"
-    ],
-    "blogs": [
-      "https://openai.com/index/introducing-gpt-live/",
-      "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "https://mistral.ai/news/robostral-navigate/",
-      "https://microsoft.github.io/flint-chart/#/",
-      "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-      "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-      "https://mira-wm.com/"
-    ],
-    "repos": [
-      "https://github.com/obra/superpowers",
-      "https://github.com/Graphify-Labs/graphify",
-      "https://github.com/jingyaogong/minimind",
-      "https://github.com/microsoft/SkillOpt",
-      "https://github.com/TencentCloud/CubeSandbox",
-      "https://github.com/Tracer-Cloud/opensre",
-      "https://github.com/TencentCloud/TencentDB-Agent-Memory"
-    ]
-  },
   "2026-07-10": {
     "papers": [
       "https://arxiv.org/abs/2601.16211",
@@ -951,6 +918,33 @@
       "https://github.com/p1ngul1n0/blackbird",
       "https://github.com/PrimeIntellect-ai/prime-agent",
       "https://github.com/cloudflare/computer"
+    ]
+  },
+  "2026-08-09": {
+    "papers": [
+      "http://arxiv.org/abs/2608.06377v1",
+      "http://arxiv.org/abs/2608.06370v1",
+      "http://arxiv.org/abs/2608.06366v1",
+      "http://arxiv.org/abs/2608.06364v1",
+      "http://arxiv.org/abs/2608.06363v1",
+      "http://arxiv.org/abs/2608.06362v1",
+      "http://arxiv.org/abs/2608.06361v1",
+      "http://arxiv.org/abs/2608.06353v1",
+      "http://arxiv.org/abs/2608.06352v1",
+      "http://arxiv.org/abs/2608.06351v1"
+    ],
+    "blogs": [
+      "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "https://medium.com/@drchristinaasare/ai-governance-isnt-a-policy-document-it-s-a-leadership-discipline-9773384e6516"
+    ],
+    "repos": [
+      "https://github.com/TauricResearch/TradingAgents",
+      "https://github.com/vllm-project/vllm",
+      "https://github.com/AgriciDaniel/claude-seo",
+      "https://github.com/kyutai-labs/pocket-tts",
+      "https://github.com/anthropics/claude-code-security-review",
+      "https://github.com/huangruiteng/loopx"
     ]
   }
 }

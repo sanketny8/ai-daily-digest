@@ -1,130 +1,116 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "papers": [
     {
-      "title": "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization",
-      "url": "https://arxiv.org/abs/2608.01492",
-      "summary": "Selecting a complete 3D object from a reconstructed scene with minimal user effort is essential for practical scene editing and embodied interaction. Existing 3DGS-based methods either retrain the Gau"
+      "title": "Learning When to Trust via Selective Context Preference Optimization",
+      "url": "http://arxiv.org/abs/2608.06377v1",
+      "summary": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides"
     },
     {
-      "title": "Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills",
-      "url": "https://arxiv.org/abs/2608.01851",
-      "summary": "Robot learning is splitting into two bets: policies that bake competence into frozen weights (vision-language-action, or VLA, models), and agents that write and refine their own executable skills as c"
+      "title": "The Bitter Lesson of Tool Calling",
+      "url": "http://arxiv.org/abs/2608.06370v1",
+      "summary": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that ch"
     },
     {
-      "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds",
-      "url": "https://arxiv.org/abs/2608.01049",
-      "summary": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of the physical world. In this emerging landscape, Joint Embedding Predictive Arch"
+      "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+      "url": "http://arxiv.org/abs/2608.06366v1",
+      "summary": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure"
     },
     {
-      "title": "KVAE: Family of Tokenizers for Multimodal Generative Models",
-      "url": "https://arxiv.org/abs/2608.05798",
-      "summary": "Latent diffusion modeling (LDM), a prominent paradigm, utilizes tokenizers to map input signal to compressed representation. This dependency positions tokenizer as an integral part of generation proce"
+      "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+      "url": "http://arxiv.org/abs/2608.06364v1",
+      "summary": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about dig"
     },
     {
-      "title": "Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay",
-      "url": "https://arxiv.org/abs/2608.05784",
-      "summary": "Computer-use agents pay full frontier inference to re-derive routines their user has already performed, because an agent's memory today records what the user said, not what the user did. We compile pa"
+      "title": "An Optimal Agnostic PAC Algorithm",
+      "url": "http://arxiv.org/abs/2608.06363v1",
+      "summary": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk boun"
     },
     {
-      "title": "DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces",
-      "url": "https://arxiv.org/abs/2608.03451",
-      "summary": "Data agents enable natural-language analytics over organizational workspaces, where relevant evidence may be scattered across databases, structured files, long documents, and multimedia. Existing benc"
+      "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+      "url": "http://arxiv.org/abs/2608.06362v1",
+      "summary": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed"
     },
     {
-      "title": "Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval",
-      "url": "https://arxiv.org/abs/2608.01481",
-      "summary": "Short segments of perceived speech can be retrieved from non-invasive magnetoencephalographic (MEG) recordings by deep networks trained with a CLIP-style objective against wav2vec 2.0 audio embeddings"
+      "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+      "url": "http://arxiv.org/abs/2608.06361v1",
+      "summary": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic"
     },
     {
-      "title": "MameLoshnLM: Yiddish Language Model and Evaluation Benchmark",
-      "url": "https://arxiv.org/abs/2608.05850",
-      "summary": "We present MameLoshnLM, the first open-source 8B-parameter language model built specifically for Yiddish. Despite Yiddish's rich textual tradition, its limited digital presence and the scarcity of rel"
+      "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents",
+      "url": "http://arxiv.org/abs/2608.06353v1",
+      "summary": "We give a formal mechanism design model for the continuous participatory governance of a deployed AI agent. The mechanism is built on the principle that governance should control an AI agent through r"
     },
     {
-      "title": "Continual Learning in Transition",
-      "url": "https://arxiv.org/abs/2608.06216",
-      "summary": "Classical continual learning (CL) has primarily focused on enabling models to update and retain knowledge through parameter-centric mechanisms, e.g., training strategies, architectural designs, and we"
+      "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+      "url": "http://arxiv.org/abs/2608.06352v1",
+      "summary": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not "
     },
     {
-      "title": "Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation",
-      "url": "https://arxiv.org/abs/2608.05785",
-      "summary": "Multilingual text embedding models are commonly adapted using a single training objective across diverse tasks, despite different tasks requiring fundamentally different optimization strategies. We in"
+      "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
+      "url": "http://arxiv.org/abs/2608.06351v1",
+      "summary": "This paper addresses the limitations of Explainable Artificial Intelligence (XAI) with respect to insufficient evaluation. They are illustrated through the DetoxAI image recognition system for bias de"
     }
   ],
   "blog_posts": [
     {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "author": "openai.com"
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "author": "deepmind.google"
     },
     {
-      "title": "Guarded methods in OCaml",
-      "url": "https://xvw.lol/en/articles/oop-refl.html",
-      "author": "xvw"
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "author": "simonwillison.net"
     },
     {
-      "title": "Xavier Leroy on programming, languages and formal verification",
-      "url": "https://www.youtube.com/watch?v=9Cswiqrq6So",
-      "author": "xvw"
+      "title": "AI Governance Isn’t a Policy Document. It’s a Leadership Discipline.",
+      "url": "https://medium.com/@drchristinaasare/ai-governance-isnt-a-policy-document-it-s-a-leadership-discipline-9773384e6516",
+      "author": "DrChristina Asare"
     }
   ],
   "repos": [
     {
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
-      "stars": 140614,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 96546,
       "language": "Python"
     },
     {
-      "name": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "stars": 124673,
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 88549,
       "language": "Python"
     },
     {
-      "name": "wshobson/agents",
-      "url": "https://github.com/wshobson/agents",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
-      "stars": 38603,
+      "name": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter",
+      "stars": 13738,
       "language": "Python"
     },
     {
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 33252,
+      "name": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "stars": 8178,
       "language": "Python"
     },
     {
-      "name": "pranshuparmar/witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "stars": 19809,
-      "language": "Go"
-    },
-    {
-      "name": "p1ngul1n0/blackbird",
-      "url": "https://github.com/p1ngul1n0/blackbird",
-      "description": "An OSINT tool to search for accounts by username and email in social networks.",
-      "stars": 7406,
+      "name": "anthropics/claude-code-security-review",
+      "url": "https://github.com/anthropics/claude-code-security-review",
+      "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.",
+      "stars": 5814,
       "language": "Python"
     },
     {
-      "name": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "stars": 6741,
-      "language": "TypeScript"
-    },
-    {
-      "name": "cloudflare/computer",
-      "url": "https://github.com/cloudflare/computer",
-      "description": "Give your agent a computer 👾",
-      "stars": 5829,
-      "language": "TypeScript"
+      "name": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable",
+      "stars": 3596,
+      "language": "Python"
     }
   ],
   "tweets": []

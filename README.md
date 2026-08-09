@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-09</strong></summary>
+
+#### Papers
+
+1. **[Learning When to Trust via Selective Context Preference Optimization](http://arxiv.org/abs/2608.06377v1)**
+
+2. **[The Bitter Lesson of Tool Calling](http://arxiv.org/abs/2608.06370v1)**
+
+3. **[Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering](http://arxiv.org/abs/2608.06366v1)**
+
+4. **[Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria](http://arxiv.org/abs/2608.06364v1)**
+
+5. **[An Optimal Agnostic PAC Algorithm](http://arxiv.org/abs/2608.06363v1)**
+
+6. **[AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games](http://arxiv.org/abs/2608.06362v1)**
+
+7. **[The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping](http://arxiv.org/abs/2608.06361v1)**
+
+8. **[Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents](http://arxiv.org/abs/2608.06353v1)**
+
+9. **[CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks](http://arxiv.org/abs/2608.06352v1)**
+
+10. **[Challenges in Evaluating Explanation Methods for Static and Evolving Data](http://arxiv.org/abs/2608.06351v1)**
+
+
+#### Blog Posts
+
+1. **[DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)** by deepmind.google
+
+2. **[Timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/)** by simonwillison.net
+
+3. **[AI Governance Isn’t a Policy Document. It’s a Leadership Discipline.](https://medium.com/@drchristinaasare/ai-governance-isnt-a-policy-document-it-s-a-leadership-discipline-9773384e6516)** by DrChristina Asare
+
+
+#### Trending Repos
+
+1. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework ⭐ 96546
+
+2. **[vllm-project/vllm](https://github.com/vllm-project/vllm)** — A high-throughput and memory-efficient inference and serving engine for LLMs ⭐ 88549
+
+3. **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** — Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter ⭐ 13738
+
+4. **[kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)** — A TTS that fits in your CPU (and pocket) ⭐ 8178
+
+5. **[anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review)** — An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. ⭐ 5814
+
+6. **[huangruiteng/loopx](https://github.com/huangruiteng/loopx)** — Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable ⭐ 3596
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-08</strong></summary>
 
 #### Papers
