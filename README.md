@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-10</strong></summary>
+
+#### Papers
+
+1. **[YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family](https://arxiv.org/abs/2608.07051)**
+
+2. **[When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents](https://arxiv.org/abs/2608.05219)**
+
+3. **[SimWAM: A Simple World Action Model for End-to-End Autonomous Driving](https://arxiv.org/abs/2608.07468)**
+
+4. **[Uncertainty-Aware World Model for Aerial Image-Goal Navigation](https://arxiv.org/abs/2608.05597)**
+
+5. **[Douyin Multimodal Embedding Model Technical Report](https://arxiv.org/abs/2608.02148)**
+
+6. **[StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding](https://arxiv.org/abs/2608.05703)**
+
+7. **[The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows](https://arxiv.org/abs/2608.06714)**
+
+8. **[Characterizing the Quality Profile of AI-Generated C++ in Production](https://arxiv.org/abs/2608.06640)**
+
+9. **[Modular TTT: Rethinking Test-Time Training as Composable Modules](https://arxiv.org/abs/2608.07110)**
+
+10. **[Skaling: Chinchilla's Exponents Meet Kaplan's Coupling](https://arxiv.org/abs/2608.07222)**
+
+
+#### Blog Posts
+
+1. **[Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)** by theconversation.com
+
+2. **[OpenChamber: An Agentic Development Environment](https://openchamber.dev/)** by openchamber.dev
+
+3. **[The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)** by economist.com
+
+4. **[ChatGPT starts blocking direct requests to copy an author's style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)** by arstechnica.com
+
+5. **[Human vs. AI – Diff-based line-level provenance for text under agentic editing](https://github.com/eighttrigrams/us-vs-them)** by github.com
+
+
+#### Trending Repos
+
+1. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr ⭐ 61326
+
+2. **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** — Hindsight: Agent Memory That Learns ⭐ 19411
+
+3. **[funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)** — Yet Another Document Translator ⭐ 9231
+
+4. **[vladmandic/sdnext](https://github.com/vladmandic/sdnext)** — SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing ⭐ 7286
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-09</strong></summary>
 
 #### Papers

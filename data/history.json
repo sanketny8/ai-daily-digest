@@ -1,35 +1,4 @@
 {
-  "2026-07-10": {
-    "papers": [
-      "https://arxiv.org/abs/2601.16211",
-      "https://arxiv.org/abs/2607.08768",
-      "https://arxiv.org/abs/2603.29616",
-      "https://arxiv.org/abs/2607.03936",
-      "https://arxiv.org/abs/2607.03803",
-      "https://arxiv.org/abs/2607.06238",
-      "https://arxiv.org/abs/2607.08093",
-      "https://arxiv.org/abs/2607.06987",
-      "https://arxiv.org/abs/2607.03118",
-      "https://arxiv.org/abs/2607.04461"
-    ],
-    "blogs": [
-      "https://openai.com/index/gpt-5-6/",
-      "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-      "https://github.com/ronak-create/FableCut",
-      "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
-      "https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei",
-      "https://github.com/Rodiun/frugon"
-    ],
-    "repos": [
-      "https://github.com/VoltAgent/awesome-design-md",
-      "https://github.com/anthropics/claude-cookbooks",
-      "https://github.com/stanfordnlp/dspy",
-      "https://github.com/MadsLorentzen/ai-job-search",
-      "https://github.com/vxcontrol/pentagi"
-    ]
-  },
   "2026-07-11": {
     "papers": [
       "https://arxiv.org/abs/2607.08716",
@@ -945,6 +914,33 @@
       "https://github.com/kyutai-labs/pocket-tts",
       "https://github.com/anthropics/claude-code-security-review",
       "https://github.com/huangruiteng/loopx"
+    ]
+  },
+  "2026-08-10": {
+    "papers": [
+      "https://arxiv.org/abs/2608.07051",
+      "https://arxiv.org/abs/2608.05219",
+      "https://arxiv.org/abs/2608.07468",
+      "https://arxiv.org/abs/2608.05597",
+      "https://arxiv.org/abs/2608.02148",
+      "https://arxiv.org/abs/2608.05703",
+      "https://arxiv.org/abs/2608.06714",
+      "https://arxiv.org/abs/2608.06640",
+      "https://arxiv.org/abs/2608.07110",
+      "https://arxiv.org/abs/2608.07222"
+    ],
+    "blogs": [
+      "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "https://openchamber.dev/",
+      "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "https://github.com/eighttrigrams/us-vs-them"
+    ],
+    "repos": [
+      "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "https://github.com/vectorize-io/hindsight",
+      "https://github.com/funstory-ai/BabelDOC",
+      "https://github.com/vladmandic/sdnext"
     ]
   }
 }
