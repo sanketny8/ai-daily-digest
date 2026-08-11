@@ -10,6 +10,73 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-11</strong></summary>
+
+#### Papers
+
+1. **[Intent Speaks Louder: Controllable User Simulation Beyond Response Imitation](https://arxiv.org/abs/2608.09420)**
+
+2. **[Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA](https://arxiv.org/abs/2608.09819)**
+
+3. **[SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](https://arxiv.org/abs/2608.09802)**
+
+4. **[Motif 3: Technical Report](https://arxiv.org/abs/2608.09119)**
+
+5. **[Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains](https://arxiv.org/abs/2608.09873)**
+
+6. **[RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States](https://arxiv.org/abs/2608.02508)**
+
+7. **[SPOT: Sparse Probing and Outcome Calibration for On-Policy Distillation](https://arxiv.org/abs/2608.04419)**
+
+8. **[Evidence-RL: Towards Evidence-intensive Visual Reasoning](https://arxiv.org/abs/2608.08021)**
+
+9. **[Enfold: Folding World Model Imagination into Predictive Representations for Ultra-Efficient Embodied Control](https://arxiv.org/abs/2607.26657)**
+
+10. **[CLIP-CC-Bench: Evaluating Paragraph-Level Video Descriptions in Video-Language Models](https://arxiv.org/abs/2608.04302)**
+
+
+#### Blog Posts
+
+1. **[Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)** by research.meta.ai
+
+2. **[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)** by docker.com
+
+3. **[Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)** by ft.com
+
+4. **[Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)** by cactuscompute.com
+
+5. **[Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)** by anthropic.com
+
+6. **[Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)** by vectorware.com
+
+7. **[Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs)** by blog.sshh.io
+
+8. **[Letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas/)** by openai.com
+
+9. **[GPT 5.6 Cyber](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/)** by openai.com
+
+
+#### Trending Repos
+
+1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** — The open-source app everyone uses to manage agents at work ⭐ 76602
+
+2. **[stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)** — DSPy: The framework for programming—not prompting—language models ⭐ 37052
+
+3. **[danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)** — ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work. ⭐ 17994
+
+4. **[neuml/txtai](https://github.com/neuml/txtai)** — 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows ⭐ 12851
+
+5. **[opa334/Dopamine](https://github.com/opa334/Dopamine)** — Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1) ⭐ 6065
+
+6. **[semantica-agi/semantica](https://github.com/semantica-agi/semantica)** — Graph-Native Infrastructure for Context and Accountable AI Systems ⭐ 4244
+
+7. **[vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag)** — The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs ⭐ 3578
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-10</strong></summary>
 
 #### Papers
