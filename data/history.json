@@ -1,31 +1,4 @@
 {
-  "2026-07-12": {
-    "papers": [
-      "http://arxiv.org/abs/2607.08763v1",
-      "http://arxiv.org/abs/2607.08758v1",
-      "http://arxiv.org/abs/2607.08757v1",
-      "http://arxiv.org/abs/2607.08756v1",
-      "http://arxiv.org/abs/2607.08754v1",
-      "http://arxiv.org/abs/2607.08748v1",
-      "http://arxiv.org/abs/2607.08746v1",
-      "http://arxiv.org/abs/2607.08745v1",
-      "http://arxiv.org/abs/2607.08741v1"
-    ],
-    "blogs": [
-      "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-      "https://www.iroh.computer/blog/mesh-llm",
-      "https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p",
-      "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-      "https://medium.com/@princeverma50055/the-power-of-learning-in-public-why-sharing-your-journey-can-change-your-career-4ea08df6f8d6"
-    ],
-    "repos": [
-      "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "https://github.com/harry0703/MoneyPrinterTurbo",
-      "https://github.com/FoundationAgents/OpenManus",
-      "https://github.com/DayuanJiang/next-ai-draw-io"
-    ]
-  },
   "2026-07-13": {
     "papers": [
       "https://arxiv.org/abs/2607.07964",
@@ -946,6 +919,36 @@
       "https://github.com/opa334/Dopamine",
       "https://github.com/semantica-agi/semantica",
       "https://github.com/vitali87/code-graph-rag"
+    ]
+  },
+  "2026-08-12": {
+    "papers": [
+      "https://arxiv.org/abs/2608.10720",
+      "https://arxiv.org/abs/2608.11079",
+      "https://arxiv.org/abs/2608.10299",
+      "https://arxiv.org/abs/2608.10366",
+      "https://arxiv.org/abs/2608.10692",
+      "https://arxiv.org/abs/2608.10875",
+      "https://arxiv.org/abs/2608.07645",
+      "https://arxiv.org/abs/2608.10744",
+      "https://arxiv.org/abs/2608.08477",
+      "https://arxiv.org/abs/2608.06065"
+    ],
+    "blogs": [
+      "https://stolen-thoughts.com/",
+      "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/"
+    ],
+    "repos": [
+      "https://github.com/anthropics/skills",
+      "https://github.com/huggingface/transformers",
+      "https://github.com/stablyai/orca",
+      "https://github.com/AgriciDaniel/claude-obsidian",
+      "https://github.com/LLMQuant/quant-mind",
+      "https://github.com/ShawnPana/phone-harness"
     ]
   }
 }

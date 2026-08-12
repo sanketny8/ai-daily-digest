@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-12</strong></summary>
+
+#### Papers
+
+1. **[Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence](https://arxiv.org/abs/2608.10720)**
+
+2. **[SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure](https://arxiv.org/abs/2608.11079)**
+
+3. **[Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design](https://arxiv.org/abs/2608.10299)**
+
+4. **[DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?](https://arxiv.org/abs/2608.10366)**
+
+5. **[SPIEval: Evaluating Large Language Models as Mobile Assistants over Scattered Personal Information](https://arxiv.org/abs/2608.10692)**
+
+6. **[VibeLifeBench: Can Your Life Agent Be Proactive and Persistent in a Living World?](https://arxiv.org/abs/2608.10875)**
+
+7. **[Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution](https://arxiv.org/abs/2608.07645)**
+
+8. **[Beyond Pixels: From Video Priors to 4D Worlds](https://arxiv.org/abs/2608.10744)**
+
+9. **[VectraYX-Vision-1B: A Sub-2B Spanish/LATAM Cybersecurity Vision-Language Model with Structured Visual Reasoning and Native Tool Use](https://arxiv.org/abs/2608.08477)**
+
+10. **[The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents](https://arxiv.org/abs/2608.06065)**
+
+
+#### Blog Posts
+
+1. **[Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)** by stolen-thoughts.com
+
+2. **[How Claude marks AI-generated content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)** by support.claude.com
+
+3. **[OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0)** by ft.com
+
+4. **[Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)** by github.com
+
+5. **[LFM2.5 2.6B model competitive with 4x larger models](https://huggingface.co/LiquidAI/LFM2.5-2.6B)** by huggingface.co
+
+6. **[WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)** by tencent-hunyuan.github.io
+
+
+#### Trending Repos
+
+1. **[anthropics/skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills ⭐ 168226
+
+2. **[huggingface/transformers](https://github.com/huggingface/transformers)** — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ⭐ 163858
+
+3. **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. ⭐ 42940
+
+4. **[AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)** — Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal ⭐ 10760
+
+5. **[LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind)** — QuantMind is an agent-native knowledge extraction and retrieval framework for quantitative finance. ⭐ 2495
+
+6. **[ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)** — let your agent control your phone ⭐ 1523
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-11</strong></summary>
 
 #### Papers
