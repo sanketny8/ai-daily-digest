@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-13</strong></summary>
+
+#### Papers
+
+1. **[Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models](https://arxiv.org/abs/2608.10708)**
+
+2. **[Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives](https://arxiv.org/abs/2608.08160)**
+
+3. **[The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images](https://arxiv.org/abs/2608.06270)**
+
+4. **[NeuPAT: Neuron-aware Plasticity Allocation Tuning for Language-Preserving MLLMs](https://arxiv.org/abs/2608.08107)**
+
+5. **[AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](https://arxiv.org/abs/2608.12307)**
+
+6. **[From Synthesis to Removal: Physics-Grounded Reflection Simulation and Diffusion-Based Video Dereflection](https://arxiv.org/abs/2608.11562)**
+
+7. **[MBA: Multimodal Benchmark and Agents for Real-World Business Ideation](https://arxiv.org/abs/2608.11616)**
+
+8. **[AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research](https://arxiv.org/abs/2608.11216)**
+
+9. **[AVA-Encoder: Towards Agent-Native Video Representation Learning](https://arxiv.org/abs/2608.12313)**
+
+10. **[StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization](https://arxiv.org/abs/2608.12314)**
+
+
+#### Blog Posts
+
+1. **[Controversial creators are benefiting from monetization programs run by Meta](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)** by abc.net.au
+
+2. **[Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)** by artificialanalysis.ai
+
+3. **[Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights)** by knownagents.com
+
+4. **[Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)** by discoveredmaterials.com
+
+5. **[Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK](https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a)** by Asuran
+
+6. **[I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First](https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd)** by Varshith V Hegde
+
+7. **[The Next Evolution of Software Developers](https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh)** by Roberto B.
+
+
+#### Trending Repos
+
+1. **[localsend/localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop ⭐ 87906
+
+2. **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs ⭐ 87612
+
+3. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** — AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support ⭐ 45829
+
+4. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. ⭐ 11122
+
+5. **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c ⭐ 8746
+
+6. **[Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)** — Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model. ⭐ 8744
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-12</strong></summary>
 
 #### Papers

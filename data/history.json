@@ -1,37 +1,4 @@
 {
-  "2026-07-13": {
-    "papers": [
-      "https://arxiv.org/abs/2607.07964",
-      "https://arxiv.org/abs/2607.08964",
-      "https://arxiv.org/abs/2607.09020",
-      "https://arxiv.org/abs/2607.06553",
-      "https://arxiv.org/abs/2607.09661",
-      "https://arxiv.org/abs/2607.08393",
-      "https://arxiv.org/abs/2607.04751",
-      "https://arxiv.org/abs/2607.09415",
-      "https://arxiv.org/abs/2607.09024",
-      "https://arxiv.org/abs/2607.09424"
-    ],
-    "blogs": [
-      "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "https://nanduruganesh.github.io/flash-msa/",
-      "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-      "https://dev.to/xulingfeng/12-stories-in-and-a-journalist-came-to-interview-me-45f5"
-    ],
-    "repos": [
-      "https://github.com/Crosstalk-Solutions/project-nomad",
-      "https://github.com/davila7/claude-code-templates",
-      "https://github.com/HKUDS/Vibe-Trading",
-      "https://github.com/pydantic/pydantic-ai",
-      "https://github.com/teng-lin/notebooklm-py",
-      "https://github.com/MervinPraison/PraisonAI",
-      "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "https://github.com/lingfengQAQ/webnovel-writer",
-      "https://github.com/Nutlope/hallmark"
-    ]
-  },
   "2026-07-14": {
     "papers": [
       "https://arxiv.org/abs/2607.09125",
@@ -949,6 +916,37 @@
       "https://github.com/AgriciDaniel/claude-obsidian",
       "https://github.com/LLMQuant/quant-mind",
       "https://github.com/ShawnPana/phone-harness"
+    ]
+  },
+  "2026-08-13": {
+    "papers": [
+      "https://arxiv.org/abs/2608.10708",
+      "https://arxiv.org/abs/2608.08160",
+      "https://arxiv.org/abs/2608.06270",
+      "https://arxiv.org/abs/2608.08107",
+      "https://arxiv.org/abs/2608.12307",
+      "https://arxiv.org/abs/2608.11562",
+      "https://arxiv.org/abs/2608.11616",
+      "https://arxiv.org/abs/2608.11216",
+      "https://arxiv.org/abs/2608.12313",
+      "https://arxiv.org/abs/2608.12314"
+    ],
+    "blogs": [
+      "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "https://knownagents.com/insights",
+      "https://discoveredmaterials.com/research/",
+      "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
+      "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh"
+    ],
+    "repos": [
+      "https://github.com/localsend/localsend",
+      "https://github.com/infiniflow/ragflow",
+      "https://github.com/hugohe3/ppt-master",
+      "https://github.com/cathrynlavery/diagram-design",
+      "https://github.com/omnigent-ai/omnigent",
+      "https://github.com/Lightricks/LTX-2"
     ]
   }
 }

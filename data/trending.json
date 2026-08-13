@@ -1,130 +1,135 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "papers": [
     {
-      "title": "Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence",
-      "url": "https://arxiv.org/abs/2608.10720",
-      "summary": "Omni-modal dialogue models can understand multimodal inputs and synthesize spoken replies, yet their responses remain visually disembodied. We introduce Ex-Omni-2D, an omni-modal dialogue framework th"
+      "title": "Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models",
+      "url": "https://arxiv.org/abs/2608.10708",
+      "summary": "Recent Vision Foundation Models (VFMs) predict depth, camera pose, and pointmap in a single forward pass without per-scene optimization, achieving strong generalization. However, enforcing explicit mu"
     },
     {
-      "title": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
-      "url": "https://arxiv.org/abs/2608.11079",
-      "summary": "Self-evolving agents accumulate reusable skills by appending successful procedures and failure fixes. Over time, the same requirement is often restated in several branches, examples, and warnings, whi"
+      "title": "Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives",
+      "url": "https://arxiv.org/abs/2608.08160",
+      "summary": "The rapid advancement of Large Language Models (LLMs) is revolutionizing AI for Games by enabling open-ended and fluid interactive storytelling. However, existing research has largely overlooked the c"
     },
     {
-      "title": "Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design",
-      "url": "https://arxiv.org/abs/2608.10299",
-      "summary": "Agentic systems are increasingly expected to improve after deployment, yet single-entity self-evolution is often bounded by a static learning context, such as fixed tasks and feedback. This survey foc"
+      "title": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
+      "url": "https://arxiv.org/abs/2608.06270",
+      "summary": "The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains ove"
     },
     {
-      "title": "DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?",
-      "url": "https://arxiv.org/abs/2608.10366",
-      "summary": "Real-world data science involves long-horizon workflows that span data wrangling, exploration, modeling, visualization, and validation, and require coordinated use of tools such as notebooks, IDEs, te"
+      "title": "NeuPAT: Neuron-aware Plasticity Allocation Tuning for Language-Preserving MLLMs",
+      "url": "https://arxiv.org/abs/2608.08107",
+      "summary": "Multimodal expansion of large language models (LLMs) enables new perceptual capabilities but often compromises the language intelligence acquired during pretraining. In this work, we investigate this "
     },
     {
-      "title": "SPIEval: Evaluating Large Language Models as Mobile Assistants over Scattered Personal Information",
-      "url": "https://arxiv.org/abs/2608.10692",
-      "summary": "Large language models (LLMs) are increasingly deployed as mobile assistants, where a key challenge is leveraging personal information scattered across multiple applications (apps) to complete user ins"
+      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+      "url": "https://arxiv.org/abs/2608.12307",
+      "summary": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-"
     },
     {
-      "title": "VibeLifeBench: Can Your Life Agent Be Proactive and Persistent in a Living World?",
-      "url": "https://arxiv.org/abs/2608.10875",
-      "summary": "Large language model (LLM) agents are increasingly deployed as personal assistants. Existing evaluations, however, mostly use short, self-contained requests in static environments. Everyday life assis"
+      "title": "From Synthesis to Removal: Physics-Grounded Reflection Simulation and Diffusion-Based Video Dereflection",
+      "url": "https://arxiv.org/abs/2608.11562",
+      "summary": "Videos captured through glass often contain reflections that degrade visual quality and interfere with downstream vision tasks. Although single-image reflection removal has been extensively studied, v"
     },
     {
-      "title": "Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution",
-      "url": "https://arxiv.org/abs/2608.07645",
-      "summary": "Self-improving coding agents that iteratively rewrite their own source code have demonstrated impressive performance on coding tasks. However, existing solutions generally derive self-modification fro"
+      "title": "MBA: Multimodal Benchmark and Agents for Real-World Business Ideation",
+      "url": "https://arxiv.org/abs/2608.11616",
+      "summary": "Agentic systems powered by large language models (LLMs) have opened new opportunities for business ideation. Yet existing approaches remain confined to a text-only paradigm, despite the inherently mul"
     },
     {
-      "title": "Beyond Pixels: From Video Priors to 4D Worlds",
-      "url": "https://arxiv.org/abs/2608.10744",
-      "summary": "4D generation synthesizes dynamic 3D scenes from conditions such as text or images. Existing methods either reconstruct generated RGB videos with a separate 4D model or adapt a particular video genera"
+      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+      "url": "https://arxiv.org/abs/2608.11216",
+      "summary": "World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environments. This makes it an ideal"
     },
     {
-      "title": "VectraYX-Vision-1B: A Sub-2B Spanish/LATAM Cybersecurity Vision-Language Model with Structured Visual Reasoning and Native Tool Use",
-      "url": "https://arxiv.org/abs/2608.08477",
-      "summary": "We present VectraYX-Vision-1B, a sub-2B vision-language model (VLM) for Spanish/LATAM cybersecurity imagery, coupling a frozen SigLIP-so400m encoder to a 1.04B Spanish/LATAM security decoder via an ML"
+      "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+      "url": "https://arxiv.org/abs/2608.12313",
+      "summary": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre"
     },
     {
-      "title": "The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents",
-      "url": "https://arxiv.org/abs/2608.06065",
-      "summary": "GUI agents are commonly trained offline from successful interaction trajectories. Standard training decomposes each trajectory into prefix-action pairs: the agent predicts an action from the current s"
+      "title": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
+      "url": "https://arxiv.org/abs/2608.12314",
+      "summary": "Previsualization is an intermediate layer between ideas and production in film, games, architecture, and urban design. It lets creators iteratively refine scenes, actions, cameras, and spatial-tempora"
     }
   ],
   "blog_posts": [
     {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "author": "stolen-thoughts.com"
+      "title": "Controversial creators are benefiting from monetization programs run by Meta",
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "author": "abc.net.au"
     },
     {
-      "title": "How Claude marks AI-generated content",
-      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "author": "support.claude.com"
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "author": "artificialanalysis.ai"
     },
     {
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "author": "ft.com"
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "author": "knownagents.com"
     },
     {
-      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "author": "github.com"
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "author": "discoveredmaterials.com"
     },
     {
-      "title": "LFM2.5 2.6B model competitive with 4x larger models",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "author": "huggingface.co"
+      "title": "Bug Smash: restoring dropped Gemini chat config in Sentry's JavaScript SDK",
+      "url": "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
+      "author": "Asuran"
     },
     {
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "author": "tencent-hunyuan.github.io"
+      "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
+      "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
+      "author": "Varshith V Hegde"
+    },
+    {
+      "title": "The Next Evolution of Software Developers",
+      "url": "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh",
+      "author": "Roberto B."
     }
   ],
   "repos": [
     {
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "stars": 168226,
+      "name": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "stars": 87906,
+      "language": "Dart"
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 87612,
+      "language": "Go"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support",
+      "stars": 45829,
       "language": "Python"
     },
     {
-      "name": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "stars": 163858,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars": 11122,
+      "language": "HTML"
+    },
+    {
+      "name": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c",
+      "stars": 8746,
       "language": "Python"
     },
     {
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "stars": 42940,
-      "language": "TypeScript"
-    },
-    {
-      "name": "AgriciDaniel/claude-obsidian",
-      "url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal",
-      "stars": 10760,
-      "language": "Python"
-    },
-    {
-      "name": "LLMQuant/quant-mind",
-      "url": "https://github.com/LLMQuant/quant-mind",
-      "description": "QuantMind is an agent-native knowledge extraction and retrieval framework for quantitative finance.",
-      "stars": 2495,
-      "language": "Python"
-    },
-    {
-      "name": "ShawnPana/phone-harness",
-      "url": "https://github.com/ShawnPana/phone-harness",
-      "description": "let your agent control your phone",
-      "stars": 1523,
+      "name": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars": 8744,
       "language": "Python"
     }
   ],
