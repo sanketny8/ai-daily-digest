@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-14</strong></summary>
+
+#### Papers
+
+1. **[DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation](https://arxiv.org/abs/2608.13489)**
+
+2. **[Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence](https://arxiv.org/abs/2608.12743)**
+
+3. **[DarwinX: Evolving Agent Harnesses Through Natural Selection](https://arxiv.org/abs/2608.07545)**
+
+4. **[Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus](https://arxiv.org/abs/2608.12149)**
+
+5. **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/abs/2608.13560)**
+
+6. **[LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation](https://arxiv.org/abs/2608.12990)**
+
+7. **[PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives](https://arxiv.org/abs/2608.13552)**
+
+8. **[Full-bandwidth transformer](https://arxiv.org/abs/2608.08888)**
+
+9. **[Alaya-EVOKE: From Linear-Scaling Supervision to Endless World](https://arxiv.org/abs/2608.13546)**
+
+10. **[How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review](https://arxiv.org/abs/2608.08975)**
+
+
+#### Blog Posts
+
+1. **[Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)** by blog.google
+
+2. **[Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)** by cerebras.ai
+
+3. **[Codex in ChatGPT desktop app for Linux is now in preview](https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027)** by community.openai.com
+
+4. **[Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)** by docs.mistral.ai
+
+5. **[Choosing an AI model: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)** by netlify.com
+
+6. **[How AI text watermarking works](https://declaude.org/watermarking/)** by declaude.org
+
+7. **[How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)** by cdn.openai.com
+
+8. **[The Conceptual Reasoning Index](https://alignment.anthropic.com/2026/conceptual-reasoning-index/)** by alignment.anthropic.com
+
+
+#### Trending Repos
+
+1. **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. ⭐ 45883
+
+2. **[soxoj/maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites ⭐ 36749
+
+3. **[altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)** — Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon. ⭐ 9912
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-13</strong></summary>
 
 #### Papers
