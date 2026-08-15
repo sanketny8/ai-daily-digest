@@ -1,120 +1,107 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "papers": [
     {
-      "title": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2608.13489",
-      "summary": "We present DreamX-Phi 1.0, an action-conditioned video world model for robotic manipulation that, given an observed frame, a language instruction, and a prescribed action sequence comprising end-effec"
+      "title": "Maglev: Sliding Recurrent Memory",
+      "url": "https://arxiv.org/abs/2608.02870",
+      "summary": "We introduce , a recurrent Transformer architecture with fixed-size memory that generalizes sliding-window attention while remaining parallelizable during training.  consists of two coupled models: a "
     },
     {
-      "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
-      "url": "https://arxiv.org/abs/2608.12743",
-      "summary": "Spatial intelligence is becoming a foundation for embodied agents, robotic planning, and multimodal assistants. To improve the spatial reasoning ability of VLM agents, existing work has mainly followe"
+      "title": "Thought-Level Beam Search for Reasoning",
+      "url": "https://arxiv.org/abs/2608.08020",
+      "summary": "Test-time compute scaling is a primary driver of performance in large reasoning models (LRMs), but extreme inefficiency bounds current approaches, shifting the critical question from how much compute "
     },
     {
-      "title": "DarwinX: Evolving Agent Harnesses Through Natural Selection",
-      "url": "https://arxiv.org/abs/2608.07545",
-      "summary": "An LLM agent's capability depends not only on model weights but on its harness: prompts, tools, skills, and control flow. Self-improvement loops already edit harnesses, yet single-lineage search is pa"
+      "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
+      "url": "https://arxiv.org/abs/2608.06914",
+      "summary": "Rib fractures are common and time-consuming to localize on computed tomography (CT). We ask whether fractures detected independently in two orthogonal CT-derived projections (anteroposterior and later"
     },
     {
-      "title": "Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus",
-      "url": "https://arxiv.org/abs/2608.12149",
-      "summary": "We present the first systematic study of Massive activations (MAs) in layer-interleaved HLA LLMs and uncover two architecture-aligned morphologies: MAs consistently spike immediately before full atten"
+      "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
+      "url": "https://arxiv.org/abs/2608.13391",
+      "summary": "Interactive autoregressive video generation demands both low-latency rollouts and precise online control. Few-step distillation accelerates generation by reducing denoising steps, while online control"
+    },
+    {
+      "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+      "url": "https://arxiv.org/abs/2608.09158",
+      "summary": "Large audio-language models (LALMs) have demonstrated strong capabilities in understanding diverse audio inputs. This diversity includes low-frequency signals that are inaudible to humans but can stil"
+    },
+    {
+      "title": "Mitigating Gender Bias in English to Romanian Machine Translation",
+      "url": "https://arxiv.org/abs/2608.08606",
+      "summary": "Machine translation (MT) systems often fail to correctly translate gender, especially when converting from a gender-neutral language like English to a gendered target language such as Romanian. This b"
+    },
+    {
+      "title": "Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing",
+      "url": "https://arxiv.org/abs/2608.11660",
+      "summary": "Large language models (LLMs) achieve remarkable performance across natural language tasks, yet they are trained on static corpora and their knowledge quickly becomes outdated in a fast-changing world."
+    },
+    {
+      "title": "Specification-first convergence with an AI coding agent: a case study of dismantling a core architectural invariant across 189 files in a 717k-line codebase with no test oracle and no human code review",
+      "url": "https://arxiv.org/abs/2608.12440",
+      "summary": "This paper reports a single, fully instrumented case study of a large-scale architectural refactoring by an AI coding agent under a specification-first protocol, with no human review of the generated "
+    },
+    {
+      "title": "PixSDS: Why Latent SDS Makes Noisy Pixels",
+      "url": "https://arxiv.org/abs/2608.12997",
+      "summary": "Score Distillation Sampling (SDS) enables text-to-3D generation by optimizing rendered images with a pretrained diffusion prior, but latent SDS often produces structured color artifacts and high-frequ"
     },
     {
       "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-      "url": "https://arxiv.org/abs/2608.13560",
+      "url": "http://arxiv.org/abs/2608.13560v1",
       "summary": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har"
-    },
-    {
-      "title": "LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation",
-      "url": "https://arxiv.org/abs/2608.12990",
-      "summary": "Long-horizon LLM agents must preserve information from past interactions to support future tasks. Existing memory systems typically rely on eager consolidation, invoking LLMs after each interaction to"
-    },
-    {
-      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
-      "url": "https://arxiv.org/abs/2608.13552",
-      "summary": "Video world models simulate future states conditioned on current observations and user actions. Recent systems have demonstrated impressive video consistency and action controllability over long seque"
-    },
-    {
-      "title": "Full-bandwidth transformer",
-      "url": "https://arxiv.org/abs/2608.08888",
-      "summary": "Autoregressive transformers compute along two axes: horizontally across generated tokens, and vertically through model depth. Dense attention gives each token broad horizontal access to the past, but "
-    },
-    {
-      "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
-      "url": "https://arxiv.org/abs/2608.13546",
-      "summary": "Interactive world models must support persistent memory, responsive interaction, and long-horizon generation, yet these requirements place conflicting demands on the model. Maintaining history in the "
-    },
-    {
-      "title": "How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review",
-      "url": "https://arxiv.org/abs/2608.08975",
-      "summary": "As large language models increasingly participate in scientific evaluation, we investigate a potential form of reward hacking: how rhetorical choices shape AI-review judgments when reported scientific"
     }
   ],
   "blog_posts": [
     {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "author": "blog.google"
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "author": "run.cosmograph.app"
     },
     {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "author": "cerebras.ai"
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "url": "https://hashagent.pages.dev/",
+      "author": "hashagent.pages.dev"
     },
     {
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "author": "community.openai.com"
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "author": "arxiv.org"
     },
     {
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "author": "docs.mistral.ai"
-    },
-    {
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "author": "netlify.com"
-    },
-    {
-      "title": "How AI text watermarking works",
-      "url": "https://declaude.org/watermarking/",
-      "author": "declaude.org"
-    },
-    {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "author": "cdn.openai.com"
-    },
-    {
-      "title": "The Conceptual Reasoning Index",
-      "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
-      "author": "alignment.anthropic.com"
+      "title": "“WE CREATED AI — BUT IS AI CHANGING US”?",
+      "url": "https://medium.com/@adityakarki2009/we-created-ai-but-is-ai-changing-us-5c388a530d53",
+      "author": "Adityakarki"
     }
   ],
   "repos": [
     {
-      "name": "kepano/obsidian-skills",
-      "url": "https://github.com/kepano/obsidian-skills",
-      "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
-      "stars": 45883,
-      "language": ""
-    },
-    {
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "stars": 36749,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": 103610,
       "language": "Python"
     },
     {
-      "name": "altic-dev/FluidVoice",
-      "url": "https://github.com/altic-dev/FluidVoice",
-      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
-      "stars": 9912,
-      "language": "Swift"
+      "name": "exo-explore/exo",
+      "url": "https://github.com/exo-explore/exo",
+      "description": "Run frontier AI locally.",
+      "stars": 46832,
+      "language": "Python"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "stars": 39105,
+      "language": "JavaScript"
+    },
+    {
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "stars": 7317,
+      "language": "TypeScript"
     }
   ],
   "tweets": []

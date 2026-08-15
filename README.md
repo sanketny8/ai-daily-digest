@@ -10,6 +10,57 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-15</strong></summary>
+
+#### Papers
+
+1. **[Maglev: Sliding Recurrent Memory](https://arxiv.org/abs/2608.02870)**
+
+2. **[Thought-Level Beam Search for Reasoning](https://arxiv.org/abs/2608.08020)**
+
+3. **[RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections](https://arxiv.org/abs/2608.06914)**
+
+4. **[Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation](https://arxiv.org/abs/2608.13391)**
+
+5. **[From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs](https://arxiv.org/abs/2608.09158)**
+
+6. **[Mitigating Gender Bias in English to Romanian Machine Translation](https://arxiv.org/abs/2608.08606)**
+
+7. **[Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing](https://arxiv.org/abs/2608.11660)**
+
+8. **[Specification-first convergence with an AI coding agent: a case study of dismantling a core architectural invariant across 189 files in a 717k-line codebase with no test oracle and no human code review](https://arxiv.org/abs/2608.12440)**
+
+9. **[PixSDS: Why Latent SDS Makes Noisy Pixels](https://arxiv.org/abs/2608.12997)**
+
+10. **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](http://arxiv.org/abs/2608.13560v1)**
+
+
+#### Blog Posts
+
+1. **[AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0)** by run.cosmograph.app
+
+2. **[HashAgent – Share an AI agent as a URL, runs locally via WebGPU](https://hashagent.pages.dev/)** by hashagent.pages.dev
+
+3. **[A Contract-Grade Verifier for LLM-Generated GPU Kernels](https://arxiv.org/abs/2608.12700)** by arxiv.org
+
+4. **[“WE CREATED AI — BUT IS AI CHANGING US”?](https://medium.com/@adityakarki2009/we-created-ai-but-is-ai-changing-us-5c388a530d53)** by Adityakarki
+
+
+#### Trending Repos
+
+1. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. ⭐ 103610
+
+2. **[exo-explore/exo](https://github.com/exo-explore/exo)** — Run frontier AI locally. ⭐ 46832
+
+3. **[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)** — ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 ⭐ 39105
+
+4. **[holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS)** — Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK. ⭐ 7317
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-14</strong></summary>
 
 #### Papers

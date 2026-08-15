@@ -1,36 +1,4 @@
 {
-  "2026-07-15": {
-    "papers": [
-      "https://arxiv.org/abs/2607.11886",
-      "https://arxiv.org/abs/2607.11111",
-      "https://arxiv.org/abs/2607.11250",
-      "https://arxiv.org/abs/2607.11862",
-      "https://arxiv.org/abs/2607.11736",
-      "https://arxiv.org/abs/2607.07470",
-      "https://arxiv.org/abs/2607.11643",
-      "https://arxiv.org/abs/2607.09701",
-      "https://arxiv.org/abs/2607.11885",
-      "https://arxiv.org/abs/2607.11505"
-    ],
-    "blogs": [
-      "https://prismml.com/news/bonsai-27b",
-      "https://github.com/juggler-ai/juggler",
-      "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "https://github.com/Danau5tin/ai-trains-ai",
-      "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
-      "https://www.benjamin-bai.com/projects/lemario",
-      "https://agnost.ai",
-      "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio"
-    ],
-    "repos": [
-      "https://github.com/google/skills",
-      "https://github.com/Arindam200/awesome-ai-apps",
-      "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "https://github.com/PrimeIntellect-ai/verifiers",
-      "https://github.com/kangarooking/cangjie-skill",
-      "https://github.com/AIEraDev/Clypra"
-    ]
-  },
   "2026-07-16": {
     "papers": [
       "https://arxiv.org/abs/2607.13125",
@@ -945,6 +913,32 @@
       "https://github.com/kepano/obsidian-skills",
       "https://github.com/soxoj/maigret",
       "https://github.com/altic-dev/FluidVoice"
+    ]
+  },
+  "2026-08-15": {
+    "papers": [
+      "https://arxiv.org/abs/2608.02870",
+      "https://arxiv.org/abs/2608.08020",
+      "https://arxiv.org/abs/2608.06914",
+      "https://arxiv.org/abs/2608.13391",
+      "https://arxiv.org/abs/2608.09158",
+      "https://arxiv.org/abs/2608.08606",
+      "https://arxiv.org/abs/2608.11660",
+      "https://arxiv.org/abs/2608.12440",
+      "https://arxiv.org/abs/2608.12997",
+      "http://arxiv.org/abs/2608.13560v1"
+    ],
+    "blogs": [
+      "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "https://hashagent.pages.dev/",
+      "https://arxiv.org/abs/2608.12700",
+      "https://medium.com/@adityakarki2009/we-created-ai-but-is-ai-changing-us-5c388a530d53"
+    ],
+    "repos": [
+      "https://github.com/harry0703/MoneyPrinterTurbo",
+      "https://github.com/exo-explore/exo",
+      "https://github.com/ToolJet/ToolJet",
+      "https://github.com/holaboss-ai/holaOS"
     ]
   }
 }
