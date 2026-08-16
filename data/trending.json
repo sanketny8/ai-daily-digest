@@ -1,107 +1,119 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "papers": [
     {
-      "title": "Maglev: Sliding Recurrent Memory",
-      "url": "https://arxiv.org/abs/2608.02870",
-      "summary": "We introduce , a recurrent Transformer architecture with fixed-size memory that generalizes sliding-window attention while remaining parallelizable during training.  consists of two coupled models: a "
+      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "url": "http://arxiv.org/abs/2608.13558v1",
+      "summary": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workf"
     },
     {
-      "title": "Thought-Level Beam Search for Reasoning",
-      "url": "https://arxiv.org/abs/2608.08020",
-      "summary": "Test-time compute scaling is a primary driver of performance in large reasoning models (LRMs), but extreme inefficiency bounds current approaches, shifting the critical question from how much compute "
+      "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+      "url": "http://arxiv.org/abs/2608.13555v1",
+      "summary": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences b"
     },
     {
-      "title": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections",
-      "url": "https://arxiv.org/abs/2608.06914",
-      "summary": "Rib fractures are common and time-consuming to localize on computed tomography (CT). We ask whether fractures detected independently in two orthogonal CT-derived projections (anteroposterior and later"
+      "title": "Defensive Boosting for Online Probabilistic Forecasting",
+      "url": "http://arxiv.org/abs/2608.13554v1",
+      "summary": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain tw"
     },
     {
-      "title": "Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation",
-      "url": "https://arxiv.org/abs/2608.13391",
-      "summary": "Interactive autoregressive video generation demands both low-latency rollouts and precise online control. Few-step distillation accelerates generation by reducing denoising steps, while online control"
+      "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
+      "url": "http://arxiv.org/abs/2608.13549v1",
+      "summary": "The per-instance Jaccard score, or intersection over union (IoU), is standard in multi-label classification and binary segmentation. With $s$ labels, its loss matrix has $2^s$ outcomes and reports. Un"
     },
     {
-      "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
-      "url": "https://arxiv.org/abs/2608.09158",
-      "summary": "Large audio-language models (LALMs) have demonstrated strong capabilities in understanding diverse audio inputs. This diversity includes low-frequency signals that are inaudible to humans but can stil"
+      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "url": "http://arxiv.org/abs/2608.13547v1",
+      "summary": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures i"
     },
     {
-      "title": "Mitigating Gender Bias in English to Romanian Machine Translation",
-      "url": "https://arxiv.org/abs/2608.08606",
-      "summary": "Machine translation (MT) systems often fail to correctly translate gender, especially when converting from a gender-neutral language like English to a gendered target language such as Romanian. This b"
+      "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+      "url": "http://arxiv.org/abs/2608.13545v1",
+      "summary": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to charact"
     },
     {
-      "title": "Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing",
-      "url": "https://arxiv.org/abs/2608.11660",
-      "summary": "Large language models (LLMs) achieve remarkable performance across natural language tasks, yet they are trained on static corpora and their knowledge quickly becomes outdated in a fast-changing world."
+      "title": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
+      "url": "http://arxiv.org/abs/2608.13538v1",
+      "summary": "Sparse autoencoders (SAEs) are proposed to extract numerous features from large language model (LLM) representations, yet explaining these features still relies primarily on external observation. This"
     },
     {
-      "title": "Specification-first convergence with an AI coding agent: a case study of dismantling a core architectural invariant across 189 files in a 717k-line codebase with no test oracle and no human code review",
-      "url": "https://arxiv.org/abs/2608.12440",
-      "summary": "This paper reports a single, fully instrumented case study of a large-scale architectural refactoring by an AI coding agent under a specification-first protocol, with no human review of the generated "
+      "title": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees",
+      "url": "http://arxiv.org/abs/2608.13524v1",
+      "summary": "Speculative decoding losslessly accelerates autoregressive language models by verifying multiple draft tokens in parallel. Diffusion-based drafters further reduce proposal latency by predicting an ent"
     },
     {
-      "title": "PixSDS: Why Latent SDS Makes Noisy Pixels",
-      "url": "https://arxiv.org/abs/2608.12997",
-      "summary": "Score Distillation Sampling (SDS) enables text-to-3D generation by optimizing rendered images with a pretrained diffusion prior, but latent SDS often produces structured color artifacts and high-frequ"
-    },
-    {
-      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-      "url": "http://arxiv.org/abs/2608.13560v1",
-      "summary": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har"
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "url": "http://arxiv.org/abs/2608.13522v1",
+      "summary": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and "
     }
   ],
   "blog_posts": [
     {
-      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-      "author": "run.cosmograph.app"
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "author": "stephen-cresswell.com"
     },
     {
-      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-      "url": "https://hashagent.pages.dev/",
-      "author": "hashagent.pages.dev"
+      "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
+      "author": "Pascal CESCATO"
     },
     {
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "url": "https://arxiv.org/abs/2608.12700",
-      "author": "arxiv.org"
+      "title": "I Bought a ₹6 Share and Learned the Hard Way: Building FinEd Saathi in 10 Days",
+      "url": "https://dev.to/himanshu_748/i-bought-a-6-share-and-learned-the-hard-way-building-fined-saathi-in-10-days-1980",
+      "author": "Himanshu Kumar"
     },
     {
-      "title": "“WE CREATED AI — BUT IS AI CHANGING US”?",
-      "url": "https://medium.com/@adityakarki2009/we-created-ai-but-is-ai-changing-us-5c388a530d53",
-      "author": "Adityakarki"
+      "title": "AI automation actually pays off for small businesses right now:",
+      "url": "https://medium.com/@mdsamiul77224/ai-automation-actually-pays-off-for-small-businesses-right-now-4ca75a29f09d",
+      "author": "Mdsamiul"
+    },
+    {
+      "title": "AI Prompts Sell for $4.99. The Marketplace Has 310,000 of Them.",
+      "url": "https://medium.com/@automation.labs/ai-prompts-sell-for-4-99-the-marketplace-has-310-000-of-them-b3c4ed4e7270",
+      "author": "Automation Labs"
+    },
+    {
+      "title": "Everything You Were Told About AI Is Fatally Wrong",
+      "url": "https://ai.gopubby.com/everything-you-were-told-about-ai-is-fatally-wrong-28078540ad7e",
+      "author": "Jose Crespo, PhD"
     }
   ],
   "repos": [
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": 103610,
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 47386,
       "language": "Python"
     },
     {
-      "name": "exo-explore/exo",
-      "url": "https://github.com/exo-explore/exo",
-      "description": "Run frontier AI locally.",
-      "stars": 46832,
+      "name": "whiteguo233/OpenBiliClaw",
+      "url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, th",
+      "stars": 2586,
       "language": "Python"
     },
     {
-      "name": "ToolJet/ToolJet",
-      "url": "https://github.com/ToolJet/ToolJet",
-      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-      "stars": 39105,
-      "language": "JavaScript"
+      "name": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars": 1128,
+      "language": "Python"
     },
     {
-      "name": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
-      "stars": 7317,
+      "name": "vercel-labs/eve-software-factory-template",
+      "url": "https://github.com/vercel-labs/eve-software-factory-template",
+      "description": "Meet Foreman, an eve Software Factory.",
+      "stars": 792,
       "language": "TypeScript"
+    },
+    {
+      "name": "NousResearch/Hermes-Bot-Mode",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "stars": 505,
+      "language": "JavaScript"
     }
   ],
   "tweets": []

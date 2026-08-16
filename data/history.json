@@ -1,33 +1,4 @@
 {
-  "2026-07-16": {
-    "papers": [
-      "https://arxiv.org/abs/2607.13125",
-      "https://arxiv.org/abs/2607.12752",
-      "https://arxiv.org/abs/2607.11523",
-      "https://arxiv.org/abs/2607.07702",
-      "https://arxiv.org/abs/2607.12747",
-      "https://arxiv.org/abs/2607.12000",
-      "https://arxiv.org/abs/2607.13960",
-      "https://arxiv.org/abs/2607.05910",
-      "https://arxiv.org/abs/2607.13124",
-      "https://arxiv.org/abs/2607.12395"
-    ],
-    "blogs": [
-      "https://thinkingmachines.ai/news/introducing-inkling/",
-      "https://openai.com/supply/co-lab/work-louder/",
-      "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
-      "https://brainless.swerdlow.dev",
-      "https://coasty.ai/docs",
-      "https://github.com/1ay1/agentty"
-    ],
-    "repos": [
-      "https://github.com/datawhalechina/hello-agents",
-      "https://github.com/HKUDS/nanobot",
-      "https://github.com/triton-inference-server/server",
-      "https://github.com/xai-org/grok-build"
-    ]
-  },
   "2026-07-17": {
     "papers": [
       "https://arxiv.org/abs/2607.13491",
@@ -939,6 +910,34 @@
       "https://github.com/exo-explore/exo",
       "https://github.com/ToolJet/ToolJet",
       "https://github.com/holaboss-ai/holaOS"
+    ]
+  },
+  "2026-08-16": {
+    "papers": [
+      "http://arxiv.org/abs/2608.13558v1",
+      "http://arxiv.org/abs/2608.13555v1",
+      "http://arxiv.org/abs/2608.13554v1",
+      "http://arxiv.org/abs/2608.13549v1",
+      "http://arxiv.org/abs/2608.13547v1",
+      "http://arxiv.org/abs/2608.13545v1",
+      "http://arxiv.org/abs/2608.13538v1",
+      "http://arxiv.org/abs/2608.13524v1",
+      "http://arxiv.org/abs/2608.13522v1"
+    ],
+    "blogs": [
+      "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
+      "https://dev.to/himanshu_748/i-bought-a-6-share-and-learned-the-hard-way-building-fined-saathi-in-10-days-1980",
+      "https://medium.com/@mdsamiul77224/ai-automation-actually-pays-off-for-small-businesses-right-now-4ca75a29f09d",
+      "https://medium.com/@automation.labs/ai-prompts-sell-for-4-99-the-marketplace-has-310-000-of-them-b3c4ed4e7270",
+      "https://ai.gopubby.com/everything-you-were-told-about-ai-is-fatally-wrong-28078540ad7e"
+    ],
+    "repos": [
+      "https://github.com/HKUDS/CLI-Anything",
+      "https://github.com/whiteguo233/OpenBiliClaw",
+      "https://github.com/Leutenegger/book-to-skill",
+      "https://github.com/vercel-labs/eve-software-factory-template",
+      "https://github.com/NousResearch/Hermes-Bot-Mode"
     ]
   }
 }

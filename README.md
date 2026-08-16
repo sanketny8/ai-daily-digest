@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-16</strong></summary>
+
+#### Papers
+
+1. **[OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1)**
+
+2. **[HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark](http://arxiv.org/abs/2608.13555v1)**
+
+3. **[Defensive Boosting for Online Probabilistic Forecasting](http://arxiv.org/abs/2608.13554v1)**
+
+4. **[Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure](http://arxiv.org/abs/2608.13549v1)**
+
+5. **[QuoteBench: How Matched Scores Can Hide Command-Path Failures](http://arxiv.org/abs/2608.13547v1)**
+
+6. **[LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure](http://arxiv.org/abs/2608.13545v1)**
+
+7. **[SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization](http://arxiv.org/abs/2608.13538v1)**
+
+8. **[DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees](http://arxiv.org/abs/2608.13524v1)**
+
+9. **[Vero: Can AI Agents Build Formally Verified Software Repositories?](http://arxiv.org/abs/2608.13522v1)**
+
+
+#### Blog Posts
+
+1. **[Yadda 3.0.0: BDD in the Age of AI Agents](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html)** by stephen-cresswell.com
+
+2. **[The "AI" Badge Doesn't Measure What You Think It Does](https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9)** by Pascal CESCATO
+
+3. **[I Bought a ₹6 Share and Learned the Hard Way: Building FinEd Saathi in 10 Days](https://dev.to/himanshu_748/i-bought-a-6-share-and-learned-the-hard-way-building-fined-saathi-in-10-days-1980)** by Himanshu Kumar
+
+4. **[AI automation actually pays off for small businesses right now:](https://medium.com/@mdsamiul77224/ai-automation-actually-pays-off-for-small-businesses-right-now-4ca75a29f09d)** by Mdsamiul
+
+5. **[AI Prompts Sell for $4.99. The Marketplace Has 310,000 of Them.](https://medium.com/@automation.labs/ai-prompts-sell-for-4-99-the-marketplace-has-310-000-of-them-b3c4ed4e7270)** by Automation Labs
+
+6. **[Everything You Were Told About AI Is Fatally Wrong](https://ai.gopubby.com/everything-you-were-told-about-ai-is-fatally-wrong-28078540ad7e)** by Jose Crespo, PhD
+
+
+#### Trending Repos
+
+1. **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ ⭐ 47386
+
+2. **[whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)** — 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, th ⭐ 2586
+
+3. **[Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill)** — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. ⭐ 1128
+
+4. **[vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template)** — Meet Foreman, an eve Software Factory. ⭐ 792
+
+5. **[NousResearch/Hermes-Bot-Mode](https://github.com/NousResearch/Hermes-Bot-Mode)** — Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches. ⭐ 505
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-15</strong></summary>
 
 #### Papers
