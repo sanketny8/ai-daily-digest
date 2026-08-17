@@ -10,6 +10,71 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-17</strong></summary>
+
+#### Papers
+
+1. **[SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation](https://arxiv.org/abs/2608.14138)**
+
+2. **[Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development](https://arxiv.org/abs/2608.13417)**
+
+3. **[Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning](https://arxiv.org/abs/2608.14290)**
+
+4. **[Dion3: Full-Stack Orthogonal Updates](https://arxiv.org/abs/2608.11612)**
+
+5. **[Marionette: Predicting World States, Rendering Geometry, Painting Appearance](https://arxiv.org/abs/2608.14530)**
+
+6. **[Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils](http://arxiv.org/abs/2608.14539v1)**
+
+7. **[Marionette: Predicting World States, Rendering Geometry, Painting Appearance](http://arxiv.org/abs/2608.14530v1)**
+
+8. **[Handover of In-Context Learning State Across Session Boundaries](http://arxiv.org/abs/2608.14528v1)**
+
+9. **[Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](http://arxiv.org/abs/2608.14522v1)**
+
+10. **[Learning-to-Transition for Large-scale and High-Order MIMO Detection](http://arxiv.org/abs/2608.14511v1)**
+
+
+#### Blog Posts
+
+1. **[Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)** by platform.claude.com
+
+2. **[The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)** by vectoral.com
+
+3. **[Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)** by anthropic.com
+
+4. **[Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)** by daringfireball.net
+
+5. **[Chestnut – eGPU dock with open-source firmware](https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/)** by hwbusters.com
+
+6. **[Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)** by reuters.com
+
+7. **[MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)** by math-ai-org.github.io
+
+8. **[AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](https://arxiv.org/abs/2608.13122)** by arxiv.org
+
+9. **[How We Got an LLM to Draw Charts Without Ever Touching a Pixel](https://dev.to/lovestaco/how-we-got-an-llm-to-draw-charts-without-ever-touching-a-pixel-1i21)** by Athreya aka Maneshwar
+
+
+#### Trending Repos
+
+1. **[xai-org/grok-1](https://github.com/xai-org/grok-1)** — Grok open release ⭐ 52145
+
+2. **[google-research/timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. ⭐ 27831
+
+3. **[jundot/omlx](https://github.com/jundot/omlx)** — LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar ⭐ 18806
+
+4. **[THUDM/slime](https://github.com/THUDM/slime)** — slime is an LLM post-training framework for RL Scaling. ⭐ 8066
+
+5. **[0xSero/ai-data-extraction](https://github.com/0xSero/ai-data-extraction)** — extract all your personal data history from cursor, codex, claude-code, windsurf, and trae ⭐ 1135
+
+6. **[0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)** — DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic. ⭐ 623
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-16</strong></summary>
 
 #### Papers
