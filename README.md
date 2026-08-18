@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-18</strong></summary>
+
+#### Papers
+
+1. **[GenRouter: Unified Workflow Routing for Agentic Image Generation](https://arxiv.org/abs/2608.16721)**
+
+2. **[VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?](https://arxiv.org/abs/2608.15265)**
+
+3. **[Understanding Cognition-Induced Risks in Agentic AI Systems](https://arxiv.org/abs/2608.15304)**
+
+4. **[MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling](https://arxiv.org/abs/2608.14783)**
+
+5. **[Agentic Transaction: Towards ACID-Compliant Agent Systems](https://arxiv.org/abs/2608.13900)**
+
+6. **[NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](https://arxiv.org/abs/2608.12898)**
+
+7. **[Is this Citation on Point?](https://arxiv.org/abs/2608.12571)**
+
+8. **[Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead](https://arxiv.org/abs/2608.13987)**
+
+9. **[Amplified Does Not Mean Predictive: Reasoning Behaviors in Thinking Models](https://arxiv.org/abs/2608.13760)**
+
+10. **[Modular Cognitive Architecture Emerges in Large Language Models](https://arxiv.org/abs/2608.13567)**
+
+
+#### Blog Posts
+
+1. **[AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)** by wiz.io
+
+2. **[Qwen3.8 27B scores 52 on Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b)** by artificialanalysis.ai
+
+3. **[GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)** by blog.roboflow.com
+
+4. **[GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)** by openrouter.ai
+
+5. **[Anthropic's War on open source AI](https://twitter.com/TheAhmadOsman/status/2065307070044234186)** by twitter.com
+
+6. **[Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/)** by responsiblestatecraft.org
+
+7. **[Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground/)** by blog.roboflow.com
+
+
+#### Trending Repos
+
+1. **[santifer/career-ops](https://github.com/santifer/career-ops)** — Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code,  ⭐ 64783
+
+2. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary ⭐ 58512
+
+3. **[microsoft/qlib](https://github.com/microsoft/qlib)** — Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl ⭐ 47668
+
+4. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Wo ⭐ 28500
+
+5. **[Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio)** — A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. ⭐ 7750
+
+6. **[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** — Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize ⭐ 7293
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-17</strong></summary>
 
 #### Papers

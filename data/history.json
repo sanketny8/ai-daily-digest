@@ -1,35 +1,4 @@
 {
-  "2026-07-18": {
-    "papers": [
-      "https://arxiv.org/abs/2607.09061",
-      "https://arxiv.org/abs/2607.12227",
-      "https://arxiv.org/abs/2607.14387",
-      "https://arxiv.org/abs/2607.15278",
-      "https://arxiv.org/abs/2607.14187",
-      "https://arxiv.org/abs/2607.14106",
-      "https://arxiv.org/abs/2607.15058",
-      "https://arxiv.org/abs/2607.10995",
-      "https://arxiv.org/abs/2607.14952",
-      "https://arxiv.org/abs/2607.14660"
-    ],
-    "blogs": [
-      "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-      "https://pramodaiml.medium.com/we-have-been-asking-the-wrong-question-about-ai-and-society-33a0290a887f",
-      "https://medium.com/@ifstevenistrue/ai-content-should-earn-its-indexability-a-practical-publication-gate-be35212c4264",
-      "https://medium.com/@ar3942050/why-we-trust-ai-generated-code-before-we-verify-it-a7e7af0df70f",
-      "https://medium.com/@datablize/the-ai-revolution-in-indias-msme-sector-isn-t-happening-in-the-cloud-it-s-happening-on-premise-a953e2cff032"
-    ],
-    "repos": [
-      "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "https://github.com/tirth8205/code-review-graph",
-      "https://github.com/RyanCodrai/turbovec",
-      "https://github.com/PurpleAILAB/Decepticon",
-      "https://github.com/aws/agent-toolkit-for-aws",
-      "https://github.com/PrismML-Eng/Bonsai-demo",
-      "https://github.com/anthropics/cwc-workshops"
-    ]
-  },
   "2026-07-19": {
     "papers": [
       "http://arxiv.org/abs/2607.15277v1",
@@ -940,6 +909,37 @@
       "https://github.com/THUDM/slime",
       "https://github.com/0xSero/ai-data-extraction",
       "https://github.com/0xsline/awesome-deepseek-harness"
+    ]
+  },
+  "2026-08-18": {
+    "papers": [
+      "https://arxiv.org/abs/2608.16721",
+      "https://arxiv.org/abs/2608.15265",
+      "https://arxiv.org/abs/2608.15304",
+      "https://arxiv.org/abs/2608.14783",
+      "https://arxiv.org/abs/2608.13900",
+      "https://arxiv.org/abs/2608.12898",
+      "https://arxiv.org/abs/2608.12571",
+      "https://arxiv.org/abs/2608.13987",
+      "https://arxiv.org/abs/2608.13760",
+      "https://arxiv.org/abs/2608.13567"
+    ],
+    "blogs": [
+      "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "https://blog.roboflow.com/openai-gpt-5-6/",
+      "https://openrouter.ai/openai/gpt-5.6-sol",
+      "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "https://blog.roboflow.com/roboflow-playground/"
+    ],
+    "repos": [
+      "https://github.com/santifer/career-ops",
+      "https://github.com/mvanhorn/last30days-skill",
+      "https://github.com/microsoft/qlib",
+      "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "https://github.com/Blaizzy/mlx-audio",
+      "https://github.com/anthropics/defending-code-reference-harness"
     ]
   }
 }
