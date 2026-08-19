@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-19</strong></summary>
+
+#### Papers
+
+1. **[GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation](https://arxiv.org/abs/2608.17988)**
+
+2. **[Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection](https://arxiv.org/abs/2608.16393)**
+
+3. **[ASI-Bench: At the Dawn of Artificial Superintelligence](https://arxiv.org/abs/2608.17271)**
+
+4. **[Abra: Scaling Diffusion Image Training](https://arxiv.org/abs/2608.17286)**
+
+5. **[StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows](https://arxiv.org/abs/2608.17800)**
+
+6. **[aDSL: Agentic 3D Creation via Joint Agent-Program Design](https://arxiv.org/abs/2608.17975)**
+
+7. **[From Sequence to Structure: Relational Uncertainty Propagation for LLM Agents](https://arxiv.org/abs/2608.16002)**
+
+8. **[Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements](https://arxiv.org/abs/2608.17310)**
+
+9. **[Dynamic Multi-Byte Prediction With Hierarchical Language Models](https://arxiv.org/abs/2608.15454)**
+
+10. **[From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation](http://arxiv.org/abs/2608.18076v1)**
+
+
+#### Blog Posts
+
+1. **[Norway should buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)** by onethousandmeans.com
+
+2. **[Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)** by github.com
+
+3. **[Degraded performance for multiple models](https://status.claude.com/incidents/q7txxvbsftgq)** by status.claude.com
+
+4. **[GLM-5.3 Artificial Analysis Benchmarks](https://artificialanalysis.ai/models/glm-5-3)** by artificialanalysis.ai
+
+5. **[Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)** by openai.com
+
+6. **[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/)** by alcides
+
+7. **[Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)** by modelmap.cc
+
+8. **[COSP: The Prompting Trick Where Your LLM Grades Its Own Homework](https://dev.to/lovestaco/cosp-the-prompting-trick-where-your-llm-grades-its-own-homework-40lf)** by Athreya aka Maneshwar
+
+
+#### Trending Repos
+
+1. **[docling-project/docling](https://github.com/docling-project/docling)** — Get your documents ready for gen AI ⭐ 65099
+
+2. **[pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai)** — PipesHub is an open-source fully extensible AI context layer that unifies your business data for explainable enterprise search and agentic workflow automation. ⭐ 3425
+
+3. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors ⭐ 2792
+
+4. **[yetone/cumora](https://github.com/yetone/cumora)** — Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. ⭐ 2435
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-18</strong></summary>
 
 #### Papers
