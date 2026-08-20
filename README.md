@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-20</strong></summary>
+
+#### Papers
+
+1. **[SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation](https://arxiv.org/abs/2608.18565)**
+
+2. **[SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197)**
+
+3. **[Looped Language Models Improve Compositional Tool Calling](https://arxiv.org/abs/2608.18171)**
+
+4. **[FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents](https://arxiv.org/abs/2608.18423)**
+
+5. **[SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution](https://arxiv.org/abs/2608.18933)**
+
+6. **[FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis](https://arxiv.org/abs/2608.18580)**
+
+7. **[The Problem Is the Problem: Towards Scalable Mathematical Discovery](https://arxiv.org/abs/2608.16977)**
+
+8. **[LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents](https://arxiv.org/abs/2608.17393)**
+
+9. **[PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with Architecture-specific PTX](https://arxiv.org/abs/2608.17379)**
+
+10. **[CardioState-JEPA: Delay-Aware Cross-Modal Learning of a Shared Cardiac Representation](https://arxiv.org/abs/2608.12944)**
+
+
+#### Blog Posts
+
+1. **[Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)** by github.com
+
+2. **[Chain-of-Thought Reasoning in the Wild Is Not Always Faithful (2025)](https://arxiv.org/abs/2503.08679)** by arxiv.org
+
+3. **[Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces](https://arxiv.org/abs/2504.09762)** by arxiv.org
+
+4. **[Show HN: Frugal Tokens – explore costs and usage across coding agents](https://demo.frugaltokens.com/)** by demo.frugaltokens.com
+
+5. **[Greatness Is Forged by Limitation](https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20)** by Adam - The Developer ✨
+
+6. **[If your agent commits a crime, who is responsible?](https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/)** by signalbloom.ai
+
+7. **[I Tested 5 AI Engines On My Own Sites. None Agreed.](https://dev.to/dannwaneri/i-tested-5-ai-engines-on-my-own-sites-none-agreed-4013)** by Daniel Nwaneri
+
+
+#### Trending Repos
+
+1. **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework &amp; software development methodology that works. ⭐ 274341
+
+2. **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e ⭐ 108384
+
+3. **[PostHog/posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al ⭐ 37788
+
+4. **[AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads)** — Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded aud ⭐ 8270
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-19</strong></summary>
 
 #### Papers

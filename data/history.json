@@ -1,34 +1,4 @@
 {
-  "2026-07-20": {
-    "papers": [
-      "https://arxiv.org/abs/2607.11699",
-      "https://arxiv.org/abs/2607.14088",
-      "https://arxiv.org/abs/2607.15330",
-      "https://arxiv.org/abs/2607.15161",
-      "https://arxiv.org/abs/2607.15901",
-      "https://arxiv.org/abs/2607.14530",
-      "https://arxiv.org/abs/2607.15524",
-      "https://arxiv.org/abs/2607.15314",
-      "https://arxiv.org/abs/2607.16051",
-      "https://arxiv.org/abs/2607.16107"
-    ],
-    "blogs": [
-      "https://github.com/openai/codex/pull/33972/files",
-      "https://ollama.com/blog/all-aboard-open-models",
-      "https://claude.com/blog/ai-code-migration",
-      "https://dev.to/mayu2008/building-ai-agents-for-social-media-with-typescript-and-honojs-4lgp",
-      "https://medium.com/data-science-in-your-pocket/google-updates-gemma-4-the-best-small-llm-is-back-86018f0e2afd",
-      "https://medium.com/@sumitdhamija16/why-most-enterprise-ai-programmes-stall-after-the-pilot-phase-8057d016c0bb",
-      "https://medium.com/@swarnalatashetty/how-does-route-optimization-software-development-actually-work-36f54bec5a5e"
-    ],
-    "repos": [
-      "https://github.com/AstrBotDevs/AstrBot",
-      "https://github.com/trycua/cua",
-      "https://github.com/kvcache-ai/ktransformers",
-      "https://github.com/Canner/WrenAI",
-      "https://github.com/1jehuang/jcode"
-    ]
-  },
   "2026-07-21": {
     "papers": [
       "https://arxiv.org/abs/2607.17247",
@@ -937,6 +907,35 @@
       "https://github.com/pipeshub-ai/pipeshub-ai",
       "https://github.com/akitaonrails/ai-memory",
       "https://github.com/yetone/cumora"
+    ]
+  },
+  "2026-08-20": {
+    "papers": [
+      "https://arxiv.org/abs/2608.18565",
+      "https://arxiv.org/abs/2608.19197",
+      "https://arxiv.org/abs/2608.18171",
+      "https://arxiv.org/abs/2608.18423",
+      "https://arxiv.org/abs/2608.18933",
+      "https://arxiv.org/abs/2608.18580",
+      "https://arxiv.org/abs/2608.16977",
+      "https://arxiv.org/abs/2608.17393",
+      "https://arxiv.org/abs/2608.17379",
+      "https://arxiv.org/abs/2608.12944"
+    ],
+    "blogs": [
+      "https://github.com/anthropics/claude-code/issues/6235",
+      "https://arxiv.org/abs/2503.08679",
+      "https://arxiv.org/abs/2504.09762",
+      "https://demo.frugaltokens.com/",
+      "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
+      "https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/",
+      "https://dev.to/dannwaneri/i-tested-5-ai-engines-on-my-own-sites-none-agreed-4013"
+    ],
+    "repos": [
+      "https://github.com/obra/superpowers",
+      "https://github.com/Graphify-Labs/graphify",
+      "https://github.com/PostHog/posthog",
+      "https://github.com/AgriciDaniel/claude-ads"
     ]
   }
 }

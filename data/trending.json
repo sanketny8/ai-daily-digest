@@ -1,127 +1,122 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "papers": [
     {
-      "title": "GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation",
-      "url": "https://arxiv.org/abs/2608.17988",
-      "summary": "Many scalable latent 3D generators operate on structured tensors, whereas pre-optimized 3D Gaussian Splatting (3DGS) reconstructions are unordered, spatially irregular, and vary widely in primitive co"
+      "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
+      "url": "https://arxiv.org/abs/2608.18565",
+      "summary": "Programmable logic controllers (PLCs) run industrial plants, and large language models can already generate independent program organization units (POUs) for them. Whether such logic integrates into a"
     },
     {
-      "title": "Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection",
-      "url": "https://arxiv.org/abs/2608.16393",
-      "summary": "We assess indirect prompt injection in DeepSeek Harness (DSH), using AI-Infra-Guard (A.I.G) to construct tests, deliver controlled taint, execute DSH, collect traces, and judge outcomes. The study cov"
+      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+      "url": "https://arxiv.org/abs/2608.19197",
+      "summary": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, "
     },
     {
-      "title": "ASI-Bench: At the Dawn of Artificial Superintelligence",
-      "url": "https://arxiv.org/abs/2608.17271",
-      "summary": "Artificial superintelligence (ASI) requires AI to move beyond mastering existing knowledge toward exploring the unknown, creating new knowledge, and turning new ideas into verifiable results. However,"
+      "title": "Looped Language Models Improve Compositional Tool Calling",
+      "url": "https://arxiv.org/abs/2608.18171",
+      "summary": "Looped language models have shown promising results on reasoning benchmarks, yet their potential for agentic tool use remains largely unexplored. We study this question in compositional tool-calling s"
     },
     {
-      "title": "Abra: Scaling Diffusion Image Training",
-      "url": "https://arxiv.org/abs/2608.17286",
-      "summary": "Compute-optimal scaling laws guide the training of frontier language models yet remain largely unexplored for visual generation. We present a systematic scaling law study for text-to-image diffusion m"
+      "title": "FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents",
+      "url": "https://arxiv.org/abs/2608.18423",
+      "summary": "Language model agents now execute bounded tasks reliably. Whether they can sustain effective decision-making over long horizons, where actions have cumulative consequences and the environment responds"
     },
     {
-      "title": "StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows",
-      "url": "https://arxiv.org/abs/2608.17800",
-      "summary": "Recent advances in Large Language Models(LLMs) and agents have substantially improved the ability of AI systems to execute complex tasks. Yet existing benchmarks largely rely on researcher-selected ta"
+      "title": "SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution",
+      "url": "https://arxiv.org/abs/2608.18933",
+      "summary": "Large language model (LLM) based agents have demonstrated remarkable proficiency in automated software issue resolution, yet they often struggle to resolve issues in a specific repository because they"
     },
     {
-      "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
-      "url": "https://arxiv.org/abs/2608.17975",
-      "summary": "Programmatic representations provide a compelling paradigm for 3D content creation, enabling fine-grained edits, interpretability, and explicit structural control. Yet, agentic workflows that rely on "
+      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
+      "url": "https://arxiv.org/abs/2608.18580",
+      "summary": "Training terminal agents requires scalable executable supervision, yet synthesizing high-quality terminal tasks remains challenging. Each task couples an instruction, an initialized environment, a ref"
     },
     {
-      "title": "From Sequence to Structure: Relational Uncertainty Propagation for LLM Agents",
-      "url": "https://arxiv.org/abs/2608.16002",
-      "summary": "Reliable uncertainty quantification (UQ) is essential for deploying large language model (LLM) agents in complex interactive environments. Existing UQ methods largely rely on local signals, such as to"
+      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+      "url": "https://arxiv.org/abs/2608.16977",
+      "summary": "AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical review is even more sharply "
     },
     {
-      "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
-      "url": "https://arxiv.org/abs/2608.17310",
-      "summary": "Reinforcement Learning (RL) has been promising in single-turn LLM fine-tuning. However, long-horizon agentic reasoning introduces increasingly branching interactions and sparse rewards, exposing sever"
+      "title": "LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents",
+      "url": "https://arxiv.org/abs/2608.17393",
+      "summary": "Reinforcement learning for coding agents increasingly relies on long-running agent harnesses to manage tool integration, repository contexts, and execution feedback. However, the native execution envi"
     },
     {
-      "title": "Dynamic Multi-Byte Prediction With Hierarchical Language Models",
-      "url": "https://arxiv.org/abs/2608.15454",
-      "summary": "Byte-level hierarchical language models (LMs) have recently emerged as a robust alternative to their popular counterparts that use subword tokenization. However, generating one byte at a time remains "
+      "title": "PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with Architecture-specific PTX",
+      "url": "https://arxiv.org/abs/2608.17379",
+      "summary": "We introduce PTXBench, a benchmark for evaluating and adapting large language models (LLMs) to use architecture-specific PTX for GPU kernel optimization. PTXBench measures functional correctness, whet"
     },
     {
-      "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
-      "url": "http://arxiv.org/abs/2608.18076v1",
-      "summary": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen"
+      "title": "CardioState-JEPA: Delay-Aware Cross-Modal Learning of a Shared Cardiac Representation",
+      "url": "https://arxiv.org/abs/2608.12944",
+      "summary": "Electrocardiography (ECG), photoplethysmography (PPG), and phonocardiography (PCG) provide complementary views of the same cardiac cycle, yet existing cardiac foundation models are trained for a singl"
     }
   ],
   "blog_posts": [
     {
-      "title": "Norway should buy OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "author": "onethousandmeans.com"
-    },
-    {
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
       "author": "github.com"
     },
     {
-      "title": "Degraded performance for multiple models",
-      "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-      "author": "status.claude.com"
+      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful (2025)",
+      "url": "https://arxiv.org/abs/2503.08679",
+      "author": "arxiv.org"
     },
     {
-      "title": "GLM-5.3 Artificial Analysis Benchmarks",
-      "url": "https://artificialanalysis.ai/models/glm-5-3",
-      "author": "artificialanalysis.ai"
+      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+      "url": "https://arxiv.org/abs/2504.09762",
+      "author": "arxiv.org"
     },
     {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "author": "openai.com"
+      "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+      "url": "https://demo.frugaltokens.com/",
+      "author": "demo.frugaltokens.com"
     },
     {
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-      "author": "alcides"
+      "title": "Greatness Is Forged by Limitation",
+      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
+      "author": "Adam - The Developer ✨"
     },
     {
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "url": "https://modelmap.cc",
-      "author": "modelmap.cc"
+      "title": "If your agent commits a crime, who is responsible?",
+      "url": "https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/",
+      "author": "signalbloom.ai"
     },
     {
-      "title": "COSP: The Prompting Trick Where Your LLM Grades Its Own Homework",
-      "url": "https://dev.to/lovestaco/cosp-the-prompting-trick-where-your-llm-grades-its-own-homework-40lf",
-      "author": "Athreya aka Maneshwar"
+      "title": "I Tested 5 AI Engines On My Own Sites. None Agreed.",
+      "url": "https://dev.to/dannwaneri/i-tested-5-ai-engines-on-my-own-sites-none-agreed-4013",
+      "author": "Daniel Nwaneri"
     }
   ],
   "repos": [
     {
-      "name": "docling-project/docling",
-      "url": "https://github.com/docling-project/docling",
-      "description": "Get your documents ready for gen AI",
-      "stars": 65099,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "stars": 274341,
+      "language": "Shell"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
+      "stars": 108384,
       "language": "Python"
     },
     {
-      "name": "pipeshub-ai/pipeshub-ai",
-      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
-      "description": "PipesHub is an open-source fully extensible AI context layer that unifies your business data for explainable enterprise search and agentic workflow automation.",
-      "stars": 3425,
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al",
+      "stars": 37788,
       "language": "Python"
     },
     {
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": 2792,
-      "language": "Rust"
-    },
-    {
-      "name": "yetone/cumora",
-      "url": "https://github.com/yetone/cumora",
-      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "stars": 2435,
-      "language": "TypeScript"
+      "name": "AgriciDaniel/claude-ads",
+      "url": "https://github.com/AgriciDaniel/claude-ads",
+      "description": "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded aud",
+      "stars": 8270,
+      "language": "Python"
     }
   ],
   "tweets": []
