@@ -1,121 +1,102 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "papers": [
     {
-      "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
-      "url": "https://arxiv.org/abs/2608.18565",
-      "summary": "Programmable logic controllers (PLCs) run industrial plants, and large language models can already generate independent program organization units (POUs) for them. Whether such logic integrates into a"
+      "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+      "url": "https://arxiv.org/abs/2608.20281",
+      "summary": "Large language models often fail to answer questions about a bounded document collection when the source documents are not retrieved at inference time. We study this setting as document knowledge inte"
     },
     {
-      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
-      "url": "https://arxiv.org/abs/2608.19197",
-      "summary": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, "
+      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+      "url": "https://arxiv.org/abs/2608.20335",
+      "summary": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consistent videos and lifting them into 4D Gaussian Spla"
     },
     {
-      "title": "Looped Language Models Improve Compositional Tool Calling",
-      "url": "https://arxiv.org/abs/2608.18171",
-      "summary": "Looped language models have shown promising results on reasoning benchmarks, yet their potential for agentic tool use remains largely unexplored. We study this question in compositional tool-calling s"
+      "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+      "url": "https://arxiv.org/abs/2608.20202",
+      "summary": "Memory has become a key component of large language models, enabling them to retain information and learn from long-term interactions. However, existing memory benchmarks mainly evaluate whether infor"
     },
     {
-      "title": "FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents",
-      "url": "https://arxiv.org/abs/2608.18423",
-      "summary": "Language model agents now execute bounded tasks reliably. Whether they can sustain effective decision-making over long horizons, where actions have cumulative consequences and the environment responds"
+      "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
+      "url": "https://arxiv.org/abs/2608.14022",
+      "summary": "Action-conditioned video world models require low-latency causal generation and reliable responses to game-native controls. Although causal distillation enables one- or few-step video synthesis, exten"
     },
     {
-      "title": "SkillForge: Self-Distilling Agents for Project-Specific Issue Resolution",
-      "url": "https://arxiv.org/abs/2608.18933",
-      "summary": "Large language model (LLM) based agents have demonstrated remarkable proficiency in automated software issue resolution, yet they often struggle to resolve issues in a specific repository because they"
+      "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+      "url": "https://arxiv.org/abs/2608.20336",
+      "summary": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Beyond retaining each identity, the model must bind every reference to a distinct "
     },
     {
-      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
-      "url": "https://arxiv.org/abs/2608.18580",
-      "summary": "Training terminal agents requires scalable executable supervision, yet synthesizing high-quality terminal tasks remains challenging. Each task couples an instruction, an initialized environment, a ref"
+      "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+      "url": "https://arxiv.org/abs/2608.19880",
+      "summary": "LLM agents learn by interacting with environments, yet these environments are hand-built and static: blind to an agent's weaknesses, and quickly left behind as it improves. While recent environment ge"
     },
     {
-      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
-      "url": "https://arxiv.org/abs/2608.16977",
-      "summary": "AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical review is even more sharply "
+      "title": "EXIMO: VLM Guided Exploration of VLA Policies",
+      "url": "https://arxiv.org/abs/2608.19891",
+      "summary": "How to efficiently finetune robot policies to learn new tasks on the fly? State of the art robotic manipulation policies are based on behaviour cloning of large vision-language-action (VLA) models wit"
     },
     {
-      "title": "LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents",
-      "url": "https://arxiv.org/abs/2608.17393",
-      "summary": "Reinforcement learning for coding agents increasingly relies on long-running agent harnesses to manage tool integration, repository contexts, and execution feedback. However, the native execution envi"
+      "title": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents",
+      "url": "https://arxiv.org/abs/2608.19861",
+      "summary": "Customer-service LLM agents must follow organizational policy when acting on a user's behalf. Compliance failures arise from either forbidden actions, such as granting an ineligible change, or omitted"
     },
     {
-      "title": "PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with Architecture-specific PTX",
-      "url": "https://arxiv.org/abs/2608.17379",
-      "summary": "We introduce PTXBench, a benchmark for evaluating and adapting large language models (LLMs) to use architecture-specific PTX for GPU kernel optimization. PTXBench measures functional correctness, whet"
+      "title": "VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation",
+      "url": "https://arxiv.org/abs/2608.18607",
+      "summary": "Using reinforcement learning to post-train joint video-audio generation models requires a reward signal. Existing methods construct this reward by combining metrics for individual quality dimensions, "
     },
     {
-      "title": "CardioState-JEPA: Delay-Aware Cross-Modal Learning of a Shared Cardiac Representation",
-      "url": "https://arxiv.org/abs/2608.12944",
-      "summary": "Electrocardiography (ECG), photoplethysmography (PPG), and phonocardiography (PCG) provide complementary views of the same cardiac cycle, yet existing cardiac foundation models are trained for a singl"
+      "title": "Information on trajectories: martingales and random times",
+      "url": "http://arxiv.org/abs/2608.20337v1",
+      "summary": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used "
     }
   ],
   "blog_posts": [
     {
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "author": "simedw.com"
+    },
+    {
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
       "author": "github.com"
     },
     {
-      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful (2025)",
-      "url": "https://arxiv.org/abs/2503.08679",
-      "author": "arxiv.org"
+      "title": "Every Model Cheats",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "author": "dreadnode.io"
     },
     {
-      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
-      "url": "https://arxiv.org/abs/2504.09762",
-      "author": "arxiv.org"
+      "title": "Stealth Model",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "author": "openrouter.ai"
     },
     {
-      "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-      "url": "https://demo.frugaltokens.com/",
-      "author": "demo.frugaltokens.com"
+      "title": "AI at Home Part 2: Multi-GPU Drifting",
+      "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+      "author": "jdagostino.github.io"
     },
     {
-      "title": "Greatness Is Forged by Limitation",
-      "url": "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
-      "author": "Adam - The Developer ✨"
-    },
-    {
-      "title": "If your agent commits a crime, who is responsible?",
-      "url": "https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/",
-      "author": "signalbloom.ai"
-    },
-    {
-      "title": "I Tested 5 AI Engines On My Own Sites. None Agreed.",
-      "url": "https://dev.to/dannwaneri/i-tested-5-ai-engines-on-my-own-sites-none-agreed-4013",
-      "author": "Daniel Nwaneri"
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures/",
+      "author": "openai.com"
     }
   ],
   "repos": [
     {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": 274341,
-      "language": "Shell"
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 99687,
+      "language": "Go"
     },
     {
-      "name": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-      "stars": 108384,
-      "language": "Python"
-    },
-    {
-      "name": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al",
-      "stars": 37788,
-      "language": "Python"
-    },
-    {
-      "name": "AgriciDaniel/claude-ads",
-      "url": "https://github.com/AgriciDaniel/claude-ads",
-      "description": "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded aud",
-      "stars": 8270,
+      "name": "ATH-MaaS/Pixelle-Video",
+      "url": "https://github.com/ATH-MaaS/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars": 27113,
       "language": "Python"
     }
   ],

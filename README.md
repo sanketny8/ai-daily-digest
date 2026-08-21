@@ -10,6 +10,57 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-21</strong></summary>
+
+#### Papers
+
+1. **[Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization](https://arxiv.org/abs/2608.20281)**
+
+2. **[4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://arxiv.org/abs/2608.20335)**
+
+3. **[MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use](https://arxiv.org/abs/2608.20202)**
+
+4. **[ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models](https://arxiv.org/abs/2608.14022)**
+
+5. **[WithEveryone: Unified Planning and Identity Grounding for Group Image Generation](https://arxiv.org/abs/2608.20336)**
+
+6. **[EnvHarness: Awakening Static Worlds for Agent Learning](https://arxiv.org/abs/2608.19880)**
+
+7. **[EXIMO: VLM Guided Exploration of VLA Policies](https://arxiv.org/abs/2608.19891)**
+
+8. **[PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents](https://arxiv.org/abs/2608.19861)**
+
+9. **[VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation](https://arxiv.org/abs/2608.18607)**
+
+10. **[Information on trajectories: martingales and random times](http://arxiv.org/abs/2608.20337v1)**
+
+
+#### Blog Posts
+
+1. **[Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)** by simedw.com
+
+2. **[Vomit: Clean up Claude 5's token output with a separate LLM](https://github.com/zachahn/vomit)** by github.com
+
+3. **[Every Model Cheats](https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/)** by dreadnode.io
+
+4. **[Stealth Model](https://openrouter.ai/stealth/ox-alpha)** by openrouter.ai
+
+5. **[AI at Home Part 2: Multi-GPU Drifting](https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html)** by jdagostino.github.io
+
+6. **[Introducing AI Futures](https://openai.com/index/introducing-ai-futures/)** by openai.com
+
+
+#### Trending Repos
+
+1. **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman ⭐ 99687
+
+2. **[ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video)** — 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine ⭐ 27113
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-20</strong></summary>
 
 #### Papers
