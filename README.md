@@ -10,6 +10,69 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-22</strong></summary>
+
+#### Papers
+
+1. **[FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills](https://arxiv.org/abs/2607.21596)**
+
+2. **[TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity](https://arxiv.org/abs/2608.15767)**
+
+3. **[The Embedder's Dilemma: LLMs Are Better, but at What Cost?](https://arxiv.org/abs/2608.12875)**
+
+4. **[τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation](https://arxiv.org/abs/2608.16885)**
+
+5. **[QuoteBench: How Matched Scores Can Hide Command-Path Failures](https://arxiv.org/abs/2608.13547)**
+
+6. **[Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses](https://arxiv.org/abs/2608.08466)**
+
+7. **[GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation](https://arxiv.org/abs/2608.19759)**
+
+8. **[CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning](https://arxiv.org/abs/2608.19776)**
+
+9. **[Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See](https://arxiv.org/abs/2608.17744)**
+
+10. **[NARU: A Benchmark for NARrative Evolution and Cultural Nuance Understanding in Japanese Extreme Long Video](https://arxiv.org/abs/2608.13210)**
+
+
+#### Blog Posts
+
+1. **[Claudette: Make Claude stop talking like a BuzzFeed article](https://github.com/adnanakil/nobuzz/blob/main/README.md)** by github.com
+
+2. **[What happens when a GPU reads memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)** by blog.doubleword.ai
+
+3. **[Building an (almost) fully self-hosted, sandboxed, agentic software factory](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)** by blog.jakesaunders.dev
+
+4. **[Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)** by ozbrain.com
+
+5. **[Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate)** by github.com
+
+6. **[Felony Bench: Be AI, Do Crime](https://www.felonybench.com/)** by pushcx
+
+7. **[BTE 210 Exam 2: Cloud Computing & Business Intelligence (BI) | Practice Questions & Verified…](https://medium.com/@gramg1587/bte-210-exam-2-cloud-computing-business-intelligence-bi-practice-questions-verified-cd419434c854)** by EXAMCOLLECTIVES
+
+8. **[The Hidden Superpower of Python’s iter() Function That Senior Engineers Use](https://medium.com/@silva.f.francis/the-hidden-superpower-of-pythons-iter-function-that-senior-engineers-use-919631766b9f)** by Silva.f.francis
+
+
+#### Trending Repos
+
+1. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. ⭐ 241815
+
+2. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** — 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R ⭐ 68663
+
+3. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) ⭐ 46478
+
+4. **[jax-ml/jax](https://github.com/jax-ml/jax)** — Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more ⭐ 36196
+
+5. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. ⭐ 32793
+
+6. **[microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)** — ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator ⭐ 21469
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-21</strong></summary>
 
 #### Papers
