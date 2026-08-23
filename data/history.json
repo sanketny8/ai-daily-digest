@@ -1,33 +1,4 @@
 {
-  "2026-07-23": {
-    "papers": [
-      "https://arxiv.org/abs/2607.10169",
-      "https://arxiv.org/abs/2607.20368",
-      "https://arxiv.org/abs/2607.13429",
-      "https://arxiv.org/abs/2607.19747",
-      "https://arxiv.org/abs/2607.20145",
-      "https://arxiv.org/abs/2607.19691",
-      "https://arxiv.org/abs/2607.19942",
-      "https://arxiv.org/abs/2607.20207",
-      "https://arxiv.org/abs/2607.20417",
-      "https://arxiv.org/abs/2607.20058"
-    ],
-    "blogs": [
-      "https://github.com/marcelroed/gigatoken/",
-      "https://cruciblebench.ai/",
-      "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "https://deepsql.ai/",
-      "https://dev.to/dannwaneri/substacks-new-ai-detector-has-the-same-blind-spot-devtos-did-103j",
-      "https://arxiv.org/abs/2607.18250",
-      "https://dev.to/yechielk/the-friction-is-a-feature-not-a-bug-teaching-and-mentoring-in-the-age-of-ai-23k9",
-      "https://dev.to/ale3oula/what-is-a-context-window-actually-13l6"
-    ],
-    "repos": [
-      "https://github.com/jamiepine/voicebox",
-      "https://github.com/HKUDS/LightRAG",
-      "https://github.com/dreamhunter2333/cloudflare_temp_email"
-    ]
-  },
   "2026-07-24": {
     "papers": [
       "https://arxiv.org/abs/2607.21072",
@@ -930,6 +901,36 @@
       "https://github.com/jax-ml/jax",
       "https://github.com/MadsLorentzen/ai-job-search",
       "https://github.com/microsoft/onnxruntime"
+    ]
+  },
+  "2026-08-23": {
+    "papers": [
+      "http://arxiv.org/abs/2608.20338v1",
+      "http://arxiv.org/abs/2608.20331v1",
+      "http://arxiv.org/abs/2608.20326v1",
+      "http://arxiv.org/abs/2608.20322v1",
+      "http://arxiv.org/abs/2608.20320v1",
+      "http://arxiv.org/abs/2608.20319v1",
+      "http://arxiv.org/abs/2608.20318v1",
+      "http://arxiv.org/abs/2608.20316v1",
+      "http://arxiv.org/abs/2608.20315v1"
+    ],
+    "blogs": [
+      "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "https://twitter.com/argofowl/status/2091150597374537729",
+      "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "https://medium.com/@kavyareddy2/the-biggest-tell-in-the-biggest-tell-a3b9c6949196",
+      "https://sekerai.medium.com/building-rag-systems-that-actually-work-in-production-cff6aa8b6f7e",
+      "https://medium.com/@Abestit/la-ville-dinner-mongolie-au-c%C5%93ur-du-boom-de-l-ia-chinoise-269bdd463ca0",
+      "https://medium.com/@smb_47434/ai-can-explain-a-poll-it-should-not-pretend-to-be-a-voter-40bea4f849b3"
+    ],
+    "repos": [
+      "https://github.com/multica-ai/andrej-karpathy-skills",
+      "https://github.com/n8n-io/n8n",
+      "https://github.com/openai/codex",
+      "https://github.com/ComposioHQ/awesome-claude-skills",
+      "https://github.com/karpathy/nanoGPT",
+      "https://github.com/Wei-Shaw/sub2api"
     ]
   }
 }

@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-23</strong></summary>
+
+#### Papers
+
+1. **[ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](http://arxiv.org/abs/2608.20338v1)**
+
+2. **[G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation](http://arxiv.org/abs/2608.20331v1)**
+
+3. **[$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval](http://arxiv.org/abs/2608.20326v1)**
+
+4. **[A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection](http://arxiv.org/abs/2608.20322v1)**
+
+5. **[An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](http://arxiv.org/abs/2608.20320v1)**
+
+6. **[Inducing Task Models from Computer-Use Traces](http://arxiv.org/abs/2608.20319v1)**
+
+7. **[AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](http://arxiv.org/abs/2608.20318v1)**
+
+8. **[Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation](http://arxiv.org/abs/2608.20316v1)**
+
+9. **[Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records](http://arxiv.org/abs/2608.20315v1)**
+
+
+#### Blog Posts
+
+1. **[New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)** by blog.modelcontextprotocol.io
+
+2. **[Anthropic appears to be A/B testing reduced effort levels in Claude Code](https://twitter.com/argofowl/status/2091150597374537729)** by twitter.com
+
+3. **[NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)** by primeintellect.ai
+
+4. **[The Biggest Tell in “The Biggest Tell”](https://medium.com/@kavyareddy2/the-biggest-tell-in-the-biggest-tell-a3b9c6949196)** by Kavya Reddy
+
+5. **[Building RAG Systems That Actually Work in Production](https://sekerai.medium.com/building-rag-systems-that-actually-work-in-production-cff6aa8b6f7e)** by seKer AI
+
+6. **[La ville d’Inner Mongolie au cœur du boom de l’IA chinoise](https://medium.com/@Abestit/la-ville-dinner-mongolie-au-c%C5%93ur-du-boom-de-l-ia-chinoise-269bdd463ca0)** by L'ABESTIT
+
+7. **[AI can explain a poll. It should not pretend to be a voter.](https://medium.com/@smb_47434/ai-can-explain-a-poll-it-should-not-pretend-to-be-a-voter-40bea4f849b3)** by Shawn Bure
+
+
+#### Trending Repos
+
+1. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. ⭐ 205348
+
+2. **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. ⭐ 201853
+
+3. **[openai/codex](https://github.com/openai/codex)** — Lightweight coding agent that runs in your terminal ⭐ 113584
+
+4. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows ⭐ 73043
+
+5. **[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)** — The simplest, fastest repository for training/finetuning medium-sized GPTs. ⭐ 62403
+
+6. **[Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)** — Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 ⭐ 38813
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-22</strong></summary>
 
 #### Papers
