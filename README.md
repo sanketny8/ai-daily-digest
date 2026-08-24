@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-24</strong></summary>
+
+#### Papers
+
+1. **[CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment](https://arxiv.org/abs/2608.21278)**
+
+2. **[InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter](https://arxiv.org/abs/2608.20910)**
+
+3. **[Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs](https://arxiv.org/abs/2608.12781)**
+
+4. **[Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs](https://arxiv.org/abs/2608.21134)**
+
+5. **[Primal Acceleration of Newton's Method](http://arxiv.org/abs/2608.21359v1)**
+
+6. **[VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences](http://arxiv.org/abs/2608.21357v1)**
+
+7. **[AI with Authority, from Application to Silicon](http://arxiv.org/abs/2608.21356v1)**
+
+8. **[PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction](http://arxiv.org/abs/2608.21349v1)**
+
+9. **[Truthful Calibration Measures for Sequential Prediction](http://arxiv.org/abs/2608.21348v1)**
+
+10. **[Asymmetric Capacity Allocation in Self-Refinement Pipelines](http://arxiv.org/abs/2608.21345v1)**
+
+
+#### Blog Posts
+
+1. **[I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/)** by ericpardee.github.io
+
+2. **[Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)** by ft.com
+
+3. **[My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)** by fabiensanglard.net
+
+4. **[Predicting AI model release dates with stats](https://releaseoracle.xyz/)** by releaseoracle.xyz
+
+5. **[Training AI to Paint with Code](https://surya.website/rling-qwen-to-paint-with-code)** by surya.website
+
+6. **[How I Evolved Continuity Keeper Into a Multiverse Storyteller for My Kids](https://medium.com/@AA_RonOnChain/how-i-evolved-continuity-keeper-into-a-multiverse-storyteller-for-my-kids-fbab6be74938)** by AA_RonOnChain
+
+7. **[Foundation Models and the Rise of Cognitive Reserves: From General Intelligence to Proprietary…](https://medium.com/@kaykymatosf/foundation-models-and-the-rise-of-cognitive-reserves-from-general-intelligence-to-proprietary-930057faf13e)** by Kayky Matos
+
+
+#### Trending Repos
+
+1. **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** — Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. ⭐ 36806
+
+2. **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** — A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. ⭐ 31352
+
+3. **[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code ⭐ 30359
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-23</strong></summary>
 
 #### Papers

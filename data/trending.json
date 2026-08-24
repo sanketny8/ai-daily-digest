@@ -1,131 +1,115 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "papers": [
     {
-      "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
-      "url": "http://arxiv.org/abs/2608.20338v1",
-      "summary": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completel"
+      "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
+      "url": "https://arxiv.org/abs/2608.21278",
+      "summary": "Improving the safety of large language models (LLMs) often comes at the expense of utility, as globally applied safety tuning may affect model responses to both harmful and benign inputs. We propose C"
     },
     {
-      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
-      "url": "http://arxiv.org/abs/2608.20331v1",
-      "summary": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende"
+      "title": "InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter",
+      "url": "https://arxiv.org/abs/2608.20910",
+      "summary": "With large pretrained models, existing methods have effectively improved instruction-based video editing. However, most of them rely on an in-place editing assumption. They align the edited video with"
     },
     {
-      "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
-      "url": "http://arxiv.org/abs/2608.20326v1",
-      "summary": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-ho"
+      "title": "Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs",
+      "url": "https://arxiv.org/abs/2608.12781",
+      "summary": "Hybrid-thinking multimodal large language models (MLLMs) allow a single model to alternate between deliberative thinking and latency-efficient non-thinking inference. Although these modes differ in re"
     },
     {
-      "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
-      "url": "http://arxiv.org/abs/2608.20322v1",
-      "summary": "Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio"
+      "title": "Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs",
+      "url": "https://arxiv.org/abs/2608.21134",
+      "summary": "Deploying vision-language models (VLMs) on mobile devices is challenging due to their significant memory and compute requirements. We present a framework for quantizing VLMs for efficient inference on"
     },
     {
-      "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
-      "url": "http://arxiv.org/abs/2608.20320v1",
-      "summary": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workfl"
+      "title": "Primal Acceleration of Newton's Method",
+      "url": "http://arxiv.org/abs/2608.21359v1",
+      "summary": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per ite"
     },
     {
-      "title": "Inducing Task Models from Computer-Use Traces",
-      "url": "http://arxiv.org/abs/2608.20319v1",
-      "summary": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is do"
+      "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+      "url": "http://arxiv.org/abs/2608.21357v1",
+      "summary": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform researc"
     },
     {
-      "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
-      "url": "http://arxiv.org/abs/2608.20318v1",
-      "summary": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a"
+      "title": "AI with Authority, from Application to Silicon",
+      "url": "http://arxiv.org/abs/2608.21356v1",
+      "summary": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verif"
     },
     {
-      "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
-      "url": "http://arxiv.org/abs/2608.20316v1",
-      "summary": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most e"
+      "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+      "url": "http://arxiv.org/abs/2608.21349v1",
+      "summary": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, withou"
     },
     {
-      "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
-      "url": "http://arxiv.org/abs/2608.20315v1",
-      "summary": "Predictive models over structured electronic health records (EHRs) remain central to machine learning for healthcare, but few have jointly emphasized quantitative laboratory information and interpreta"
+      "title": "Truthful Calibration Measures for Sequential Prediction",
+      "url": "http://arxiv.org/abs/2608.21348v1",
+      "summary": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab e"
+    },
+    {
+      "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
+      "url": "http://arxiv.org/abs/2608.21345v1",
+      "summary": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the thre"
     }
   ],
   "blog_posts": [
     {
-      "title": "New MCP Roadmap",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "author": "blog.modelcontextprotocol.io"
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "author": "ericpardee.github.io"
     },
     {
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "author": "twitter.com"
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "author": "ft.com"
     },
     {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "author": "primeintellect.ai"
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "author": "fabiensanglard.net"
     },
     {
-      "title": "The Biggest Tell in “The Biggest Tell”",
-      "url": "https://medium.com/@kavyareddy2/the-biggest-tell-in-the-biggest-tell-a3b9c6949196",
-      "author": "Kavya Reddy"
+      "title": "Predicting AI model release dates with stats",
+      "url": "https://releaseoracle.xyz/",
+      "author": "releaseoracle.xyz"
     },
     {
-      "title": "Building RAG Systems That Actually Work in Production",
-      "url": "https://sekerai.medium.com/building-rag-systems-that-actually-work-in-production-cff6aa8b6f7e",
-      "author": "seKer AI"
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "author": "surya.website"
     },
     {
-      "title": "La ville d’Inner Mongolie au cœur du boom de l’IA chinoise",
-      "url": "https://medium.com/@Abestit/la-ville-dinner-mongolie-au-c%C5%93ur-du-boom-de-l-ia-chinoise-269bdd463ca0",
-      "author": "L'ABESTIT"
+      "title": "How I Evolved Continuity Keeper Into a Multiverse Storyteller for My Kids",
+      "url": "https://medium.com/@AA_RonOnChain/how-i-evolved-continuity-keeper-into-a-multiverse-storyteller-for-my-kids-fbab6be74938",
+      "author": "AA_RonOnChain"
     },
     {
-      "title": "AI can explain a poll. It should not pretend to be a voter.",
-      "url": "https://medium.com/@smb_47434/ai-can-explain-a-poll-it-should-not-pretend-to-be-a-voter-40bea4f849b3",
-      "author": "Shawn Bure"
+      "title": "Foundation Models and the Rise of Cognitive Reserves: From General Intelligence to Proprietary…",
+      "url": "https://medium.com/@kaykymatosf/foundation-models-and-the-rise-of-cognitive-reserves-from-general-intelligence-to-proprietary-930057faf13e",
+      "author": "Kayky Matos"
     }
   ],
   "repos": [
     {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 205348,
-      "language": ""
-    },
-    {
-      "name": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 201853,
-      "language": "TypeScript"
-    },
-    {
-      "name": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "stars": 113584,
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": 36806,
       "language": "Rust"
     },
     {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 73043,
-      "language": "Python"
+      "name": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "stars": 31352,
+      "language": ""
     },
     {
-      "name": "karpathy/nanoGPT",
-      "url": "https://github.com/karpathy/nanoGPT",
-      "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
-      "stars": 62403,
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 30359,
       "language": "Python"
-    },
-    {
-      "name": "Wei-Shaw/sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "stars": 38813,
-      "language": "Go"
     }
   ],
   "tweets": []
