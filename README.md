@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-25</strong></summary>
+
+#### Papers
+
+1. **[Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://arxiv.org/abs/2608.23283)**
+
+2. **[RISE: Adaptive Imagination for World Action Models](https://arxiv.org/abs/2608.20430)**
+
+3. **[TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming](https://arxiv.org/abs/2608.20958)**
+
+4. **[WorldMind: Decoupled Game World Model for State-Aware NPC Behavior](https://arxiv.org/abs/2608.21439)**
+
+5. **[PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration](https://arxiv.org/abs/2608.21031)**
+
+6. **[Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources](https://arxiv.org/abs/2608.20438)**
+
+7. **[Hydra-0: Action Flow for Generalist World Modeling and Control](https://arxiv.org/abs/2608.18077)**
+
+8. **[Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models](https://arxiv.org/abs/2608.18484)**
+
+9. **[ParaTempo: Efficient Parallel Reasoning via Temporal Confidence](https://arxiv.org/abs/2608.16425)**
+
+10. **[FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth](https://arxiv.org/abs/2608.20574)**
+
+
+#### Blog Posts
+
+1. **[OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)](https://developers.openai.com/api/docs/pricing)** by developers.openai.com
+
+2. **[LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)** by boydkane.com
+
+3. **[Agent Is Not the Model](https://code.joejag.com/2026/your-agent-is-not-the-model.html)** by code.joejag.com
+
+4. **[The Tests Passed. The Contract Was Wrong.](https://dev.to/kenielzep97/the-tests-passed-the-contract-was-wrong-mp0)** by Self-Correcting Systems
+
+5. **[7 Signs You're Over-Engineering Your AI App (and How to Stop)](https://dev.to/james_anderson_h/7-signs-youre-over-engineering-your-ai-app-and-how-to-stop-4gb)** by James Anderson
+
+6. **[I Won a Writing Challenge That I Almost Didn't Publish!](https://dev.to/fm/i-won-a-writing-challenge-that-i-almost-didnt-publish-2cn0)** by Fayaz
+
+7. **[How I Actually Code with Claude Code: My Real Workflow on a Real Project](https://dev.to/gabbs279/how-i-actually-code-with-claude-code-my-real-workflow-on-a-real-project-4ao0)** by Gabriel Abreu
+
+8. **[Greater Manchester défie Palantir sur un contrat de santé](https://medium.com/@Abestit/greater-manchester-d%C3%A9fie-palantir-sur-un-contrat-de-sant%C3%A9-3c4a153f3402)** by L'ABESTIT
+
+
+#### Trending Repos
+
+1. **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ⭐ 387445
+
+2. **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others. ⭐ 48340
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-24</strong></summary>
 
 #### Papers

@@ -1,114 +1,112 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "papers": [
     {
-      "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
-      "url": "https://arxiv.org/abs/2608.21278",
-      "summary": "Improving the safety of large language models (LLMs) often comes at the expense of utility, as globally applied safety tuning may affect model responses to both harmful and benign inputs. We propose C"
+      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+      "url": "https://arxiv.org/abs/2608.23283",
+      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state main"
     },
     {
-      "title": "InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter",
-      "url": "https://arxiv.org/abs/2608.20910",
-      "summary": "With large pretrained models, existing methods have effectively improved instruction-based video editing. However, most of them rely on an in-place editing assumption. They align the edited video with"
+      "title": "RISE: Adaptive Imagination for World Action Models",
+      "url": "https://arxiv.org/abs/2608.20430",
+      "summary": "World Action Models (WAMs) improve planning by incorporating future world evolution into action generation, yet existing methods allocate a fixed imagination budget to every scene. We propose RISE (Re"
     },
     {
-      "title": "Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs",
-      "url": "https://arxiv.org/abs/2608.12781",
-      "summary": "Hybrid-thinking multimodal large language models (MLLMs) allow a single model to alternate between deliberative thinking and latency-efficient non-thinking inference. Although these modes differ in re"
+      "title": "TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming",
+      "url": "https://arxiv.org/abs/2608.20958",
+      "summary": "E-commerce live streaming requires omni-modal understanding of noisy, temporally extended streams, where product facts are distributed across speech, video frames, product images, overlaid text, and u"
     },
     {
-      "title": "Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs",
-      "url": "https://arxiv.org/abs/2608.21134",
-      "summary": "Deploying vision-language models (VLMs) on mobile devices is challenging due to their significant memory and compute requirements. We present a framework for quantizing VLMs for efficient inference on"
+      "title": "WorldMind: Decoupled Game World Model for State-Aware NPC Behavior",
+      "url": "https://arxiv.org/abs/2608.21439",
+      "summary": "Game world models have recently demonstrated promising capabilities in generating visually coherent and action-controllable gameplay videos. However, non-player character (NPC) behavior in existing mo"
     },
     {
-      "title": "Primal Acceleration of Newton's Method",
-      "url": "http://arxiv.org/abs/2608.21359v1",
-      "summary": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per ite"
+      "title": "PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration",
+      "url": "https://arxiv.org/abs/2608.21031",
+      "summary": "We present PhysCaP, a Physics-Informed Code-as-Policy agent for active perception in robotic manipulation. While vision-language-action policies excel at imitating demonstrations, they rely on passive"
     },
     {
-      "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
-      "url": "http://arxiv.org/abs/2608.21357v1",
-      "summary": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform researc"
+      "title": "Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources",
+      "url": "https://arxiv.org/abs/2608.20438",
+      "summary": "Population-level behavior in large-language-model (LLM) agents cannot be characterized by single-agent benchmarks. We introduce PV-SST, a peer-voted social-platform testbed, and report a separately fr"
     },
     {
-      "title": "AI with Authority, from Application to Silicon",
-      "url": "http://arxiv.org/abs/2608.21356v1",
-      "summary": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verif"
+      "title": "Hydra-0: Action Flow for Generalist World Modeling and Control",
+      "url": "https://arxiv.org/abs/2608.18077",
+      "summary": "We introduce Hydra-0, a generalist world model conditioned on action flow, which represents robot actions as pixel motion. This shared visual interface enables generalist world modeling and control by"
     },
     {
-      "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
-      "url": "http://arxiv.org/abs/2608.21349v1",
-      "summary": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, withou"
+      "title": "Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models",
+      "url": "https://arxiv.org/abs/2608.18484",
+      "summary": "Training-free block-sparse attention can accelerate video transformers, but row-wise attention concentration does not by itself specify an executable sparse operator. Queries sharing a block route may"
     },
     {
-      "title": "Truthful Calibration Measures for Sequential Prediction",
-      "url": "http://arxiv.org/abs/2608.21348v1",
-      "summary": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab e"
+      "title": "ParaTempo: Efficient Parallel Reasoning via Temporal Confidence",
+      "url": "https://arxiv.org/abs/2608.16425",
+      "summary": "Parallel reasoning improves the accuracy and robustness of large reasoning models by exploring multiple solution paths, but its computational cost grows with reasoning depth and branch count. Existing"
     },
     {
-      "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
-      "url": "http://arxiv.org/abs/2608.21345v1",
-      "summary": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the thre"
+      "title": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
+      "url": "https://arxiv.org/abs/2608.20574",
+      "summary": "Open-ended language-model benchmarks usually inherit a judge: a human preference panel, another model, or a brittle exact-match key. We introduce FlavourBench, an automated benchmark in which a versio"
     }
   ],
   "blog_posts": [
     {
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "author": "ericpardee.github.io"
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "author": "developers.openai.com"
     },
     {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "author": "ft.com"
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "author": "boydkane.com"
     },
     {
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "author": "fabiensanglard.net"
+      "title": "Agent Is Not the Model",
+      "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+      "author": "code.joejag.com"
     },
     {
-      "title": "Predicting AI model release dates with stats",
-      "url": "https://releaseoracle.xyz/",
-      "author": "releaseoracle.xyz"
+      "title": "The Tests Passed. The Contract Was Wrong.",
+      "url": "https://dev.to/kenielzep97/the-tests-passed-the-contract-was-wrong-mp0",
+      "author": "Self-Correcting Systems"
     },
     {
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "author": "surya.website"
+      "title": "7 Signs You're Over-Engineering Your AI App (and How to Stop)",
+      "url": "https://dev.to/james_anderson_h/7-signs-youre-over-engineering-your-ai-app-and-how-to-stop-4gb",
+      "author": "James Anderson"
     },
     {
-      "title": "How I Evolved Continuity Keeper Into a Multiverse Storyteller for My Kids",
-      "url": "https://medium.com/@AA_RonOnChain/how-i-evolved-continuity-keeper-into-a-multiverse-storyteller-for-my-kids-fbab6be74938",
-      "author": "AA_RonOnChain"
+      "title": "I Won a Writing Challenge That I Almost Didn't Publish!",
+      "url": "https://dev.to/fm/i-won-a-writing-challenge-that-i-almost-didnt-publish-2cn0",
+      "author": "Fayaz"
     },
     {
-      "title": "Foundation Models and the Rise of Cognitive Reserves: From General Intelligence to Proprietary…",
-      "url": "https://medium.com/@kaykymatosf/foundation-models-and-the-rise-of-cognitive-reserves-from-general-intelligence-to-proprietary-930057faf13e",
-      "author": "Kayky Matos"
+      "title": "How I Actually Code with Claude Code: My Real Workflow on a Real Project",
+      "url": "https://dev.to/gabbs279/how-i-actually-code-with-claude-code-my-real-workflow-on-a-real-project-4ao0",
+      "author": "Gabriel Abreu"
+    },
+    {
+      "title": "Greater Manchester défie Palantir sur un contrat de santé",
+      "url": "https://medium.com/@Abestit/greater-manchester-d%C3%A9fie-palantir-sur-un-contrat-de-sant%C3%A9-3c4a153f3402",
+      "author": "L'ABESTIT"
     }
   ],
   "repos": [
     {
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "stars": 36806,
-      "language": "Rust"
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "stars": 387445,
+      "language": "TypeScript"
     },
     {
-      "name": "VoltAgent/awesome-agent-skills",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "stars": 31352,
-      "language": ""
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 30359,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 48340,
       "language": "Python"
     }
   ],

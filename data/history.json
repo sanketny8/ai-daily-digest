@@ -1,39 +1,4 @@
 {
-  "2026-07-25": {
-    "papers": [
-      "https://arxiv.org/abs/2607.21557",
-      "https://arxiv.org/abs/2607.16859",
-      "https://arxiv.org/abs/2607.04763",
-      "https://arxiv.org/abs/2607.21553",
-      "https://arxiv.org/abs/2607.19238",
-      "https://arxiv.org/abs/2607.21576",
-      "https://arxiv.org/abs/2605.09635",
-      "https://arxiv.org/abs/2607.21051",
-      "https://arxiv.org/abs/2607.12746",
-      "https://arxiv.org/abs/2607.20734"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/news/claude-opus-5",
-      "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "https://bfl.ai/blog/flux-3-mimic",
-      "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "https://artificialanalysis.ai/models",
-      "https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm",
-      "https://dev.to/sarvar_04/sentrys-span-hierarchy-exposed-a-silent-retry-in-my-5-agent-pipeline-one-agent-took-226s-the-fb4",
-      "https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak"
-    ],
-    "repos": [
-      "https://github.com/mattpocock/skills",
-      "https://github.com/browser-use/browser-use",
-      "https://github.com/Panniantong/Agent-Reach",
-      "https://github.com/Lordog/dive-into-llms",
-      "https://github.com/calesthio/OpenMontage",
-      "https://github.com/cheahjs/free-llm-api-resources",
-      "https://github.com/OtterMind/Chat2DB",
-      "https://github.com/pyg-team/pytorch_geometric"
-    ]
-  },
   "2026-07-26": {
     "papers": [
       "http://arxiv.org/abs/2607.21595v1",
@@ -924,6 +889,34 @@
       "https://github.com/tinyhumansai/openhuman",
       "https://github.com/VoltAgent/awesome-agent-skills",
       "https://github.com/davila7/claude-code-templates"
+    ]
+  },
+  "2026-08-25": {
+    "papers": [
+      "https://arxiv.org/abs/2608.23283",
+      "https://arxiv.org/abs/2608.20430",
+      "https://arxiv.org/abs/2608.20958",
+      "https://arxiv.org/abs/2608.21439",
+      "https://arxiv.org/abs/2608.21031",
+      "https://arxiv.org/abs/2608.20438",
+      "https://arxiv.org/abs/2608.18077",
+      "https://arxiv.org/abs/2608.18484",
+      "https://arxiv.org/abs/2608.16425",
+      "https://arxiv.org/abs/2608.20574"
+    ],
+    "blogs": [
+      "https://developers.openai.com/api/docs/pricing",
+      "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+      "https://dev.to/kenielzep97/the-tests-passed-the-contract-was-wrong-mp0",
+      "https://dev.to/james_anderson_h/7-signs-youre-over-engineering-your-ai-app-and-how-to-stop-4gb",
+      "https://dev.to/fm/i-won-a-writing-challenge-that-i-almost-didnt-publish-2cn0",
+      "https://dev.to/gabbs279/how-i-actually-code-with-claude-code-my-real-workflow-on-a-real-project-4ao0",
+      "https://medium.com/@Abestit/greater-manchester-d%C3%A9fie-palantir-sur-un-contrat-de-sant%C3%A9-3c4a153f3402"
+    ],
+    "repos": [
+      "https://github.com/openclaw/openclaw",
+      "https://github.com/rohitg00/ai-engineering-from-scratch"
     ]
   }
 }
