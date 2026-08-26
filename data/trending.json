@@ -1,113 +1,127 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "papers": [
     {
-      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-      "url": "https://arxiv.org/abs/2608.23283",
-      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state main"
+      "title": "Best Practice Critic Optimization",
+      "url": "https://arxiv.org/abs/2608.23566",
+      "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token"
     },
     {
-      "title": "RISE: Adaptive Imagination for World Action Models",
-      "url": "https://arxiv.org/abs/2608.20430",
-      "summary": "World Action Models (WAMs) improve planning by incorporating future world evolution into action generation, yet existing methods allocate a fixed imagination budget to every scene. We propose RISE (Re"
+      "title": "On-policy Distillation with Verifiable Reward",
+      "url": "https://arxiv.org/abs/2608.24696",
+      "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) and on-policy distillation (OPD) have become two widely adopted paradigms for post-training large language models. However, RLVR suffers from spar"
     },
     {
-      "title": "TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming",
-      "url": "https://arxiv.org/abs/2608.20958",
-      "summary": "E-commerce live streaming requires omni-modal understanding of noisy, temporally extended streams, where product facts are distributed across speech, video frames, product images, overlaid text, and u"
+      "title": "AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces",
+      "url": "https://arxiv.org/abs/2608.23041",
+      "summary": "LLM agents remain unreliable on long-horizon tasks, where small local failures can compound over extended interactions and lead to overall task failure. Although external harnesses can substantially i"
     },
     {
-      "title": "WorldMind: Decoupled Game World Model for State-Aware NPC Behavior",
-      "url": "https://arxiv.org/abs/2608.21439",
-      "summary": "Game world models have recently demonstrated promising capabilities in generating visually coherent and action-controllable gameplay videos. However, non-player character (NPC) behavior in existing mo"
+      "title": "On-Policy Self-Distillation in Diffusion Models",
+      "url": "https://arxiv.org/abs/2608.24646",
+      "summary": "Reinforcement learning can align diffusion models with human preferences and task-specific objectives, but endpoint rewards do not specify how an intermediate denoising prediction should change. We in"
     },
     {
-      "title": "PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration",
-      "url": "https://arxiv.org/abs/2608.21031",
-      "summary": "We present PhysCaP, a Physics-Informed Code-as-Policy agent for active perception in robotic manipulation. While vision-language-action policies excel at imitating demonstrations, they rely on passive"
+      "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+      "url": "https://arxiv.org/abs/2608.24876",
+      "summary": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Workin"
     },
     {
-      "title": "Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources",
-      "url": "https://arxiv.org/abs/2608.20438",
-      "summary": "Population-level behavior in large-language-model (LLM) agents cannot be characterized by single-agent benchmarks. We introduce PV-SST, a peer-voted social-platform testbed, and report a separately fr"
+      "title": "Meta^n: Recursive Self-Improvement through Emergent Depth",
+      "url": "https://arxiv.org/abs/2608.24735",
+      "summary": "Self-improving LLM agents refine answers, not the process that produces those answers. Systems that add a meta-level hold that level fixed, and those that edit themselves must leave part of their own "
     },
     {
-      "title": "Hydra-0: Action Flow for Generalist World Modeling and Control",
-      "url": "https://arxiv.org/abs/2608.18077",
-      "summary": "We introduce Hydra-0, a generalist world model conditioned on action flow, which represents robot actions as pixel motion. This shared visual interface enables generalist world modeling and control by"
+      "title": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
+      "url": "https://arxiv.org/abs/2608.24794",
+      "summary": "Outcome-supervised search agents learn when and how to retrieve evidence, but terminal rewards neither localize intermediate errors nor redirect an ongoing trajectory before those errors compound. Tre"
     },
     {
-      "title": "Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models",
-      "url": "https://arxiv.org/abs/2608.18484",
-      "summary": "Training-free block-sparse attention can accelerate video transformers, but row-wise attention concentration does not by itself specify an executable sparse operator. Queries sharing a block route may"
+      "title": "LongRCA Bench: Diagnosing Responsible Roles and Root Causes in Long-Horizon Agent Failures",
+      "url": "https://arxiv.org/abs/2608.15242",
+      "summary": "When a long-horizon agent execution fails, outcome-level evaluation reveals the unsuccessful result but not where the decisive error entered the trajectory. Developers must then inspect the full execu"
     },
     {
-      "title": "ParaTempo: Efficient Parallel Reasoning via Temporal Confidence",
-      "url": "https://arxiv.org/abs/2608.16425",
-      "summary": "Parallel reasoning improves the accuracy and robustness of large reasoning models by exploring multiple solution paths, but its computational cost grows with reasoning depth and branch count. Existing"
+      "title": "The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space, and Hybrid Sequence Models",
+      "url": "https://arxiv.org/abs/2608.22876",
+      "summary": "We formalize prefix invariance: representations at position t must not depend on future inputs. We give a lightweight audit, two forward passes, no training or gradients, that localizes exactly where "
     },
     {
-      "title": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
-      "url": "https://arxiv.org/abs/2608.20574",
-      "summary": "Open-ended language-model benchmarks usually inherit a judge: a human preference panel, another model, or a brittle exact-match key. We introduce FlavourBench, an automated benchmark in which a versio"
+      "title": "What AstroPT knows about galaxies, and what that can teach us about LLMs",
+      "url": "https://arxiv.org/abs/2608.22614",
+      "summary": "Interpretability research increasingly asks when concepts emerge during training and whether linear probes recover real structure, but in language models these claims are hard to validate because lang"
     }
   ],
   "blog_posts": [
     {
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "author": "developers.openai.com"
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "author": "newsletter.semianalysis.com"
     },
     {
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "author": "boydkane.com"
+      "title": "Characterizing Agentic Flooding of Government Services",
+      "url": "https://arxiv.org/abs/2608.16603",
+      "author": "arxiv.org"
     },
     {
-      "title": "Agent Is Not the Model",
-      "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-      "author": "code.joejag.com"
+      "title": "OpenAI's Head of Data Centers Has Left the Company",
+      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
+      "author": "wsj.com"
     },
     {
-      "title": "The Tests Passed. The Contract Was Wrong.",
-      "url": "https://dev.to/kenielzep97/the-tests-passed-the-contract-was-wrong-mp0",
-      "author": "Self-Correcting Systems"
+      "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+      "author": "dl.acm.org"
     },
     {
-      "title": "7 Signs You're Over-Engineering Your AI App (and How to Stop)",
-      "url": "https://dev.to/james_anderson_h/7-signs-youre-over-engineering-your-ai-app-and-how-to-stop-4gb",
+      "title": "The Retrieval Checklist I Wish I'd Had Before Shipping RAG",
+      "url": "https://dev.to/james_anderson_h/the-retrieval-checklist-i-wish-id-had-before-shipping-rag-2j5a",
       "author": "James Anderson"
     },
     {
-      "title": "I Won a Writing Challenge That I Almost Didn't Publish!",
-      "url": "https://dev.to/fm/i-won-a-writing-challenge-that-i-almost-didnt-publish-2cn0",
-      "author": "Fayaz"
+      "title": "What Do You Do While AI Codes?",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
+      "author": "Ashley Childress"
     },
     {
-      "title": "How I Actually Code with Claude Code: My Real Workflow on a Real Project",
-      "url": "https://dev.to/gabbs279/how-i-actually-code-with-claude-code-my-real-workflow-on-a-real-project-4ao0",
-      "author": "Gabriel Abreu"
+      "title": "Quando não usar IA: 5 sinais de que uma automação simples resolve melhor",
+      "url": "https://medium.com/@marketing_78651/quando-n%C3%A3o-usar-ia-5-sinais-de-que-uma-automa%C3%A7%C3%A3o-simples-resolve-melhor-41fcb70506e8",
+      "author": "atria corp"
     },
     {
-      "title": "Greater Manchester défie Palantir sur un contrat de santé",
-      "url": "https://medium.com/@Abestit/greater-manchester-d%C3%A9fie-palantir-sur-un-contrat-de-sant%C3%A9-3c4a153f3402",
+      "title": "Des codeurs contournent déjà les filigranes invisibles de Claude",
+      "url": "https://medium.com/@Abestit/des-codeurs-contournent-d%C3%A9j%C3%A0-les-filigranes-invisibles-de-claude-afa09acbab07",
       "author": "L'ABESTIT"
     }
   ],
   "repos": [
     {
-      "name": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": 387445,
-      "language": "TypeScript"
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 134282,
+      "language": "Python"
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 48340,
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 111181,
+      "language": "JavaScript"
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "stars": 58640,
       "language": "Python"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 18392,
+      "language": "JavaScript"
     }
   ],
   "tweets": []

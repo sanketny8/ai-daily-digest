@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-26</strong></summary>
+
+#### Papers
+
+1. **[Best Practice Critic Optimization](https://arxiv.org/abs/2608.23566)**
+
+2. **[On-policy Distillation with Verifiable Reward](https://arxiv.org/abs/2608.24696)**
+
+3. **[AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces](https://arxiv.org/abs/2608.23041)**
+
+4. **[On-Policy Self-Distillation in Diffusion Models](https://arxiv.org/abs/2608.24646)**
+
+5. **[Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](https://arxiv.org/abs/2608.24876)**
+
+6. **[Meta^n: Recursive Self-Improvement through Emergent Depth](https://arxiv.org/abs/2608.24735)**
+
+7. **[CAFE: Self-Improving Search Agents Need Co-Evolving Feedback](https://arxiv.org/abs/2608.24794)**
+
+8. **[LongRCA Bench: Diagnosing Responsible Roles and Root Causes in Long-Horizon Agent Failures](https://arxiv.org/abs/2608.15242)**
+
+9. **[The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space, and Hybrid Sequence Models](https://arxiv.org/abs/2608.22876)**
+
+10. **[What AstroPT knows about galaxies, and what that can teach us about LLMs](https://arxiv.org/abs/2608.22614)**
+
+
+#### Blog Posts
+
+1. **[OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)** by newsletter.semianalysis.com
+
+2. **[Characterizing Agentic Flooding of Government Services](https://arxiv.org/abs/2608.16603)** by arxiv.org
+
+3. **[OpenAI's Head of Data Centers Has Left the Company](https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83)** by wsj.com
+
+4. **[Warnock: Harnessing GPU geometry amplification for vector graphics](https://dl.acm.org/doi/pdf/10.1145/3820012)** by dl.acm.org
+
+5. **[The Retrieval Checklist I Wish I'd Had Before Shipping RAG](https://dev.to/james_anderson_h/the-retrieval-checklist-i-wish-id-had-before-shipping-rag-2j5a)** by James Anderson
+
+6. **[What Do You Do While AI Codes?](https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k)** by Ashley Childress
+
+7. **[Quando não usar IA: 5 sinais de que uma automação simples resolve melhor](https://medium.com/@marketing_78651/quando-n%C3%A3o-usar-ia-5-sinais-de-que-uma-automa%C3%A7%C3%A3o-simples-resolve-melhor-41fcb70506e8)** by atria corp
+
+8. **[Des codeurs contournent déjà les filigranes invisibles de Claude](https://medium.com/@Abestit/des-codeurs-contournent-d%C3%A9j%C3%A0-les-filigranes-invisibles-de-claude-afa09acbab07)** by L'ABESTIT
+
+
+#### Trending Repos
+
+1. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. ⭐ 134282
+
+2. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. ⭐ 111181
+
+3. **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** — The best-benchmarked open-source AI memory system. And it's free. ⭐ 58640
+
+4. **[freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 ⭐ 18392
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-25</strong></summary>
 
 #### Papers
