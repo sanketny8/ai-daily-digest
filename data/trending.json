@@ -1,127 +1,144 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "papers": [
     {
-      "title": "Best Practice Critic Optimization",
-      "url": "https://arxiv.org/abs/2608.23566",
-      "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token"
+      "title": "LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech Decoding at Scale",
+      "url": "https://arxiv.org/abs/2608.25204",
+      "summary": "We introduce LibriBrain100, a large-scale MEG dataset for speech decoding designed from the ground up for reproducible, standardised evaluation. LibriBrain100 more than doubles the size of the origina"
     },
     {
-      "title": "On-policy Distillation with Verifiable Reward",
-      "url": "https://arxiv.org/abs/2608.24696",
-      "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) and on-policy distillation (OPD) have become two widely adopted paradigms for post-training large language models. However, RLVR suffers from spar"
+      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "url": "https://arxiv.org/abs/2608.23564",
+      "summary": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they "
     },
     {
-      "title": "AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces",
-      "url": "https://arxiv.org/abs/2608.23041",
-      "summary": "LLM agents remain unreliable on long-horizon tasks, where small local failures can compound over extended interactions and lead to overall task failure. Although external harnesses can substantially i"
+      "title": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
+      "url": "https://arxiv.org/abs/2608.21140",
+      "summary": "Reliable spatial understanding is an important prerequisite for future medical vision-language systems that aim to support radiological report generation and structured image understanding. While mode"
     },
     {
-      "title": "On-Policy Self-Distillation in Diffusion Models",
-      "url": "https://arxiv.org/abs/2608.24646",
-      "summary": "Reinforcement learning can align diffusion models with human preferences and task-specific objectives, but endpoint rewards do not specify how an intermediate denoising prediction should change. We in"
+      "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
+      "url": "https://arxiv.org/abs/2608.25625",
+      "summary": "Document retrieval increasingly supports high-stakes information access in finance, healthcare, and law. Modern retrieval pipelines vary both in modality (text or multimodal) and in retrieval architec"
     },
     {
-      "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
-      "url": "https://arxiv.org/abs/2608.24876",
-      "summary": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Workin"
+      "title": "Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction",
+      "url": "https://arxiv.org/abs/2608.22071",
+      "summary": "Turn-taking is a basic organizational feature of human conversation and remains difficult to model in natural, synchronous dialog systems. While existing research has explored multimodal approaches an"
     },
     {
-      "title": "Meta^n: Recursive Self-Improvement through Emergent Depth",
-      "url": "https://arxiv.org/abs/2608.24735",
-      "summary": "Self-improving LLM agents refine answers, not the process that produces those answers. Systems that add a meta-level hold that level fixed, and those that edit themselves must leave part of their own "
+      "title": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
+      "url": "https://arxiv.org/abs/2608.23256",
+      "summary": "Recent work proposes next-chunk reasoning RL for leveraging no-CoT data---corpora such as worked solutions and textbook derivations that contain reasoning-rich content but lack explicit chain-of-thoug"
     },
     {
-      "title": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
-      "url": "https://arxiv.org/abs/2608.24794",
-      "summary": "Outcome-supervised search agents learn when and how to retrieve evidence, but terminal rewards neither localize intermediate errors nor redirect an ongoing trajectory before those errors compound. Tre"
+      "title": "The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents",
+      "url": "https://arxiv.org/abs/2608.24358",
+      "summary": "Coding agents perform long-running tasks spanning dozens of model calls, tool uses, and code edits. As these runs unfold, users face a practical cost-quality trade-off: escalating to a stronger model "
     },
     {
-      "title": "LongRCA Bench: Diagnosing Responsible Roles and Root Causes in Long-Horizon Agent Failures",
-      "url": "https://arxiv.org/abs/2608.15242",
-      "summary": "When a long-horizon agent execution fails, outcome-level evaluation reveals the unsuccessful result but not where the decisive error entered the trajectory. Developers must then inspect the full execu"
+      "title": "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds",
+      "url": "https://arxiv.org/abs/2608.23383",
+      "summary": "Video generation is progressing beyond isolated clips toward long-form narratives and interactive worlds, requiring models to preserve identities, follow user controls, and remain stable over extended"
     },
     {
-      "title": "The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space, and Hybrid Sequence Models",
-      "url": "https://arxiv.org/abs/2608.22876",
-      "summary": "We formalize prefix invariance: representations at position t must not depend on future inputs. We give a lightweight audit, two forward passes, no training or gradients, that localizes exactly where "
+      "title": "Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios",
+      "url": "https://arxiv.org/abs/2608.25529",
+      "summary": "Multimodal Large Language Models (MLLMs) have shown strong performance in video understanding. However, their ability to follow instructions in this domain remains under-explored. Real-world video und"
     },
     {
-      "title": "What AstroPT knows about galaxies, and what that can teach us about LLMs",
-      "url": "https://arxiv.org/abs/2608.22614",
-      "summary": "Interpretability research increasingly asks when concepts emerge during training and whether linear probes recover real structure, but in language models these claims are hard to validate because lang"
+      "title": "FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling",
+      "url": "https://arxiv.org/abs/2608.21839",
+      "summary": "Reliable reward models are essential for text-to-video evaluation and alignment. However, the trade-off between evaluation accuracy and inference efficiency places high demands on the quality of train"
     }
   ],
   "blog_posts": [
     {
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "author": "newsletter.semianalysis.com"
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "author": "bloomberg.com"
     },
     {
-      "title": "Characterizing Agentic Flooding of Government Services",
-      "url": "https://arxiv.org/abs/2608.16603",
-      "author": "arxiv.org"
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "author": "openai.com"
     },
     {
-      "title": "OpenAI's Head of Data Centers Has Left the Company",
-      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
-      "author": "wsj.com"
+      "title": "VMs won't contain cyber-capable agents",
+      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+      "author": "blog.trailofbits.com"
     },
     {
-      "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
-      "author": "dl.acm.org"
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "author": "acceptmarkdown.com"
     },
     {
-      "title": "The Retrieval Checklist I Wish I'd Had Before Shipping RAG",
-      "url": "https://dev.to/james_anderson_h/the-retrieval-checklist-i-wish-id-had-before-shipping-rag-2j5a",
-      "author": "James Anderson"
+      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+      "url": "https://www.risklytics.ai/",
+      "author": "risklytics.ai"
     },
     {
-      "title": "What Do You Do While AI Codes?",
-      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-      "author": "Ashley Childress"
+      "title": "Getting video models to learn better, faster",
+      "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+      "author": "linum.ai"
     },
     {
-      "title": "Quando não usar IA: 5 sinais de que uma automação simples resolve melhor",
-      "url": "https://medium.com/@marketing_78651/quando-n%C3%A3o-usar-ia-5-sinais-de-que-uma-automa%C3%A7%C3%A3o-simples-resolve-melhor-41fcb70506e8",
-      "author": "atria corp"
+      "title": "WebMCP Challenge – OpenAI",
+      "url": "https://openai.com/webmcp-challenge/",
+      "author": "openai.com"
     },
     {
-      "title": "Des codeurs contournent déjà les filigranes invisibles de Claude",
-      "url": "https://medium.com/@Abestit/des-codeurs-contournent-d%C3%A9j%C3%A0-les-filigranes-invisibles-de-claude-afa09acbab07",
-      "author": "L'ABESTIT"
+      "title": "Stratagems #25: Derek Changed the Delay. The AI Didn't Flinch.",
+      "url": "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca",
+      "author": "xulingfeng"
+    },
+    {
+      "title": "Is Artificial Intelligence Making Animals Smarter?",
+      "url": "https://medium.com/@saadbasdot/is-artificial-intelligence-making-animals-smarter-ab0e9f3a9eee",
+      "author": "Art&Saad"
+    },
+    {
+      "title": "AI Agents vs Chatbots: What’s the Difference and Why Enterprises Are Switching",
+      "url": "https://medium.com/@agenticai147/ai-agents-vs-chatbots-whats-the-difference-and-why-enterprises-are-switching-de6420607751",
+      "author": "Agenticai"
     }
   ],
   "repos": [
     {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "stars": 134282,
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 150086,
       "language": "Python"
     },
     {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 111181,
-      "language": "JavaScript"
-    },
-    {
-      "name": "MemPalace/mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "stars": 58640,
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 102613,
       "language": "Python"
     },
     {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "stars": 18392,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "stars": 92011,
       "language": "JavaScript"
+    },
+    {
+      "name": "RVC-Boss/GPT-SoVITS",
+      "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+      "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+      "stars": 61264,
+      "language": "Python"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
+      "stars": 51808,
+      "language": "Python"
     }
   ],
   "tweets": []

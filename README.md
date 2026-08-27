@@ -10,6 +10,71 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-27</strong></summary>
+
+#### Papers
+
+1. **[LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech Decoding at Scale](https://arxiv.org/abs/2608.25204)**
+
+2. **[SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?](https://arxiv.org/abs/2608.23564)**
+
+3. **[A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans](https://arxiv.org/abs/2608.21140)**
+
+4. **[RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval](https://arxiv.org/abs/2608.25625)**
+
+5. **[Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction](https://arxiv.org/abs/2608.22071)**
+
+6. **[Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data](https://arxiv.org/abs/2608.23256)**
+
+7. **[The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents](https://arxiv.org/abs/2608.24358)**
+
+8. **[Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds](https://arxiv.org/abs/2608.23383)**
+
+9. **[Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios](https://arxiv.org/abs/2608.25529)**
+
+10. **[FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling](https://arxiv.org/abs/2608.21839)**
+
+
+#### Blog Posts
+
+1. **[Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)** by bloomberg.com
+
+2. **[The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/)** by openai.com
+
+3. **[VMs won't contain cyber-capable agents](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/)** by blog.trailofbits.com
+
+4. **[Serve Markdown to AI Agents with Accept Headers](https://acceptmarkdown.com/)** by acceptmarkdown.com
+
+5. **[Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies](https://www.risklytics.ai/)** by risklytics.ai
+
+6. **[Getting video models to learn better, faster](https://www.linum.ai/field-notes/data-filtering-gen-video)** by linum.ai
+
+7. **[WebMCP Challenge – OpenAI](https://openai.com/webmcp-challenge/)** by openai.com
+
+8. **[Stratagems #25: Derek Changed the Delay. The AI Didn't Flinch.](https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca)** by xulingfeng
+
+9. **[Is Artificial Intelligence Making Animals Smarter?](https://medium.com/@saadbasdot/is-artificial-intelligence-making-animals-smarter-ab0e9f3a9eee)** by Art&Saad
+
+10. **[AI Agents vs Chatbots: What’s the Difference and Why Enterprises Are Switching](https://medium.com/@agenticai147/ai-agents-vs-chatbots-whats-the-difference-and-why-enterprises-are-switching-de6420607751)** by Agenticai
+
+
+#### Trending Repos
+
+1. **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) ⭐ 150086
+
+2. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** — Tensors and Dynamic neural networks in Python with strong GPU acceleration ⭐ 102613
+
+3. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau ⭐ 92011
+
+4. **[RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** — 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) ⭐ 61264
+
+5. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc ⭐ 51808
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-26</strong></summary>
 
 #### Papers

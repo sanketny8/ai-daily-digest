@@ -1,36 +1,4 @@
 {
-  "2026-07-27": {
-    "papers": [
-      "https://arxiv.org/abs/2607.21503",
-      "https://arxiv.org/abs/2607.22375",
-      "https://arxiv.org/abs/2607.12756",
-      "https://arxiv.org/abs/2607.22042",
-      "https://arxiv.org/abs/2607.21653",
-      "https://arxiv.org/abs/2607.21848",
-      "https://arxiv.org/abs/2607.22043",
-      "https://arxiv.org/abs/2607.22393",
-      "https://arxiv.org/abs/2607.22529",
-      "http://arxiv.org/abs/2607.22534v1"
-    ],
-    "blogs": [
-      "https://vectoral.com/blog/token-relay-market",
-      "https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0",
-      "https://medium.com/@ismailsaleem/7-hidden-ways-to-use-claude-at-its-peak-potential-2325a1ddddd2",
-      "https://iamdgarcia.medium.com/lets-build-claude-code-s-harness-step-by-step-2f2f2d486343",
-      "https://medium.com/@toverstreet_54150/what-microsofts-amazon-s-and-alphabet-s-ai-spending-means-for-the-future-of-corporate-finance-2ddcfd7ca429",
-      "https://medium.com/@aitoolinsight/the-best-google-ai-tools-in-2026-i-tested-over-30-tools-heres-what-s-actually-worth-using-995828bb112d",
-      "https://blog.colrows.com/agents-humans-the-future-of-data-modelling-691354063151"
-    ],
-    "repos": [
-      "https://github.com/pbakaus/impeccable",
-      "https://github.com/Lightning-AI/litgpt",
-      "https://github.com/virgiliojr94/book-to-skill",
-      "https://github.com/OpenDCAI/DataFlow",
-      "https://github.com/huggingface/speech-to-speech",
-      "https://github.com/CoreBunch/Instatic",
-      "https://github.com/microsoft/agent-governance-toolkit"
-    ]
-  },
   "2026-07-28": {
     "papers": [
       "https://arxiv.org/abs/2607.24720",
@@ -917,6 +885,39 @@
       "https://github.com/DietrichGebert/ponytail",
       "https://github.com/MemPalace/mempalace",
       "https://github.com/freestylefly/awesome-gpt-image-2"
+    ]
+  },
+  "2026-08-27": {
+    "papers": [
+      "https://arxiv.org/abs/2608.25204",
+      "https://arxiv.org/abs/2608.23564",
+      "https://arxiv.org/abs/2608.21140",
+      "https://arxiv.org/abs/2608.25625",
+      "https://arxiv.org/abs/2608.22071",
+      "https://arxiv.org/abs/2608.23256",
+      "https://arxiv.org/abs/2608.24358",
+      "https://arxiv.org/abs/2608.23383",
+      "https://arxiv.org/abs/2608.25529",
+      "https://arxiv.org/abs/2608.21839"
+    ],
+    "blogs": [
+      "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+      "https://acceptmarkdown.com/",
+      "https://www.risklytics.ai/",
+      "https://www.linum.ai/field-notes/data-filtering-gen-video",
+      "https://openai.com/webmcp-challenge/",
+      "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca",
+      "https://medium.com/@saadbasdot/is-artificial-intelligence-making-animals-smarter-ab0e9f3a9eee",
+      "https://medium.com/@agenticai147/ai-agents-vs-chatbots-whats-the-difference-and-why-enterprises-are-switching-de6420607751"
+    ],
+    "repos": [
+      "https://github.com/open-webui/open-webui",
+      "https://github.com/pytorch/pytorch",
+      "https://github.com/thedotmack/claude-mem",
+      "https://github.com/RVC-Boss/GPT-SoVITS",
+      "https://github.com/calesthio/OpenMontage"
     ]
   }
 }
