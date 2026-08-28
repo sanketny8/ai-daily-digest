@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-28</strong></summary>
+
+#### Papers
+
+1. **[EditaLive! Unified Character Video Editing for Live Streaming](https://arxiv.org/abs/2608.27123)**
+
+2. **[PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents](https://arxiv.org/abs/2608.26530)**
+
+3. **[Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](https://arxiv.org/abs/2608.25518)**
+
+4. **[Procedura: Agentic 3D Modeling with Procedural Control](https://arxiv.org/abs/2608.26238)**
+
+5. **[Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning](https://arxiv.org/abs/2608.26809)**
+
+6. **[GameWAM: A World Action Model for Video Games](https://arxiv.org/abs/2608.26200)**
+
+7. **[TTPO: Test-Time Policy Optimization](https://arxiv.org/abs/2608.27448)**
+
+8. **[Aphanta: Diagnosing Task-Aligned Image-Edited Intermediates for Multimodal Reasoning](https://arxiv.org/abs/2608.26993)**
+
+9. **[CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval](https://arxiv.org/abs/2608.25500)**
+
+10. **[Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763)**
+
+
+#### Blog Posts
+
+1. **[Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/)** by blog.google
+
+2. **[Gemini Omni 1.1 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/)** by blog.google
+
+3. **[MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://aiandeducation.mit.edu/report/)** by aiandeducation.mit.edu
+
+4. **[Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview)** by anthropic.com
+
+5. **[Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement)** by terminal-bench-science.ai
+
+6. **[Velocidade de entrega e custo de manutenção pós IA](https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei)** by Elves Santos
+
+7. **[NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code](https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n)** by Sarvar Nadaf
+
+8. **[OpenAI: Migrating to HTTPX2](https://github.com/openai/openai-python/blob/main/httpx2.md)** by github.com
+
+
+#### Trending Repos
+
+1. **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)** — Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) ⭐ 75300
+
+2. **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — Chrome DevTools for coding agents ⭐ 49870
+
+3. **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — "Vibe-Trading: Your Personal Trading Agent" ⭐ 31938
+
+4. **[tt-a1i/archify](https://github.com/tt-a1i/archify)** — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. ⭐ 25637
+
+5. **[HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)** — "AI-Trader: 100% Fully-Automated Agent-Native Trading" ⭐ 21731
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-27</strong></summary>
 
 #### Papers

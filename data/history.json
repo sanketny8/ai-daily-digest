@@ -1,39 +1,4 @@
 {
-  "2026-07-28": {
-    "papers": [
-      "https://arxiv.org/abs/2607.24720",
-      "https://arxiv.org/abs/2607.24651",
-      "https://arxiv.org/abs/2607.23242",
-      "https://arxiv.org/abs/2607.24731",
-      "https://arxiv.org/abs/2607.21936",
-      "https://arxiv.org/abs/2607.22148",
-      "https://arxiv.org/abs/2607.21694",
-      "https://arxiv.org/abs/2607.23806",
-      "https://arxiv.org/abs/2607.23687",
-      "https://arxiv.org/abs/2607.24241"
-    ],
-    "blogs": [
-      "https://huggingface.co/moonshotai/Kimi-K3",
-      "https://www.anthropic.com/news/position-open-weights-models",
-      "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "https://usefeyn.com/blog/feynobg/",
-      "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
-      "https://fermisense.com/when-machines-take-the-wheel/",
-      "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-      "https://dev.to/cyclopt_dimitrisk/unlimited-context-is-not-a-feature-its-technical-debt-with-better-marketing-4443"
-    ],
-    "repos": [
-      "https://github.com/arc53/DocsGPT",
-      "https://github.com/nesquena/hermes-webui",
-      "https://github.com/bradautomates/claude-video",
-      "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "https://github.com/kvcache-ai/AgentENV",
-      "https://github.com/makecindy/cindy",
-      "https://github.com/VictorTaelin/OptMem",
-      "https://github.com/sirkirby/unifi-mcp",
-      "https://github.com/0xwilliamortiz/openclaude-improved"
-    ]
-  },
   "2026-07-29": {
     "papers": [
       "https://arxiv.org/abs/2607.25565",
@@ -918,6 +883,37 @@
       "https://github.com/thedotmack/claude-mem",
       "https://github.com/RVC-Boss/GPT-SoVITS",
       "https://github.com/calesthio/OpenMontage"
+    ]
+  },
+  "2026-08-28": {
+    "papers": [
+      "https://arxiv.org/abs/2608.27123",
+      "https://arxiv.org/abs/2608.26530",
+      "https://arxiv.org/abs/2608.25518",
+      "https://arxiv.org/abs/2608.26238",
+      "https://arxiv.org/abs/2608.26809",
+      "https://arxiv.org/abs/2608.26200",
+      "https://arxiv.org/abs/2608.27448",
+      "https://arxiv.org/abs/2608.26993",
+      "https://arxiv.org/abs/2608.25500",
+      "https://arxiv.org/abs/2608.15763"
+    ],
+    "blogs": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "https://aiandeducation.mit.edu/report/",
+      "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "https://www.terminal-bench-science.ai/announcement",
+      "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei",
+      "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
+      "https://github.com/openai/openai-python/blob/main/httpx2.md"
+    ],
+    "repos": [
+      "https://github.com/abi/screenshot-to-code",
+      "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "https://github.com/HKUDS/Vibe-Trading",
+      "https://github.com/tt-a1i/archify",
+      "https://github.com/HKUDS/AI-Trader"
     ]
   }
 }
