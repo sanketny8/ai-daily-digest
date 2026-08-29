@@ -10,6 +10,54 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-29</strong></summary>
+
+#### Papers
+
+1. **[Luce: Relightable Gaussians for 3D Asset Generation](https://arxiv.org/abs/2608.23943)**
+
+2. **[CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes](https://arxiv.org/abs/2608.27455)**
+
+3. **[TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback](https://arxiv.org/abs/2608.25798)**
+
+4. **[What Does an Evaluation License? A Commit-Bound Census of Claim-Relative Inference in Inspect Evals](https://arxiv.org/abs/2608.19269)**
+
+5. **[CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes](http://arxiv.org/abs/2608.27455v1)**
+
+6. **[WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1)**
+
+7. **[SWE-Prime: Fewer Trajectories, Better Performance](http://arxiv.org/abs/2608.27449v1)**
+
+8. **[TTPO: Test-Time Policy Optimization](http://arxiv.org/abs/2608.27448v1)**
+
+9. **[From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench](http://arxiv.org/abs/2608.27442v1)**
+
+10. **[RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution](http://arxiv.org/abs/2608.27439v1)**
+
+
+#### Blog Posts
+
+1. **[GLM-5.3 is now open-weight](https://huggingface.co/zai-org/GLM-5.3)** by huggingface.co
+
+2. **[Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)** by openai.com
+
+3. **[Amazon AI Blocked My Kindle Book. I Asked What Went Wrong. Then They Approved It.](https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi)** by xulingfeng
+
+4. **[Your AI Remembers Everything and Trusts All of It](https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg)** by marcosomma
+
+5. **[The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.](https://dev.to/jon_at_backboardio/the-matrix-wasnt-a-battery-farm-it-was-a-gpu-cluster-made-of-human-brains-23e5)** by Jonathan Murray
+
+6. **[OpenAI and Anthropic are ruining San Francisco](https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA)** by sfgate.com
+
+7. **[Just a rumour of a bug is enough to find a security exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)** by pushcx
+
+8. **[How a Strands agent took Claude Opus 5 from 30% to 99.95% on ARC-AGI-3](https://dev.to/aws/how-a-strands-agent-took-claude-opus-5-from-30-to-9995-on-arc-agi-3-4kel)** by Morgan Willis
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-28</strong></summary>
 
 #### Papers

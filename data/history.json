@@ -1,33 +1,4 @@
 {
-  "2026-07-29": {
-    "papers": [
-      "https://arxiv.org/abs/2607.25565",
-      "https://arxiv.org/abs/2607.24904",
-      "https://arxiv.org/abs/2607.24223",
-      "https://arxiv.org/abs/2607.25895",
-      "https://arxiv.org/abs/2607.24957",
-      "https://arxiv.org/abs/2607.24368",
-      "https://arxiv.org/abs/2607.25537",
-      "https://arxiv.org/abs/2607.25669",
-      "https://arxiv.org/abs/2607.26037",
-      "https://arxiv.org/abs/2607.25857"
-    ],
-    "blogs": [
-      "https://github.com/openai/codex-security",
-      "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-      "https://learnvector.ai/",
-      "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
-      "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2"
-    ],
-    "repos": [
-      "https://github.com/agentscope-ai/QwenPaw",
-      "https://github.com/volcengine/OpenViking",
-      "https://github.com/HKUDS/OpenSpace",
-      "https://github.com/lightseekorg/tokenspeed"
-    ]
-  },
   "2026-07-30": {
     "papers": [
       "https://arxiv.org/abs/2607.25294",
@@ -915,5 +886,30 @@
       "https://github.com/tt-a1i/archify",
       "https://github.com/HKUDS/AI-Trader"
     ]
+  },
+  "2026-08-29": {
+    "papers": [
+      "https://arxiv.org/abs/2608.23943",
+      "https://arxiv.org/abs/2608.27455",
+      "https://arxiv.org/abs/2608.25798",
+      "https://arxiv.org/abs/2608.19269",
+      "http://arxiv.org/abs/2608.27455v1",
+      "http://arxiv.org/abs/2608.27454v1",
+      "http://arxiv.org/abs/2608.27449v1",
+      "http://arxiv.org/abs/2608.27448v1",
+      "http://arxiv.org/abs/2608.27442v1",
+      "http://arxiv.org/abs/2608.27439v1"
+    ],
+    "blogs": [
+      "https://huggingface.co/zai-org/GLM-5.3",
+      "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi",
+      "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg",
+      "https://dev.to/jon_at_backboardio/the-matrix-wasnt-a-battery-farm-it-was-a-gpu-cluster-made-of-human-brains-23e5",
+      "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
+      "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "https://dev.to/aws/how-a-strands-agent-took-claude-opus-5-from-30-to-9995-on-arc-agi-3-4kel"
+    ],
+    "repos": []
   }
 }
