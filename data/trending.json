@@ -1,99 +1,107 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "papers": [
     {
-      "title": "Luce: Relightable Gaussians for 3D Asset Generation",
-      "url": "https://arxiv.org/abs/2608.23943",
-      "summary": "High-fidelity image-to-3D generation requires a 3D representation that captures both geometry and appearance. To support relighting and integration into standard rendering pipelines, the representatio"
+      "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
+      "url": "http://arxiv.org/abs/2608.27429v1",
+      "summary": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuri"
     },
     {
-      "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
-      "url": "https://arxiv.org/abs/2608.27455",
-      "summary": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or externa"
+      "title": "Stochastic Estimation of Transduced Language Models",
+      "url": "http://arxiv.org/abs/2608.27428v1",
+      "summary": "Transduced language models (TLMs) compose a pretrained \\emph{source} language model with a functional finite-state transducer to induce a language model over \\emph{target} strings. Computing the proba"
     },
     {
-      "title": "TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback",
-      "url": "https://arxiv.org/abs/2608.25798",
-      "summary": "Contact-rich manipulation requires adapting to contact states that can evolve substantially within an action horizon. However, chunk-based vision-language-action models predict complete action chunks "
+      "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
+      "url": "http://arxiv.org/abs/2608.27427v1",
+      "summary": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A si"
     },
     {
-      "title": "What Does an Evaluation License? A Commit-Bound Census of Claim-Relative Inference in Inspect Evals",
-      "url": "https://arxiv.org/abs/2608.19269",
-      "summary": "Evaluation artifacts specify a forward computation: a task, scorer, and reported metric. They do not necessarily license the claim attached to that metric because the historical evidence and alternati"
-    },
-    {
-      "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
-      "url": "http://arxiv.org/abs/2608.27455v1",
-      "summary": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or externa"
-    },
-    {
-      "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
-      "url": "http://arxiv.org/abs/2608.27454v1",
-      "summary": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables"
-    },
-    {
-      "title": "SWE-Prime: Fewer Trajectories, Better Performance",
-      "url": "http://arxiv.org/abs/2608.27449v1",
-      "summary": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT"
-    },
-    {
-      "title": "TTPO: Test-Time Policy Optimization",
-      "url": "http://arxiv.org/abs/2608.27448v1",
-      "summary": "Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet "
-    },
-    {
-      "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
-      "url": "http://arxiv.org/abs/2608.27442v1",
-      "summary": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Al"
-    },
-    {
-      "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
-      "url": "http://arxiv.org/abs/2608.27439v1",
-      "summary": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text gen"
+      "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
+      "url": "http://arxiv.org/abs/2608.27424v1",
+      "summary": "Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yie"
     }
   ],
   "blog_posts": [
     {
-      "title": "GLM-5.3 is now open-weight",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "author": "huggingface.co"
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "author": "coldtake.dev"
     },
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "author": "openai.com"
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "author": "dwarkesh.com"
     },
     {
-      "title": "Amazon AI Blocked My Kindle Book. I Asked What Went Wrong. Then They Approved It.",
-      "url": "https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi",
-      "author": "xulingfeng"
+      "title": "Benchmarking Pocket-Scale Inference",
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "author": "artificialanalysis.ai"
     },
     {
-      "title": "Your AI Remembers Everything and Trusts All of It",
-      "url": "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg",
-      "author": "marcosomma"
+      "title": "I Built an AI System That Processes Invoices Automatically",
+      "url": "https://ai.plainenglish.io/i-built-an-ai-system-that-processes-invoices-automatically-73b7b677ced5",
+      "author": "Maria Ali"
     },
     {
-      "title": "The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.",
-      "url": "https://dev.to/jon_at_backboardio/the-matrix-wasnt-a-battery-farm-it-was-a-gpu-cluster-made-of-human-brains-23e5",
-      "author": "Jonathan Murray"
+      "title": "Yes, I Use AI. No, It Doesn’t Write My Books.",
+      "url": "https://medium.com/@thechristiansage/yes-i-use-ai-no-it-doesnt-write-my-books-038943cbb1d7",
+      "author": "JW Kiefer"
     },
     {
-      "title": "OpenAI and Anthropic are ruining San Francisco",
-      "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
-      "author": "sfgate.com"
+      "title": "OpenAI’s AI Agents Just Exposed the Biggest Problem With Autonomous Coding",
+      "url": "https://abdulwahabdev.medium.com/openais-ai-agents-just-exposed-the-biggest-problem-with-autonomous-coding-bba29aedf2d3",
+      "author": "Abdul Wahab"
     },
     {
-      "title": "Just a rumour of a bug is enough to find a security exploit these days",
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "author": "pushcx"
-    },
-    {
-      "title": "How a Strands agent took Claude Opus 5 from 30% to 99.95% on ARC-AGI-3",
-      "url": "https://dev.to/aws/how-a-strands-agent-took-claude-opus-5-from-30-to-9995-on-arc-agi-3-4kel",
-      "author": "Morgan Willis"
+      "title": "Why I Built ScriptTap",
+      "url": "https://medium.com/@romka2x/why-i-built-scripttap-b36d78be4ee5",
+      "author": "Roman Rashkovskiy"
     }
   ],
-  "repos": [],
+  "repos": [
+    {
+      "name": "bigskysoftware/htmx",
+      "url": "https://github.com/bigskysoftware/htmx",
+      "description": "&lt;/&gt; htmx - high power tools for HTML",
+      "stars": 49177,
+      "language": "JavaScript"
+    },
+    {
+      "name": "alchaincyf/nuwa-skill",
+      "url": "https://github.com/alchaincyf/nuwa-skill",
+      "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+      "stars": 31688,
+      "language": "Python"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 25618,
+      "language": "Python"
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": 22599,
+      "language": "TypeScript"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": 18984,
+      "language": "Python"
+    },
+    {
+      "name": "lingfengQAQ/webnovel-writer",
+      "url": "https://github.com/lingfengQAQ/webnovel-writer",
+      "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+      "stars": 6854,
+      "language": "Python"
+    }
+  ],
   "tweets": []
 }

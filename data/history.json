@@ -1,34 +1,4 @@
 {
-  "2026-07-30": {
-    "papers": [
-      "https://arxiv.org/abs/2607.25294",
-      "https://arxiv.org/abs/2607.25659",
-      "https://arxiv.org/abs/2607.26784",
-      "https://arxiv.org/abs/2607.25675",
-      "https://arxiv.org/abs/2607.25308",
-      "https://arxiv.org/abs/2607.26314",
-      "https://arxiv.org/abs/2607.27155",
-      "https://arxiv.org/abs/2607.27191",
-      "https://arxiv.org/abs/2607.27205",
-      "https://arxiv.org/abs/2607.27180"
-    ],
-    "blogs": [
-      "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "https://aistack.imec-int.com/blog/gpu-self-hosting",
-      "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-      "https://usetokenless.com/",
-      "https://github.com/funador/claude-code-merge-queue",
-      "https://medium.com/ruang-kontemplasi/sukses-ad3b7e4f579d",
-      "https://medium.com/@taurusai/how-ai-is-redefining-enterprise-recruitment-de6985064125"
-    ],
-    "repos": [
-      "https://github.com/microsoft/VibeVoice",
-      "https://github.com/sgl-project/sglang",
-      "https://github.com/different-ai/openwork",
-      "https://github.com/maderix/ANE"
-    ]
-  },
   "2026-07-31": {
     "papers": [
       "https://arxiv.org/abs/2607.26056",
@@ -911,5 +881,30 @@
       "https://dev.to/aws/how-a-strands-agent-took-claude-opus-5-from-30-to-9995-on-arc-agi-3-4kel"
     ],
     "repos": []
+  },
+  "2026-08-30": {
+    "papers": [
+      "http://arxiv.org/abs/2608.27429v1",
+      "http://arxiv.org/abs/2608.27428v1",
+      "http://arxiv.org/abs/2608.27427v1",
+      "http://arxiv.org/abs/2608.27424v1"
+    ],
+    "blogs": [
+      "https://coldtake.dev/blog/domain-driven-agents",
+      "https://www.dwarkesh.com/p/openai-huggingface",
+      "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "https://ai.plainenglish.io/i-built-an-ai-system-that-processes-invoices-automatically-73b7b677ced5",
+      "https://medium.com/@thechristiansage/yes-i-use-ai-no-it-doesnt-write-my-books-038943cbb1d7",
+      "https://abdulwahabdev.medium.com/openais-ai-agents-just-exposed-the-biggest-problem-with-autonomous-coding-bba29aedf2d3",
+      "https://medium.com/@romka2x/why-i-built-scripttap-b36d78be4ee5"
+    ],
+    "repos": [
+      "https://github.com/bigskysoftware/htmx",
+      "https://github.com/alchaincyf/nuwa-skill",
+      "https://github.com/ayghri/i-have-adhd",
+      "https://github.com/THU-MAIC/OpenMAIC",
+      "https://github.com/google/skills",
+      "https://github.com/lingfengQAQ/webnovel-writer"
+    ]
   }
 }

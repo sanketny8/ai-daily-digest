@@ -10,6 +10,55 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-30</strong></summary>
+
+#### Papers
+
+1. **[Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation](http://arxiv.org/abs/2608.27429v1)**
+
+2. **[Stochastic Estimation of Transduced Language Models](http://arxiv.org/abs/2608.27428v1)**
+
+3. **[Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit](http://arxiv.org/abs/2608.27427v1)**
+
+4. **[Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners](http://arxiv.org/abs/2608.27424v1)**
+
+
+#### Blog Posts
+
+1. **[Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)** by coldtake.dev
+
+2. **[The Rise and Fall of Agent Civilizations](https://www.dwarkesh.com/p/openai-huggingface)** by dwarkesh.com
+
+3. **[Benchmarking Pocket-Scale Inference](https://artificialanalysis.ai/hardware-inference-stack/mobile-phones)** by artificialanalysis.ai
+
+4. **[I Built an AI System That Processes Invoices Automatically](https://ai.plainenglish.io/i-built-an-ai-system-that-processes-invoices-automatically-73b7b677ced5)** by Maria Ali
+
+5. **[Yes, I Use AI. No, It Doesn’t Write My Books.](https://medium.com/@thechristiansage/yes-i-use-ai-no-it-doesnt-write-my-books-038943cbb1d7)** by JW Kiefer
+
+6. **[OpenAI’s AI Agents Just Exposed the Biggest Problem With Autonomous Coding](https://abdulwahabdev.medium.com/openais-ai-agents-just-exposed-the-biggest-problem-with-autonomous-coding-bba29aedf2d3)** by Abdul Wahab
+
+7. **[Why I Built ScriptTap](https://medium.com/@romka2x/why-i-built-scripttap-b36d78be4ee5)** by Roman Rashkovskiy
+
+
+#### Trending Repos
+
+1. **[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)** — &lt;/&gt; htmx - high power tools for HTML ⭐ 49177
+
+2. **[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)** — 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. ⭐ 31688
+
+3. **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** — A skill to stop your coding agent from burying the answer. ADHD-friendly output. ⭐ 25618
+
+4. **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click ⭐ 22599
+
+5. **[google/skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies ⭐ 18984
+
+6. **[lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)** — 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 ⭐ 6854
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-29</strong></summary>
 
 #### Papers
