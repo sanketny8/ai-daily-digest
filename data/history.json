@@ -1,34 +1,4 @@
 {
-  "2026-07-31": {
-    "papers": [
-      "https://arxiv.org/abs/2607.26056",
-      "https://arxiv.org/abs/2607.28374",
-      "https://arxiv.org/abs/2607.27372",
-      "https://arxiv.org/abs/2607.26627",
-      "https://arxiv.org/abs/2607.18806",
-      "https://arxiv.org/abs/2607.27816",
-      "https://arxiv.org/abs/2607.27616",
-      "https://arxiv.org/abs/2607.28410",
-      "https://arxiv.org/abs/2607.27919",
-      "https://arxiv.org/abs/2607.28227"
-    ],
-    "blogs": [
-      "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "https://github.com/YoanWai/agent-manager",
-      "https://openjdk.org/legal/ai",
-      "https://github.com/n67094/sdl_gp",
-      "https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/",
-      "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "https://www.bloomberg.com/news/articles/2026-07-30/judge-voices-doubt-us-has-justified-its-ban-on-anthropic-ai"
-    ],
-    "repos": [
-      "https://github.com/PaddlePaddle/PaddleOCR",
-      "https://github.com/streamlit/streamlit",
-      "https://github.com/github/awesome-copilot",
-      "https://github.com/ScrapeGraphAI/Scrapegraph-ai"
-    ]
-  },
   "2026-08-01": {
     "papers": [
       "https://arxiv.org/abs/2607.23193",
@@ -905,6 +875,38 @@
       "https://github.com/THU-MAIC/OpenMAIC",
       "https://github.com/google/skills",
       "https://github.com/lingfengQAQ/webnovel-writer"
+    ]
+  },
+  "2026-08-31": {
+    "papers": [
+      "https://arxiv.org/abs/2608.18524",
+      "https://arxiv.org/abs/2608.28192",
+      "https://arxiv.org/abs/2608.27763",
+      "https://arxiv.org/abs/2608.26794",
+      "https://arxiv.org/abs/2608.28460",
+      "https://arxiv.org/abs/2608.27370",
+      "https://arxiv.org/abs/2608.25417",
+      "https://arxiv.org/abs/2608.24804",
+      "https://arxiv.org/abs/2608.26582",
+      "https://arxiv.org/abs/2608.27529"
+    ],
+    "blogs": [
+      "https://github.com/anthropics/claude-code/issues/66504",
+      "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
+      "https://dev.to/james_anderson_h/9-ways-your-ai-agent-silently-fails-and-how-to-catch-each-547f",
+      "https://medium.com/@prophaze/the-sharepoint-authentication-bypass-isnt-the-scary-part-25aa713d6f6a",
+      "https://medium.com/@skeptical_ai/beyond-the-medallion-why-modern-ai-demands-enforced-governance-a560319796cf"
+    ],
+    "repos": [
+      "https://github.com/punkpeye/awesome-mcp-servers",
+      "https://github.com/colinhacks/zod",
+      "https://github.com/tashfeenahmed/freellmapi",
+      "https://github.com/agent0ai/agent-zero",
+      "https://github.com/corsairdev/corsair",
+      "https://github.com/Osmantic/ODS",
+      "https://github.com/kaifcodec/user-scanner"
     ]
   }
 }

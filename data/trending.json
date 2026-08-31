@@ -1,105 +1,142 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "papers": [
     {
-      "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
-      "url": "http://arxiv.org/abs/2608.27429v1",
-      "summary": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuri"
+      "title": "DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents",
+      "url": "https://arxiv.org/abs/2608.18524",
+      "summary": "Equipping Large Language Models (LLMs) with multi-turn tool-calling capabilities is essential for building autonomous agents. However, progress is fundamentally limited by the reliance on full-length "
     },
     {
-      "title": "Stochastic Estimation of Transduced Language Models",
-      "url": "http://arxiv.org/abs/2608.27428v1",
-      "summary": "Transduced language models (TLMs) compose a pretrained \\emph{source} language model with a functional finite-state transducer to induce a language model over \\emph{target} strings. Computing the proba"
+      "title": "Locate Anything in Videos: Rethinking Efficient Generative Spatio-Temporal Video Grounding",
+      "url": "https://arxiv.org/abs/2608.28192",
+      "summary": "Spatio-temporal video grounding (STVG) requires models to identify when a referred event occurs and localize the target entity throughout that interval. Existing multimodal large language models typic"
     },
     {
-      "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
-      "url": "http://arxiv.org/abs/2608.27427v1",
-      "summary": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A si"
+      "title": "Fast Weight Attention for Continual Learning",
+      "url": "https://arxiv.org/abs/2608.27763",
+      "summary": "Recurrent fast-weight memories and selective state-space models compress an expanding context into a fixed-size recurrent state, making the state transition an online learning rule. We study this rule"
     },
     {
-      "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
-      "url": "http://arxiv.org/abs/2608.27424v1",
-      "summary": "Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yie"
+      "title": "Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusion",
+      "url": "https://arxiv.org/abs/2608.26794",
+      "summary": "Scaling video generation to long durations reveals a critical bottleneck: current models lack robust long-term memory. This deficiency can be studied along two critical aspects: object permanence, the"
+    },
+    {
+      "title": "LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation",
+      "url": "https://arxiv.org/abs/2608.28460",
+      "summary": "Autoregressive video diffusion enables scalable long-video generation by producing chunks from a bounded recent context. While recency-based caching preserves local continuity, it evicts historical cu"
+    },
+    {
+      "title": "Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
+      "url": "https://arxiv.org/abs/2608.27370",
+      "summary": "Language model pretraining has become almost synonymous with prohibitive cost, placing it out of reach for much of the academic and open-source communities. Although strong open-source efforts already"
+    },
+    {
+      "title": "Paint What You See: Benchmarking Dexterous Visual Tool Use in Multimodal Agents",
+      "url": "https://arxiv.org/abs/2608.25417",
+      "summary": "Evaluation is shifting from static QA toward agentic settings where models act through external tools. We identify a critical yet underexplored capability within this space - dexterous visual tool use"
+    },
+    {
+      "title": "StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments",
+      "url": "https://arxiv.org/abs/2608.24804",
+      "summary": "We present StarHarness, a framework for evolving environment-specific agent harnesses while keeping model weights fixed. The evolved harness can include prompt and task framing, tool interfaces, skill"
+    },
+    {
+      "title": "J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data",
+      "url": "https://arxiv.org/abs/2608.26582",
+      "summary": "Self-evolving language models have recently emerged as a promising path toward superintelligence, with the advantage of reducing the cost of human supervision. While considerable progress has been mad"
+    },
+    {
+      "title": "Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
+      "url": "https://arxiv.org/abs/2608.27529",
+      "summary": "Streaming 3D reconstruction from extremely long videos requires estimating camera motion and scene geometry online under bounded memory and computation. Early streaming models achieve causal, bounded-"
     }
   ],
   "blog_posts": [
     {
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "author": "coldtake.dev"
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "author": "github.com"
     },
     {
-      "title": "The Rise and Fall of Agent Civilizations",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "author": "dwarkesh.com"
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "author": "sander.ai"
     },
     {
-      "title": "Benchmarking Pocket-Scale Inference",
-      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "author": "artificialanalysis.ai"
+      "title": "How to build a diffusion language model",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "author": "kuleshov-group.github.io"
     },
     {
-      "title": "I Built an AI System That Processes Invoices Automatically",
-      "url": "https://ai.plainenglish.io/i-built-an-ai-system-that-processes-invoices-automatically-73b7b677ced5",
-      "author": "Maria Ali"
+      "title": "Tell Me About You",
+      "url": "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
+      "author": "Self-Correcting Systems"
     },
     {
-      "title": "Yes, I Use AI. No, It Doesn’t Write My Books.",
-      "url": "https://medium.com/@thechristiansage/yes-i-use-ai-no-it-doesnt-write-my-books-038943cbb1d7",
-      "author": "JW Kiefer"
+      "title": "9 Ways Your AI Agent Silently Fails (and How to Catch Each)",
+      "url": "https://dev.to/james_anderson_h/9-ways-your-ai-agent-silently-fails-and-how-to-catch-each-547f",
+      "author": "James Anderson"
     },
     {
-      "title": "OpenAI’s AI Agents Just Exposed the Biggest Problem With Autonomous Coding",
-      "url": "https://abdulwahabdev.medium.com/openais-ai-agents-just-exposed-the-biggest-problem-with-autonomous-coding-bba29aedf2d3",
-      "author": "Abdul Wahab"
+      "title": "The SharePoint Authentication Bypass Isn’t the Scary Part.",
+      "url": "https://medium.com/@prophaze/the-sharepoint-authentication-bypass-isnt-the-scary-part-25aa713d6f6a",
+      "author": "Prophaze"
     },
     {
-      "title": "Why I Built ScriptTap",
-      "url": "https://medium.com/@romka2x/why-i-built-scripttap-b36d78be4ee5",
-      "author": "Roman Rashkovskiy"
+      "title": "Beyond the Medallion: Why Modern AI Demands Enforced Governance",
+      "url": "https://medium.com/@skeptical_ai/beyond-the-medallion-why-modern-ai-demands-enforced-governance-a560319796cf",
+      "author": "Skeptical AI"
     }
   ],
   "repos": [
     {
-      "name": "bigskysoftware/htmx",
-      "url": "https://github.com/bigskysoftware/htmx",
-      "description": "&lt;/&gt; htmx - high power tools for HTML",
-      "stars": 49177,
-      "language": "JavaScript"
+      "name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "stars": 93491,
+      "language": ""
     },
     {
-      "name": "alchaincyf/nuwa-skill",
-      "url": "https://github.com/alchaincyf/nuwa-skill",
-      "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-      "stars": 31688,
-      "language": "Python"
-    },
-    {
-      "name": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "stars": 25618,
-      "language": "Python"
-    },
-    {
-      "name": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "stars": 22599,
+      "name": "colinhacks/zod",
+      "url": "https://github.com/colinhacks/zod",
+      "description": "TypeScript-first schema validation with static type inference",
+      "stars": 43691,
       "language": "TypeScript"
     },
     {
-      "name": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "stars": 18984,
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key",
+      "stars": 23044,
+      "language": "TypeScript"
+    },
+    {
+      "name": "agent0ai/agent-zero",
+      "url": "https://github.com/agent0ai/agent-zero",
+      "description": "Agent Zero AI framework",
+      "stars": 19039,
       "language": "Python"
     },
     {
-      "name": "lingfengQAQ/webnovel-writer",
-      "url": "https://github.com/lingfengQAQ/webnovel-writer",
-      "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
-      "stars": 6854,
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "description": "Connect your users to their apps",
+      "stars": 11057,
+      "language": "TypeScript"
+    },
+    {
+      "name": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "stars": 5175,
+      "language": "Python"
+    },
+    {
+      "name": "kaifcodec/user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "description": "🕵️‍♂️ (2-in-1) Email &amp; Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security res",
+      "stars": 3902,
       "language": "Python"
     }
   ],

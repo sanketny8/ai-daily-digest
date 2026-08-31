@@ -10,6 +10,69 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-08-31</strong></summary>
+
+#### Papers
+
+1. **[DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents](https://arxiv.org/abs/2608.18524)**
+
+2. **[Locate Anything in Videos: Rethinking Efficient Generative Spatio-Temporal Video Grounding](https://arxiv.org/abs/2608.28192)**
+
+3. **[Fast Weight Attention for Continual Learning](https://arxiv.org/abs/2608.27763)**
+
+4. **[Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusion](https://arxiv.org/abs/2608.26794)**
+
+5. **[LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation](https://arxiv.org/abs/2608.28460)**
+
+6. **[Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090](https://arxiv.org/abs/2608.27370)**
+
+7. **[Paint What You See: Benchmarking Dexterous Visual Tool Use in Multimodal Agents](https://arxiv.org/abs/2608.25417)**
+
+8. **[StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments](https://arxiv.org/abs/2608.24804)**
+
+9. **[J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data](https://arxiv.org/abs/2608.26582)**
+
+10. **[Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction](https://arxiv.org/abs/2608.27529)**
+
+
+#### Blog Posts
+
+1. **[Claude Session URL appended to commit messages and PR descriptions by default](https://github.com/anthropics/claude-code/issues/66504)** by github.com
+
+2. **[Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html)** by sander.ai
+
+3. **[How to build a diffusion language model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/)** by kuleshov-group.github.io
+
+4. **[Tell Me About You](https://dev.to/kenielzep97/tell-me-about-you-1hi4)** by Self-Correcting Systems
+
+5. **[9 Ways Your AI Agent Silently Fails (and How to Catch Each)](https://dev.to/james_anderson_h/9-ways-your-ai-agent-silently-fails-and-how-to-catch-each-547f)** by James Anderson
+
+6. **[The SharePoint Authentication Bypass Isn’t the Scary Part.](https://medium.com/@prophaze/the-sharepoint-authentication-bypass-isnt-the-scary-part-25aa713d6f6a)** by Prophaze
+
+7. **[Beyond the Medallion: Why Modern AI Demands Enforced Governance](https://medium.com/@skeptical_ai/beyond-the-medallion-why-modern-ai-demands-enforced-governance-a560319796cf)** by Skeptical AI
+
+
+#### Trending Repos
+
+1. **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** — A collection of MCP servers. ⭐ 93491
+
+2. **[colinhacks/zod](https://github.com/colinhacks/zod)** — TypeScript-first schema validation with static type inference ⭐ 43691
+
+3. **[tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)** — 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key ⭐ 23044
+
+4. **[agent0ai/agent-zero](https://github.com/agent0ai/agent-zero)** — Agent Zero AI framework ⭐ 19039
+
+5. **[corsairdev/corsair](https://github.com/corsairdev/corsair)** — Connect your users to their apps ⭐ 11057
+
+6. **[Osmantic/ODS](https://github.com/Osmantic/ODS)** — Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. ⭐ 5175
+
+7. **[kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)** — 🕵️‍♂️ (2-in-1) Email &amp; Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security res ⭐ 3902
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-30</strong></summary>
 
 #### Papers
