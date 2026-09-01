@@ -1,35 +1,4 @@
 {
-  "2026-08-01": {
-    "papers": [
-      "https://arxiv.org/abs/2607.23193",
-      "https://arxiv.org/abs/2607.28582",
-      "https://arxiv.org/abs/2607.28308",
-      "https://arxiv.org/abs/2607.28319",
-      "https://arxiv.org/abs/2607.27958",
-      "https://arxiv.org/abs/2607.26769",
-      "https://arxiv.org/abs/2607.26637",
-      "https://arxiv.org/abs/2607.16922",
-      "https://arxiv.org/abs/2607.20891",
-      "https://arxiv.org/abs/2607.28362"
-    ],
-    "blogs": [
-      "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "https://tailscale.com/blog/hugging-face-intrusion",
-      "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "https://marbleos.com/demo",
-      "https://swe-rebench.com",
-      "https://jwlabs.vercel.app/post/biting-the-bullet",
-      "https://arxiv.org/abs/2607.28545",
-      "https://www.trytilde.ai/blog/how-to-build-code-review-agent"
-    ],
-    "repos": [
-      "https://github.com/NousResearch/hermes-agent",
-      "https://github.com/chatwoot/chatwoot",
-      "https://github.com/langchain-ai/deepagents",
-      "https://github.com/zhaoxuya520/reverse-skill",
-      "https://github.com/0x4m4/hexstrike-ai"
-    ]
-  },
   "2026-08-02": {
     "papers": [
       "http://arxiv.org/abs/2607.28628v1",
@@ -907,6 +876,34 @@
       "https://github.com/corsairdev/corsair",
       "https://github.com/Osmantic/ODS",
       "https://github.com/kaifcodec/user-scanner"
+    ]
+  },
+  "2026-09-01": {
+    "papers": [
+      "https://arxiv.org/abs/2608.30135",
+      "https://arxiv.org/abs/2608.28695",
+      "https://arxiv.org/abs/2608.28600",
+      "https://arxiv.org/abs/2608.29252",
+      "https://arxiv.org/abs/2608.31106",
+      "https://arxiv.org/abs/2608.31036",
+      "https://arxiv.org/abs/2608.29910",
+      "https://arxiv.org/abs/2608.30241",
+      "https://arxiv.org/abs/2608.30320",
+      "https://arxiv.org/abs/2608.30821"
+    ],
+    "blogs": [
+      "https://dev.to/kenielzep97/i-followed-the-appeal-path-there-was-no-appeal-25e2",
+      "https://medium.com/@ravinpandey.matchbest/the-multi-modal-shift-how-solo-creators-are-scaling-agency-grade-video-fb0fb9ab48d2",
+      "https://medium.com/the-common-room/write-for-the-common-room-submission-guidelines-878e4c6ed0e6",
+      "https://medium.com/@loveleen.matchbestsoftware/how-ai-creative-platforms-are-making-content-creation-easier-cf2ce66e7489",
+      "https://rtmusafir.medium.com/if-your-entire-memory-gets-copied-then-who-is-the-real-you-0bc4545ef257",
+      "https://medium.com/@seo.testometer/rag-and-ai-agents-in-software-testing-a-beginners-guide-9965c7e29c5f",
+      "https://medium.com/@gracie.bolton/building-intelligent-applications-that-create-reason-and-transform-business-processes-ecc037c5f1e0",
+      "https://medium.com/@ramnalla.aws/dbscan-explained-the-clustering-algorithm-that-finds-hidden-patterns-and-outliers-72d6b7aa2aed"
+    ],
+    "repos": [
+      "https://github.com/jingyaogong/minimind",
+      "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
     ]
   }
 }

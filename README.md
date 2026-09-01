@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-01</strong></summary>
+
+#### Papers
+
+1. **[Verification-Aware Training for Speculative Decoding](https://arxiv.org/abs/2608.30135)**
+
+2. **[Weaving Visual Narratives: Agentic Image Bundle Composition Beyond Atomic Visual Matching](https://arxiv.org/abs/2608.28695)**
+
+3. **[SHAPE of Chain-of-Thought in Math Reasoning](https://arxiv.org/abs/2608.28600)**
+
+4. **[Dynamic Important Example Mining for Reinforcement Finetuning](https://arxiv.org/abs/2608.29252)**
+
+5. **[DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](https://arxiv.org/abs/2608.31106)**
+
+6. **[Normalized Low-Rank Adaptation](https://arxiv.org/abs/2608.31036)**
+
+7. **[Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory](https://arxiv.org/abs/2608.29910)**
+
+8. **[PaperBanana-Interact: Scientific Diagram Refinement with Multi-Turn Human Feedback](https://arxiv.org/abs/2608.30241)**
+
+9. **[On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://arxiv.org/abs/2608.30320)**
+
+10. **[Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://arxiv.org/abs/2608.30821)**
+
+
+#### Blog Posts
+
+1. **[I Followed the Appeal Path. There Was No Appeal.](https://dev.to/kenielzep97/i-followed-the-appeal-path-there-was-no-appeal-25e2)** by Self-Correcting Systems
+
+2. **[The Multi-Modal Shift: How Solo Creators Are Scaling Agency-Grade Video](https://medium.com/@ravinpandey.matchbest/the-multi-modal-shift-how-solo-creators-are-scaling-agency-grade-video-fb0fb9ab48d2)** by Ravinpandey Matchbest
+
+3. **[Write for The Common Room: Submission Guidelines](https://medium.com/the-common-room/write-for-the-common-room-submission-guidelines-878e4c6ed0e6)** by Rimsha Kiran
+
+4. **[How AI Creative Platforms Are Making Content Creation Easier](https://medium.com/@loveleen.matchbestsoftware/how-ai-creative-platforms-are-making-content-creation-easier-cf2ce66e7489)** by Loveleen Matchbestsoftware
+
+5. **["If your entire memory gets copied... then who is the real you?"](https://rtmusafir.medium.com/if-your-entire-memory-gets-copied-then-who-is-the-real-you-0bc4545ef257)** by R.T. Musafir
+
+6. **[RAG and AI Agents in Software Testing: A Beginner’s Guide](https://medium.com/@seo.testometer/rag-and-ai-agents-in-software-testing-a-beginners-guide-9965c7e29c5f)** by TestoMeter EduTech
+
+7. **[Building Intelligent Applications That Create, Reason, and Transform Business Processes](https://medium.com/@gracie.bolton/building-intelligent-applications-that-create-reason-and-transform-business-processes-ecc037c5f1e0)** by Gracie Bolton
+
+8. **[DBSCAN Explained: The Clustering Algorithm That Finds Hidden Patterns and Outliers](https://medium.com/@ramnalla.aws/dbscan-explained-the-clustering-algorithm-that-finds-hidden-patterns-and-outliers-72d6b7aa2aed)** by Dheeraj Nalla
+
+
+#### Trending Repos
+
+1. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** — 🧠 Train a 64M-parameter LLM from scratch in just 2h! ⭐ 56449
+
+2. **[Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)** — Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms ⭐ 13565
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-08-31</strong></summary>
 
 #### Papers

@@ -1,142 +1,112 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "papers": [
     {
-      "title": "DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents",
-      "url": "https://arxiv.org/abs/2608.18524",
-      "summary": "Equipping Large Language Models (LLMs) with multi-turn tool-calling capabilities is essential for building autonomous agents. However, progress is fundamentally limited by the reliance on full-length "
+      "title": "Verification-Aware Training for Speculative Decoding",
+      "url": "https://arxiv.org/abs/2608.30135",
+      "summary": "Speculative decoding accelerates large language model inference by using a draft model to generate candidate tokens, which are verified by the target model in a single forward pass. Verification proce"
     },
     {
-      "title": "Locate Anything in Videos: Rethinking Efficient Generative Spatio-Temporal Video Grounding",
-      "url": "https://arxiv.org/abs/2608.28192",
-      "summary": "Spatio-temporal video grounding (STVG) requires models to identify when a referred event occurs and localize the target entity throughout that interval. Existing multimodal large language models typic"
+      "title": "Weaving Visual Narratives: Agentic Image Bundle Composition Beyond Atomic Visual Matching",
+      "url": "https://arxiv.org/abs/2608.28695",
+      "summary": "Image retrieval has traditionally been formulated as a point-wise matching problem, where each candidate image is scored in isolation. However, this atomic paradigm fails to capture the complexity of "
     },
     {
-      "title": "Fast Weight Attention for Continual Learning",
-      "url": "https://arxiv.org/abs/2608.27763",
-      "summary": "Recurrent fast-weight memories and selective state-space models compress an expanding context into a fixed-size recurrent state, making the state transition an online learning rule. We study this rule"
+      "title": "SHAPE of Chain-of-Thought in Math Reasoning",
+      "url": "https://arxiv.org/abs/2608.28600",
+      "summary": "Large language models (LLMs) achieve strong performance on mathematical reasoning benchmarks, yet the mathematically meaningful skills underlying their reasoning remain underexplored. We introduce SHA"
     },
     {
-      "title": "Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusion",
-      "url": "https://arxiv.org/abs/2608.26794",
-      "summary": "Scaling video generation to long durations reveals a critical bottleneck: current models lack robust long-term memory. This deficiency can be studied along two critical aspects: object permanence, the"
+      "title": "Dynamic Important Example Mining for Reinforcement Finetuning",
+      "url": "https://arxiv.org/abs/2608.29252",
+      "summary": "Reinforcement fine-tuning (RFT) is increasingly used to strengthen the reasoning abilities of large models, yet its effectiveness is bound by how training data are selected and used. Most data-centric"
     },
     {
-      "title": "LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation",
-      "url": "https://arxiv.org/abs/2608.28460",
-      "summary": "Autoregressive video diffusion enables scalable long-video generation by producing chunks from a bounded recent context. While recency-based caching preserves local continuity, it evicts historical cu"
+      "title": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
+      "url": "https://arxiv.org/abs/2608.31106",
+      "summary": "Recent video generators often omit audio or synthesize it in a separate stage, limiting reciprocal modeling of visual dynamics and acoustic events. We present DreamX-Creator 1.0, a compact native join"
     },
     {
-      "title": "Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
-      "url": "https://arxiv.org/abs/2608.27370",
-      "summary": "Language model pretraining has become almost synonymous with prohibitive cost, placing it out of reach for much of the academic and open-source communities. Although strong open-source efforts already"
+      "title": "Normalized Low-Rank Adaptation",
+      "url": "https://arxiv.org/abs/2608.31036",
+      "summary": "While low-rank adaptation (LoRA) is widely used for parameter-efficient model adaptation, how to regularize its training dynamics for stable and effective optimization remains underexplored. Because L"
     },
     {
-      "title": "Paint What You See: Benchmarking Dexterous Visual Tool Use in Multimodal Agents",
-      "url": "https://arxiv.org/abs/2608.25417",
-      "summary": "Evaluation is shifting from static QA toward agentic settings where models act through external tools. We identify a critical yet underexplored capability within this space - dexterous visual tool use"
+      "title": "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory",
+      "url": "https://arxiv.org/abs/2608.29910",
+      "summary": "Interactive world models extend video generation from offline clip synthesis toward persistent simulation of interactive virtual worlds, enabling applications in games, robotics, embodied agents, and "
     },
     {
-      "title": "StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments",
-      "url": "https://arxiv.org/abs/2608.24804",
-      "summary": "We present StarHarness, a framework for evolving environment-specific agent harnesses while keeping model weights fixed. The evolved harness can include prompt and task framing, tool interfaces, skill"
+      "title": "PaperBanana-Interact: Scientific Diagram Refinement with Multi-Turn Human Feedback",
+      "url": "https://arxiv.org/abs/2608.30241",
+      "summary": "Recent efforts have aimed to automate scientific diagram generation from paper content (Lin et al., 2026; Zhu et al., 2026a). However, fully satisfying an author's visual and communicative preferences"
     },
     {
-      "title": "J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data",
-      "url": "https://arxiv.org/abs/2608.26582",
-      "summary": "Self-evolving language models have recently emerged as a promising path toward superintelligence, with the advantage of reducing the cost of human supervision. While considerable progress has been mad"
+      "title": "On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability",
+      "url": "https://arxiv.org/abs/2608.30320",
+      "summary": "We describe the architecture and ablations of Qwen3.8-Flash-Next, a sparse mixture-of-experts model with 125B parameters, 6B activated per token, and additional 51B parameters of n-gram embedding tabl"
     },
     {
-      "title": "Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
-      "url": "https://arxiv.org/abs/2608.27529",
-      "summary": "Streaming 3D reconstruction from extremely long videos requires estimating camera motion and scene geometry online under bounded memory and computation. Early streaming models achieve causal, bounded-"
+      "title": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
+      "url": "https://arxiv.org/abs/2608.30821",
+      "summary": "Composable scene modeling aims to recover a real indoor scene as complete, editable object assets arranged as observed, giving robot simulation and embodied AI a simulation-ready replica of the real e"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "url": "https://github.com/anthropics/claude-code/issues/66504",
-      "author": "github.com"
-    },
-    {
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "author": "sander.ai"
-    },
-    {
-      "title": "How to build a diffusion language model",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-      "author": "kuleshov-group.github.io"
-    },
-    {
-      "title": "Tell Me About You",
-      "url": "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
+      "title": "I Followed the Appeal Path. There Was No Appeal.",
+      "url": "https://dev.to/kenielzep97/i-followed-the-appeal-path-there-was-no-appeal-25e2",
       "author": "Self-Correcting Systems"
     },
     {
-      "title": "9 Ways Your AI Agent Silently Fails (and How to Catch Each)",
-      "url": "https://dev.to/james_anderson_h/9-ways-your-ai-agent-silently-fails-and-how-to-catch-each-547f",
-      "author": "James Anderson"
+      "title": "The Multi-Modal Shift: How Solo Creators Are Scaling Agency-Grade Video",
+      "url": "https://medium.com/@ravinpandey.matchbest/the-multi-modal-shift-how-solo-creators-are-scaling-agency-grade-video-fb0fb9ab48d2",
+      "author": "Ravinpandey Matchbest"
     },
     {
-      "title": "The SharePoint Authentication Bypass Isn’t the Scary Part.",
-      "url": "https://medium.com/@prophaze/the-sharepoint-authentication-bypass-isnt-the-scary-part-25aa713d6f6a",
-      "author": "Prophaze"
+      "title": "Write for The Common Room: Submission Guidelines",
+      "url": "https://medium.com/the-common-room/write-for-the-common-room-submission-guidelines-878e4c6ed0e6",
+      "author": "Rimsha Kiran"
     },
     {
-      "title": "Beyond the Medallion: Why Modern AI Demands Enforced Governance",
-      "url": "https://medium.com/@skeptical_ai/beyond-the-medallion-why-modern-ai-demands-enforced-governance-a560319796cf",
-      "author": "Skeptical AI"
+      "title": "How AI Creative Platforms Are Making Content Creation Easier",
+      "url": "https://medium.com/@loveleen.matchbestsoftware/how-ai-creative-platforms-are-making-content-creation-easier-cf2ce66e7489",
+      "author": "Loveleen Matchbestsoftware"
+    },
+    {
+      "title": "\"If your entire memory gets copied... then who is the real you?\"",
+      "url": "https://rtmusafir.medium.com/if-your-entire-memory-gets-copied-then-who-is-the-real-you-0bc4545ef257",
+      "author": "R.T. Musafir"
+    },
+    {
+      "title": "RAG and AI Agents in Software Testing: A Beginner’s Guide",
+      "url": "https://medium.com/@seo.testometer/rag-and-ai-agents-in-software-testing-a-beginners-guide-9965c7e29c5f",
+      "author": "TestoMeter EduTech"
+    },
+    {
+      "title": "Building Intelligent Applications That Create, Reason, and Transform Business Processes",
+      "url": "https://medium.com/@gracie.bolton/building-intelligent-applications-that-create-reason-and-transform-business-processes-ecc037c5f1e0",
+      "author": "Gracie Bolton"
+    },
+    {
+      "title": "DBSCAN Explained: The Clustering Algorithm That Finds Hidden Patterns and Outliers",
+      "url": "https://medium.com/@ramnalla.aws/dbscan-explained-the-clustering-algorithm-that-finds-hidden-patterns-and-outliers-72d6b7aa2aed",
+      "author": "Dheeraj Nalla"
     }
   ],
   "repos": [
     {
-      "name": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "description": "A collection of MCP servers.",
-      "stars": 93491,
-      "language": ""
-    },
-    {
-      "name": "colinhacks/zod",
-      "url": "https://github.com/colinhacks/zod",
-      "description": "TypeScript-first schema validation with static type inference",
-      "stars": 43691,
-      "language": "TypeScript"
-    },
-    {
-      "name": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key",
-      "stars": 23044,
-      "language": "TypeScript"
-    },
-    {
-      "name": "agent0ai/agent-zero",
-      "url": "https://github.com/agent0ai/agent-zero",
-      "description": "Agent Zero AI framework",
-      "stars": 19039,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": 56449,
       "language": "Python"
     },
     {
-      "name": "corsairdev/corsair",
-      "url": "https://github.com/corsairdev/corsair",
-      "description": "Connect your users to their apps",
-      "stars": 11057,
-      "language": "TypeScript"
-    },
-    {
-      "name": "Osmantic/ODS",
-      "url": "https://github.com/Osmantic/ODS",
-      "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-      "stars": 5175,
-      "language": "Python"
-    },
-    {
-      "name": "kaifcodec/user-scanner",
-      "url": "https://github.com/kaifcodec/user-scanner",
-      "description": "🕵️‍♂️ (2-in-1) Email &amp; Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security res",
-      "stars": 3902,
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars": 13565,
       "language": "Python"
     }
   ],
