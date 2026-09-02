@@ -10,6 +10,71 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-02</strong></summary>
+
+#### Papers
+
+1. **[Agents in the Large: Perception-Centered Architecture for Persistent Agents](https://arxiv.org/abs/2608.30478)**
+
+2. **[DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory](https://arxiv.org/abs/2609.00768)**
+
+3. **[Safin-1: Safety from Within through Memory-Native State Evolution](https://arxiv.org/abs/2609.00092)**
+
+4. **[SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers](https://arxiv.org/abs/2609.01343)**
+
+5. **[Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement](https://arxiv.org/abs/2609.01481)**
+
+6. **[UI-Venus-2 Technical Report](https://arxiv.org/abs/2609.00028)**
+
+7. **[Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://arxiv.org/abs/2609.00111)**
+
+8. **[ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training](https://arxiv.org/abs/2609.00188)**
+
+9. **[E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation](https://arxiv.org/abs/2608.30730)**
+
+10. **[H3-World: Turning Language Understanding into World Control](https://arxiv.org/abs/2609.01560)**
+
+
+#### Blog Posts
+
+1. **[Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)** by anthropic.com
+
+2. **[I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/)** by mvakde.github.io
+
+3. **[Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/)** by 9to5mac.com
+
+4. **[Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas)** by worldlabs.ai
+
+5. **[Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/)** by openai.com
+
+6. **[The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)** by baseten.co
+
+7. **[Keenable SELECT: an agent that searches the web in SQL](https://keenableai.github.io/select-showcase/)** by keenableai.github.io
+
+8. **[AI Coding Agent Skills for Real Engineers](https://github.com/mattpocock/skills)** by github.com
+
+9. **[Semantic caching isn't a cost-saving hack. It's an admission that most "AI features" are FAQ bots in disguise.](https://dev.to/cyclopt_dimitrisk/semantic-caching-isnt-a-cost-saving-hack-its-an-admission-that-most-ai-features-are-faq-bots-93j)** by Dimitris Kyrkos 
+
+
+#### Trending Repos
+
+1. **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. ⭐ 113105
+
+2. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — Academic Research Skills for Claude Code: research → write → review → revise → finalize ⭐ 45129
+
+3. **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** — 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG ⭐ 35483
+
+4. **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)** — runs anywhere. uses anything ⭐ 31525
+
+5. **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo ⭐ 15566
+
+6. **[apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)** — AI-Powered Dark Web OSINT Tool ⭐ 6931
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-01</strong></summary>
 
 #### Papers

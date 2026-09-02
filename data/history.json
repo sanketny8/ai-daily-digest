@@ -1,37 +1,4 @@
 {
-  "2026-08-02": {
-    "papers": [
-      "http://arxiv.org/abs/2607.28628v1",
-      "http://arxiv.org/abs/2607.28627v1",
-      "http://arxiv.org/abs/2607.28623v1",
-      "http://arxiv.org/abs/2607.28618v1",
-      "http://arxiv.org/abs/2607.28617v1",
-      "http://arxiv.org/abs/2607.28609v1",
-      "http://arxiv.org/abs/2607.28608v1",
-      "http://arxiv.org/abs/2607.28607v1",
-      "http://arxiv.org/abs/2607.28591v1",
-      "http://arxiv.org/abs/2607.28590v1"
-    ],
-    "blogs": [
-      "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "https://philarchive.org/archive/NIEWTCv17",
-      "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
-      "https://medium.com/@clearmindrocks/do-knowledge-graphs-actually-improve-accuracy-in-pharma-manufacturing-19291dff8651",
-      "https://medium.com/@aludanyi/you-cant-just-decide-to-think-better-21cd6d15e96b",
-      "https://pub.towardsai.net/temperature-0-vs-1-0-greedy-decoding-collapsed-14-of-llamas-128k-calls-5e36ddd81c1f",
-      "https://medium.com/@ashtosh.shenoy/the-math-you-already-know-is-running-your-rag-pipeline-298eb4efa7a1"
-    ],
-    "repos": [
-      "https://github.com/microsoft/generative-ai-for-beginners",
-      "https://github.com/karpathy/autoresearch",
-      "https://github.com/bytedance/deer-flow",
-      "https://github.com/unslothai/unsloth",
-      "https://github.com/microsoft/AI-For-Beginners",
-      "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "https://github.com/ashishpatel26/500-AI-Agents-Projects",
-      "https://github.com/abus-aikorea/voice-pro"
-    ]
-  },
   "2026-08-03": {
     "papers": [
       "https://arxiv.org/abs/2607.18082",
@@ -904,6 +871,39 @@
     "repos": [
       "https://github.com/jingyaogong/minimind",
       "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+    ]
+  },
+  "2026-09-02": {
+    "papers": [
+      "https://arxiv.org/abs/2608.30478",
+      "https://arxiv.org/abs/2609.00768",
+      "https://arxiv.org/abs/2609.00092",
+      "https://arxiv.org/abs/2609.01343",
+      "https://arxiv.org/abs/2609.01481",
+      "https://arxiv.org/abs/2609.00028",
+      "https://arxiv.org/abs/2609.00111",
+      "https://arxiv.org/abs/2609.00188",
+      "https://arxiv.org/abs/2608.30730",
+      "https://arxiv.org/abs/2609.01560"
+    ],
+    "blogs": [
+      "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "https://mvakde.github.io/blog/44-on-arc-1/",
+      "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "https://www.worldlabs.ai/blog/atlas",
+      "https://openai.com/index/path-to-astra/",
+      "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "https://keenableai.github.io/select-showcase/",
+      "https://github.com/mattpocock/skills",
+      "https://dev.to/cyclopt_dimitrisk/semantic-caching-isnt-a-cost-saving-hack-its-an-admission-that-most-ai-features-are-faq-bots-93j"
+    ],
+    "repos": [
+      "https://github.com/VoltAgent/awesome-design-md",
+      "https://github.com/Imbad0202/academic-research-skills",
+      "https://github.com/VectifyAI/PageIndex",
+      "https://github.com/Gitlawb/openclaude",
+      "https://github.com/NVIDIA/SkillSpector",
+      "https://github.com/apurvsinghgautam/robin"
     ]
   }
 }

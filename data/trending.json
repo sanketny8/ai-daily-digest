@@ -1,112 +1,145 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "papers": [
     {
-      "title": "Verification-Aware Training for Speculative Decoding",
-      "url": "https://arxiv.org/abs/2608.30135",
-      "summary": "Speculative decoding accelerates large language model inference by using a draft model to generate candidate tokens, which are verified by the target model in a single forward pass. Verification proce"
+      "title": "Agents in the Large: Perception-Centered Architecture for Persistent Agents",
+      "url": "https://arxiv.org/abs/2608.30478",
+      "summary": "Cognitive language agents have achieved substantial progress by equipping language models with memory, tools, and decision-making procedures, enabling agents to reason and act in interactive environme"
     },
     {
-      "title": "Weaving Visual Narratives: Agentic Image Bundle Composition Beyond Atomic Visual Matching",
-      "url": "https://arxiv.org/abs/2608.28695",
-      "summary": "Image retrieval has traditionally been formulated as a point-wise matching problem, where each candidate image is scored in isolation. However, this atomic paradigm fails to capture the complexity of "
+      "title": "DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory",
+      "url": "https://arxiv.org/abs/2609.00768",
+      "summary": "Self-play is an effective paradigm for language-model self-evolution, but without guidance, solver performance can plateau or decline across rounds. Unguided methods steer question generation with sig"
     },
     {
-      "title": "SHAPE of Chain-of-Thought in Math Reasoning",
-      "url": "https://arxiv.org/abs/2608.28600",
-      "summary": "Large language models (LLMs) achieve strong performance on mathematical reasoning benchmarks, yet the mathematically meaningful skills underlying their reasoning remain underexplored. We introduce SHA"
+      "title": "Safin-1: Safety from Within through Memory-Native State Evolution",
+      "url": "https://arxiv.org/abs/2609.00092",
+      "summary": "Long-horizon complex tasks require foundation models to accumulate information, maintain internal states, and adapt over extended interactions. Safety should be an intrinsic property of the model itse"
     },
     {
-      "title": "Dynamic Important Example Mining for Reinforcement Finetuning",
-      "url": "https://arxiv.org/abs/2608.29252",
-      "summary": "Reinforcement fine-tuning (RFT) is increasingly used to strengthen the reasoning abilities of large models, yet its effectiveness is bound by how training data are selected and used. Most data-centric"
+      "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+      "url": "https://arxiv.org/abs/2609.01343",
+      "summary": "Looped Transformers increase effective depth by iterating a shared block of layers, but most evaluations compare at fixed model size, conflating architectural advantage with extra FLOPs. We study loop"
     },
     {
-      "title": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
-      "url": "https://arxiv.org/abs/2608.31106",
-      "summary": "Recent video generators often omit audio or synthesize it in a separate stage, limiting reciprocal modeling of visual dynamics and acoustic events. We present DreamX-Creator 1.0, a compact native join"
+      "title": "Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement",
+      "url": "https://arxiv.org/abs/2609.01481",
+      "summary": "This paper studies autonomous software development, in which LLM-based coding agents transform high-level requirements into complete, functional, and usable software systems without human intervention"
     },
     {
-      "title": "Normalized Low-Rank Adaptation",
-      "url": "https://arxiv.org/abs/2608.31036",
-      "summary": "While low-rank adaptation (LoRA) is widely used for parameter-efficient model adaptation, how to regularize its training dynamics for stable and effective optimization remains underexplored. Because L"
+      "title": "UI-Venus-2 Technical Report",
+      "url": "https://arxiv.org/abs/2609.00028",
+      "summary": "Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applications remains challenging due t"
     },
     {
-      "title": "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory",
-      "url": "https://arxiv.org/abs/2608.29910",
-      "summary": "Interactive world models extend video generation from offline clip synthesis toward persistent simulation of interactive virtual worlds, enabling applications in games, robotics, embodied agents, and "
+      "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+      "url": "https://arxiv.org/abs/2609.00111",
+      "summary": "We present Qwen-Drive-1.0, an initial step towards a vision-language foundation model for autonomous driving. Qwen-Drive-1.0 retains the architecture of the pretrained vision-language model (VLM) and "
     },
     {
-      "title": "PaperBanana-Interact: Scientific Diagram Refinement with Multi-Turn Human Feedback",
-      "url": "https://arxiv.org/abs/2608.30241",
-      "summary": "Recent efforts have aimed to automate scientific diagram generation from paper content (Lin et al., 2026; Zhu et al., 2026a). However, fully satisfying an author's visual and communicative preferences"
+      "title": "ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training",
+      "url": "https://arxiv.org/abs/2609.00188",
+      "summary": "Robotic manipulation faces a fundamental scaling challenge: robust generalization demands broad physical experience, yet action-labeled robot trajectories are expensive to collect and inherently limit"
     },
     {
-      "title": "On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability",
-      "url": "https://arxiv.org/abs/2608.30320",
-      "summary": "We describe the architecture and ablations of Qwen3.8-Flash-Next, a sparse mixture-of-experts model with 125B parameters, 6B activated per token, and additional 51B parameters of n-gram embedding tabl"
+      "title": "E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation",
+      "url": "https://arxiv.org/abs/2608.30730",
+      "summary": "Long-horizon agentic tasks go beyond chaining short tasks over more interaction turns. Their evolving dynamic environments and long-range dependencies require Large Language Models (LLMs) to continual"
     },
     {
-      "title": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
-      "url": "https://arxiv.org/abs/2608.30821",
-      "summary": "Composable scene modeling aims to recover a real indoor scene as complete, editable object assets arranged as observed, giving robot simulation and embodied AI a simulation-ready replica of the real e"
+      "title": "H3-World: Turning Language Understanding into World Control",
+      "url": "https://arxiv.org/abs/2609.01560",
+      "summary": "We present H3-World, an efficient framework that turns the 33B MiniMax-H3 video generator into an interactive world model. Our key finding is that, as large video generators become more capable, langu"
     }
   ],
   "blog_posts": [
     {
-      "title": "I Followed the Appeal Path. There Was No Appeal.",
-      "url": "https://dev.to/kenielzep97/i-followed-the-appeal-path-there-was-no-appeal-25e2",
-      "author": "Self-Correcting Systems"
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "author": "anthropic.com"
     },
     {
-      "title": "The Multi-Modal Shift: How Solo Creators Are Scaling Agency-Grade Video",
-      "url": "https://medium.com/@ravinpandey.matchbest/the-multi-modal-shift-how-solo-creators-are-scaling-agency-grade-video-fb0fb9ab48d2",
-      "author": "Ravinpandey Matchbest"
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "author": "mvakde.github.io"
     },
     {
-      "title": "Write for The Common Room: Submission Guidelines",
-      "url": "https://medium.com/the-common-room/write-for-the-common-room-submission-guidelines-878e4c6ed0e6",
-      "author": "Rimsha Kiran"
+      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "author": "9to5mac.com"
     },
     {
-      "title": "How AI Creative Platforms Are Making Content Creation Easier",
-      "url": "https://medium.com/@loveleen.matchbestsoftware/how-ai-creative-platforms-are-making-content-creation-easier-cf2ce66e7489",
-      "author": "Loveleen Matchbestsoftware"
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "author": "worldlabs.ai"
     },
     {
-      "title": "\"If your entire memory gets copied... then who is the real you?\"",
-      "url": "https://rtmusafir.medium.com/if-your-entire-memory-gets-copied-then-who-is-the-real-you-0bc4545ef257",
-      "author": "R.T. Musafir"
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra/",
+      "author": "openai.com"
     },
     {
-      "title": "RAG and AI Agents in Software Testing: A Beginner’s Guide",
-      "url": "https://medium.com/@seo.testometer/rag-and-ai-agents-in-software-testing-a-beginners-guide-9965c7e29c5f",
-      "author": "TestoMeter EduTech"
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "author": "baseten.co"
     },
     {
-      "title": "Building Intelligent Applications That Create, Reason, and Transform Business Processes",
-      "url": "https://medium.com/@gracie.bolton/building-intelligent-applications-that-create-reason-and-transform-business-processes-ecc037c5f1e0",
-      "author": "Gracie Bolton"
+      "title": "Keenable SELECT: an agent that searches the web in SQL",
+      "url": "https://keenableai.github.io/select-showcase/",
+      "author": "keenableai.github.io"
     },
     {
-      "title": "DBSCAN Explained: The Clustering Algorithm That Finds Hidden Patterns and Outliers",
-      "url": "https://medium.com/@ramnalla.aws/dbscan-explained-the-clustering-algorithm-that-finds-hidden-patterns-and-outliers-72d6b7aa2aed",
-      "author": "Dheeraj Nalla"
+      "title": "AI Coding Agent Skills for Real Engineers",
+      "url": "https://github.com/mattpocock/skills",
+      "author": "github.com"
+    },
+    {
+      "title": "Semantic caching isn't a cost-saving hack. It's an admission that most \"AI features\" are FAQ bots in disguise.",
+      "url": "https://dev.to/cyclopt_dimitrisk/semantic-caching-isnt-a-cost-saving-hack-its-an-admission-that-most-ai-features-are-faq-bots-93j",
+      "author": "Dimitris Kyrkos "
     }
   ],
   "repos": [
     {
-      "name": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "stars": 56449,
+      "name": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars": 113105,
+      "language": ""
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars": 45129,
       "language": "Python"
     },
     {
-      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "stars": 13565,
+      "name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 35483,
+      "language": "Python"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 31525,
+      "language": "TypeScript"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo",
+      "stars": 15566,
+      "language": "Python"
+    },
+    {
+      "name": "apurvsinghgautam/robin",
+      "url": "https://github.com/apurvsinghgautam/robin",
+      "description": "AI-Powered Dark Web OSINT Tool",
+      "stars": 6931,
       "language": "Python"
     }
   ],
