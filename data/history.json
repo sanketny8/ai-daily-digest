@@ -1,33 +1,4 @@
 {
-  "2026-08-03": {
-    "papers": [
-      "https://arxiv.org/abs/2607.18082",
-      "https://arxiv.org/abs/2607.29025",
-      "https://arxiv.org/abs/2607.29677",
-      "https://arxiv.org/abs/2607.28675",
-      "https://arxiv.org/abs/2607.29679",
-      "https://arxiv.org/abs/2607.28415",
-      "https://arxiv.org/abs/2607.23782",
-      "https://arxiv.org/abs/2607.23802",
-      "https://arxiv.org/abs/2607.28617",
-      "http://arxiv.org/abs/2607.29678v1"
-    ],
-    "blogs": [
-      "https://frogs.vaguespac.es/",
-      "https://publicdomainreview.org/essay/ars-notoria/",
-      "https://mattbeton.com/blog/bitnet-6502.html",
-      "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
-      "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "https://dev.to/mohanvenkatakrishnan/dollars-and-rupees-without-stripe-what-building-skill-exchanges-checkout-taught-me-paypal-upi-3i8p",
-      "https://centerforhciva.medium.com/delegation-how-ai-reshapes-leaderships-oldest-question-b286fe2c9afe"
-    ],
-    "repos": [
-      "https://github.com/esengine/DeepSeek-Reasonix",
-      "https://github.com/antirez/ds4",
-      "https://github.com/Huanshere/VideoLingo"
-    ]
-  },
   "2026-08-04": {
     "papers": [
       "https://arxiv.org/abs/2608.02287",
@@ -904,6 +875,35 @@
       "https://github.com/Gitlawb/openclaude",
       "https://github.com/NVIDIA/SkillSpector",
       "https://github.com/apurvsinghgautam/robin"
+    ]
+  },
+  "2026-09-03": {
+    "papers": [
+      "https://arxiv.org/abs/2608.29607",
+      "https://arxiv.org/abs/2609.02812",
+      "https://arxiv.org/abs/2609.00591",
+      "https://arxiv.org/abs/2609.01925",
+      "https://arxiv.org/abs/2608.18972",
+      "https://arxiv.org/abs/2609.01437",
+      "https://arxiv.org/abs/2608.31111",
+      "https://arxiv.org/abs/2608.31100",
+      "https://arxiv.org/abs/2609.02749",
+      "https://arxiv.org/abs/2609.02783"
+    ],
+    "blogs": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "https://developer.meta.com/ai/models/muse-spark/",
+      "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "https://github.com/mlc-ai/web-llm",
+      "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"
+    ],
+    "repos": [
+      "https://github.com/NousResearch/hermes-agent",
+      "https://github.com/datawhalechina/hello-agents",
+      "https://github.com/PDFMathTranslate/PDFMathTranslate",
+      "https://github.com/ScrapeGraphAI/Scrapegraph-ai"
     ]
   }
 }

@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-03</strong></summary>
+
+#### Papers
+
+1. **[SnapBench: Benchmarking Snap-and-Ask Multimodal Retrieval for Mobile Interactions](https://arxiv.org/abs/2608.29607)**
+
+2. **[VibeVoice-ASR-Streaming Technical Report](https://arxiv.org/abs/2609.02812)**
+
+3. **[A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss](https://arxiv.org/abs/2609.00591)**
+
+4. **[CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing](https://arxiv.org/abs/2609.01925)**
+
+5. **[Institutional Newspapers Pipeline: Deriving billions of high quality tokens from historical newspapers](https://arxiv.org/abs/2608.18972)**
+
+6. **[HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?](https://arxiv.org/abs/2609.01437)**
+
+7. **[Aspire: Can Models Self-Evolve from Vague Goals?](https://arxiv.org/abs/2608.31111)**
+
+8. **[S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?](https://arxiv.org/abs/2608.31100)**
+
+9. **[Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://arxiv.org/abs/2609.02749)**
+
+10. **[EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](https://arxiv.org/abs/2609.02783)**
+
+
+#### Blog Posts
+
+1. **[Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)** by blog.google
+
+2. **[Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)** by developer.meta.com
+
+3. **[Can I opt out of my input or output data being used for training?](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)** by help.mistral.ai
+
+4. **[Quasar 438B: Europe's Leading AI Model](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)** by multiversecomputing.com
+
+5. **[Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)** by aisle.com
+
+6. **[WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm)** by github.com
+
+7. **[METR Report on OpenAI / Hugging Face Hacking Incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident)** by metr.org
+
+
+#### Trending Repos
+
+1. **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — The agent that grows with you ⭐ 240292
+
+2. **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** — 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 ⭐ 76613
+
+3. **[PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)** — [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero ⭐ 36644
+
+4. **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI ⭐ 30441
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-02</strong></summary>
 
 #### Papers
