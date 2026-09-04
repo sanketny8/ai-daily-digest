@@ -1,32 +1,4 @@
 {
-  "2026-08-04": {
-    "papers": [
-      "https://arxiv.org/abs/2608.02287",
-      "https://arxiv.org/abs/2608.02603",
-      "https://arxiv.org/abs/2608.02499",
-      "https://arxiv.org/abs/2608.02583",
-      "https://arxiv.org/abs/2608.00440",
-      "https://arxiv.org/abs/2608.02023",
-      "https://arxiv.org/abs/2607.29613",
-      "https://arxiv.org/abs/2608.01954",
-      "https://arxiv.org/abs/2608.02358",
-      "https://arxiv.org/abs/2608.01973"
-    ],
-    "blogs": [
-      "https://openai.com/index/ten-advances-in-mathematics/",
-      "https://localai.io/blog/why-we-write-our-own-engines/",
-      "https://github.com/garagehq/nightcrawler/",
-      "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
-      "https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p",
-      "https://armature.tech/",
-      "https://dev.to/hemapriya_kanagala/were-giving-ai-agents-more-tools-what-happens-when-the-boundaries-fail-46gh"
-    ],
-    "repos": [
-      "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "https://github.com/invoke-ai/InvokeAI",
-      "https://github.com/comet-ml/opik"
-    ]
-  },
   "2026-08-05": {
     "papers": [
       "https://arxiv.org/abs/2607.28993",
@@ -904,6 +876,34 @@
       "https://github.com/datawhalechina/hello-agents",
       "https://github.com/PDFMathTranslate/PDFMathTranslate",
       "https://github.com/ScrapeGraphAI/Scrapegraph-ai"
+    ]
+  },
+  "2026-09-04": {
+    "papers": [
+      "https://arxiv.org/abs/2609.03293",
+      "https://arxiv.org/abs/2608.26730",
+      "https://arxiv.org/abs/2609.04196",
+      "https://arxiv.org/abs/2609.04131",
+      "https://arxiv.org/abs/2609.02367",
+      "https://arxiv.org/abs/2609.03563",
+      "https://arxiv.org/abs/2609.03952",
+      "https://arxiv.org/abs/2609.03430",
+      "https://arxiv.org/abs/2609.04172",
+      "https://arxiv.org/abs/2608.27831"
+    ],
+    "blogs": [
+      "https://openai.com/index/gpt-6-astra/",
+      "https://inference-docs.cerebras.ai/models/overview",
+      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "https://ifm.ai/blog/k2/",
+      "https://arcprize.org/blog/astra",
+      "https://armature.tech/blog/which-tools-coding-agents-install",
+      "https://zed.dev/blog/agentic-xanadu",
+      "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
+    ],
+    "repos": [
+      "https://github.com/f/prompts.chat",
+      "https://github.com/ByteByteGoHq/system-design-101"
     ]
   }
 }

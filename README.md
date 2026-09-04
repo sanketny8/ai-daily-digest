@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-04</strong></summary>
+
+#### Papers
+
+1. **[PACE: Towards Surfacing Hidden Conflicts in User Requests](https://arxiv.org/abs/2609.03293)**
+
+2. **[Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training](https://arxiv.org/abs/2608.26730)**
+
+3. **[Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States](https://arxiv.org/abs/2609.04196)**
+
+4. **[Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding](https://arxiv.org/abs/2609.04131)**
+
+5. **[The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation](https://arxiv.org/abs/2609.02367)**
+
+6. **[FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow](https://arxiv.org/abs/2609.03563)**
+
+7. **[WorldReward: Reward Modeling for Camera-Conditioned World Models](https://arxiv.org/abs/2609.03952)**
+
+8. **[Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning](https://arxiv.org/abs/2609.03430)**
+
+9. **[Rethinking On-Policy Distillation of Large Language Models II: One Training Example](https://arxiv.org/abs/2609.04172)**
+
+10. **[RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests](https://arxiv.org/abs/2608.27831)**
+
+
+#### Blog Posts
+
+1. **[GPT-6 Astra](https://openai.com/index/gpt-6-astra/)** by openai.com
+
+2. **[Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)** by inference-docs.cerebras.ai
+
+3. **[Nvidia to acquire Hugging Face](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html)** by cnbc.com
+
+4. **[K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/)** by ifm.ai
+
+5. **[OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)** by arcprize.org
+
+6. **[Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)** by armature.tech
+
+7. **[Xanadu was waiting for agents](https://zed.dev/blog/agentic-xanadu)** by zed.dev
+
+8. **[20 Agentic AI Terms Every Developer Should Know (Explained Simply)](https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii)** by Sylwia Laskowska
+
+
+#### Trending Repos
+
+1. **[f/prompts.chat](https://github.com/f/prompts.chat)** — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. ⭐ 169142
+
+2. **[ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)** — Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. ⭐ 88488
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-03</strong></summary>
 
 #### Papers
