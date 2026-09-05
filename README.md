@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-05</strong></summary>
+
+#### Papers
+
+1. **[RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](https://arxiv.org/abs/2609.03199)**
+
+2. **[A Common Measure of Communication for Speech Brain-Computer Interfaces](https://arxiv.org/abs/2609.02887)**
+
+3. **[VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement](https://arxiv.org/abs/2609.03153)**
+
+4. **[Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space](https://arxiv.org/abs/2608.29188)**
+
+5. **[DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training](https://arxiv.org/abs/2609.04094)**
+
+6. **[Last Translation Benchmark](https://arxiv.org/abs/2609.04173)**
+
+7. **[QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation](https://arxiv.org/abs/2608.29253)**
+
+8. **[Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs](https://arxiv.org/abs/2609.03820)**
+
+9. **[Using Grounded Theory for Agent Behavior Analysis at Scale](https://arxiv.org/abs/2608.30391)**
+
+10. **[Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction](https://arxiv.org/abs/2609.04201)**
+
+
+#### Blog Posts
+
+1. **[Discovery of a new OpenAI agent message board](https://collusion.wiki/)** by collusion.wiki
+
+2. **[Corporate America is getting hooked on open-source AI](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)** by nytimes.com
+
+3. **[GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)** by openrouter.ai
+
+4. **[Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md)** by github.com
+
+5. **[“Next-token predictor” is the wrong mental model for LLMs](https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html)** by gmcgoldr.github.io
+
+6. **[Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)** by engineering.atspotify.com
+
+7. **[Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/)** by github.blog
+
+
+#### Trending Repos
+
+1. **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — The open source coding agent. ⭐ 204258
+
+2. **[sgl-project/sglang](https://github.com/sgl-project/sglang)** — SGLang is a high-performance serving framework for large language models and multimodal models. ⭐ 35491
+
+3. **[eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)** — Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin ⭐ 32619
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-04</strong></summary>
 
 #### Papers

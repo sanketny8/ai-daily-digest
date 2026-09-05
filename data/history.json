@@ -1,34 +1,4 @@
 {
-  "2026-08-05": {
-    "papers": [
-      "https://arxiv.org/abs/2607.28993",
-      "https://arxiv.org/abs/2608.02713",
-      "https://arxiv.org/abs/2607.26451",
-      "https://arxiv.org/abs/2608.02738",
-      "https://arxiv.org/abs/2608.04003",
-      "https://arxiv.org/abs/2608.01837",
-      "https://arxiv.org/abs/2608.03812",
-      "https://arxiv.org/abs/2608.02602",
-      "https://arxiv.org/abs/2608.02589",
-      "https://arxiv.org/abs/2608.04007"
-    ],
-    "blogs": [
-      "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "https://mistral.ai/news/shieldstral/",
-      "https://github.com/MakazhanAlpamys/Soup",
-      "https://arxiv.org/abs/2602.16763",
-      "https://www.asiae.co.kr/en/article/2026080416131786841",
-      "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "https://blog.cloudflare.com/wallets/"
-    ],
-    "repos": [
-      "https://github.com/tailwindlabs/tailwindcss",
-      "https://github.com/usestrix/strix",
-      "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
-      "https://github.com/EveryInc/compound-engineering-plugin",
-      "https://github.com/alirezarezvani/claude-skills"
-    ]
-  },
   "2026-08-06": {
     "papers": [
       "https://arxiv.org/abs/2608.05108",
@@ -904,6 +874,34 @@
     "repos": [
       "https://github.com/f/prompts.chat",
       "https://github.com/ByteByteGoHq/system-design-101"
+    ]
+  },
+  "2026-09-05": {
+    "papers": [
+      "https://arxiv.org/abs/2609.03199",
+      "https://arxiv.org/abs/2609.02887",
+      "https://arxiv.org/abs/2609.03153",
+      "https://arxiv.org/abs/2608.29188",
+      "https://arxiv.org/abs/2609.04094",
+      "https://arxiv.org/abs/2609.04173",
+      "https://arxiv.org/abs/2608.29253",
+      "https://arxiv.org/abs/2609.03820",
+      "https://arxiv.org/abs/2608.30391",
+      "https://arxiv.org/abs/2609.04201"
+    ],
+    "blogs": [
+      "https://collusion.wiki/",
+      "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "https://openrouter.ai/openai/gpt-6-astra",
+      "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/"
+    ],
+    "repos": [
+      "https://github.com/anomalyco/opencode",
+      "https://github.com/sgl-project/sglang",
+      "https://github.com/eriklindernoren/ML-From-Scratch"
     ]
   }
 }
