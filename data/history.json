@@ -1,33 +1,4 @@
 {
-  "2026-08-06": {
-    "papers": [
-      "https://arxiv.org/abs/2608.05108",
-      "https://arxiv.org/abs/2608.04926",
-      "https://arxiv.org/abs/2608.02580",
-      "https://arxiv.org/abs/2608.04505",
-      "https://arxiv.org/abs/2608.00782",
-      "https://arxiv.org/abs/2608.05042",
-      "https://arxiv.org/abs/2608.04964",
-      "https://arxiv.org/abs/2608.05013",
-      "https://arxiv.org/abs/2608.03632",
-      "https://arxiv.org/abs/2608.04570"
-    ],
-    "blogs": [
-      "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "https://blog.fogus.me/llm/born-against.html",
-      "https://www.primeintellect.ai/blog/prime-agent",
-      "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-      "https://arxiv.org/abs/2607.29377",
-      "https://dev.to/harsh2644/the-review-tax-why-81-of-developers-are-buried-in-ai-code-review-9k6"
-    ],
-    "repos": [
-      "https://github.com/addyosmani/agent-skills",
-      "https://github.com/BerriAI/litellm",
-      "https://github.com/blader/humanizer",
-      "https://github.com/browser-use/video-use",
-      "https://github.com/NVIDIA-NeMo/Speech"
-    ]
-  },
   "2026-08-07": {
     "papers": [
       "https://arxiv.org/abs/2608.05369",
@@ -902,6 +873,27 @@
       "https://github.com/anomalyco/opencode",
       "https://github.com/sgl-project/sglang",
       "https://github.com/eriklindernoren/ML-From-Scratch"
+    ]
+  },
+  "2026-09-06": {
+    "papers": [
+      "http://arxiv.org/abs/2609.04199v1",
+      "http://arxiv.org/abs/2609.04198v1",
+      "http://arxiv.org/abs/2609.04197v1",
+      "http://arxiv.org/abs/2609.04194v1",
+      "http://arxiv.org/abs/2609.04190v1",
+      "http://arxiv.org/abs/2609.04189v1",
+      "http://arxiv.org/abs/2609.04183v1",
+      "http://arxiv.org/abs/2609.04180v1",
+      "http://arxiv.org/abs/2609.04177v1",
+      "http://arxiv.org/abs/2609.04173v1"
+    ],
+    "blogs": [
+      "https://openai.robocurve.org/gpt-6-astra/",
+      "https://github.com/okf-memory/okf-agent-memory"
+    ],
+    "repos": [
+      "https://github.com/huggingface/datasets"
     ]
   }
 }

@@ -10,6 +10,47 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-06</strong></summary>
+
+#### Papers
+
+1. **[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1)**
+
+2. **[Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](http://arxiv.org/abs/2609.04198v1)**
+
+3. **[ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](http://arxiv.org/abs/2609.04197v1)**
+
+4. **[Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning](http://arxiv.org/abs/2609.04194v1)**
+
+5. **[One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing](http://arxiv.org/abs/2609.04190v1)**
+
+6. **[Robust PAC Learning of Concurrent Stochastic Games](http://arxiv.org/abs/2609.04189v1)**
+
+7. **[Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning](http://arxiv.org/abs/2609.04183v1)**
+
+8. **[Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](http://arxiv.org/abs/2609.04180v1)**
+
+9. **[A Computationally Feasible Framework for Causal Probabilistic Explanation](http://arxiv.org/abs/2609.04177v1)**
+
+10. **[Last Translation Benchmark](http://arxiv.org/abs/2609.04173v1)**
+
+
+#### Blog Posts
+
+1. **[GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)** by openai.robocurve.org
+
+2. **[OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)** by github.com
+
+
+#### Trending Repos
+
+1. **[huggingface/datasets](https://github.com/huggingface/datasets)** — 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools ⭐ 21918
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-05</strong></summary>
 
 #### Papers
