@@ -1,30 +1,4 @@
 {
-  "2026-08-07": {
-    "papers": [
-      "https://arxiv.org/abs/2608.05369",
-      "https://arxiv.org/abs/2608.06197",
-      "https://arxiv.org/abs/2608.05137",
-      "https://arxiv.org/abs/2608.06352",
-      "https://arxiv.org/abs/2608.05987",
-      "https://arxiv.org/abs/2608.05248",
-      "https://arxiv.org/abs/2608.05747",
-      "https://arxiv.org/abs/2608.05802",
-      "https://arxiv.org/abs/2608.06060",
-      "https://arxiv.org/abs/2608.05631"
-    ],
-    "blogs": [
-      "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "https://artificialanalysis.ai/?intelligence=agentic-index",
-      "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "https://www.aleksagordic.com/blog/vllm"
-    ],
-    "repos": [
-      "https://github.com/Significant-Gravitas/AutoGPT",
-      "https://github.com/unclecode/crawl4ai",
-      "https://github.com/livekit/agents"
-    ]
-  },
   "2026-08-08": {
     "papers": [
       "https://arxiv.org/abs/2608.01492",
@@ -894,6 +868,37 @@
     ],
     "repos": [
       "https://github.com/huggingface/datasets"
+    ]
+  },
+  "2026-09-07": {
+    "papers": [
+      "https://arxiv.org/abs/2609.02780",
+      "https://arxiv.org/abs/2609.04369",
+      "https://arxiv.org/abs/2609.05258",
+      "https://arxiv.org/abs/2609.04250",
+      "https://arxiv.org/abs/2609.04061",
+      "https://arxiv.org/abs/2609.04523",
+      "https://arxiv.org/abs/2609.05295",
+      "https://arxiv.org/abs/2609.04490",
+      "https://arxiv.org/abs/2609.05275",
+      "https://arxiv.org/abs/2609.05416"
+    ],
+    "blogs": [
+      "https://openai.com/index/an-alien-mind/",
+      "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b",
+      "https://dev.to/yashksaini/the-receipt-should-come-from-the-person-who-received-it-4kog",
+      "https://dev.to/kenielzep97/compare-against-the-schema-they-shipped-not-the-one-you-expected-3mb8",
+      "https://medium.com/@magicworksitscolutions/the-growing-demand-for-ai-consultation-4c6642d7e9cd",
+      "https://austindevis.medium.com/custom-ai-development-services-what-they-actually-cost-how-they-work-and-how-to-choose-the-right-0fd3b55c732e"
+    ],
+    "repos": [
+      "https://github.com/browser-use/browser-use",
+      "https://github.com/openai/whisper",
+      "https://github.com/coreyhaines31/marketingskills",
+      "https://github.com/blader/humanizer",
+      "https://github.com/llvm/llvm-project",
+      "https://github.com/ahujasid/blender-mcp"
     ]
   }
 }

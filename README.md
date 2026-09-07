@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-07</strong></summary>
+
+#### Papers
+
+1. **[ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding](https://arxiv.org/abs/2609.02780)**
+
+2. **[AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition](https://arxiv.org/abs/2609.04369)**
+
+3. **[Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization](https://arxiv.org/abs/2609.05258)**
+
+4. **[Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue](https://arxiv.org/abs/2609.04250)**
+
+5. **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061)**
+
+6. **[MaxKernel: Agentic Kernel Generation for TPUs](https://arxiv.org/abs/2609.04523)**
+
+7. **[RISE: Recursive Improvement via Self-Extrapolating Policy Distillation](https://arxiv.org/abs/2609.05295)**
+
+8. **[When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference](https://arxiv.org/abs/2609.04490)**
+
+9. **[Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference](https://arxiv.org/abs/2609.05275)**
+
+10. **[WorldSculpt: Generating Compositional Worlds from Grounded Videos](https://arxiv.org/abs/2609.05416)**
+
+
+#### Blog Posts
+
+1. **[An Alien Mind](https://openai.com/index/an-alien-mind/)** by openai.com
+
+2. **[I refused to train the AI that could replace me](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)** by restofworld.org
+
+3. **[Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches](https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b)** by Yash Kumar Saini
+
+4. **[The receipt should come from the person who received it](https://dev.to/yashksaini/the-receipt-should-come-from-the-person-who-received-it-4kog)** by Yash Kumar Saini
+
+5. **[Compare Against the Schema They Shipped, Not the One You Expected](https://dev.to/kenielzep97/compare-against-the-schema-they-shipped-not-the-one-you-expected-3mb8)** by Self-Correcting Systems
+
+6. **[The Growing Demand for AI Consultation](https://medium.com/@magicworksitscolutions/the-growing-demand-for-ai-consultation-4c6642d7e9cd)** by Magicworks ITscolutions
+
+7. **[Custom AI Development Services: What They Actually Cost, How They Work, and How to Choose the Right…](https://austindevis.medium.com/custom-ai-development-services-what-they-actually-cost-how-they-work-and-how-to-choose-the-right-0fd3b55c732e)** by Austin Devis
+
+
+#### Trending Repos
+
+1. **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. ⭐ 112811
+
+2. **[openai/whisper](https://github.com/openai/whisper)** — Robust Speech Recognition via Large-Scale Weak Supervision ⭐ 108654
+
+3. **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. ⭐ 47677
+
+4. **[blader/humanizer](https://github.com/blader/humanizer)** — Agent skill that removes signs of AI-generated writing from text ⭐ 44533
+
+5. **[llvm/llvm-project](https://github.com/llvm/llvm-project)** — The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. ⭐ 40265
+
+6. **[ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)** — Community plugin to control Blender 3D with any LLM of your choice ⭐ 27365
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-06</strong></summary>
 
 #### Papers
