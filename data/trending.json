@@ -1,136 +1,146 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "papers": [
     {
-      "title": "ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding",
-      "url": "https://arxiv.org/abs/2609.02780",
-      "summary": "Streaming video understanding is a critical capability for real-world applications, including embodied intelligence, autonomous driving, industrial monitoring, surveillance and early warning, and wear"
+      "title": "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience",
+      "url": "https://arxiv.org/abs/2609.03241",
+      "summary": "A reasoning model can improve from its own on-policy experience, but this inner loop is fragile: terminal verifiers provide reliable yet sparse supervision, while dense same-model guidance can reinfor"
     },
     {
-      "title": "AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition",
-      "url": "https://arxiv.org/abs/2609.04369",
-      "summary": "Visual Place Recognition (VPR) localizes a query image by retrieving database images of the same or nearby place, yet its robustness is often degraded by domain shifts arising from illumination, weath"
+      "title": "What Else Needs Fixing? Exploring Cost-Effective Test-Time Compute for Revision Propagation in Artifacts Generated Through Conversation",
+      "url": "https://arxiv.org/abs/2609.03254",
+      "summary": "Large Language Models (LLMs) often help users generate artifacts through iterative cycles of generation and revision in conversation. A challenge here is that, when users specify only a local change d"
     },
     {
-      "title": "Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization",
-      "url": "https://arxiv.org/abs/2609.05258",
-      "summary": "Large language models (LLMs) are increasingly used to formulate optimization models from natural-language problem descriptions, yet realistic operations research (OR) requests are often incomplete: mi"
+      "title": "Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2609.02998",
+      "summary": "On-policy distillation (OPD) accelerates post-training by providing dense token-level supervision from a frozen teacher on the student's own rollouts. Vanilla OPD applies this supervision uniformly ac"
     },
     {
-      "title": "Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue",
-      "url": "https://arxiv.org/abs/2609.04250",
-      "summary": "An avatar that holds a conversation should decide what to say and to move while saying it, yet these abilities live in separate model families: spoken dialogue models produce speech without motion, an"
+      "title": "Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing",
+      "url": "https://arxiv.org/abs/2608.24263",
+      "summary": "Change data synthesis provides a cost-effective solution for expanding training data and improving the performance of change detection models. However, existing synthesis methods typically rely on han"
     },
     {
-      "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
-      "url": "https://arxiv.org/abs/2609.04061",
-      "summary": "Large language models (LLMs) are increasingly used to edit existing code, but correctness alone is not enough: useful repairs should also be minimal, reviewable, and faithful to the original implement"
+      "title": "Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2609.03729",
+      "summary": "Despite the remarkable prowess of Vision-Language Models (VLMs) in general multimodal tasks, they remain fundamentally ``flat'' when reasoning about the physical world. We argue that this spatial bott"
     },
     {
-      "title": "MaxKernel: Agentic Kernel Generation for TPUs",
-      "url": "https://arxiv.org/abs/2609.04523",
-      "summary": "Designing and authoring high-performance custom kernels for accelerators is a complex task that requires deep hardware-level expertise. Large Language Models (LLM) can be leveraged together with real-"
+      "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+      "url": "https://arxiv.org/abs/2609.04444",
+      "summary": "Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side effect and to name that side effect as a living cr"
     },
     {
-      "title": "RISE: Recursive Improvement via Self-Extrapolating Policy Distillation",
-      "url": "https://arxiv.org/abs/2609.05295",
-      "summary": "On-policy distillation (OPD) provides dense, per-token supervision for language model post-training, but its effectiveness is bottlenecked by teacher quality: external teachers suffer from distributio"
+      "title": "Dr. Claw: An AI Scientist Workspace for Vibe Research",
+      "url": "https://arxiv.org/abs/2609.00365",
+      "summary": "Command-line coding agents (e.g., Claude Code, Gemini CLI) can already read and write files and sustain long sessions, yet end-to-end research still fragments across chat tools, IDEs, terminals, and w"
     },
     {
-      "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
-      "url": "https://arxiv.org/abs/2609.04490",
-      "summary": "Quantization is widely used to reduce the computational and memory demands of neural-network inference. In recurrent networks, however, the quantized state is stored and returned at the next time step"
+      "title": "Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2609.04720",
+      "summary": "Vision-language models (VLMs) are expected to respond helpfully to appropriate requests while withholding compliance with requests that are incorrect, unsafe, infeasible, or unanswerable. However, exi"
     },
     {
-      "title": "Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference",
-      "url": "https://arxiv.org/abs/2609.05275",
-      "summary": "Layer dropout (a.k.a. stochastic depth) has been shown to enable faster training, higher accuracy, and robustness to zero-shot layer pruning in both language and vision transformers. However, as model"
+      "title": "Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models",
+      "url": "https://arxiv.org/abs/2609.04714",
+      "summary": "Striking a balance between helpfulness and safety remains a fundamental challenge in aligning large language models. To achieve this balance, models should refuse harmful queries (e.g., \"How do I shoo"
     },
     {
-      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
-      "url": "https://arxiv.org/abs/2609.05416",
-      "summary": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes"
+      "title": "The 2026 PNPL Competition: Word Classification and Efficient Cross-Subject Generalisation in LibriBrain100",
+      "url": "https://arxiv.org/abs/2609.03231",
+      "summary": "The ambition of the 2025 PNPL competition (Landau et al., 2025) was to launch a multi-year curriculum for non-invasive speech decoding. Designed to progress from foundational tasks toward the linguist"
     }
   ],
   "blog_posts": [
     {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "author": "openai.com"
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "author": "vllm.ai"
     },
     {
-      "title": "I refused to train the AI that could replace me",
-      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
-      "author": "restofworld.org"
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://github.com/trailofbits/coop",
+      "author": "github.com"
     },
     {
-      "title": "Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches",
-      "url": "https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b",
-      "author": "Yash Kumar Saini"
+      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "author": "mistral.ai"
     },
     {
-      "title": "The receipt should come from the person who received it",
-      "url": "https://dev.to/yashksaini/the-receipt-should-come-from-the-person-who-received-it-4kog",
-      "author": "Yash Kumar Saini"
+      "title": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "author": "danluu.com"
     },
     {
-      "title": "Compare Against the Schema They Shipped, Not the One You Expected",
-      "url": "https://dev.to/kenielzep97/compare-against-the-schema-they-shipped-not-the-one-you-expected-3mb8",
-      "author": "Self-Correcting Systems"
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "author": "newsroom.arm.com"
     },
     {
-      "title": "The Growing Demand for AI Consultation",
-      "url": "https://medium.com/@magicworksitscolutions/the-growing-demand-for-ai-consultation-4c6642d7e9cd",
-      "author": "Magicworks ITscolutions"
+      "title": "My MCP integration got rejected. Almost nothing in the server had to change.",
+      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/my-mcp-integration-got-rejected-almost-nothing-in-the-server-had-to-change-npb",
+      "author": "Eugeniya Ivanova"
     },
     {
-      "title": "Custom AI Development Services: What They Actually Cost, How They Work, and How to Choose the Right…",
-      "url": "https://austindevis.medium.com/custom-ai-development-services-what-they-actually-cost-how-they-work-and-how-to-choose-the-right-0fd3b55c732e",
-      "author": "Austin Devis"
+      "title": "Building Production-Grade Secure RAG Pipelines: Lessons from Enterprise Insurance AI",
+      "url": "https://medium.com/@kunalkeshav2002/building-production-grade-secure-rag-pipelines-lessons-from-enterprise-insurance-ai-e286e9041d0c",
+      "author": "Kunalkeshav"
+    },
+    {
+      "title": "Everyone Is Talking About Making Money With AI. Here’s What’s Actually Real",
+      "url": "https://medium.com/@ashoktrainer/everyone-is-talking-about-making-money-with-ai-heres-what-s-actually-real-109c4798f63d",
+      "author": "Ashok Kumar Filix"
+    },
+    {
+      "title": "I Thought I Left Coding Behind 20 Years Ago. AI Had Other Plans.",
+      "url": "https://sarangbrahme.medium.com/i-thought-i-left-coding-behind-20-years-ago-ai-had-other-plans-b380ac2c5b1d",
+      "author": "Sarang Brahme"
     }
   ],
   "repos": [
     {
-      "name": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "stars": 112811,
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+      "stars": 81944,
       "language": "Python"
     },
     {
-      "name": "openai/whisper",
-      "url": "https://github.com/openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "stars": 108654,
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": 46630,
+      "language": "TypeScript"
+    },
+    {
+      "name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 34996,
+      "language": "Zig"
+    },
+    {
+      "name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "stars": 26172,
       "language": "Python"
     },
     {
-      "name": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "stars": 47677,
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 21029,
+      "language": "TypeScript"
+    },
+    {
+      "name": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "stars": 9955,
       "language": "JavaScript"
-    },
-    {
-      "name": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "stars": 44533,
-      "language": "Python"
-    },
-    {
-      "name": "llvm/llvm-project",
-      "url": "https://github.com/llvm/llvm-project",
-      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "stars": 40265,
-      "language": "LLVM"
-    },
-    {
-      "name": "ahujasid/blender-mcp",
-      "url": "https://github.com/ahujasid/blender-mcp",
-      "description": "Community plugin to control Blender 3D with any LLM of your choice",
-      "stars": 27365,
-      "language": "Python"
     }
   ],
   "tweets": []

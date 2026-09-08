@@ -10,6 +10,71 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-08</strong></summary>
+
+#### Papers
+
+1. **[FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience](https://arxiv.org/abs/2609.03241)**
+
+2. **[What Else Needs Fixing? Exploring Cost-Effective Test-Time Compute for Revision Propagation in Artifacts Generated Through Conversation](https://arxiv.org/abs/2609.03254)**
+
+3. **[Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation](https://arxiv.org/abs/2609.02998)**
+
+4. **[Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing](https://arxiv.org/abs/2608.24263)**
+
+5. **[Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning](https://arxiv.org/abs/2609.03729)**
+
+6. **[HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals](https://arxiv.org/abs/2609.04444)**
+
+7. **[Dr. Claw: An AI Scientist Workspace for Vibe Research](https://arxiv.org/abs/2609.00365)**
+
+8. **[Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models](https://arxiv.org/abs/2609.04720)**
+
+9. **[Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models](https://arxiv.org/abs/2609.04714)**
+
+10. **[The 2026 PNPL Competition: Word Classification and Efficient Cross-Subject Generalisation in LibriBrain100](https://arxiv.org/abs/2609.03231)**
+
+
+#### Blog Posts
+
+1. **[Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)** by vllm.ai
+
+2. **[Coop – Isolated VM Environments for Running Claude Code and Codex](https://github.com/trailofbits/coop)** by github.com
+
+3. **[Mistral raises €3B to make sovereign, open-weight AI the technology frontier](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)** by mistral.ai
+
+4. **[How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)** by danluu.com
+
+5. **[Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)** by newsroom.arm.com
+
+6. **[My MCP integration got rejected. Almost nothing in the server had to change.](https://dev.to/eugeniya_ivanova_4a58eadc/my-mcp-integration-got-rejected-almost-nothing-in-the-server-had-to-change-npb)** by Eugeniya Ivanova
+
+7. **[Building Production-Grade Secure RAG Pipelines: Lessons from Enterprise Insurance AI](https://medium.com/@kunalkeshav2002/building-production-grade-secure-rag-pipelines-lessons-from-enterprise-insurance-ai-e286e9041d0c)** by Kunalkeshav
+
+8. **[Everyone Is Talking About Making Money With AI. Here’s What’s Actually Real](https://medium.com/@ashoktrainer/everyone-is-talking-about-making-money-with-ai-heres-what-s-actually-real-109c4798f63d)** by Ashok Kumar Filix
+
+9. **[I Thought I Left Coding Behind 20 Years Ago. AI Had Other Plans.](https://sarangbrahme.medium.com/i-thought-i-left-coding-behind-20-years-ago-ai-had-other-plans-b380ac2c5b1d)** by Sarang Brahme
+
+
+#### Trending Repos
+
+1. **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta ⭐ 81944
+
+2. **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — Write HTML. Render video. Built for agents. ⭐ 46630
+
+3. **[lightpanda-io/browser](https://github.com/lightpanda-io/browser)** — Lightpanda: the headless browser designed for AI and automation ⭐ 34996
+
+4. **[openai/skills](https://github.com/openai/skills)** — Skills Catalog for Codex ⭐ 26172
+
+5. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. ⭐ 21029
+
+6. **[jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)** — Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. ⭐ 9955
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-07</strong></summary>
 
 #### Papers
