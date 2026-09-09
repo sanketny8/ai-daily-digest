@@ -1,146 +1,108 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "papers": [
     {
-      "title": "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience",
-      "url": "https://arxiv.org/abs/2609.03241",
-      "summary": "A reasoning model can improve from its own on-policy experience, but this inner loop is fragile: terminal verifiers provide reliable yet sparse supervision, while dense same-model guidance can reinfor"
+      "title": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
+      "url": "https://arxiv.org/abs/2609.05324",
+      "summary": "Vision-Language-Action (VLA) models have shown promising progress in language-conditioned robotic manipulation. However, existing datasets and benchmarks mainly evaluate task completion under predefin"
     },
     {
-      "title": "What Else Needs Fixing? Exploring Cost-Effective Test-Time Compute for Revision Propagation in Artifacts Generated Through Conversation",
-      "url": "https://arxiv.org/abs/2609.03254",
-      "summary": "Large Language Models (LLMs) often help users generate artifacts through iterative cycles of generation and revision in conversation. A challenge here is that, when users specify only a local change d"
+      "title": "CoVeR: Coverage-Based Token Pruning for Multi-View 3D Reasoning in VLMs",
+      "url": "https://arxiv.org/abs/2609.08345",
+      "summary": "Representing a 3D scene as multi-view images allows 2D VLMs to reason in 3D by reusing priors from pre-training, sidestepping the scarcity of annotated 3D data. However, it produces thousands of redun"
     },
     {
-      "title": "Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2609.02998",
-      "summary": "On-policy distillation (OPD) accelerates post-training by providing dense token-level supervision from a frozen teacher on the student's own rollouts. Vanilla OPD applies this supervision uniformly ac"
+      "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
+      "url": "https://arxiv.org/abs/2609.08936",
+      "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capa"
     },
     {
-      "title": "Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing",
-      "url": "https://arxiv.org/abs/2608.24263",
-      "summary": "Change data synthesis provides a cost-effective solution for expanding training data and improving the performance of change detection models. However, existing synthesis methods typically rely on han"
+      "title": "TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Precise Normal Estimation",
+      "url": "https://arxiv.org/abs/2609.06665",
+      "summary": "Diffusion-based models enable monocular geometry estimation, yet their pixel-space precision is limited by a shared, under-studied error source: VAE reconstruction degradation. The 8x spatial compress"
     },
     {
-      "title": "Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning",
-      "url": "https://arxiv.org/abs/2609.03729",
-      "summary": "Despite the remarkable prowess of Vision-Language Models (VLMs) in general multimodal tasks, they remain fundamentally ``flat'' when reasoning about the physical world. We argue that this spatial bott"
+      "title": "BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference",
+      "url": "https://arxiv.org/abs/2609.04971",
+      "summary": "Large Reasoning Models (LRMs) achieve superior problem-solving through extended Chain-of-Thought (CoT) generation, but the resulting key-value (KV) cache grows linearly with sequence length and create"
     },
     {
-      "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
-      "url": "https://arxiv.org/abs/2609.04444",
-      "summary": "Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price on avoiding the side effect and to name that side effect as a living cr"
+      "title": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
+      "url": "https://arxiv.org/abs/2609.09123",
+      "summary": "Autoregressive (AR) video diffusion models have shown great potential in real-time video generation. Recent methods distill pretrained bidirectional video diffusion models into causal AR students thro"
     },
     {
-      "title": "Dr. Claw: An AI Scientist Workspace for Vibe Research",
-      "url": "https://arxiv.org/abs/2609.00365",
-      "summary": "Command-line coding agents (e.g., Claude Code, Gemini CLI) can already read and write files and sustain long sessions, yet end-to-end research still fragments across chat tools, IDEs, terminals, and w"
+      "title": "Omni Interaction Agent Technical Report",
+      "url": "https://arxiv.org/abs/2609.08977",
+      "summary": "In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional para"
     },
     {
-      "title": "Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2609.04720",
-      "summary": "Vision-language models (VLMs) are expected to respond helpfully to appropriate requests while withholding compliance with requests that are incorrect, unsafe, infeasible, or unanswerable. However, exi"
+      "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+      "url": "https://arxiv.org/abs/2609.09158",
+      "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered"
     },
     {
-      "title": "Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models",
-      "url": "https://arxiv.org/abs/2609.04714",
-      "summary": "Striking a balance between helpfulness and safety remains a fundamental challenge in aligning large language models. To achieve this balance, models should refuse harmful queries (e.g., \"How do I shoo"
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.09153",
+      "summary": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating "
     },
     {
-      "title": "The 2026 PNPL Competition: Word Classification and Efficient Cross-Subject Generalisation in LibriBrain100",
-      "url": "https://arxiv.org/abs/2609.03231",
-      "summary": "The ambition of the 2025 PNPL competition (Landau et al., 2025) was to launch a multi-year curriculum for non-invasive speech decoding. Designed to progress from foundational tasks toward the linguist"
+      "title": "Reason Through the Latent! Making Latent Visual Reasoning Necessary",
+      "url": "https://arxiv.org/abs/2609.06746",
+      "summary": "Latent visual reasoning aims to perform multimodal reasoning through hidden-state computation rather than explicit textual chains of thought. However, visual information being present in a latent stat"
     }
   ],
   "blog_posts": [
     {
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "author": "vllm.ai"
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "author": "openai.com"
     },
     {
-      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "url": "https://github.com/trailofbits/coop",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "author": "blog.google"
+    },
+    {
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "author": "ai.meta.com"
+    },
+    {
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "author": "openai.com"
+    },
+    {
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "url": "https://github.com/argonautlabsai/deltafin",
       "author": "github.com"
     },
     {
-      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "author": "mistral.ai"
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "author": "openreview.net"
     },
     {
-      "title": "How well do agents use test/verification techniques?",
-      "url": "https://danluu.com/agentic-testing/",
-      "author": "danluu.com"
-    },
-    {
-      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "author": "newsroom.arm.com"
-    },
-    {
-      "title": "My MCP integration got rejected. Almost nothing in the server had to change.",
-      "url": "https://dev.to/eugeniya_ivanova_4a58eadc/my-mcp-integration-got-rejected-almost-nothing-in-the-server-had-to-change-npb",
-      "author": "Eugeniya Ivanova"
-    },
-    {
-      "title": "Building Production-Grade Secure RAG Pipelines: Lessons from Enterprise Insurance AI",
-      "url": "https://medium.com/@kunalkeshav2002/building-production-grade-secure-rag-pipelines-lessons-from-enterprise-insurance-ai-e286e9041d0c",
-      "author": "Kunalkeshav"
-    },
-    {
-      "title": "Everyone Is Talking About Making Money With AI. Here’s What’s Actually Real",
-      "url": "https://medium.com/@ashoktrainer/everyone-is-talking-about-making-money-with-ai-heres-what-s-actually-real-109c4798f63d",
-      "author": "Ashok Kumar Filix"
-    },
-    {
-      "title": "I Thought I Left Coding Behind 20 Years Ago. AI Had Other Plans.",
-      "url": "https://sarangbrahme.medium.com/i-thought-i-left-coding-behind-20-years-ago-ai-had-other-plans-b380ac2c5b1d",
-      "author": "Sarang Brahme"
+      "title": "End-to-end infrastructure for training and inferencing open weight models",
+      "url": "https://docs.appliedcompute.com",
+      "author": "docs.appliedcompute.com"
     }
   ],
   "repos": [
     {
-      "name": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-      "stars": 81944,
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "stars": 76369,
       "language": "Python"
     },
     {
-      "name": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "stars": 46630,
-      "language": "TypeScript"
-    },
-    {
-      "name": "lightpanda-io/browser",
-      "url": "https://github.com/lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "stars": 34996,
-      "language": "Zig"
-    },
-    {
-      "name": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "stars": 26172,
+      "name": "hpcaitech/Open-Sora",
+      "url": "https://github.com/hpcaitech/Open-Sora",
+      "description": "Open-Sora: Democratizing Efficient Video Production for All",
+      "stars": 29723,
       "language": "Python"
-    },
-    {
-      "name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "stars": 21029,
-      "language": "TypeScript"
-    },
-    {
-      "name": "jo-inc/camofox-browser",
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "stars": 9955,
-      "language": "JavaScript"
     }
   ],
   "tweets": []

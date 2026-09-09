@@ -1,31 +1,4 @@
 {
-  "2026-08-09": {
-    "papers": [
-      "http://arxiv.org/abs/2608.06377v1",
-      "http://arxiv.org/abs/2608.06370v1",
-      "http://arxiv.org/abs/2608.06366v1",
-      "http://arxiv.org/abs/2608.06364v1",
-      "http://arxiv.org/abs/2608.06363v1",
-      "http://arxiv.org/abs/2608.06362v1",
-      "http://arxiv.org/abs/2608.06361v1",
-      "http://arxiv.org/abs/2608.06353v1",
-      "http://arxiv.org/abs/2608.06352v1",
-      "http://arxiv.org/abs/2608.06351v1"
-    ],
-    "blogs": [
-      "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "https://medium.com/@drchristinaasare/ai-governance-isnt-a-policy-document-it-s-a-leadership-discipline-9773384e6516"
-    ],
-    "repos": [
-      "https://github.com/TauricResearch/TradingAgents",
-      "https://github.com/vllm-project/vllm",
-      "https://github.com/AgriciDaniel/claude-seo",
-      "https://github.com/kyutai-labs/pocket-tts",
-      "https://github.com/anthropics/claude-code-security-review",
-      "https://github.com/huangruiteng/loopx"
-    ]
-  },
   "2026-08-10": {
     "papers": [
       "https://arxiv.org/abs/2608.07051",
@@ -903,6 +876,33 @@
       "https://github.com/openai/skills",
       "https://github.com/mksglu/context-mode",
       "https://github.com/jo-inc/camofox-browser"
+    ]
+  },
+  "2026-09-09": {
+    "papers": [
+      "https://arxiv.org/abs/2609.05324",
+      "https://arxiv.org/abs/2609.08345",
+      "https://arxiv.org/abs/2609.08936",
+      "https://arxiv.org/abs/2609.06665",
+      "https://arxiv.org/abs/2609.04971",
+      "https://arxiv.org/abs/2609.09123",
+      "https://arxiv.org/abs/2609.08977",
+      "https://arxiv.org/abs/2609.09158",
+      "https://arxiv.org/abs/2609.09153",
+      "https://arxiv.org/abs/2609.06746"
+    ],
+    "blogs": [
+      "https://openai.com/index/navier-stokes-solution/",
+      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "https://ai.meta.com/muse/",
+      "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "https://github.com/argonautlabsai/deltafin",
+      "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "https://docs.appliedcompute.com"
+    ],
+    "repos": [
+      "https://github.com/shareAI-lab/learn-claude-code",
+      "https://github.com/hpcaitech/Open-Sora"
     ]
   }
 }

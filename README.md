@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-09</strong></summary>
+
+#### Papers
+
+1. **[RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?](https://arxiv.org/abs/2609.05324)**
+
+2. **[CoVeR: Coverage-Based Token Pruning for Multi-View 3D Reasoning in VLMs](https://arxiv.org/abs/2609.08345)**
+
+3. **[AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://arxiv.org/abs/2609.08936)**
+
+4. **[TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Precise Normal Estimation](https://arxiv.org/abs/2609.06665)**
+
+5. **[BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference](https://arxiv.org/abs/2609.04971)**
+
+6. **[Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout](https://arxiv.org/abs/2609.09123)**
+
+7. **[Omni Interaction Agent Technical Report](https://arxiv.org/abs/2609.08977)**
+
+8. **[TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](https://arxiv.org/abs/2609.09158)**
+
+9. **[Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153)**
+
+10. **[Reason Through the Latent! Making Latent Visual Reasoning Necessary](https://arxiv.org/abs/2609.06746)**
+
+
+#### Blog Posts
+
+1. **[On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)** by openai.com
+
+2. **[AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)** by blog.google
+
+3. **[Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)** by ai.meta.com
+
+4. **[ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)** by openai.com
+
+5. **[Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)** by github.com
+
+6. **[Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)** by openreview.net
+
+7. **[End-to-end infrastructure for training and inferencing open weight models](https://docs.appliedcompute.com)** by docs.appliedcompute.com
+
+
+#### Trending Repos
+
+1. **[shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** — Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 ⭐ 76369
+
+2. **[hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)** — Open-Sora: Democratizing Efficient Video Production for All ⭐ 29723
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-08</strong></summary>
 
 #### Papers
