@@ -1,108 +1,129 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "papers": [
     {
-      "title": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
-      "url": "https://arxiv.org/abs/2609.05324",
-      "summary": "Vision-Language-Action (VLA) models have shown promising progress in language-conditioned robotic manipulation. However, existing datasets and benchmarks mainly evaluate task completion under predefin"
+      "title": "DF26: We Cannot Tell Fake From Real Anymore",
+      "url": "https://arxiv.org/abs/2609.07369",
+      "summary": "We introduce DF26, a novel benchmark for detecting AI-generated videos containing fully synthetic clips produced by recent text-to-video and image-to-video models. The videos capture single-person pub"
     },
     {
-      "title": "CoVeR: Coverage-Based Token Pruning for Multi-View 3D Reasoning in VLMs",
-      "url": "https://arxiv.org/abs/2609.08345",
-      "summary": "Representing a 3D scene as multi-view images allows 2D VLMs to reason in 3D by reusing priors from pre-training, sidestepping the scarcity of annotated 3D data. However, it produces thousands of redun"
+      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+      "url": "https://arxiv.org/abs/2609.05405",
+      "summary": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longi"
     },
     {
-      "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
-      "url": "https://arxiv.org/abs/2609.08936",
-      "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capa"
+      "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
+      "url": "https://arxiv.org/abs/2609.09113",
+      "summary": "While research on recursive self-improvement (RSI) has predominantly automated model training pipelines, reliable autonomous development demands a missing pillar: post-hoc monitoring and auditing to u"
     },
     {
-      "title": "TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Precise Normal Estimation",
-      "url": "https://arxiv.org/abs/2609.06665",
-      "summary": "Diffusion-based models enable monocular geometry estimation, yet their pixel-space precision is limited by a shared, under-studied error source: VAE reconstruction degradation. The 8x spatial compress"
+      "title": "Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models",
+      "url": "https://arxiv.org/abs/2609.05779",
+      "summary": "Large language models used for code editing can be trained and deployed in at least two output regimes: direct generation, where the model emits the entire modified file in one shot, and iterative dif"
     },
     {
-      "title": "BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference",
-      "url": "https://arxiv.org/abs/2609.04971",
-      "summary": "Large Reasoning Models (LRMs) achieve superior problem-solving through extended Chain-of-Thought (CoT) generation, but the resulting key-value (KV) cache grows linearly with sequence length and create"
+      "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
+      "url": "https://arxiv.org/abs/2609.09134",
+      "summary": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can en"
     },
     {
-      "title": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
-      "url": "https://arxiv.org/abs/2609.09123",
-      "summary": "Autoregressive (AR) video diffusion models have shown great potential in real-time video generation. Recent methods distill pretrained bidirectional video diffusion models into causal AR students thro"
+      "title": "DianShi-RxnDB: A Large-Scale, Fine-Grained Organic Reaction Data Platform Built via a Fully Automated Pipeline for Researchers and AI Agents",
+      "url": "https://arxiv.org/abs/2609.06703",
+      "summary": "High-quality structured organic reaction data are essential for developing artificial intelligence for chemistry (AI4Chem), yet much of this knowledge remains dispersed across patent text, images, and"
     },
     {
-      "title": "Omni Interaction Agent Technical Report",
-      "url": "https://arxiv.org/abs/2609.08977",
-      "summary": "In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional para"
+      "title": "Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents",
+      "url": "https://arxiv.org/abs/2609.09219",
+      "summary": "AI research agents combine prior knowledge, public sources, and experimental feedback to produce useful results. The Discovery Certification Protocol (DCP) turns claims about these results into execut"
     },
     {
-      "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
-      "url": "https://arxiv.org/abs/2609.09158",
-      "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered"
+      "title": "RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems",
+      "url": "https://arxiv.org/abs/2609.09657",
+      "summary": "Existing emotional support conversation systems mainly focus on one-on-one seeker-supporter interactions and individual emotional states, leaving interpersonal relations in multi-party scenarios under"
     },
     {
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "url": "https://arxiv.org/abs/2609.09153",
-      "summary": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating "
+      "title": "Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation",
+      "url": "https://arxiv.org/abs/2609.00369",
+      "summary": "Generating co-speech gestures that are temporally coherent, semantically aligned with speech, and grounded with surrounding objects remains challenging. Prior speech-driven gesture models emphasize au"
     },
     {
-      "title": "Reason Through the Latent! Making Latent Visual Reasoning Necessary",
-      "url": "https://arxiv.org/abs/2609.06746",
-      "summary": "Latent visual reasoning aims to perform multimodal reasoning through hidden-state computation rather than explicit textual chains of thought. However, visual information being present in a latent stat"
+      "title": "AgenticGen: Reward-Guided Agentic Video Generation for Advertising",
+      "url": "https://arxiv.org/abs/2609.09187",
+      "summary": "Advertising video generation is not only a video synthesis task, but also a product-conditioned reasoning problem whose success is measured by online business metrics. Recent video foundation models c"
     }
   ],
   "blog_posts": [
     {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution/",
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "author": "magazine.sebastianraschka.com"
+    },
+    {
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "author": "gist.github.com"
+    },
+    {
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
       "author": "openai.com"
     },
     {
-      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "author": "blog.google"
+      "title": "OpenAI might have stolen another major proof",
+      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "author": "twitter.com"
     },
     {
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "author": "ai.meta.com"
-    },
-    {
-      "title": "ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-      "author": "openai.com"
-    },
-    {
-      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-      "url": "https://github.com/argonautlabsai/deltafin",
+      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "url": "https://github.com/OtoDock/oto-dock",
       "author": "github.com"
     },
     {
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "author": "openreview.net"
+      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
+      "url": "https://github.com/Atomburstofficial/geiger",
+      "author": "github.com"
     },
     {
-      "title": "End-to-end infrastructure for training and inferencing open weight models",
-      "url": "https://docs.appliedcompute.com",
-      "author": "docs.appliedcompute.com"
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "author": "hugovergnes.github.io"
     }
   ],
   "repos": [
     {
-      "name": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-      "stars": 76369,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 104179,
       "language": "Python"
     },
     {
-      "name": "hpcaitech/Open-Sora",
-      "url": "https://github.com/hpcaitech/Open-Sora",
-      "description": "Open-Sora: Democratizing Efficient Video Production for All",
-      "stars": 29723,
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "stars": 23088,
+      "language": "TypeScript"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "stars": 15168,
       "language": "Python"
+    },
+    {
+      "name": "anbeime/skill",
+      "url": "https://github.com/anbeime/skill",
+      "description": "收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curate",
+      "stars": 6479,
+      "language": "Python"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "stars": 6286,
+      "language": "JavaScript"
     }
   ],
   "tweets": []

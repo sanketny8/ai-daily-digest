@@ -1,31 +1,4 @@
 {
-  "2026-08-10": {
-    "papers": [
-      "https://arxiv.org/abs/2608.07051",
-      "https://arxiv.org/abs/2608.05219",
-      "https://arxiv.org/abs/2608.07468",
-      "https://arxiv.org/abs/2608.05597",
-      "https://arxiv.org/abs/2608.02148",
-      "https://arxiv.org/abs/2608.05703",
-      "https://arxiv.org/abs/2608.06714",
-      "https://arxiv.org/abs/2608.06640",
-      "https://arxiv.org/abs/2608.07110",
-      "https://arxiv.org/abs/2608.07222"
-    ],
-    "blogs": [
-      "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "https://openchamber.dev/",
-      "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "https://github.com/eighttrigrams/us-vs-them"
-    ],
-    "repos": [
-      "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "https://github.com/vectorize-io/hindsight",
-      "https://github.com/funstory-ai/BabelDOC",
-      "https://github.com/vladmandic/sdnext"
-    ]
-  },
   "2026-08-11": {
     "papers": [
       "https://arxiv.org/abs/2608.09420",
@@ -903,6 +876,36 @@
     "repos": [
       "https://github.com/shareAI-lab/learn-claude-code",
       "https://github.com/hpcaitech/Open-Sora"
+    ]
+  },
+  "2026-09-10": {
+    "papers": [
+      "https://arxiv.org/abs/2609.07369",
+      "https://arxiv.org/abs/2609.05405",
+      "https://arxiv.org/abs/2609.09113",
+      "https://arxiv.org/abs/2609.05779",
+      "https://arxiv.org/abs/2609.09134",
+      "https://arxiv.org/abs/2609.06703",
+      "https://arxiv.org/abs/2609.09219",
+      "https://arxiv.org/abs/2609.09657",
+      "https://arxiv.org/abs/2609.00369",
+      "https://arxiv.org/abs/2609.09187"
+    ],
+    "blogs": [
+      "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "https://openai.com/index/codex-quantum-computing-experiments/",
+      "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "https://github.com/OtoDock/oto-dock",
+      "https://github.com/Atomburstofficial/geiger",
+      "https://hugovergnes.github.io/little-lm-3-8b/"
+    ],
+    "repos": [
+      "https://github.com/TauricResearch/TradingAgents",
+      "https://github.com/pascalorg/editor",
+      "https://github.com/earthtojake/text-to-cad",
+      "https://github.com/anbeime/skill",
+      "https://github.com/openai/plugins"
     ]
   }
 }

@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-10</strong></summary>
+
+#### Papers
+
+1. **[DF26: We Cannot Tell Fake From Real Anymore](https://arxiv.org/abs/2609.07369)**
+
+2. **[WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](https://arxiv.org/abs/2609.05405)**
+
+3. **[SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](https://arxiv.org/abs/2609.09113)**
+
+4. **[Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models](https://arxiv.org/abs/2609.05779)**
+
+5. **[Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails](https://arxiv.org/abs/2609.09134)**
+
+6. **[DianShi-RxnDB: A Large-Scale, Fine-Grained Organic Reaction Data Platform Built via a Fully Automated Pipeline for Researchers and AI Agents](https://arxiv.org/abs/2609.06703)**
+
+7. **[Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents](https://arxiv.org/abs/2609.09219)**
+
+8. **[RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems](https://arxiv.org/abs/2609.09657)**
+
+9. **[Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation](https://arxiv.org/abs/2609.00369)**
+
+10. **[AgenticGen: Reward-Guided Agentic Video Generation for Advertising](https://arxiv.org/abs/2609.09187)**
+
+
+#### Blog Posts
+
+1. **[GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and)** by magazine.sebastianraschka.com
+
+2. **[Qwen 3.8 follows GPT-5.5 Pro reasoning prefills](https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3)** by gist.github.com
+
+3. **[How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)** by openai.com
+
+4. **[OpenAI might have stolen another major proof](https://twitter.com/ValerioCapraro/status/2097791836269977996)** by twitter.com
+
+5. **[Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)** by github.com
+
+6. **[Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger)** by github.com
+
+7. **[Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](https://hugovergnes.github.io/little-lm-3-8b/)** by hugovergnes.github.io
+
+
+#### Trending Repos
+
+1. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework ⭐ 104179
+
+2. **[pascalorg/editor](https://github.com/pascalorg/editor)** — Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. ⭐ 23088
+
+3. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** — A library of agent skills for CAD, CAE and CAM ⭐ 15168
+
+4. **[anbeime/skill](https://github.com/anbeime/skill)** — 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curate ⭐ 6479
+
+5. **[openai/plugins](https://github.com/openai/plugins)** — OpenAI Plugins ⭐ 6286
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-09</strong></summary>
 
 #### Papers
