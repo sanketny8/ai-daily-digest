@@ -1,129 +1,151 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "papers": [
     {
-      "title": "DF26: We Cannot Tell Fake From Real Anymore",
-      "url": "https://arxiv.org/abs/2609.07369",
-      "summary": "We introduce DF26, a novel benchmark for detecting AI-generated videos containing fully synthetic clips produced by recent text-to-video and image-to-video models. The videos capture single-person pub"
+      "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
+      "url": "https://arxiv.org/abs/2609.11412",
+      "summary": "Reducing audio-encoder depth lowers the inference cost of speech large language models, but removing complete blocks perturbs the embeddings consumed by the decoder and can cause deletion and prematur"
     },
     {
-      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
-      "url": "https://arxiv.org/abs/2609.05405",
-      "summary": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longi"
+      "title": "Generative Late-Interaction Embeddings For Visual Document Retrieval",
+      "url": "https://arxiv.org/abs/2609.11808",
+      "summary": "Late-interaction retrieval is the state-of-the-art for visual document search, but it pays for its accuracy in storage. Existing compression methods retain a subset or local average of the N~1,000 vec"
     },
     {
-      "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
-      "url": "https://arxiv.org/abs/2609.09113",
-      "summary": "While research on recursive self-improvement (RSI) has predominantly automated model training pipelines, reliable autonomous development demands a missing pillar: post-hoc monitoring and auditing to u"
+      "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
+      "url": "https://arxiv.org/abs/2609.05903",
+      "summary": "Large Language Model (LLM) agents are turning language into real-world effects, making safety necessary against both indirect prompt injections and direct harmful requests. System-level safety harness"
     },
     {
-      "title": "Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models",
-      "url": "https://arxiv.org/abs/2609.05779",
-      "summary": "Large language models used for code editing can be trained and deployed in at least two output regimes: direct generation, where the model emits the entire modified file in one shot, and iterative dif"
+      "title": "HyQuant: Hybrid-Precision Quantization for LLM Attention",
+      "url": "https://arxiv.org/abs/2608.27875",
+      "summary": "Quantization has been widely adopted in LLM training and inference to reduce cost and improve efficiency. However, low-bit quantization of the attention module often introduces large errors at very lo"
     },
     {
-      "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
-      "url": "https://arxiv.org/abs/2609.09134",
-      "summary": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can en"
+      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "url": "https://arxiv.org/abs/2609.10712",
+      "summary": "We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoi"
     },
     {
-      "title": "DianShi-RxnDB: A Large-Scale, Fine-Grained Organic Reaction Data Platform Built via a Fully Automated Pipeline for Researchers and AI Agents",
-      "url": "https://arxiv.org/abs/2609.06703",
-      "summary": "High-quality structured organic reaction data are essential for developing artificial intelligence for chemistry (AI4Chem), yet much of this knowledge remains dispersed across patent text, images, and"
+      "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
+      "url": "https://arxiv.org/abs/2609.10715",
+      "summary": "We introduce NCP-ArchPreview, a latent-space language model that pushes autoregressive pretraining beyond standard next-token prediction (NTP). Alongside NTP, the model learns through Next Concept Pre"
     },
     {
-      "title": "Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents",
-      "url": "https://arxiv.org/abs/2609.09219",
-      "summary": "AI research agents combine prior knowledge, public sources, and experimental feedback to produce useful results. The Discovery Certification Protocol (DCP) turns claims about these results into execut"
+      "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
+      "url": "https://arxiv.org/abs/2609.07064",
+      "summary": "Large Vision-Language Models (LVLMs) have achieved strong performance on diverse visual tasks, yet their ability to reconstruct and reason about the 3D structure of the scene depicted in 2D images -- "
     },
     {
-      "title": "RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems",
-      "url": "https://arxiv.org/abs/2609.09657",
-      "summary": "Existing emotional support conversation systems mainly focus on one-on-one seeker-supporter interactions and individual emotional states, leaving interpersonal relations in multi-party scenarios under"
+      "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
+      "url": "https://arxiv.org/abs/2609.11499",
+      "summary": "Code world models represent worlds as executable programs, but this representation alone does not determine how to construct a complex world. We introduce Recursive Code World Models (RCWM), a framewo"
     },
     {
-      "title": "Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation",
-      "url": "https://arxiv.org/abs/2609.00369",
-      "summary": "Generating co-speech gestures that are temporally coherent, semantically aligned with speech, and grounded with surrounding objects remains challenging. Prior speech-driven gesture models emphasize au"
+      "title": "World in World: Explore the World with World Models",
+      "url": "https://arxiv.org/abs/2609.11548",
+      "summary": "Autoregressive video world models enable interactive, long-horizon exploration, but flexible control remains challenging. Exploring a source video from new viewpoints requires the generated rollout to"
     },
     {
-      "title": "AgenticGen: Reward-Guided Agentic Video Generation for Advertising",
-      "url": "https://arxiv.org/abs/2609.09187",
-      "summary": "Advertising video generation is not only a video synthesis task, but also a product-conditioned reasoning problem whose success is measured by online business metrics. Recent video foundation models c"
+      "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+      "url": "https://arxiv.org/abs/2609.11929",
+      "summary": "We launch SenseNova-U1.5, an 8B-MoT native unified multimodal model that understands, reasons about, and generates visual content within an encoder-free and VAE-free architecture. We strengthen its vi"
     }
   ],
   "blog_posts": [
     {
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "author": "magazine.sebastianraschka.com"
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "author": "mathstodon.xyz"
     },
     {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "author": "gist.github.com"
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "author": "cognition.com"
     },
     {
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "author": "openai.com"
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "author": "developers.openai.com"
     },
     {
-      "title": "OpenAI might have stolen another major proof",
-      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
-      "author": "twitter.com"
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "author": "johndcook.com"
     },
     {
-      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "url": "https://github.com/OtoDock/oto-dock",
-      "author": "github.com"
+      "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
+      "url": "https://magic.dev/blog/pretraining#",
+      "author": "magic.dev"
     },
     {
-      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
-      "url": "https://github.com/Atomburstofficial/geiger",
-      "author": "github.com"
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "author": "anthropic.com"
     },
     {
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-      "author": "hugovergnes.github.io"
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "author": "system76.com"
+    },
+    {
+      "title": "AI Is Already Better at Coding Than Most Software Developers",
+      "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
+      "author": "Sylwia Laskowska"
+    },
+    {
+      "title": "What happens when a GPU writes memory",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+      "author": "blog.doubleword.ai"
+    },
+    {
+      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "url": "https://tokenstead.ai/models/swe-2",
+      "author": "tokenstead.ai"
     }
   ],
   "repos": [
     {
-      "name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 104179,
-      "language": "Python"
-    },
-    {
-      "name": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
-      "stars": 23088,
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline ",
+      "stars": 64437,
       "language": "TypeScript"
     },
     {
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "A library of agent skills for CAD, CAE and CAM",
-      "stars": 15168,
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "stars": 35863,
+      "language": "Rust"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "stars": 31276,
+      "language": "TypeScript"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e",
+      "stars": 18285,
+      "language": "TypeScript"
+    },
+    {
+      "name": "NVIDIA/Megatron-LM",
+      "url": "https://github.com/NVIDIA/Megatron-LM",
+      "description": "Ongoing research training transformer models at scale",
+      "stars": 17847,
       "language": "Python"
     },
     {
-      "name": "anbeime/skill",
-      "url": "https://github.com/anbeime/skill",
-      "description": "收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curate",
-      "stars": 6479,
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build voice agents with open-source models",
+      "stars": 13155,
       "language": "Python"
-    },
-    {
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "stars": 6286,
-      "language": "JavaScript"
     }
   ],
   "tweets": []

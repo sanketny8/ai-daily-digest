@@ -10,6 +10,73 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-11</strong></summary>
+
+#### Papers
+
+1. **[X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation](https://arxiv.org/abs/2609.11412)**
+
+2. **[Generative Late-Interaction Embeddings For Visual Document Retrieval](https://arxiv.org/abs/2609.11808)**
+
+3. **[EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents](https://arxiv.org/abs/2609.05903)**
+
+4. **[HyQuant: Hybrid-Precision Quantization for LLM Attention](https://arxiv.org/abs/2608.27875)**
+
+5. **[An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics](https://arxiv.org/abs/2609.10712)**
+
+6. **[NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](https://arxiv.org/abs/2609.10715)**
+
+7. **[SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem](https://arxiv.org/abs/2609.07064)**
+
+8. **[Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs](https://arxiv.org/abs/2609.11499)**
+
+9. **[World in World: Explore the World with World Models](https://arxiv.org/abs/2609.11548)**
+
+10. **[SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://arxiv.org/abs/2609.11929)**
+
+
+#### Blog Posts
+
+1. **[More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)** by mathstodon.xyz
+
+2. **[Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)** by cognition.com
+
+3. **[OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)** by developers.openai.com
+
+4. **[OpenAI’s Navier-Stokes release included a Lean 4 formal proof](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)** by johndcook.com
+
+5. **[Compute-efficient pretraining and scaling to trillion-parameter models](https://magic.dev/blog/pretraining#)** by magic.dev
+
+6. **[Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)** by anthropic.com
+
+7. **[Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)** by system76.com
+
+8. **[AI Is Already Better at Coding Than Most Software Developers](https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno)** by Sylwia Laskowska
+
+9. **[What happens when a GPU writes memory](https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory)** by blog.doubleword.ai
+
+10. **[Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1](https://tokenstead.ai/models/swe-2)** by tokenstead.ai
+
+
+#### Trending Repos
+
+1. **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline  ⭐ 64437
+
+2. **[AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)** — Hundreds of models &amp; providers. One command to find what runs on your hardware. ⭐ 35863
+
+3. **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — The open agent skills tool - npx skills ⭐ 31276
+
+4. **[nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)** — LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e ⭐ 18285
+
+5. **[NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)** — Ongoing research training transformer models at scale ⭐ 17847
+
+6. **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** — Build voice agents with open-source models ⭐ 13155
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-10</strong></summary>
 
 #### Papers
