@@ -1,34 +1,4 @@
 {
-  "2026-08-12": {
-    "papers": [
-      "https://arxiv.org/abs/2608.10720",
-      "https://arxiv.org/abs/2608.11079",
-      "https://arxiv.org/abs/2608.10299",
-      "https://arxiv.org/abs/2608.10366",
-      "https://arxiv.org/abs/2608.10692",
-      "https://arxiv.org/abs/2608.10875",
-      "https://arxiv.org/abs/2608.07645",
-      "https://arxiv.org/abs/2608.10744",
-      "https://arxiv.org/abs/2608.08477",
-      "https://arxiv.org/abs/2608.06065"
-    ],
-    "blogs": [
-      "https://stolen-thoughts.com/",
-      "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/"
-    ],
-    "repos": [
-      "https://github.com/anthropics/skills",
-      "https://github.com/huggingface/transformers",
-      "https://github.com/stablyai/orca",
-      "https://github.com/AgriciDaniel/claude-obsidian",
-      "https://github.com/LLMQuant/quant-mind",
-      "https://github.com/ShawnPana/phone-harness"
-    ]
-  },
   "2026-08-13": {
     "papers": [
       "https://arxiv.org/abs/2608.10708",
@@ -906,6 +876,41 @@
       "https://github.com/nashsu/llm_wiki",
       "https://github.com/NVIDIA/Megatron-LM",
       "https://github.com/huggingface/speech-to-speech"
+    ]
+  },
+  "2026-09-12": {
+    "papers": [
+      "https://arxiv.org/abs/2609.09143",
+      "https://arxiv.org/abs/2609.10745",
+      "https://arxiv.org/abs/2609.10445",
+      "https://arxiv.org/abs/2608.15380",
+      "https://arxiv.org/abs/2609.11085",
+      "https://arxiv.org/abs/2609.09076",
+      "https://arxiv.org/abs/2609.10539",
+      "https://arxiv.org/abs/2609.11561",
+      "https://arxiv.org/abs/2609.11699",
+      "https://arxiv.org/abs/2609.11486"
+    ],
+    "blogs": [
+      "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "https://www.rubyhack.ai/",
+      "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+      "https://dev.to/hadil/nexpath-review-can-an-ai-prompt-quality-layer-make-ai-coding-safer-24",
+      "https://dev.to/dj29/most-ai-reasoning-traces-are-just-the-answer-written-backwards-cho"
+    ],
+    "repos": [
+      "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "https://github.com/bojieli/ai-agent-book",
+      "https://github.com/volcengine/OpenViking",
+      "https://github.com/datahub-project/datahub",
+      "https://github.com/NVIDIA/garak",
+      "https://github.com/jihe520/MathModelAgent",
+      "https://github.com/armory3d/armorpaint",
+      "https://github.com/vastsa/PI-Desktop",
+      "https://github.com/jordan-gibbs/hyperresearch",
+      "https://github.com/alsk1992/CloddsBot"
     ]
   }
 }

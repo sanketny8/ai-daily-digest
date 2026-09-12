@@ -10,6 +10,75 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-12</strong></summary>
+
+#### Papers
+
+1. **[Studying Image Tokenizers as Visual Languages in Unified Multimodal Models](https://arxiv.org/abs/2609.09143)**
+
+2. **[Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking](https://arxiv.org/abs/2609.10745)**
+
+3. **[Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning](https://arxiv.org/abs/2609.10445)**
+
+4. **[Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2](https://arxiv.org/abs/2608.15380)**
+
+5. **[Beyond Solver Verdicts: Generative Reward Models for Autoformalization](https://arxiv.org/abs/2609.11085)**
+
+6. **[ActReview: Rebuttal-Guided Training Data and Rubric Rewards for Actionable Peer Review Generation](https://arxiv.org/abs/2609.09076)**
+
+7. **[IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications](https://arxiv.org/abs/2609.10539)**
+
+8. **[Memory as Plans: World-Action Modeling with Memory-Grounded Planning](https://arxiv.org/abs/2609.11561)**
+
+9. **[Negative Self-Distillation: Learning to Reason by Avoiding Flaws](https://arxiv.org/abs/2609.11699)**
+
+10. **[FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation](https://arxiv.org/abs/2609.11486)**
+
+
+#### Blog Posts
+
+1. **[Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)** by support.claude.com
+
+2. **[OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)** by rubyhack.ai
+
+3. **[A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)** by cel.cs.brown.edu
+
+4. **[RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)** by quesma.com
+
+5. **[Houthis used Anthropic to develop guided weapons](https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/)** by washingtonpost.com
+
+6. **[Nexpath Review: Can an AI Prompt Quality Layer Make AI Coding Safer?](https://dev.to/hadil/nexpath-review-can-an-ai-prompt-quality-layer-make-ai-coding-safer-24)** by Hadil Ben Abdallah
+
+7. **[Most AI "Reasoning" Traces Are Just the Answer, Written Backwards](https://dev.to/dj29/most-ai-reasoning-traces-are-just-the-answer-written-backwards-cho)** by Dhruv Jani
+
+
+#### Trending Repos
+
+1. **[SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships)** — Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC. ⭐ 47352
+
+2. **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 ⭐ 45954
+
+3. **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)** — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. ⭐ 36739
+
+4. **[datahub-project/datahub](https://github.com/datahub-project/datahub)** — The Context Platform for your Data and AI Stack ⭐ 12694
+
+5. **[NVIDIA/garak](https://github.com/NVIDIA/garak)** — the LLM vulnerability scanner ⭐ 9208
+
+6. **[jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent)** — 🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. ⭐ 4925
+
+7. **[armory3d/armorpaint](https://github.com/armory3d/armorpaint)** — Graphics Creation Tools ⭐ 4777
+
+8. **[vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)** — Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins ⭐ 2876
+
+9. **[jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch)** — Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. ⭐ 2765
+
+10. **[alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)** — Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk whi ⭐ 2238
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-11</strong></summary>
 
 #### Papers
