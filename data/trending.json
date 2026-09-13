@@ -1,164 +1,155 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "papers": [
     {
-      "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
-      "url": "https://arxiv.org/abs/2609.09143",
-      "summary": "Image tokenizers define the ``visual language'' of unified multimodal models, yet are commonly studied through isolated metrics or generation-/understanding-only evaluations. These evaluations do not "
+      "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
+      "url": "http://arxiv.org/abs/2609.11923v1",
+      "summary": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in mil"
     },
     {
-      "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
-      "url": "https://arxiv.org/abs/2609.10745",
-      "summary": "Multimodal entity linking grounds entity mentions in text and images to knowledge-base entries. These systems degrade on rare entities, but prior work measures rarity primarily through popularity-base"
+      "title": "General Quantification of Covariate and Concept Shifts",
+      "url": "http://arxiv.org/abs/2609.11918v1",
+      "summary": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from sampl"
     },
     {
-      "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
-      "url": "https://arxiv.org/abs/2609.10445",
-      "summary": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of t"
+      "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+      "url": "http://arxiv.org/abs/2609.11917v1",
+      "summary": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but"
     },
     {
-      "title": "Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2",
-      "url": "https://arxiv.org/abs/2608.15380",
-      "summary": "In systems built on Robot Operating System 2 (ROS 2) and using Data Distribution Service (DDS), a single network-impaired or throttled subscriber on a RELIABLE topic can cause backpressure that degrad"
+      "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
+      "url": "http://arxiv.org/abs/2609.11916v1",
+      "summary": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relev"
     },
     {
-      "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
-      "url": "https://arxiv.org/abs/2609.11085",
-      "summary": "Neurosymbolic systems rely on mathematical solvers to guarantee reasoning correctness, yet solvers are fundamentally blind to whether a formal translation maintains strict reference-equivalence to a d"
+      "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
+      "url": "http://arxiv.org/abs/2609.11915v1",
+      "summary": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative"
     },
     {
-      "title": "ActReview: Rebuttal-Guided Training Data and Rubric Rewards for Actionable Peer Review Generation",
-      "url": "https://arxiv.org/abs/2609.09076",
-      "summary": "As LLMs are increasingly used for pre-submission self-review, there is growing demand for feedback that not only identifies weaknesses but also guides authors toward concrete revisions. We study this "
+      "title": "Distance generalization in transformers: why bother with positional encoding?",
+      "url": "http://arxiv.org/abs/2609.11913v1",
+      "summary": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which pro"
     },
     {
-      "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
-      "url": "https://arxiv.org/abs/2609.10539",
-      "summary": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of im"
+      "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+      "url": "http://arxiv.org/abs/2609.11911v1",
+      "summary": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current "
     },
     {
-      "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
-      "url": "https://arxiv.org/abs/2609.11561",
-      "summary": "Mainstream robotic policies often adopt a Markovian formulation, but many complex real-world manipulation tasks are inherently non-Markovian, requiring long-horizon memory beyond the current observati"
+      "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
+      "url": "http://arxiv.org/abs/2609.11910v1",
+      "summary": "Artificial Intelligence does more than create a governance problem. It can also reveal where institutions have already failed to provide responsiveness, belonging, care, and accountability. Once deplo"
     },
     {
-      "title": "Negative Self-Distillation: Learning to Reason by Avoiding Flaws",
-      "url": "https://arxiv.org/abs/2609.11699",
-      "summary": "On-Policy Self-Distillation (OPSD) has emerged as a popular paradigm for large language model (LLM) self-improvement, allowing models to act as their own teachers by leveraging privileged information "
+      "title": "TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription",
+      "url": "http://arxiv.org/abs/2609.11904v1",
+      "summary": "Automatic Music Transcription (AMT) for guitar remains limited by three challenges: existing systems often fail to capture expressive techniques such as slides, bends, and percussive hits; they often "
     },
     {
-      "title": "FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation",
-      "url": "https://arxiv.org/abs/2609.11486",
-      "summary": "Optical flow methods typically rely on task-specific inductive biases, such as correlation volumes, feature warping, and iterative refinement, among others, to reach high accuracy. While effective, su"
+      "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
+      "url": "http://arxiv.org/abs/2609.11900v1",
+      "summary": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science iden"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude is only available to people over 18 years",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "author": "support.claude.com"
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "author": "withspecific.com"
     },
     {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
-      "author": "rubyhack.ai"
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "author": "tedium.co"
     },
     {
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "author": "cel.cs.brown.edu"
+      "title": "LRU is harder to beat than the KV-cache papers suggest",
+      "url": "https://github.com/gauravapiscean/agentic-kv-cache",
+      "author": "github.com"
     },
     {
-      "title": "RTK reports token savings, but our cost benchmarks disagree",
-      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-      "author": "quesma.com"
+      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "author": "techcrunch.com"
     },
     {
-      "title": "Houthis used Anthropic to develop guided weapons",
-      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
-      "author": "washingtonpost.com"
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "author": "yoshuabengio.org"
     },
     {
-      "title": "Nexpath Review: Can an AI Prompt Quality Layer Make AI Coding Safer?",
-      "url": "https://dev.to/hadil/nexpath-review-can-an-ai-prompt-quality-layer-make-ai-coding-safer-24",
-      "author": "Hadil Ben Abdallah"
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "author": "agentsdock.net"
     },
     {
-      "title": "Most AI \"Reasoning\" Traces Are Just the Answer, Written Backwards",
-      "url": "https://dev.to/dj29/most-ai-reasoning-traces-are-just-the-answer-written-backwards-cho",
-      "author": "Dhruv Jani"
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "author": "classichasclass"
+    },
+    {
+      "title": "Our Recall Was 0.087 and the Model Was Innocent: How Domain-Scoped Replay Doubled It",
+      "url": "https://dev.to/debashish_ghosal/our-recall-was-0087-and-the-model-was-innocent-how-domain-scoped-replay-doubled-it-4ci4",
+      "author": "Debashish Ghosal"
     }
   ],
   "repos": [
     {
-      "name": "SimplifyJobs/Summer2027-Internships",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
-      "stars": 47352,
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B",
+      "stars": 65575,
+      "language": "JavaScript"
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars": 30326,
       "language": "Python"
     },
     {
-      "name": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 45954,
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 23568,
+      "language": "Go"
+    },
+    {
+      "name": "petergyang/no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "stars": 8782,
       "language": "Python"
     },
     {
-      "name": "volcengine/OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "stars": 36739,
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": 7411,
       "language": "Python"
     },
     {
-      "name": "datahub-project/datahub",
-      "url": "https://github.com/datahub-project/datahub",
-      "description": "The Context Platform for your Data and AI Stack",
-      "stars": 12694,
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "stars": 7330,
+      "language": "Rust"
+    },
+    {
+      "name": "google-gemini/gemini-skills",
+      "url": "https://github.com/google-gemini/gemini-skills",
+      "description": "Skills for the Gemini API, SDK and model/agent interactions",
+      "stars": 4105,
       "language": "Python"
     },
     {
-      "name": "NVIDIA/garak",
-      "url": "https://github.com/NVIDIA/garak",
-      "description": "the LLM vulnerability scanner",
-      "stars": 9208,
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec",
+      "stars": 3727,
       "language": "Python"
-    },
-    {
-      "name": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "description": "🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "stars": 4925,
-      "language": "Python"
-    },
-    {
-      "name": "armory3d/armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "description": "Graphics Creation Tools",
-      "stars": 4777,
-      "language": "C"
-    },
-    {
-      "name": "vastsa/PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "stars": 2876,
-      "language": "TypeScript"
-    },
-    {
-      "name": "jordan-gibbs/hyperresearch",
-      "url": "https://github.com/jordan-gibbs/hyperresearch",
-      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
-      "stars": 2765,
-      "language": "Python"
-    },
-    {
-      "name": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk whi",
-      "stars": 2238,
-      "language": "TypeScript"
     }
   ],
   "tweets": []

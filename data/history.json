@@ -1,35 +1,4 @@
 {
-  "2026-08-13": {
-    "papers": [
-      "https://arxiv.org/abs/2608.10708",
-      "https://arxiv.org/abs/2608.08160",
-      "https://arxiv.org/abs/2608.06270",
-      "https://arxiv.org/abs/2608.08107",
-      "https://arxiv.org/abs/2608.12307",
-      "https://arxiv.org/abs/2608.11562",
-      "https://arxiv.org/abs/2608.11616",
-      "https://arxiv.org/abs/2608.11216",
-      "https://arxiv.org/abs/2608.12313",
-      "https://arxiv.org/abs/2608.12314"
-    ],
-    "blogs": [
-      "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-      "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "https://knownagents.com/insights",
-      "https://discoveredmaterials.com/research/",
-      "https://dev.to/zkasuran/bug-smash-restoring-dropped-gemini-chat-config-in-sentrys-javascript-sdk-2n9a",
-      "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
-      "https://dev.to/robertobutti/the-next-evolution-of-software-developers-2idh"
-    ],
-    "repos": [
-      "https://github.com/localsend/localsend",
-      "https://github.com/infiniflow/ragflow",
-      "https://github.com/hugohe3/ppt-master",
-      "https://github.com/cathrynlavery/diagram-design",
-      "https://github.com/omnigent-ai/omnigent",
-      "https://github.com/Lightricks/LTX-2"
-    ]
-  },
   "2026-08-14": {
     "papers": [
       "https://arxiv.org/abs/2608.13489",
@@ -911,6 +880,40 @@
       "https://github.com/vastsa/PI-Desktop",
       "https://github.com/jordan-gibbs/hyperresearch",
       "https://github.com/alsk1992/CloddsBot"
+    ]
+  },
+  "2026-09-13": {
+    "papers": [
+      "http://arxiv.org/abs/2609.11923v1",
+      "http://arxiv.org/abs/2609.11918v1",
+      "http://arxiv.org/abs/2609.11917v1",
+      "http://arxiv.org/abs/2609.11916v1",
+      "http://arxiv.org/abs/2609.11915v1",
+      "http://arxiv.org/abs/2609.11913v1",
+      "http://arxiv.org/abs/2609.11911v1",
+      "http://arxiv.org/abs/2609.11910v1",
+      "http://arxiv.org/abs/2609.11904v1",
+      "http://arxiv.org/abs/2609.11900v1"
+    ],
+    "blogs": [
+      "https://withspecific.com/benchmarks/real-swe",
+      "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "https://github.com/gauravapiscean/agentic-kv-cache",
+      "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "https://agentsdock.net/",
+      "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "https://dev.to/debashish_ghosal/our-recall-was-0087-and-the-model-was-innocent-how-domain-scoped-replay-doubled-it-4ci4"
+    ],
+    "repos": [
+      "https://github.com/asgeirtj/system_prompts_leaks",
+      "https://github.com/virgiliojr94/book-to-skill",
+      "https://github.com/vxcontrol/pentagi",
+      "https://github.com/petergyang/no-ai-slop",
+      "https://github.com/multimodal-art-projection/YuE",
+      "https://github.com/max-sixty/worktrunk",
+      "https://github.com/google-gemini/gemini-skills",
+      "https://github.com/SnailSploit/Claude-Red"
     ]
   }
 }

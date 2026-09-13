@@ -10,6 +10,73 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-13</strong></summary>
+
+#### Papers
+
+1. **[GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay](http://arxiv.org/abs/2609.11923v1)**
+
+2. **[General Quantification of Covariate and Concept Shifts](http://arxiv.org/abs/2609.11918v1)**
+
+3. **[Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data](http://arxiv.org/abs/2609.11917v1)**
+
+4. **[Can Edge-Deployable Vision-Language Models Identify Species?](http://arxiv.org/abs/2609.11916v1)**
+
+5. **[Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact](http://arxiv.org/abs/2609.11915v1)**
+
+6. **[Distance generalization in transformers: why bother with positional encoding?](http://arxiv.org/abs/2609.11913v1)**
+
+7. **[Artificial Id: Drive and Persistent Alignment in Agentic AI](http://arxiv.org/abs/2609.11911v1)**
+
+8. **[From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good](http://arxiv.org/abs/2609.11910v1)**
+
+9. **[TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription](http://arxiv.org/abs/2609.11904v1)**
+
+10. **[MindTopo: Can Foundation Models Reason in Topological Space?](http://arxiv.org/abs/2609.11900v1)**
+
+
+#### Blog Posts
+
+1. **[Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)** by withspecific.com
+
+2. **[The worst spam emails: iLands AI agent hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)** by tedium.co
+
+3. **[LRU is harder to beat than the KV-cache papers suggest](https://github.com/gauravapiscean/agentic-kv-cache)** by github.com
+
+4. **[OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)** by techcrunch.com
+
+5. **[Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)** by yoshuabengio.org
+
+6. **[AgentsDock: An IDE designed for agentic AI research](https://agentsdock.net/)** by agentsdock.net
+
+7. **[Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)** by classichasclass
+
+8. **[Our Recall Was 0.087 and the Model Was Innocent: How Domain-Scoped Replay Doubled It](https://dev.to/debashish_ghosal/our-recall-was-0087-and-the-model-was-innocent-how-domain-scoped-replay-doubled-it-4ci4)** by Debashish Ghosal
+
+
+#### Trending Repos
+
+1. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B ⭐ 65575
+
+2. **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. ⭐ 30326
+
+3. **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** — Fully autonomous AI Agents system capable of performing complex penetration testing tasks ⭐ 23568
+
+4. **[petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop)** — Removes 20+ patterns of AI slop from any piece of writing. ⭐ 8782
+
+5. **[multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)** — YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. ⭐ 7411
+
+6. **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows ⭐ 7330
+
+7. **[google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills)** — Skills for the Gemini API, SDK and model/agent interactions ⭐ 4105
+
+8. **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** — claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec ⭐ 3727
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-12</strong></summary>
 
 #### Papers
