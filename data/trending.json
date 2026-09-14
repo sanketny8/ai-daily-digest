@@ -1,155 +1,136 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "papers": [
     {
-      "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
-      "url": "http://arxiv.org/abs/2609.11923v1",
-      "summary": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in mil"
+      "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+      "url": "https://arxiv.org/abs/2609.11115",
+      "summary": "Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behin"
     },
     {
-      "title": "General Quantification of Covariate and Concept Shifts",
-      "url": "http://arxiv.org/abs/2609.11918v1",
-      "summary": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from sampl"
+      "title": "Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models",
+      "url": "https://arxiv.org/abs/2609.12641",
+      "summary": "Robot foundation models achieve strong in-distribution performance but often degrade under visual distribution shifts. When learning to generate actions from pretrained visual representations, models "
     },
     {
-      "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
-      "url": "http://arxiv.org/abs/2609.11917v1",
-      "summary": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but"
+      "title": "COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization",
+      "url": "https://arxiv.org/abs/2609.11682",
+      "summary": "Large language model (LLM) agents can benefit from reusable skills distilled from prior task experience, yet existing skill optimization methods often rely on costly execution-based evaluation and sub"
     },
     {
-      "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
-      "url": "http://arxiv.org/abs/2609.11916v1",
-      "summary": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relev"
+      "title": "PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization",
+      "url": "https://arxiv.org/abs/2608.30597",
+      "summary": "Direct Preference Optimization (DPO) simplifies alignment through pairwise comparisons but assumes all observed preferences are reliable. Real data often violates this assumption, leading to reversed,"
     },
     {
-      "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
-      "url": "http://arxiv.org/abs/2609.11915v1",
-      "summary": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative"
+      "title": "SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image",
+      "url": "https://arxiv.org/abs/2609.13146",
+      "summary": "Part-aware 3D asset generation enables applications such as editing, articulation, simulation, and fabrication, yet existing methods can generate visually complete individual parts without ensuring th"
     },
     {
-      "title": "Distance generalization in transformers: why bother with positional encoding?",
-      "url": "http://arxiv.org/abs/2609.11913v1",
-      "summary": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which pro"
+      "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
+      "url": "https://arxiv.org/abs/2609.13141",
+      "summary": "Post-training attention sparsification reduces the quadratic cumulative attention cost of pretrained Transformers by selecting a small set of context units (tokens or blocks) for each query. Existing "
     },
     {
-      "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
-      "url": "http://arxiv.org/abs/2609.11911v1",
-      "summary": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current "
+      "title": "Type Diversity Enables Transformers to Generalise Compositionally",
+      "url": "http://arxiv.org/abs/2609.13144v1",
+      "summary": "Compositional generalisation has been divided into lexical and structural generalisation. Previous work has found that structural generalisation is harder than lexical for Transformers. We propose tha"
     },
     {
-      "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
-      "url": "http://arxiv.org/abs/2609.11910v1",
-      "summary": "Artificial Intelligence does more than create a governance problem. It can also reveal where institutions have already failed to provide responsiveness, belonging, care, and accountability. Once deplo"
+      "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
+      "url": "http://arxiv.org/abs/2609.13141v1",
+      "summary": "Post-training attention sparsification reduces the quadratic cumulative attention cost of pretrained Transformers by selecting a small set of context units (tokens or blocks) for each query. Existing "
     },
     {
-      "title": "TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription",
-      "url": "http://arxiv.org/abs/2609.11904v1",
-      "summary": "Automatic Music Transcription (AMT) for guitar remains limited by three challenges: existing systems often fail to capture expressive techniques such as slides, bends, and percussive hits; they often "
+      "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
+      "url": "http://arxiv.org/abs/2609.13134v1",
+      "summary": "Frontier language models are more aggressively using subquadratic attention to reduce the memory footprint and compute requirements during inference while still delivering frontier accuracy. While exi"
     },
     {
-      "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
-      "url": "http://arxiv.org/abs/2609.11900v1",
-      "summary": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science iden"
+      "title": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios",
+      "url": "http://arxiv.org/abs/2609.13125v1",
+      "summary": "Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper"
     }
   ],
   "blog_posts": [
     {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "author": "withspecific.com"
-    },
-    {
-      "title": "The worst spam emails: iLands AI agent hustle",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "author": "tedium.co"
-    },
-    {
-      "title": "LRU is harder to beat than the KV-cache papers suggest",
-      "url": "https://github.com/gauravapiscean/agentic-kv-cache",
-      "author": "github.com"
-    },
-    {
-      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "author": "techcrunch.com"
     },
     {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "author": "yoshuabengio.org"
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "author": "twitter.com"
     },
     {
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "url": "https://agentsdock.net/",
-      "author": "agentsdock.net"
+      "title": "Open-source AI and open models reading list",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "author": "interconnects.ai"
     },
     {
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "author": "classichasclass"
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "author": "aprilnea.me"
     },
     {
-      "title": "Our Recall Was 0.087 and the Model Was Innocent: How Domain-Scoped Replay Doubled It",
-      "url": "https://dev.to/debashish_ghosal/our-recall-was-0087-and-the-model-was-innocent-how-domain-scoped-replay-doubled-it-4ci4",
-      "author": "Debashish Ghosal"
+      "title": "Shift Left Code Review: How Qodo Turns Your Coding Agent Into Its Own First Reviewer",
+      "url": "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc",
+      "author": "Kiran Naragund"
+    },
+    {
+      "title": "Vibe Coding Isn't the Problem. Calling It Engineering Is",
+      "url": "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1",
+      "author": "Giorgi Kobaidze"
+    },
+    {
+      "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar)🧊",
+      "url": "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2",
+      "author": "Web Developer Hyper"
     }
   ],
   "repos": [
     {
-      "name": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B",
-      "stars": 65575,
-      "language": "JavaScript"
-    },
-    {
-      "name": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "stars": 30326,
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": 165684,
       "language": "Python"
     },
     {
-      "name": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": 23568,
+      "name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "stars": 83376,
+      "language": "Python"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
+      "stars": 23863,
       "language": "Go"
     },
     {
-      "name": "petergyang/no-ai-slop",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
-      "stars": 8782,
+      "name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "stars": 5801,
+      "language": "TypeScript"
+    },
+    {
+      "name": "simonlin1212/TradingAgents-astock",
+      "url": "https://github.com/simonlin1212/TradingAgents-astock",
+      "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
+      "stars": 3313,
       "language": "Python"
     },
     {
-      "name": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "stars": 7411,
-      "language": "Python"
-    },
-    {
-      "name": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "stars": 7330,
-      "language": "Rust"
-    },
-    {
-      "name": "google-gemini/gemini-skills",
-      "url": "https://github.com/google-gemini/gemini-skills",
-      "description": "Skills for the Gemini API, SDK and model/agent interactions",
-      "stars": 4105,
-      "language": "Python"
-    },
-    {
-      "name": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec",
-      "stars": 3727,
-      "language": "Python"
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD",
+      "stars": 2343,
+      "language": "TypeScript"
     }
   ],
   "tweets": []

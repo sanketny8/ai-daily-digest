@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-14</strong></summary>
+
+#### Papers
+
+1. **[Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://arxiv.org/abs/2609.11115)**
+
+2. **[Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models](https://arxiv.org/abs/2609.12641)**
+
+3. **[COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization](https://arxiv.org/abs/2609.11682)**
+
+4. **[PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization](https://arxiv.org/abs/2608.30597)**
+
+5. **[SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image](https://arxiv.org/abs/2609.13146)**
+
+6. **[SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking](https://arxiv.org/abs/2609.13141)**
+
+7. **[Type Diversity Enables Transformers to Generalise Compositionally](http://arxiv.org/abs/2609.13144v1)**
+
+8. **[SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking](http://arxiv.org/abs/2609.13141v1)**
+
+9. **[Rethinking Heterogeneous System Disaggregation for Subquadratic Attention](http://arxiv.org/abs/2609.13134v1)**
+
+10. **[A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios](http://arxiv.org/abs/2609.13125v1)**
+
+
+#### Blog Posts
+
+1. **[Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)** by techcrunch.com
+
+2. **[David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models](https://twitter.com/DavidSacks/status/2098973625252708460)** by twitter.com
+
+3. **[Open-source AI and open models reading list](https://www.interconnects.ai/p/open-source-ai-reading-list)** by interconnects.ai
+
+4. **[Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace](https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace)** by aprilnea.me
+
+5. **[Shift Left Code Review: How Qodo Turns Your Coding Agent Into Its Own First Reviewer](https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc)** by Kiran Naragund
+
+6. **[Vibe Coding Isn't the Problem. Calling It Engineering Is](https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1)** by Giorgi Kobaidze
+
+7. **[AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar)🧊](https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2)** by Web Developer Hyper
+
+
+#### Trending Repos
+
+1. **[huggingface/transformers](https://github.com/huggingface/transformers)** — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ⭐ 165684
+
+2. **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN ⭐ 83376
+
+3. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** — Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread- ⭐ 23863
+
+4. **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** — The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. ⭐ 5801
+
+5. **[simonlin1212/TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock)** — A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。 ⭐ 3313
+
+6. **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD ⭐ 2343
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-13</strong></summary>
 
 #### Papers
