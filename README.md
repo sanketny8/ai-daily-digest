@@ -10,6 +10,69 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-15</strong></summary>
+
+#### Papers
+
+1. **[RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments](https://arxiv.org/abs/2609.15364)**
+
+2. **[HazardAuditor: From Executable Threats to Safer Computer-Use Agents](https://arxiv.org/abs/2609.15134)**
+
+3. **[Agent as Policy for Robotic Manipulation](https://arxiv.org/abs/2609.12541)**
+
+4. **[Realtime-Venus: A full-duplex interaction system with asynchronous delegation](https://arxiv.org/abs/2609.13814)**
+
+5. **[Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks](https://arxiv.org/abs/2609.15029)**
+
+6. **[Enabling Creative Exploration for Vibe Design Agents](https://arxiv.org/abs/2609.15078)**
+
+7. **[When Agents Slow Down: Understanding LLM Agents' Test-Time Strategies via Elo-per-token Analysis](https://arxiv.org/abs/2609.15309)**
+
+8. **[Atria Dawn: The Dawn of Agentic Superintelligence](https://arxiv.org/abs/2609.15818)**
+
+9. **[Kaininja: Extending Native 3D Generators to the Part Level](https://arxiv.org/abs/2609.15659)**
+
+10. **[ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://arxiv.org/abs/2609.13356)**
+
+
+#### Blog Posts
+
+1. **[OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)** by tenderlovemaking.com
+
+2. **[Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)** by macrumors.com
+
+3. **[GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review)** by entelligence.ai
+
+4. **[OpenArch – PyTorch implementations of modern LLM architectures](https://github.com/anuj0456/OpenArch)** by github.com
+
+5. **[Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/)** by patrickmccanna.net
+
+6. **[Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)** by amazon.science
+
+7. **[Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost](https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/)** by narilabs.com
+
+8. **[What Happens When AI Outgrows the Tests We Use to Measure It?](https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al)** by Hemapriya Kanagala
+
+9. **[Building a Recall Response Console With ToolJet MCP (and Examining ToolJet’s Approach to AI App Building)](https://dev.to/tooljet/building-a-recall-response-console-with-tooljet-mcp-and-examining-tooljets-approach-to-ai-app-126)** by Karan Rathod
+
+10. **[Is AI Really Better at Coding Than Most Developers? Here's the Uncomfortable Truth](https://dev.to/thebitforge/is-ai-really-better-at-coding-than-most-developers-heres-the-uncomfortable-truth-4d9)** by TheBitForge
+
+
+#### Trending Repos
+
+1. **[localsend/localsend](https://github.com/localsend/localsend)** — An open-source cross-platform alternative to AirDrop ⭐ 91470
+
+2. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. ⭐ 81596
+
+3. **[Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)** — Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required. ⭐ 37023
+
+4. **[rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** — All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages ⭐ 2220
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-14</strong></summary>
 
 #### Papers

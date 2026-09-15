@@ -1,30 +1,4 @@
 {
-  "2026-08-15": {
-    "papers": [
-      "https://arxiv.org/abs/2608.02870",
-      "https://arxiv.org/abs/2608.08020",
-      "https://arxiv.org/abs/2608.06914",
-      "https://arxiv.org/abs/2608.13391",
-      "https://arxiv.org/abs/2608.09158",
-      "https://arxiv.org/abs/2608.08606",
-      "https://arxiv.org/abs/2608.11660",
-      "https://arxiv.org/abs/2608.12440",
-      "https://arxiv.org/abs/2608.12997",
-      "http://arxiv.org/abs/2608.13560v1"
-    ],
-    "blogs": [
-      "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-      "https://hashagent.pages.dev/",
-      "https://arxiv.org/abs/2608.12700",
-      "https://medium.com/@adityakarki2009/we-created-ai-but-is-ai-changing-us-5c388a530d53"
-    ],
-    "repos": [
-      "https://github.com/harry0703/MoneyPrinterTurbo",
-      "https://github.com/exo-explore/exo",
-      "https://github.com/ToolJet/ToolJet",
-      "https://github.com/holaboss-ai/holaOS"
-    ]
-  },
   "2026-08-16": {
     "papers": [
       "http://arxiv.org/abs/2608.13558v1",
@@ -916,6 +890,38 @@
       "https://github.com/tech-leads-club/agent-skills",
       "https://github.com/simonlin1212/TradingAgents-astock",
       "https://github.com/melgarafael/DeskcommCRM"
+    ]
+  },
+  "2026-09-15": {
+    "papers": [
+      "https://arxiv.org/abs/2609.15364",
+      "https://arxiv.org/abs/2609.15134",
+      "https://arxiv.org/abs/2609.12541",
+      "https://arxiv.org/abs/2609.13814",
+      "https://arxiv.org/abs/2609.15029",
+      "https://arxiv.org/abs/2609.15078",
+      "https://arxiv.org/abs/2609.15309",
+      "https://arxiv.org/abs/2609.15818",
+      "https://arxiv.org/abs/2609.15659",
+      "https://arxiv.org/abs/2609.13356"
+    ],
+    "blogs": [
+      "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "https://github.com/anuj0456/OpenArch",
+      "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+      "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
+      "https://dev.to/tooljet/building-a-recall-response-console-with-tooljet-mcp-and-examining-tooljets-approach-to-ai-app-126",
+      "https://dev.to/thebitforge/is-ai-really-better-at-coding-than-most-developers-heres-the-uncomfortable-truth-4d9"
+    ],
+    "repos": [
+      "https://github.com/localsend/localsend",
+      "https://github.com/Panniantong/Agent-Reach",
+      "https://github.com/Crosstalk-Solutions/project-nomad",
+      "https://github.com/rlaope/oh-my-hermes"
     ]
   }
 }
