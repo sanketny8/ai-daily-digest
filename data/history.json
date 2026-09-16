@@ -1,32 +1,4 @@
 {
-  "2026-08-16": {
-    "papers": [
-      "http://arxiv.org/abs/2608.13558v1",
-      "http://arxiv.org/abs/2608.13555v1",
-      "http://arxiv.org/abs/2608.13554v1",
-      "http://arxiv.org/abs/2608.13549v1",
-      "http://arxiv.org/abs/2608.13547v1",
-      "http://arxiv.org/abs/2608.13545v1",
-      "http://arxiv.org/abs/2608.13538v1",
-      "http://arxiv.org/abs/2608.13524v1",
-      "http://arxiv.org/abs/2608.13522v1"
-    ],
-    "blogs": [
-      "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-      "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
-      "https://dev.to/himanshu_748/i-bought-a-6-share-and-learned-the-hard-way-building-fined-saathi-in-10-days-1980",
-      "https://medium.com/@mdsamiul77224/ai-automation-actually-pays-off-for-small-businesses-right-now-4ca75a29f09d",
-      "https://medium.com/@automation.labs/ai-prompts-sell-for-4-99-the-marketplace-has-310-000-of-them-b3c4ed4e7270",
-      "https://ai.gopubby.com/everything-you-were-told-about-ai-is-fatally-wrong-28078540ad7e"
-    ],
-    "repos": [
-      "https://github.com/HKUDS/CLI-Anything",
-      "https://github.com/whiteguo233/OpenBiliClaw",
-      "https://github.com/Leutenegger/book-to-skill",
-      "https://github.com/vercel-labs/eve-software-factory-template",
-      "https://github.com/NousResearch/Hermes-Bot-Mode"
-    ]
-  },
   "2026-08-17": {
     "papers": [
       "https://arxiv.org/abs/2608.14138",
@@ -922,6 +894,40 @@
       "https://github.com/Panniantong/Agent-Reach",
       "https://github.com/Crosstalk-Solutions/project-nomad",
       "https://github.com/rlaope/oh-my-hermes"
+    ]
+  },
+  "2026-09-16": {
+    "papers": [
+      "https://arxiv.org/abs/2609.16204",
+      "https://arxiv.org/abs/2609.17320",
+      "https://arxiv.org/abs/2609.11873",
+      "https://arxiv.org/abs/2609.17524",
+      "https://arxiv.org/abs/2609.17521",
+      "https://arxiv.org/abs/2609.13680",
+      "https://arxiv.org/abs/2609.13770",
+      "https://arxiv.org/abs/2609.15972",
+      "https://arxiv.org/abs/2609.15975",
+      "https://arxiv.org/abs/2609.16679"
+    ],
+    "blogs": [
+      "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "https://www.effort.news/irregular",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "https://www.formas.ai/cartesian",
+      "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+      "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "https://github.com/pizza-bot-app/pizza-bot",
+      "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9",
+      "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh"
+    ],
+    "repos": [
+      "https://github.com/earendil-works/pi",
+      "https://github.com/addyosmani/agent-skills",
+      "https://github.com/danny-avila/LibreChat",
+      "https://github.com/anthropics/claude-plugins-official",
+      "https://github.com/Jeffallan/claude-skills",
+      "https://github.com/pacifio/atlas"
     ]
   }
 }

@@ -10,6 +10,73 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-16</strong></summary>
+
+#### Papers
+
+1. **[Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration](https://arxiv.org/abs/2609.16204)**
+
+2. **[Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems](https://arxiv.org/abs/2609.17320)**
+
+3. **[The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement](https://arxiv.org/abs/2609.11873)**
+
+4. **[Modality-Autoregressive World-Action Models](https://arxiv.org/abs/2609.17524)**
+
+5. **[PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control](https://arxiv.org/abs/2609.17521)**
+
+6. **[Drift-Constrained Optimization: Only Direction Matters in Fine-Tuning Instruct Models](https://arxiv.org/abs/2609.13680)**
+
+7. **[Training Specialist Models without Reasoning Trajectories for Domain Expert Distillation](https://arxiv.org/abs/2609.13770)**
+
+8. **[Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States](https://arxiv.org/abs/2609.15972)**
+
+9. **[Disentangling Representation Evolution in Transformers through Directional Decomposition](https://arxiv.org/abs/2609.15975)**
+
+10. **[AI for Games in the Foundation Model Era](https://arxiv.org/abs/2609.16679)**
+
+
+#### Blog Posts
+
+1. **[Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)** by typesafe.ai
+
+2. **[A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)** by effort.news
+
+3. **[Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)** by blog.google
+
+4. **[Why I'm still bearish on LLMs after Navier-Stokes](https://dank.systems/posts/2026-09-15-ai-bear.html)** by dank.systems
+
+5. **[Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)** by formas.ai
+
+6. **[AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC](https://www.bbc.com/news/articles/cqgk5e2j0gg8o)** by bbc.com
+
+7. **[Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)** by blog.cloudflare.com
+
+8. **[Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot)** by github.com
+
+9. **[AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did.](https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9)** by Dhruv Jani
+
+10. **[The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer](https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh)** by Elmar Chavez
+
+
+#### Trending Repos
+
+1. **[earendil-works/pi](https://github.com/earendil-works/pi)** — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI ⭐ 105941
+
+2. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents. ⭐ 94972
+
+3. **[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me ⭐ 43967
+
+4. **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official, Anthropic-managed directory of high quality Claude Code Plugins. ⭐ 36384
+
+5. **[Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)** — 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. ⭐ 11540
+
+6. **[pacifio/atlas](https://github.com/pacifio/atlas)** — Source control for agents. Use multiple coding agents, track their changes and query them in one place ⭐ 4729
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-15</strong></summary>
 
 #### Papers
