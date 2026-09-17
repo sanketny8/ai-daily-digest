@@ -10,6 +10,73 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-17</strong></summary>
+
+#### Papers
+
+1. **[Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents](https://arxiv.org/abs/2609.17708)**
+
+2. **[SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization](https://arxiv.org/abs/2609.14320)**
+
+3. **[ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models](https://arxiv.org/abs/2609.18487)**
+
+4. **[A Zeroth-Order Paradigm for LLM Preference Alignment](https://arxiv.org/abs/2609.19144)**
+
+5. **[Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control](https://arxiv.org/abs/2609.17909)**
+
+6. **[HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses](https://arxiv.org/abs/2609.15938)**
+
+7. **[Agora: Git as Shared Memory for Collective AutoResearch](https://arxiv.org/abs/2609.18094)**
+
+8. **[VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention](https://arxiv.org/abs/2609.15810)**
+
+9. **[EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents](https://arxiv.org/abs/2609.17632)**
+
+10. **[ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://arxiv.org/abs/2609.19134)**
+
+
+#### Blog Posts
+
+1. **[Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)** by mistral.ai
+
+2. **[Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)** by rohanbansal.com
+
+3. **[Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)** by mimo.xiaomi.com
+
+4. **[A warning about 'model welfare'](https://mustafa-suleyman.ai/a-warning-about-model-welfare)** by mustafa-suleyman.ai
+
+5. **[Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://stale.jock.pl/)** by stale.jock.pl
+
+6. **[Training Text-to-Image Models 3.6× Faster](https://www.linum.ai/field-notes/jit-ddt)** by linum.ai
+
+7. **[A Letter from a Machine Learning Engineer](https://nemin.hu/llm-letter/index.html)** by nemin
+
+8. **[OpenAI discloses six new AI safety incidents](https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure)** by axios.com
+
+
+#### Trending Repos
+
+1. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows  ⭐ 145656
+
+2. **[supabase/supabase](https://github.com/supabase/supabase)** — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. ⭐ 109876
+
+3. **[cline/cline](https://github.com/cline/cline)** — Autonomous coding agent as an SDK, IDE extension, or CLI assistant. ⭐ 68465
+
+4. **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create. ⭐ 54555
+
+5. **[wshobson/agents](https://github.com/wshobson/agents)** — Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi ⭐ 39747
+
+6. **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform - AI Chat with advanced features that works with every LLM ⭐ 32144
+
+7. **[Tencent/WeKnora](https://github.com/Tencent/WeKnora)** — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. ⭐ 25655
+
+8. **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork ⭐ 24365
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-16</strong></summary>
 
 #### Papers

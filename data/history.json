@@ -1,37 +1,4 @@
 {
-  "2026-08-17": {
-    "papers": [
-      "https://arxiv.org/abs/2608.14138",
-      "https://arxiv.org/abs/2608.13417",
-      "https://arxiv.org/abs/2608.14290",
-      "https://arxiv.org/abs/2608.11612",
-      "https://arxiv.org/abs/2608.14530",
-      "http://arxiv.org/abs/2608.14539v1",
-      "http://arxiv.org/abs/2608.14530v1",
-      "http://arxiv.org/abs/2608.14528v1",
-      "http://arxiv.org/abs/2608.14522v1",
-      "http://arxiv.org/abs/2608.14511v1"
-    ],
-    "blogs": [
-      "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "https://vectoral.com/blog/who-are-the-token-brokers",
-      "https://www.anthropic.com/research/multiagent-systems",
-      "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
-      "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "https://math-ai-org.github.io/mathcode/",
-      "https://arxiv.org/abs/2608.13122",
-      "https://dev.to/lovestaco/how-we-got-an-llm-to-draw-charts-without-ever-touching-a-pixel-1i21"
-    ],
-    "repos": [
-      "https://github.com/xai-org/grok-1",
-      "https://github.com/google-research/timesfm",
-      "https://github.com/jundot/omlx",
-      "https://github.com/THUDM/slime",
-      "https://github.com/0xSero/ai-data-extraction",
-      "https://github.com/0xsline/awesome-deepseek-harness"
-    ]
-  },
   "2026-08-18": {
     "papers": [
       "https://arxiv.org/abs/2608.16721",
@@ -928,6 +895,40 @@
       "https://github.com/anthropics/claude-plugins-official",
       "https://github.com/Jeffallan/claude-skills",
       "https://github.com/pacifio/atlas"
+    ]
+  },
+  "2026-09-17": {
+    "papers": [
+      "https://arxiv.org/abs/2609.17708",
+      "https://arxiv.org/abs/2609.14320",
+      "https://arxiv.org/abs/2609.18487",
+      "https://arxiv.org/abs/2609.19144",
+      "https://arxiv.org/abs/2609.17909",
+      "https://arxiv.org/abs/2609.15938",
+      "https://arxiv.org/abs/2609.18094",
+      "https://arxiv.org/abs/2609.15810",
+      "https://arxiv.org/abs/2609.17632",
+      "https://arxiv.org/abs/2609.19134"
+    ],
+    "blogs": [
+      "https://mistral.ai/news/mistral-x-mozilla/",
+      "https://rohanbansal.com/qorl",
+      "https://mimo.xiaomi.com/rl/",
+      "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+      "https://stale.jock.pl/",
+      "https://www.linum.ai/field-notes/jit-ddt",
+      "https://nemin.hu/llm-letter/index.html",
+      "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure"
+    ],
+    "repos": [
+      "https://github.com/anthropics/claude-code",
+      "https://github.com/supabase/supabase",
+      "https://github.com/cline/cline",
+      "https://github.com/jamiepine/voicebox",
+      "https://github.com/wshobson/agents",
+      "https://github.com/onyx-dot-app/onyx",
+      "https://github.com/Tencent/WeKnora",
+      "https://github.com/anthropics/knowledge-work-plugins"
     ]
   }
 }
