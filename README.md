@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-18</strong></summary>
+
+#### Papers
+
+1. **[PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?](https://arxiv.org/abs/2609.18605)**
+
+2. **[WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing](https://arxiv.org/abs/2609.20423)**
+
+3. **[RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2609.20784)**
+
+4. **[When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models](https://arxiv.org/abs/2609.19671)**
+
+5. **[Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents](https://arxiv.org/abs/2609.17653)**
+
+6. **[What Does Privileged Information Add to On-Policy Self-Distillation?](https://arxiv.org/abs/2609.20612)**
+
+7. **[DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://arxiv.org/abs/2609.19969)**
+
+8. **[UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation](https://arxiv.org/abs/2609.12397)**
+
+9. **[Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation](https://arxiv.org/abs/2609.20744)**
+
+10. **[JEPA-Anything: Learning Predictive Models across Different Worlds](https://arxiv.org/abs/2609.20800)**
+
+
+#### Blog Posts
+
+1. **[Astra for Law](https://openai.com/index/astra-for-law/)** by openai.com
+
+2. **[Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)** by bend-lang.com
+
+3. **[How GLM built its own inference infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)** by z.ai
+
+4. **[Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)** by hacktron.ai
+
+5. **[OpenAI models secretly generate instructions to ignore constraints](https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/)** by alignment.openai.com
+
+6. **[Canto: A speech model built for the real world](https://wisprflow.ai/canto)** by wisprflow.ai
+
+7. **[Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/)** by skillbay.sh
+
+8. **[Show a model your old code and it writes your old bugs: 32 runs, 0% reuse](https://dev.to/remdore/show-a-model-your-old-code-and-it-writes-your-old-bugs-32-runs-0-reuse-2epm)** by Remdore
+
+
+#### Trending Repos
+
+1. **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** — Breakthrough Method for Agile Ai Driven Development ⭐ 53165
+
+2. **[google-research/timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. ⭐ 33051
+
+3. **[coder/coder](https://github.com/coder/coder)** — Secure environments for developers and their agents ⭐ 14946
+
+4. **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings ⭐ 11164
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-17</strong></summary>
 
 #### Papers

@@ -1,35 +1,4 @@
 {
-  "2026-08-18": {
-    "papers": [
-      "https://arxiv.org/abs/2608.16721",
-      "https://arxiv.org/abs/2608.15265",
-      "https://arxiv.org/abs/2608.15304",
-      "https://arxiv.org/abs/2608.14783",
-      "https://arxiv.org/abs/2608.13900",
-      "https://arxiv.org/abs/2608.12898",
-      "https://arxiv.org/abs/2608.12571",
-      "https://arxiv.org/abs/2608.13987",
-      "https://arxiv.org/abs/2608.13760",
-      "https://arxiv.org/abs/2608.13567"
-    ],
-    "blogs": [
-      "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "https://blog.roboflow.com/openai-gpt-5-6/",
-      "https://openrouter.ai/openai/gpt-5.6-sol",
-      "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "https://blog.roboflow.com/roboflow-playground/"
-    ],
-    "repos": [
-      "https://github.com/santifer/career-ops",
-      "https://github.com/mvanhorn/last30days-skill",
-      "https://github.com/microsoft/qlib",
-      "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "https://github.com/Blaizzy/mlx-audio",
-      "https://github.com/anthropics/defending-code-reference-harness"
-    ]
-  },
   "2026-08-19": {
     "papers": [
       "https://arxiv.org/abs/2608.17988",
@@ -929,6 +898,36 @@
       "https://github.com/onyx-dot-app/onyx",
       "https://github.com/Tencent/WeKnora",
       "https://github.com/anthropics/knowledge-work-plugins"
+    ]
+  },
+  "2026-09-18": {
+    "papers": [
+      "https://arxiv.org/abs/2609.18605",
+      "https://arxiv.org/abs/2609.20423",
+      "https://arxiv.org/abs/2609.20784",
+      "https://arxiv.org/abs/2609.19671",
+      "https://arxiv.org/abs/2609.17653",
+      "https://arxiv.org/abs/2609.20612",
+      "https://arxiv.org/abs/2609.19969",
+      "https://arxiv.org/abs/2609.12397",
+      "https://arxiv.org/abs/2609.20744",
+      "https://arxiv.org/abs/2609.20800"
+    ],
+    "blogs": [
+      "https://openai.com/index/astra-for-law/",
+      "https://bend-lang.com/",
+      "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "https://www.hacktron.ai/blog/hacking-openai",
+      "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+      "https://wisprflow.ai/canto",
+      "https://skillbay.sh/",
+      "https://dev.to/remdore/show-a-model-your-old-code-and-it-writes-your-old-bugs-32-runs-0-reuse-2epm"
+    ],
+    "repos": [
+      "https://github.com/bmad-code-org/BMAD-METHOD",
+      "https://github.com/google-research/timesfm",
+      "https://github.com/coder/coder",
+      "https://github.com/cloudflare/security-audit-skill"
     ]
   }
 }
