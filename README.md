@@ -10,6 +10,69 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-19</strong></summary>
+
+#### Papers
+
+1. **[Verifiable Social Reasoning for LLM Assistants](https://arxiv.org/abs/2609.17496)**
+
+2. **[Self-Evolving Search Index](https://arxiv.org/abs/2609.19656)**
+
+3. **[Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling](https://arxiv.org/abs/2609.19499)**
+
+4. **[VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering](https://arxiv.org/abs/2609.19879)**
+
+5. **[Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL](https://arxiv.org/abs/2609.20715)**
+
+6. **[Srijika: OpenType-Layout-Reusing Font Restyling for Nine Indic Scripts](https://arxiv.org/abs/2609.05661)**
+
+7. **[Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model](https://arxiv.org/abs/2609.18323)**
+
+8. **[FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations](https://arxiv.org/abs/2609.20817)**
+
+9. **[When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation](https://arxiv.org/abs/2609.20511)**
+
+10. **[Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](http://arxiv.org/abs/2609.20822v1)**
+
+
+#### Blog Posts
+
+1. **[Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)** by code.claude.com
+
+2. **[Two parallel neural ectoderm progenitors contribute to the developing brain](https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/)** by newscientist.com
+
+3. **[How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)** by spectrum.ieee.org
+
+4. **[Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)** by scmp.com
+
+5. **[AI chatbots are becoming experts at changing people's minds](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)** by science.org
+
+6. **[Gemini hacked three companies in first known breakout by Google's AI](https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/)** by reuters.com
+
+7. **[How to make a fool of yourself 101](https://dev.to/unitbuilds/how-to-make-a-fool-of-yourself-101-39op)** by UnitBuilds
+
+
+#### Trending Repos
+
+1. **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. ⭐ 89803
+
+2. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** — Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more. ⭐ 76405
+
+3. **[Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)** — Spec-driven development (SDD) for AI coding assistants. ⭐ 69452
+
+4. **[rustfs/rustfs](https://github.com/rustfs/rustfs)** — RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. ⭐ 33236
+
+5. **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w ⭐ 31599
+
+6. **[supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)** — Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. ⭐ 30395
+
+7. **[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)** — The absolute trainer to light up AI agents. ⭐ 18350
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-18</strong></summary>
 
 #### Papers
