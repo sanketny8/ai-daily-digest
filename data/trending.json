@@ -1,143 +1,143 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "papers": [
     {
-      "title": "Verifiable Social Reasoning for LLM Assistants",
-      "url": "https://arxiv.org/abs/2609.17496",
-      "summary": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns "
+      "title": "Embedding Models Measure in Peculiar Ways",
+      "url": "http://arxiv.org/abs/2609.20821v1",
+      "summary": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective"
     },
     {
-      "title": "Self-Evolving Search Index",
-      "url": "https://arxiv.org/abs/2609.19656",
-      "summary": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs. Because retrieval relies on an index that represents each document through index"
-    },
-    {
-      "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
-      "url": "https://arxiv.org/abs/2609.19499",
-      "summary": "Test-time scaling can improve large language model reasoning by generating and combining multiple candidate responses. In sampling-based methods, the inference budget is often described by the number "
-    },
-    {
-      "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
-      "url": "https://arxiv.org/abs/2609.19879",
-      "summary": "Question answering has advanced rapidly with large language models, but predominantly for high-resource languages, in both text and spoken settings. Spoken question answering (SQA) benchmark for Telug"
-    },
-    {
-      "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
-      "url": "https://arxiv.org/abs/2609.20715",
-      "summary": "Agent trajectories record what an agent does and what happens next. Yet standard supervised fine-tuning (SFT) applies loss only to agent-authored action tokens, using environment observations as conte"
-    },
-    {
-      "title": "Srijika: OpenType-Layout-Reusing Font Restyling for Nine Indic Scripts",
-      "url": "https://arxiv.org/abs/2609.05661",
-      "summary": "We present Srijika, a system for producing installable OpenType fonts for nine Brahmic scripts: Devanagari, Tamil, Bengali, Telugu, Kannada, Malayalam, Gujarati, Gurmukhi, and Odia. Rather than genera"
-    },
-    {
-      "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
-      "url": "https://arxiv.org/abs/2609.18323",
-      "summary": "Recent Omni-Modal Generative Models (Omni-Models) have advanced content generation toward unified modeling of text, images, video, and audio. MiniMax-H3 exemplifies this transition by combining multim"
+      "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+      "url": "http://arxiv.org/abs/2609.20820v1",
+      "summary": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades perf"
     },
     {
       "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
-      "url": "https://arxiv.org/abs/2609.20817",
+      "url": "http://arxiv.org/abs/2609.20817v1",
       "summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a "
     },
     {
-      "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2609.20511",
-      "summary": "We study length inflation in on-policy distillation (OPD), where student responses can become excessively long and even exhaust the generation budget. We identify termination-token mismatch between ba"
+      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+      "url": "http://arxiv.org/abs/2609.20816v1",
+      "summary": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, ed"
     },
     {
-      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-      "url": "http://arxiv.org/abs/2609.20822v1",
-      "summary": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spec"
+      "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
+      "url": "http://arxiv.org/abs/2609.20815v1",
+      "summary": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these "
+    },
+    {
+      "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
+      "url": "http://arxiv.org/abs/2609.20814v1",
+      "summary": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift aff"
+    },
+    {
+      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+      "url": "http://arxiv.org/abs/2609.20812v1",
+      "summary": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of f"
+    },
+    {
+      "title": "Unifying Models of Intergroup Hostility in Online Discourse",
+      "url": "http://arxiv.org/abs/2609.20808v1",
+      "summary": "Hostile rhetoric toward social groups can normalize exclusion and justify mistreatment, as well as contribute to rising polarization and political violence. Efforts to moderate hostile rhetoric in onl"
+    },
+    {
+      "title": "Score Centering Stabilizes Off-policy Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2609.20807v1",
+      "summary": "Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM). H"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "author": "code.claude.com"
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "author": "laya.convaiinnovations.com"
     },
     {
       "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "author": "newscientist.com"
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "author": "med.stanford.edu"
     },
     {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "author": "spectrum.ieee.org"
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "author": "prinzai.com"
     },
     {
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "author": "scmp.com"
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "author": "tomshardware.com"
     },
     {
-      "title": "AI chatbots are becoming experts at changing people's minds",
-      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-      "author": "science.org"
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "author": "newsroom.usra.edu"
     },
     {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
-      "author": "reuters.com"
+      "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+      "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+      "author": "Yogthos"
     },
     {
-      "title": "How to make a fool of yourself 101",
-      "url": "https://dev.to/unitbuilds/how-to-make-a-fool-of-yourself-101-39op",
-      "author": "UnitBuilds"
+      "title": "I got rejected for using AI in an interview. Then I watched the interviewer do it.",
+      "url": "https://dev.to/infoinlet1/i-got-rejected-for-using-ai-in-an-interview-then-i-watched-the-interviewer-do-it-31d0",
+      "author": "Info Inlet"
+    },
+    {
+      "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+      "url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+      "author": "ndyg"
     }
   ],
   "repos": [
     {
-      "name": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": 89803,
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "stars": 80278,
       "language": "Python"
     },
     {
-      "name": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
-      "stars": 76405,
+      "name": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "stars": 67230,
       "language": "Python"
     },
     {
-      "name": "Fission-AI/OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
-      "description": "Spec-driven development (SDD) for AI coding assistants.",
-      "stars": 69452,
+      "name": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+      "stars": 65678,
+      "language": "Python"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "stars": 63571,
+      "language": "Python"
+    },
+    {
+      "name": "openai/openai-python",
+      "url": "https://github.com/openai/openai-python",
+      "description": "The official Python library for the OpenAI API",
+      "stars": 31653,
+      "language": "Python"
+    },
+    {
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 24682,
+      "language": "HTML"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free",
+      "stars": 16275,
       "language": "TypeScript"
-    },
-    {
-      "name": "rustfs/rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "stars": 33236,
-      "language": "Rust"
-    },
-    {
-      "name": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
-      "stars": 31599,
-      "language": "Python"
-    },
-    {
-      "name": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
-      "stars": 30395,
-      "language": "TypeScript"
-    },
-    {
-      "name": "microsoft/agent-lightning",
-      "url": "https://github.com/microsoft/agent-lightning",
-      "description": "The absolute trainer to light up AI agents.",
-      "stars": 18350,
-      "language": "Python"
     }
   ],
   "tweets": []

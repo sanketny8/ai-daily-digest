@@ -1,33 +1,4 @@
 {
-  "2026-08-20": {
-    "papers": [
-      "https://arxiv.org/abs/2608.18565",
-      "https://arxiv.org/abs/2608.19197",
-      "https://arxiv.org/abs/2608.18171",
-      "https://arxiv.org/abs/2608.18423",
-      "https://arxiv.org/abs/2608.18933",
-      "https://arxiv.org/abs/2608.18580",
-      "https://arxiv.org/abs/2608.16977",
-      "https://arxiv.org/abs/2608.17393",
-      "https://arxiv.org/abs/2608.17379",
-      "https://arxiv.org/abs/2608.12944"
-    ],
-    "blogs": [
-      "https://github.com/anthropics/claude-code/issues/6235",
-      "https://arxiv.org/abs/2503.08679",
-      "https://arxiv.org/abs/2504.09762",
-      "https://demo.frugaltokens.com/",
-      "https://dev.to/adamthedeveloper/greatness-is-forged-by-limitation-e20",
-      "https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/",
-      "https://dev.to/dannwaneri/i-tested-5-ai-engines-on-my-own-sites-none-agreed-4013"
-    ],
-    "repos": [
-      "https://github.com/obra/superpowers",
-      "https://github.com/Graphify-Labs/graphify",
-      "https://github.com/PostHog/posthog",
-      "https://github.com/AgriciDaniel/claude-ads"
-    ]
-  },
   "2026-08-21": {
     "papers": [
       "https://arxiv.org/abs/2608.20281",
@@ -930,6 +901,38 @@
       "https://github.com/tirth8205/code-review-graph",
       "https://github.com/supermemoryai/supermemory",
       "https://github.com/microsoft/agent-lightning"
+    ]
+  },
+  "2026-09-20": {
+    "papers": [
+      "http://arxiv.org/abs/2609.20821v1",
+      "http://arxiv.org/abs/2609.20820v1",
+      "http://arxiv.org/abs/2609.20817v1",
+      "http://arxiv.org/abs/2609.20816v1",
+      "http://arxiv.org/abs/2609.20815v1",
+      "http://arxiv.org/abs/2609.20814v1",
+      "http://arxiv.org/abs/2609.20812v1",
+      "http://arxiv.org/abs/2609.20808v1",
+      "http://arxiv.org/abs/2609.20807v1"
+    ],
+    "blogs": [
+      "https://laya.convaiinnovations.com/",
+      "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+      "https://dev.to/infoinlet1/i-got-rejected-for-using-ai-in-an-interview-then-i-watched-the-interviewer-do-it-31d0",
+      "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb"
+    ],
+    "repos": [
+      "https://github.com/opendatalab/MinerU",
+      "https://github.com/docling-project/docling",
+      "https://github.com/mem0ai/mem0",
+      "https://github.com/virattt/ai-hedge-fund",
+      "https://github.com/openai/openai-python",
+      "https://github.com/trycua/cua",
+      "https://github.com/Open-Dev-Society/OpenStock"
     ]
   }
 }

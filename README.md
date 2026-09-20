@@ -10,6 +10,69 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-20</strong></summary>
+
+#### Papers
+
+1. **[Embedding Models Measure in Peculiar Ways](http://arxiv.org/abs/2609.20821v1)**
+
+2. **[Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision](http://arxiv.org/abs/2609.20820v1)**
+
+3. **[FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations](http://arxiv.org/abs/2609.20817v1)**
+
+4. **[Paint-Anything: Unified Any-Color Control for Image Generation and Editing](http://arxiv.org/abs/2609.20816v1)**
+
+5. **[ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis](http://arxiv.org/abs/2609.20815v1)**
+
+6. **[How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?](http://arxiv.org/abs/2609.20814v1)**
+
+7. **[Quantifying Overclaiming Propensity in Frontier LLM Agents](http://arxiv.org/abs/2609.20812v1)**
+
+8. **[Unifying Models of Intergroup Hostility in Online Discourse](http://arxiv.org/abs/2609.20808v1)**
+
+9. **[Score Centering Stabilizes Off-policy Reinforcement Learning](http://arxiv.org/abs/2609.20807v1)**
+
+
+#### Blog Posts
+
+1. **[I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/)** by laya.convaiinnovations.com
+
+2. **[Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)** by med.stanford.edu
+
+3. **[GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)** by prinzai.com
+
+4. **[Microsoft director: AI scraping 'the largest theft of labor in human history'](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit)** by tomshardware.com
+
+5. **[NASA-IBM Lunar Foundation open-Source Geospatial AI Model](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/)** by newsroom.usra.edu
+
+6. **[I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a "Breakthrough"](https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me)** by Yogthos
+
+7. **[I got rejected for using AI in an interview. Then I watched the interviewer do it.](https://dev.to/infoinlet1/i-got-rejected-for-using-ai-in-an-interview-then-i-watched-the-interviewer-do-it-31d0)** by Info Inlet
+
+8. **[kicking the tires on jev (TypeSafe's System One model) with 2048](https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb)** by ndyg
+
+
+#### Trending Repos
+
+1. **[opendatalab/MinerU](https://github.com/opendatalab/MinerU)** — Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. ⭐ 80278
+
+2. **[docling-project/docling](https://github.com/docling-project/docling)** — Get your documents ready for gen AI ⭐ 67230
+
+3. **[mem0ai/mem0](https://github.com/mem0ai/mem0)** — The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. ⭐ 65678
+
+4. **[virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)** — An AI Hedge Fund Team ⭐ 63571
+
+5. **[openai/openai-python](https://github.com/openai/openai-python)** — The official Python library for the OpenAI API ⭐ 31653
+
+6. **[trycua/cua](https://github.com/trycua/cua)** — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. ⭐ 24682
+
+7. **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** — OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free ⭐ 16275
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-19</strong></summary>
 
 #### Papers
