@@ -1,30 +1,4 @@
 {
-  "2026-08-21": {
-    "papers": [
-      "https://arxiv.org/abs/2608.20281",
-      "https://arxiv.org/abs/2608.20335",
-      "https://arxiv.org/abs/2608.20202",
-      "https://arxiv.org/abs/2608.14022",
-      "https://arxiv.org/abs/2608.20336",
-      "https://arxiv.org/abs/2608.19880",
-      "https://arxiv.org/abs/2608.19891",
-      "https://arxiv.org/abs/2608.19861",
-      "https://arxiv.org/abs/2608.18607",
-      "http://arxiv.org/abs/2608.20337v1"
-    ],
-    "blogs": [
-      "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "https://github.com/zachahn/vomit",
-      "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "https://openrouter.ai/stealth/ox-alpha",
-      "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-      "https://openai.com/index/introducing-ai-futures/"
-    ],
-    "repos": [
-      "https://github.com/JuliusBrussee/caveman",
-      "https://github.com/ATH-MaaS/Pixelle-Video"
-    ]
-  },
   "2026-08-22": {
     "papers": [
       "https://arxiv.org/abs/2607.21596",
@@ -933,6 +907,37 @@
       "https://github.com/openai/openai-python",
       "https://github.com/trycua/cua",
       "https://github.com/Open-Dev-Society/OpenStock"
+    ]
+  },
+  "2026-09-21": {
+    "papers": [
+      "https://arxiv.org/abs/2609.18766",
+      "https://arxiv.org/abs/2609.18748",
+      "https://arxiv.org/abs/2609.15126",
+      "https://arxiv.org/abs/2609.19122",
+      "https://arxiv.org/abs/2609.09206",
+      "https://arxiv.org/abs/2609.21619",
+      "https://arxiv.org/abs/2609.20816",
+      "https://arxiv.org/abs/2609.18620",
+      "https://arxiv.org/abs/2609.15779",
+      "https://arxiv.org/abs/2609.22068"
+    ],
+    "blogs": [
+      "https://pirateface.co/",
+      "https://agentexecutor.io",
+      "https://github.com/kyle-pena-nlp/jevchat/",
+      "https://tinybrains.dev",
+      "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i",
+      "https://medium.com/@cse20160007/ai-can-write-code-but-it-cannot-replace-real-software-engineers-8c15c550c13f"
+    ],
+    "repos": [
+      "https://github.com/Significant-Gravitas/AutoGPT",
+      "https://github.com/anthropics/financial-services",
+      "https://github.com/harvard-edge/cs249r_book",
+      "https://github.com/browser-use/browser-harness",
+      "https://github.com/vercel-labs/json-render",
+      "https://github.com/cactus-compute/needle"
     ]
   }
 }

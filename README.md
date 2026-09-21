@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-21</strong></summary>
+
+#### Papers
+
+1. **[FRAUDSkill: Structured Frozen-Weight Skill Optimization for Audio Anti-Fraud Detection](https://arxiv.org/abs/2609.18766)**
+
+2. **[TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection](https://arxiv.org/abs/2609.18748)**
+
+3. **[MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup](https://arxiv.org/abs/2609.15126)**
+
+4. **[Training-Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Representation](https://arxiv.org/abs/2609.19122)**
+
+5. **[MLLMs Hallucinate when Information Distribution Drifts in Synergy Heads](https://arxiv.org/abs/2609.09206)**
+
+6. **[Calibrating Teacher--Student Discrepancy for On-Policy Distillation](https://arxiv.org/abs/2609.21619)**
+
+7. **[Paint-Anything: Unified Any-Color Control for Image Generation and Editing](https://arxiv.org/abs/2609.20816)**
+
+8. **[DeformSmith: Physics Harness-Guided Hierarchical Generation of Deformable Assets for Robot Manipulation](https://arxiv.org/abs/2609.18620)**
+
+9. **[EvoOntology: A Self-Evolving Ontology Layer for Data Agents](https://arxiv.org/abs/2609.15779)**
+
+10. **[CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://arxiv.org/abs/2609.22068)**
+
+
+#### Blog Posts
+
+1. **[Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)** by pirateface.co
+
+2. **[AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)** by agentexecutor.io
+
+3. **[I turned Jev into a (lousy) chatbot](https://github.com/kyle-pena-nlp/jevchat/)** by github.com
+
+4. **[Show HN: A competition for small neural networks that play strategy games](https://tinybrains.dev)** by tinybrains.dev
+
+5. **[AI chatbots give wrong answers to financial queries 'most of the time'](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)** by ft.com
+
+6. **[Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code](https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i)** by Yash Kumar Saini
+
+7. **[AI Can Write Code, But It Cannot Replace Real Software Engineers](https://medium.com/@cse20160007/ai-can-write-code-but-it-cannot-replace-real-software-engineers-8c15c550c13f)** by CSE
+
+
+#### Trending Repos
+
+1. **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. ⭐ 187470
+
+2. **[anthropics/financial-services](https://github.com/anthropics/financial-services)** —  ⭐ 35507
+
+3. **[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)** — Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai ⭐ 28395
+
+4. **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** — Browser Harness | Self-healing harness that enables LLMs to complete any task. ⭐ 17900
+
+5. **[vercel-labs/json-render](https://github.com/vercel-labs/json-render)** — The Generative UI framework ⭐ 17574
+
+6. **[cactus-compute/needle](https://github.com/cactus-compute/needle)** — Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers. ⭐ 11958
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-20</strong></summary>
 
 #### Papers
