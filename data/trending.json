@@ -1,136 +1,141 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "papers": [
     {
-      "title": "FRAUDSkill: Structured Frozen-Weight Skill Optimization for Audio Anti-Fraud Detection",
-      "url": "https://arxiv.org/abs/2609.18766",
-      "summary": "Large audio-language models have shown promise for anti-fraud detection by directly processing speech and reasoning over fraud-related evidence. Their deployment, however, requires predictions to foll"
+      "title": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies",
+      "url": "https://arxiv.org/abs/2609.24118",
+      "summary": "Vision-Language-Action (VLA) policies achieve strong performance in robotic manipulation but remain brittle once execution deviates from nominal trajectories. We propose CARE (Corrective Atomic Roboti"
     },
     {
-      "title": "TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection",
-      "url": "https://arxiv.org/abs/2609.18748",
-      "summary": "Telecom fraud scripts evolve rapidly and are often designed to resemble routine service conversations, creating two key requirements for audio-based telecom-fraud evaluation. First, benchmarks must in"
+      "title": "OmniEdu: Open Foundation Models for Learning and Teaching",
+      "url": "https://arxiv.org/abs/2609.23088",
+      "summary": "Educational foundation models must solve problems, understand curriculum structure, diagnose learner difficulties, and provide appropriate instructional support. Existing educational language models o"
     },
     {
-      "title": "MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup",
-      "url": "https://arxiv.org/abs/2609.15126",
-      "summary": "Scaling large language models efficiently has motivated sparse capacity mechanisms such as Mixture-of-Experts and, more recently, conditional memory: token-indexed embedding tables that augment the ba"
+      "title": "1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2609.24432",
+      "summary": "Sparse on-policy distillation (OPD) allocates teacher supervision to a small subset of tokens in student-generated trajectories. However, useful teacher guidance can yield a noisy update when its grad"
     },
     {
-      "title": "Training-Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Representation",
-      "url": "https://arxiv.org/abs/2609.19122",
-      "summary": "Visual signals require compact yet sufficient representations for robust downstream prediction. Convolutional sparse coding (CSC) provides an explicit mechanism for suppressing redundant components wh"
+      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+      "url": "https://arxiv.org/abs/2609.24983",
+      "summary": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model respo"
     },
     {
-      "title": "MLLMs Hallucinate when Information Distribution Drifts in Synergy Heads",
-      "url": "https://arxiv.org/abs/2609.09206",
-      "summary": "Multimodal Large Language Models (MLLMs) often struggle with hallucinations, thus hindering their reliable practical applications. Existing attention-based mitigation methods mainly rely on indirect s"
+      "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+      "url": "https://arxiv.org/abs/2609.24974",
+      "summary": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the bes"
     },
     {
-      "title": "Calibrating Teacher--Student Discrepancy for On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2609.21619",
-      "summary": "On-policy distillation (OPD) improves reasoning models by learning the token-level discrepancy between a stronger teacher and an on-policy student. However, this discrepancy does not purely reflect th"
+      "title": "Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles",
+      "url": "https://arxiv.org/abs/2609.22220",
+      "summary": "Benchmarks for LLM-generated GPU kernels decide correctness with a few random inputs and a loose floating-point tolerance, and their verdicts now feed leaderboards and reinforcement-learning rewards. "
     },
     {
-      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
-      "url": "https://arxiv.org/abs/2609.20816",
-      "summary": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, ed"
+      "title": "Grounded Action Model: 3D Grounding as a Foundation for Robotics",
+      "url": "https://arxiv.org/abs/2609.23863",
+      "summary": "Manipulation policies must know which objects matter and where they are, yet the pretrained backbones that current robot foundation models build on, from language in vision-language-action models (VLA"
     },
     {
-      "title": "DeformSmith: Physics Harness-Guided Hierarchical Generation of Deformable Assets for Robot Manipulation",
-      "url": "https://arxiv.org/abs/2609.18620",
-      "summary": "Creating deformable assets for robot manipulation requires jointly specifying their geometry, appearance, and physical properties. This is especially challenging for deformable objects, since text and"
+      "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+      "url": "https://arxiv.org/abs/2609.25001",
+      "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal "
     },
     {
-      "title": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents",
-      "url": "https://arxiv.org/abs/2609.15779",
-      "summary": "Data agents aim to fulfill natural-language instructions over heterogeneous data, including tables, files, and databases. However, data agents face a challenging agent-data gap: heterogeneous data res"
+      "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
+      "url": "https://arxiv.org/abs/2609.23986",
+      "summary": "Agentic memory is becoming essential for long-horizon AI agents, yet many existing systems rely on autoregressive LLMs to control how memories are organized, retrieved, and used, placing expensive gen"
     },
     {
-      "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
-      "url": "https://arxiv.org/abs/2609.22068",
-      "summary": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically"
+      "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+      "url": "https://arxiv.org/abs/2609.24997",
+      "summary": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, sp"
     }
   ],
   "blog_posts": [
     {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "author": "pirateface.co"
-    },
-    {
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "author": "agentexecutor.io"
-    },
-    {
-      "title": "I turned Jev into a (lousy) chatbot",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
       "author": "github.com"
     },
     {
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "url": "https://tinybrains.dev",
-      "author": "tinybrains.dev"
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "author": "poloclub.github.io"
     },
     {
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "author": "ft.com"
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "author": "github.com"
     },
     {
-      "title": "Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code",
-      "url": "https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i",
-      "author": "Yash Kumar Saini"
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "author": "heretic-project.org"
     },
     {
-      "title": "AI Can Write Code, But It Cannot Replace Real Software Engineers",
-      "url": "https://medium.com/@cse20160007/ai-can-write-code-but-it-cannot-replace-real-software-engineers-8c15c550c13f",
-      "author": "CSE"
+      "title": "M5 Ultra Mac Studio Review",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "author": "macstories.net"
+    },
+    {
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "author": "reddit.com"
+    },
+    {
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "author": "status.claude.com"
+    },
+    {
+      "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
+      "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
+      "author": "Sylwia Laskowska"
     }
   ],
   "repos": [
     {
-      "name": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187470,
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+      "stars": 65458,
       "language": "Python"
     },
     {
-      "name": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "stars": 35507,
+      "name": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "description": "Fastest and cheapest web agent",
+      "stars": 16641,
       "language": "Python"
     },
     {
-      "name": "harvard-edge/cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
-      "stars": 28395,
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "stars": 16536,
       "language": "Python"
     },
     {
-      "name": "browser-use/browser-harness",
-      "url": "https://github.com/browser-use/browser-harness",
-      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "stars": 17900,
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "stars": 8460,
       "language": "Python"
     },
     {
-      "name": "vercel-labs/json-render",
-      "url": "https://github.com/vercel-labs/json-render",
-      "description": "The Generative UI framework",
-      "stars": 17574,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 7839,
+      "language": "Rust"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "stars": 6102,
       "language": "TypeScript"
-    },
-    {
-      "name": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
-      "stars": 11958,
-      "language": "Python"
     }
   ],
   "tweets": []

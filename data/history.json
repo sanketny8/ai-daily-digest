@@ -1,36 +1,4 @@
 {
-  "2026-08-22": {
-    "papers": [
-      "https://arxiv.org/abs/2607.21596",
-      "https://arxiv.org/abs/2608.15767",
-      "https://arxiv.org/abs/2608.12875",
-      "https://arxiv.org/abs/2608.16885",
-      "https://arxiv.org/abs/2608.13547",
-      "https://arxiv.org/abs/2608.08466",
-      "https://arxiv.org/abs/2608.19759",
-      "https://arxiv.org/abs/2608.19776",
-      "https://arxiv.org/abs/2608.17744",
-      "https://arxiv.org/abs/2608.13210"
-    ],
-    "blogs": [
-      "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-      "https://ozbrain.com",
-      "https://github.com/proliferate-ai/proliferate",
-      "https://www.felonybench.com/",
-      "https://medium.com/@gramg1587/bte-210-exam-2-cloud-computing-business-intelligence-bi-practice-questions-verified-cd419434c854",
-      "https://medium.com/@silva.f.francis/the-hidden-superpower-of-pythons-iter-function-that-senior-engineers-use-919631766b9f"
-    ],
-    "repos": [
-      "https://github.com/affaan-m/ECC",
-      "https://github.com/ruvnet/ruflo",
-      "https://github.com/Alishahryar1/free-claude-code",
-      "https://github.com/jax-ml/jax",
-      "https://github.com/MadsLorentzen/ai-job-search",
-      "https://github.com/microsoft/onnxruntime"
-    ]
-  },
   "2026-08-23": {
     "papers": [
       "http://arxiv.org/abs/2608.20338v1",
@@ -938,6 +906,38 @@
       "https://github.com/browser-use/browser-harness",
       "https://github.com/vercel-labs/json-render",
       "https://github.com/cactus-compute/needle"
+    ]
+  },
+  "2026-09-22": {
+    "papers": [
+      "https://arxiv.org/abs/2609.24118",
+      "https://arxiv.org/abs/2609.23088",
+      "https://arxiv.org/abs/2609.24432",
+      "https://arxiv.org/abs/2609.24983",
+      "https://arxiv.org/abs/2609.24974",
+      "https://arxiv.org/abs/2609.22220",
+      "https://arxiv.org/abs/2609.23863",
+      "https://arxiv.org/abs/2609.25001",
+      "https://arxiv.org/abs/2609.23986",
+      "https://arxiv.org/abs/2609.24997"
+    ],
+    "blogs": [
+      "https://github.com/jaredpalmer/kev/tree/main",
+      "https://poloclub.github.io/transformer-explainer/",
+      "https://github.com/volotat/mini-AGI/",
+      "https://heretic-project.org/",
+      "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g"
+    ],
+    "repos": [
+      "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "https://github.com/browser-use/jev-ultrafast",
+      "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "https://github.com/zhouxiaoka/autoclip",
+      "https://github.com/akitaonrails/ai-memory",
+      "https://github.com/BuilderIO/agent-native"
     ]
   }
 }

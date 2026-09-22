@@ -10,6 +10,69 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-22</strong></summary>
+
+#### Papers
+
+1. **[CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies](https://arxiv.org/abs/2609.24118)**
+
+2. **[OmniEdu: Open Foundation Models for Learning and Teaching](https://arxiv.org/abs/2609.23088)**
+
+3. **[1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation](https://arxiv.org/abs/2609.24432)**
+
+4. **[onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction](https://arxiv.org/abs/2609.24983)**
+
+5. **[Harness-Zero: Harness Distillation via Agent-as-Harness](https://arxiv.org/abs/2609.24974)**
+
+6. **[Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles](https://arxiv.org/abs/2609.22220)**
+
+7. **[Grounded Action Model: 3D Grounding as a Foundation for Robotics](https://arxiv.org/abs/2609.23863)**
+
+8. **[GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://arxiv.org/abs/2609.25001)**
+
+9. **[Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents](https://arxiv.org/abs/2609.23986)**
+
+10. **[VideoGen-Agent: Reinforcing Video Generation Agents](https://arxiv.org/abs/2609.24997)**
+
+
+#### Blog Posts
+
+1. **[Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)** by github.com
+
+2. **[Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)** by poloclub.github.io
+
+3. **[Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI/)** by github.com
+
+4. **[Heretic removes restrictions from language models](https://heretic-project.org/)** by heretic-project.org
+
+5. **[M5 Ultra Mac Studio Review](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/)** by macstories.net
+
+6. **[macOS 27: Workaround to avoid downloading AI models and save storage](https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/)** by reddit.com
+
+7. **[Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)** by status.claude.com
+
+8. **[What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)](https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g)** by Sylwia Laskowska
+
+
+#### Trending Repos
+
+1. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr ⭐ 65458
+
+2. **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** — Fastest and cheapest web agent ⭐ 16641
+
+3. **[owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)** — A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. ⭐ 16536
+
+4. **[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)** — AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 ⭐ 8460
+
+5. **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors ⭐ 7839
+
+6. **[BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)** — A framework for building agentic apps ⭐ 6102
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-21</strong></summary>
 
 #### Papers
