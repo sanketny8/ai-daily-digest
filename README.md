@@ -10,6 +10,79 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-23</strong></summary>
+
+#### Papers
+
+1. **[Emergent Collusion in Long-Horizon LLM Agent Interaction](https://arxiv.org/abs/2609.24967)**
+
+2. **[Lean Pool: An AI-Maintained Archive of Formalized Mathematics](https://arxiv.org/abs/2609.25199)**
+
+3. **[The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](https://arxiv.org/abs/2609.25804)**
+
+4. **[StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training](https://arxiv.org/abs/2609.26774)**
+
+5. **[ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning](https://arxiv.org/abs/2609.22323)**
+
+6. **[All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts](https://arxiv.org/abs/2609.24058)**
+
+7. **[Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes](https://arxiv.org/abs/2609.25247)**
+
+8. **[Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models](https://arxiv.org/abs/2609.24657)**
+
+9. **[GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://arxiv.org/abs/2609.24981)**
+
+10. **[Bellman Policy Optimization](https://arxiv.org/abs/2609.15987)**
+
+
+#### Blog Posts
+
+1. **[Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)** by anthropic.com
+
+2. **[GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)** by openai.com
+
+3. **[OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)** by cryptocellar.org
+
+4. **[Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)** by nathan.rs
+
+5. **[OpenAI is well positioned to fast-follow Jev](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)** by arcturus-labs.com
+
+6. **[Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)](https://artificialanalysis.ai/models/claude-opus-5-5)** by artificialanalysis.ai
+
+7. **[Unreal Agent](https://unreallabs.ai/blog/unreal-agent/)** by unreallabs.ai
+
+8. **[MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/mimo-v2-6-pro)** by artificialanalysis.ai
+
+9. **[Did OpenAI solve the wrong Navier-Stokes problem?](https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/)** by scientificamerican.com
+
+
+#### Trending Repos
+
+1. **[browser-use/video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents ⭐ 26058
+
+2. **[dream-num/univer](https://github.com/dream-num/univer)** — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. ⭐ 15778
+
+3. **[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)** — A straightforward method for training your LLM, from downloading data to generating text. ⭐ 10848
+
+4. **[google/ax](https://github.com/google/ax)** — Google's open agentic orchestration runtime ⭐ 7974
+
+5. **[zai-org/ZCode](https://github.com/zai-org/ZCode)** — Z.ai's coding agent harness. Powerful, intelligent, extensible. ⭐ 6398
+
+6. **[mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx)** — Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. ⭐ 5626
+
+7. **[jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis)** — 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 ⭐ 4480
+
+8. **[agent-substrate/substrate](https://github.com/agent-substrate/substrate)** — Agent Substrate: the core system ⭐ 3109
+
+9. **[superdesigndev/treg](https://github.com/superdesigndev/treg)** — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn ⭐ 2342
+
+10. **[yibie/awesome-jev](https://github.com/yibie/awesome-jev)** — A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions. ⭐ 1362
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-22</strong></summary>
 
 #### Papers

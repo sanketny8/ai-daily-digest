@@ -1,141 +1,174 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "papers": [
     {
-      "title": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies",
-      "url": "https://arxiv.org/abs/2609.24118",
-      "summary": "Vision-Language-Action (VLA) policies achieve strong performance in robotic manipulation but remain brittle once execution deviates from nominal trajectories. We propose CARE (Corrective Atomic Roboti"
+      "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+      "url": "https://arxiv.org/abs/2609.24967",
+      "summary": "LLM agents are increasingly deployed in collaborative settings, yet long-term interaction may give rise to undesirable coordination. We study the emergence of collusion in a long-horizon multi-agent e"
     },
     {
-      "title": "OmniEdu: Open Foundation Models for Learning and Teaching",
-      "url": "https://arxiv.org/abs/2609.23088",
-      "summary": "Educational foundation models must solve problems, understand curriculum structure, diagnose learner difficulties, and provide appropriate instructional support. Existing educational language models o"
+      "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+      "url": "https://arxiv.org/abs/2609.25199",
+      "summary": "Lean Pool is a repository of formalized mathematics. It is grown, maintained and optimized by AI agents."
     },
     {
-      "title": "1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2609.24432",
-      "summary": "Sparse on-policy distillation (OPD) allocates teacher supervision to a small subset of tokens in student-generated trajectories. However, useful teacher guidance can yield a noisy update when its grad"
+      "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
+      "url": "https://arxiv.org/abs/2609.25804",
+      "summary": "LLM agents increasingly work on long-horizon tasks, and the decisions they make along the way, such as which hypothesis to test or which implementation to build on, determine the outcome of the whole "
     },
     {
-      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
-      "url": "https://arxiv.org/abs/2609.24983",
-      "summary": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model respo"
+      "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+      "url": "https://arxiv.org/abs/2609.26774",
+      "summary": "Vector Quantization (VQ) is fundamental to discrete visual tokenizers that power modern autoregressive and masked image generation models. While recent shared-projection codebook methods have substant"
     },
     {
-      "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
-      "url": "https://arxiv.org/abs/2609.24974",
-      "summary": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the bes"
+      "title": "ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning",
+      "url": "https://arxiv.org/abs/2609.22323",
+      "summary": "Few-shot learning research is predominantly evaluated on accuracy alone, with limited attention to the parameter and training-sample budgets required to reach that accuracy - a real constraint for pra"
     },
     {
-      "title": "Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles",
-      "url": "https://arxiv.org/abs/2609.22220",
-      "summary": "Benchmarks for LLM-generated GPU kernels decide correctness with a few random inputs and a loose floating-point tolerance, and their verdicts now feed leaderboards and reinforcement-learning rewards. "
+      "title": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2609.24058",
+      "summary": "Multilingual scene text recognition (STR) remains challenging due to the scarcity of training data for most languages and the difficulty of serving diverse scripts within a single model. Existing solu"
     },
     {
-      "title": "Grounded Action Model: 3D Grounding as a Foundation for Robotics",
-      "url": "https://arxiv.org/abs/2609.23863",
-      "summary": "Manipulation policies must know which objects matter and where they are, yet the pretrained backbones that current robot foundation models build on, from language in vision-language-action models (VLA"
+      "title": "Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes",
+      "url": "https://arxiv.org/abs/2609.25247",
+      "summary": "Interaction understanding in 3D scenes requires a joint description of movable parts, their motion, and the regions through which they can be operated. We present Segment-Snap, which connects these ou"
     },
     {
-      "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
-      "url": "https://arxiv.org/abs/2609.25001",
-      "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal "
+      "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2609.24657",
+      "summary": "Language models can be adapted by changing the computations applied to individual tokens. Quantum circuits offer one such approach, but evaluating wider circuits inside a large model can be computatio"
     },
     {
-      "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
-      "url": "https://arxiv.org/abs/2609.23986",
-      "summary": "Agentic memory is becoming essential for long-horizon AI agents, yet many existing systems rely on autoregressive LLMs to control how memories are organized, retrieved, and used, placing expensive gen"
+      "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
+      "url": "https://arxiv.org/abs/2609.24981",
+      "summary": "We present a compact geometry-native latent space as a shared foundation for perception and generation. Visual generators can produce photorealistic frames without preserving a consistent 3D scene. We"
     },
     {
-      "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
-      "url": "https://arxiv.org/abs/2609.24997",
-      "summary": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, sp"
+      "title": "Bellman Policy Optimization",
+      "url": "https://arxiv.org/abs/2609.15987",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models (LLMs). We introduce Bellman Policy Optimization (BPO), a critic-free method derived "
     }
   ],
   "blog_posts": [
     {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "author": "github.com"
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "author": "anthropic.com"
     },
     {
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "author": "poloclub.github.io"
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "author": "openai.com"
     },
     {
-      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "author": "github.com"
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "author": "cryptocellar.org"
     },
     {
-      "title": "Heretic removes restrictions from language models",
-      "url": "https://heretic-project.org/",
-      "author": "heretic-project.org"
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "author": "nathan.rs"
     },
     {
-      "title": "M5 Ultra Mac Studio Review",
-      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-      "author": "macstories.net"
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "author": "arcturus-labs.com"
     },
     {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "author": "reddit.com"
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "author": "artificialanalysis.ai"
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "author": "status.claude.com"
+      "title": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "author": "unreallabs.ai"
     },
     {
-      "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
-      "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
-      "author": "Sylwia Laskowska"
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "author": "artificialanalysis.ai"
+    },
+    {
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "author": "scientificamerican.com"
     }
   ],
   "repos": [
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
-      "stars": 65458,
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 26058,
       "language": "Python"
     },
     {
-      "name": "browser-use/jev-ultrafast",
-      "url": "https://github.com/browser-use/jev-ultrafast",
-      "description": "Fastest and cheapest web agent",
-      "stars": 16641,
-      "language": "Python"
-    },
-    {
-      "name": "owainlewis/awesome-artificial-intelligence",
-      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-      "stars": 16536,
-      "language": "Python"
-    },
-    {
-      "name": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-      "stars": 8460,
-      "language": "Python"
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stars": 7839,
-      "language": "Rust"
-    },
-    {
-      "name": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "stars": 6102,
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 15778,
       "language": "TypeScript"
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "stars": 10848,
+      "language": "Python"
+    },
+    {
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "stars": 7974,
+      "language": "Go"
+    },
+    {
+      "name": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "stars": 6398,
+      "language": "TypeScript"
+    },
+    {
+      "name": "mizorewww/laya-mlx",
+      "url": "https://github.com/mizorewww/laya-mlx",
+      "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "stars": 5626,
+      "language": "Python"
+    },
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "stars": 4480,
+      "language": "Kotlin"
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "stars": 3109,
+      "language": "Go"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "stars": 2342,
+      "language": "Python"
+    },
+    {
+      "name": "yibie/awesome-jev",
+      "url": "https://github.com/yibie/awesome-jev",
+      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+      "stars": 1362,
+      "language": "Python"
     }
   ],
   "tweets": []
