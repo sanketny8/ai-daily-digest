@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-25</strong></summary>
+
+#### Papers
+
+1. **[Rufus-Air: An Open LLM Post-Training Recipe](https://arxiv.org/abs/2609.29421)**
+
+2. **[Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone](https://arxiv.org/abs/2609.23087)**
+
+3. **[IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis](https://arxiv.org/abs/2609.29444)**
+
+4. **[ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation](https://arxiv.org/abs/2609.28923)**
+
+5. **[AgentKernel: The Trust-Native Agentic Operating System](https://arxiv.org/abs/2609.29647)**
+
+6. **[PUBG Ally: A Conversational Embodied Agent as an AI Teammate](https://arxiv.org/abs/2609.29837)**
+
+7. **[OmniEcho: Spatial Audio Understanding for Embodied Agents](https://arxiv.org/abs/2609.23407)**
+
+8. **[World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal](https://arxiv.org/abs/2609.29964)**
+
+9. **[WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation](https://arxiv.org/abs/2609.30221)**
+
+10. **[ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds](https://arxiv.org/abs/2609.30199)**
+
+
+#### Blog Posts
+
+1. **[Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)** by transluce.org
+
+2. **[Best LLM for every budget, updated daily](https://bestmodelforyourbudget.terrydjony.com/)** by bestmodelforyourbudget.terrydjony.com
+
+3. **[Google’s Project Suncatcher to put ML infrastructure in space](https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/)** by blog.google
+
+4. **[Contrastive Language Models](https://contrastive-lm.notion.site/)** by contrastive-lm.notion.site
+
+5. **[Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)** by resobscura.substack.com
+
+
+#### Trending Repos
+
+1. **[anthropics/skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills ⭐ 178023
+
+2. **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. ⭐ 125565
+
+3. **[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)** — CLI tool for configuring and monitoring Claude Code ⭐ 31740
+
+4. **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** — Hindsight: Agent Memory That Learns ⭐ 28190
+
+5. **[Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)** — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. ⭐ 27314
+
+6. **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** — 380 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding ag ⭐ 26425
+
+7. **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** — Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 ⭐ 18427
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-24</strong></summary>
 
 #### Papers

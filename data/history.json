@@ -1,32 +1,4 @@
 {
-  "2026-08-25": {
-    "papers": [
-      "https://arxiv.org/abs/2608.23283",
-      "https://arxiv.org/abs/2608.20430",
-      "https://arxiv.org/abs/2608.20958",
-      "https://arxiv.org/abs/2608.21439",
-      "https://arxiv.org/abs/2608.21031",
-      "https://arxiv.org/abs/2608.20438",
-      "https://arxiv.org/abs/2608.18077",
-      "https://arxiv.org/abs/2608.18484",
-      "https://arxiv.org/abs/2608.16425",
-      "https://arxiv.org/abs/2608.20574"
-    ],
-    "blogs": [
-      "https://developers.openai.com/api/docs/pricing",
-      "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-      "https://dev.to/kenielzep97/the-tests-passed-the-contract-was-wrong-mp0",
-      "https://dev.to/james_anderson_h/7-signs-youre-over-engineering-your-ai-app-and-how-to-stop-4gb",
-      "https://dev.to/fm/i-won-a-writing-challenge-that-i-almost-didnt-publish-2cn0",
-      "https://dev.to/gabbs279/how-i-actually-code-with-claude-code-my-real-workflow-on-a-real-project-4ao0",
-      "https://medium.com/@Abestit/greater-manchester-d%C3%A9fie-palantir-sur-un-contrat-de-sant%C3%A9-3c4a153f3402"
-    ],
-    "repos": [
-      "https://github.com/openclaw/openclaw",
-      "https://github.com/rohitg00/ai-engineering-from-scratch"
-    ]
-  },
   "2026-08-26": {
     "papers": [
       "https://arxiv.org/abs/2608.23566",
@@ -947,6 +919,36 @@
       "https://github.com/DeusData/codebase-memory-mcp",
       "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "https://github.com/strands-agents/harness-sdk"
+    ]
+  },
+  "2026-09-25": {
+    "papers": [
+      "https://arxiv.org/abs/2609.29421",
+      "https://arxiv.org/abs/2609.23087",
+      "https://arxiv.org/abs/2609.29444",
+      "https://arxiv.org/abs/2609.28923",
+      "https://arxiv.org/abs/2609.29647",
+      "https://arxiv.org/abs/2609.29837",
+      "https://arxiv.org/abs/2609.23407",
+      "https://arxiv.org/abs/2609.29964",
+      "https://arxiv.org/abs/2609.30221",
+      "https://arxiv.org/abs/2609.30199"
+    ],
+    "blogs": [
+      "https://transluce.org/agent-activity",
+      "https://bestmodelforyourbudget.terrydjony.com/",
+      "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "https://contrastive-lm.notion.site/",
+      "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical"
+    ],
+    "repos": [
+      "https://github.com/anthropics/skills",
+      "https://github.com/harry0703/MoneyPrinterTurbo",
+      "https://github.com/davila7/claude-code-templates",
+      "https://github.com/vectorize-io/hindsight",
+      "https://github.com/Fosowl/agenticSeek",
+      "https://github.com/alirezarezvani/claude-skills",
+      "https://github.com/op7418/Humanizer-zh"
     ]
   }
 }
