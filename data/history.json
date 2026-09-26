@@ -1,34 +1,4 @@
 {
-  "2026-08-26": {
-    "papers": [
-      "https://arxiv.org/abs/2608.23566",
-      "https://arxiv.org/abs/2608.24696",
-      "https://arxiv.org/abs/2608.23041",
-      "https://arxiv.org/abs/2608.24646",
-      "https://arxiv.org/abs/2608.24876",
-      "https://arxiv.org/abs/2608.24735",
-      "https://arxiv.org/abs/2608.24794",
-      "https://arxiv.org/abs/2608.15242",
-      "https://arxiv.org/abs/2608.22876",
-      "https://arxiv.org/abs/2608.22614"
-    ],
-    "blogs": [
-      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "https://arxiv.org/abs/2608.16603",
-      "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
-      "https://dl.acm.org/doi/pdf/10.1145/3820012",
-      "https://dev.to/james_anderson_h/the-retrieval-checklist-i-wish-id-had-before-shipping-rag-2j5a",
-      "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-      "https://medium.com/@marketing_78651/quando-n%C3%A3o-usar-ia-5-sinais-de-que-uma-automa%C3%A7%C3%A3o-simples-resolve-melhor-41fcb70506e8",
-      "https://medium.com/@Abestit/des-codeurs-contournent-d%C3%A9j%C3%A0-les-filigranes-invisibles-de-claude-afa09acbab07"
-    ],
-    "repos": [
-      "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "https://github.com/DietrichGebert/ponytail",
-      "https://github.com/MemPalace/mempalace",
-      "https://github.com/freestylefly/awesome-gpt-image-2"
-    ]
-  },
   "2026-08-27": {
     "papers": [
       "https://arxiv.org/abs/2608.25204",
@@ -949,6 +919,36 @@
       "https://github.com/Fosowl/agenticSeek",
       "https://github.com/alirezarezvani/claude-skills",
       "https://github.com/op7418/Humanizer-zh"
+    ]
+  },
+  "2026-09-26": {
+    "papers": [
+      "https://arxiv.org/abs/2609.28603",
+      "https://arxiv.org/abs/2609.29028",
+      "https://arxiv.org/abs/2609.29816",
+      "https://arxiv.org/abs/2609.29845",
+      "https://arxiv.org/abs/2609.29429",
+      "https://arxiv.org/abs/2609.29362",
+      "https://arxiv.org/abs/2609.30233",
+      "https://arxiv.org/abs/2609.28811",
+      "http://arxiv.org/abs/2609.30266v1",
+      "http://arxiv.org/abs/2609.30264v1"
+    ],
+    "blogs": [
+      "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "https://ollaya.dev/",
+      "https://swarmtraces.org/",
+      "https://mouse.dev/blog/muse-special/",
+      "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g"
+    ],
+    "repos": [
+      "https://github.com/paperclipai/paperclip",
+      "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "https://github.com/Alishahryar1/free-claude-code",
+      "https://github.com/google/langextract"
     ]
   }
 }

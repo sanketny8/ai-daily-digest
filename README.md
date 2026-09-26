@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-26</strong></summary>
+
+#### Papers
+
+1. **[Learning to Discover Interesting Mathematics](https://arxiv.org/abs/2609.28603)**
+
+2. **[RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation](https://arxiv.org/abs/2609.29028)**
+
+3. **[AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation](https://arxiv.org/abs/2609.29816)**
+
+4. **[Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](https://arxiv.org/abs/2609.29845)**
+
+5. **[Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures](https://arxiv.org/abs/2609.29429)**
+
+6. **[Parts-of-Speech as Emergent Categories in SAE Latent Space](https://arxiv.org/abs/2609.29362)**
+
+7. **[Coding Agents for Generalized Task and Motion Planning Problems](https://arxiv.org/abs/2609.30233)**
+
+8. **[DeltaWAM: Delta World Action Models for Bimanual Manipulation](https://arxiv.org/abs/2609.28811)**
+
+9. **[LLM Agents Can Easily Tamper With Their Own Traces](http://arxiv.org/abs/2609.30266v1)**
+
+10. **[AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control](http://arxiv.org/abs/2609.30264v1)**
+
+
+#### Blog Posts
+
+1. **[U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)** by cnbc.com
+
+2. **[Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)** by ollaya.dev
+
+3. **[Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)** by swarmtraces.org
+
+4. **[Meta's Muse appears to use an OpenAI model labeled muse-special](https://mouse.dev/blog/muse-special/)** by mouse.dev
+
+5. **[Microsoft abandons personal AI chatbot race with Copilot reboot](https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot)** by bloomberg.com
+
+6. **[Goodbye Google](https://robert.ocallahan.org/2026/09/goodbye-google.html)** by classichasclass
+
+7. **[ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)** by jrgtt
+
+8. **[Your API's newest users are agents...](https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g)** by Nikolas Dimitroulakis
+
+
+#### Trending Repos
+
+1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** — The open-source app everyone uses to manage agents at work ⭐ 85410
+
+2. **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn it. Build it. Ship it for others. ⭐ 57715
+
+3. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne ⭐ 55956
+
+4. **[google/langextract](https://github.com/google/langextract)** — A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. ⭐ 38875
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-25</strong></summary>
 
 #### Papers
