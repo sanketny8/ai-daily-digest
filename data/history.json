@@ -1,37 +1,4 @@
 {
-  "2026-08-27": {
-    "papers": [
-      "https://arxiv.org/abs/2608.25204",
-      "https://arxiv.org/abs/2608.23564",
-      "https://arxiv.org/abs/2608.21140",
-      "https://arxiv.org/abs/2608.25625",
-      "https://arxiv.org/abs/2608.22071",
-      "https://arxiv.org/abs/2608.23256",
-      "https://arxiv.org/abs/2608.24358",
-      "https://arxiv.org/abs/2608.23383",
-      "https://arxiv.org/abs/2608.25529",
-      "https://arxiv.org/abs/2608.21839"
-    ],
-    "blogs": [
-      "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-      "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-      "https://acceptmarkdown.com/",
-      "https://www.risklytics.ai/",
-      "https://www.linum.ai/field-notes/data-filtering-gen-video",
-      "https://openai.com/webmcp-challenge/",
-      "https://dev.to/xulingfeng/stratagems-25-derek-changed-the-delay-the-ai-didnt-flinch-28ca",
-      "https://medium.com/@saadbasdot/is-artificial-intelligence-making-animals-smarter-ab0e9f3a9eee",
-      "https://medium.com/@agenticai147/ai-agents-vs-chatbots-whats-the-difference-and-why-enterprises-are-switching-de6420607751"
-    ],
-    "repos": [
-      "https://github.com/open-webui/open-webui",
-      "https://github.com/pytorch/pytorch",
-      "https://github.com/thedotmack/claude-mem",
-      "https://github.com/RVC-Boss/GPT-SoVITS",
-      "https://github.com/calesthio/OpenMontage"
-    ]
-  },
   "2026-08-28": {
     "papers": [
       "https://arxiv.org/abs/2608.27123",
@@ -949,6 +916,30 @@
       "https://github.com/rohitg00/ai-engineering-from-scratch",
       "https://github.com/Alishahryar1/free-claude-code",
       "https://github.com/google/langextract"
+    ]
+  },
+  "2026-09-27": {
+    "papers": [
+      "http://arxiv.org/abs/2609.30258v1",
+      "http://arxiv.org/abs/2609.30250v1",
+      "http://arxiv.org/abs/2609.30249v1",
+      "http://arxiv.org/abs/2609.30247v1",
+      "http://arxiv.org/abs/2609.30243v1",
+      "http://arxiv.org/abs/2609.30238v1",
+      "http://arxiv.org/abs/2609.30233v1",
+      "http://arxiv.org/abs/2609.30227v1"
+    ],
+    "blogs": [
+      "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/"
+    ],
+    "repos": [
+      "https://github.com/usestrix/strix",
+      "https://github.com/PostHog/posthog",
+      "https://github.com/zhaoxuya520/reverse-skill",
+      "https://github.com/anthropics/claude-code-action"
     ]
   }
 }

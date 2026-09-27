@@ -10,6 +10,53 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-27</strong></summary>
+
+#### Papers
+
+1. **[Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning](http://arxiv.org/abs/2609.30258v1)**
+
+2. **[Agentic Detection of Online Conspiracies](http://arxiv.org/abs/2609.30250v1)**
+
+3. **[RAPID: Robot Agentic Programming from Demonstrations](http://arxiv.org/abs/2609.30249v1)**
+
+4. **[Rolling-WAM: World Action Models with Rolling Imagination](http://arxiv.org/abs/2609.30247v1)**
+
+5. **[JevOut: Natural Context Can Flip Decision Models](http://arxiv.org/abs/2609.30243v1)**
+
+6. **[SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](http://arxiv.org/abs/2609.30238v1)**
+
+7. **[Coding Agents for Generalized Task and Motion Planning Problems](http://arxiv.org/abs/2609.30233v1)**
+
+8. **[To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech](http://arxiv.org/abs/2609.30227v1)**
+
+
+#### Blog Posts
+
+1. **[A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)** by allanrbo.blogspot.com
+
+2. **[OpenAI bots meddled with multiple US Government agency sites](https://www.bbc.com/news/articles/cw62jje658dlo)** by bbc.com
+
+3. **[Turning GLM-5.3-Flash into a Jev-like decision model](https://www.privatemode.ai/blog/system-one-from-glm-flash)** by privatemode.ai
+
+4. **[An agent used DNS to reach an external chatbot](https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/)** by alignment.openai.com
+
+
+#### Trending Repos
+
+1. **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. ⭐ 65072
+
+2. **[PostHog/posthog](https://github.com/PostHog/posthog)** — 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al ⭐ 39957
+
+3. **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K ⭐ 38131
+
+4. **[anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)** —  ⭐ 9147
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-26</strong></summary>
 
 #### Papers

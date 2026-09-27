@@ -1,127 +1,97 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "papers": [
     {
-      "title": "Learning to Discover Interesting Mathematics",
-      "url": "https://arxiv.org/abs/2609.28603",
-      "summary": "Recently, Large Language Models (LLMs) have been increasingly able to solve advanced mathematical problems, including many that have been open for decades. This opens the door to expansion of mathemat"
+      "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2609.30258v1",
+      "summary": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal stru"
     },
     {
-      "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
-      "url": "https://arxiv.org/abs/2609.29028",
-      "summary": "In this paper, we propose RGBD20K, a novel dataset for facilitating the development of more robust and general RGB-D semantic segmentation by encompassing abundant categories and high-quality annotati"
+      "title": "Agentic Detection of Online Conspiracies",
+      "url": "http://arxiv.org/abs/2609.30250v1",
+      "summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, sa"
     },
     {
-      "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
-      "url": "https://arxiv.org/abs/2609.29816",
-      "summary": "Recent years have witnessed major progress in joint audio-video generation. Existing models still suffer from limited per-modality fidelity, insufficient text-modality alignment and weak cross-modal s"
+      "title": "RAPID: Robot Agentic Programming from Demonstrations",
+      "url": "http://arxiv.org/abs/2609.30249v1",
+      "summary": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrati"
     },
     {
-      "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
-      "url": "https://arxiv.org/abs/2609.29845",
-      "summary": "While Large Language Models (LLMs) rely on highly non-linear components, in this work we demonstrate that they exhibit fundamental linearity: when inputs from distinct text streams are linearly combin"
+      "title": "Rolling-WAM: World Action Models with Rolling Imagination",
+      "url": "http://arxiv.org/abs/2609.30247v1",
+      "summary": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs"
     },
     {
-      "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
-      "url": "https://arxiv.org/abs/2609.29429",
-      "summary": "Detectors of alignment failures screen deployed language models and score alignment benchmarks. Most are generative judges that spend a decoding pass on every criterion, and classifiers that read toke"
+      "title": "JevOut: Natural Context Can Flip Decision Models",
+      "url": "http://arxiv.org/abs/2609.30243v1",
+      "summary": "Dedicated decision models such as Jev map unstructured language to probability distributions over finite choices, allowing their outputs to directly route requests, select tools, and trigger actions. "
     },
     {
-      "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
-      "url": "https://arxiv.org/abs/2609.29362",
-      "summary": "Sparse AutoEncoders (SAEs) offer a promising way to inspect language model representations, but it is still unclear what kind of linguistic structure their latents expose. We use part-of-speech (PoS) "
+      "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+      "url": "http://arxiv.org/abs/2609.30238v1",
+      "summary": "Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically comp"
     },
     {
       "title": "Coding Agents for Generalized Task and Motion Planning Problems",
-      "url": "https://arxiv.org/abs/2609.30233",
+      "url": "http://arxiv.org/abs/2609.30233v1",
       "summary": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic con"
     },
     {
-      "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
-      "url": "https://arxiv.org/abs/2609.28811",
-      "summary": "World-action models (WAMs) transfer visual and motion priors from pretrained video generators to robot control by jointly modeling visual dynamics and actions. Existing WAMs, however, predict dense fu"
-    },
-    {
-      "title": "LLM Agents Can Easily Tamper With Their Own Traces",
-      "url": "http://arxiv.org/abs/2609.30266v1",
-      "summary": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own "
-    },
-    {
-      "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
-      "url": "http://arxiv.org/abs/2609.30264v1",
-      "summary": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low"
+      "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
+      "url": "http://arxiv.org/abs/2609.30227v1",
+      "summary": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can v"
     }
   ],
   "blog_posts": [
     {
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "author": "cnbc.com"
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "author": "allanrbo.blogspot.com"
     },
     {
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "author": "ollaya.dev"
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "author": "bbc.com"
     },
     {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "author": "swarmtraces.org"
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "author": "privatemode.ai"
     },
     {
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "url": "https://mouse.dev/blog/muse-special/",
-      "author": "mouse.dev"
-    },
-    {
-      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "author": "bloomberg.com"
-    },
-    {
-      "title": "Goodbye Google",
-      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-      "author": "classichasclass"
-    },
-    {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "author": "jrgtt"
-    },
-    {
-      "title": "Your API's newest users are agents...",
-      "url": "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g",
-      "author": "Nikolas Dimitroulakis"
+      "title": "An agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "author": "alignment.openai.com"
     }
   ],
   "repos": [
     {
-      "name": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "stars": 85410,
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 65072,
+      "language": "Python"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al",
+      "stars": 39957,
+      "language": "Python"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+      "stars": 38131,
+      "language": "PowerShell"
+    },
+    {
+      "name": "anthropics/claude-code-action",
+      "url": "https://github.com/anthropics/claude-code-action",
+      "description": "",
+      "stars": 9147,
       "language": "TypeScript"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 57715,
-      "language": "Python"
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harne",
-      "stars": 55956,
-      "language": "Python"
-    },
-    {
-      "name": "google/langextract",
-      "url": "https://github.com/google/langextract",
-      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-      "stars": 38875,
-      "language": "Python"
     }
   ],
   "tweets": []
