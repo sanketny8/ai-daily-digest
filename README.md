@@ -10,6 +10,73 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-28</strong></summary>
+
+#### Papers
+
+1. **[RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation](https://arxiv.org/abs/2609.18703)**
+
+2. **[ZooWork-ShopRanker: An Open, Preference-Aligned E-Commerce Reranker](https://arxiv.org/abs/2609.31002)**
+
+3. **[FoMo: Forking Moment in Generative Trajectory as a Perceptual Distance](https://arxiv.org/abs/2609.25716)**
+
+4. **[Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem](https://arxiv.org/abs/2609.30216)**
+
+5. **[CARD: Cluster-level Adaptation with Reward-guided Decoding for Personalized Text Generation](https://arxiv.org/abs/2601.06352)**
+
+6. **[Do Implicit Personalization and Explicit Styles Conflict? PsPLUG: A Lightweight Plug-in for Balancing Personalization and Style in Customized LLMs](https://arxiv.org/abs/2601.06362)**
+
+7. **[TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations](https://arxiv.org/abs/2609.30222)**
+
+8. **[Block Sparse Attention with Log-Linear Complexity](https://arxiv.org/abs/2609.31093)**
+
+9. **[AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs](https://arxiv.org/abs/2609.31590)**
+
+10. **[SLCA-GRPO: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL](https://arxiv.org/abs/2609.29050)**
+
+
+#### Blog Posts
+
+1. **[Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)** by authorsguild.org
+
+2. **[There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)** by eoinhiggins.substack.com
+
+3. **[Show HN: TinyAIArena watch AI agents battle it out](https://tinyaiarena.com/)** by tinyaiarena.com
+
+4. **[Generate fonts where every LLM token is the same width](https://ampdot.mesh.host/token-space-fonts.html)** by ampdot.mesh.host
+
+5. **[Faster prompt lookup drafting in llama.cpp](https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/)** by jadidbourbaki.github.io
+
+6. **[7 Best AI Project Management Tools for Software Development Teams in 2026](https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik)** by Emmanuel Mumba
+
+
+#### Trending Repos
+
+1. **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** — 📚 Freely available programming books ⭐ 398016
+
+2. **[pytorch/pytorch](https://github.com/pytorch/pytorch)** — Tensors and Dynamic neural networks in Python with strong GPU acceleration ⭐ 103435
+
+3. **[microsoft/data-formulator](https://github.com/microsoft/data-formulator)** — 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data. ⭐ 17459
+
+4. **[NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** — A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstre ⭐ 4973
+
+5. **[yetone/magpie](https://github.com/yetone/magpie)** — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. ⭐ 1373
+
+6. **[mvschwarz/openrig](https://github.com/mvschwarz/openrig)** — Multi-agent harness that runs Claude Code and Codex together as one system ⭐ 1203
+
+7. **[mikehasa/golive-skill](https://github.com/mikehasa/golive-skill)** — Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No  ⭐ 1022
+
+8. **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context. ⭐ 911
+
+9. **[willfaust/Madeira](https://github.com/willfaust/Madeira)** — Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT ⭐ 887
+
+10. **[asokurasu/text-humanizer](https://github.com/asokurasu/text-humanizer)** — A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.  ⭐ 744
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-27</strong></summary>
 
 #### Papers

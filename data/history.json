@@ -1,35 +1,4 @@
 {
-  "2026-08-28": {
-    "papers": [
-      "https://arxiv.org/abs/2608.27123",
-      "https://arxiv.org/abs/2608.26530",
-      "https://arxiv.org/abs/2608.25518",
-      "https://arxiv.org/abs/2608.26238",
-      "https://arxiv.org/abs/2608.26809",
-      "https://arxiv.org/abs/2608.26200",
-      "https://arxiv.org/abs/2608.27448",
-      "https://arxiv.org/abs/2608.26993",
-      "https://arxiv.org/abs/2608.25500",
-      "https://arxiv.org/abs/2608.15763"
-    ],
-    "blogs": [
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-      "https://aiandeducation.mit.edu/report/",
-      "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "https://www.terminal-bench-science.ai/announcement",
-      "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei",
-      "https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n",
-      "https://github.com/openai/openai-python/blob/main/httpx2.md"
-    ],
-    "repos": [
-      "https://github.com/abi/screenshot-to-code",
-      "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "https://github.com/HKUDS/Vibe-Trading",
-      "https://github.com/tt-a1i/archify",
-      "https://github.com/HKUDS/AI-Trader"
-    ]
-  },
   "2026-08-29": {
     "papers": [
       "https://arxiv.org/abs/2608.23943",
@@ -940,6 +909,40 @@
       "https://github.com/PostHog/posthog",
       "https://github.com/zhaoxuya520/reverse-skill",
       "https://github.com/anthropics/claude-code-action"
+    ]
+  },
+  "2026-09-28": {
+    "papers": [
+      "https://arxiv.org/abs/2609.18703",
+      "https://arxiv.org/abs/2609.31002",
+      "https://arxiv.org/abs/2609.25716",
+      "https://arxiv.org/abs/2609.30216",
+      "https://arxiv.org/abs/2601.06352",
+      "https://arxiv.org/abs/2601.06362",
+      "https://arxiv.org/abs/2609.30222",
+      "https://arxiv.org/abs/2609.31093",
+      "https://arxiv.org/abs/2609.31590",
+      "https://arxiv.org/abs/2609.29050"
+    ],
+    "blogs": [
+      "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "https://tinyaiarena.com/",
+      "https://ampdot.mesh.host/token-space-fonts.html",
+      "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+      "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik"
+    ],
+    "repos": [
+      "https://github.com/EbookFoundation/free-programming-books",
+      "https://github.com/pytorch/pytorch",
+      "https://github.com/microsoft/data-formulator",
+      "https://github.com/NVIDIA/Model-Optimizer",
+      "https://github.com/yetone/magpie",
+      "https://github.com/mvschwarz/openrig",
+      "https://github.com/mikehasa/golive-skill",
+      "https://github.com/dzhng/jevgrep",
+      "https://github.com/willfaust/Madeira",
+      "https://github.com/asokurasu/text-humanizer"
     ]
   }
 }
