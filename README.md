@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-29</strong></summary>
+
+#### Papers
+
+1. **[Not All Objectives Are Born Equal: Priority-Constrained Descent for Hierarchical Multi-Objective Optimization](https://arxiv.org/abs/2606.29521)**
+
+2. **[QwenGyre: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents](https://arxiv.org/abs/2609.33848)**
+
+3. **[Imprint Reader: From Weight-Update Readout to Behavioral Intervention](https://arxiv.org/abs/2609.35261)**
+
+4. **[ColNanoVDR: Document-Free Query Distillation for Multi-Vector Visual Document Retrieval via Optimal Transport](https://arxiv.org/abs/2609.34899)**
+
+5. **[Structured Residual Connectivity Matters for Diffusion Transformers](https://arxiv.org/abs/2609.33203)**
+
+6. **[How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](https://arxiv.org/abs/2609.35457)**
+
+7. **[When Do Model Internals Help? Exploring the Role of Representation Engineering in LLM Safety](https://arxiv.org/abs/2609.34771)**
+
+8. **[InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video](https://arxiv.org/abs/2609.35743)**
+
+9. **[GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space](https://arxiv.org/abs/2609.35734)**
+
+10. **[Residual Transferability in Neural Image Watermarking](https://arxiv.org/abs/2609.32241)**
+
+
+#### Blog Posts
+
+1. **[Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)** by anthropic.com
+
+2. **[Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)** by github.com
+
+3. **[Nvidia wants to put a watchdog chip next to every AI agent](https://www.cnbc.com/2026/09/28/nvidia-releases.html)** by cnbc.com
+
+4. **[Cf: The Agentic CLI for the Cloudflare API](https://blog.cloudflare.com/cloudflare-cf-cli-launch/)** by blog.cloudflare.com
+
+5. **[Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia](https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc)** by Alicia Marianne Gonçalves
+
+6. **[ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)** by github.com
+
+
+#### Trending Repos
+
+1. **[byoungd/up](https://github.com/byoungd/up)** — An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 ⭐ 65075
+
+2. **[topoteretes/cognee](https://github.com/topoteretes/cognee)** — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free ⭐ 31186
+
+3. **[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)** — SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts. ⭐ 17824
+
+4. **[0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)** — HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun ⭐ 12224
+
+5. **[samugit83/redamon](https://github.com/samugit83/redamon)** — An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention. ⭐ 2778
+
+6. **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 ⭐ 1846
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-28</strong></summary>
 
 #### Papers

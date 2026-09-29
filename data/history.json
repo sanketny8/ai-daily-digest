@@ -1,29 +1,4 @@
 {
-  "2026-08-29": {
-    "papers": [
-      "https://arxiv.org/abs/2608.23943",
-      "https://arxiv.org/abs/2608.27455",
-      "https://arxiv.org/abs/2608.25798",
-      "https://arxiv.org/abs/2608.19269",
-      "http://arxiv.org/abs/2608.27455v1",
-      "http://arxiv.org/abs/2608.27454v1",
-      "http://arxiv.org/abs/2608.27449v1",
-      "http://arxiv.org/abs/2608.27448v1",
-      "http://arxiv.org/abs/2608.27442v1",
-      "http://arxiv.org/abs/2608.27439v1"
-    ],
-    "blogs": [
-      "https://huggingface.co/zai-org/GLM-5.3",
-      "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "https://dev.to/xulingfeng/amazon-ai-blocked-my-kindle-book-i-asked-what-went-wrong-then-they-approved-it-48hi",
-      "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg",
-      "https://dev.to/jon_at_backboardio/the-matrix-wasnt-a-battery-farm-it-was-a-gpu-cluster-made-of-human-brains-23e5",
-      "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
-      "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "https://dev.to/aws/how-a-strands-agent-took-claude-opus-5-from-30-to-9995-on-arc-agi-3-4kel"
-    ],
-    "repos": []
-  },
   "2026-08-30": {
     "papers": [
       "http://arxiv.org/abs/2608.27429v1",
@@ -943,6 +918,36 @@
       "https://github.com/dzhng/jevgrep",
       "https://github.com/willfaust/Madeira",
       "https://github.com/asokurasu/text-humanizer"
+    ]
+  },
+  "2026-09-29": {
+    "papers": [
+      "https://arxiv.org/abs/2606.29521",
+      "https://arxiv.org/abs/2609.33848",
+      "https://arxiv.org/abs/2609.35261",
+      "https://arxiv.org/abs/2609.34899",
+      "https://arxiv.org/abs/2609.33203",
+      "https://arxiv.org/abs/2609.35457",
+      "https://arxiv.org/abs/2609.34771",
+      "https://arxiv.org/abs/2609.35743",
+      "https://arxiv.org/abs/2609.35734",
+      "https://arxiv.org/abs/2609.32241"
+    ],
+    "blogs": [
+      "https://www.anthropic.com/claude-sonnet-5-5",
+      "https://github.com/firelex/jeff",
+      "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc",
+      "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster"
+    ],
+    "repos": [
+      "https://github.com/byoungd/up",
+      "https://github.com/topoteretes/cognee",
+      "https://github.com/microsoft/SkillOpt",
+      "https://github.com/0x4m4/hexstrike-ai",
+      "https://github.com/samugit83/redamon",
+      "https://github.com/KKKKhazix/AIHOT"
     ]
   }
 }
