@@ -1,29 +1,4 @@
 {
-  "2026-08-30": {
-    "papers": [
-      "http://arxiv.org/abs/2608.27429v1",
-      "http://arxiv.org/abs/2608.27428v1",
-      "http://arxiv.org/abs/2608.27427v1",
-      "http://arxiv.org/abs/2608.27424v1"
-    ],
-    "blogs": [
-      "https://coldtake.dev/blog/domain-driven-agents",
-      "https://www.dwarkesh.com/p/openai-huggingface",
-      "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "https://ai.plainenglish.io/i-built-an-ai-system-that-processes-invoices-automatically-73b7b677ced5",
-      "https://medium.com/@thechristiansage/yes-i-use-ai-no-it-doesnt-write-my-books-038943cbb1d7",
-      "https://abdulwahabdev.medium.com/openais-ai-agents-just-exposed-the-biggest-problem-with-autonomous-coding-bba29aedf2d3",
-      "https://medium.com/@romka2x/why-i-built-scripttap-b36d78be4ee5"
-    ],
-    "repos": [
-      "https://github.com/bigskysoftware/htmx",
-      "https://github.com/alchaincyf/nuwa-skill",
-      "https://github.com/ayghri/i-have-adhd",
-      "https://github.com/THU-MAIC/OpenMAIC",
-      "https://github.com/google/skills",
-      "https://github.com/lingfengQAQ/webnovel-writer"
-    ]
-  },
   "2026-08-31": {
     "papers": [
       "https://arxiv.org/abs/2608.18524",
@@ -948,6 +923,36 @@
       "https://github.com/0x4m4/hexstrike-ai",
       "https://github.com/samugit83/redamon",
       "https://github.com/KKKKhazix/AIHOT"
+    ]
+  },
+  "2026-09-30": {
+    "papers": [
+      "https://arxiv.org/abs/2609.38140",
+      "https://arxiv.org/abs/2609.36352",
+      "https://arxiv.org/abs/2609.32522",
+      "https://arxiv.org/abs/2609.38157",
+      "https://arxiv.org/abs/2609.35210",
+      "https://arxiv.org/abs/2609.37226",
+      "https://arxiv.org/abs/2609.31847",
+      "https://arxiv.org/abs/2609.35845",
+      "https://arxiv.org/abs/2609.37725",
+      "https://arxiv.org/abs/2607.11433"
+    ],
+    "blogs": [
+      "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "https://openai.com/index/introducing-dots/",
+      "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "https://github.com/PostHog/jeeves",
+      "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "https://github.com/Sparticle62ops/pssa"
+    ],
+    "repos": [
+      "https://github.com/MadsLorentzen/ai-job-search",
+      "https://github.com/t8y2/dbx",
+      "https://github.com/NVIDIA/OpenShell",
+      "https://github.com/Q00/ouroboros",
+      "https://github.com/TencentCloud/Octop"
     ]
   }
 }

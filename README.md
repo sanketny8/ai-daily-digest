@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-09-30</strong></summary>
+
+#### Papers
+
+1. **[Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE](https://arxiv.org/abs/2609.38140)**
+
+2. **[StructRL: Online Structured Reinforcement Learning for Long-Horizon Vision-Language-Action Tasks](https://arxiv.org/abs/2609.36352)**
+
+3. **[Beyond Dyadic Memory: Interaction-Aware Multimodal Memory with Adaptive Agentic Retrieval for Multi-Party Spoken Conversations](https://arxiv.org/abs/2609.32522)**
+
+4. **[EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](https://arxiv.org/abs/2609.38157)**
+
+5. **[Understanding On-Policy Distillation: A Mechanistic Interpretability Perspective via Sparse Crosscoders](https://arxiv.org/abs/2609.35210)**
+
+6. **[Follow the Entities: A Corpus Map for Agentic Search](https://arxiv.org/abs/2609.37226)**
+
+7. **[Omni-IO Skills: Harnessing Your Agent Omni-Native](https://arxiv.org/abs/2609.31847)**
+
+8. **[Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling](https://arxiv.org/abs/2609.35845)**
+
+9. **[Context Language Models](https://arxiv.org/abs/2609.37725)**
+
+10. **[Omni-Decision: Evidence-Ledger Planning for Omni-Modal Agents](https://arxiv.org/abs/2607.11433)**
+
+
+#### Blog Posts
+
+1. **[GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/)** by openai.com
+
+2. **[Dots: Always-on agents](https://openai.com/index/introducing-dots/)** by openai.com
+
+3. **[A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)** by jorgegarciaherrero.com
+
+4. **[Jeeves. Reasoning improves Jev-like decision models](https://github.com/PostHog/jeeves)** by github.com
+
+5. **[ChatGPT Pro 500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)** by help.openai.com
+
+6. **[Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev)** by magazine.sebastianraschka.com
+
+7. **[PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)** by github.com
+
+
+#### Trending Repos
+
+1. **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. ⭐ 44519
+
+2. **[t8y2/dbx](https://github.com/t8y2/dbx)** — 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock ⭐ 22487
+
+3. **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** — OpenShell is the safe, private runtime for autonomous AI agents. ⭐ 10927
+
+4. **[Q00/ouroboros](https://github.com/Q00/ouroboros)** — Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode,  ⭐ 6148
+
+5. **[TencentCloud/Octop](https://github.com/TencentCloud/Octop)** — A smarter, self-hosted AI assistant — multi-user, multi-agent. ⭐ 5923
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-29</strong></summary>
 
 #### Papers
