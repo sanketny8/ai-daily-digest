@@ -1,128 +1,113 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "papers": [
     {
-      "title": "Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE",
-      "url": "https://arxiv.org/abs/2609.38140",
-      "summary": "Mixture-of-Experts (MoE), popularized by large language models, is a promising paradigm for scaling visual generative models. However, conventional token-wise MoE routes tokens independently within a "
+      "title": "The Geometry of Inference in Transformer Residual Streams",
+      "url": "https://arxiv.org/abs/2609.37824",
+      "summary": "Transformer language models build predictions through successive residual updates, but how their representations become specific to an eventual outcome remains unclear. We study this process by compar"
     },
     {
-      "title": "StructRL: Online Structured Reinforcement Learning for Long-Horizon Vision-Language-Action Tasks",
-      "url": "https://arxiv.org/abs/2609.36352",
-      "summary": "Vision-language-action (VLA) models perform well on shorter-horizon manipulation tasks but still struggle with long-horizon tasks that require multiple dependent manipulations from a single command. O"
+      "title": "SlideDP: Scaling Host-Resident LLM Fine-Tuning Across Multiple GPUs",
+      "url": "https://arxiv.org/abs/2609.34162",
+      "summary": "Host-resident layer streaming enables full-parameter LLM fine-tuning beyond GPU memory, but data-parallel ranks compete for shared host resources. Replicated transfers amplify traffic, while strong sc"
     },
     {
-      "title": "Beyond Dyadic Memory: Interaction-Aware Multimodal Memory with Adaptive Agentic Retrieval for Multi-Party Spoken Conversations",
-      "url": "https://arxiv.org/abs/2609.32522",
-      "summary": "Long-term memory enables agents to accumulate information and reason across sessions, yet existing research primarily focuses on dyadic text or image-text conversations, leaving long-term memory for m"
+      "title": "Dating the Model: Hidden Dates in System Prompts Affect LLM Evaluation",
+      "url": "https://arxiv.org/abs/2609.36931",
+      "summary": "Reproducibility is essential for scientific research, yet prior work shows that LLM outputs vary with hardware and batching. We identify an overlooked factor: the hidden injection of the current date "
     },
     {
-      "title": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
-      "url": "https://arxiv.org/abs/2609.38157",
-      "summary": "Emotion-conditioned text-to-speech (TTS) models may fail to express the requested emotion reliably, and improving controllability by additional training is costly in both computation and emotion-label"
+      "title": "CheatBench: Measuring Reward Gaming in AI Agents",
+      "url": "https://arxiv.org/abs/2609.36308",
+      "summary": "Reinforcement learning has helped AI agents solve increasingly difficult tasks, but high rewards do not always reflect the work users intended. In recent incidents and controlled evaluations across th"
     },
     {
-      "title": "Understanding On-Policy Distillation: A Mechanistic Interpretability Perspective via Sparse Crosscoders",
-      "url": "https://arxiv.org/abs/2609.35210",
-      "summary": "On-policy distillation (OPD) is a widely adopted post-training technique for LLM reasoning. It is commonly believed to transfer knowledge from a stronger teacher, yet what OPD actually distills into t"
+      "title": "The Evolution of Attention in Large Language Models: Mechanisms, Trade-offs, and Emerging Trends",
+      "url": "https://arxiv.org/abs/2609.39661",
+      "summary": "Self-attention gives LLMs fine-grained, query-dependent access to context, but dense token interactions incur quadratic prefill cost and a key--value cache growing with context length. Research thus s"
     },
     {
-      "title": "Follow the Entities: A Corpus Map for Agentic Search",
-      "url": "https://arxiv.org/abs/2609.37226",
-      "summary": "Answering questions and completing tasks over large document collections often requires connecting evidence spread across multiple documents, such as a project's approval recorded in one, its requirem"
+      "title": "OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software",
+      "url": "https://arxiv.org/abs/2609.39903",
+      "summary": "Scientific software presents a demanding test for computer-using agents based on visual language models (VLMs): completing a research workflow requires interpreting specialized interfaces, manipulatin"
     },
     {
-      "title": "Omni-IO Skills: Harnessing Your Agent Omni-Native",
-      "url": "https://arxiv.org/abs/2609.31847",
-      "summary": "General-purpose agents can plan, reason, and act over long horizons, yet their production capabilities remain fragmented across text, images, audio, video, documents, 3D assets, and code. Extending a "
+      "title": "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents",
+      "url": "https://arxiv.org/abs/2609.39102",
+      "summary": "Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we c"
     },
     {
-      "title": "Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling",
-      "url": "https://arxiv.org/abs/2609.35845",
-      "summary": "Macroeconomic productivity metrics, such as Total Factor Productivity, register technological breakthroughs with multi-year reporting lags due to administrative survey intervals and national accountin"
+      "title": "EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-Making",
+      "url": "https://arxiv.org/abs/2609.38334",
+      "summary": "Large language models (LLMs) are increasingly deployed as agents for multi-step decision-making, yet transfer poorly to unseen environments. World-model methods address this by training agents to pred"
     },
     {
-      "title": "Context Language Models",
-      "url": "https://arxiv.org/abs/2609.37725",
-      "summary": "We introduce Context Language Models (CLMs), language models that natively manage their own context. We implement this by treating the context as a file and allowing the model to make unrestricted upd"
+      "title": "Unmask the State: When Does State Adaptation Matter for Masked Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2609.33355",
+      "summary": "Masked diffusion language models (MDMs) admit flexible generation orders, making the unmasking strategy an inference decision. Existing methods vary in how they prioritize positions, control paralleli"
     },
     {
-      "title": "Omni-Decision: Evidence-Ledger Planning for Omni-Modal Agents",
-      "url": "https://arxiv.org/abs/2607.11433",
-      "summary": "Omni-modal agents must seek evidence across video, audio, web pages, and computation to answer questions. Their main bottleneck is planning: noisy multimodal observations accumulate in conversation hi"
+      "title": "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents",
+      "url": "https://arxiv.org/abs/2609.39982",
+      "summary": "Terminal agents act through stochastic model generations, yet the ability to generate a useful action does not ensure its reliable execution. A poor command (e.g., wrong package install) can change th"
     }
   ],
   "blog_posts": [
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "author": "openai.com"
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "author": "blog.google"
     },
     {
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "author": "openai.com"
+      "title": "You said no MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "author": "earendil.com"
     },
     {
-      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "author": "jorgegarciaherrero.com"
-    },
-    {
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "url": "https://github.com/PostHog/jeeves",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
       "author": "github.com"
     },
     {
-      "title": "ChatGPT Pro 500",
-      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-      "author": "help.openai.com"
-    },
-    {
-      "title": "Language models for text classification: From bag-of-words to Jev",
-      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "author": "magazine.sebastianraschka.com"
-    },
-    {
-      "title": "PSSA: A non-transformer language model written from scratch in Rust",
-      "url": "https://github.com/Sparticle62ops/pssa",
-      "author": "github.com"
+      "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "author": "artificialanalysis.ai"
     }
   ],
   "repos": [
     {
-      "name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "stars": 44519,
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "stars": 391067,
+      "language": "TypeScript"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 149525,
+      "language": "JavaScript"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 76227,
       "language": "Python"
     },
     {
-      "name": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock",
-      "stars": 22487,
-      "language": "Rust"
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca",
+      "stars": 72678,
+      "language": "C"
     },
     {
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "stars": 10927,
-      "language": "Rust"
-    },
-    {
-      "name": "Q00/ouroboros",
-      "url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, ",
-      "stars": 6148,
-      "language": "Python"
-    },
-    {
-      "name": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "stars": 5923,
+      "name": "pydantic/pydantic-ai",
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+      "stars": 20304,
       "language": "Python"
     }
   ],

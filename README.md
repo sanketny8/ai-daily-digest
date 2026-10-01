@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-01</strong></summary>
+
+#### Papers
+
+1. **[The Geometry of Inference in Transformer Residual Streams](https://arxiv.org/abs/2609.37824)**
+
+2. **[SlideDP: Scaling Host-Resident LLM Fine-Tuning Across Multiple GPUs](https://arxiv.org/abs/2609.34162)**
+
+3. **[Dating the Model: Hidden Dates in System Prompts Affect LLM Evaluation](https://arxiv.org/abs/2609.36931)**
+
+4. **[CheatBench: Measuring Reward Gaming in AI Agents](https://arxiv.org/abs/2609.36308)**
+
+5. **[The Evolution of Attention in Large Language Models: Mechanisms, Trade-offs, and Emerging Trends](https://arxiv.org/abs/2609.39661)**
+
+6. **[OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software](https://arxiv.org/abs/2609.39903)**
+
+7. **[False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents](https://arxiv.org/abs/2609.39102)**
+
+8. **[EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-Making](https://arxiv.org/abs/2609.38334)**
+
+9. **[Unmask the State: When Does State Adaptation Matter for Masked Diffusion Language Models](https://arxiv.org/abs/2609.33355)**
+
+10. **[Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents](https://arxiv.org/abs/2609.39982)**
+
+
+#### Blog Posts
+
+1. **[Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)** by blog.google
+
+2. **[You said no MCP](https://earendil.com/posts/you-said-no-mcp/)** by earendil.com
+
+3. **[Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)** by github.com
+
+4. **[Gemini 4 Argon (High): Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/gemini-4-argon)** by artificialanalysis.ai
+
+
+#### Trending Repos
+
+1. **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ⭐ 391067
+
+2. **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. ⭐ 149525
+
+3. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows ⭐ 76227
+
+4. **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** — Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca ⭐ 72678
+
+5. **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** — How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end. ⭐ 20304
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-09-30</strong></summary>
 
 #### Papers

@@ -1,36 +1,4 @@
 {
-  "2026-08-31": {
-    "papers": [
-      "https://arxiv.org/abs/2608.18524",
-      "https://arxiv.org/abs/2608.28192",
-      "https://arxiv.org/abs/2608.27763",
-      "https://arxiv.org/abs/2608.26794",
-      "https://arxiv.org/abs/2608.28460",
-      "https://arxiv.org/abs/2608.27370",
-      "https://arxiv.org/abs/2608.25417",
-      "https://arxiv.org/abs/2608.24804",
-      "https://arxiv.org/abs/2608.26582",
-      "https://arxiv.org/abs/2608.27529"
-    ],
-    "blogs": [
-      "https://github.com/anthropics/claude-code/issues/66504",
-      "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-      "https://dev.to/kenielzep97/tell-me-about-you-1hi4",
-      "https://dev.to/james_anderson_h/9-ways-your-ai-agent-silently-fails-and-how-to-catch-each-547f",
-      "https://medium.com/@prophaze/the-sharepoint-authentication-bypass-isnt-the-scary-part-25aa713d6f6a",
-      "https://medium.com/@skeptical_ai/beyond-the-medallion-why-modern-ai-demands-enforced-governance-a560319796cf"
-    ],
-    "repos": [
-      "https://github.com/punkpeye/awesome-mcp-servers",
-      "https://github.com/colinhacks/zod",
-      "https://github.com/tashfeenahmed/freellmapi",
-      "https://github.com/agent0ai/agent-zero",
-      "https://github.com/corsairdev/corsair",
-      "https://github.com/Osmantic/ODS",
-      "https://github.com/kaifcodec/user-scanner"
-    ]
-  },
   "2026-09-01": {
     "papers": [
       "https://arxiv.org/abs/2608.30135",
@@ -953,6 +921,33 @@
       "https://github.com/NVIDIA/OpenShell",
       "https://github.com/Q00/ouroboros",
       "https://github.com/TencentCloud/Octop"
+    ]
+  },
+  "2026-10-01": {
+    "papers": [
+      "https://arxiv.org/abs/2609.37824",
+      "https://arxiv.org/abs/2609.34162",
+      "https://arxiv.org/abs/2609.36931",
+      "https://arxiv.org/abs/2609.36308",
+      "https://arxiv.org/abs/2609.39661",
+      "https://arxiv.org/abs/2609.39903",
+      "https://arxiv.org/abs/2609.39102",
+      "https://arxiv.org/abs/2609.38334",
+      "https://arxiv.org/abs/2609.33355",
+      "https://arxiv.org/abs/2609.39982"
+    ],
+    "blogs": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "https://earendil.com/posts/you-said-no-mcp/",
+      "https://github.com/magnitudedev/magnitude",
+      "https://artificialanalysis.ai/models/gemini-4-argon"
+    ],
+    "repos": [
+      "https://github.com/openclaw/openclaw",
+      "https://github.com/DietrichGebert/ponytail",
+      "https://github.com/ComposioHQ/awesome-claude-skills",
+      "https://github.com/colbymchenry/codegraph",
+      "https://github.com/pydantic/pydantic-ai"
     ]
   }
 }
