@@ -1,113 +1,92 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "papers": [
     {
-      "title": "The Geometry of Inference in Transformer Residual Streams",
-      "url": "https://arxiv.org/abs/2609.37824",
-      "summary": "Transformer language models build predictions through successive residual updates, but how their representations become specific to an eventual outcome remains unclear. We study this process by compar"
+      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2610.02206",
+      "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment"
     },
     {
-      "title": "SlideDP: Scaling Host-Resident LLM Fine-Tuning Across Multiple GPUs",
-      "url": "https://arxiv.org/abs/2609.34162",
-      "summary": "Host-resident layer streaming enables full-parameter LLM fine-tuning beyond GPU memory, but data-parallel ranks compete for shared host resources. Replicated transfers amplify traffic, while strong sc"
+      "title": "DataMagic: Authoring Data Videos through Declarative Multi-Agent Orchestration",
+      "url": "https://arxiv.org/abs/2609.33403",
+      "summary": "Data videos communicate data insights through dynamic charts, voice narration, and synchronized animations, and have become a widely adopted form of data storytelling. However, producing them requires"
     },
     {
-      "title": "Dating the Model: Hidden Dates in System Prompts Affect LLM Evaluation",
-      "url": "https://arxiv.org/abs/2609.36931",
-      "summary": "Reproducibility is essential for scientific research, yet prior work shows that LLM outputs vary with hardware and batching. We identify an overlooked factor: the hidden injection of the current date "
+      "title": "Memorizon: Training World Models Beyond Their Context Window",
+      "url": "https://arxiv.org/abs/2610.00544",
+      "summary": "Streaming world models should render a place consistently across repeated visits. Directly supervising such revisits requires training samples that capture both visits, often spanning minutes. Yet den"
     },
     {
-      "title": "CheatBench: Measuring Reward Gaming in AI Agents",
-      "url": "https://arxiv.org/abs/2609.36308",
-      "summary": "Reinforcement learning has helped AI agents solve increasingly difficult tasks, but high rewards do not always reflect the work users intended. In recent incidents and controlled evaluations across th"
+      "title": "Explore Broadly, Reason Sharply: Push Small Models toward the Frontier via Sampling",
+      "url": "https://arxiv.org/abs/2609.38104",
+      "summary": "Power-sharpened sampling is an inference-time alternative to reinforcement-learning (RL) post-training for enhancing reasoning in large language models (LLMs). High-probability sequences are amplified"
     },
     {
-      "title": "The Evolution of Attention in Large Language Models: Mechanisms, Trade-offs, and Emerging Trends",
-      "url": "https://arxiv.org/abs/2609.39661",
-      "summary": "Self-attention gives LLMs fine-grained, query-dependent access to context, but dense token interactions incur quadratic prefill cost and a key--value cache growing with context length. Research thus s"
+      "title": "Benchmarking and Enhancing Skill-Level Memory for Partially Observable Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2609.38886",
+      "summary": "Recent advances in robot learning have enabled manipulation policies to perform increasingly diverse tasks and generalize across environments. However, reliable execution often depends on hidden task "
     },
     {
-      "title": "OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software",
-      "url": "https://arxiv.org/abs/2609.39903",
-      "summary": "Scientific software presents a demanding test for computer-using agents based on visual language models (VLMs): completing a research workflow requires interpreting specialized interfaces, manipulatin"
+      "title": "Smaller Models, Better Rejects: Preference Distillation Scaling",
+      "url": "https://arxiv.org/abs/2609.38987",
+      "summary": "Preference distillation typically treats a teacher response as preferred and the student's own response as rejected. This assumes that self-generated failures are the most informative negatives and th"
     },
     {
-      "title": "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents",
-      "url": "https://arxiv.org/abs/2609.39102",
-      "summary": "Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we c"
+      "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
+      "url": "https://arxiv.org/abs/2610.02196",
+      "summary": "We study test-time evolution for humanoid loco-manipulation: solving tasks that a controller was never trained for by repurposing its existing skills, improving from its own attempts, and retaining wh"
     },
     {
-      "title": "EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-Making",
-      "url": "https://arxiv.org/abs/2609.38334",
-      "summary": "Large language models (LLMs) are increasingly deployed as agents for multi-step decision-making, yet transfer poorly to unseen environments. World-model methods address this by training agents to pred"
+      "title": "Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs",
+      "url": "https://arxiv.org/abs/2609.32259",
+      "summary": "Recent multi-agent LLM systems increasingly combine heterogeneous models for specialized agent roles. However, text-based communication requires each receiver to prefill shared context already process"
     },
     {
-      "title": "Unmask the State: When Does State Adaptation Matter for Masked Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2609.33355",
-      "summary": "Masked diffusion language models (MDMs) admit flexible generation orders, making the unmasking strategy an inference decision. Existing methods vary in how they prioritize positions, control paralleli"
+      "title": "Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?",
+      "url": "https://arxiv.org/abs/2609.34621",
+      "summary": "Native 3D texture generation synthesizes colors directly in 3D space for a given geometry, conditioned on multi-view reference images. It is generally believed that training such models requires large"
     },
     {
-      "title": "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents",
-      "url": "https://arxiv.org/abs/2609.39982",
-      "summary": "Terminal agents act through stochastic model generations, yet the ability to generate a useful action does not ensure its reliable execution. A poor command (e.g., wrong package install) can change th"
+      "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+      "url": "https://arxiv.org/abs/2609.40362",
+      "summary": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine dis"
     }
   ],
   "blog_posts": [
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "author": "blog.google"
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "author": "blog.cloudflare.com"
     },
     {
-      "title": "You said no MCP",
-      "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "author": "earendil.com"
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "author": "news.synopsys.com"
     },
     {
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "author": "github.com"
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "author": "openid.net"
     },
     {
-      "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
-      "author": "artificialanalysis.ai"
+      "title": "Typeclasses vs Modules",
+      "url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+      "author": "abhin4v"
     }
   ],
   "repos": [
     {
-      "name": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": 391067,
-      "language": "TypeScript"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 149525,
-      "language": "JavaScript"
-    },
-    {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 76227,
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 140527,
       "language": "Python"
     },
     {
-      "name": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca",
-      "stars": 72678,
-      "language": "C"
-    },
-    {
-      "name": "pydantic/pydantic-ai",
-      "url": "https://github.com/pydantic/pydantic-ai",
-      "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
-      "stars": 20304,
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": 20579,
       "language": "Python"
     }
   ],

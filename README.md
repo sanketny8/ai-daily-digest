@@ -10,6 +10,53 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-02</strong></summary>
+
+#### Papers
+
+1. **[KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards](https://arxiv.org/abs/2610.02206)**
+
+2. **[DataMagic: Authoring Data Videos through Declarative Multi-Agent Orchestration](https://arxiv.org/abs/2609.33403)**
+
+3. **[Memorizon: Training World Models Beyond Their Context Window](https://arxiv.org/abs/2610.00544)**
+
+4. **[Explore Broadly, Reason Sharply: Push Small Models toward the Frontier via Sampling](https://arxiv.org/abs/2609.38104)**
+
+5. **[Benchmarking and Enhancing Skill-Level Memory for Partially Observable Robotic Manipulation](https://arxiv.org/abs/2609.38886)**
+
+6. **[Smaller Models, Better Rejects: Preference Distillation Scaling](https://arxiv.org/abs/2609.38987)**
+
+7. **[InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.02196)**
+
+8. **[Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs](https://arxiv.org/abs/2609.32259)**
+
+9. **[Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?](https://arxiv.org/abs/2609.34621)**
+
+10. **[Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces](https://arxiv.org/abs/2609.40362)**
+
+
+#### Blog Posts
+
+1. **[Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)** by blog.cloudflare.com
+
+2. **[GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)** by news.synopsys.com
+
+3. **[Identity Management for Agentic AI [pdf] (2025)](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)** by openid.net
+
+4. **[Typeclasses vs Modules](https://sm2n.ca/articles/typeclasses-vs-modules/)** by abhin4v
+
+
+#### Trending Repos
+
+1. **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. ⭐ 140527
+
+2. **[google/skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies ⭐ 20579
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-01</strong></summary>
 
 #### Papers

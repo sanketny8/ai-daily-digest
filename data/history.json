@@ -1,32 +1,4 @@
 {
-  "2026-09-01": {
-    "papers": [
-      "https://arxiv.org/abs/2608.30135",
-      "https://arxiv.org/abs/2608.28695",
-      "https://arxiv.org/abs/2608.28600",
-      "https://arxiv.org/abs/2608.29252",
-      "https://arxiv.org/abs/2608.31106",
-      "https://arxiv.org/abs/2608.31036",
-      "https://arxiv.org/abs/2608.29910",
-      "https://arxiv.org/abs/2608.30241",
-      "https://arxiv.org/abs/2608.30320",
-      "https://arxiv.org/abs/2608.30821"
-    ],
-    "blogs": [
-      "https://dev.to/kenielzep97/i-followed-the-appeal-path-there-was-no-appeal-25e2",
-      "https://medium.com/@ravinpandey.matchbest/the-multi-modal-shift-how-solo-creators-are-scaling-agency-grade-video-fb0fb9ab48d2",
-      "https://medium.com/the-common-room/write-for-the-common-room-submission-guidelines-878e4c6ed0e6",
-      "https://medium.com/@loveleen.matchbestsoftware/how-ai-creative-platforms-are-making-content-creation-easier-cf2ce66e7489",
-      "https://rtmusafir.medium.com/if-your-entire-memory-gets-copied-then-who-is-the-real-you-0bc4545ef257",
-      "https://medium.com/@seo.testometer/rag-and-ai-agents-in-software-testing-a-beginners-guide-9965c7e29c5f",
-      "https://medium.com/@gracie.bolton/building-intelligent-applications-that-create-reason-and-transform-business-processes-ecc037c5f1e0",
-      "https://medium.com/@ramnalla.aws/dbscan-explained-the-clustering-algorithm-that-finds-hidden-patterns-and-outliers-72d6b7aa2aed"
-    ],
-    "repos": [
-      "https://github.com/jingyaogong/minimind",
-      "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
-    ]
-  },
   "2026-09-02": {
     "papers": [
       "https://arxiv.org/abs/2608.30478",
@@ -948,6 +920,30 @@
       "https://github.com/ComposioHQ/awesome-claude-skills",
       "https://github.com/colbymchenry/codegraph",
       "https://github.com/pydantic/pydantic-ai"
+    ]
+  },
+  "2026-10-02": {
+    "papers": [
+      "https://arxiv.org/abs/2610.02206",
+      "https://arxiv.org/abs/2609.33403",
+      "https://arxiv.org/abs/2610.00544",
+      "https://arxiv.org/abs/2609.38104",
+      "https://arxiv.org/abs/2609.38886",
+      "https://arxiv.org/abs/2609.38987",
+      "https://arxiv.org/abs/2610.02196",
+      "https://arxiv.org/abs/2609.32259",
+      "https://arxiv.org/abs/2609.34621",
+      "https://arxiv.org/abs/2609.40362"
+    ],
+    "blogs": [
+      "https://blog.cloudflare.com/clef-decision-models/",
+      "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "https://sm2n.ca/articles/typeclasses-vs-modules/"
+    ],
+    "repos": [
+      "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "https://github.com/google/skills"
     ]
   }
 }
