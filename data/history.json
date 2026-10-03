@@ -1,37 +1,4 @@
 {
-  "2026-09-02": {
-    "papers": [
-      "https://arxiv.org/abs/2608.30478",
-      "https://arxiv.org/abs/2609.00768",
-      "https://arxiv.org/abs/2609.00092",
-      "https://arxiv.org/abs/2609.01343",
-      "https://arxiv.org/abs/2609.01481",
-      "https://arxiv.org/abs/2609.00028",
-      "https://arxiv.org/abs/2609.00111",
-      "https://arxiv.org/abs/2609.00188",
-      "https://arxiv.org/abs/2608.30730",
-      "https://arxiv.org/abs/2609.01560"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "https://mvakde.github.io/blog/44-on-arc-1/",
-      "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-      "https://www.worldlabs.ai/blog/atlas",
-      "https://openai.com/index/path-to-astra/",
-      "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "https://keenableai.github.io/select-showcase/",
-      "https://github.com/mattpocock/skills",
-      "https://dev.to/cyclopt_dimitrisk/semantic-caching-isnt-a-cost-saving-hack-its-an-admission-that-most-ai-features-are-faq-bots-93j"
-    ],
-    "repos": [
-      "https://github.com/VoltAgent/awesome-design-md",
-      "https://github.com/Imbad0202/academic-research-skills",
-      "https://github.com/VectifyAI/PageIndex",
-      "https://github.com/Gitlawb/openclaude",
-      "https://github.com/NVIDIA/SkillSpector",
-      "https://github.com/apurvsinghgautam/robin"
-    ]
-  },
   "2026-09-03": {
     "papers": [
       "https://arxiv.org/abs/2608.29607",
@@ -944,6 +911,34 @@
     "repos": [
       "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "https://github.com/google/skills"
+    ]
+  },
+  "2026-10-03": {
+    "papers": [
+      "https://arxiv.org/abs/2609.22753",
+      "https://arxiv.org/abs/2610.01092",
+      "https://arxiv.org/abs/2609.36435",
+      "https://arxiv.org/abs/2610.00812",
+      "https://arxiv.org/abs/2609.36388",
+      "https://arxiv.org/abs/2609.36585",
+      "https://arxiv.org/abs/2609.37690",
+      "https://arxiv.org/abs/2609.32993",
+      "https://arxiv.org/abs/2609.32810",
+      "https://arxiv.org/abs/2610.02142"
+    ],
+    "blogs": [
+      "https://bfl.ai/models/flux-3-image",
+      "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4",
+      "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
+      "https://dev.to/mikachu/how-one-generate-draft-button-changed-the-design-of-my-writing-tool-1jc0",
+      "https://allenai.org/blog/astabrief"
+    ],
+    "repos": [
+      "https://github.com/JuliusBrussee/caveman",
+      "https://github.com/D4Vinci/Scrapling",
+      "https://github.com/microsoft/VibeVoice",
+      "https://github.com/ayghri/i-have-adhd"
     ]
   }
 }
