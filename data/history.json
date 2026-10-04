@@ -1,33 +1,4 @@
 {
-  "2026-09-03": {
-    "papers": [
-      "https://arxiv.org/abs/2608.29607",
-      "https://arxiv.org/abs/2609.02812",
-      "https://arxiv.org/abs/2609.00591",
-      "https://arxiv.org/abs/2609.01925",
-      "https://arxiv.org/abs/2608.18972",
-      "https://arxiv.org/abs/2609.01437",
-      "https://arxiv.org/abs/2608.31111",
-      "https://arxiv.org/abs/2608.31100",
-      "https://arxiv.org/abs/2609.02749",
-      "https://arxiv.org/abs/2609.02783"
-    ],
-    "blogs": [
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "https://developer.meta.com/ai/models/muse-spark/",
-      "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-      "https://github.com/mlc-ai/web-llm",
-      "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"
-    ],
-    "repos": [
-      "https://github.com/NousResearch/hermes-agent",
-      "https://github.com/datawhalechina/hello-agents",
-      "https://github.com/PDFMathTranslate/PDFMathTranslate",
-      "https://github.com/ScrapeGraphAI/Scrapegraph-ai"
-    ]
-  },
   "2026-09-04": {
     "papers": [
       "https://arxiv.org/abs/2609.03293",
@@ -939,6 +910,33 @@
       "https://github.com/D4Vinci/Scrapling",
       "https://github.com/microsoft/VibeVoice",
       "https://github.com/ayghri/i-have-adhd"
+    ]
+  },
+  "2026-10-04": {
+    "papers": [
+      "http://arxiv.org/abs/2610.02207v1",
+      "http://arxiv.org/abs/2610.02206v1",
+      "http://arxiv.org/abs/2610.02204v1",
+      "http://arxiv.org/abs/2610.02203v1",
+      "http://arxiv.org/abs/2610.02202v1",
+      "http://arxiv.org/abs/2610.02201v1",
+      "http://arxiv.org/abs/2610.02200v1",
+      "http://arxiv.org/abs/2610.02199v1",
+      "http://arxiv.org/abs/2610.02198v1",
+      "http://arxiv.org/abs/2610.02195v1"
+    ],
+    "blogs": [
+      "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo"
+    ],
+    "repos": [
+      "https://github.com/mattpocock/skills",
+      "https://github.com/affaan-m/ECC",
+      "https://github.com/thedotmack/claude-mem",
+      "https://github.com/calesthio/OpenMontage",
+      "https://github.com/agno-agi/agno"
     ]
   }
 }

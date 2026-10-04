@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-04</strong></summary>
+
+#### Papers
+
+1. **[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](http://arxiv.org/abs/2610.02207v1)**
+
+2. **[KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards](http://arxiv.org/abs/2610.02206v1)**
+
+3. **[Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents](http://arxiv.org/abs/2610.02204v1)**
+
+4. **[Embedding Prediction Helps Image Generation](http://arxiv.org/abs/2610.02203v1)**
+
+5. **[ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research](http://arxiv.org/abs/2610.02202v1)**
+
+6. **[SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation](http://arxiv.org/abs/2610.02201v1)**
+
+7. **[VISTA: A Visual Harness for Reasoning in an Interactive World](http://arxiv.org/abs/2610.02200v1)**
+
+8. **[TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning](http://arxiv.org/abs/2610.02199v1)**
+
+9. **[FERPO: Forward Entropy-Regularized Policy Optimization](http://arxiv.org/abs/2610.02198v1)**
+
+10. **[Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control](http://arxiv.org/abs/2610.02195v1)**
+
+
+#### Blog Posts
+
+1. **[I quit OpenAI because its culture is broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA)** by theatlantic.com
+
+2. **[LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/)** by fortune.com
+
+3. **[Religious scholars met with Anthropic](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)** by nytimes.com
+
+4. **[I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.](https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo)** by Mika Flowers
+
+
+#### Trending Repos
+
+1. **[mattpocock/skills](https://github.com/mattpocock/skills)** — Skills for Real Engineers. Straight from my .agents directory. ⭐ 275530
+
+2. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. ⭐ 272434
+
+3. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau ⭐ 95731
+
+4. **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc ⭐ 62760
+
+5. **[agno-agi/agno](https://github.com/agno-agi/agno)** — Build, run, and manage agent platforms. ⭐ 42543
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-03</strong></summary>
 
 #### Papers
