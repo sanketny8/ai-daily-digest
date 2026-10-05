@@ -1,32 +1,4 @@
 {
-  "2026-09-04": {
-    "papers": [
-      "https://arxiv.org/abs/2609.03293",
-      "https://arxiv.org/abs/2608.26730",
-      "https://arxiv.org/abs/2609.04196",
-      "https://arxiv.org/abs/2609.04131",
-      "https://arxiv.org/abs/2609.02367",
-      "https://arxiv.org/abs/2609.03563",
-      "https://arxiv.org/abs/2609.03952",
-      "https://arxiv.org/abs/2609.03430",
-      "https://arxiv.org/abs/2609.04172",
-      "https://arxiv.org/abs/2608.27831"
-    ],
-    "blogs": [
-      "https://openai.com/index/gpt-6-astra/",
-      "https://inference-docs.cerebras.ai/models/overview",
-      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "https://ifm.ai/blog/k2/",
-      "https://arcprize.org/blog/astra",
-      "https://armature.tech/blog/which-tools-coding-agents-install",
-      "https://zed.dev/blog/agentic-xanadu",
-      "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii"
-    ],
-    "repos": [
-      "https://github.com/f/prompts.chat",
-      "https://github.com/ByteByteGoHq/system-design-101"
-    ]
-  },
   "2026-09-05": {
     "papers": [
       "https://arxiv.org/abs/2609.03199",
@@ -937,6 +909,35 @@
       "https://github.com/thedotmack/claude-mem",
       "https://github.com/calesthio/OpenMontage",
       "https://github.com/agno-agi/agno"
+    ]
+  },
+  "2026-10-05": {
+    "papers": [
+      "https://arxiv.org/abs/2610.03391",
+      "https://arxiv.org/abs/2610.02486",
+      "https://arxiv.org/abs/2610.03665",
+      "https://arxiv.org/abs/2610.02126",
+      "https://arxiv.org/abs/2609.38123",
+      "https://arxiv.org/abs/2610.02304",
+      "https://arxiv.org/abs/2610.03574",
+      "https://arxiv.org/abs/2609.38078",
+      "https://arxiv.org/abs/2609.38879",
+      "https://arxiv.org/abs/2609.39071"
+    ],
+    "blogs": [
+      "https://dev.to/emmasofia/before-the-alarm-screams-at-3-am-predicting-liams-nocturnal-hypoglycemia-with-prior-labs-tabpfn-25mn",
+      "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "https://dev.to/dj29/origintrace-protecting-the-dev-community-from-content-theft-using-sanity-context-mcp-j5c",
+      "https://dev.to/codeswithroh/my-mom-reads-bengali-not-english-so-i-built-her-a-reader-that-catches-scams-on-open-weight-gemma-47ef"
+    ],
+    "repos": [
+      "https://github.com/garrytan/gstack",
+      "https://github.com/antirez/ds4",
+      "https://github.com/ifixai-ai/iFixAi",
+      "https://github.com/jamwithai/production-agentic-rag-course",
+      "https://github.com/experientiallabs/experiential",
+      "https://github.com/shy3130/tick-stock-panel",
+      "https://github.com/kaifcodec/user-scanner"
     ]
   }
 }

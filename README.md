@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-05</strong></summary>
+
+#### Papers
+
+1. **[Native Action-Prior Learning from Videos for World Action Models](https://arxiv.org/abs/2610.03391)**
+
+2. **[From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders](https://arxiv.org/abs/2610.02486)**
+
+3. **[Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models](https://arxiv.org/abs/2610.03665)**
+
+4. **[Local Support Learning](https://arxiv.org/abs/2610.02126)**
+
+5. **[HelixWorld: A Real-time Interactive Audio-Visual World Model](https://arxiv.org/abs/2609.38123)**
+
+6. **[SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation](https://arxiv.org/abs/2610.02304)**
+
+7. **[HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents](https://arxiv.org/abs/2610.03574)**
+
+8. **[MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://arxiv.org/abs/2609.38078)**
+
+9. **[Does Learning Protein Folding Generalize to Broader Reasoning?](https://arxiv.org/abs/2609.38879)**
+
+10. **[LexReward: A Taxonomy-Driven Reward Framework for Legal Language Models](https://arxiv.org/abs/2609.39071)**
+
+
+#### Blog Posts
+
+1. **[Before the Alarm Screams at 3 AM: Predicting Liam's Nocturnal Hypoglycemia with Prior Labs TabPFN](https://dev.to/emmasofia/before-the-alarm-screams-at-3-am-predicting-liams-nocturnal-hypoglycemia-with-prior-labs-tabpfn-25mn)** by Emma Sofia
+
+2. **[Anthropic reported diary entry to police, woman faces felony charge](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html)** by techspot.com
+
+3. **[OriginTrace: Protecting the DEV Community from Content Theft using Sanity Context MCP](https://dev.to/dj29/origintrace-protecting-the-dev-community-from-content-theft-using-sanity-context-mcp-j5c)** by Dhruv Jani
+
+4. **[My mom reads Bengali, not English. So I built her a reader that catches scams, on open-weight Gemma.](https://dev.to/codeswithroh/my-mom-reads-bengali-not-english-so-i-built-her-a-reader-that-catches-scams-on-open-weight-gemma-47ef)** by Rohit Purkait
+
+
+#### Trending Repos
+
+1. **[garrytan/gstack](https://github.com/garrytan/gstack)** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA ⭐ 135239
+
+2. **[antirez/ds4](https://github.com/antirez/ds4)** — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm ⭐ 23500
+
+3. **[ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)** — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th ⭐ 20623
+
+4. **[jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)** —  ⭐ 9581
+
+5. **[experientiallabs/experiential](https://github.com/experientiallabs/experiential)** — Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized mode ⭐ 9026
+
+6. **[shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel)** — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ⭐ 5578
+
+7. **[kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)** — 🕵️‍♂️ (2-in-1) Email &amp; Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2 ⭐ 5250
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-04</strong></summary>
 
 #### Papers

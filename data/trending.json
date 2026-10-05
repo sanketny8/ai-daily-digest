@@ -1,113 +1,127 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "papers": [
     {
-      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-      "url": "http://arxiv.org/abs/2610.02207v1",
-      "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained "
+      "title": "Native Action-Prior Learning from Videos for World Action Models",
+      "url": "https://arxiv.org/abs/2610.03391",
+      "summary": "World action models integrate future visual dynamics with robot action prediction, but their scalability remains limited by the need for action-annotated robot trajectories. Observation-only videos co"
     },
     {
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-      "url": "http://arxiv.org/abs/2610.02206v1",
-      "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment"
+      "title": "From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders",
+      "url": "https://arxiv.org/abs/2610.02486",
+      "summary": "Typed decision models answer schema-constrained questions about a text in one forward pass and return probabilities meant to be thresholded. We ask whether biomedical sentence encoders trained for ret"
     },
     {
-      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-      "url": "http://arxiv.org/abs/2610.02204v1",
-      "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruc"
+      "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2610.03665",
+      "summary": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few co"
     },
     {
-      "title": "Embedding Prediction Helps Image Generation",
-      "url": "http://arxiv.org/abs/2610.02203v1",
-      "summary": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition in"
+      "title": "Local Support Learning",
+      "url": "https://arxiv.org/abs/2610.02126",
+      "summary": "We explore catastrophic forgetting in the context of large pre-trained models. By considering forgetting as a geometric problem in the input space of each weight matrix, we uncover a natural retention"
     },
     {
-      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-      "url": "http://arxiv.org/abs/2610.02202v1",
-      "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of res"
+      "title": "HelixWorld: A Real-time Interactive Audio-Visual World Model",
+      "url": "https://arxiv.org/abs/2609.38123",
+      "summary": "World simulation is inherently multisensory, demanding synchronized visual and acoustic dynamics in real time. Yet prevailing interactive world models remain strictly silent, focusing exclusively on v"
     },
     {
-      "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-      "url": "http://arxiv.org/abs/2610.02201v1",
-      "summary": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragme"
+      "title": "SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation",
+      "url": "https://arxiv.org/abs/2610.02304",
+      "summary": "Existing Simulink benchmarks mainly evaluate whether generated models compile, execute, or resemble a reference model. These criteria do not establish whether a model satisfies its engineering require"
     },
     {
-      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
-      "url": "http://arxiv.org/abs/2610.02200v1",
-      "summary": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA,"
+      "title": "HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents",
+      "url": "https://arxiv.org/abs/2610.03574",
+      "summary": "We introduce HyperBrowseComp, a multilingual and multimodal browsing benchmark comprising 423 manually authored and human-validated questions across 13 languages, written by native or highly proficien"
     },
     {
-      "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
-      "url": "http://arxiv.org/abs/2610.02199v1",
-      "summary": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress opt"
+      "title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
+      "url": "https://arxiv.org/abs/2609.38078",
+      "summary": "Vision-language-action (VLA) models have advanced robotic manipulation, but their zero-shot generalization in new tasks and environments remains limited, and their reliance on specialized training kee"
     },
     {
-      "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
-      "url": "http://arxiv.org/abs/2610.02198v1",
-      "summary": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict "
+      "title": "Does Learning Protein Folding Generalize to Broader Reasoning?",
+      "url": "https://arxiv.org/abs/2609.38879",
+      "summary": "Large language models rely heavily on human text, which often conveys surface answers rather than the spatial and structural logic behind them. Protein folding is a natural testbed, because one solved"
     },
     {
-      "title": "Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control",
-      "url": "http://arxiv.org/abs/2610.02195v1",
-      "summary": "The generalized Schrödinger bridge on a graph moves mass between two distributions while charging a cost for the states visited. It has been approached by learning the rates of a controlled continuous"
+      "title": "LexReward: A Taxonomy-Driven Reward Framework for Legal Language Models",
+      "url": "https://arxiv.org/abs/2609.39071",
+      "summary": "Legal language models require reward signals that capture not only answer correctness but also the multidimensional quality of legal responses. Existing reward methods, however, often rely on coarse-g"
     }
   ],
   "blog_posts": [
     {
-      "title": "I quit OpenAI because its culture is broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "author": "theatlantic.com"
+      "title": "Before the Alarm Screams at 3 AM: Predicting Liam's Nocturnal Hypoglycemia with Prior Labs TabPFN",
+      "url": "https://dev.to/emmasofia/before-the-alarm-screams-at-3-am-predicting-liams-nocturnal-hypoglycemia-with-prior-labs-tabpfn-25mn",
+      "author": "Emma Sofia"
     },
     {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "author": "fortune.com"
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "author": "techspot.com"
     },
     {
-      "title": "Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "author": "nytimes.com"
+      "title": "OriginTrace: Protecting the DEV Community from Content Theft using Sanity Context MCP",
+      "url": "https://dev.to/dj29/origintrace-protecting-the-dev-community-from-content-theft-using-sanity-context-mcp-j5c",
+      "author": "Dhruv Jani"
     },
     {
-      "title": "I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.",
-      "url": "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo",
-      "author": "Mika Flowers"
+      "title": "My mom reads Bengali, not English. So I built her a reader that catches scams, on open-weight Gemma.",
+      "url": "https://dev.to/codeswithroh/my-mom-reads-bengali-not-english-so-i-built-her-a-reader-that-catches-scams-on-open-weight-gemma-47ef",
+      "author": "Rohit Purkait"
     }
   ],
   "repos": [
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 275530,
-      "language": "Shell"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 272434,
-      "language": "JavaScript"
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
-      "stars": 95731,
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 135239,
       "language": "TypeScript"
     },
     {
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
-      "stars": 62760,
+      "name": "antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "stars": 23500,
+      "language": "C"
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th",
+      "stars": 20623,
       "language": "Python"
     },
     {
-      "name": "agno-agi/agno",
-      "url": "https://github.com/agno-agi/agno",
-      "description": "Build, run, and manage agent platforms.",
-      "stars": 42543,
+      "name": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "description": "",
+      "stars": 9581,
+      "language": "Python"
+    },
+    {
+      "name": "experientiallabs/experiential",
+      "url": "https://github.com/experientiallabs/experiential",
+      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized mode",
+      "stars": 9026,
+      "language": "Python"
+    },
+    {
+      "name": "shy3130/tick-stock-panel",
+      "url": "https://github.com/shy3130/tick-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "stars": 5578,
+      "language": "Python"
+    },
+    {
+      "name": "kaifcodec/user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "description": "🕵️‍♂️ (2-in-1) Email &amp; Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2",
+      "stars": 5250,
       "language": "Python"
     }
   ],
