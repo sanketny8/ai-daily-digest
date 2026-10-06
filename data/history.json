@@ -1,32 +1,4 @@
 {
-  "2026-09-05": {
-    "papers": [
-      "https://arxiv.org/abs/2609.03199",
-      "https://arxiv.org/abs/2609.02887",
-      "https://arxiv.org/abs/2609.03153",
-      "https://arxiv.org/abs/2608.29188",
-      "https://arxiv.org/abs/2609.04094",
-      "https://arxiv.org/abs/2609.04173",
-      "https://arxiv.org/abs/2608.29253",
-      "https://arxiv.org/abs/2609.03820",
-      "https://arxiv.org/abs/2608.30391",
-      "https://arxiv.org/abs/2609.04201"
-    ],
-    "blogs": [
-      "https://collusion.wiki/",
-      "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "https://openrouter.ai/openai/gpt-6-astra",
-      "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-      "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/"
-    ],
-    "repos": [
-      "https://github.com/anomalyco/opencode",
-      "https://github.com/sgl-project/sglang",
-      "https://github.com/eriklindernoren/ML-From-Scratch"
-    ]
-  },
   "2026-09-06": {
     "papers": [
       "http://arxiv.org/abs/2609.04199v1",
@@ -938,6 +910,38 @@
       "https://github.com/experientiallabs/experiential",
       "https://github.com/shy3130/tick-stock-panel",
       "https://github.com/kaifcodec/user-scanner"
+    ]
+  },
+  "2026-10-06": {
+    "papers": [
+      "https://arxiv.org/abs/2610.04047",
+      "https://arxiv.org/abs/2610.04929",
+      "https://arxiv.org/abs/2610.06648",
+      "https://arxiv.org/abs/2610.04616",
+      "https://arxiv.org/abs/2605.21318",
+      "https://arxiv.org/abs/2610.02150",
+      "https://arxiv.org/abs/2609.39420",
+      "https://arxiv.org/abs/2610.05033",
+      "https://arxiv.org/abs/2610.05162",
+      "https://arxiv.org/abs/2610.06184"
+    ],
+    "blogs": [
+      "https://reflection.ai/blog/introducing-beam",
+      "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "https://qlabs.sh/research/dust",
+      "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+      "https://dev.to/yashksaini/i-built-my-friend-a-mock-interviewer-that-read-his-rust-code-1gif"
+    ],
+    "repos": [
+      "https://github.com/msitarzewski/agency-agents",
+      "https://github.com/cloudflare/cloudflare-os",
+      "https://github.com/DuarteSantos8/openGym",
+      "https://github.com/VictorTaelin/OptMem",
+      "https://github.com/QingYunA/answer-me-with-html",
+      "https://github.com/nanaism/yomiyasu",
+      "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "https://github.com/Edwardxlai/easyread",
+      "https://github.com/Jakeschincariol/replica-skill"
     ]
   }
 }

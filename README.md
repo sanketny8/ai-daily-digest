@@ -10,6 +10,69 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-06</strong></summary>
+
+#### Papers
+
+1. **[Periscope: Extending Frozen Language Models Beyond Their Context Window](https://arxiv.org/abs/2610.04047)**
+
+2. **[RobotUse: Allocating Computation, Context, and Decisions](https://arxiv.org/abs/2610.04929)**
+
+3. **[Representation-Space MMD for Diffusion Language Models](https://arxiv.org/abs/2610.06648)**
+
+4. **[PerturBot: Breaking Shortcut Priors in Vision-Language-Action Models with Perturbative Training](https://arxiv.org/abs/2610.04616)**
+
+5. **[TextReg: Mitigating Prompt Distributional Overfitting via Regularized Text-Space Optimization](https://arxiv.org/abs/2605.21318)**
+
+6. **[From Knowledge Access to Source Learning: Developing Source-Specific Competence](https://arxiv.org/abs/2610.02150)**
+
+7. **[QuantCode Model: Specializing Language Models for Executable Algorithmic Trading Code](https://arxiv.org/abs/2609.39420)**
+
+8. **[Code2Games: Enabling Coding Agents for Gaming World Generation](https://arxiv.org/abs/2610.05033)**
+
+9. **[Memadapter: Counterfactual Adaptation Against Memory-induced Sycophancy](https://arxiv.org/abs/2610.05162)**
+
+10. **[Arm-wise Compositional Generalization in Dual-Arm Vision-Language-Action Models](https://arxiv.org/abs/2610.06184)**
+
+
+#### Blog Posts
+
+1. **[Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)** by reflection.ai
+
+2. **[Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)** by vals.ai
+
+3. **[Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)** by qlabs.sh
+
+4. **[Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers](https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails)** by developers.redhat.com
+
+5. **[I Built My Friend a Mock Interviewer That Read His Rust Code](https://dev.to/yashksaini/i-built-my-friend-a-mock-interviewer-that-read-his-rust-code-1gif)** by Yash Kumar Saini
+
+
+#### Trending Repos
+
+1. **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a ⭐ 157451
+
+2. **[cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)** — Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. ⭐ 11115
+
+3. **[DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)** — Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey l ⭐ 4607
+
+4. **[VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)** — Permanent memory for AI agents. A 426-token prompt, a script, plug and play. ⭐ 1965
+
+5. **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 ⭐ 1553
+
+6. **[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)** — AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese ⭐ 1552
+
+7. **[M-Abozaid/esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock)** — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?featu ⭐ 1536
+
+8. **[Edwardxlai/easyread](https://github.com/Edwardxlai/easyread)** — 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese. ⭐ 814
+
+9. **[Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill)** — Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. ⭐ 571
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-05</strong></summary>
 
 #### Papers
