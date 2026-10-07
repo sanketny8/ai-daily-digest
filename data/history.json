@@ -1,25 +1,4 @@
 {
-  "2026-09-06": {
-    "papers": [
-      "http://arxiv.org/abs/2609.04199v1",
-      "http://arxiv.org/abs/2609.04198v1",
-      "http://arxiv.org/abs/2609.04197v1",
-      "http://arxiv.org/abs/2609.04194v1",
-      "http://arxiv.org/abs/2609.04190v1",
-      "http://arxiv.org/abs/2609.04189v1",
-      "http://arxiv.org/abs/2609.04183v1",
-      "http://arxiv.org/abs/2609.04180v1",
-      "http://arxiv.org/abs/2609.04177v1",
-      "http://arxiv.org/abs/2609.04173v1"
-    ],
-    "blogs": [
-      "https://openai.robocurve.org/gpt-6-astra/",
-      "https://github.com/okf-memory/okf-agent-memory"
-    ],
-    "repos": [
-      "https://github.com/huggingface/datasets"
-    ]
-  },
   "2026-09-07": {
     "papers": [
       "https://arxiv.org/abs/2609.02780",
@@ -942,6 +921,33 @@
       "https://github.com/M-Abozaid/esp32-c3-adblock",
       "https://github.com/Edwardxlai/easyread",
       "https://github.com/Jakeschincariol/replica-skill"
+    ]
+  },
+  "2026-10-07": {
+    "papers": [
+      "https://arxiv.org/abs/2609.32921",
+      "https://arxiv.org/abs/2610.08430",
+      "https://arxiv.org/abs/2610.05842",
+      "https://arxiv.org/abs/2609.37334",
+      "https://arxiv.org/abs/2610.04605",
+      "https://arxiv.org/abs/2610.05912",
+      "https://arxiv.org/abs/2610.05967",
+      "https://arxiv.org/abs/2610.08630",
+      "https://arxiv.org/abs/2610.05954",
+      "https://arxiv.org/abs/2610.07753"
+    ],
+    "blogs": [
+      "https://mistral.ai/news/mistral-large-4/\\",
+      "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "https://developers.openai.com/api/docs/guides/decisions",
+      "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "https://strandsagents.com/blog/introducing-strands-decider/"
+    ],
+    "repos": [
+      "https://github.com/cathrynlavery/diagram-design",
+      "https://github.com/morluto/rea",
+      "https://github.com/omnigent-ai/omnigent"
     ]
   }
 }

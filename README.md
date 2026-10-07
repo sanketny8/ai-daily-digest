@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-07</strong></summary>
+
+#### Papers
+
+1. **[Adaptive Latent Capacity for World Models](https://arxiv.org/abs/2609.32921)**
+
+2. **[NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale](https://arxiv.org/abs/2610.08430)**
+
+3. **[HLA: Expressive Hybrid Linear Attention via Chunk-Wise Dynamic Mixing](https://arxiv.org/abs/2610.05842)**
+
+4. **[Taming VLAs under Robot Execution Errors: Self-Compensation and Stress Testing](https://arxiv.org/abs/2609.37334)**
+
+5. **[ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution](https://arxiv.org/abs/2610.04605)**
+
+6. **[MiniCorp: The Last Mile of the AI Agent Firm](https://arxiv.org/abs/2610.05912)**
+
+7. **[JLD: Perceptual Distance Through A Jacobian Lens](https://arxiv.org/abs/2610.05967)**
+
+8. **[Towards In-Parameter Memory Augmentation for Large Language Models](https://arxiv.org/abs/2610.08630)**
+
+9. **[MEND: RL For Flow Models via Proximal Velocity Matching](https://arxiv.org/abs/2610.05954)**
+
+10. **[From Evidence to Action: How Tool-Using Agents Fail](https://arxiv.org/abs/2610.07753)**
+
+
+#### Blog Posts
+
+1. **[Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)** by mistral.ai
+
+2. **[Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)** by openai.com
+
+3. **[EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/)** by blog.google
+
+4. **[Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)** by developers.openai.com
+
+5. **[Claude Code’s suggested message feature: I think the real customer is the model](https://www.zohaib.cc/blog/smartest-claude-code-feature)** by zohaib.cc
+
+6. **[Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)** by strandsagents.com
+
+
+#### Trending Repos
+
+1. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. ⭐ 44263
+
+2. **[morluto/rea](https://github.com/morluto/rea)** — Reverse engineer anything with agents, from app behavior down to native binaries. ⭐ 10734
+
+3. **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c ⭐ 10635
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-06</strong></summary>
 
 #### Papers

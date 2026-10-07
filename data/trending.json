@@ -1,146 +1,109 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "papers": [
     {
-      "title": "Periscope: Extending Frozen Language Models Beyond Their Context Window",
-      "url": "https://arxiv.org/abs/2610.04047",
-      "summary": "A language model reads long text in one quadratic forward pass, stops at the context window, and loses accuracy with length before reaching it. We ask whether the read can be factorized when deciding "
+      "title": "Adaptive Latent Capacity for World Models",
+      "url": "https://arxiv.org/abs/2609.32921",
+      "summary": "We introduce Adaptive LeWorldModel (ALeWM), a world model based on a joint-embedding predictive architecture (JEPA) that learns to concentrate predictive information in compact prefixes of a wide late"
     },
     {
-      "title": "RobotUse: Allocating Computation, Context, and Decisions",
-      "url": "https://arxiv.org/abs/2610.04929",
-      "summary": "Robot agents must connect their intended actions to observed outcomes while retaining the context needed to revise their choices over repeated attempts. Existing interfaces often leave these choices i"
+      "title": "NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale",
+      "url": "https://arxiv.org/abs/2610.08430",
+      "summary": "Agentic reinforcement learning (RL) disaggregates training from rollout, so each policy update must reach the rollout clusters before the next batch. Transferring a full 1T checkpoint for such weight "
     },
     {
-      "title": "Representation-Space MMD for Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2610.06648",
-      "summary": "We introduce a post-training method for diffusion language models (DLMs) that minimizes Maximum Mean Discrepancy (MMD) between generated and reference distributions in the feature space of a frozen pr"
+      "title": "HLA: Expressive Hybrid Linear Attention via Chunk-Wise Dynamic Mixing",
+      "url": "https://arxiv.org/abs/2610.05842",
+      "summary": "Linear attention enables efficient long-context autoregressive decoding by compressing history into recurrent states, but this compression can make selective access to sparse and distant information d"
     },
     {
-      "title": "PerturBot: Breaking Shortcut Priors in Vision-Language-Action Models with Perturbative Training",
-      "url": "https://arxiv.org/abs/2610.04616",
-      "summary": "A vision--language--action (VLA) policy can complete complex tasks while ignoring the evidence that should determine its actions. An object held near the wrist camera can displace the instructed targe"
+      "title": "Taming VLAs under Robot Execution Errors: Self-Compensation and Stress Testing",
+      "url": "https://arxiv.org/abs/2609.37334",
+      "summary": "Vision-language-action (VLA) policies often fail when a robot's executed motion deviates from their commanded action. Such execution errors arise from the robot's mechanics and operating conditions, s"
     },
     {
-      "title": "TextReg: Mitigating Prompt Distributional Overfitting via Regularized Text-Space Optimization",
-      "url": "https://arxiv.org/abs/2605.21318",
-      "summary": "Large language models (LLMs) are highly sensitive to the prompts used to specify task objectives and behavioral constraints. Many recent prompt optimization methods iteratively rewrite prompts using L"
+      "title": "ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution",
+      "url": "https://arxiv.org/abs/2610.04605",
+      "summary": "Many visual explanation methods in computer vision highlight pixel importance but struggle to link these low-level cues to semantically meaningful concepts, limiting their interpretability and trustwo"
     },
     {
-      "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
-      "url": "https://arxiv.org/abs/2610.02150",
-      "summary": "Large language model (LLM) agents increasingly rely on persistent external sources to solve sequences of knowledge-intensive tasks. Existing methods improve how source content is accessed and organize"
+      "title": "MiniCorp: The Last Mile of the AI Agent Firm",
+      "url": "https://arxiv.org/abs/2610.05912",
+      "summary": "The last mile toward enterprise AGI is a company that runs itself. Training and adapting such agents require longitudinal enterprise data, which remain scarce, costly to acquire, and often restricted "
     },
     {
-      "title": "QuantCode Model: Specializing Language Models for Executable Algorithmic Trading Code",
-      "url": "https://arxiv.org/abs/2609.39420",
-      "summary": "Large language models are strong general-purpose code generators, but executable algorithmic trading remains a demanding specialization target: a model must translate a natural-language strategy speci"
+      "title": "JLD: Perceptual Distance Through A Jacobian Lens",
+      "url": "https://arxiv.org/abs/2610.05967",
+      "summary": "Image compression, restoration, and generation all require a way to measure how different two images look to a person. Pixel error ignores how people see, while the most accurate perceptual distances "
     },
     {
-      "title": "Code2Games: Enabling Coding Agents for Gaming World Generation",
-      "url": "https://arxiv.org/abs/2610.05033",
-      "summary": "Generating a high-quality gaming world from a natural-language game intent requires joint reasoning about scene structure, spatial layout, gameplay objectives, interactive entities, and executable gam"
+      "title": "Towards In-Parameter Memory Augmentation for Large Language Models",
+      "url": "https://arxiv.org/abs/2610.08630",
+      "summary": "Recently Large Language Models (LLMs) and LLM-based agents increasingly need to incorporate knowledge acquired after pretraining, e.g., domain facts, user preferences, documents, and interaction exper"
     },
     {
-      "title": "Memadapter: Counterfactual Adaptation Against Memory-induced Sycophancy",
-      "url": "https://arxiv.org/abs/2610.05162",
-      "summary": "Long-term memory enables LLM-based agents to retain and reuse information across tasks and sessions, supporting personalization and long-horizon interactions. However, persistent memories can also ind"
+      "title": "MEND: RL For Flow Models via Proximal Velocity Matching",
+      "url": "https://arxiv.org/abs/2610.05954",
+      "summary": "Reward post-training of flow models either reweights the model's own samples under a KL penalty or a frozen reference, often for thousands of updates, or backpropagates the reward and moves every samp"
     },
     {
-      "title": "Arm-wise Compositional Generalization in Dual-Arm Vision-Language-Action Models",
-      "url": "https://arxiv.org/abs/2610.06184",
-      "summary": "Generalization in multi-arm collaboration can be studied as composing familiar atomic skills in new ways across arms. However, existing evaluations offer limited insight into which training and archit"
+      "title": "From Evidence to Action: How Tool-Using Agents Fail",
+      "url": "https://arxiv.org/abs/2610.07753",
+      "summary": "Tool-using agents make consequential changes to external state, yet correct outcomes do not guarantee that their actions were supported by evidence established beforehand. We study where this evidence"
     }
   ],
   "blog_posts": [
     {
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "author": "reflection.ai"
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "author": "mistral.ai"
     },
     {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "author": "vals.ai"
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "author": "openai.com"
     },
     {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "author": "qlabs.sh"
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "author": "blog.google"
     },
     {
-      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "author": "developers.redhat.com"
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "author": "developers.openai.com"
     },
     {
-      "title": "I Built My Friend a Mock Interviewer That Read His Rust Code",
-      "url": "https://dev.to/yashksaini/i-built-my-friend-a-mock-interviewer-that-read-his-rust-code-1gif",
-      "author": "Yash Kumar Saini"
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "author": "zohaib.cc"
+    },
+    {
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "author": "strandsagents.com"
     }
   ],
   "repos": [
     {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 157451,
-      "language": "Shell"
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 44263,
+      "language": "HTML"
     },
     {
-      "name": "cloudflare/cloudflare-os",
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "stars": 11115,
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 10734,
       "language": "TypeScript"
     },
     {
-      "name": "DuarteSantos8/openGym",
-      "url": "https://github.com/DuarteSantos8/openGym",
-      "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey l",
-      "stars": 4607,
-      "language": "JavaScript"
-    },
-    {
-      "name": "VictorTaelin/OptMem",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stars": 1965,
-      "language": "Python"
-    },
-    {
-      "name": "QingYunA/answer-me-with-html",
-      "url": "https://github.com/QingYunA/answer-me-with-html",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": 1553,
-      "language": "JavaScript"
-    },
-    {
-      "name": "nanaism/yomiyasu",
-      "url": "https://github.com/nanaism/yomiyasu",
-      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "stars": 1552,
-      "language": "Python"
-    },
-    {
-      "name": "M-Abozaid/esp32-c3-adblock",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?featu",
-      "stars": 1536,
-      "language": "C++"
-    },
-    {
-      "name": "Edwardxlai/easyread",
-      "url": "https://github.com/Edwardxlai/easyread",
-      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stars": 814,
-      "language": "Python"
-    },
-    {
-      "name": "Jakeschincariol/replica-skill",
-      "url": "https://github.com/Jakeschincariol/replica-skill",
-      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-      "stars": 571,
+      "name": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c",
+      "stars": 10635,
       "language": "Python"
     }
   ],
