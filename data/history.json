@@ -1,35 +1,4 @@
 {
-  "2026-09-07": {
-    "papers": [
-      "https://arxiv.org/abs/2609.02780",
-      "https://arxiv.org/abs/2609.04369",
-      "https://arxiv.org/abs/2609.05258",
-      "https://arxiv.org/abs/2609.04250",
-      "https://arxiv.org/abs/2609.04061",
-      "https://arxiv.org/abs/2609.04523",
-      "https://arxiv.org/abs/2609.05295",
-      "https://arxiv.org/abs/2609.04490",
-      "https://arxiv.org/abs/2609.05275",
-      "https://arxiv.org/abs/2609.05416"
-    ],
-    "blogs": [
-      "https://openai.com/index/an-alien-mind/",
-      "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
-      "https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b",
-      "https://dev.to/yashksaini/the-receipt-should-come-from-the-person-who-received-it-4kog",
-      "https://dev.to/kenielzep97/compare-against-the-schema-they-shipped-not-the-one-you-expected-3mb8",
-      "https://medium.com/@magicworksitscolutions/the-growing-demand-for-ai-consultation-4c6642d7e9cd",
-      "https://austindevis.medium.com/custom-ai-development-services-what-they-actually-cost-how-they-work-and-how-to-choose-the-right-0fd3b55c732e"
-    ],
-    "repos": [
-      "https://github.com/browser-use/browser-use",
-      "https://github.com/openai/whisper",
-      "https://github.com/coreyhaines31/marketingskills",
-      "https://github.com/blader/humanizer",
-      "https://github.com/llvm/llvm-project",
-      "https://github.com/ahujasid/blender-mcp"
-    ]
-  },
   "2026-09-08": {
     "papers": [
       "https://arxiv.org/abs/2609.03241",
@@ -948,6 +917,33 @@
       "https://github.com/cathrynlavery/diagram-design",
       "https://github.com/morluto/rea",
       "https://github.com/omnigent-ai/omnigent"
+    ]
+  },
+  "2026-10-08": {
+    "papers": [
+      "https://arxiv.org/abs/2610.03799",
+      "https://arxiv.org/abs/2610.10533",
+      "https://arxiv.org/abs/2610.09684",
+      "https://arxiv.org/abs/2610.03185",
+      "https://arxiv.org/abs/2610.07250",
+      "https://arxiv.org/abs/2610.08995",
+      "https://arxiv.org/abs/2610.10497",
+      "https://arxiv.org/abs/2610.09228",
+      "https://arxiv.org/abs/2610.09832",
+      "https://arxiv.org/abs/2610.02368"
+    ],
+    "blogs": [
+      "https://www.anthropic.com/claude-haiku-5-5",
+      "https://openai.com/index/gpt-6-for-everyone/",
+      "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "https://agent.reviews/"
+    ],
+    "repos": [
+      "https://github.com/vllm-project/vllm",
+      "https://github.com/manaflow-ai/cmux",
+      "https://github.com/allenai/olmocr",
+      "https://github.com/MDX-Tom/gpt-instruct"
     ]
   }
 }

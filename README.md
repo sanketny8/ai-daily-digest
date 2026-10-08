@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-08</strong></summary>
+
+#### Papers
+
+1. **[StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search](https://arxiv.org/abs/2610.03799)**
+
+2. **[EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](https://arxiv.org/abs/2610.10533)**
+
+3. **[From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery](https://arxiv.org/abs/2610.09684)**
+
+4. **[Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective](https://arxiv.org/abs/2610.03185)**
+
+5. **[Internalizing Agent Experience into Diffusion Model Weights via On-Policy Context Distillation](https://arxiv.org/abs/2610.07250)**
+
+6. **[PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995)**
+
+7. **[QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation](https://arxiv.org/abs/2610.10497)**
+
+8. **[Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228)**
+
+9. **[SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles](https://arxiv.org/abs/2610.09832)**
+
+10. **[Rethinking World-Action Model for Compositional and In-Context Robotic Manipulation](https://arxiv.org/abs/2610.02368)**
+
+
+#### Blog Posts
+
+1. **[Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)** by anthropic.com
+
+2. **[GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)** by openai.com
+
+3. **[Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)** by rswebsols.com
+
+4. **[A new write and space optimized storage engine for MySQL is here](https://tidesdb.com/articles/tidesdb-now-available-for-mysql/)** by tidesdb.com
+
+5. **[Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/)** by agent.reviews
+
+
+#### Trending Repos
+
+1. **[vllm-project/vllm](https://github.com/vllm-project/vllm)** — A high-throughput and memory-efficient inference and serving engine for LLMs ⭐ 93369
+
+2. **[manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)** — Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. ⭐ 27959
+
+3. **[allenai/olmocr](https://github.com/allenai/olmocr)** — Toolkit for linearizing PDFs for LLM datasets/training ⭐ 19724
+
+4. **[MDX-Tom/gpt-instruct](https://github.com/MDX-Tom/gpt-instruct)** — A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。 ⭐ 9335
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-07</strong></summary>
 
 #### Papers

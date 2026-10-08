@@ -1,109 +1,111 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "papers": [
     {
-      "title": "Adaptive Latent Capacity for World Models",
-      "url": "https://arxiv.org/abs/2609.32921",
-      "summary": "We introduce Adaptive LeWorldModel (ALeWM), a world model based on a joint-embedding predictive architecture (JEPA) that learns to concentrate predictive information in compact prefixes of a wide late"
+      "title": "StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search",
+      "url": "https://arxiv.org/abs/2610.03799",
+      "summary": "Recovering executable CAD programs from 3D meshes is challenging due to the compositional nature of CAD construction and the interaction between discrete modeling choices and continuous parameters. Ma"
     },
     {
-      "title": "NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale",
-      "url": "https://arxiv.org/abs/2610.08430",
-      "summary": "Agentic reinforcement learning (RL) disaggregates training from rollout, so each policy update must reach the rollout clusters before the next batch. Transferring a full 1T checkpoint for such weight "
+      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "url": "https://arxiv.org/abs/2610.10533",
+      "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Be"
     },
     {
-      "title": "HLA: Expressive Hybrid Linear Attention via Chunk-Wise Dynamic Mixing",
-      "url": "https://arxiv.org/abs/2610.05842",
-      "summary": "Linear attention enables efficient long-context autoregressive decoding by compressing history into recurrent states, but this compression can make selective access to sparse and distant information d"
+      "title": "From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery",
+      "url": "https://arxiv.org/abs/2610.09684",
+      "summary": "Test-time scaling (TTS) improves the reasoning capabilities of large language models by allocating additional inference computation. Existing approaches to improving TTS efficiency largely optimize ac"
     },
     {
-      "title": "Taming VLAs under Robot Execution Errors: Self-Compensation and Stress Testing",
-      "url": "https://arxiv.org/abs/2609.37334",
-      "summary": "Vision-language-action (VLA) policies often fail when a robot's executed motion deviates from their commanded action. Such execution errors arise from the robot's mechanics and operating conditions, s"
+      "title": "Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective",
+      "url": "https://arxiv.org/abs/2610.03185",
+      "summary": "On-policy distillation (OPD) has become an important approach to language model post-training. However, despite its performance gains, OPD can also collapse into excessively long and repetitive genera"
     },
     {
-      "title": "ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution",
-      "url": "https://arxiv.org/abs/2610.04605",
-      "summary": "Many visual explanation methods in computer vision highlight pixel importance but struggle to link these low-level cues to semantically meaningful concepts, limiting their interpretability and trustwo"
+      "title": "Internalizing Agent Experience into Diffusion Model Weights via On-Policy Context Distillation",
+      "url": "https://arxiv.org/abs/2610.07250",
+      "summary": "Wrapping an image generation model in an agentic harness can effectively boost Text-to-Image task performance: the harness can leverage memory, skills, workflow orchestration, result verification, and"
     },
     {
-      "title": "MiniCorp: The Last Mile of the AI Agent Firm",
-      "url": "https://arxiv.org/abs/2610.05912",
-      "summary": "The last mile toward enterprise AGI is a company that runs itself. Training and adapting such agents require longitudinal enterprise data, which remain scarce, costly to acquire, and often restricted "
+      "title": "PhysEvo: Astra Can Act, Let It",
+      "url": "https://arxiv.org/abs/2610.08995",
+      "summary": "Astra can act, yet reliable manipulation depends on the system through which it observes and controls the world. We introduce PhysEvo, a framework for physical recursive self-improvement (RSI) around "
     },
     {
-      "title": "JLD: Perceptual Distance Through A Jacobian Lens",
-      "url": "https://arxiv.org/abs/2610.05967",
-      "summary": "Image compression, restoration, and generation all require a way to measure how different two images look to a person. Pixel error ignores how people see, while the most accurate perceptual distances "
+      "title": "QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation",
+      "url": "https://arxiv.org/abs/2610.10497",
+      "summary": "We introduce QuadTok, a novel framework for visual tokenization and autoregressive image generation. Compared to traditional approaches using 2D grids or 1D token sequences, we propose a hierarchical "
     },
     {
-      "title": "Towards In-Parameter Memory Augmentation for Large Language Models",
-      "url": "https://arxiv.org/abs/2610.08630",
-      "summary": "Recently Large Language Models (LLMs) and LLM-based agents increasingly need to incorporate knowledge acquired after pretraining, e.g., domain facts, user preferences, documents, and interaction exper"
+      "title": "Co-Evolving Robot Orchestrators and Policies through Deployment",
+      "url": "https://arxiv.org/abs/2610.09228",
+      "summary": "Vision-language-action (VLA) policies trained on large datasets are capable within their training domains, yet they still fail to generalize to the variety of situations a robot meets in real-world de"
     },
     {
-      "title": "MEND: RL For Flow Models via Proximal Velocity Matching",
-      "url": "https://arxiv.org/abs/2610.05954",
-      "summary": "Reward post-training of flow models either reweights the model's own samples under a KL penalty or a frozen reference, often for thousands of updates, or backpropagates the reward and moves every samp"
+      "title": "SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles",
+      "url": "https://arxiv.org/abs/2610.09832",
+      "summary": "Memory-augmented reinforcement learning strengthens LLM agents' ability to solve complex long-horizon tasks. Skills are one such form of memory, pairing instructions with an applicability condition ov"
     },
     {
-      "title": "From Evidence to Action: How Tool-Using Agents Fail",
-      "url": "https://arxiv.org/abs/2610.07753",
-      "summary": "Tool-using agents make consequential changes to external state, yet correct outcomes do not guarantee that their actions were supported by evidence established beforehand. We study where this evidence"
+      "title": "Rethinking World-Action Model for Compositional and In-Context Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2610.02368",
+      "summary": "Long-horizon compositional manipulation has become increasingly important for real-world robot deployment, where a single task involves multiple coordinated subtasks. Existing world-action models (WAM"
     }
   ],
   "blog_posts": [
     {
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "author": "mistral.ai"
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "author": "anthropic.com"
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
       "author": "openai.com"
     },
     {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "author": "blog.google"
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "author": "rswebsols.com"
     },
     {
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "author": "developers.openai.com"
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "author": "tidesdb.com"
     },
     {
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "author": "zohaib.cc"
-    },
-    {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "author": "strandsagents.com"
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews/",
+      "author": "agent.reviews"
     }
   ],
   "repos": [
     {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 44263,
-      "language": "HTML"
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 93369,
+      "language": "Python"
     },
     {
-      "name": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 10734,
-      "language": "TypeScript"
+      "name": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "stars": 27959,
+      "language": "Swift"
     },
     {
-      "name": "omnigent-ai/omnigent",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c",
-      "stars": 10635,
+      "name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "stars": 19724,
+      "language": "Python"
+    },
+    {
+      "name": "MDX-Tom/gpt-instruct",
+      "url": "https://github.com/MDX-Tom/gpt-instruct",
+      "description": "A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。",
+      "stars": 9335,
       "language": "Python"
     }
   ],
