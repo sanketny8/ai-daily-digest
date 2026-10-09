@@ -1,112 +1,119 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "papers": [
     {
-      "title": "StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search",
-      "url": "https://arxiv.org/abs/2610.03799",
-      "summary": "Recovering executable CAD programs from 3D meshes is challenging due to the compositional nature of CAD construction and the interaction between discrete modeling choices and continuous parameters. Ma"
+      "title": "CARE: Certifying Acceleration for Vision-Language-Action Inference",
+      "url": "https://arxiv.org/abs/2610.08917",
+      "summary": "While vision-language-action (VLA) models have advanced rapidly, running them at every control step remains expensive. Prior work accelerates VLA inference using techniques like action chunking and vi"
     },
     {
-      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-      "url": "https://arxiv.org/abs/2610.10533",
-      "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Be"
+      "title": "Learning to Steer, Steering to See: Unveiling the Geometry of RLVR in Large Language Models via Trainable Vectors",
+      "url": "https://arxiv.org/abs/2609.34344",
+      "summary": "Reinforcement learning (RL) has become a key paradigm for enhancing the reasoning of large language models, yet the high dimensionality of parameter updates makes its training dynamics hard to analyze"
     },
     {
-      "title": "From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery",
-      "url": "https://arxiv.org/abs/2610.09684",
-      "summary": "Test-time scaling (TTS) improves the reasoning capabilities of large language models by allocating additional inference computation. Existing approaches to improving TTS efficiency largely optimize ac"
+      "title": "SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery",
+      "url": "https://arxiv.org/abs/2609.31507",
+      "summary": "Urban uncrewed aerial vehicle (UAV) vision-language navigation (VLN) requires agents to follow instructions across extended urban spaces, inherently demanding long-term memory and geospatial grounding"
     },
     {
-      "title": "Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective",
-      "url": "https://arxiv.org/abs/2610.03185",
-      "summary": "On-policy distillation (OPD) has become an important approach to language model post-training. However, despite its performance gains, OPD can also collapse into excessively long and repetitive genera"
+      "title": "MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination",
+      "url": "https://arxiv.org/abs/2605.22949",
+      "summary": "When a coordinator compares answers from heterogeneous foundation models, self-reported confidence may have different meanings across responders and changing workloads. This paper presents MARGIN (Mul"
     },
     {
-      "title": "Internalizing Agent Experience into Diffusion Model Weights via On-Policy Context Distillation",
-      "url": "https://arxiv.org/abs/2610.07250",
-      "summary": "Wrapping an image generation model in an agentic harness can effectively boost Text-to-Image task performance: the harness can leverage memory, skills, workflow orchestration, result verification, and"
+      "title": "SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation",
+      "url": "https://arxiv.org/abs/2610.08941",
+      "summary": "Language-guided panoramic video generation benefits various downstream applications, such as interactive 3D scene exploration, virtual reality experiences, and embodied agent training. Existing panora"
     },
     {
-      "title": "PhysEvo: Astra Can Act, Let It",
-      "url": "https://arxiv.org/abs/2610.08995",
-      "summary": "Astra can act, yet reliable manipulation depends on the system through which it observes and controls the world. We introduce PhysEvo, a framework for physical recursive self-improvement (RSI) around "
+      "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+      "url": "https://arxiv.org/abs/2610.11959",
+      "summary": "Reinforcement learning (RL) is the central training paradigm for advancing large foundation models towards self-improvement. This report introduces the MiMo-V2.6 series, an omni-modal family that push"
     },
     {
-      "title": "QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation",
-      "url": "https://arxiv.org/abs/2610.10497",
-      "summary": "We introduce QuadTok, a novel framework for visual tokenization and autoregressive image generation. Compared to traditional approaches using 2D grids or 1D token sequences, we propose a hierarchical "
+      "title": "Foundations of Large Language Models",
+      "url": "https://arxiv.org/abs/2501.09223",
+      "summary": "This is a book about large language models. As indicated by the title, it primarily focuses on foundational concepts rather than comprehensive coverage of all cutting-edge technologies. The book is st"
     },
     {
-      "title": "Co-Evolving Robot Orchestrators and Policies through Deployment",
-      "url": "https://arxiv.org/abs/2610.09228",
-      "summary": "Vision-language-action (VLA) policies trained on large datasets are capable within their training domains, yet they still fail to generalize to the variety of situations a robot meets in real-world de"
+      "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+      "url": "https://arxiv.org/abs/2610.12461",
+      "summary": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph"
     },
     {
-      "title": "SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles",
-      "url": "https://arxiv.org/abs/2610.09832",
-      "summary": "Memory-augmented reinforcement learning strengthens LLM agents' ability to solve complex long-horizon tasks. Skills are one such form of memory, pairing instructions with an applicability condition ov"
+      "title": "On-Policy Distillation Teaches New Skills but Not New Knowledge",
+      "url": "https://arxiv.org/abs/2610.09639",
+      "summary": "On-policy distillation (OPD) strengthens language-model reasoning, yet whether students acquire new factual knowledge or compositional skill for multi-step reasoning remains unknown. We separate these"
     },
     {
-      "title": "Rethinking World-Action Model for Compositional and In-Context Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2610.02368",
-      "summary": "Long-horizon compositional manipulation has become increasingly important for real-world robot deployment, where a single task involves multiple coordinated subtasks. Existing world-action models (WAM"
+      "title": "BrickBench: Evaluating Agentic Brick Design",
+      "url": "https://arxiv.org/abs/2610.12452",
+      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "author": "anthropic.com"
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "author": "cnbc.com"
     },
     {
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "author": "openai.com"
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "author": "twitter.com"
     },
     {
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "author": "rswebsols.com"
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "author": "reddit.com"
     },
     {
-      "title": "A new write and space optimized storage engine for MySQL is here",
-      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
-      "author": "tidesdb.com"
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "author": "karagila.org"
     },
     {
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "url": "https://agent.reviews/",
-      "author": "agent.reviews"
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "author": "opper.ai"
     }
   ],
   "repos": [
     {
-      "name": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "stars": 93369,
+      "name": "microsoft/agent-framework",
+      "url": "https://github.com/microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "stars": 14024,
       "language": "Python"
     },
     {
-      "name": "manaflow-ai/cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-      "stars": 27959,
-      "language": "Swift"
-    },
-    {
-      "name": "allenai/olmocr",
-      "url": "https://github.com/allenai/olmocr",
-      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "stars": 19724,
+      "name": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+      "stars": 11668,
       "language": "Python"
     },
     {
-      "name": "MDX-Tom/gpt-instruct",
-      "url": "https://github.com/MDX-Tom/gpt-instruct",
-      "description": "A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。",
-      "stars": 9335,
+      "name": "CursorTouch/Windows-MCP",
+      "url": "https://github.com/CursorTouch/Windows-MCP",
+      "description": "MCP Server for Computer Use in Windows",
+      "stars": 8387,
       "language": "Python"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "stars": 1386,
+      "language": "Go"
+    },
+    {
+      "name": "jiwoochris/artex-ko",
+      "url": "https://github.com/jiwoochris/artex-ko",
+      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "stars": 772,
+      "language": "Go"
     }
   ],
   "tweets": []

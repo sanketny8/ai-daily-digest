@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-09</strong></summary>
+
+#### Papers
+
+1. **[CARE: Certifying Acceleration for Vision-Language-Action Inference](https://arxiv.org/abs/2610.08917)**
+
+2. **[Learning to Steer, Steering to See: Unveiling the Geometry of RLVR in Large Language Models via Trainable Vectors](https://arxiv.org/abs/2609.34344)**
+
+3. **[SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery](https://arxiv.org/abs/2609.31507)**
+
+4. **[MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination](https://arxiv.org/abs/2605.22949)**
+
+5. **[SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation](https://arxiv.org/abs/2610.08941)**
+
+6. **[MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://arxiv.org/abs/2610.11959)**
+
+7. **[Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)**
+
+8. **[OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](https://arxiv.org/abs/2610.12461)**
+
+9. **[On-Policy Distillation Teaches New Skills but Not New Knowledge](https://arxiv.org/abs/2610.09639)**
+
+10. **[BrickBench: Evaluating Agentic Brick Design](https://arxiv.org/abs/2610.12452)**
+
+
+#### Blog Posts
+
+1. **[OpenAI annualised revenues $20B less than previously signalled](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html)** by cnbc.com
+
+2. **[OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090)** by twitter.com
+
+3. **[I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)** by reddit.com
+
+4. **[OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)** by karagila.org
+
+5. **[Show HN: Jevman – AI decision models play Pac-Man](https://opper.ai/jevman-benchmark/)** by opper.ai
+
+
+#### Trending Repos
+
+1. **[microsoft/agent-framework](https://github.com/microsoft/agent-framework)** — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. ⭐ 14024
+
+2. **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** — Build your own AI SRE agents. The open source toolkit for the AI era. ⭐ 11668
+
+3. **[CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)** — MCP Server for Computer Use in Windows ⭐ 8387
+
+4. **[mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)** — AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 ⭐ 1386
+
+5. **[jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko)** — ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0) ⭐ 772
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-08</strong></summary>
 
 #### Papers

@@ -1,37 +1,4 @@
 {
-  "2026-09-08": {
-    "papers": [
-      "https://arxiv.org/abs/2609.03241",
-      "https://arxiv.org/abs/2609.03254",
-      "https://arxiv.org/abs/2609.02998",
-      "https://arxiv.org/abs/2608.24263",
-      "https://arxiv.org/abs/2609.03729",
-      "https://arxiv.org/abs/2609.04444",
-      "https://arxiv.org/abs/2609.00365",
-      "https://arxiv.org/abs/2609.04720",
-      "https://arxiv.org/abs/2609.04714",
-      "https://arxiv.org/abs/2609.03231"
-    ],
-    "blogs": [
-      "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "https://github.com/trailofbits/coop",
-      "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "https://danluu.com/agentic-testing/",
-      "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "https://dev.to/eugeniya_ivanova_4a58eadc/my-mcp-integration-got-rejected-almost-nothing-in-the-server-had-to-change-npb",
-      "https://medium.com/@kunalkeshav2002/building-production-grade-secure-rag-pipelines-lessons-from-enterprise-insurance-ai-e286e9041d0c",
-      "https://medium.com/@ashoktrainer/everyone-is-talking-about-making-money-with-ai-heres-what-s-actually-real-109c4798f63d",
-      "https://sarangbrahme.medium.com/i-thought-i-left-coding-behind-20-years-ago-ai-had-other-plans-b380ac2c5b1d"
-    ],
-    "repos": [
-      "https://github.com/bytedance/deer-flow",
-      "https://github.com/heygen-com/hyperframes",
-      "https://github.com/lightpanda-io/browser",
-      "https://github.com/openai/skills",
-      "https://github.com/mksglu/context-mode",
-      "https://github.com/jo-inc/camofox-browser"
-    ]
-  },
   "2026-09-09": {
     "papers": [
       "https://arxiv.org/abs/2609.05324",
@@ -944,6 +911,34 @@
       "https://github.com/manaflow-ai/cmux",
       "https://github.com/allenai/olmocr",
       "https://github.com/MDX-Tom/gpt-instruct"
+    ]
+  },
+  "2026-10-09": {
+    "papers": [
+      "https://arxiv.org/abs/2610.08917",
+      "https://arxiv.org/abs/2609.34344",
+      "https://arxiv.org/abs/2609.31507",
+      "https://arxiv.org/abs/2605.22949",
+      "https://arxiv.org/abs/2610.08941",
+      "https://arxiv.org/abs/2610.11959",
+      "https://arxiv.org/abs/2501.09223",
+      "https://arxiv.org/abs/2610.12461",
+      "https://arxiv.org/abs/2610.09639",
+      "https://arxiv.org/abs/2610.12452"
+    ],
+    "blogs": [
+      "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "https://twitter.com/danintheory/status/2108065033070789090",
+      "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "https://karagila.org/2026/openai-pp/",
+      "https://opper.ai/jevman-benchmark/"
+    ],
+    "repos": [
+      "https://github.com/microsoft/agent-framework",
+      "https://github.com/Tracer-Cloud/opensre",
+      "https://github.com/CursorTouch/Windows-MCP",
+      "https://github.com/mhtsec/ARTEX",
+      "https://github.com/jiwoochris/artex-ko"
     ]
   }
 }
