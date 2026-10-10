@@ -1,31 +1,4 @@
 {
-  "2026-09-09": {
-    "papers": [
-      "https://arxiv.org/abs/2609.05324",
-      "https://arxiv.org/abs/2609.08345",
-      "https://arxiv.org/abs/2609.08936",
-      "https://arxiv.org/abs/2609.06665",
-      "https://arxiv.org/abs/2609.04971",
-      "https://arxiv.org/abs/2609.09123",
-      "https://arxiv.org/abs/2609.08977",
-      "https://arxiv.org/abs/2609.09158",
-      "https://arxiv.org/abs/2609.09153",
-      "https://arxiv.org/abs/2609.06746"
-    ],
-    "blogs": [
-      "https://openai.com/index/navier-stokes-solution/",
-      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "https://ai.meta.com/muse/",
-      "https://openai.com/index/introducing-chatgpt-images-2-5/",
-      "https://github.com/argonautlabsai/deltafin",
-      "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "https://docs.appliedcompute.com"
-    ],
-    "repos": [
-      "https://github.com/shareAI-lab/learn-claude-code",
-      "https://github.com/hpcaitech/Open-Sora"
-    ]
-  },
   "2026-09-10": {
     "papers": [
       "https://arxiv.org/abs/2609.07369",
@@ -939,6 +912,33 @@
       "https://github.com/CursorTouch/Windows-MCP",
       "https://github.com/mhtsec/ARTEX",
       "https://github.com/jiwoochris/artex-ko"
+    ]
+  },
+  "2026-10-10": {
+    "papers": [
+      "https://arxiv.org/abs/2610.11216",
+      "https://arxiv.org/abs/2609.38527",
+      "https://arxiv.org/abs/2610.09280",
+      "https://arxiv.org/abs/2609.33987",
+      "https://arxiv.org/abs/2610.11169",
+      "https://arxiv.org/abs/2610.11975",
+      "https://arxiv.org/abs/2606.03335",
+      "https://arxiv.org/abs/2609.35855",
+      "https://arxiv.org/abs/2610.08585",
+      "https://arxiv.org/abs/2610.09146"
+    ],
+    "blogs": [
+      "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "https://www.linum.ai/field-notes/pyramid-jit"
+    ],
+    "repos": [
+      "https://github.com/datawhalechina/hello-agents",
+      "https://github.com/headroomlabs-ai/headroom",
+      "https://github.com/BerriAI/litellm",
+      "https://github.com/hugohe3/ppt-master",
+      "https://github.com/K-Dense-AI/scientific-agent-skills"
     ]
   }
 }

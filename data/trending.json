@@ -1,119 +1,114 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "papers": [
     {
-      "title": "CARE: Certifying Acceleration for Vision-Language-Action Inference",
-      "url": "https://arxiv.org/abs/2610.08917",
-      "summary": "While vision-language-action (VLA) models have advanced rapidly, running them at every control step remains expensive. Prior work accelerates VLA inference using techniques like action chunking and vi"
+      "title": "The Lattice of Transition Laws",
+      "url": "https://arxiv.org/abs/2610.11216",
+      "summary": "Diffusion and autoregression (AR) have long been seen as different categories of generative models, with diffusion specialising in continuous fields and AR specialising in discrete tokens. Recent work"
     },
     {
-      "title": "Learning to Steer, Steering to See: Unveiling the Geometry of RLVR in Large Language Models via Trainable Vectors",
-      "url": "https://arxiv.org/abs/2609.34344",
-      "summary": "Reinforcement learning (RL) has become a key paradigm for enhancing the reasoning of large language models, yet the high dimensionality of parameter updates makes its training dynamics hard to analyze"
+      "title": "Behavioral Persistence and Incomplete Functional Transfer of Co-evolved Communication in Evolutionary Robotics",
+      "url": "https://arxiv.org/abs/2609.38527",
+      "summary": "This work evaluates the direct transfer of a co-evolved communication protocol from a 2D simulation to a 3D physical environment, without retraining the network weights. Two e-puck-type robots, contro"
     },
     {
-      "title": "SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery",
-      "url": "https://arxiv.org/abs/2609.31507",
-      "summary": "Urban uncrewed aerial vehicle (UAV) vision-language navigation (VLN) requires agents to follow instructions across extended urban spaces, inherently demanding long-term memory and geospatial grounding"
+      "title": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation",
+      "url": "https://arxiv.org/abs/2610.09280",
+      "summary": "This work examines the transfer of a co-evolved communication mechanism between two robotic agents from a discrete two-dimensional (2D) simulator to a three-dimensional simulator with real physics (3D"
     },
     {
-      "title": "MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination",
-      "url": "https://arxiv.org/abs/2605.22949",
-      "summary": "When a coordinator compares answers from heterogeneous foundation models, self-reported confidence may have different meanings across responders and changing workloads. This paper presents MARGIN (Mul"
+      "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+      "url": "https://arxiv.org/abs/2609.33987",
+      "summary": "Long-horizon coding agents need timely corrections, yet feedback can be ineffective or even harmful when it misjudges ongoing work or fails to address the underlying problem. Existing critics focus on"
     },
     {
-      "title": "SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation",
-      "url": "https://arxiv.org/abs/2610.08941",
-      "summary": "Language-guided panoramic video generation benefits various downstream applications, such as interactive 3D scene exploration, virtual reality experiences, and embodied agent training. Existing panora"
+      "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
+      "url": "https://arxiv.org/abs/2610.11169",
+      "summary": "Agent skills are SKILL.md instructions and scripts that AI coding agents such as Claude Code and Codex run with the permissions of their user. Developers share skills by copying them between repositor"
     },
     {
-      "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
-      "url": "https://arxiv.org/abs/2610.11959",
-      "summary": "Reinforcement learning (RL) is the central training paradigm for advancing large foundation models towards self-improvement. This report introduces the MiMo-V2.6 series, an omni-modal family that push"
+      "title": "Predicting Cable Dynamics with Physical Attention Bias",
+      "url": "https://arxiv.org/abs/2610.11975",
+      "summary": "Learned simulators for deformable linear objects (DLOs) such as cables have to predict the motion of cables they were not trained on and stay stable over long rollouts. Most of their error occurs wher"
     },
     {
-      "title": "Foundations of Large Language Models",
-      "url": "https://arxiv.org/abs/2501.09223",
-      "summary": "This is a book about large language models. As indicated by the title, it primarily focuses on foundational concepts rather than comprehensive coverage of all cutting-edge technologies. The book is st"
+      "title": "A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.03335",
+      "summary": "GPU-parallel simulation provides abundant robot interaction, but existing benchmarks rarely combine this scale with heterogeneous manipulation tasks and standardized multi-task RL evaluation. We intro"
     },
     {
-      "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
-      "url": "https://arxiv.org/abs/2610.12461",
-      "summary": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph"
+      "title": "Mara Chain: Rethinking Failure as a Stepping Stone for AI System Auto-Evolution",
+      "url": "https://arxiv.org/abs/2609.35855",
+      "summary": "Optimizing deployed AI systems increasingly amounts to editing prompts, skills, harnesses, and code rather than model weights. Existing approaches commonly optimize these artifacts through propose-eva"
     },
     {
-      "title": "On-Policy Distillation Teaches New Skills but Not New Knowledge",
-      "url": "https://arxiv.org/abs/2610.09639",
-      "summary": "On-policy distillation (OPD) strengthens language-model reasoning, yet whether students acquire new factual knowledge or compositional skill for multi-step reasoning remains unknown. We separate these"
+      "title": "Incidental information contaminates patient notes and disrupts clinical reasoning in large language models",
+      "url": "https://arxiv.org/abs/2610.08585",
+      "summary": "Large language models (LLMs) are increasingly relied upon to support ambient documentation and clinical reasoning. Here we examine the impact of a failure mode shared between these two applications by"
     },
     {
-      "title": "BrickBench: Evaluating Agentic Brick Design",
-      "url": "https://arxiv.org/abs/2610.12452",
-      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but"
+      "title": "Frozen Models, Evolving Expertise: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI",
+      "url": "https://arxiv.org/abs/2610.09146",
+      "summary": "Large language models (LLMs) and vision-language models (VLMs) are usually frozen after deployment, so they do not learn from the cases they solve. This is especially concerning in medicine, where new"
     }
   ],
   "blog_posts": [
     {
-      "title": "OpenAI annualised revenues $20B less than previously signalled",
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "author": "cnbc.com"
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "author": "github.com"
     },
     {
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "author": "twitter.com"
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "author": "techcrunch.com"
     },
     {
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "author": "reddit.com"
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "author": "nbcphiladelphia.com"
     },
     {
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "author": "karagila.org"
-    },
-    {
-      "title": "Show HN: Jevman – AI decision models play Pac-Man",
-      "url": "https://opper.ai/jevman-benchmark/",
-      "author": "opper.ai"
+      "title": "Training Text-to-Image Models Without a VAE",
+      "url": "https://www.linum.ai/field-notes/pyramid-jit",
+      "author": "linum.ai"
     }
   ],
   "repos": [
     {
-      "name": "microsoft/agent-framework",
-      "url": "https://github.com/microsoft/agent-framework",
-      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-      "stars": 14024,
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars": 82329,
       "language": "Python"
     },
     {
-      "name": "Tracer-Cloud/opensre",
-      "url": "https://github.com/Tracer-Cloud/opensre",
-      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
-      "stars": 11668,
+      "name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 74863,
       "language": "Python"
     },
     {
-      "name": "CursorTouch/Windows-MCP",
-      "url": "https://github.com/CursorTouch/Windows-MCP",
-      "description": "MCP Server for Computer Use in Windows",
-      "stars": 8387,
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi",
+      "stars": 60806,
       "language": "Python"
     },
     {
-      "name": "mhtsec/ARTEX",
-      "url": "https://github.com/mhtsec/ARTEX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stars": 1386,
-      "language": "Go"
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support",
+      "stars": 58885,
+      "language": "Python"
     },
     {
-      "name": "jiwoochris/artex-ko",
-      "url": "https://github.com/jiwoochris/artex-ko",
-      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-      "stars": 772,
-      "language": "Go"
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
+      "stars": 48219,
+      "language": "Python"
     }
   ],
   "tweets": []

@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-10</strong></summary>
+
+#### Papers
+
+1. **[The Lattice of Transition Laws](https://arxiv.org/abs/2610.11216)**
+
+2. **[Behavioral Persistence and Incomplete Functional Transfer of Co-evolved Communication in Evolutionary Robotics](https://arxiv.org/abs/2609.38527)**
+
+3. **[Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation](https://arxiv.org/abs/2610.09280)**
+
+4. **[Opera: A Verbal Critic Framework for Long-horizon Coding Agents](https://arxiv.org/abs/2609.33987)**
+
+5. **[Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub](https://arxiv.org/abs/2610.11169)**
+
+6. **[Predicting Cable Dynamics with Physical Attention Bias](https://arxiv.org/abs/2610.11975)**
+
+7. **[A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning](https://arxiv.org/abs/2606.03335)**
+
+8. **[Mara Chain: Rethinking Failure as a Stepping Stone for AI System Auto-Evolution](https://arxiv.org/abs/2609.35855)**
+
+9. **[Incidental information contaminates patient notes and disrupts clinical reasoning in large language models](https://arxiv.org/abs/2610.08585)**
+
+10. **[Frozen Models, Evolving Expertise: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI](https://arxiv.org/abs/2610.09146)**
+
+
+#### Blog Posts
+
+1. **[Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)** by github.com
+
+2. **[OpenAI fires three safety researchers for "mishandling research information"](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)** by techcrunch.com
+
+3. **[Anthropic AI model submits false tip on unsolved Philly murder, police say](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)** by nbcphiladelphia.com
+
+4. **[Training Text-to-Image Models Without a VAE](https://www.linum.ai/field-notes/pyramid-jit)** by linum.ai
+
+
+#### Trending Repos
+
+1. **[datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)** — 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 ⭐ 82329
+
+2. **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. ⭐ 74863
+
+3. **[BerriAI/litellm](https://github.com/BerriAI/litellm)** — The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi ⭐ 60806
+
+4. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** — AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support ⭐ 58885
+
+5. **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** — Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog ⭐ 48219
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-09</strong></summary>
 
 #### Papers
