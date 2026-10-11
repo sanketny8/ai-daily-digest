@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-11</strong></summary>
+
+#### Papers
+
+1. **[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)**
+
+2. **[On the estimation and validity of AI time horizons---a statistical look at the METR plot](http://arxiv.org/abs/2610.12466v1)**
+
+3. **[A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](http://arxiv.org/abs/2610.12465v1)**
+
+4. **[From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents](http://arxiv.org/abs/2610.12463v1)**
+
+5. **[BrickBench: Evaluating Agentic Brick Design](http://arxiv.org/abs/2610.12452v1)**
+
+6. **[One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts](http://arxiv.org/abs/2610.12448v1)**
+
+7. **[Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems](http://arxiv.org/abs/2610.12449v1)**
+
+8. **[Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception](http://arxiv.org/abs/2610.12445v1)**
+
+9. **[Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization](http://arxiv.org/abs/2610.12444v1)**
+
+10. **[Density Ratio Estimation with Stein Displacement Fields](http://arxiv.org/abs/2610.12437v1)**
+
+
+#### Blog Posts
+
+1. **[Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)** by github.com
+
+2. **[Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/)** by blogs.windows.com
+
+3. **[Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)** by ft.com
+
+4. **[Recent AI models struggled to match a human algorithmic innovation](https://epoch.ai/publications/innovationeval)** by epoch.ai
+
+5. **[500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)** by momo5502.com
+
+6. **[How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? 🤔](https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk)** by nyaomaru
+
+
+#### Trending Repos
+
+1. **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. ⭐ 218500
+
+2. **[sgl-project/sglang](https://github.com/sgl-project/sglang)** — SGLang is a high-performance serving framework for large language models and multimodal models. ⭐ 36973
+
+3. **[mksglu/context-mode](https://github.com/mksglu/context-mode)** — Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. ⭐ 26471
+
+4. **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** — [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction ⭐ 17969
+
+5. **[BitterSecurity/Decepticon](https://github.com/BitterSecurity/Decepticon)** — Autonomous Hacking Agent for Red Team ⭐ 5877
+
+6. **[LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance)** — Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer. ⭐ 2096
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-10</strong></summary>
 
 #### Papers
