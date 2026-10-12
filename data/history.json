@@ -1,38 +1,4 @@
 {
-  "2026-09-11": {
-    "papers": [
-      "https://arxiv.org/abs/2609.11412",
-      "https://arxiv.org/abs/2609.11808",
-      "https://arxiv.org/abs/2609.05903",
-      "https://arxiv.org/abs/2608.27875",
-      "https://arxiv.org/abs/2609.10712",
-      "https://arxiv.org/abs/2609.10715",
-      "https://arxiv.org/abs/2609.07064",
-      "https://arxiv.org/abs/2609.11499",
-      "https://arxiv.org/abs/2609.11548",
-      "https://arxiv.org/abs/2609.11929"
-    ],
-    "blogs": [
-      "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "https://cognition.com/blog/swe-2",
-      "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-      "https://magic.dev/blog/pretraining#",
-      "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "https://system76.com/workstations/thelio-mira-ai",
-      "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
-      "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-      "https://tokenstead.ai/models/swe-2"
-    ],
-    "repos": [
-      "https://github.com/diegosouzapw/OmniRoute",
-      "https://github.com/AlexsJones/llmfit",
-      "https://github.com/vercel-labs/skills",
-      "https://github.com/nashsu/llm_wiki",
-      "https://github.com/NVIDIA/Megatron-LM",
-      "https://github.com/huggingface/speech-to-speech"
-    ]
-  },
   "2026-09-12": {
     "papers": [
       "https://arxiv.org/abs/2609.09143",
@@ -939,6 +905,33 @@
       "https://github.com/Robbyant/lingbot-map",
       "https://github.com/BitterSecurity/Decepticon",
       "https://github.com/LosaLosSantos/aurelio-finance"
+    ]
+  },
+  "2026-10-12": {
+    "papers": [
+      "https://arxiv.org/abs/2610.09607",
+      "https://arxiv.org/abs/2610.11993",
+      "https://arxiv.org/abs/2610.10288",
+      "https://arxiv.org/abs/2610.12341",
+      "https://arxiv.org/abs/2610.13171",
+      "https://arxiv.org/abs/2610.12984",
+      "https://arxiv.org/abs/2610.00898",
+      "https://arxiv.org/abs/2610.12611",
+      "https://arxiv.org/abs/2610.12939",
+      "https://arxiv.org/abs/2610.13118"
+    ],
+    "blogs": [
+      "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22",
+      "https://dev.to/bennykillua/going-outside-was-never-my-problem-saying-hello-was-570i",
+      "https://dev.to/earlgreyhot1701d/readme-clew-2-built-with-adal-labeled-by-jev-judged-by-code-explained-by-haiku-196e",
+      "https://dev.to/kenielzep97/a-reader-showed-me-what-my-auditer-wasnt-counting-3o7b",
+      "https://medium.com/@elliewatkins096/what-90-days-with-makesyoufluent-taught-me-about-actually-learning-a-language-3df66d905e69",
+      "https://medium.com/@filmkarigar/when-every-picture-can-be-fake-even-the-truth-becomes-deniable-a13f11da4b93"
+    ],
+    "repos": [
+      "https://github.com/lyogavin/airllm",
+      "https://github.com/repowise-dev/repowise",
+      "https://github.com/wheresryan22/anatomy"
     ]
   }
 }

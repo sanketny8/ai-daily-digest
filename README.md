@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-12</strong></summary>
+
+#### Papers
+
+1. **[Which Language Should a Skeleton Speak? Language Choices in Multilingual Reasoning](https://arxiv.org/abs/2610.09607)**
+
+2. **[DataVista: Diagnosing Multimodal LLMs on Data Video Understanding](https://arxiv.org/abs/2610.11993)**
+
+3. **[TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning](https://arxiv.org/abs/2610.10288)**
+
+4. **[Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition](https://arxiv.org/abs/2610.12341)**
+
+5. **[PreSTO: Predictive Subtree Prefetching for Fast LLM Power Sampling](https://arxiv.org/abs/2610.13171)**
+
+6. **[Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](https://arxiv.org/abs/2610.12984)**
+
+7. **[When Do Biological Reasoning Models Use Their Biological Inputs?](https://arxiv.org/abs/2610.00898)**
+
+8. **[SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](https://arxiv.org/abs/2610.12611)**
+
+9. **[Surfing the Activation Wave: Analyzing the Information and Geometry of LLM Hidden States for Speculative Decoding](https://arxiv.org/abs/2610.12939)**
+
+10. **[The value of information and the emergence of communication in evolved e-puck robots](https://arxiv.org/abs/2610.13118)**
+
+
+#### Blog Posts
+
+1. **[Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn't Play by Anyone's Rules](https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22)** by Giorgi Kobaidze
+
+2. **[Going outside was never my problem. Saying hello was.](https://dev.to/bennykillua/going-outside-was-never-my-problem-saying-hello-was-570i)** by Benny
+
+3. **[README Clew 2: Built with AdaL. Labeled by Jev. Judged by Code. Explained by Haiku.](https://dev.to/earlgreyhot1701d/readme-clew-2-built-with-adal-labeled-by-jev-judged-by-code-explained-by-haiku-196e)** by Earl Grey
+
+4. **[A Reader Showed Me What My Auditer Wasnt Counting.](https://dev.to/kenielzep97/a-reader-showed-me-what-my-auditer-wasnt-counting-3o7b)** by Self-Correcting Systems
+
+5. **[What 90 Days With MakesYouFluent Taught Me About Actually Learning a Language](https://medium.com/@elliewatkins096/what-90-days-with-makesyoufluent-taught-me-about-actually-learning-a-language-3df66d905e69)** by Ellie Watkins
+
+6. **[When every picture can be fake, even the truth becomes deniable](https://medium.com/@filmkarigar/when-every-picture-can-be-fake-even-the-truth-becomes-deniable-a13f11da4b93)** by Film Karigar
+
+
+#### Trending Repos
+
+1. **[lyogavin/airllm](https://github.com/lyogavin/airllm)** — AirLLM 70B inference with single 4GB GPU ⭐ 36810
+
+2. **[repowise-dev/repowise](https://github.com/repowise-dev/repowise)** — Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP. ⭐ 7555
+
+3. **[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)** — An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. ⭐ 4182
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-11</strong></summary>
 
 #### Papers
