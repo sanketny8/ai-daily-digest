@@ -1,39 +1,4 @@
 {
-  "2026-09-12": {
-    "papers": [
-      "https://arxiv.org/abs/2609.09143",
-      "https://arxiv.org/abs/2609.10745",
-      "https://arxiv.org/abs/2609.10445",
-      "https://arxiv.org/abs/2608.15380",
-      "https://arxiv.org/abs/2609.11085",
-      "https://arxiv.org/abs/2609.09076",
-      "https://arxiv.org/abs/2609.10539",
-      "https://arxiv.org/abs/2609.11561",
-      "https://arxiv.org/abs/2609.11699",
-      "https://arxiv.org/abs/2609.11486"
-    ],
-    "blogs": [
-      "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "https://www.rubyhack.ai/",
-      "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-      "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
-      "https://dev.to/hadil/nexpath-review-can-an-ai-prompt-quality-layer-make-ai-coding-safer-24",
-      "https://dev.to/dj29/most-ai-reasoning-traces-are-just-the-answer-written-backwards-cho"
-    ],
-    "repos": [
-      "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "https://github.com/bojieli/ai-agent-book",
-      "https://github.com/volcengine/OpenViking",
-      "https://github.com/datahub-project/datahub",
-      "https://github.com/NVIDIA/garak",
-      "https://github.com/jihe520/MathModelAgent",
-      "https://github.com/armory3d/armorpaint",
-      "https://github.com/vastsa/PI-Desktop",
-      "https://github.com/jordan-gibbs/hyperresearch",
-      "https://github.com/alsk1992/CloddsBot"
-    ]
-  },
   "2026-09-13": {
     "papers": [
       "http://arxiv.org/abs/2609.11923v1",
@@ -932,6 +897,33 @@
       "https://github.com/lyogavin/airllm",
       "https://github.com/repowise-dev/repowise",
       "https://github.com/wheresryan22/anatomy"
+    ]
+  },
+  "2026-10-13": {
+    "papers": [
+      "https://arxiv.org/abs/2610.09326",
+      "https://arxiv.org/abs/2610.09116",
+      "https://arxiv.org/abs/2610.12933",
+      "https://arxiv.org/abs/2610.13361",
+      "https://arxiv.org/abs/2609.39600",
+      "https://arxiv.org/abs/2609.39601",
+      "https://arxiv.org/abs/2610.13166",
+      "https://arxiv.org/abs/2610.03308",
+      "https://arxiv.org/abs/2610.09396",
+      "https://arxiv.org/abs/2609.33304"
+    ],
+    "blogs": [
+      "https://github.com/openai/codex/issues/48195",
+      "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "https://arxiv.org/abs/2610.13928",
+      "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+      "https://www.argmin.net/p/faster-fourier-transforms",
+      "https://www.patreon.com/vihart/posts/vi-harts-big-171939430"
+    ],
+    "repos": [
+      "https://github.com/open-webui/open-webui",
+      "https://github.com/microsoft/BitNet"
     ]
   }
 }

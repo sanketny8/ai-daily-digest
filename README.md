@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-13</strong></summary>
+
+#### Papers
+
+1. **[VIS-Ground: Video Interactive Storytelling with Contextual Grounding](https://arxiv.org/abs/2610.09326)**
+
+2. **[SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code](https://arxiv.org/abs/2610.09116)**
+
+3. **[Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training](https://arxiv.org/abs/2610.12933)**
+
+4. **[AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://arxiv.org/abs/2610.13361)**
+
+5. **[GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed](https://arxiv.org/abs/2609.39600)**
+
+6. **[GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://arxiv.org/abs/2609.39601)**
+
+7. **[Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://arxiv.org/abs/2610.13166)**
+
+8. **[T3lescope: Arbitrary-Resolution High-Fidelity Generative Surface Reconstruction from Images](https://arxiv.org/abs/2610.03308)**
+
+9. **[ARCS: Towards Precise Text-to-SQL via Structured Disambiguation](https://arxiv.org/abs/2610.09396)**
+
+10. **[Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents](https://arxiv.org/abs/2609.33304)**
+
+
+#### Blog Posts
+
+1. **[Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)** by github.com
+
+2. **[AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)** by arstechnica.com
+
+3. **[AI models can provably hide arbitrary capabilities](https://arxiv.org/abs/2610.13928)** by arxiv.org
+
+4. **[Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)** by intel.com
+
+5. **[I turned my unused Kindle into a photo frame with GPT-6 Astra](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)** by nirajrajgor.com
+
+6. **[A look at the math that OpenAI claims computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)** by argmin.net
+
+7. **[Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)** by archagon
+
+
+#### Trending Repos
+
+1. **[open-webui/open-webui](https://github.com/open-webui/open-webui)** — User-friendly AI Interface (Supports Ollama, OpenAI API, ...) ⭐ 155388
+
+2. **[microsoft/BitNet](https://github.com/microsoft/BitNet)** — Official inference framework for 1-bit LLMs ⭐ 41042
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-12</strong></summary>
 
 #### Papers
