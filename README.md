@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-14</strong></summary>
+
+#### Papers
+
+1. **[Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion](https://arxiv.org/abs/2610.18871)**
+
+2. **[Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://arxiv.org/abs/2610.18356)**
+
+3. **[WAVE-0: Bridging VLA Policies and WAMs with Lightweight Latent Future Prediction](https://arxiv.org/abs/2610.18568)**
+
+4. **[PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems](https://arxiv.org/abs/2610.13989)**
+
+5. **[ReTerm: Recovery Training for Self-Improving Terminal Agents](https://arxiv.org/abs/2610.18484)**
+
+6. **[Open-o3-Video-v2: Seek, Ground, and Reason with Verifiable Spatio-Temporal Evidence](https://arxiv.org/abs/2610.17656)**
+
+7. **[Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://arxiv.org/abs/2610.18868)**
+
+8. **[DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](https://arxiv.org/abs/2610.18862)**
+
+9. **[Multics: Generative Multi-Player World Model with Hierarchical Communication](https://arxiv.org/abs/2610.17201)**
+
+10. **[Learning How to Remember: Memory Modality Selection for GUI Agents](https://arxiv.org/abs/2610.17928)**
+
+
+#### Blog Posts
+
+1. **[Gemini 4 Argon](https://deepmind.google/models/gemini/)** by deepmind.google
+
+2. **[OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)** by sfstandard.com
+
+3. **[We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)** by eg2.haku.sh
+
+4. **[Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)** by pdftomp3.com
+
+5. **[How to engineer an AI harness for game development](https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code)** by kylekukshtel.com
+
+6. **[Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)** by pulseos.finance
+
+7. **[Show HN: Parsimony – an open-source benchmark for how much code AI models add](https://parsimony.lasu.dev/)** by parsimony.lasu.dev
+
+8. **[AI Fatigue? Yea I know.](https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9)** by FrancisTRᴅᴇᴠ
+
+
+#### Trending Repos
+
+1. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary ⭐ 64179
+
+2. **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — The open agent skills tool - npx skills ⭐ 34704
+
+3. **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** — Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. ⭐ 27316
+
+4. **[1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB)** — 🔥 MaxKB is an open-source platform for building enterprise-grade agents. 强大易用的开源企业级智能体平台。 ⭐ 22973
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-13</strong></summary>
 
 #### Papers

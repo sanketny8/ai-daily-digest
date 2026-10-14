@@ -1,38 +1,4 @@
 {
-  "2026-09-13": {
-    "papers": [
-      "http://arxiv.org/abs/2609.11923v1",
-      "http://arxiv.org/abs/2609.11918v1",
-      "http://arxiv.org/abs/2609.11917v1",
-      "http://arxiv.org/abs/2609.11916v1",
-      "http://arxiv.org/abs/2609.11915v1",
-      "http://arxiv.org/abs/2609.11913v1",
-      "http://arxiv.org/abs/2609.11911v1",
-      "http://arxiv.org/abs/2609.11910v1",
-      "http://arxiv.org/abs/2609.11904v1",
-      "http://arxiv.org/abs/2609.11900v1"
-    ],
-    "blogs": [
-      "https://withspecific.com/benchmarks/real-swe",
-      "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "https://github.com/gauravapiscean/agentic-kv-cache",
-      "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "https://agentsdock.net/",
-      "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "https://dev.to/debashish_ghosal/our-recall-was-0087-and-the-model-was-innocent-how-domain-scoped-replay-doubled-it-4ci4"
-    ],
-    "repos": [
-      "https://github.com/asgeirtj/system_prompts_leaks",
-      "https://github.com/virgiliojr94/book-to-skill",
-      "https://github.com/vxcontrol/pentagi",
-      "https://github.com/petergyang/no-ai-slop",
-      "https://github.com/multimodal-art-projection/YuE",
-      "https://github.com/max-sixty/worktrunk",
-      "https://github.com/google-gemini/gemini-skills",
-      "https://github.com/SnailSploit/Claude-Red"
-    ]
-  },
   "2026-09-14": {
     "papers": [
       "https://arxiv.org/abs/2609.11115",
@@ -924,6 +890,36 @@
     "repos": [
       "https://github.com/open-webui/open-webui",
       "https://github.com/microsoft/BitNet"
+    ]
+  },
+  "2026-10-14": {
+    "papers": [
+      "https://arxiv.org/abs/2610.18871",
+      "https://arxiv.org/abs/2610.18356",
+      "https://arxiv.org/abs/2610.18568",
+      "https://arxiv.org/abs/2610.13989",
+      "https://arxiv.org/abs/2610.18484",
+      "https://arxiv.org/abs/2610.17656",
+      "https://arxiv.org/abs/2610.18868",
+      "https://arxiv.org/abs/2610.18862",
+      "https://arxiv.org/abs/2610.17201",
+      "https://arxiv.org/abs/2610.17928"
+    ],
+    "blogs": [
+      "https://deepmind.google/models/gemini/",
+      "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "https://eg2.haku.sh/",
+      "https://pdftomp3.com/connect-ai/",
+      "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "https://pulseos.finance",
+      "https://parsimony.lasu.dev/",
+      "https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9"
+    ],
+    "repos": [
+      "https://github.com/mvanhorn/last30days-skill",
+      "https://github.com/vercel-labs/skills",
+      "https://github.com/baidu/Unlimited-OCR",
+      "https://github.com/1Panel-dev/MaxKB"
     ]
   }
 }
