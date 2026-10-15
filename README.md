@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-15</strong></summary>
+
+#### Papers
+
+1. **[Latent Compaction with Test-Time Training](https://arxiv.org/abs/2610.20582)**
+
+2. **[Cortex: Consolidating Context into Parametric Memory](https://arxiv.org/abs/2610.20399)**
+
+3. **[BigCell: Generating Gigapixel Whole-Slide Images](https://arxiv.org/abs/2610.14261)**
+
+4. **[Super-Resolution in The Right Latent Space: A Frozen Vision-Foundation Substrate](https://arxiv.org/abs/2610.04781)**
+
+5. **[NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime](https://arxiv.org/abs/2610.10787)**
+
+6. **[SWEeper-Bench: Can Agents Discover Bugs in Interactive Software?](https://arxiv.org/abs/2610.14096)**
+
+7. **[VITAL: From Visual Motion to Precise Action](https://arxiv.org/abs/2610.20604)**
+
+8. **[SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving](https://arxiv.org/abs/2610.20609)**
+
+9. **[τ-Emotion-Bench: Exposing the Interaction Fragility of LLM Agents through Real-World User Emotions](https://arxiv.org/abs/2610.19560)**
+
+10. **[SkillMarker: A KGW-Based Watermarking Method for Agent Skill Ownership Verification](https://arxiv.org/abs/2610.15725)**
+
+
+#### Blog Posts
+
+1. **[Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)** by csoonline.com
+
+2. **[LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)** by liquid.ai
+
+3. **[TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)** by swedenherald.com
+
+4. **[Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)** by Sylwia Laskowska
+
+5. **[What agents mean for Rust (and vice versa)](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)** by smallcultfollowing.com
+
+6. **[Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle)** by github.com
+
+7. **[Design for Churn](https://dev.to/dailycontext/design-for-churn-5c6h)** by Ben Halpern
+
+
+#### Trending Repos
+
+1. **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)** — Fully autonomous AI Agents system capable of performing complex penetration testing tasks ⭐ 29879
+
+2. **[MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)** — Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. ⭐ 9052
+
+3. **[aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)** — Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS ⭐ 2878
+
+4. **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** — Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak. ⭐ 2177
+
+5. **[isair/jarvis](https://github.com/isair/jarvis)** — Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. ⭐ 2072
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-14</strong></summary>
 
 #### Papers

@@ -1,126 +1,128 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "papers": [
     {
-      "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
-      "url": "https://arxiv.org/abs/2610.18871",
-      "summary": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension "
+      "title": "Latent Compaction with Test-Time Training",
+      "url": "https://arxiv.org/abs/2610.20582",
+      "summary": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Laten"
     },
     {
-      "title": "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes",
-      "url": "https://arxiv.org/abs/2610.18356",
-      "summary": "City-scale 3D grounding is commonly formulated as candidate ranking, which requires precomputed instance proposals and becomes inefficient in large outdoor scenes. We propose Urbex, an agentic vision-"
+      "title": "Cortex: Consolidating Context into Parametric Memory",
+      "url": "https://arxiv.org/abs/2610.20399",
+      "summary": "Context can improve large language model performance, but these gains may be lost after context removal. Inspired by biological systems consolidation, we formulate Memory Consolidation (MC) as interna"
     },
     {
-      "title": "WAVE-0: Bridging VLA Policies and WAMs with Lightweight Latent Future Prediction",
-      "url": "https://arxiv.org/abs/2610.18568",
-      "summary": "Vision-language-action (VLA) policies excel at generalist robotic manipulation but generate actions without explicitly modeling their environmental consequences. World action models (WAMs) incorporate"
+      "title": "BigCell: Generating Gigapixel Whole-Slide Images",
+      "url": "https://arxiv.org/abs/2610.14261",
+      "summary": "Whole-slide images (WSIs) are gigapixel-scale digital scans of histopathology tissue and serve as the primary basis for cancer diagnosis. Existing histopathology generative models operate at the patch"
     },
     {
-      "title": "PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems",
-      "url": "https://arxiv.org/abs/2610.13989",
-      "summary": "Evaluating recommender systems before deployment requires simulators that remain realistic over long, closed-loop interaction cycles. Current LLM-based agents generally function as surface imitators t"
+      "title": "Super-Resolution in The Right Latent Space: A Frozen Vision-Foundation Substrate",
+      "url": "https://arxiv.org/abs/2610.04781",
+      "summary": "In an image latent space, the embeddings of high-resolution, natural, and sharp images form a manifold. Degradation of high-resolution images pushes their embeddings off this manifold. Real-world supe"
     },
     {
-      "title": "ReTerm: Recovery Training for Self-Improving Terminal Agents",
-      "url": "https://arxiv.org/abs/2610.18484",
-      "summary": "Terminal agents have shown strong abilities in complex coding tasks. However, they often struggle to recover from errors during long-running execution (e.g., command errors, faulty implementations), e"
+      "title": "NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime",
+      "url": "https://arxiv.org/abs/2610.10787",
+      "summary": "Language models trained with long-horizon agentic reinforcement learning can generalize knowledge through reasoning, express precise actions, and pursue goals over many steps, raising the ceiling on w"
     },
     {
-      "title": "Open-o3-Video-v2: Seek, Ground, and Reason with Verifiable Spatio-Temporal Evidence",
-      "url": "https://arxiv.org/abs/2610.17656",
-      "summary": "Reliable video reasoning requires models to produce correct answers and expose supporting visual evidence. Open-o3-Video enables verifiable reasoning by embedding timestamps and object-level bounding "
+      "title": "SWEeper-Bench: Can Agents Discover Bugs in Interactive Software?",
+      "url": "https://arxiv.org/abs/2610.14096",
+      "summary": "Coding agents increasingly interact with users by generating interactive software on the fly rather than replying in text, yet many bugs in such software reveal themselves only after multi-step intera"
     },
     {
-      "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-      "url": "https://arxiv.org/abs/2610.18868",
-      "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur"
+      "title": "VITAL: From Visual Motion to Precise Action",
+      "url": "https://arxiv.org/abs/2610.20604",
+      "summary": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates de"
     },
     {
-      "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
-      "url": "https://arxiv.org/abs/2610.18862",
-      "summary": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini"
+      "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
+      "url": "https://arxiv.org/abs/2610.20609",
+      "summary": "Vision-Language-Action (VLA) models are gaining attention in autonomous driving, inheriting commonsense priors from large language models (LLMs) and widening the navigation interface from a fixed comm"
     },
     {
-      "title": "Multics: Generative Multi-Player World Model with Hierarchical Communication",
-      "url": "https://arxiv.org/abs/2610.17201",
-      "summary": "Multi-player interactive world models aim to simulate shared environments from multiple players' perspectives, but achieving robust generation while scaling to more players remains challenging. Existi"
+      "title": "τ-Emotion-Bench: Exposing the Interaction Fragility of LLM Agents through Real-World User Emotions",
+      "url": "https://arxiv.org/abs/2610.19560",
+      "summary": "In long-horizon tool-calling tasks, LLM agents can fail not only because of tool-use errors, but also because of ineffective interaction with users. Yet existing benchmarks largely assume cooperative "
     },
     {
-      "title": "Learning How to Remember: Memory Modality Selection for GUI Agents",
-      "url": "https://arxiv.org/abs/2610.17928",
-      "summary": "Recent advances in vision-language models (VLMs) have substantially improved the capabilities of GUI agents, while memory augmentation has emerged as a promising approach for reusing knowledge from pa"
+      "title": "SkillMarker: A KGW-Based Watermarking Method for Agent Skill Ownership Verification",
+      "url": "https://arxiv.org/abs/2610.15725",
+      "summary": "Agent skills encode operational procedures and domain expertise as reusable knowledge assets, yet their distribution in plaintext exposes them to unauthorized copying and leakage. However, practical m"
     }
   ],
   "blog_posts": [
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "author": "deepmind.google"
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "author": "csoonline.com"
     },
     {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "author": "sfstandard.com"
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "author": "liquid.ai"
     },
     {
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "url": "https://eg2.haku.sh/",
-      "author": "eg2.haku.sh"
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "author": "swedenherald.com"
     },
     {
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "url": "https://pdftomp3.com/connect-ai/",
-      "author": "pdftomp3.com"
+      "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
+      "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
+      "author": "Sylwia Laskowska"
     },
     {
-      "title": "How to engineer an AI harness for game development",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "author": "kylekukshtel.com"
+      "title": "What agents mean for Rust (and vice versa)",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+      "author": "smallcultfollowing.com"
     },
     {
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "url": "https://pulseos.finance",
-      "author": "pulseos.finance"
+      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+      "url": "https://github.com/graphicle-ai/graphicle",
+      "author": "github.com"
     },
     {
-      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-      "url": "https://parsimony.lasu.dev/",
-      "author": "parsimony.lasu.dev"
-    },
-    {
-      "title": "AI Fatigue? Yea I know.",
-      "url": "https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9",
-      "author": "FrancisTRᴅᴇᴠ"
+      "title": "Design for Churn",
+      "url": "https://dev.to/dailycontext/design-for-churn-5c6h",
+      "author": "Ben Halpern"
     }
   ],
   "repos": [
     {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 64179,
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 29879,
+      "language": "Go"
+    },
+    {
+      "name": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "stars": 9052,
       "language": "Python"
     },
     {
-      "name": "vercel-labs/skills",
-      "url": "https://github.com/vercel-labs/skills",
-      "description": "The open agent skills tool - npx skills",
-      "stars": 34704,
-      "language": "TypeScript"
-    },
-    {
-      "name": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-      "stars": 27316,
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "stars": 2878,
       "language": "Python"
     },
     {
-      "name": "1Panel-dev/MaxKB",
-      "url": "https://github.com/1Panel-dev/MaxKB",
-      "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. 强大易用的开源企业级智能体平台。",
-      "stars": 22973,
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "stars": 2177,
+      "language": "C"
+    },
+    {
+      "name": "isair/jarvis",
+      "url": "https://github.com/isair/jarvis",
+      "description": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.",
+      "stars": 2072,
       "language": "Python"
     }
   ],

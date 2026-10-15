@@ -1,35 +1,4 @@
 {
-  "2026-09-14": {
-    "papers": [
-      "https://arxiv.org/abs/2609.11115",
-      "https://arxiv.org/abs/2609.12641",
-      "https://arxiv.org/abs/2609.11682",
-      "https://arxiv.org/abs/2608.30597",
-      "https://arxiv.org/abs/2609.13146",
-      "https://arxiv.org/abs/2609.13141",
-      "http://arxiv.org/abs/2609.13144v1",
-      "http://arxiv.org/abs/2609.13141v1",
-      "http://arxiv.org/abs/2609.13134v1",
-      "http://arxiv.org/abs/2609.13125v1"
-    ],
-    "blogs": [
-      "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "https://dev.to/dev_kiran/shift-left-code-review-how-qodo-turns-your-coding-agent-into-its-own-first-reviewer-58fc",
-      "https://dev.to/georgekobaidze/vibe-coding-isnt-the-problem-calling-it-engineering-is-lm1",
-      "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2"
-    ],
-    "repos": [
-      "https://github.com/huggingface/transformers",
-      "https://github.com/unclecode/crawl4ai",
-      "https://github.com/alibaba/open-code-review",
-      "https://github.com/tech-leads-club/agent-skills",
-      "https://github.com/simonlin1212/TradingAgents-astock",
-      "https://github.com/melgarafael/DeskcommCRM"
-    ]
-  },
   "2026-09-15": {
     "papers": [
       "https://arxiv.org/abs/2609.15364",
@@ -920,6 +889,36 @@
       "https://github.com/vercel-labs/skills",
       "https://github.com/baidu/Unlimited-OCR",
       "https://github.com/1Panel-dev/MaxKB"
+    ]
+  },
+  "2026-10-15": {
+    "papers": [
+      "https://arxiv.org/abs/2610.20582",
+      "https://arxiv.org/abs/2610.20399",
+      "https://arxiv.org/abs/2610.14261",
+      "https://arxiv.org/abs/2610.04781",
+      "https://arxiv.org/abs/2610.10787",
+      "https://arxiv.org/abs/2610.14096",
+      "https://arxiv.org/abs/2610.20604",
+      "https://arxiv.org/abs/2610.20609",
+      "https://arxiv.org/abs/2610.19560",
+      "https://arxiv.org/abs/2610.15725"
+    ],
+    "blogs": [
+      "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
+      "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+      "https://github.com/graphicle-ai/graphicle",
+      "https://dev.to/dailycontext/design-for-churn-5c6h"
+    ],
+    "repos": [
+      "https://github.com/vxcontrol/pentagi",
+      "https://github.com/MakazhanAlpamys/Soup",
+      "https://github.com/aws/agent-toolkit-for-aws",
+      "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "https://github.com/isair/jarvis"
     ]
   }
 }
