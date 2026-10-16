@@ -1,36 +1,4 @@
 {
-  "2026-09-15": {
-    "papers": [
-      "https://arxiv.org/abs/2609.15364",
-      "https://arxiv.org/abs/2609.15134",
-      "https://arxiv.org/abs/2609.12541",
-      "https://arxiv.org/abs/2609.13814",
-      "https://arxiv.org/abs/2609.15029",
-      "https://arxiv.org/abs/2609.15078",
-      "https://arxiv.org/abs/2609.15309",
-      "https://arxiv.org/abs/2609.15818",
-      "https://arxiv.org/abs/2609.15659",
-      "https://arxiv.org/abs/2609.13356"
-    ],
-    "blogs": [
-      "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "https://github.com/anuj0456/OpenArch",
-      "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-      "https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al",
-      "https://dev.to/tooljet/building-a-recall-response-console-with-tooljet-mcp-and-examining-tooljets-approach-to-ai-app-126",
-      "https://dev.to/thebitforge/is-ai-really-better-at-coding-than-most-developers-heres-the-uncomfortable-truth-4d9"
-    ],
-    "repos": [
-      "https://github.com/localsend/localsend",
-      "https://github.com/Panniantong/Agent-Reach",
-      "https://github.com/Crosstalk-Solutions/project-nomad",
-      "https://github.com/rlaope/oh-my-hermes"
-    ]
-  },
   "2026-09-16": {
     "papers": [
       "https://arxiv.org/abs/2609.16204",
@@ -919,6 +887,37 @@
       "https://github.com/aws/agent-toolkit-for-aws",
       "https://github.com/onehumanbeing/esp32-iphone-agent",
       "https://github.com/isair/jarvis"
+    ]
+  },
+  "2026-10-16": {
+    "papers": [
+      "https://arxiv.org/abs/2610.22276",
+      "https://arxiv.org/abs/2610.21306",
+      "https://arxiv.org/abs/2610.17670",
+      "https://arxiv.org/abs/2610.18125",
+      "https://arxiv.org/abs/2610.18890",
+      "https://arxiv.org/abs/2610.21601",
+      "https://arxiv.org/abs/2610.22240",
+      "https://arxiv.org/abs/2610.22344",
+      "https://arxiv.org/abs/2610.16355",
+      "https://arxiv.org/abs/2610.21439"
+    ],
+    "blogs": [
+      "https://www.krea.ai/krea-3",
+      "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+      "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh",
+      "https://dev.to/dannwaneri/i-built-a-lie-detector-for-ai-coding-agents-then-i-read-the-rules-1hhb",
+      "https://openfatigue.ai/",
+      "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "https://github.com/awslabs/aidlc-workflows",
+      "https://dev.to/vidisha_gupta_/scope-creep-guard-a-local-gemma-ai-that-tells-clients-thats-out-of-scope-so-you-dont-have-18n2"
+    ],
+    "repos": [
+      "https://github.com/ruvnet/ruflo",
+      "https://github.com/bojieli/ai-agent-book",
+      "https://github.com/volcengine/OpenViking",
+      "https://github.com/ahujasid/mcp-for-blender",
+      "https://github.com/trailofbits/skills"
     ]
   }
 }

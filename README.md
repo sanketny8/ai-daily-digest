@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-16</strong></summary>
+
+#### Papers
+
+1. **[MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://arxiv.org/abs/2610.22276)**
+
+2. **[VLA-Δ: Learning Physical State Transition for Vision-Language-Action Models](https://arxiv.org/abs/2610.21306)**
+
+3. **[Cowork-Gym: Synthesizing Interactive Work Environments at Scale](https://arxiv.org/abs/2610.17670)**
+
+4. **[H-DDCM: Hadamard Codebooks for Fast Generative Image and Video Compression](https://arxiv.org/abs/2610.18125)**
+
+5. **[AI-Driven, Timing-Aware Power Optimization](https://arxiv.org/abs/2610.18890)**
+
+6. **[Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://arxiv.org/abs/2610.21601)**
+
+7. **[MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents](https://arxiv.org/abs/2610.22240)**
+
+8. **[MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering](https://arxiv.org/abs/2610.22344)**
+
+9. **[PINT: A Unified Model with Shared Predictive Intent for Robot Manipulation](https://arxiv.org/abs/2610.16355)**
+
+10. **[Each Reward to Its Relevant Tokens: Reward-Specific Token-Level Credit Assignment for Multi-Reward RL](https://arxiv.org/abs/2610.21439)**
+
+
+#### Blog Posts
+
+1. **[Krea 3 – An image model built for editing at scale](https://www.krea.ai/krea-3)** by krea.ai
+
+2. **[Frontier Pre-Training at Microsoft AI](https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/)** by microsoft.ai
+
+3. **[I Vibe-Coded My Way Out of Angular Upgrades](https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh)** by Daniel Balcarek
+
+4. **[I built a lie detector for AI coding agents. Then I read the rules.](https://dev.to/dannwaneri/i-built-a-lie-detector-for-ai-coding-agents-then-i-read-the-rules-1hhb)** by Daniel Nwaneri
+
+5. **[OpenFatigue™ — Open is the new closed](https://openfatigue.ai/)** by kngl
+
+6. **[Bringing the magic: Google breaks open a bottleneck in quantum computing](https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/)** by blog.google
+
+7. **[Aidlc: Adaptive workflow steering rules for AI coding agents](https://github.com/awslabs/aidlc-workflows)** by github.com
+
+8. **[Scope-Creep Guard: A Local Gemma AI That Tells Clients "That's Out of Scope" (So You Don't Have To) published: true](https://dev.to/vidisha_gupta_/scope-creep-guard-a-local-gemma-ai-that-tells-clients-thats-out-of-scope-so-you-dont-have-18n2)** by Vidisha Gupta
+
+
+#### Trending Repos
+
+1. **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa ⭐ 75270
+
+2. **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 ⭐ 54482
+
+3. **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)** — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. ⭐ 40044
+
+4. **[ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)** — Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation. ⭐ 31013
+
+5. **[trailofbits/skills](https://github.com/trailofbits/skills)** — Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows ⭐ 7579
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-15</strong></summary>
 
 #### Papers
