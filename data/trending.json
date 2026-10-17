@@ -1,134 +1,132 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "papers": [
     {
-      "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
-      "url": "https://arxiv.org/abs/2610.22276",
-      "summary": "Spatial intelligence lets an agent perceive and act in the physical world, and many of its judgments must be made at interaction rates: which spatial relation holds, how far an object is, or where to "
+      "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
+      "url": "https://arxiv.org/abs/2610.21185",
+      "summary": "Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach"
     },
     {
-      "title": "VLA-Δ: Learning Physical State Transition for Vision-Language-Action Models",
-      "url": "https://arxiv.org/abs/2610.21306",
-      "summary": "Vision-language-action (VLA) models transfer semantic knowledge acquired through vision-language pretraining to robot control, achieving strong performance across various benchmarks. However, most VLA"
+      "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+      "url": "https://arxiv.org/abs/2610.21261",
+      "summary": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Res"
     },
     {
-      "title": "Cowork-Gym: Synthesizing Interactive Work Environments at Scale",
-      "url": "https://arxiv.org/abs/2610.17670",
-      "summary": "Cowork agents navigate dependencies across tools and files while adapting to changing user requirements and edits to shared workspaces. Scaling such environments requires maintaining consistency among"
+      "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility",
+      "url": "https://arxiv.org/abs/2610.20680",
+      "summary": "Sparse autoencoders (SAEs) are typically trained on hundreds of millions to billions of activation tokens, yet little work has tested whether this scale is necessary. We study how much activation data"
     },
     {
-      "title": "H-DDCM: Hadamard Codebooks for Fast Generative Image and Video Compression",
-      "url": "https://arxiv.org/abs/2610.18125",
-      "summary": "Training-free diffusion-based compression methods repurpose the generative priors of a diffusion or a flow model to compress data without retraining them as task-specific codecs. Recent codebook-based"
+      "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2610.22280",
+      "summary": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers "
     },
     {
-      "title": "AI-Driven, Timing-Aware Power Optimization",
-      "url": "https://arxiv.org/abs/2610.18890",
-      "summary": "Post-route power recovery changes cell choices under tightly coupled timing, electrical and physical constraints, and the value of each change depends on what it costs to repair its side effects. We p"
+      "title": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments",
+      "url": "https://arxiv.org/abs/2610.15924",
+      "summary": "Agent environments are essential for large language model (LLM) development. They use programmatic verifiers to turn complex outcomes into rewards. Verifiers can be attacked into awarding full credit "
     },
     {
-      "title": "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2610.21601",
-      "summary": "Policy-shift distillation reuses the difference between a teacher's log probabilities before and after reinforcement learning (RL) as supervision on student-generated trajectories. However, this endpo"
+      "title": "LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification",
+      "url": "https://arxiv.org/abs/2610.17697",
+      "summary": "AI systems now write long and difficult mathematical proofs, and checking their step-by-step validity is becoming a bottleneck. A learned verifier could check proofs cheaply, but training one requires"
     },
     {
-      "title": "MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents",
-      "url": "https://arxiv.org/abs/2610.22240",
-      "summary": "Multimodal deep search is moving from short queries to long-horizon investigations that continually acquire evidence. However, training such agents remains constrained by limited challenging training "
+      "title": "Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR",
+      "url": "https://arxiv.org/abs/2610.20461",
+      "summary": "Character Error Rate (CER), the standard metric for OCR and vision-language models (VLMs), charges a typo as much as a wrong name. We introduce semCER, which keeps CER's alignment and denominator and "
     },
     {
-      "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
-      "url": "https://arxiv.org/abs/2610.22344",
-      "summary": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recur"
+      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+      "url": "https://arxiv.org/abs/2610.22358",
+      "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future tra"
     },
     {
-      "title": "PINT: A Unified Model with Shared Predictive Intent for Robot Manipulation",
-      "url": "https://arxiv.org/abs/2610.16355",
-      "summary": "Generalist robot manipulation can benefit from pretrained vision-language models (VLMs) for semantic reasoning and video generation models (VGMs) for world modeling. However, existing unified models t"
+      "title": "Learning to Read Out: Unembedding Dynamics in Language Model Pretraining",
+      "url": "https://arxiv.org/abs/2610.21025",
+      "summary": "When does a language model acquire a capability? Developmental studies usually answer this by tracking when models start producing the correct token. But that prediction passes through the unembedding"
     },
     {
-      "title": "Each Reward to Its Relevant Tokens: Reward-Specific Token-Level Credit Assignment for Multi-Reward RL",
-      "url": "https://arxiv.org/abs/2610.21439",
-      "summary": "Language models are increasingly trained against several verifiable rewards at once, such as the correctness and the format of a tool call, or the individual constraints of a complex instruction. Rewa"
+      "title": "Copy-Paste Language Models",
+      "url": "https://arxiv.org/abs/2610.19247",
+      "summary": "Transformers are intuitively considered to be efficient at copying from their inputs. We actually show that the ability of LLMs to copy in context can be improved through explicit modeling. We propose"
     }
   ],
   "blog_posts": [
     {
-      "title": "Krea 3 – An image model built for editing at scale",
-      "url": "https://www.krea.ai/krea-3",
-      "author": "krea.ai"
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "author": "anthropic.com"
     },
     {
-      "title": "Frontier Pre-Training at Microsoft AI",
-      "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
-      "author": "microsoft.ai"
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "author": "mercor.com"
     },
     {
-      "title": "I Vibe-Coded My Way Out of Angular Upgrades",
-      "url": "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh",
-      "author": "Daniel Balcarek"
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "author": "claude.dev"
     },
     {
-      "title": "I built a lie detector for AI coding agents. Then I read the rules.",
-      "url": "https://dev.to/dannwaneri/i-built-a-lie-detector-for-ai-coding-agents-then-i-read-the-rules-1hhb",
-      "author": "Daniel Nwaneri"
-    },
-    {
-      "title": "OpenFatigue™ — Open is the new closed",
-      "url": "https://openfatigue.ai/",
-      "author": "kngl"
-    },
-    {
-      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
-      "author": "blog.google"
-    },
-    {
-      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-      "url": "https://github.com/awslabs/aidlc-workflows",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
       "author": "github.com"
     },
     {
-      "title": "Scope-Creep Guard: A Local Gemma AI That Tells Clients \"That's Out of Scope\" (So You Don't Have To) published: true",
-      "url": "https://dev.to/vidisha_gupta_/scope-creep-guard-a-local-gemma-ai-that-tells-clients-thats-out-of-scope-so-you-dont-have-18n2",
-      "author": "Vidisha Gupta"
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "author": "alexwang.ai"
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "author": "anthropic.com"
+    },
+    {
+      "title": "Why harnesses matter for energy (and token) efficiency",
+      "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+      "author": "neuralwatt.com"
+    },
+    {
+      "title": "Show HN: rStation – A shared research lab for your AI agents",
+      "url": "https://rstation.ai/",
+      "author": "rstation.ai"
+    },
+    {
+      "title": "How to make System 1 LLMs show System 2 competencies?",
+      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+      "author": "onlinelibrary.wiley.com"
     }
   ],
   "repos": [
     {
-      "name": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
-      "stars": 75270,
-      "language": "TypeScript"
-    },
-    {
-      "name": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 54482,
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars": 52450,
       "language": "Python"
     },
     {
-      "name": "volcengine/OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "stars": 40044,
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "stars": 21059,
       "language": "Python"
     },
     {
-      "name": "ahujasid/mcp-for-blender",
-      "url": "https://github.com/ahujasid/mcp-for-blender",
-      "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
-      "stars": 31013,
+      "name": "google/artemis",
+      "url": "https://github.com/google/artemis",
+      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,",
+      "stars": 12063,
       "language": "Python"
     },
     {
-      "name": "trailofbits/skills",
-      "url": "https://github.com/trailofbits/skills",
-      "description": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows",
-      "stars": 7579,
-      "language": "Python"
+      "name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search",
+      "stars": 7120,
+      "language": "Rust"
     }
   ],
   "tweets": []

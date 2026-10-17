@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-17</strong></summary>
+
+#### Papers
+
+1. **[Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models](https://arxiv.org/abs/2610.21185)**
+
+2. **[Behavioral Compositionality of Sparse Autoencoder Representations](https://arxiv.org/abs/2610.21261)**
+
+3. **[Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility](https://arxiv.org/abs/2610.20680)**
+
+4. **[LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents](https://arxiv.org/abs/2610.22280)**
+
+5. **[Scalable Weak-to-Strong Verifier Hardening for Agent Environments](https://arxiv.org/abs/2610.15924)**
+
+6. **[LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification](https://arxiv.org/abs/2610.17697)**
+
+7. **[Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR](https://arxiv.org/abs/2610.20461)**
+
+8. **[PathFM: Fast Generative Forecasting of Multivariate Trajectories](https://arxiv.org/abs/2610.22358)**
+
+9. **[Learning to Read Out: Unembedding Dynamics in Language Model Pretraining](https://arxiv.org/abs/2610.21025)**
+
+10. **[Copy-Paste Language Models](https://arxiv.org/abs/2610.19247)**
+
+
+#### Blog Posts
+
+1. **[Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)** by anthropic.com
+
+2. **[90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)** by mercor.com
+
+3. **[How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)** by claude.dev
+
+4. **[Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)** by github.com
+
+5. **[You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)** by alexwang.ai
+
+6. **[Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits)** by anthropic.com
+
+7. **[Why harnesses matter for energy (and token) efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)** by neuralwatt.com
+
+8. **[Show HN: rStation – A shared research lab for your AI agents](https://rstation.ai/)** by rstation.ai
+
+9. **[How to make System 1 LLMs show System 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113)** by onlinelibrary.wiley.com
+
+
+#### Trending Repos
+
+1. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — Academic Research Skills for Claude Code: research → write → review → revise → finalize ⭐ 52450
+
+2. **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** — Give your agent CAD superpowers. ⭐ 21059
+
+3. **[google/artemis](https://github.com/google/artemis)** — ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, ⭐ 12063
+
+4. **[xerj-org/xerj](https://github.com/xerj-org/xerj)** — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search ⭐ 7120
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-16</strong></summary>
 
 #### Papers

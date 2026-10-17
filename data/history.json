@@ -1,38 +1,4 @@
 {
-  "2026-09-16": {
-    "papers": [
-      "https://arxiv.org/abs/2609.16204",
-      "https://arxiv.org/abs/2609.17320",
-      "https://arxiv.org/abs/2609.11873",
-      "https://arxiv.org/abs/2609.17524",
-      "https://arxiv.org/abs/2609.17521",
-      "https://arxiv.org/abs/2609.13680",
-      "https://arxiv.org/abs/2609.13770",
-      "https://arxiv.org/abs/2609.15972",
-      "https://arxiv.org/abs/2609.15975",
-      "https://arxiv.org/abs/2609.16679"
-    ],
-    "blogs": [
-      "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "https://www.effort.news/irregular",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "https://www.formas.ai/cartesian",
-      "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
-      "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "https://github.com/pizza-bot-app/pizza-bot",
-      "https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9",
-      "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh"
-    ],
-    "repos": [
-      "https://github.com/earendil-works/pi",
-      "https://github.com/addyosmani/agent-skills",
-      "https://github.com/danny-avila/LibreChat",
-      "https://github.com/anthropics/claude-plugins-official",
-      "https://github.com/Jeffallan/claude-skills",
-      "https://github.com/pacifio/atlas"
-    ]
-  },
   "2026-09-17": {
     "papers": [
       "https://arxiv.org/abs/2609.17708",
@@ -918,6 +884,37 @@
       "https://github.com/volcengine/OpenViking",
       "https://github.com/ahujasid/mcp-for-blender",
       "https://github.com/trailofbits/skills"
+    ]
+  },
+  "2026-10-17": {
+    "papers": [
+      "https://arxiv.org/abs/2610.21185",
+      "https://arxiv.org/abs/2610.21261",
+      "https://arxiv.org/abs/2610.20680",
+      "https://arxiv.org/abs/2610.22280",
+      "https://arxiv.org/abs/2610.15924",
+      "https://arxiv.org/abs/2610.17697",
+      "https://arxiv.org/abs/2610.20461",
+      "https://arxiv.org/abs/2610.22358",
+      "https://arxiv.org/abs/2610.21025",
+      "https://arxiv.org/abs/2610.19247"
+    ],
+    "blogs": [
+      "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "https://github.com/cobanov/PS5LM",
+      "https://alexwang.ai/posts/associative-memory/",
+      "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+      "https://rstation.ai/",
+      "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113"
+    ],
+    "repos": [
+      "https://github.com/Imbad0202/academic-research-skills",
+      "https://github.com/earthtojake/text-to-cad",
+      "https://github.com/google/artemis",
+      "https://github.com/xerj-org/xerj"
     ]
   }
 }
