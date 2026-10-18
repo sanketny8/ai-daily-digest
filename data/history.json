@@ -1,38 +1,4 @@
 {
-  "2026-09-17": {
-    "papers": [
-      "https://arxiv.org/abs/2609.17708",
-      "https://arxiv.org/abs/2609.14320",
-      "https://arxiv.org/abs/2609.18487",
-      "https://arxiv.org/abs/2609.19144",
-      "https://arxiv.org/abs/2609.17909",
-      "https://arxiv.org/abs/2609.15938",
-      "https://arxiv.org/abs/2609.18094",
-      "https://arxiv.org/abs/2609.15810",
-      "https://arxiv.org/abs/2609.17632",
-      "https://arxiv.org/abs/2609.19134"
-    ],
-    "blogs": [
-      "https://mistral.ai/news/mistral-x-mozilla/",
-      "https://rohanbansal.com/qorl",
-      "https://mimo.xiaomi.com/rl/",
-      "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-      "https://stale.jock.pl/",
-      "https://www.linum.ai/field-notes/jit-ddt",
-      "https://nemin.hu/llm-letter/index.html",
-      "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure"
-    ],
-    "repos": [
-      "https://github.com/anthropics/claude-code",
-      "https://github.com/supabase/supabase",
-      "https://github.com/cline/cline",
-      "https://github.com/jamiepine/voicebox",
-      "https://github.com/wshobson/agents",
-      "https://github.com/onyx-dot-app/onyx",
-      "https://github.com/Tencent/WeKnora",
-      "https://github.com/anthropics/knowledge-work-plugins"
-    ]
-  },
   "2026-09-18": {
     "papers": [
       "https://arxiv.org/abs/2609.18605",
@@ -915,6 +881,33 @@
       "https://github.com/earthtojake/text-to-cad",
       "https://github.com/google/artemis",
       "https://github.com/xerj-org/xerj"
+    ]
+  },
+  "2026-10-18": {
+    "papers": [
+      "http://arxiv.org/abs/2610.22372v1",
+      "http://arxiv.org/abs/2610.22367v1",
+      "http://arxiv.org/abs/2610.22364v1",
+      "http://arxiv.org/abs/2610.22362v1",
+      "http://arxiv.org/abs/2610.22358v1",
+      "http://arxiv.org/abs/2610.22355v1",
+      "http://arxiv.org/abs/2610.22353v1",
+      "http://arxiv.org/abs/2610.22350v1",
+      "http://arxiv.org/abs/2610.22344v1",
+      "http://arxiv.org/abs/2610.22343v1"
+    ],
+    "blogs": [
+      "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "https://github.com/openai/codex/issues/25921",
+      "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+      "https://dev.to/dronzer2code/we-searched-ebay-for-237-recalled-products-only-45-of-12562-listings-named-the-model-2efi"
+    ],
+    "repos": [
+      "https://github.com/anomalyco/opencode",
+      "https://github.com/stablyai/orca",
+      "https://github.com/anthropics/claude-plugins-official",
+      "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "https://github.com/ScrapeCreators/social-media-research-skills"
     ]
   }
 }

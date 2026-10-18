@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-18</strong></summary>
+
+#### Papers
+
+1. **[LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)**
+
+2. **[Discovering state-of-the-art quantum circuits with large language models](http://arxiv.org/abs/2610.22367v1)**
+
+3. **[T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](http://arxiv.org/abs/2610.22364v1)**
+
+4. **[CoDA: Co-Evolution of Data Engines and Action Policies](http://arxiv.org/abs/2610.22362v1)**
+
+5. **[PathFM: Fast Generative Forecasting of Multivariate Trajectories](http://arxiv.org/abs/2610.22358v1)**
+
+6. **[OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling](http://arxiv.org/abs/2610.22355v1)**
+
+7. **[Rethinking Routing Exploration in Modern Mixture-of-Experts](http://arxiv.org/abs/2610.22353v1)**
+
+8. **[FDE-Gym: The Last Mile of AI Delivery](http://arxiv.org/abs/2610.22350v1)**
+
+9. **[MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering](http://arxiv.org/abs/2610.22344v1)**
+
+10. **[GeoState: Learning View-Decoupled Geometry States for 3D World Modeling](http://arxiv.org/abs/2610.22343v1)**
+
+
+#### Blog Posts
+
+1. **[DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)** by huggingface.co
+
+2. **[Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)** by github.com
+
+3. **[The math that OpenAI keeps for itself](https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself)** by newsletter.danielpaleka.com
+
+4. **[We Searched eBay for 237 Recalled Products. Only 45 of 12,562 Listings Named the Model.](https://dev.to/dronzer2code/we-searched-ebay-for-237-recalled-products-only-45-of-12562-listings-named-the-model-2efi)** by Subarna Maity
+
+
+#### Trending Repos
+
+1. **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — The open source coding agent. ⭐ 215653
+
+2. **[stablyai/orca](https://github.com/stablyai/orca)** — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. ⭐ 95669
+
+3. **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Official, Anthropic-managed directory of high quality Claude Code Plugins. ⭐ 42010
+
+4. **[The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge)** — Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. ⭐ 6357
+
+5. **[ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)** — AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries &amp; trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn &amp; more. Powered by  ⭐ 4057
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-17</strong></summary>
 
 #### Papers

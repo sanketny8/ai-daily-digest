@@ -1,132 +1,114 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "papers": [
     {
-      "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
-      "url": "https://arxiv.org/abs/2610.21185",
-      "summary": "Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach"
+      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "url": "http://arxiv.org/abs/2610.22372v1",
+      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person"
     },
     {
-      "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
-      "url": "https://arxiv.org/abs/2610.21261",
-      "summary": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Res"
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "url": "http://arxiv.org/abs/2610.22367v1",
+      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effici"
     },
     {
-      "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility",
-      "url": "https://arxiv.org/abs/2610.20680",
-      "summary": "Sparse autoencoders (SAEs) are typically trained on hundreds of millions to billions of activation tokens, yet little work has tested whether this scale is necessary. We study how much activation data"
+      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "url": "http://arxiv.org/abs/2610.22364v1",
+      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from ph"
     },
     {
-      "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
-      "url": "https://arxiv.org/abs/2610.22280",
-      "summary": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers "
-    },
-    {
-      "title": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments",
-      "url": "https://arxiv.org/abs/2610.15924",
-      "summary": "Agent environments are essential for large language model (LLM) development. They use programmatic verifiers to turn complex outcomes into rewards. Verifiers can be attacked into awarding full credit "
-    },
-    {
-      "title": "LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification",
-      "url": "https://arxiv.org/abs/2610.17697",
-      "summary": "AI systems now write long and difficult mathematical proofs, and checking their step-by-step validity is becoming a bottleneck. A learned verifier could check proofs cheaply, but training one requires"
-    },
-    {
-      "title": "Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR",
-      "url": "https://arxiv.org/abs/2610.20461",
-      "summary": "Character Error Rate (CER), the standard metric for OCR and vision-language models (VLMs), charges a typo as much as a wrong name. We introduce semCER, which keeps CER's alignment and denominator and "
+      "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+      "url": "http://arxiv.org/abs/2610.22362v1",
+      "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a p"
     },
     {
       "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
-      "url": "https://arxiv.org/abs/2610.22358",
+      "url": "http://arxiv.org/abs/2610.22358v1",
       "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future tra"
     },
     {
-      "title": "Learning to Read Out: Unembedding Dynamics in Language Model Pretraining",
-      "url": "https://arxiv.org/abs/2610.21025",
-      "summary": "When does a language model acquire a capability? Developmental studies usually answer this by tracking when models start producing the correct token. But that prediction passes through the unembedding"
+      "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+      "url": "http://arxiv.org/abs/2610.22355v1",
+      "summary": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements"
     },
     {
-      "title": "Copy-Paste Language Models",
-      "url": "https://arxiv.org/abs/2610.19247",
-      "summary": "Transformers are intuitively considered to be efficient at copying from their inputs. We actually show that the ability of LLMs to copy in context can be improved through explicit modeling. We propose"
+      "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2610.22353v1",
+      "summary": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and s"
+    },
+    {
+      "title": "FDE-Gym: The Last Mile of AI Delivery",
+      "url": "http://arxiv.org/abs/2610.22350v1",
+      "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engin"
+    },
+    {
+      "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+      "url": "http://arxiv.org/abs/2610.22344v1",
+      "summary": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recur"
+    },
+    {
+      "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+      "url": "http://arxiv.org/abs/2610.22343v1",
+      "summary": "Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these f"
     }
   ],
   "blog_posts": [
     {
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "author": "anthropic.com"
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "author": "huggingface.co"
     },
     {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "author": "mercor.com"
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "author": "claude.dev"
-    },
-    {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
       "author": "github.com"
     },
     {
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "author": "alexwang.ai"
+      "title": "The math that OpenAI keeps for itself",
+      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+      "author": "newsletter.danielpaleka.com"
     },
     {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "author": "anthropic.com"
-    },
-    {
-      "title": "Why harnesses matter for energy (and token) efficiency",
-      "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
-      "author": "neuralwatt.com"
-    },
-    {
-      "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "url": "https://rstation.ai/",
-      "author": "rstation.ai"
-    },
-    {
-      "title": "How to make System 1 LLMs show System 2 competencies?",
-      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-      "author": "onlinelibrary.wiley.com"
+      "title": "We Searched eBay for 237 Recalled Products. Only 45 of 12,562 Listings Named the Model.",
+      "url": "https://dev.to/dronzer2code/we-searched-ebay-for-237-recalled-products-only-45-of-12562-listings-named-the-model-2efi",
+      "author": "Subarna Maity"
     }
   ],
   "repos": [
     {
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "stars": 52450,
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 215653,
+      "language": "TypeScript"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 95669,
+      "language": "TypeScript"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 42010,
       "language": "Python"
     },
     {
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "Give your agent CAD superpowers.",
-      "stars": 21059,
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "stars": 6357,
       "language": "Python"
     },
     {
-      "name": "google/artemis",
-      "url": "https://github.com/google/artemis",
-      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,",
-      "stars": 12063,
+      "name": "ScrapeCreators/social-media-research-skills",
+      "url": "https://github.com/ScrapeCreators/social-media-research-skills",
+      "description": "AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries &amp; trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn &amp; more. Powered by ",
+      "stars": 4057,
       "language": "Python"
-    },
-    {
-      "name": "xerj-org/xerj",
-      "url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search",
-      "stars": 7120,
-      "language": "Rust"
     }
   ],
   "tweets": []
