@@ -1,34 +1,4 @@
 {
-  "2026-09-18": {
-    "papers": [
-      "https://arxiv.org/abs/2609.18605",
-      "https://arxiv.org/abs/2609.20423",
-      "https://arxiv.org/abs/2609.20784",
-      "https://arxiv.org/abs/2609.19671",
-      "https://arxiv.org/abs/2609.17653",
-      "https://arxiv.org/abs/2609.20612",
-      "https://arxiv.org/abs/2609.19969",
-      "https://arxiv.org/abs/2609.12397",
-      "https://arxiv.org/abs/2609.20744",
-      "https://arxiv.org/abs/2609.20800"
-    ],
-    "blogs": [
-      "https://openai.com/index/astra-for-law/",
-      "https://bend-lang.com/",
-      "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "https://www.hacktron.ai/blog/hacking-openai",
-      "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
-      "https://wisprflow.ai/canto",
-      "https://skillbay.sh/",
-      "https://dev.to/remdore/show-a-model-your-old-code-and-it-writes-your-old-bugs-32-runs-0-reuse-2epm"
-    ],
-    "repos": [
-      "https://github.com/bmad-code-org/BMAD-METHOD",
-      "https://github.com/google-research/timesfm",
-      "https://github.com/coder/coder",
-      "https://github.com/cloudflare/security-audit-skill"
-    ]
-  },
   "2026-09-19": {
     "papers": [
       "https://arxiv.org/abs/2609.17496",
@@ -908,6 +878,33 @@
       "https://github.com/anthropics/claude-plugins-official",
       "https://github.com/The-Swarm-Corporation/AutoHedge",
       "https://github.com/ScrapeCreators/social-media-research-skills"
+    ]
+  },
+  "2026-10-19": {
+    "papers": [
+      "https://arxiv.org/abs/2610.22428",
+      "https://arxiv.org/abs/2610.23230",
+      "https://arxiv.org/abs/2610.18082",
+      "https://arxiv.org/abs/2610.14022",
+      "https://arxiv.org/abs/2610.22169",
+      "https://arxiv.org/abs/2610.21783",
+      "https://arxiv.org/abs/2610.16071",
+      "https://arxiv.org/abs/2610.23194",
+      "https://arxiv.org/abs/2610.21082",
+      "https://arxiv.org/abs/2610.07898"
+    ],
+    "blogs": [
+      "https://arxiv.org/abs/2610.18861",
+      "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh",
+      "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "https://dev.to/hanzla/my-ai-experiment-was-going-great-until-my-client-replied-17kd"
+    ],
+    "repos": [
+      "https://github.com/Graphify-Labs/graphify",
+      "https://github.com/TauricResearch/TradingAgents",
+      "https://github.com/mlabonne/llm-course",
+      "https://github.com/feder-cr/git-ai"
     ]
   }
 }

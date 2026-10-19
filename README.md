@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-19</strong></summary>
+
+#### Papers
+
+1. **[Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models](https://arxiv.org/abs/2610.22428)**
+
+2. **[RAP: A Dataset for Paper-to-Poster Generation via Declarative Markup from Human-Crafted Exemplars](https://arxiv.org/abs/2610.23230)**
+
+3. **[Failure Recovery via Belief Updates and World Modeling for Long-Horizon Agents](https://arxiv.org/abs/2610.18082)**
+
+4. **[OPMD: On-Policy Mechanism Distillation Beyond Output Supervision](https://arxiv.org/abs/2610.14022)**
+
+5. **[Lexical Reference Frames: Interpreting LM Residual Streams in Native Semantics](https://arxiv.org/abs/2610.22169)**
+
+6. **[Learning to Think and Explore in 3D World](https://arxiv.org/abs/2610.21783)**
+
+7. **[Dream2Discern: Learning from Hard Latent Variants for Runtime Failure Prediction in Multi-Agent Systems](https://arxiv.org/abs/2610.16071)**
+
+8. **[OfficeTown: Generative Organizations for Evolving Agent Intelligence](https://arxiv.org/abs/2610.23194)**
+
+9. **[SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082)**
+
+10. **[FC-SWE: Failure-Conditioned RL for Long-Horizon Software Engineering Agents](https://arxiv.org/abs/2610.07898)**
+
+
+#### Blog Posts
+
+1. **[Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)** by arxiv.org
+
+2. **[DeepSeek V4.1 Flash 1017 (Max)](https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017)** by artificialanalysis.ai
+
+3. **[Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget](https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh)** by Daniel Balcarek
+
+4. **[Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)** by miro
+
+5. **[My AI Experiment Was Going Great Until My Client Replied 😂](https://dev.to/hanzla/my-ai-experiment-was-going-great-until-my-client-replied-17kd)** by Hanzla Baig
+
+
+#### Trending Repos
+
+1. **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e ⭐ 128577
+
+2. **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — TradingAgents: Multi-Agents LLM Financial Trading Framework ⭐ 111968
+
+3. **[mlabonne/llm-course](https://github.com/mlabonne/llm-course)** — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. ⭐ 84206
+
+4. **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** — Git designed for AI agents. ⭐ 2321
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-18</strong></summary>
 
 #### Papers

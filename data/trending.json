@@ -1,114 +1,112 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "papers": [
     {
-      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
-      "url": "http://arxiv.org/abs/2610.22372v1",
-      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person"
+      "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
+      "url": "https://arxiv.org/abs/2610.22428",
+      "summary": "In a small language model the vocabulary is the single largest part. In Gemma 3 270M the embedding table holds 168M of 268M parameters, and because quantisation methods leave the embedding in 16-bit, "
     },
     {
-      "title": "Discovering state-of-the-art quantum circuits with large language models",
-      "url": "http://arxiv.org/abs/2610.22367v1",
-      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effici"
+      "title": "RAP: A Dataset for Paper-to-Poster Generation via Declarative Markup from Human-Crafted Exemplars",
+      "url": "https://arxiv.org/abs/2610.23230",
+      "summary": "Making a conference poster is visual coding in miniature: an entire paper must be compressed onto a single page, which exercises summarization, visual design, and code implementation at once, using no"
     },
     {
-      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
-      "url": "http://arxiv.org/abs/2610.22364v1",
-      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from ph"
+      "title": "Failure Recovery via Belief Updates and World Modeling for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2610.18082",
+      "summary": "Long-horizon agents often struggle to recover from failures whose causes lie several steps earlier, beyond what local reflection or backtracking can resolve. We introduce BELIEFWEAVER, a framework tha"
     },
     {
-      "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
-      "url": "http://arxiv.org/abs/2610.22362v1",
-      "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a p"
+      "title": "OPMD: On-Policy Mechanism Distillation Beyond Output Supervision",
+      "url": "https://arxiv.org/abs/2610.14022",
+      "summary": "On-policy distillation (OPD) improves language-model by supervising a student on prefixes sampled from its own policy, but its supervision remains confined to the output space. Consequently, OPD trans"
     },
     {
-      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
-      "url": "http://arxiv.org/abs/2610.22358v1",
-      "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future tra"
+      "title": "Lexical Reference Frames: Interpreting LM Residual Streams in Native Semantics",
+      "url": "https://arxiv.org/abs/2610.22169",
+      "summary": "The vocabulary of a language model is its native semantics: the embedding and the unembedding fix the meaning of a state at the two ends of the residual stream. Between them, existing methods either r"
     },
     {
-      "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
-      "url": "http://arxiv.org/abs/2610.22355v1",
-      "summary": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements"
+      "title": "Learning to Think and Explore in 3D World",
+      "url": "https://arxiv.org/abs/2610.21783",
+      "summary": "We study how vision-language models (VLMs) can learn to think and actively explore in 3D space. Instead of providing multi-view images, videos, or 3D representations to the model, we preserve the nati"
     },
     {
-      "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
-      "url": "http://arxiv.org/abs/2610.22353v1",
-      "summary": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and s"
+      "title": "Dream2Discern: Learning from Hard Latent Variants for Runtime Failure Prediction in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2610.16071",
+      "summary": "Reliable deployment of LLM-based multi-agent systems calls for runtime auditors that predict terminal outcomes from observed execution prefixes. These auditors typically learn from a limited corpus of"
     },
     {
-      "title": "FDE-Gym: The Last Mile of AI Delivery",
-      "url": "http://arxiv.org/abs/2610.22350v1",
-      "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engin"
+      "title": "OfficeTown: Generative Organizations for Evolving Agent Intelligence",
+      "url": "https://arxiv.org/abs/2610.23194",
+      "summary": "AI agents increasingly use files and software tools to produce professional deliverables. Such work draws on materials, decisions, and feedback accumulated across assignments. We introduce OfficeTown,"
     },
     {
-      "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
-      "url": "http://arxiv.org/abs/2610.22344v1",
-      "summary": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recur"
+      "title": "SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+      "url": "https://arxiv.org/abs/2610.21082",
+      "summary": "Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scien"
     },
     {
-      "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
-      "url": "http://arxiv.org/abs/2610.22343v1",
-      "summary": "Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these f"
+      "title": "FC-SWE: Failure-Conditioned RL for Long-Horizon Software Engineering Agents",
+      "url": "https://arxiv.org/abs/2610.07898",
+      "summary": "Repository-level software engineering (SWE) is a challenging long-horizon setting: agents must reason over extended interactions, use tools, and adapt to stateful environments. Recent work trains SWE "
     }
   ],
   "blog_posts": [
     {
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "author": "huggingface.co"
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "author": "arxiv.org"
     },
     {
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "author": "github.com"
+      "title": "DeepSeek V4.1 Flash 1017 (Max)",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "author": "artificialanalysis.ai"
     },
     {
-      "title": "The math that OpenAI keeps for itself",
-      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
-      "author": "newsletter.danielpaleka.com"
+      "title": "Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget",
+      "url": "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh",
+      "author": "Daniel Balcarek"
     },
     {
-      "title": "We Searched eBay for 237 Recalled Products. Only 45 of 12,562 Listings Named the Model.",
-      "url": "https://dev.to/dronzer2code/we-searched-ebay-for-237-recalled-products-only-45-of-12562-listings-named-the-model-2efi",
-      "author": "Subarna Maity"
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "author": "miro"
+    },
+    {
+      "title": "My AI Experiment Was Going Great Until My Client Replied 😂",
+      "url": "https://dev.to/hanzla/my-ai-experiment-was-going-great-until-my-client-replied-17kd",
+      "author": "Hanzla Baig"
     }
   ],
   "repos": [
     {
-      "name": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "stars": 215653,
-      "language": "TypeScript"
-    },
-    {
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "stars": 95669,
-      "language": "TypeScript"
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 42010,
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
+      "stars": 128577,
       "language": "Python"
     },
     {
-      "name": "The-Swarm-Corporation/AutoHedge",
-      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-      "stars": 6357,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 111968,
       "language": "Python"
     },
     {
-      "name": "ScrapeCreators/social-media-research-skills",
-      "url": "https://github.com/ScrapeCreators/social-media-research-skills",
-      "description": "AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries &amp; trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn &amp; more. Powered by ",
-      "stars": 4057,
-      "language": "Python"
+      "name": "mlabonne/llm-course",
+      "url": "https://github.com/mlabonne/llm-course",
+      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "stars": 84206,
+      "language": ""
+    },
+    {
+      "name": "feder-cr/git-ai",
+      "url": "https://github.com/feder-cr/git-ai",
+      "description": "Git designed for AI agents.",
+      "stars": 2321,
+      "language": "Go"
     }
   ],
   "tweets": []
