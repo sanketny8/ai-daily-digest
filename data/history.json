@@ -1,36 +1,4 @@
 {
-  "2026-09-19": {
-    "papers": [
-      "https://arxiv.org/abs/2609.17496",
-      "https://arxiv.org/abs/2609.19656",
-      "https://arxiv.org/abs/2609.19499",
-      "https://arxiv.org/abs/2609.19879",
-      "https://arxiv.org/abs/2609.20715",
-      "https://arxiv.org/abs/2609.05661",
-      "https://arxiv.org/abs/2609.18323",
-      "https://arxiv.org/abs/2609.20817",
-      "https://arxiv.org/abs/2609.20511",
-      "http://arxiv.org/abs/2609.20822v1"
-    ],
-    "blogs": [
-      "https://code.claude.com/docs/en/changelog",
-      "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "https://spectrum.ieee.org/llms-for-chip-design",
-      "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-      "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
-      "https://dev.to/unitbuilds/how-to-make-a-fool-of-yourself-101-39op"
-    ],
-    "repos": [
-      "https://github.com/PaddlePaddle/PaddleOCR",
-      "https://github.com/unslothai/unsloth",
-      "https://github.com/Fission-AI/OpenSpec",
-      "https://github.com/rustfs/rustfs",
-      "https://github.com/tirth8205/code-review-graph",
-      "https://github.com/supermemoryai/supermemory",
-      "https://github.com/microsoft/agent-lightning"
-    ]
-  },
   "2026-09-20": {
     "papers": [
       "http://arxiv.org/abs/2609.20821v1",
@@ -905,6 +873,33 @@
       "https://github.com/TauricResearch/TradingAgents",
       "https://github.com/mlabonne/llm-course",
       "https://github.com/feder-cr/git-ai"
+    ]
+  },
+  "2026-10-20": {
+    "papers": [
+      "https://arxiv.org/abs/2610.23986",
+      "https://arxiv.org/abs/2610.26824",
+      "https://arxiv.org/abs/2610.26863",
+      "https://arxiv.org/abs/2610.09496",
+      "https://arxiv.org/abs/2610.16782",
+      "https://arxiv.org/abs/2610.17724",
+      "https://arxiv.org/abs/2610.06830",
+      "https://arxiv.org/abs/2610.26765",
+      "https://arxiv.org/abs/2610.25874",
+      "https://arxiv.org/abs/2610.24611"
+    ],
+    "blogs": [
+      "https://mistral.ai/news/timestral/",
+      "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+      "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+      "https://heymaxwell.ai/"
+    ],
+    "repos": [
+      "https://github.com/anthropics/claude-code"
     ]
   }
 }

@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-20</strong></summary>
+
+#### Papers
+
+1. **[BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References](https://arxiv.org/abs/2610.23986)**
+
+2. **[SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum](https://arxiv.org/abs/2610.26824)**
+
+3. **[Text-to-Image Generative Modeling Without Language Pretraining](https://arxiv.org/abs/2610.26863)**
+
+4. **[Sparse Feature Policy Unlearning Mitigates State Hallucination in Vision-Language-Action Models](https://arxiv.org/abs/2610.09496)**
+
+5. **[LIBERO-Industry: Benchmarking Robotic Manipulation under Industrial Process Constraints](https://arxiv.org/abs/2610.16782)**
+
+6. **[Evidence-First Agentic Verification](https://arxiv.org/abs/2610.17724)**
+
+7. **[MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](https://arxiv.org/abs/2610.06830)**
+
+8. **[HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation](https://arxiv.org/abs/2610.26765)**
+
+9. **[Vision-Language-Delta-Action: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation](https://arxiv.org/abs/2610.25874)**
+
+10. **[HSPR: Recovering Software-Agent Benchmark Scores via Hierarchical Posterior Inference](https://arxiv.org/abs/2610.24611)**
+
+
+#### Blog Posts
+
+1. **[Timestral: Mistral's time-series foundation models](https://mistral.ai/news/timestral/)** by mistral.ai
+
+2. **[CERN and Mistral sign a statement of intent to establish a strategic partnership](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/)** by home.cern
+
+3. **[WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)** by redact.dev
+
+4. **[Mercury 3: Diffusion at scale](https://www.inceptionlabs.ai/blog/introducing-mercury-3)** by inceptionlabs.ai
+
+5. **[Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling](https://crystl.dev/guides/tmux-for-ai-agents/)** by crystl.dev
+
+6. **[The obscure trust looming over Anthropic's IPO](https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink)** by wsj.com
+
+7. **[Agentic Monitoring](https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/)** by benjamincongdon.me
+
+8. **[Maxwell: A new kind of model that sits between code and hardware](https://heymaxwell.ai/)** by heymaxwell.ai
+
+
+#### Trending Repos
+
+1. **[anthropics/claude-code](https://github.com/anthropics/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows  ⭐ 152775
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-19</strong></summary>
 
 #### Papers
