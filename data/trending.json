@@ -1,106 +1,122 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "papers": [
     {
-      "title": "BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References",
-      "url": "https://arxiv.org/abs/2610.23986",
-      "summary": "Recent advances in multimodal large language models (MLLMs) have enabled them to act as autonomous agents, creating and editing 3D models via code or direct software manipulation. In practical workflo"
+      "title": "Specter: Fast MoE Inference via Quantization-Enabled Multi-Step Speculative Offloading",
+      "url": "https://arxiv.org/abs/2511.14102",
+      "summary": "Mixture-of-experts (MoE) models often exceed a single accelerator's memory capacity. Offloading experts to host memory creates a severe PCIe I/O bottleneck because data-dependent routing keeps transfe"
     },
     {
-      "title": "SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum",
-      "url": "https://arxiv.org/abs/2610.26824",
-      "summary": "Matryoshka Representation Learning (MRL) is designed to support flexible representation sizes by jointly optimizing nested prefixes. While effective, this design lacks an explicit constraint to ensure"
+      "title": "Multimodal Reranking Is a System One Decision",
+      "url": "https://arxiv.org/abs/2610.28435",
+      "summary": "Multimodal rerankers are usually dedicated models: a vision-language model (VLM) is trained on retrieval data to score the candidates of a query. Scoring options is not specific to reranking. System O"
     },
     {
-      "title": "Text-to-Image Generative Modeling Without Language Pretraining",
-      "url": "https://arxiv.org/abs/2610.26863",
-      "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introdu"
+      "title": "Painting Change Map as guidance for generating painting processes",
+      "url": "https://arxiv.org/abs/2610.25369",
+      "summary": "Digital art generation has undergone a massive paradigm shift, moving from static image synthesis to dynamic video generation that can mimic the human painting process. While existing models can synth"
     },
     {
-      "title": "Sparse Feature Policy Unlearning Mitigates State Hallucination in Vision-Language-Action Models",
-      "url": "https://arxiv.org/abs/2610.09496",
-      "summary": "Vision-Language-Action (VLA) models have shown strong generalization in robotic manipulation by leveraging rich representations from pretrained vision-language models. However, their deployment in rea"
+      "title": "CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?",
+      "url": "https://arxiv.org/abs/2610.25078",
+      "summary": "Model--harness co-evolution has emerged as a prominent paradigm for recursive self-improving (RSI) agents, jointly evolving their execution scaffolds and intrinsic capabilities. We study the persisten"
     },
     {
-      "title": "LIBERO-Industry: Benchmarking Robotic Manipulation under Industrial Process Constraints",
-      "url": "https://arxiv.org/abs/2610.16782",
-      "summary": "Industrial manipulation in flexible manufacturing, e.g., high-mix, low-volume (HMLV) electronics assembly, requires robot policies to adapt to changing products and production conditions. Such setting"
+      "title": "Good Judgment, Bad Advice: Decision-Model Controllers Raise Agent Cost Without Improving Success",
+      "url": "https://arxiv.org/abs/2610.24649",
+      "summary": "Agent scaffolds increasingly delegate small decisions (whether to stop, verify, or change approach) to cheaper models. We ask whether a typed decision model, Jev 1.13, consulted only at deterministic "
     },
     {
-      "title": "Evidence-First Agentic Verification",
-      "url": "https://arxiv.org/abs/2610.17724",
-      "summary": "Long-horizon, semi-verifiable agentic tasks often rely on rubric-based evaluation, but the evidence needed to assess these tasks can be spread across the environment state and the execution trace. A j"
+      "title": "HarnessRL: Co-Evolving Policies with a Just-in-Time Training Harness for Open-Ended RL",
+      "url": "https://arxiv.org/abs/2610.26426",
+      "summary": "Rubric-based reinforcement learning (RL) trains policies for open-ended generation with natural-language criteria as rewards, but these rewards can become ineffective as training progresses. We identi"
     },
     {
-      "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
-      "url": "https://arxiv.org/abs/2610.06830",
-      "summary": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic "
+      "title": "More Memory, Worse Agents: Error Reproduction and Anti-Persistence in LLM Agents",
+      "url": "https://arxiv.org/abs/2610.27406",
+      "summary": "LLM agents can improve across tasks without updating model parameters by storing experience from their own executions in external memory and reusing it to guide later decisions. A central design quest"
     },
     {
-      "title": "HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation",
-      "url": "https://arxiv.org/abs/2610.26765",
-      "summary": "General-purpose manipulation requires reliable behavior across embodiments, objects, and task demands. We introduce HandsOn, a composable simulation platform and benchmark for cross-embodiment dextero"
+      "title": "Harness Self-Evolution for Long-Horizon Terminal Agents",
+      "url": "https://arxiv.org/abs/2610.27435",
+      "summary": "Long-horizon terminal agents may solve a task in one run yet fail across repeated runs. Stochastic errors can propagate through actions and context, creating a gap between capability and reliable exec"
     },
     {
-      "title": "Vision-Language-Delta-Action: Learning Compact Deltas as Actionable Transition Interfaces for Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2610.25874",
-      "summary": "Robotic manipulation is not merely observation-to-action generation, but the realization of task-specified state changes in the physical world. Existing vision-language-action (VLA) methods directly l"
+      "title": "DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems",
+      "url": "https://arxiv.org/abs/2610.28522",
+      "summary": "Decision models support routing, guardrails, and output verification in LLM systems. However, item accuracy alone cannot establish whether models make correct decisions across controlled variations or"
     },
     {
-      "title": "HSPR: Recovering Software-Agent Benchmark Scores via Hierarchical Posterior Inference",
-      "url": "https://arxiv.org/abs/2610.24611",
-      "summary": "Evaluating software agents on a full benchmark is expensive. A small task subset can preserve agent rankings while yielding inaccurate scores. Historical responses provide useful structure, but tasks "
+      "title": "Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization",
+      "url": "https://arxiv.org/abs/2606.31002",
+      "summary": "Lean verifies that a generated declaration is well typed, but cannot check whether it states what the user intended. We measure how far compilation overstates faithfulness in statement autoformalizati"
     }
   ],
   "blog_posts": [
     {
-      "title": "Timestral: Mistral's time-series foundation models",
-      "url": "https://mistral.ai/news/timestral/",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "author": "github.com"
+    },
+    {
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
       "author": "mistral.ai"
     },
     {
-      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-      "author": "home.cern"
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "author": "peec.ai"
     },
     {
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "author": "redact.dev"
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "author": "github.com"
     },
     {
-      "title": "Mercury 3: Diffusion at scale",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-      "author": "inceptionlabs.ai"
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "author": "anthropic.com"
     },
     {
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "author": "crystl.dev"
+      "title": "Building an Open-Source Support Tool That Turns Your Docs into Reusable Knowledge",
+      "url": "https://dev.to/nathan_tarbert/your-team-has-answered-this-before-im-building-a-tool-that-remembers-5604",
+      "author": "Nathan Tarbert"
     },
     {
-      "title": "The obscure trust looming over Anthropic's IPO",
-      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
-      "author": "wsj.com"
-    },
-    {
-      "title": "Agentic Monitoring",
-      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-      "author": "benjamincongdon.me"
-    },
-    {
-      "title": "Maxwell: A new kind of model that sits between code and hardware",
-      "url": "https://heymaxwell.ai/",
-      "author": "heymaxwell.ai"
+      "title": "Advanced coding in low-resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages/",
+      "author": "openai.com"
     }
   ],
   "repos": [
     {
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
-      "stars": 152775,
-      "language": "TypeScript"
+      "name": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalo",
+      "stars": 48207,
+      "language": "Python"
+    },
+    {
+      "name": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "stars": 41338,
+      "language": "Python"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 34677,
+      "language": "JavaScript"
+    },
+    {
+      "name": "ScrapeGraphAI/Scrapegraph-ai",
+      "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+      "description": "Python scraper based on AI",
+      "stars": 32056,
+      "language": "Python"
     }
   ],
   "tweets": []

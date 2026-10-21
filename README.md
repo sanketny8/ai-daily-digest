@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-21</strong></summary>
+
+#### Papers
+
+1. **[Specter: Fast MoE Inference via Quantization-Enabled Multi-Step Speculative Offloading](https://arxiv.org/abs/2511.14102)**
+
+2. **[Multimodal Reranking Is a System One Decision](https://arxiv.org/abs/2610.28435)**
+
+3. **[Painting Change Map as guidance for generating painting processes](https://arxiv.org/abs/2610.25369)**
+
+4. **[CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?](https://arxiv.org/abs/2610.25078)**
+
+5. **[Good Judgment, Bad Advice: Decision-Model Controllers Raise Agent Cost Without Improving Success](https://arxiv.org/abs/2610.24649)**
+
+6. **[HarnessRL: Co-Evolving Policies with a Just-in-Time Training Harness for Open-Ended RL](https://arxiv.org/abs/2610.26426)**
+
+7. **[More Memory, Worse Agents: Error Reproduction and Anti-Persistence in LLM Agents](https://arxiv.org/abs/2610.27406)**
+
+8. **[Harness Self-Evolution for Long-Horizon Terminal Agents](https://arxiv.org/abs/2610.27435)**
+
+9. **[DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems](https://arxiv.org/abs/2610.28522)**
+
+10. **[Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization](https://arxiv.org/abs/2606.31002)**
+
+
+#### Blog Posts
+
+1. **[DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)** by github.com
+
+2. **[Voxtral 3](https://mistral.ai/news/voxtral-3/)** by mistral.ai
+
+3. **[Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)** by peec.ai
+
+4. **[SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)** by github.com
+
+5. **[Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design)** by anthropic.com
+
+6. **[Building an Open-Source Support Tool That Turns Your Docs into Reusable Knowledge](https://dev.to/nathan_tarbert/your-team-has-answered-this-before-im-building-a-tool-that-remembers-5604)** by Nathan Tarbert
+
+7. **[Advanced coding in low-resource programming languages](https://openai.com/index/low-resource-programming-languages/)** by openai.com
+
+
+#### Trending Repos
+
+1. **[sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)** — AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalo ⭐ 48207
+
+2. **[wshobson/agents](https://github.com/wshobson/agents)** — Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi ⭐ 41338
+
+3. **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** — A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings ⭐ 34677
+
+4. **[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** — Python scraper based on AI ⭐ 32056
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-20</strong></summary>
 
 #### Papers
