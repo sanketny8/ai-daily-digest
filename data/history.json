@@ -1,35 +1,4 @@
 {
-  "2026-09-21": {
-    "papers": [
-      "https://arxiv.org/abs/2609.18766",
-      "https://arxiv.org/abs/2609.18748",
-      "https://arxiv.org/abs/2609.15126",
-      "https://arxiv.org/abs/2609.19122",
-      "https://arxiv.org/abs/2609.09206",
-      "https://arxiv.org/abs/2609.21619",
-      "https://arxiv.org/abs/2609.20816",
-      "https://arxiv.org/abs/2609.18620",
-      "https://arxiv.org/abs/2609.15779",
-      "https://arxiv.org/abs/2609.22068"
-    ],
-    "blogs": [
-      "https://pirateface.co/",
-      "https://agentexecutor.io",
-      "https://github.com/kyle-pena-nlp/jevchat/",
-      "https://tinybrains.dev",
-      "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i",
-      "https://medium.com/@cse20160007/ai-can-write-code-but-it-cannot-replace-real-software-engineers-8c15c550c13f"
-    ],
-    "repos": [
-      "https://github.com/Significant-Gravitas/AutoGPT",
-      "https://github.com/anthropics/financial-services",
-      "https://github.com/harvard-edge/cs249r_book",
-      "https://github.com/browser-use/browser-harness",
-      "https://github.com/vercel-labs/json-render",
-      "https://github.com/cactus-compute/needle"
-    ]
-  },
   "2026-09-22": {
     "papers": [
       "https://arxiv.org/abs/2609.24118",
@@ -897,6 +866,36 @@
       "https://github.com/wshobson/agents",
       "https://github.com/cloudflare/security-audit-skill",
       "https://github.com/ScrapeGraphAI/Scrapegraph-ai"
+    ]
+  },
+  "2026-10-22": {
+    "papers": [
+      "https://arxiv.org/abs/2610.30023",
+      "https://arxiv.org/abs/2610.20538",
+      "https://arxiv.org/abs/2610.30128",
+      "https://arxiv.org/abs/2610.28763",
+      "https://arxiv.org/abs/2610.30108",
+      "https://arxiv.org/abs/2610.29997",
+      "https://arxiv.org/abs/2610.28474",
+      "https://arxiv.org/abs/2610.21204",
+      "https://arxiv.org/abs/2610.28698",
+      "https://arxiv.org/abs/2610.29317"
+    ],
+    "blogs": [
+      "https://openai.com/index/openai-models-google-cloud/",
+      "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "https://www.anthropic.com/research/attack-surface-reduction",
+      "https://simedw.com/2026/10/21/world-model-terminal/",
+      "https://github.com/omnara-ai/omnara",
+      "https://uniker.nl/"
+    ],
+    "repos": [
+      "https://github.com/supabase/supabase",
+      "https://github.com/Panniantong/Agent-Reach",
+      "https://github.com/twentyhq/twenty",
+      "https://github.com/luongnv89/claude-howto",
+      "https://github.com/anthropics/knowledge-work-plugins",
+      "https://github.com/Emily2040/seedance-2.0"
     ]
   }
 }

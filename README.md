@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-22</strong></summary>
+
+#### Papers
+
+1. **[RealMe: Immersive Volumetric Video from Minimal Captures](https://arxiv.org/abs/2610.30023)**
+
+2. **[PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis](https://arxiv.org/abs/2610.20538)**
+
+3. **[Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation](https://arxiv.org/abs/2610.30128)**
+
+4. **[Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763)**
+
+5. **[Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](https://arxiv.org/abs/2610.30108)**
+
+6. **[DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations](https://arxiv.org/abs/2610.29997)**
+
+7. **[Answering in the User's Variety: Calibrated Accommodation Pairs for Post-Training](https://arxiv.org/abs/2610.28474)**
+
+8. **[Entertain, then Cancel: How Thinking Makes Reasoning Models Read Some and Or Literally](https://arxiv.org/abs/2610.21204)**
+
+9. **[Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds](https://arxiv.org/abs/2610.28698)**
+
+10. **[SpatialBrain: Spatial Intelligence Growing from Experience](https://arxiv.org/abs/2610.29317)**
+
+
+#### Blog Posts
+
+1. **[OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/)** by openai.com
+
+2. **[Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)** by openai.com
+
+3. **[Using Claude to reduce the attack surface of code](https://www.anthropic.com/research/attack-surface-reduction)** by anthropic.com
+
+4. **[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)** by simedw.com
+
+5. **[Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)** by github.com
+
+6. **[Unikernels in OCaml](https://uniker.nl/)** by xvw
+
+
+#### Trending Repos
+
+1. **[supabase/supabase](https://github.com/supabase/supabase)** — The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. ⭐ 113156
+
+2. **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. ⭐ 100746
+
+3. **[twentyhq/twenty](https://github.com/twentyhq/twenty)** — The open alternative to Salesforce, designed for AI. ⭐ 59361
+
+4. **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. ⭐ 42513
+
+5. **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork ⭐ 31222
+
+6. **[Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)** — Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0 ⭐ 7885
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-21</strong></summary>
 
 #### Papers
