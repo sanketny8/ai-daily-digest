@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-23</strong></summary>
+
+#### Papers
+
+1. **[RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting](https://arxiv.org/abs/2610.27712)**
+
+2. **[TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models](https://arxiv.org/abs/2610.25376)**
+
+3. **[RouteWeaver: Weaving Mode Selection and Execution into Unified LLM Routing](https://arxiv.org/abs/2610.19705)**
+
+4. **[Heartbeat Thinking: Speculative Reasoning and Tool Execution While Listening in Realtime Voice Agents](https://arxiv.org/abs/2610.26233)**
+
+5. **[Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://arxiv.org/abs/2610.24738)**
+
+6. **[F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation](https://arxiv.org/abs/2610.31623)**
+
+7. **[Self-Distilling Future Video Representations for World Action Models](https://arxiv.org/abs/2610.30320)**
+
+8. **[AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark](https://arxiv.org/abs/2610.31466)**
+
+9. **[Toward Recursive Self-Improvement in Physical AI](https://arxiv.org/abs/2610.29677)**
+
+10. **[MolLean: A Process-Verifiable Language for Chemical Reasoning](https://arxiv.org/abs/2610.20459)**
+
+
+#### Blog Posts
+
+1. **[Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)** by modelcompare.ai
+
+2. **[LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)** by anthropic.com
+
+3. **[Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)** by typeui.sh
+
+4. **[The Hidden Bugs Behind Duplicate API Requests](https://dev.to/hanzla/the-hidden-bugs-behind-duplicate-api-requests-1npb)** by Hanzla Baig
+
+
+#### Trending Repos
+
+1. **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — "Vibe-Trading: Your Personal Trading Agent" ⭐ 36358
+
+2. **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** — Open Source AI Platform - AI Chat with advanced features that works with every LLM ⭐ 32885
+
+3. **[Meloong-Git/PCL](https://github.com/Meloong-Git/PCL)** — Minecraft 启动器 Plain Craft Launcher（PCL）。 ⭐ 8784
+
+4. **[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)** — 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it. ⭐ 1472
+
+5. **[dominikmartn/harp](https://github.com/dominikmartn/harp)** — Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp. ⭐ 585
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-22</strong></summary>
 
 #### Papers

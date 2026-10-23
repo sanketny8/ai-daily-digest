@@ -1,36 +1,4 @@
 {
-  "2026-09-22": {
-    "papers": [
-      "https://arxiv.org/abs/2609.24118",
-      "https://arxiv.org/abs/2609.23088",
-      "https://arxiv.org/abs/2609.24432",
-      "https://arxiv.org/abs/2609.24983",
-      "https://arxiv.org/abs/2609.24974",
-      "https://arxiv.org/abs/2609.22220",
-      "https://arxiv.org/abs/2609.23863",
-      "https://arxiv.org/abs/2609.25001",
-      "https://arxiv.org/abs/2609.23986",
-      "https://arxiv.org/abs/2609.24997"
-    ],
-    "blogs": [
-      "https://github.com/jaredpalmer/kev/tree/main",
-      "https://poloclub.github.io/transformer-explainer/",
-      "https://github.com/volotat/mini-AGI/",
-      "https://heretic-project.org/",
-      "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-      "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g"
-    ],
-    "repos": [
-      "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "https://github.com/browser-use/jev-ultrafast",
-      "https://github.com/owainlewis/awesome-artificial-intelligence",
-      "https://github.com/zhouxiaoka/autoclip",
-      "https://github.com/akitaonrails/ai-memory",
-      "https://github.com/BuilderIO/agent-native"
-    ]
-  },
   "2026-09-23": {
     "papers": [
       "https://arxiv.org/abs/2609.24967",
@@ -896,6 +864,33 @@
       "https://github.com/luongnv89/claude-howto",
       "https://github.com/anthropics/knowledge-work-plugins",
       "https://github.com/Emily2040/seedance-2.0"
+    ]
+  },
+  "2026-10-23": {
+    "papers": [
+      "https://arxiv.org/abs/2610.27712",
+      "https://arxiv.org/abs/2610.25376",
+      "https://arxiv.org/abs/2610.19705",
+      "https://arxiv.org/abs/2610.26233",
+      "https://arxiv.org/abs/2610.24738",
+      "https://arxiv.org/abs/2610.31623",
+      "https://arxiv.org/abs/2610.30320",
+      "https://arxiv.org/abs/2610.31466",
+      "https://arxiv.org/abs/2610.29677",
+      "https://arxiv.org/abs/2610.20459"
+    ],
+    "blogs": [
+      "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "https://www.anthropic.com/research/formal-verification",
+      "https://www.typeui.sh/micro-interactions",
+      "https://dev.to/hanzla/the-hidden-bugs-behind-duplicate-api-requests-1npb"
+    ],
+    "repos": [
+      "https://github.com/HKUDS/Vibe-Trading",
+      "https://github.com/onyx-dot-app/onyx",
+      "https://github.com/Meloong-Git/PCL",
+      "https://github.com/alchaincyf/huashu-motion",
+      "https://github.com/dominikmartn/harp"
     ]
   }
 }
