@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-24</strong></summary>
+
+#### Papers
+
+1. **[TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043)**
+
+2. **[The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems](https://arxiv.org/abs/2610.22722)**
+
+3. **[EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?](https://arxiv.org/abs/2610.04184)**
+
+4. **[Diffusion Language Models Change Speed Across Tasks and Languages](https://arxiv.org/abs/2610.25835)**
+
+5. **[Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models](https://arxiv.org/abs/2610.31198)**
+
+6. **[Bridging Exploration and Persona: Information-Directed Dueling for Test-Time Agent Personalization](https://arxiv.org/abs/2610.24385)**
+
+7. **[IF-MAP: Influence-Function-Inspired Agent Prioritization in Multi-Agent Systems](https://arxiv.org/abs/2610.24383)**
+
+8. **[Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems](https://arxiv.org/abs/2610.30418)**
+
+9. **[HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second](https://arxiv.org/abs/2610.28950)**
+
+10. **[BrickWright: Agentic Creation of Physically Feasible Brick Builds](https://arxiv.org/abs/2610.31651)**
+
+
+#### Blog Posts
+
+1. **[Dessa: Conversation Model trained only on speech](https://block.xyz/dessa)** by block.xyz
+
+2. **[Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/)** by openai.com
+
+3. **[I Built a Pixel Hero That Nags Me to Drink Water (and Runs 100% on My Laptop)](https://dev.to/kumuda/i-built-a-pixel-hero-that-nags-me-to-drink-water-and-runs-100-on-my-laptop-2ilb)** by Kumuda Sri P
+
+4. **[A practical guide to AI image generation, from diffusion to agents](https://danielball.com/notes/ai_image_generation.html)** by danielball.com
+
+5. **[I let an open model delete 1,242 of my saved articles. On purpose. I feel lighter.](https://dev.to/sarvar_04/i-let-an-open-model-delete-1242-of-my-saved-articles-on-purpose-i-feel-lighter-l7f)** by Sarvar Nadaf
+
+6. **[5 Steps on How to not loose at a hackathon?](https://dev.to/sanidhya_at_mlh/5-steps-on-how-to-not-loose-at-a-hackathon-3hd1)** by Sanidhya Goel
+
+
+#### Trending Repos
+
+1. **[virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)** — Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. ⭐ 35907
+
+2. **[SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)** — claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec ⭐ 8629
+
+3. **[Mailu/Mailu](https://github.com/Mailu/Mailu)** — Insular email distribution - mail server as Docker images ⭐ 7587
+
+4. **[Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)** — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 ⭐ 7029
+
+5. **[Anil-matcha/open-duet](https://github.com/Anil-matcha/open-duet)** — Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. Also an alternativ ⭐ 6118
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-23</strong></summary>
 
 #### Papers

@@ -1,41 +1,4 @@
 {
-  "2026-09-23": {
-    "papers": [
-      "https://arxiv.org/abs/2609.24967",
-      "https://arxiv.org/abs/2609.25199",
-      "https://arxiv.org/abs/2609.25804",
-      "https://arxiv.org/abs/2609.26774",
-      "https://arxiv.org/abs/2609.22323",
-      "https://arxiv.org/abs/2609.24058",
-      "https://arxiv.org/abs/2609.25247",
-      "https://arxiv.org/abs/2609.24657",
-      "https://arxiv.org/abs/2609.24981",
-      "https://arxiv.org/abs/2609.15987"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/claude-opus-5-5",
-      "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "https://nathan.rs/posts/gzip-lm/",
-      "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "https://unreallabs.ai/blog/unreal-agent/",
-      "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-      "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/"
-    ],
-    "repos": [
-      "https://github.com/browser-use/video-use",
-      "https://github.com/dream-num/univer",
-      "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "https://github.com/google/ax",
-      "https://github.com/zai-org/ZCode",
-      "https://github.com/mizorewww/laya-mlx",
-      "https://github.com/jev-chat/jev-chat-jarvis",
-      "https://github.com/agent-substrate/substrate",
-      "https://github.com/superdesigndev/treg",
-      "https://github.com/yibie/awesome-jev"
-    ]
-  },
   "2026-09-24": {
     "papers": [
       "https://arxiv.org/abs/2609.28473",
@@ -891,6 +854,35 @@
       "https://github.com/Meloong-Git/PCL",
       "https://github.com/alchaincyf/huashu-motion",
       "https://github.com/dominikmartn/harp"
+    ]
+  },
+  "2026-10-24": {
+    "papers": [
+      "https://arxiv.org/abs/2610.30043",
+      "https://arxiv.org/abs/2610.22722",
+      "https://arxiv.org/abs/2610.04184",
+      "https://arxiv.org/abs/2610.25835",
+      "https://arxiv.org/abs/2610.31198",
+      "https://arxiv.org/abs/2610.24385",
+      "https://arxiv.org/abs/2610.24383",
+      "https://arxiv.org/abs/2610.30418",
+      "https://arxiv.org/abs/2610.28950",
+      "https://arxiv.org/abs/2610.31651"
+    ],
+    "blogs": [
+      "https://block.xyz/dessa",
+      "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "https://dev.to/kumuda/i-built-a-pixel-hero-that-nags-me-to-drink-water-and-runs-100-on-my-laptop-2ilb",
+      "https://danielball.com/notes/ai_image_generation.html",
+      "https://dev.to/sarvar_04/i-let-an-open-model-delete-1242-of-my-saved-articles-on-purpose-i-feel-lighter-l7f",
+      "https://dev.to/sanidhya_at_mlh/5-steps-on-how-to-not-loose-at-a-hackathon-3hd1"
+    ],
+    "repos": [
+      "https://github.com/virgiliojr94/book-to-skill",
+      "https://github.com/SnailSploit/Claude-Red",
+      "https://github.com/Mailu/Mailu",
+      "https://github.com/Renhuai123/ziwei-doushu",
+      "https://github.com/Anil-matcha/open-duet"
     ]
   }
 }
