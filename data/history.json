@@ -1,34 +1,4 @@
 {
-  "2026-09-24": {
-    "papers": [
-      "https://arxiv.org/abs/2609.28473",
-      "https://arxiv.org/abs/2609.27901",
-      "https://arxiv.org/abs/2609.23784",
-      "https://arxiv.org/abs/2609.23038",
-      "https://arxiv.org/abs/2609.24308",
-      "https://arxiv.org/abs/2609.27334",
-      "https://arxiv.org/abs/2609.27308",
-      "https://arxiv.org/abs/2609.28470",
-      "https://arxiv.org/abs/2609.28256",
-      "https://arxiv.org/abs/2609.26780"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "https://drivingbench.com/"
-    ],
-    "repos": [
-      "https://github.com/obra/superpowers",
-      "https://github.com/Comfy-Org/ComfyUI",
-      "https://github.com/pbakaus/impeccable",
-      "https://github.com/HKUDS/CLI-Anything",
-      "https://github.com/DeusData/codebase-memory-mcp",
-      "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "https://github.com/strands-agents/harness-sdk"
-    ]
-  },
   "2026-09-25": {
     "papers": [
       "https://arxiv.org/abs/2609.29421",
@@ -883,6 +853,34 @@
       "https://github.com/Mailu/Mailu",
       "https://github.com/Renhuai123/ziwei-doushu",
       "https://github.com/Anil-matcha/open-duet"
+    ]
+  },
+  "2026-10-25": {
+    "papers": [
+      "http://arxiv.org/abs/2610.31670v1",
+      "http://arxiv.org/abs/2610.31667v1",
+      "http://arxiv.org/abs/2610.31663v1",
+      "http://arxiv.org/abs/2610.31662v1",
+      "http://arxiv.org/abs/2610.31659v1",
+      "http://arxiv.org/abs/2610.31657v1",
+      "http://arxiv.org/abs/2610.31656v1",
+      "http://arxiv.org/abs/2610.31650v1",
+      "http://arxiv.org/abs/2610.31646v1",
+      "http://arxiv.org/abs/2610.31642v1"
+    ],
+    "blogs": [
+      "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "https://xingjianbai.com/reactive-optimizers/",
+      "https://dev.to/sbis04/sloth-reads-an-open-model-reads-my-read-later-pile-overnight-then-reads-me-the-good-ones-3o14"
+    ],
+    "repos": [
+      "https://github.com/google-gemini/gemini-cli",
+      "https://github.com/crewAIInc/crewAI",
+      "https://github.com/Nutlope/hallmark",
+      "https://github.com/agentskills/agentskills",
+      "https://github.com/makecindy/cindy"
     ]
   }
 }

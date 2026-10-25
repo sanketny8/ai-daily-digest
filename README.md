@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-25</strong></summary>
+
+#### Papers
+
+1. **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)**
+
+2. **[Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](http://arxiv.org/abs/2610.31667v1)**
+
+3. **[Phase Transition from Random Features to Fully Trainable Networks](http://arxiv.org/abs/2610.31663v1)**
+
+4. **[Reliable AI-Assisted Decisions via Selective Auditing](http://arxiv.org/abs/2610.31662v1)**
+
+5. **[SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing](http://arxiv.org/abs/2610.31659v1)**
+
+6. **[Cost-Aware Abstention for LLM-Based IT Ticket Classification](http://arxiv.org/abs/2610.31657v1)**
+
+7. **[METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning](http://arxiv.org/abs/2610.31656v1)**
+
+8. **[EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence](http://arxiv.org/abs/2610.31650v1)**
+
+9. **[Low-Bit N-Gram Embeddings for Language Models](http://arxiv.org/abs/2610.31646v1)**
+
+10. **[A Fix for Softmax and Cross-Entropy](http://arxiv.org/abs/2610.31642v1)**
+
+
+#### Blog Posts
+
+1. **[Neural chip decodes interactions between brain regions](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)** by actu.epfl.ch
+
+2. **[Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)** by cerebras.ai
+
+3. **[Oai-math-revised: a community hub for revising OpenAI's math write-ups](https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/)** by terrytao.wordpress.com
+
+4. **[Reactive Optimizers: rewrite the optimizer's source code during training](https://xingjianbai.com/reactive-optimizers/)** by xingjianbai.com
+
+5. **[Sloth Reads: an open model reads my read-later pile overnight, then reads me the good ones](https://dev.to/sbis04/sloth-reads-an-open-model-reads-my-read-later-pile-overnight-then-reads-me-the-good-ones-3o14)** by Souvik Biswas
+
+
+#### Trending Repos
+
+1. **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** — An open-source AI agent that brings the power of Gemini directly into your terminal. ⭐ 108229
+
+2. **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. ⭐ 60077
+
+3. **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex. ⭐ 32474
+
+4. **[agentskills/agentskills](https://github.com/agentskills/agentskills)** — Specification and documentation for Agent Skills ⭐ 26583
+
+5. **[makecindy/cindy](https://github.com/makecindy/cindy)** — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 ⭐ 4255
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-24</strong></summary>
 
 #### Papers
