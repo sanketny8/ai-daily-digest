@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-26</strong></summary>
+
+#### Papers
+
+1. **[MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation](https://arxiv.org/abs/2610.23234)**
+
+2. **[LoCA: Enabling Multi-Modality in Geospatial Location Encoders](https://arxiv.org/abs/2610.32894)**
+
+3. **[DraMaze: A Multi-Agent Pipeline with Future-Aware Memory for Diverse Microdrama Script Generation](https://arxiv.org/abs/2610.32002)**
+
+4. **[Every Weight Is a Path of Shared Discrete Decisions](https://arxiv.org/abs/2610.31931)**
+
+5. **[Dual Exam: Controlled Evaluation of Multimodal Agents and World Models](https://arxiv.org/abs/2610.31066)**
+
+6. **[HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games](https://arxiv.org/abs/2610.31162)**
+
+7. **[FLOMSS: Generative Music Source Separation by Flow Matching](https://arxiv.org/abs/2610.17821)**
+
+8. **[Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction](https://arxiv.org/abs/2610.32250)**
+
+9. **[RSIHub: A Composable Framework for Agent-Evolution Methods](https://arxiv.org/abs/2610.32253)**
+
+10. **[RynnUnify: Towards Unified Embodied Brain](https://arxiv.org/abs/2610.32965)**
+
+
+#### Blog Posts
+
+1. **[OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)** by minimaxir.com
+
+2. **[Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles)** by wiz.io
+
+3. **[Microsoft Decision-1: 9B Qwen Model Launch Explained](https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/)** by shattered.io
+
+4. **[Meet NEXI: A Windows Focus Companion Built with Python and AdaL](https://dev.to/abdullah_haroon_092cf10d3/meet-nexi-a-windows-focus-companion-built-with-python-and-adal-252l)** by abdullah haroon
+
+5. **[🦥 We built a pixel-art office where five cats do your data analysis while a sloth naps 🐱](https://dev.to/fionakhl/we-built-a-pixel-art-office-where-five-cats-do-your-data-analysis-while-a-sloth-naps-1in8)** by Fiona Khoo
+
+6. **[Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal](https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0)** by Khushighosh
+
+
+#### Trending Repos
+
+1. **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** — The design language that makes your AI harness better at design. ⭐ 88089
+
+2. **[unslothai/unsloth](https://github.com/unslothai/unsloth)** — Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more. ⭐ 78573
+
+3. **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** — AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ ⭐ 43561
+
+4. **[browser-use/video-use](https://github.com/browser-use/video-use)** — Edit videos with coding agents ⭐ 29853
+
+5. **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S ⭐ 21306
+
+6. **[JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)** — Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need ⭐ 2063
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-25</strong></summary>
 
 #### Papers

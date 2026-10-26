@@ -1,34 +1,4 @@
 {
-  "2026-09-25": {
-    "papers": [
-      "https://arxiv.org/abs/2609.29421",
-      "https://arxiv.org/abs/2609.23087",
-      "https://arxiv.org/abs/2609.29444",
-      "https://arxiv.org/abs/2609.28923",
-      "https://arxiv.org/abs/2609.29647",
-      "https://arxiv.org/abs/2609.29837",
-      "https://arxiv.org/abs/2609.23407",
-      "https://arxiv.org/abs/2609.29964",
-      "https://arxiv.org/abs/2609.30221",
-      "https://arxiv.org/abs/2609.30199"
-    ],
-    "blogs": [
-      "https://transluce.org/agent-activity",
-      "https://bestmodelforyourbudget.terrydjony.com/",
-      "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "https://contrastive-lm.notion.site/",
-      "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical"
-    ],
-    "repos": [
-      "https://github.com/anthropics/skills",
-      "https://github.com/harry0703/MoneyPrinterTurbo",
-      "https://github.com/davila7/claude-code-templates",
-      "https://github.com/vectorize-io/hindsight",
-      "https://github.com/Fosowl/agenticSeek",
-      "https://github.com/alirezarezvani/claude-skills",
-      "https://github.com/op7418/Humanizer-zh"
-    ]
-  },
   "2026-09-26": {
     "papers": [
       "https://arxiv.org/abs/2609.28603",
@@ -881,6 +851,36 @@
       "https://github.com/Nutlope/hallmark",
       "https://github.com/agentskills/agentskills",
       "https://github.com/makecindy/cindy"
+    ]
+  },
+  "2026-10-26": {
+    "papers": [
+      "https://arxiv.org/abs/2610.23234",
+      "https://arxiv.org/abs/2610.32894",
+      "https://arxiv.org/abs/2610.32002",
+      "https://arxiv.org/abs/2610.31931",
+      "https://arxiv.org/abs/2610.31066",
+      "https://arxiv.org/abs/2610.31162",
+      "https://arxiv.org/abs/2610.17821",
+      "https://arxiv.org/abs/2610.32250",
+      "https://arxiv.org/abs/2610.32253",
+      "https://arxiv.org/abs/2610.32965"
+    ],
+    "blogs": [
+      "https://minimaxir.com/2026/10/cheap-llms/",
+      "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "https://dev.to/abdullah_haroon_092cf10d3/meet-nexi-a-windows-focus-companion-built-with-python-and-adal-252l",
+      "https://dev.to/fionakhl/we-built-a-pixel-art-office-where-five-cats-do-your-data-analysis-while-a-sloth-naps-1in8",
+      "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0"
+    ],
+    "repos": [
+      "https://github.com/pbakaus/impeccable",
+      "https://github.com/unslothai/unsloth",
+      "https://github.com/AstrBotDevs/AstrBot",
+      "https://github.com/browser-use/video-use",
+      "https://github.com/AgriciDaniel/claude-seo",
+      "https://github.com/JetBrains/thinkrail"
     ]
   }
 }
