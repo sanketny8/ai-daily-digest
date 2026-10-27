@@ -1,131 +1,127 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "papers": [
     {
-      "title": "MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2610.23234",
-      "summary": "In a hierarchical multi-agent system, a Leader assigns tasks and subagents carry them out. Jointly training the Leader and the subagents is difficult because a final answer gives only indirect feedbac"
+      "title": "S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning",
+      "url": "https://arxiv.org/abs/2610.35518",
+      "summary": "Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternativ"
     },
     {
-      "title": "LoCA: Enabling Multi-Modality in Geospatial Location Encoders",
-      "url": "https://arxiv.org/abs/2610.32894",
-      "summary": "Location encoders map geographic coordinates to high-dimensional descriptors through contrastive alignment with paired Earth Observation imagery. We prove that this construction is structurally limite"
+      "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction",
+      "url": "https://arxiv.org/abs/2610.31635",
+      "summary": "Feed-forward models accurately estimate camera motion and 3D geometry from short video windows. However, computational and memory costs prevent direct inference on sequences containing thousands of fr"
     },
     {
-      "title": "DraMaze: A Multi-Agent Pipeline with Future-Aware Memory for Diverse Microdrama Script Generation",
-      "url": "https://arxiv.org/abs/2610.32002",
-      "summary": "The rapid growth of microdramas has increased demand for high-quality script production. Long-form microdrama script generation with LLMs requires both diverse plot progression and long-range narrativ"
+      "title": "Skill^{infty}: Recursive Self-Improvement for Agent Skill Optimization",
+      "url": "https://arxiv.org/abs/2610.35434",
+      "summary": "Recursive self-improvement (RSI), in which a system also improves the way it improves, is a long-standing aspiration on the path to AGI. Language agents increasingly store procedural knowledge in reus"
     },
     {
-      "title": "Every Weight Is a Path of Shared Discrete Decisions",
-      "url": "https://arxiv.org/abs/2610.31931",
-      "summary": "We introduce TWIG (Tree-structured Weights with Inherited Gates), a representation in which every weight of a neural network is the end of a path of small discrete decisions: a sign, a shift by a powe"
+      "title": "Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion",
+      "url": "https://arxiv.org/abs/2610.34415",
+      "summary": "Spatial audio authoring coordinates source decisions with soundfield synthesis. For editing, plans specify what to change and retain, while reference audio supplies further acoustic detail. We present"
     },
     {
-      "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models",
-      "url": "https://arxiv.org/abs/2610.31066",
-      "summary": "World Models (WMs) can support Multimodal Agents (MAs) through simulated experience, while Agent trajectories can inform World Model refinement. Evaluating this interaction requires separate evidence "
+      "title": "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL",
+      "url": "https://arxiv.org/abs/2610.33512",
+      "summary": "Rubric-based rewards enable effective reinforcement learning on non-verifiable tasks. However, because these rewards are typically defined as a weighted measure of rubric coverage, models are trained "
     },
     {
-      "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games",
-      "url": "https://arxiv.org/abs/2610.31162",
-      "summary": "Building virtual embodied agents that operate in open-ended games like human players is a long-standing goal requiring both long-horizon autonomy and reliable native-interface control. As a procedural"
+      "title": "Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Rivals Top Players",
+      "url": "https://arxiv.org/abs/2610.33845",
+      "summary": "Can LLM agents carry a hard real-world problem from raw data to a system that holds its own against people? We study this in Hearthstone Battlegrounds, an eight-player auto-battler with stochastic sho"
     },
     {
-      "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
-      "url": "https://arxiv.org/abs/2610.17821",
-      "summary": "Music source separation (MSS) has been conventionally addressed by discriminative methods. Recently, flow matching has emerged as a strong generative paradigm for modeling complex data distributions, "
+      "title": "RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions",
+      "url": "https://arxiv.org/abs/2610.34356",
+      "summary": "Scaling vision-language-action (VLA) models is constrained by scarce action-labeled demonstrations and incompatible control spaces across robot embodiments. We present RynnVLA-Latent, a framework that"
     },
     {
-      "title": "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
-      "url": "https://arxiv.org/abs/2610.32250",
-      "summary": "Single-image 3D scene construction is a fundamental problem in 3D vision. Recent methods such as SAM-3Dfy enable end-to-end reconstruction of 3D assets and their scene layouts, but still struggle with"
+      "title": "Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges",
+      "url": "https://arxiv.org/abs/2610.35193",
+      "summary": "AI systems built around large models increasingly use experience and feedback to make persistent changes to models, prompts, memories, tools, and workflows. Recursive self-improvement (RSI) extends th"
     },
     {
-      "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
-      "url": "https://arxiv.org/abs/2610.32253",
-      "summary": "Agent-evolution methods use execution feedback to improve prompts, skills, tools, and orchestration, but their implementations often rebuild the same experimental machinery. We present RSIHub, an open"
+      "title": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.23928",
+      "summary": "Native NVFP4 promises to accelerate reinforcement learning (RL) for large language models (LLMs), but achieving stable learning across separate training and sampling engines remains challenging. We sh"
     },
     {
-      "title": "RynnUnify: Towards Unified Embodied Brain",
-      "url": "https://arxiv.org/abs/2610.32965",
-      "summary": "We introduce RynnUnify, a 16B unified embodied model that combines strong embodied understanding with long-horizon visual planning through interleaved video--language reasoning. With capabilities span"
+      "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
+      "url": "https://arxiv.org/abs/2610.34467",
+      "summary": "Multi-agent systems often rely on predefined collaboration structures, limiting their ability to adapt to diverse task requirements. We introduce DynaFlow, a framework that integrates free-form execut"
     }
   ],
   "blog_posts": [
     {
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "author": "minimaxir.com"
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "author": "openai.com"
     },
     {
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-      "author": "wiz.io"
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "author": "magazine.sebastianraschka.com"
     },
     {
-      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-      "author": "shattered.io"
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "author": "openai.com"
     },
     {
-      "title": "Meet NEXI: A Windows Focus Companion Built with Python and AdaL",
-      "url": "https://dev.to/abdullah_haroon_092cf10d3/meet-nexi-a-windows-focus-companion-built-with-python-and-adal-252l",
-      "author": "abdullah haroon"
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "author": "github.com"
     },
     {
-      "title": "🦥 We built a pixel-art office where five cats do your data analysis while a sloth naps 🐱",
-      "url": "https://dev.to/fionakhl/we-built-a-pixel-art-office-where-five-cats-do-your-data-analysis-while-a-sloth-naps-1in8",
-      "author": "Fiona Khoo"
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "author": "cohere.com"
     },
     {
-      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
-      "url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
-      "author": "Khushighosh"
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "author": "shraiwi.com"
+    },
+    {
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "author": "github.com"
+    },
+    {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "author": "blog.cloudflare.com"
     }
   ],
   "repos": [
     {
-      "name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 88089,
-      "language": "Rust"
-    },
-    {
-      "name": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-      "stars": 78573,
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 187784,
       "language": "Python"
     },
     {
-      "name": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 43561,
-      "language": "Python"
-    },
-    {
-      "name": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "stars": 29853,
-      "language": "Python"
-    },
-    {
-      "name": "AgriciDaniel/claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
-      "stars": 21306,
-      "language": "Python"
-    },
-    {
-      "name": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "stars": 2063,
+      "name": "gitroomhq/postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "stars": 38666,
       "language": "TypeScript"
+    },
+    {
+      "name": "alchaincyf/huashu-design",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor &amp; any agent",
+      "stars": 27254,
+      "language": "HTML"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo",
+      "stars": 22441,
+      "language": "Python"
     }
   ],
   "tweets": []

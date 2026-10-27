@@ -1,34 +1,4 @@
 {
-  "2026-09-26": {
-    "papers": [
-      "https://arxiv.org/abs/2609.28603",
-      "https://arxiv.org/abs/2609.29028",
-      "https://arxiv.org/abs/2609.29816",
-      "https://arxiv.org/abs/2609.29845",
-      "https://arxiv.org/abs/2609.29429",
-      "https://arxiv.org/abs/2609.29362",
-      "https://arxiv.org/abs/2609.30233",
-      "https://arxiv.org/abs/2609.28811",
-      "http://arxiv.org/abs/2609.30266v1",
-      "http://arxiv.org/abs/2609.30264v1"
-    ],
-    "blogs": [
-      "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "https://ollaya.dev/",
-      "https://swarmtraces.org/",
-      "https://mouse.dev/blog/muse-special/",
-      "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-      "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "https://dev.to/nikolas_dimitroulakis_d23/we-described-our-api-twice-once-for-humans-once-for-agents-4e4g"
-    ],
-    "repos": [
-      "https://github.com/paperclipai/paperclip",
-      "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "https://github.com/Alishahryar1/free-claude-code",
-      "https://github.com/google/langextract"
-    ]
-  },
   "2026-09-27": {
     "papers": [
       "http://arxiv.org/abs/2609.30258v1",
@@ -881,6 +851,36 @@
       "https://github.com/browser-use/video-use",
       "https://github.com/AgriciDaniel/claude-seo",
       "https://github.com/JetBrains/thinkrail"
+    ]
+  },
+  "2026-10-27": {
+    "papers": [
+      "https://arxiv.org/abs/2610.35518",
+      "https://arxiv.org/abs/2610.31635",
+      "https://arxiv.org/abs/2610.35434",
+      "https://arxiv.org/abs/2610.34415",
+      "https://arxiv.org/abs/2610.33512",
+      "https://arxiv.org/abs/2610.33845",
+      "https://arxiv.org/abs/2610.34356",
+      "https://arxiv.org/abs/2610.35193",
+      "https://arxiv.org/abs/2610.23928",
+      "https://arxiv.org/abs/2610.34467"
+    ],
+    "blogs": [
+      "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "https://github.com/FrigadeHQ/hob",
+      "https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+    ],
+    "repos": [
+      "https://github.com/Significant-Gravitas/AutoGPT",
+      "https://github.com/gitroomhq/postiz-app",
+      "https://github.com/alchaincyf/huashu-design",
+      "https://github.com/NVIDIA/SkillSpector"
     ]
   }
 }

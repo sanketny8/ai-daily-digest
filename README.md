@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-27</strong></summary>
+
+#### Papers
+
+1. **[S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning](https://arxiv.org/abs/2610.35518)**
+
+2. **[HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction](https://arxiv.org/abs/2610.31635)**
+
+3. **[Skill^{infty}: Recursive Self-Improvement for Agent Skill Optimization](https://arxiv.org/abs/2610.35434)**
+
+4. **[Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion](https://arxiv.org/abs/2610.34415)**
+
+5. **[Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL](https://arxiv.org/abs/2610.33512)**
+
+6. **[Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Rivals Top Players](https://arxiv.org/abs/2610.33845)**
+
+7. **[RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions](https://arxiv.org/abs/2610.34356)**
+
+8. **[Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges](https://arxiv.org/abs/2610.35193)**
+
+9. **[miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning](https://arxiv.org/abs/2610.23928)**
+
+10. **[DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://arxiv.org/abs/2610.34467)**
+
+
+#### Blog Posts
+
+1. **[Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)** by openai.com
+
+2. **[Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)** by magazine.sebastianraschka.com
+
+3. **[GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)** by openai.com
+
+4. **[The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)** by github.com
+
+5. **[Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)** by cohere.com
+
+6. **[SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.com/blog/simd-fast-esp32s3/)** by shraiwi.com
+
+7. **[Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)** by github.com
+
+8. **[Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)** by blog.cloudflare.com
+
+
+#### Trending Repos
+
+1. **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. ⭐ 187784
+
+2. **[gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)** — 📨 The ultimate agentic social media scheduling tool 🤖 ⭐ 38666
+
+3. **[alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)** — Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor &amp; any agent ⭐ 27254
+
+4. **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo ⭐ 22441
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-26</strong></summary>
 
 #### Papers
