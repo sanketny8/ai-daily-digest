@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-28</strong></summary>
+
+#### Papers
+
+1. **[Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation](https://arxiv.org/abs/2610.26030)**
+
+2. **[Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions](https://arxiv.org/abs/2610.37624)**
+
+3. **[VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://arxiv.org/abs/2610.35864)**
+
+4. **[RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions](https://arxiv.org/abs/2610.36791)**
+
+5. **[PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://arxiv.org/abs/2610.37381)**
+
+6. **[Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces](https://arxiv.org/abs/2610.37255)**
+
+7. **[Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation](https://arxiv.org/abs/2610.34674)**
+
+8. **[The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://arxiv.org/abs/2610.36077)**
+
+9. **[PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds](https://arxiv.org/abs/2610.34921)**
+
+10. **[MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching](https://arxiv.org/abs/2610.26185)**
+
+
+#### Blog Posts
+
+1. **[Anthropic trained Claude on illegally obtained Stanford professors' books](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)** by stanforddaily.com
+
+2. **[Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)** by brangus.io
+
+3. **[Is my data used for model training?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training)** by privacy.claude.com
+
+4. **[Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)** by anthropic.com
+
+5. **[Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.](https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2)** by xulingfeng
+
+
+#### Trending Repos
+
+1. **[obra/superpowers](https://github.com/obra/superpowers)** — An agentic skills framework &amp; software development methodology that works. ⭐ 306713
+
+2. **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** — Learn AI Engineering! Learn it. Build it. Ship it for others. ⭐ 74793
+
+3. **[SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships)** — Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC. ⭐ 48199
+
+4. **[elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)** —  ⭐ 10007
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-27</strong></summary>
 
 #### Papers

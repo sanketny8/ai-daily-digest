@@ -1,127 +1,112 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "papers": [
     {
-      "title": "S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning",
-      "url": "https://arxiv.org/abs/2610.35518",
-      "summary": "Critic-free methods are widely used in reinforcement learning with verifiable rewards (RLVR) for long chain-of-thought (CoT) reasoning, avoiding difficult and costly critic training. Common alternativ"
+      "title": "Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation",
+      "url": "https://arxiv.org/abs/2610.26030",
+      "summary": "Looped transformers reuse a shared block of layers to increase computational depth without increasing the number of trainable parameters. They are trained with backpropagation through time (BPTT). To "
     },
     {
-      "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction",
-      "url": "https://arxiv.org/abs/2610.31635",
-      "summary": "Feed-forward models accurately estimate camera motion and 3D geometry from short video windows. However, computational and memory costs prevent direct inference on sequences containing thousands of fr"
+      "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+      "url": "https://arxiv.org/abs/2610.37624",
+      "summary": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the de"
     },
     {
-      "title": "Skill^{infty}: Recursive Self-Improvement for Agent Skill Optimization",
-      "url": "https://arxiv.org/abs/2610.35434",
-      "summary": "Recursive self-improvement (RSI), in which a system also improves the way it improves, is a long-standing aspiration on the path to AGI. Language agents increasingly store procedural knowledge in reus"
+      "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
+      "url": "https://arxiv.org/abs/2610.35864",
+      "summary": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a rule-consistent game or narration synchronized to on-screen events. A different rout"
     },
     {
-      "title": "Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion",
-      "url": "https://arxiv.org/abs/2610.34415",
-      "summary": "Spatial audio authoring coordinates source decisions with soundfield synthesis. For editing, plans specify what to change and retain, while reference audio supplies further acoustic detail. We present"
+      "title": "RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions",
+      "url": "https://arxiv.org/abs/2610.36791",
+      "summary": "Learning controllable world dynamics from heterogeneous interaction videos is challenging because robot embodiments use incompatible action spaces, while human videos lack native control labels. We pr"
     },
     {
-      "title": "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL",
-      "url": "https://arxiv.org/abs/2610.33512",
-      "summary": "Rubric-based rewards enable effective reinforcement learning on non-verifiable tasks. However, because these rewards are typically defined as a weighted measure of rubric coverage, models are trained "
+      "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+      "url": "https://arxiv.org/abs/2610.37381",
+      "summary": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can ca"
     },
     {
-      "title": "Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Rivals Top Players",
-      "url": "https://arxiv.org/abs/2610.33845",
-      "summary": "Can LLM agents carry a hard real-world problem from raw data to a system that holds its own against people? We study this in Hearthstone Battlegrounds, an eight-player auto-battler with stochastic sho"
+      "title": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
+      "url": "https://arxiv.org/abs/2610.37255",
+      "summary": "Language model agents are post-trained and deployed through a harness, the prompts, tools, and control logic that present a task to the model and execute its outputs. Harnesses are often revised and j"
     },
     {
-      "title": "RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions",
-      "url": "https://arxiv.org/abs/2610.34356",
-      "summary": "Scaling vision-language-action (VLA) models is constrained by scarce action-labeled demonstrations and incompatible control spaces across robot embodiments. We present RynnVLA-Latent, a framework that"
+      "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation",
+      "url": "https://arxiv.org/abs/2610.34674",
+      "summary": "Safe household navigation requires robots to regulate clearance and speed according to what an obstacle is and how close it is, without unnecessary conservatism. Yet existing evaluations do not test w"
     },
     {
-      "title": "Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges",
-      "url": "https://arxiv.org/abs/2610.35193",
-      "summary": "AI systems built around large models increasingly use experience and feedback to make persistent changes to models, prompts, memories, tools, and workflows. Recursive self-improvement (RSI) extends th"
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2610.36077",
+      "summary": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verif"
     },
     {
-      "title": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.23928",
-      "summary": "Native NVFP4 promises to accelerate reinforcement learning (RL) for large language models (LLMs), but achieving stable learning across separate training and sampling engines remains challenging. We sh"
+      "title": "PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds",
+      "url": "https://arxiv.org/abs/2610.34921",
+      "summary": "Physical reasoning underpins how embodied systems understand and act in the physical world, yet vision-language models (VLMs) remain unreliable on questions about dynamics and physical causality. Prog"
     },
     {
-      "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
-      "url": "https://arxiv.org/abs/2610.34467",
-      "summary": "Multi-agent systems often rely on predefined collaboration structures, limiting their ability to adapt to diverse task requirements. We introduce DynaFlow, a framework that integrates free-form execut"
+      "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching",
+      "url": "https://arxiv.org/abs/2610.26185",
+      "summary": "Despite rapid advances in large language models (LLMs), their deployment in the sports and health domain remains high-risk due to the absence of domain-specific evaluation benchmarks. Existing general"
     }
   ],
   "blog_posts": [
     {
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "author": "openai.com"
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "author": "stanforddaily.com"
     },
     {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "author": "magazine.sebastianraschka.com"
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "author": "brangus.io"
     },
     {
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "author": "openai.com"
+      "title": "Is my data used for model training?",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "author": "privacy.claude.com"
     },
     {
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "author": "github.com"
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "author": "anthropic.com"
     },
     {
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "author": "cohere.com"
-    },
-    {
-      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-      "author": "shraiwi.com"
-    },
-    {
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "url": "https://github.com/FrigadeHQ/hob",
-      "author": "github.com"
-    },
-    {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "author": "blog.cloudflare.com"
+      "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
+      "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
+      "author": "xulingfeng"
     }
   ],
   "repos": [
     {
-      "name": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187784,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "stars": 306713,
+      "language": "Shell"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "stars": 74793,
       "language": "Python"
     },
     {
-      "name": "gitroomhq/postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "stars": 38666,
-      "language": "TypeScript"
-    },
-    {
-      "name": "alchaincyf/huashu-design",
-      "url": "https://github.com/alchaincyf/huashu-design",
-      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor &amp; any agent",
-      "stars": 27254,
-      "language": "HTML"
-    },
-    {
-      "name": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo",
-      "stars": 22441,
+      "name": "SimplifyJobs/Summer2027-Internships",
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "stars": 48199,
       "language": "Python"
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "stars": 10007,
+      "language": ""
     }
   ],
   "tweets": []

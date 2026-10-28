@@ -1,28 +1,4 @@
 {
-  "2026-09-27": {
-    "papers": [
-      "http://arxiv.org/abs/2609.30258v1",
-      "http://arxiv.org/abs/2609.30250v1",
-      "http://arxiv.org/abs/2609.30249v1",
-      "http://arxiv.org/abs/2609.30247v1",
-      "http://arxiv.org/abs/2609.30243v1",
-      "http://arxiv.org/abs/2609.30238v1",
-      "http://arxiv.org/abs/2609.30233v1",
-      "http://arxiv.org/abs/2609.30227v1"
-    ],
-    "blogs": [
-      "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-      "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/"
-    ],
-    "repos": [
-      "https://github.com/usestrix/strix",
-      "https://github.com/PostHog/posthog",
-      "https://github.com/zhaoxuya520/reverse-skill",
-      "https://github.com/anthropics/claude-code-action"
-    ]
-  },
   "2026-09-28": {
     "papers": [
       "https://arxiv.org/abs/2609.18703",
@@ -881,6 +857,33 @@
       "https://github.com/gitroomhq/postiz-app",
       "https://github.com/alchaincyf/huashu-design",
       "https://github.com/NVIDIA/SkillSpector"
+    ]
+  },
+  "2026-10-28": {
+    "papers": [
+      "https://arxiv.org/abs/2610.26030",
+      "https://arxiv.org/abs/2610.37624",
+      "https://arxiv.org/abs/2610.35864",
+      "https://arxiv.org/abs/2610.36791",
+      "https://arxiv.org/abs/2610.37381",
+      "https://arxiv.org/abs/2610.37255",
+      "https://arxiv.org/abs/2610.34674",
+      "https://arxiv.org/abs/2610.36077",
+      "https://arxiv.org/abs/2610.34921",
+      "https://arxiv.org/abs/2610.26185"
+    ],
+    "blogs": [
+      "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "https://www.brangus.io/survival-llm",
+      "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "https://www.anthropic.com/research/early-progress-drug-development",
+      "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2"
+    ],
+    "repos": [
+      "https://github.com/obra/superpowers",
+      "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "https://github.com/elayadesign/ai-design-skills"
     ]
   }
 }
