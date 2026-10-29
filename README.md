@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-29</strong></summary>
+
+#### Papers
+
+1. **[OmniSpectra: A Unified Foundation Model for Universal Spectra Representation Learning](https://arxiv.org/abs/2601.15351)**
+
+2. **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](https://arxiv.org/abs/2610.31670)**
+
+3. **[TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving](https://arxiv.org/abs/2610.37230)**
+
+4. **[OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images](https://arxiv.org/abs/2610.35684)**
+
+5. **[Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes](https://arxiv.org/abs/2610.32749)**
+
+6. **[DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models](https://arxiv.org/abs/2610.35201)**
+
+7. **[AdaPRA: Process Reward Agents with Adaptive Rubrics for Data Science](https://arxiv.org/abs/2610.33245)**
+
+8. **[Self-Assessment Reinforcement Learning for Search-State Awareness in Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2610.30435)**
+
+9. **[Quaternion Approximate Networks for Enhanced Image Classification and Oriented Object Detection](https://arxiv.org/abs/2509.05512)**
+
+10. **[AlphaBet: Reinforcement Learning for LLM Event Forecasting Agents](https://arxiv.org/abs/2610.22684)**
+
+
+#### Blog Posts
+
+1. **[Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)** by blog.google
+
+2. **[Claude Code regularly sends each background agent’s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)** by gist.github.com
+
+3. **[Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)** by surgehq.ai
+
+4. **[OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)** by the-decoder.com
+
+5. **[Scaling Hierarchical Networks](https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1)** by cartesia.ai
+
+
+#### Trending Repos
+
+1. **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser  ⭐ 64708
+
+2. **[xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)** — One has no future if one couldn't teach themself. ⭐ 18715
+
+3. **[togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)** — LIST OF ALL MY JAILBREAKS ⭐ 7583
+
+4. **[macro-inc/macro](https://github.com/macro-inc/macro)** — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. ⭐ 5571
+
+5. **[expo/skills](https://github.com/expo/skills)** — A collection of AI agent skills for working with Expo projects and Expo Application Services ⭐ 3682
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-28</strong></summary>
 
 #### Papers

@@ -1,38 +1,4 @@
 {
-  "2026-09-28": {
-    "papers": [
-      "https://arxiv.org/abs/2609.18703",
-      "https://arxiv.org/abs/2609.31002",
-      "https://arxiv.org/abs/2609.25716",
-      "https://arxiv.org/abs/2609.30216",
-      "https://arxiv.org/abs/2601.06352",
-      "https://arxiv.org/abs/2601.06362",
-      "https://arxiv.org/abs/2609.30222",
-      "https://arxiv.org/abs/2609.31093",
-      "https://arxiv.org/abs/2609.31590",
-      "https://arxiv.org/abs/2609.29050"
-    ],
-    "blogs": [
-      "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "https://tinyaiarena.com/",
-      "https://ampdot.mesh.host/token-space-fonts.html",
-      "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-      "https://dev.to/therealmrmumba/7-best-ai-project-management-tools-for-software-development-teams-in-2026-fik"
-    ],
-    "repos": [
-      "https://github.com/EbookFoundation/free-programming-books",
-      "https://github.com/pytorch/pytorch",
-      "https://github.com/microsoft/data-formulator",
-      "https://github.com/NVIDIA/Model-Optimizer",
-      "https://github.com/yetone/magpie",
-      "https://github.com/mvschwarz/openrig",
-      "https://github.com/mikehasa/golive-skill",
-      "https://github.com/dzhng/jevgrep",
-      "https://github.com/willfaust/Madeira",
-      "https://github.com/asokurasu/text-humanizer"
-    ]
-  },
   "2026-09-29": {
     "papers": [
       "https://arxiv.org/abs/2606.29521",
@@ -884,6 +850,34 @@
       "https://github.com/rohitg00/ai-engineering-from-scratch",
       "https://github.com/SimplifyJobs/Summer2027-Internships",
       "https://github.com/elayadesign/ai-design-skills"
+    ]
+  },
+  "2026-10-29": {
+    "papers": [
+      "https://arxiv.org/abs/2601.15351",
+      "https://arxiv.org/abs/2610.31670",
+      "https://arxiv.org/abs/2610.37230",
+      "https://arxiv.org/abs/2610.35684",
+      "https://arxiv.org/abs/2610.32749",
+      "https://arxiv.org/abs/2610.35201",
+      "https://arxiv.org/abs/2610.33245",
+      "https://arxiv.org/abs/2610.30435",
+      "https://arxiv.org/abs/2509.05512",
+      "https://arxiv.org/abs/2610.22684"
+    ],
+    "blogs": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "https://surgehq.ai/blog/dayjob-tax",
+      "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1"
+    ],
+    "repos": [
+      "https://github.com/Alishahryar1/free-claude-code",
+      "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "https://github.com/togg53192-cmd/jailbreaks",
+      "https://github.com/macro-inc/macro",
+      "https://github.com/expo/skills"
     ]
   }
 }
