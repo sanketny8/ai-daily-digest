@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-30</strong></summary>
+
+#### Papers
+
+1. **[Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](https://arxiv.org/abs/2610.40647)**
+
+2. **[L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory](https://arxiv.org/abs/2610.40614)**
+
+3. **[Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?](https://arxiv.org/abs/2610.38342)**
+
+4. **[Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps](https://arxiv.org/abs/2610.39264)**
+
+5. **[Glance: The Generator Is Its Own Reranker](https://arxiv.org/abs/2610.40454)**
+
+6. **[A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://arxiv.org/abs/2610.38568)**
+
+7. **[Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://arxiv.org/abs/2610.36671)**
+
+8. **[CoSTA: Compressed Speech Token Adaptation for Efficient Spoken Dialogue Models](https://arxiv.org/abs/2610.21143)**
+
+9. **[Your LR Schedule May Not Be Principled: Effective Learning Rate Scheduling in Weight-Normalized Training](https://arxiv.org/abs/2610.40362)**
+
+10. **[HairDeck: Animation-Ready Stylized Hair Cards from a Single Image](https://arxiv.org/abs/2610.40599)**
+
+
+#### Blog Posts
+
+1. **[We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)** by mistral.ai
+
+2. **[We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)** by labs.ycombinator.com
+
+3. **[Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)** by skypilot.ai
+
+4. **[Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)** by ndr
+
+5. **[No Human Will Ever Write Code Better Than LLMs? Better at What?](https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme)** by Daniel Nwaneri
+
+6. **[I Almost Paid ₹1,499 for Prime Video I Never Use. An Open-Source AI Model Caught It.](https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm)** by Sarvar Nadaf
+
+7. **[Compile-Time Dependent Types](https://thenumb.at/Syl-Intro/)** by polywolf
+
+8. **[Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines](https://projectzero.google/2026/10/fuzzing-v-AI.html)** by ni5arga
+
+
+#### Trending Repos
+
+1. **[ansible/ansible](https://github.com/ansible/ansible)** — Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud  ⭐ 71157
+
+2. **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** — Hindsight: Agent Memory That Learns ⭐ 56315
+
+3. **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. ⭐ 29646
+
+4. **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. ⭐ 8350
+
+5. **[rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** — ⚚ The coding harness with Hermes Agent wired into IDE. ⭐ 4893
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-29</strong></summary>
 
 #### Papers

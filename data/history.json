@@ -1,34 +1,4 @@
 {
-  "2026-09-29": {
-    "papers": [
-      "https://arxiv.org/abs/2606.29521",
-      "https://arxiv.org/abs/2609.33848",
-      "https://arxiv.org/abs/2609.35261",
-      "https://arxiv.org/abs/2609.34899",
-      "https://arxiv.org/abs/2609.33203",
-      "https://arxiv.org/abs/2609.35457",
-      "https://arxiv.org/abs/2609.34771",
-      "https://arxiv.org/abs/2609.35743",
-      "https://arxiv.org/abs/2609.35734",
-      "https://arxiv.org/abs/2609.32241"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/claude-sonnet-5-5",
-      "https://github.com/firelex/jeff",
-      "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-      "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc",
-      "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster"
-    ],
-    "repos": [
-      "https://github.com/byoungd/up",
-      "https://github.com/topoteretes/cognee",
-      "https://github.com/microsoft/SkillOpt",
-      "https://github.com/0x4m4/hexstrike-ai",
-      "https://github.com/samugit83/redamon",
-      "https://github.com/KKKKhazix/AIHOT"
-    ]
-  },
   "2026-09-30": {
     "papers": [
       "https://arxiv.org/abs/2609.38140",
@@ -878,6 +848,37 @@
       "https://github.com/togg53192-cmd/jailbreaks",
       "https://github.com/macro-inc/macro",
       "https://github.com/expo/skills"
+    ]
+  },
+  "2026-10-30": {
+    "papers": [
+      "https://arxiv.org/abs/2610.40647",
+      "https://arxiv.org/abs/2610.40614",
+      "https://arxiv.org/abs/2610.38342",
+      "https://arxiv.org/abs/2610.39264",
+      "https://arxiv.org/abs/2610.40454",
+      "https://arxiv.org/abs/2610.38568",
+      "https://arxiv.org/abs/2610.36671",
+      "https://arxiv.org/abs/2610.21143",
+      "https://arxiv.org/abs/2610.40362",
+      "https://arxiv.org/abs/2610.40599"
+    ],
+    "blogs": [
+      "https://mistral.ai/news/mistral-large-4-oss/",
+      "https://labs.ycombinator.com/projects/games/index.html",
+      "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+      "https://divagr.com/blog/qwenputer",
+      "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
+      "https://dev.to/sarvar_04/i-almost-paid-1499-for-prime-video-i-never-use-an-open-source-ai-model-caught-it-1egm",
+      "https://thenumb.at/Syl-Intro/",
+      "https://projectzero.google/2026/10/fuzzing-v-AI.html"
+    ],
+    "repos": [
+      "https://github.com/ansible/ansible",
+      "https://github.com/vectorize-io/hindsight",
+      "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "https://github.com/CopilotKit/OpenBot",
+      "https://github.com/rlaope/oh-my-hermes"
     ]
   }
 }
