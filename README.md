@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-10-31</strong></summary>
+
+#### Papers
+
+1. **[EPSBench: Benchmarking LLM Agents for Earnings Forecasting](https://arxiv.org/abs/2610.38293)**
+
+2. **[Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models](https://arxiv.org/abs/2610.38681)**
+
+3. **[Unlocking Any-Order Generation in Pretrained Autoregressive Image Models](https://arxiv.org/abs/2610.39293)**
+
+4. **[Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents](https://arxiv.org/abs/2610.34298)**
+
+5. **[Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them](https://arxiv.org/abs/2609.05881)**
+
+6. **[Training Foundation Models with a Single Algorithm](https://arxiv.org/abs/2610.40564)**
+
+7. **[ABF-Bench: A Verifiable Benchmark for Agentic Blockchain Forensics](https://arxiv.org/abs/2610.23656)**
+
+8. **[Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302)**
+
+9. **[Scaling Lean Theorem Proving for Real-World Code Verification](https://arxiv.org/abs/2610.38174)**
+
+10. **[FDSML: Formula-Driven Supervised Metric Learning with Parameter-Aware Triplet Loss](https://arxiv.org/abs/2610.39423)**
+
+
+#### Blog Posts
+
+1. **[Sleep framework: A new way for LLMs to retain knowledge in continual learning](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)** by research.google
+
+2. **[Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)** by fortune.com
+
+3. **[OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)** by wsj.com
+
+4. **[Artificial Analysis v5 and the benchmarker's dilemma](https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers)** by interconnects.ai
+
+5. **[My open source project is brand new and already has contributors. Here's what I did.](https://dev.to/nathan_tarbert/my-open-source-project-is-brand-new-and-already-has-contributors-heres-what-i-did-3fb4)** by Nathan Tarbert
+
+6. **[Marigold /router - A Private Ofrenda for the Memories We Refuse to Lose](https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68)** by Kumuda ⚔️
+
+
+#### Trending Repos
+
+1. **[anthropics/skills](https://github.com/anthropics/skills)** — Public repository for Agent Skills ⭐ 185527
+
+2. **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** — The best-benchmarked open-source AI memory system. And it's free. ⭐ 60170
+
+3. **[lightpanda-io/browser](https://github.com/lightpanda-io/browser)** — Lightpanda: the headless browser designed for AI and automation ⭐ 38640
+
+4. **[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)** — The batteries-included agent harness. ⭐ 30816
+
+5. **[NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech)** — A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech) ⭐ 18661
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-30</strong></summary>
 
 #### Papers

@@ -1,34 +1,4 @@
 {
-  "2026-09-30": {
-    "papers": [
-      "https://arxiv.org/abs/2609.38140",
-      "https://arxiv.org/abs/2609.36352",
-      "https://arxiv.org/abs/2609.32522",
-      "https://arxiv.org/abs/2609.38157",
-      "https://arxiv.org/abs/2609.35210",
-      "https://arxiv.org/abs/2609.37226",
-      "https://arxiv.org/abs/2609.31847",
-      "https://arxiv.org/abs/2609.35845",
-      "https://arxiv.org/abs/2609.37725",
-      "https://arxiv.org/abs/2607.11433"
-    ],
-    "blogs": [
-      "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "https://openai.com/index/introducing-dots/",
-      "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "https://github.com/PostHog/jeeves",
-      "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-      "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "https://github.com/Sparticle62ops/pssa"
-    ],
-    "repos": [
-      "https://github.com/MadsLorentzen/ai-job-search",
-      "https://github.com/t8y2/dbx",
-      "https://github.com/NVIDIA/OpenShell",
-      "https://github.com/Q00/ouroboros",
-      "https://github.com/TencentCloud/Octop"
-    ]
-  },
   "2026-10-01": {
     "papers": [
       "https://arxiv.org/abs/2609.37824",
@@ -879,6 +849,35 @@
       "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "https://github.com/CopilotKit/OpenBot",
       "https://github.com/rlaope/oh-my-hermes"
+    ]
+  },
+  "2026-10-31": {
+    "papers": [
+      "https://arxiv.org/abs/2610.38293",
+      "https://arxiv.org/abs/2610.38681",
+      "https://arxiv.org/abs/2610.39293",
+      "https://arxiv.org/abs/2610.34298",
+      "https://arxiv.org/abs/2609.05881",
+      "https://arxiv.org/abs/2610.40564",
+      "https://arxiv.org/abs/2610.23656",
+      "https://arxiv.org/abs/2610.39302",
+      "https://arxiv.org/abs/2610.38174",
+      "https://arxiv.org/abs/2610.39423"
+    ],
+    "blogs": [
+      "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "https://dev.to/nathan_tarbert/my-open-source-project-is-brand-new-and-already-has-contributors-heres-what-i-did-3fb4",
+      "https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68"
+    ],
+    "repos": [
+      "https://github.com/anthropics/skills",
+      "https://github.com/MemPalace/mempalace",
+      "https://github.com/lightpanda-io/browser",
+      "https://github.com/langchain-ai/deepagents",
+      "https://github.com/NVIDIA-NeMo/Speech"
     ]
   }
 }
