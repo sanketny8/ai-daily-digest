@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-01</strong></summary>
+
+#### Papers
+
+1. **[Elucidating the Design Space of LM Data Attribution](http://arxiv.org/abs/2610.40655v1)**
+
+2. **[Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)**
+
+3. **[Rethinking Neural Thickets Without Weight Perturbations](http://arxiv.org/abs/2610.40649v1)**
+
+4. **[Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](http://arxiv.org/abs/2610.40647v1)**
+
+5. **[Adaptive Scenario Generation for KL-DRO Around a Learned Density Model](http://arxiv.org/abs/2610.40644v1)**
+
+6. **[Luggage re-identification: A study of strategies towards a real-world application](http://arxiv.org/abs/2610.40643v1)**
+
+7. **[From extreme weather to agricultural consequences with agentic AI](http://arxiv.org/abs/2610.40641v1)**
+
+8. **[world2vec: Mechanistic world models through latent dynamics learning](http://arxiv.org/abs/2610.40637v1)**
+
+9. **[Probing Spatial State Representations in Visual Foundation Models](http://arxiv.org/abs/2610.40636v1)**
+
+10. **[ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender](http://arxiv.org/abs/2610.40627v1)**
+
+
+#### Blog Posts
+
+1. **[Do the math: How we took over ChatGPT accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)** by parameter.ai
+
+2. **[Anthropic blocks users for anything touching training larger models](https://twitter.com/jiahaoshao1/status/2116475922190922088)** by twitter.com
+
+3. **[Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)** by blog.talosintelligence.com
+
+4. **[Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)** by github.com
+
+5. **[Anthropic takes steps to block Claude from reverse-engineering video games](https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering)** by mashable.com
+
+6. **[ChatGPT and Codex usage limits merging](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)** by help.openai.com
+
+7. **[Show HN: A language model that lives in a boot sector](https://github.com/kerlenton/bootgpt)** by github.com
+
+
+#### Trending Repos
+
+1. **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click ⭐ 42304
+
+2. **[vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** — Free and open-source macOS menu bar toolkit. ⭐ 32083
+
+3. **[The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)** — 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. ⭐ 13848
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-10-31</strong></summary>
 
 #### Papers

@@ -1,31 +1,4 @@
 {
-  "2026-10-01": {
-    "papers": [
-      "https://arxiv.org/abs/2609.37824",
-      "https://arxiv.org/abs/2609.34162",
-      "https://arxiv.org/abs/2609.36931",
-      "https://arxiv.org/abs/2609.36308",
-      "https://arxiv.org/abs/2609.39661",
-      "https://arxiv.org/abs/2609.39903",
-      "https://arxiv.org/abs/2609.39102",
-      "https://arxiv.org/abs/2609.38334",
-      "https://arxiv.org/abs/2609.33355",
-      "https://arxiv.org/abs/2609.39982"
-    ],
-    "blogs": [
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "https://earendil.com/posts/you-said-no-mcp/",
-      "https://github.com/magnitudedev/magnitude",
-      "https://artificialanalysis.ai/models/gemini-4-argon"
-    ],
-    "repos": [
-      "https://github.com/openclaw/openclaw",
-      "https://github.com/DietrichGebert/ponytail",
-      "https://github.com/ComposioHQ/awesome-claude-skills",
-      "https://github.com/colbymchenry/codegraph",
-      "https://github.com/pydantic/pydantic-ai"
-    ]
-  },
   "2026-10-02": {
     "papers": [
       "https://arxiv.org/abs/2610.02206",
@@ -878,6 +851,34 @@
       "https://github.com/lightpanda-io/browser",
       "https://github.com/langchain-ai/deepagents",
       "https://github.com/NVIDIA-NeMo/Speech"
+    ]
+  },
+  "2026-11-01": {
+    "papers": [
+      "http://arxiv.org/abs/2610.40655v1",
+      "http://arxiv.org/abs/2610.40654v1",
+      "http://arxiv.org/abs/2610.40649v1",
+      "http://arxiv.org/abs/2610.40647v1",
+      "http://arxiv.org/abs/2610.40644v1",
+      "http://arxiv.org/abs/2610.40643v1",
+      "http://arxiv.org/abs/2610.40641v1",
+      "http://arxiv.org/abs/2610.40637v1",
+      "http://arxiv.org/abs/2610.40636v1",
+      "http://arxiv.org/abs/2610.40627v1"
+    ],
+    "blogs": [
+      "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "https://github.com/kerlenton/bootgpt"
+    ],
+    "repos": [
+      "https://github.com/THU-MAIC/OpenMAIC",
+      "https://github.com/vorssaint/vorssaint-utils",
+      "https://github.com/The-PR-Agent/pr-agent"
     ]
   }
 }
