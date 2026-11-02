@@ -1,114 +1,120 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "papers": [
     {
-      "title": "Elucidating the Design Space of LM Data Attribution",
-      "url": "http://arxiv.org/abs/2610.40655v1",
-      "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, ma"
+      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+      "url": "https://arxiv.org/abs/2610.42149",
+      "summary": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re"
     },
     {
-      "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-      "url": "http://arxiv.org/abs/2610.40654v1",
-      "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r"
+      "title": "TernScope: Model-Hardware Co-Design for Efficient Ternary Endoscopic Segmentation",
+      "url": "https://arxiv.org/abs/2610.29617",
+      "summary": "Edge medical segmentation must reconcile small model size, high accuracy, and fast inference. TernScope addresses this tradeoff through model--hardware co-design, learning a compact segmentation netwo"
     },
     {
-      "title": "Rethinking Neural Thickets Without Weight Perturbations",
-      "url": "http://arxiv.org/abs/2610.40649v1",
-      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce"
+      "title": "SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement",
+      "url": "https://arxiv.org/abs/2610.41260",
+      "summary": "Existing sketch generation methods often rely on image guidance and are largely limited to individual objects or simplified scenes, leaving text-guided complex scene sketching underexplored. We presen"
     },
     {
-      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-      "url": "http://arxiv.org/abs/2610.40647v1",
-      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det"
+      "title": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
+      "url": "https://arxiv.org/abs/2610.42136",
+      "summary": "Dense 3D tracking from monocular video requires establishing point correspondences over time, estimating their depth, and inferring their trajectories during occlusion. Existing methods typically lear"
     },
     {
-      "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-      "url": "http://arxiv.org/abs/2610.40644v1",
-      "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how "
+      "title": "HALO: Human-Grounded Granular Evaluation of Proactive Agents",
+      "url": "https://arxiv.org/abs/2610.39086",
+      "summary": "Proactive agents must decide whether, when, and how far to assist without an explicit request. Existing evaluations often rely on automated scores or binary verdicts, offering limited human diagnosis "
     },
     {
-      "title": "Luggage re-identification: A study of strategies towards a real-world application",
-      "url": "http://arxiv.org/abs/2610.40643v1",
-      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (los"
-    },
-    {
-      "title": "From extreme weather to agricultural consequences with agentic AI",
-      "url": "http://arxiv.org/abs/2610.40641v1",
-      "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and "
-    },
-    {
-      "title": "world2vec: Mechanistic world models through latent dynamics learning",
-      "url": "http://arxiv.org/abs/2610.40637v1",
-      "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. "
+      "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
+      "url": "https://arxiv.org/abs/2610.40738",
+      "summary": "A capable voice assistant must do more than recognize words; it must understand requests, reason over context, sustain conversations, and act through tools. We present Apriel Voice 27B Preview, an ope"
     },
     {
       "title": "Probing Spatial State Representations in Visual Foundation Models",
-      "url": "http://arxiv.org/abs/2610.40636v1",
+      "url": "https://arxiv.org/abs/2610.40636",
       "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls f"
     },
     {
-      "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
-      "url": "http://arxiv.org/abs/2610.40627v1",
-      "summary": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This br"
+      "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.40945",
+      "summary": "On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy. In practice, an inference engine samples the responses and a separate tr"
+    },
+    {
+      "title": "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents",
+      "url": "https://arxiv.org/abs/2610.40799",
+      "summary": "Across coding, web, and tool-use tasks, language-model agents are now routinely trained with the same recipe: supervised fine-tuning (SFT) to learn the interface, then multi-turn reinforcement learnin"
+    },
+    {
+      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+      "url": "https://arxiv.org/abs/2610.42141",
+      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to"
     }
   ],
   "blog_posts": [
     {
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "author": "parameter.ai"
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "author": "tomshardware.com"
     },
     {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "author": "twitter.com"
+      "title": "I grepped for @ts-ignore and found zero. Then I grepped for the cast nobody bans",
+      "url": "https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723",
+      "author": "chet100"
     },
     {
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "author": "blog.talosintelligence.com"
+      "title": "How to make link to SaaS Launch Video system",
+      "url": "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k",
+      "author": "Mashraf Aiman"
     },
     {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "author": "github.com"
-    },
-    {
-      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-      "author": "mashable.com"
-    },
-    {
-      "title": "ChatGPT and Codex usage limits merging",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "author": "help.openai.com"
-    },
-    {
-      "title": "Show HN: A language model that lives in a boot sector",
-      "url": "https://github.com/kerlenton/bootgpt",
-      "author": "github.com"
+      "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
+      "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
+      "author": "chaosmanage.github.io"
     }
   ],
   "repos": [
     {
-      "name": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "stars": 42304,
-      "language": "TypeScript"
+      "name": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "stars": 40642,
+      "language": "Jupyter Notebook"
     },
     {
-      "name": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "stars": 32083,
-      "language": "Swift"
+      "name": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "stars": 36876,
+      "language": "Rust"
     },
     {
-      "name": "The-PR-Agent/pr-agent",
-      "url": "https://github.com/The-PR-Agent/pr-agent",
-      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "stars": 13848,
+      "name": "eriklindernoren/ML-From-Scratch",
+      "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+      "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin",
+      "stars": 33255,
+      "language": "Python"
+    },
+    {
+      "name": "oraios/serena",
+      "url": "https://github.com/oraios/serena",
+      "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent",
+      "stars": 31007,
+      "language": "Python"
+    },
+    {
+      "name": "FlashML-org/FreeToken",
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "stars": 15627,
+      "language": "Python"
+    },
+    {
+      "name": "kornia/kornia",
+      "url": "https://github.com/kornia/kornia",
+      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "stars": 11927,
       "language": "Python"
     }
   ],

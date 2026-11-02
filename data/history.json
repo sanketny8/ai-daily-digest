@@ -1,28 +1,4 @@
 {
-  "2026-10-02": {
-    "papers": [
-      "https://arxiv.org/abs/2610.02206",
-      "https://arxiv.org/abs/2609.33403",
-      "https://arxiv.org/abs/2610.00544",
-      "https://arxiv.org/abs/2609.38104",
-      "https://arxiv.org/abs/2609.38886",
-      "https://arxiv.org/abs/2609.38987",
-      "https://arxiv.org/abs/2610.02196",
-      "https://arxiv.org/abs/2609.32259",
-      "https://arxiv.org/abs/2609.34621",
-      "https://arxiv.org/abs/2609.40362"
-    ],
-    "blogs": [
-      "https://blog.cloudflare.com/clef-decision-models/",
-      "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "https://sm2n.ca/articles/typeclasses-vs-modules/"
-    ],
-    "repos": [
-      "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "https://github.com/google/skills"
-    ]
-  },
   "2026-10-03": {
     "papers": [
       "https://arxiv.org/abs/2609.22753",
@@ -879,6 +855,34 @@
       "https://github.com/THU-MAIC/OpenMAIC",
       "https://github.com/vorssaint/vorssaint-utils",
       "https://github.com/The-PR-Agent/pr-agent"
+    ]
+  },
+  "2026-11-02": {
+    "papers": [
+      "https://arxiv.org/abs/2610.42149",
+      "https://arxiv.org/abs/2610.29617",
+      "https://arxiv.org/abs/2610.41260",
+      "https://arxiv.org/abs/2610.42136",
+      "https://arxiv.org/abs/2610.39086",
+      "https://arxiv.org/abs/2610.40738",
+      "https://arxiv.org/abs/2610.40636",
+      "https://arxiv.org/abs/2610.40945",
+      "https://arxiv.org/abs/2610.40799",
+      "https://arxiv.org/abs/2610.42141"
+    ],
+    "blogs": [
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723",
+      "https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k",
+      "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/"
+    ],
+    "repos": [
+      "https://github.com/patchy631/ai-engineering-hub",
+      "https://github.com/cjpais/Handy",
+      "https://github.com/eriklindernoren/ML-From-Scratch",
+      "https://github.com/oraios/serena",
+      "https://github.com/FlashML-org/FreeToken",
+      "https://github.com/kornia/kornia"
     ]
   }
 }

@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-02</strong></summary>
+
+#### Papers
+
+1. **[Latent Reasoning in Continuous Space for Unified Multimodal Models](https://arxiv.org/abs/2610.42149)**
+
+2. **[TernScope: Model-Hardware Co-Design for Efficient Ternary Endoscopic Segmentation](https://arxiv.org/abs/2610.29617)**
+
+3. **[SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement](https://arxiv.org/abs/2610.41260)**
+
+4. **[ReLift: Dense 3D Tracking as Lifted Trajectory Repair](https://arxiv.org/abs/2610.42136)**
+
+5. **[HALO: Human-Grounded Granular Evaluation of Proactive Agents](https://arxiv.org/abs/2610.39086)**
+
+6. **[Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use](https://arxiv.org/abs/2610.40738)**
+
+7. **[Probing Spatial State Representations in Visual Foundation Models](https://arxiv.org/abs/2610.40636)**
+
+8. **[On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning](https://arxiv.org/abs/2610.40945)**
+
+9. **[CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](https://arxiv.org/abs/2610.40799)**
+
+10. **[RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory](https://arxiv.org/abs/2610.42141)**
+
+
+#### Blog Posts
+
+1. **[AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)** by tomshardware.com
+
+2. **[I grepped for @ts-ignore and found zero. Then I grepped for the cast nobody bans](https://dev.to/chet103cc/i-grepped-for-ts-ignore-and-found-zero-then-i-grepped-for-the-cast-nobody-bans-723)** by chet100
+
+3. **[How to make link to SaaS Launch Video system](https://dev.to/mashraf_aiman/how-to-make-link-to-saas-launch-video-system-5a8k)** by Mashraf Aiman
+
+4. **[I Am the Reason OpenAI Is Killing Unlimited Chats](https://chaosmanage.github.io/i-killed-unlimited-chatgpt/)** by chaosmanage.github.io
+
+
+#### Trending Repos
+
+1. **[patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)** — In-depth tutorials on LLMs, RAGs and real-world AI agent applications. ⭐ 40642
+
+2. **[cjpais/Handy](https://github.com/cjpais/Handy)** — A free, open source, and extensible speech-to-text application that works completely offline. ⭐ 36876
+
+3. **[eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)** — Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin ⭐ 33255
+
+4. **[oraios/serena](https://github.com/oraios/serena)** — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent ⭐ 31007
+
+5. **[FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)** — FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. ⭐ 15627
+
+6. **[kornia/kornia](https://github.com/kornia/kornia)** — 🐍 Geometric Computer Vision Library for Spatial AI ⭐ 11927
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-01</strong></summary>
 
 #### Papers
