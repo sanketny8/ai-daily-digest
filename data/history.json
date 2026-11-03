@@ -1,32 +1,4 @@
 {
-  "2026-10-03": {
-    "papers": [
-      "https://arxiv.org/abs/2609.22753",
-      "https://arxiv.org/abs/2610.01092",
-      "https://arxiv.org/abs/2609.36435",
-      "https://arxiv.org/abs/2610.00812",
-      "https://arxiv.org/abs/2609.36388",
-      "https://arxiv.org/abs/2609.36585",
-      "https://arxiv.org/abs/2609.37690",
-      "https://arxiv.org/abs/2609.32993",
-      "https://arxiv.org/abs/2609.32810",
-      "https://arxiv.org/abs/2610.02142"
-    ],
-    "blogs": [
-      "https://bfl.ai/models/flux-3-image",
-      "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
-      "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4",
-      "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
-      "https://dev.to/mikachu/how-one-generate-draft-button-changed-the-design-of-my-writing-tool-1jc0",
-      "https://allenai.org/blog/astabrief"
-    ],
-    "repos": [
-      "https://github.com/JuliusBrussee/caveman",
-      "https://github.com/D4Vinci/Scrapling",
-      "https://github.com/microsoft/VibeVoice",
-      "https://github.com/ayghri/i-have-adhd"
-    ]
-  },
   "2026-10-04": {
     "papers": [
       "http://arxiv.org/abs/2610.02207v1",
@@ -883,6 +855,40 @@
       "https://github.com/oraios/serena",
       "https://github.com/FlashML-org/FreeToken",
       "https://github.com/kornia/kornia"
+    ]
+  },
+  "2026-11-03": {
+    "papers": [
+      "https://arxiv.org/abs/2611.02633",
+      "https://arxiv.org/abs/2611.03602",
+      "https://arxiv.org/abs/2611.03178",
+      "https://arxiv.org/abs/2610.41574",
+      "https://arxiv.org/abs/2611.03526",
+      "https://arxiv.org/abs/2611.01484",
+      "https://arxiv.org/abs/2611.03126",
+      "https://arxiv.org/abs/2611.03092",
+      "https://arxiv.org/abs/2611.01560",
+      "https://arxiv.org/abs/2611.02102"
+    ],
+    "blogs": [
+      "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "https://openai.com/index/scaling-git-at-openai/",
+      "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+      "https://momentic.ai/",
+      "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "https://arxiv.org/abs/2610.37741",
+      "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+      "https://longcat.ai/blog/longcat-2.5/",
+      "https://deploymentsafety.openai.com/gpt-rosalind-6"
+    ],
+    "repos": [
+      "https://github.com/paperclipai/paperclip",
+      "https://github.com/karpathy/nanochat",
+      "https://github.com/p-e-w/heretic",
+      "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "https://github.com/vercel-labs/agent-desktop",
+      "https://github.com/max-sixty/worktrunk",
+      "https://github.com/beenuar/AiSOC"
     ]
   }
 }

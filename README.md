@@ -10,6 +10,73 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-03</strong></summary>
+
+#### Papers
+
+1. **[Measuring AI Agents as Teammates with Collaborative Intelligence](https://arxiv.org/abs/2611.02633)**
+
+2. **[Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning](https://arxiv.org/abs/2611.03602)**
+
+3. **[CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://arxiv.org/abs/2611.03178)**
+
+4. **[BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion](https://arxiv.org/abs/2610.41574)**
+
+5. **[Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime](https://arxiv.org/abs/2611.03526)**
+
+6. **[CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents](https://arxiv.org/abs/2611.01484)**
+
+7. **[CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements](https://arxiv.org/abs/2611.03126)**
+
+8. **[Avatar Intelligence: Amplifying Human Agency Through Persistent Personal Agents](https://arxiv.org/abs/2611.03092)**
+
+9. **[Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://arxiv.org/abs/2611.01560)**
+
+10. **[NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale](https://arxiv.org/abs/2611.02102)**
+
+
+#### Blog Posts
+
+1. **[Anthropic's internal AI use, at retail prices, now exceeds its employee pay](https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11)** by businessinsider.com
+
+2. **[Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)** by openai.com
+
+3. **[Jobless tech workers are being left out of San Francisco's AI boom](https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near)** by bloomberg.com
+
+4. **[Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)** by momentic.ai
+
+5. **[Last night an AI agent performed brain surgery on a mouse](https://twitter.com/OcanaSantero/status/2115442964574908902)** by twitter.com
+
+6. **[Agentic backdoors via pretraining poisoning](https://arxiv.org/abs/2610.37741)** by arxiv.org
+
+7. **[Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings](https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now)** by stephenjgallagher.substack.com
+
+8. **[LongCat-2.5: Native Multimodality for Agentic Tasks](https://longcat.ai/blog/longcat-2.5/)** by longcat.ai
+
+9. **[GPT-Rosalind-6 System Card Addendum](https://deploymentsafety.openai.com/gpt-rosalind-6)** by deploymentsafety.openai.com
+
+
+#### Trending Repos
+
+1. **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** — The open-source app everyone uses to manage agents at work ⭐ 110609
+
+2. **[karpathy/nanochat](https://github.com/karpathy/nanochat)** — The best ChatGPT that $100 can buy. ⭐ 60072
+
+3. **[p-e-w/heretic](https://github.com/p-e-w/heretic)** — Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more ⭐ 38321
+
+4. **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** — Towards a More Autonomous Agent System ⭐ 14856
+
+5. **[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)** — Computer use CLI for AI agents ⭐ 11043
+
+6. **[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)** — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows ⭐ 10180
+
+7. **[beenuar/AiSOC](https://github.com/beenuar/AiSOC)** — Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&amp;CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys,  ⭐ 6813
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-02</strong></summary>
 
 #### Papers
