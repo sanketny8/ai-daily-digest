@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-04</strong></summary>
+
+#### Papers
+
+1. **[Every Pixel Is an Option: A System One Model for Medical Ultrasound Biometry](https://arxiv.org/abs/2611.03360)**
+
+2. **[DreamX: Video Diffusion Model is a Universal Latent Action Learner](https://arxiv.org/abs/2611.05377)**
+
+3. **[VidUEU-Agent: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks](https://arxiv.org/abs/2611.04418)**
+
+4. **[Going Deeper With Memories](https://arxiv.org/abs/2611.05255)**
+
+5. **[RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On](https://arxiv.org/abs/2611.05163)**
+
+6. **[Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks?](https://arxiv.org/abs/2611.02017)**
+
+7. **[EvoTeam: Multi-Agent Collaboration via Evolving Teams](https://arxiv.org/abs/2610.39813)**
+
+8. **[FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing](https://arxiv.org/abs/2611.04303)**
+
+9. **[ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](https://arxiv.org/abs/2611.05036)**
+
+10. **[Do We Need an LLM to Know Why Sources Conflict? Decision Models for Knowledge-Conflict Typing in RAG](https://arxiv.org/abs/2610.36915)**
+
+
+#### Blog Posts
+
+1. **[The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)** by arxiv.org
+
+2. **[LLMs are not superhuman at reading and writing neural network weights](https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/)** by seangoedecke.com
+
+3. **[We're training a Figma-fluent editing model](https://www.figma.com/blog/training-a-figma-fluent-editing-model/)** by figma.com
+
+4. **[There is no posttraining data commons](https://openathena.ai/blog/there-is-no-posttraining-data-commons/)** by openathena.ai
+
+5. **[Nano Banana 2.1: fourteen references, four that matter](https://dev.to/chet103cc/nano-banana-21-fourteen-references-four-that-matter-247b)** by chet100
+
+6. **[Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights](https://rikiyat.github.io/blog/weight-space-programming/)** by timschumi
+
+
+#### Trending Repos
+
+1. **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** — 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks ⭐ 95396
+
+2. **[blader/humanizer](https://github.com/blader/humanizer)** — Agent skill that removes signs of AI-generated writing from text ⭐ 64544
+
+3. **[JustVugg/colibri](https://github.com/JustVugg/colibri)** — A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. ⭐ 47437
+
+4. **[agent0ai/agent-zero](https://github.com/agent0ai/agent-zero)** — Agent Zero AI framework ⭐ 19707
+
+5. **[Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)** — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 ⭐ 16852
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-03</strong></summary>
 
 #### Papers

@@ -1,152 +1,123 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "papers": [
     {
-      "title": "Measuring AI Agents as Teammates with Collaborative Intelligence",
-      "url": "https://arxiv.org/abs/2611.02633",
-      "summary": "Progress in AI is often measured by what a single model can do on its own. Yet teams of AI agents are starting to make breakthroughs and discoveries in science, medicine, mathematics and software engi"
+      "title": "Every Pixel Is an Option: A System One Model for Medical Ultrasound Biometry",
+      "url": "https://arxiv.org/abs/2611.03360",
+      "summary": "**Purpose:** Ultrasound biometry is widely used across various clinical applications, including prenatal and cardiac examinations, to obtain quantitative measurements by placing calipers at anatomical"
     },
     {
-      "title": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
-      "url": "https://arxiv.org/abs/2611.03602",
-      "summary": "Multimodal large language models (MLLMs) can generate detailed video captions, yet they may overemphasize minor details while overlooking essential context and key events. We argue that not all visual"
+      "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+      "url": "https://arxiv.org/abs/2611.05377",
+      "summary": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc"
     },
     {
-      "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
-      "url": "https://arxiv.org/abs/2611.03178",
-      "summary": "Rapid advances in cowork agents are shifting human-AI collaboration toward real-world automation, delivering software, designs, and other artifacts. However, such productivity work demands both high-q"
+      "title": "VidUEU-Agent: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks",
+      "url": "https://arxiv.org/abs/2611.04418",
+      "summary": "The advancement of multimodal learning is heavily constrained by the scarcity and high annotation cost of high-quality instruction data. While raw videos offer an abundant and dynamic source of visual"
     },
     {
-      "title": "BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion",
-      "url": "https://arxiv.org/abs/2610.41574",
-      "summary": "Unlike autoregressive (AR) models, diffusion language models (DLMs) permit parallel token updates, flexible generation, and bidirectional attention, but leading systems rely on costly pretraining or f"
+      "title": "Going Deeper With Memories",
+      "url": "https://arxiv.org/abs/2611.05255",
+      "summary": "Byte level language models avoid tokenizer dependence and provide universal coverage, but processing every byte at full resolution is expensive. We introduce DeepMem, a causal multiscale architecture "
     },
     {
-      "title": "Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
-      "url": "https://arxiv.org/abs/2611.03526",
-      "summary": "Computer programmers chain together the same reusable computational primitives, for example, conditional statements or loops, but in different orders to implement different algorithms. In contrast, ex"
+      "title": "RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On",
+      "url": "https://arxiv.org/abs/2611.05163",
+      "summary": "Robot foundation models have shown remarkable performance in robot control, yet adapting them to a new task still relies heavily on teleoperated demonstrations. Egocentric human videos offer a scalabl"
     },
     {
-      "title": "CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents",
-      "url": "https://arxiv.org/abs/2611.01484",
-      "summary": "As coding agents achieve increasingly high success rates on software engineering benchmarks, recent efforts have sought to increase task complexity through longer horizons and more extensive code modi"
+      "title": "Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks?",
+      "url": "https://arxiv.org/abs/2611.02017",
+      "summary": "Software development sessions often involve several unfinished tasks rather than one issue carried through to completion. As coding agents take on repository-level development, they need to recover an"
     },
     {
-      "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
-      "url": "https://arxiv.org/abs/2611.03126",
-      "summary": "Despite recent advances in CUAs, their development remains constrained by the limited diversity, controllability, and reliability of interaction data. Moreover, conventional optimization pipelines lac"
+      "title": "EvoTeam: Multi-Agent Collaboration via Evolving Teams",
+      "url": "https://arxiv.org/abs/2610.39813",
+      "summary": "LLM-based multi-agent systems (MAS) rely on collaboration among specialized agents to solve complex tasks. Existing methods improve MAS by refining the prompts, skills, and execution strategies of ind"
     },
     {
-      "title": "Avatar Intelligence: Amplifying Human Agency Through Persistent Personal Agents",
-      "url": "https://arxiv.org/abs/2611.03092",
-      "summary": "Personal AI agents are increasingly capable of handling long-horizon tasks across applications, yet users often need to invest substantial effort in specifying goals, resolving ambiguity, and verifyin"
+      "title": "FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing",
+      "url": "https://arxiv.org/abs/2611.04303",
+      "summary": "In-image machine translation (IIMT) replaces text in an image with its translation while preserving the surrounding visual context. Existing task-specific models achieve convincing performance but req"
     },
     {
-      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
-      "url": "https://arxiv.org/abs/2611.01560",
-      "summary": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we in"
+      "title": "ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2611.05036",
+      "summary": "Large language models are deployed as long-horizon agents that compose diverse tools across MCP services into executable workflows. Existing MCP environment-scaling methods are data-centric: they firs"
     },
     {
-      "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
-      "url": "https://arxiv.org/abs/2611.02102",
-      "summary": "Scaling computer-use agents from individual actions to complex software work requires experience that connects decisions to complete outcomes. We present NorthCUA, an integrated system for turbochargi"
+      "title": "Do We Need an LLM to Know Why Sources Conflict? Decision Models for Knowledge-Conflict Typing in RAG",
+      "url": "https://arxiv.org/abs/2610.36915",
+      "summary": "When the sources retrieved for a query disagree, the right response depends on why they disagree: a question with several valid answers, a contested topic, stale information and a false source each ca"
     }
   ],
   "blog_posts": [
     {
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "author": "businessinsider.com"
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
-      "author": "openai.com"
-    },
-    {
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "author": "bloomberg.com"
-    },
-    {
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "author": "momentic.ai"
-    },
-    {
-      "title": "Last night an AI agent performed brain surgery on a mouse",
-      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "author": "twitter.com"
-    },
-    {
-      "title": "Agentic backdoors via pretraining poisoning",
-      "url": "https://arxiv.org/abs/2610.37741",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
       "author": "arxiv.org"
     },
     {
-      "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
-      "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
-      "author": "stephenjgallagher.substack.com"
+      "title": "LLMs are not superhuman at reading and writing neural network weights",
+      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+      "author": "seangoedecke.com"
     },
     {
-      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
-      "url": "https://longcat.ai/blog/longcat-2.5/",
-      "author": "longcat.ai"
+      "title": "We're training a Figma-fluent editing model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "author": "figma.com"
     },
     {
-      "title": "GPT-Rosalind-6 System Card Addendum",
-      "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-      "author": "deploymentsafety.openai.com"
+      "title": "There is no posttraining data commons",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "author": "openathena.ai"
+    },
+    {
+      "title": "Nano Banana 2.1: fourteen references, four that matter",
+      "url": "https://dev.to/chet103cc/nano-banana-21-fourteen-references-four-that-matter-247b",
+      "author": "chet100"
+    },
+    {
+      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "author": "timschumi"
     }
   ],
   "repos": [
     {
-      "name": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "stars": 110609,
-      "language": "TypeScript"
-    },
-    {
-      "name": "karpathy/nanochat",
-      "url": "https://github.com/karpathy/nanochat",
-      "description": "The best ChatGPT that $100 can buy.",
-      "stars": 60072,
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks",
+      "stars": 95396,
       "language": "Python"
     },
     {
-      "name": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
-      "stars": 38321,
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": 64544,
       "language": "Python"
     },
     {
-      "name": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "description": "Towards a More Autonomous Agent System",
-      "stars": 14856,
-      "language": "TypeScript"
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "stars": 47437,
+      "language": "C"
     },
     {
-      "name": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "stars": 11043,
-      "language": "Rust"
+      "name": "agent0ai/agent-zero",
+      "url": "https://github.com/agent0ai/agent-zero",
+      "description": "Agent Zero AI framework",
+      "stars": 19707,
+      "language": "Python"
     },
     {
-      "name": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "stars": 10180,
-      "language": "Rust"
-    },
-    {
-      "name": "beenuar/AiSOC",
-      "url": "https://github.com/beenuar/AiSOC",
-      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&amp;CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, ",
-      "stars": 6813,
+      "name": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "stars": 16852,
       "language": "Python"
     }
   ],

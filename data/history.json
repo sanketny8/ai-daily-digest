@@ -1,31 +1,4 @@
 {
-  "2026-10-04": {
-    "papers": [
-      "http://arxiv.org/abs/2610.02207v1",
-      "http://arxiv.org/abs/2610.02206v1",
-      "http://arxiv.org/abs/2610.02204v1",
-      "http://arxiv.org/abs/2610.02203v1",
-      "http://arxiv.org/abs/2610.02202v1",
-      "http://arxiv.org/abs/2610.02201v1",
-      "http://arxiv.org/abs/2610.02200v1",
-      "http://arxiv.org/abs/2610.02199v1",
-      "http://arxiv.org/abs/2610.02198v1",
-      "http://arxiv.org/abs/2610.02195v1"
-    ],
-    "blogs": [
-      "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo"
-    ],
-    "repos": [
-      "https://github.com/mattpocock/skills",
-      "https://github.com/affaan-m/ECC",
-      "https://github.com/thedotmack/claude-mem",
-      "https://github.com/calesthio/OpenMontage",
-      "https://github.com/agno-agi/agno"
-    ]
-  },
   "2026-10-05": {
     "papers": [
       "https://arxiv.org/abs/2610.03391",
@@ -889,6 +862,35 @@
       "https://github.com/vercel-labs/agent-desktop",
       "https://github.com/max-sixty/worktrunk",
       "https://github.com/beenuar/AiSOC"
+    ]
+  },
+  "2026-11-04": {
+    "papers": [
+      "https://arxiv.org/abs/2611.03360",
+      "https://arxiv.org/abs/2611.05377",
+      "https://arxiv.org/abs/2611.04418",
+      "https://arxiv.org/abs/2611.05255",
+      "https://arxiv.org/abs/2611.05163",
+      "https://arxiv.org/abs/2611.02017",
+      "https://arxiv.org/abs/2610.39813",
+      "https://arxiv.org/abs/2611.04303",
+      "https://arxiv.org/abs/2611.05036",
+      "https://arxiv.org/abs/2610.36915"
+    ],
+    "blogs": [
+      "https://arxiv.org/abs/2605.29713",
+      "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+      "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "https://dev.to/chet103cc/nano-banana-21-fourteen-references-four-that-matter-247b",
+      "https://rikiyat.github.io/blog/weight-space-programming/"
+    ],
+    "repos": [
+      "https://github.com/D4Vinci/Scrapling",
+      "https://github.com/blader/humanizer",
+      "https://github.com/JustVugg/colibri",
+      "https://github.com/agent0ai/agent-zero",
+      "https://github.com/Usagi-org/ai-goofish-monitor"
     ]
   }
 }
