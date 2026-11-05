@@ -1,33 +1,4 @@
 {
-  "2026-10-05": {
-    "papers": [
-      "https://arxiv.org/abs/2610.03391",
-      "https://arxiv.org/abs/2610.02486",
-      "https://arxiv.org/abs/2610.03665",
-      "https://arxiv.org/abs/2610.02126",
-      "https://arxiv.org/abs/2609.38123",
-      "https://arxiv.org/abs/2610.02304",
-      "https://arxiv.org/abs/2610.03574",
-      "https://arxiv.org/abs/2609.38078",
-      "https://arxiv.org/abs/2609.38879",
-      "https://arxiv.org/abs/2609.39071"
-    ],
-    "blogs": [
-      "https://dev.to/emmasofia/before-the-alarm-screams-at-3-am-predicting-liams-nocturnal-hypoglycemia-with-prior-labs-tabpfn-25mn",
-      "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "https://dev.to/dj29/origintrace-protecting-the-dev-community-from-content-theft-using-sanity-context-mcp-j5c",
-      "https://dev.to/codeswithroh/my-mom-reads-bengali-not-english-so-i-built-her-a-reader-that-catches-scams-on-open-weight-gemma-47ef"
-    ],
-    "repos": [
-      "https://github.com/garrytan/gstack",
-      "https://github.com/antirez/ds4",
-      "https://github.com/ifixai-ai/iFixAi",
-      "https://github.com/jamwithai/production-agentic-rag-course",
-      "https://github.com/experientiallabs/experiential",
-      "https://github.com/shy3130/tick-stock-panel",
-      "https://github.com/kaifcodec/user-scanner"
-    ]
-  },
   "2026-10-06": {
     "papers": [
       "https://arxiv.org/abs/2610.04047",
@@ -891,6 +862,39 @@
       "https://github.com/JustVugg/colibri",
       "https://github.com/agent0ai/agent-zero",
       "https://github.com/Usagi-org/ai-goofish-monitor"
+    ]
+  },
+  "2026-11-05": {
+    "papers": [
+      "https://arxiv.org/abs/2611.03404",
+      "https://arxiv.org/abs/2611.06483",
+      "https://arxiv.org/abs/2611.06728",
+      "https://arxiv.org/abs/2611.05304",
+      "https://arxiv.org/abs/2611.06518",
+      "https://arxiv.org/abs/2611.05609",
+      "https://arxiv.org/abs/2610.41104",
+      "https://arxiv.org/abs/2611.06910",
+      "https://arxiv.org/abs/2610.40131",
+      "https://arxiv.org/abs/2611.06796"
+    ],
+    "blogs": [
+      "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "https://www.ricursive.com/ripple",
+      "https://openai.com/index/introducing-images-2-6/",
+      "https://www.anthropic.com/research/provable-inference",
+      "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+    ],
+    "repos": [
+      "https://github.com/mattpocock/skills",
+      "https://github.com/harry0703/MoneyPrinterTurbo",
+      "https://github.com/thedotmack/claude-mem",
+      "https://github.com/calesthio/OpenMontage",
+      "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+      "https://github.com/davila7/claude-code-templates",
+      "https://github.com/Thysrael/Horizon"
     ]
   }
 }
