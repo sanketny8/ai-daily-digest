@@ -1,147 +1,132 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "papers": [
     {
-      "title": "VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing",
-      "url": "https://arxiv.org/abs/2611.03404",
-      "summary": "Video dubbing aims to synthesize lip movements that match target speech while preserving the speaker identity, head pose, and background of a source video. Existing editors are predominantly trained v"
+      "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
+      "url": "https://arxiv.org/abs/2611.06741",
+      "summary": "Strong single-turn editing performance does not guarantee reliable multi-turn interaction: as edited outputs are repeatedly reused, small unintended changes can accumulate into severe visual drift. Th"
     },
     {
-      "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
-      "url": "https://arxiv.org/abs/2611.06483",
-      "summary": "While multi-turn agentic reinforcement learning (RL) excels on long-horizon tasks, its performance gains remain highly sensitive to interaction constraints. Evaluating across sampling breadth K and in"
+      "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+      "url": "https://arxiv.org/abs/2611.05376",
+      "summary": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on "
     },
     {
-      "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
-      "url": "https://arxiv.org/abs/2611.06728",
-      "summary": "Streaming video understanding requires models to repeatedly decide whether to respond or continue observing. Recently, Group Relative Policy Optimization (GRPO) has been applied to this setting, with "
+      "title": "EvoMemState: Evolving Memory State for Personal Agents",
+      "url": "https://arxiv.org/abs/2611.03743",
+      "summary": "Long-term memory enables large language model (LLM) agents to provide continuous personalized assistance by retaining user information across interactions. Existing systems support this process throug"
     },
     {
-      "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
-      "url": "https://arxiv.org/abs/2611.05304",
-      "summary": "Looped transformers are a parameter-efficient alternative to standard transformers for language modeling. By reapplying the same layers across multiple loop steps, recent looped language models match "
+      "title": "Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models",
+      "url": "https://arxiv.org/abs/2611.06982",
+      "summary": "Chunk-interleaved full-duplex speech language models listen and speak in fixed time chunks, and each chunk must be processed before the next one arrives. Their workload is asymmetric across chunks: li"
     },
     {
-      "title": "EmoReward: Self-Evolving Reward Calibration for Emotional Video Generation RL",
-      "url": "https://arxiv.org/abs/2611.06518",
-      "summary": "Group Relative Policy Optimization (GRPO) has advanced generative model post-training in verifiable domains such as code and mathematics, but evaluating video quality, especially emotional expression,"
+      "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+      "url": "https://arxiv.org/abs/2611.08373",
+      "summary": "Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representati"
     },
     {
-      "title": "On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation",
-      "url": "https://arxiv.org/abs/2611.05609",
-      "summary": "Multi-teacher on-policy distillation (MOPD) extends on-policy distillation (OPD) to consolidate capabilities from multiple teachers. Although prior work reports near-perfect in-distribution (IND) dist"
+      "title": "Future Representation Distillation for Imagination-free World Action Models",
+      "url": "https://arxiv.org/abs/2611.04527",
+      "summary": "World Action Models (WAMs) use the predictive knowledge of pretrained video diffusion models for robot control through future video prediction. However, iterative video denoising is costly, and inaccu"
     },
     {
-      "title": "MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation",
-      "url": "https://arxiv.org/abs/2610.41104",
-      "summary": "Self-distillation methods for large language models with an exponential moving average (EMA) teacher already retain a history of student updates. Muon nevertheless stores a separate momentum buffer, i"
+      "title": "Identically Trained Language Models Break on Different Jailbreaks",
+      "url": "https://arxiv.org/abs/2610.34074",
+      "summary": "Jailbreak benchmarks test one checkpoint and treat which jailbreaks break it as a property of its pretraining data and safety training. We ask whether another pretraining run of the same data, given t"
     },
     {
-      "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
-      "url": "https://arxiv.org/abs/2611.06910",
-      "summary": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solut"
+      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+      "url": "https://arxiv.org/abs/2611.08449",
+      "summary": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goa"
     },
     {
-      "title": "VideoMemBench: How Well Do MLLMs Remember in Video Conversations?",
-      "url": "https://arxiv.org/abs/2610.40131",
-      "summary": "Multimodal large language models (MLLMs) can now process hour-long videos, making extended multi-turn dialogue over a single video a natural mode of use. Sustaining such a dialogue requires more than "
+      "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training",
+      "url": "https://arxiv.org/abs/2611.04277",
+      "summary": "Harness evolution from a common base exhibits Locality, Complementarity, and Nonstationarity: variants repair different failures, and their utility changes as the policy learns. Rather than seeking a "
     },
     {
-      "title": "VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation",
-      "url": "https://arxiv.org/abs/2611.06796",
-      "summary": "Few-step distillation offers efficient generation with diffusion and flow models, but preserving quality with only a few sampling steps remains challenging. Distribution-matching methods via score dis"
+      "title": "VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents",
+      "url": "https://arxiv.org/abs/2611.04894",
+      "summary": "Multimodal agents use web and image tools to answer questions beyond their internal knowledge. Some search tasks use images mainly to identify an initial entity, then rely on text retrieval. These tas"
     }
   ],
   "blog_posts": [
     {
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "author": "mindstudio.ai"
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "author": "github.com"
     },
     {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "author": "huggingface.co"
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "author": "alignment.openai.com"
     },
     {
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "author": "openai.com"
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "author": "mcp-explained.com"
     },
     {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "author": "ricursive.com"
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "author": "linum.ai"
     },
     {
-      "title": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "author": "openai.com"
-    },
-    {
-      "title": "Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "author": "anthropic.com"
-    },
-    {
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "author": "arstechnica.com"
-    },
-    {
-      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "author": "techcrunch.com"
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "author": "claude.ai"
     }
   ],
   "repos": [
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "stars": 313835,
-      "language": "Shell"
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "stars": 139373,
-      "language": "Python"
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
-      "stars": 113148,
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 140200,
       "language": "TypeScript"
     },
     {
-      "name": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
-      "stars": 76758,
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars": 56269,
       "language": "Python"
     },
     {
-      "name": "labmlai/annotated_deep_learning_paper_implementations",
-      "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
-      "description": "🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(",
-      "stars": 67692,
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 46137,
+      "language": "Rust"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 35259,
       "language": "Python"
     },
     {
-      "name": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 33133,
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+      "stars": 29987,
       "language": "Python"
     },
     {
-      "name": "Thysrael/Horizon",
-      "url": "https://github.com/Thysrael/Horizon",
-      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达",
-      "stars": 12742,
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": 22543,
+      "language": "Python"
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
+      "stars": 7995,
       "language": "Python"
     }
   ],

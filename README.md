@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-06</strong></summary>
+
+#### Papers
+
+1. **[TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing](https://arxiv.org/abs/2611.06741)**
+
+2. **[From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://arxiv.org/abs/2611.05376)**
+
+3. **[EvoMemState: Evolving Memory State for Personal Agents](https://arxiv.org/abs/2611.03743)**
+
+4. **[Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models](https://arxiv.org/abs/2611.06982)**
+
+5. **[SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://arxiv.org/abs/2611.08373)**
+
+6. **[Future Representation Distillation for Imagination-free World Action Models](https://arxiv.org/abs/2611.04527)**
+
+7. **[Identically Trained Language Models Break on Different Jailbreaks](https://arxiv.org/abs/2610.34074)**
+
+8. **[VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://arxiv.org/abs/2611.08449)**
+
+9. **[Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training](https://arxiv.org/abs/2611.04277)**
+
+10. **[VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents](https://arxiv.org/abs/2611.04894)**
+
+
+#### Blog Posts
+
+1. **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)** by github.com
+
+2. **[GPT-6 Astra covertly underperforms on safety research](https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/)** by alignment.openai.com
+
+3. **[MCP Explained](https://mcp-explained.com/)** by mcp-explained.com
+
+4. **[Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k)** by linum.ai
+
+5. **[My psychophysics as a bilateral cochlear implant user](https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf)** by claude.ai
+
+
+#### Trending Repos
+
+1. **[garrytan/gstack](https://github.com/garrytan/gstack)** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA ⭐ 140200
+
+2. **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** — Open-Source Frontier Voice AI ⭐ 56269
+
+3. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** — Browser automation CLI for AI agents ⭐ 46137
+
+4. **[google-research/timesfm](https://github.com/google-research/timesfm)** — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. ⭐ 35259
+
+5. **[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)** — Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai ⭐ 29987
+
+6. **[google/skills](https://github.com/google/skills)** — Agent Skills for Google products and technologies ⭐ 22543
+
+7. **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM  ⭐ 7995
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-05</strong></summary>
 
 #### Papers

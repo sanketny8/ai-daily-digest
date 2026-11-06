@@ -1,36 +1,4 @@
 {
-  "2026-10-06": {
-    "papers": [
-      "https://arxiv.org/abs/2610.04047",
-      "https://arxiv.org/abs/2610.04929",
-      "https://arxiv.org/abs/2610.06648",
-      "https://arxiv.org/abs/2610.04616",
-      "https://arxiv.org/abs/2605.21318",
-      "https://arxiv.org/abs/2610.02150",
-      "https://arxiv.org/abs/2609.39420",
-      "https://arxiv.org/abs/2610.05033",
-      "https://arxiv.org/abs/2610.05162",
-      "https://arxiv.org/abs/2610.06184"
-    ],
-    "blogs": [
-      "https://reflection.ai/blog/introducing-beam",
-      "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "https://qlabs.sh/research/dust",
-      "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "https://dev.to/yashksaini/i-built-my-friend-a-mock-interviewer-that-read-his-rust-code-1gif"
-    ],
-    "repos": [
-      "https://github.com/msitarzewski/agency-agents",
-      "https://github.com/cloudflare/cloudflare-os",
-      "https://github.com/DuarteSantos8/openGym",
-      "https://github.com/VictorTaelin/OptMem",
-      "https://github.com/QingYunA/answer-me-with-html",
-      "https://github.com/nanaism/yomiyasu",
-      "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "https://github.com/Edwardxlai/easyread",
-      "https://github.com/Jakeschincariol/replica-skill"
-    ]
-  },
   "2026-10-07": {
     "papers": [
       "https://arxiv.org/abs/2609.32921",
@@ -895,6 +863,36 @@
       "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
       "https://github.com/davila7/claude-code-templates",
       "https://github.com/Thysrael/Horizon"
+    ]
+  },
+  "2026-11-06": {
+    "papers": [
+      "https://arxiv.org/abs/2611.06741",
+      "https://arxiv.org/abs/2611.05376",
+      "https://arxiv.org/abs/2611.03743",
+      "https://arxiv.org/abs/2611.06982",
+      "https://arxiv.org/abs/2611.08373",
+      "https://arxiv.org/abs/2611.04527",
+      "https://arxiv.org/abs/2610.34074",
+      "https://arxiv.org/abs/2611.08449",
+      "https://arxiv.org/abs/2611.04277",
+      "https://arxiv.org/abs/2611.04894"
+    ],
+    "blogs": [
+      "https://github.com/anthropics/claude-code/issues/107757",
+      "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "https://mcp-explained.com/",
+      "https://www.linum.ai/field-notes/pjit-21k",
+      "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf"
+    ],
+    "repos": [
+      "https://github.com/garrytan/gstack",
+      "https://github.com/microsoft/VibeVoice",
+      "https://github.com/vercel-labs/agent-browser",
+      "https://github.com/google-research/timesfm",
+      "https://github.com/harvard-edge/cs249r_book",
+      "https://github.com/google/skills",
+      "https://github.com/NVIDIA/auto-ontology"
     ]
   }
 }
