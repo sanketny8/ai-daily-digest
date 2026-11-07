@@ -1,31 +1,4 @@
 {
-  "2026-10-07": {
-    "papers": [
-      "https://arxiv.org/abs/2609.32921",
-      "https://arxiv.org/abs/2610.08430",
-      "https://arxiv.org/abs/2610.05842",
-      "https://arxiv.org/abs/2609.37334",
-      "https://arxiv.org/abs/2610.04605",
-      "https://arxiv.org/abs/2610.05912",
-      "https://arxiv.org/abs/2610.05967",
-      "https://arxiv.org/abs/2610.08630",
-      "https://arxiv.org/abs/2610.05954",
-      "https://arxiv.org/abs/2610.07753"
-    ],
-    "blogs": [
-      "https://mistral.ai/news/mistral-large-4/\\",
-      "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "https://developers.openai.com/api/docs/guides/decisions",
-      "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "https://strandsagents.com/blog/introducing-strands-decider/"
-    ],
-    "repos": [
-      "https://github.com/cathrynlavery/diagram-design",
-      "https://github.com/morluto/rea",
-      "https://github.com/omnigent-ai/omnigent"
-    ]
-  },
   "2026-10-08": {
     "papers": [
       "https://arxiv.org/abs/2610.03799",
@@ -893,6 +866,38 @@
       "https://github.com/harvard-edge/cs249r_book",
       "https://github.com/google/skills",
       "https://github.com/NVIDIA/auto-ontology"
+    ]
+  },
+  "2026-11-07": {
+    "papers": [
+      "https://arxiv.org/abs/2611.06500",
+      "https://arxiv.org/abs/2611.06498",
+      "https://arxiv.org/abs/2611.04386",
+      "https://arxiv.org/abs/2611.08483",
+      "https://arxiv.org/abs/2610.37739",
+      "https://arxiv.org/abs/2611.08237",
+      "https://arxiv.org/abs/2611.08376",
+      "https://arxiv.org/abs/2609.37820",
+      "https://arxiv.org/abs/2611.07298",
+      "https://arxiv.org/abs/2610.41789"
+    ],
+    "blogs": [
+      "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "https://www.anthropic.com/research/how-researchers-use-claude",
+      "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp"
+    ],
+    "repos": [
+      "https://github.com/rails/rails",
+      "https://github.com/apache/airflow",
+      "https://github.com/mlflow/mlflow",
+      "https://github.com/airbytehq/airbyte",
+      "https://github.com/NVIDIA/TensorRT-LLM",
+      "https://github.com/antoniaci/blackbird",
+      "https://github.com/pipeshub-ai/pipeshub-ai",
+      "https://github.com/KKKKhazix/agent-autoloop",
+      "https://github.com/caru-ini/stack-diagram"
     ]
   }
 }

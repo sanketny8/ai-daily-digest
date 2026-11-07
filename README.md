@@ -10,6 +10,69 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-07</strong></summary>
+
+#### Papers
+
+1. **[Tools Need Not Speak in Text: Latent Context Compression for Agents](https://arxiv.org/abs/2611.06500)**
+
+2. **[Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation](https://arxiv.org/abs/2611.06498)**
+
+3. **[StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models](https://arxiv.org/abs/2611.04386)**
+
+4. **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](https://arxiv.org/abs/2611.08483)**
+
+5. **[OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery](https://arxiv.org/abs/2610.37739)**
+
+6. **[Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling](https://arxiv.org/abs/2611.08237)**
+
+7. **[Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout](https://arxiv.org/abs/2611.08376)**
+
+8. **[Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space](https://arxiv.org/abs/2609.37820)**
+
+9. **[Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens](https://arxiv.org/abs/2611.07298)**
+
+10. **[Hard Sample-Conditioned Decorrelated Attention for Robust Face Recognition](https://arxiv.org/abs/2610.41789)**
+
+
+#### Blog Posts
+
+1. **[Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)** by blog.google
+
+2. **[Anthropic IPO buyers see valuation as low as $1.1T](https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout)** by bloomberg.com
+
+3. **[AI for scientific discovery: How researchers use Claude](https://www.anthropic.com/research/how-researchers-use-claude)** by anthropic.com
+
+4. **[ChatGPT silently passes data between connectors and the bounty wants an ID card](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053)** by community.openai.com
+
+5. **[An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners](https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp)** by Jem
+
+
+#### Trending Repos
+
+1. **[rails/rails](https://github.com/rails/rails)** — Ruby on Rails ⭐ 59061
+
+2. **[apache/airflow](https://github.com/apache/airflow)** — Apache Airflow - A platform to programmatically author, schedule, and monitor workflows ⭐ 47404
+
+3. **[mlflow/mlflow](https://github.com/mlflow/mlflow)** — The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin ⭐ 28709
+
+4. **[airbytehq/airbyte](https://github.com/airbytehq/airbyte)** — Open-source data movement for ELT pipelines and AI agents — from APIs, databases &amp; files to warehouses, lakes, and AI applications. Both self-hosted and Cloud. ⭐ 22330
+
+5. **[NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)** — TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT  ⭐ 15032
+
+6. **[antoniaci/blackbird](https://github.com/antoniaci/blackbird)** — An OSINT tool to search for accounts by username and email in social networks. ⭐ 9871
+
+7. **[pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai)** — The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 50+ connectors) into a permission-aware workspace that agents can se ⭐ 4034
+
+8. **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 ⭐ 3783
+
+9. **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** — Agent skill: describe your stack in a sentence, get an architecture diagram with official logos ⭐ 1998
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-06</strong></summary>
 
 #### Papers
