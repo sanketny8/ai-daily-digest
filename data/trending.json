@@ -1,147 +1,119 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "papers": [
     {
-      "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
-      "url": "https://arxiv.org/abs/2611.06500",
-      "summary": "Large language model (LLM) agents typically append raw tool outputs to their context. Over multi-step interactions, long and noisy observations incur substantial context overhead and dilute the agent'"
-    },
-    {
-      "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2611.06498",
-      "summary": "Offline retrieval-augmented generation (RAG) on edge devices is updated through signed knowledge packs that carry text and precomputed embedding vectors. A signature proves who published a pack, not t"
-    },
-    {
-      "title": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
-      "url": "https://arxiv.org/abs/2611.04386",
-      "summary": "A deployable text-to-image diffusion model must hold several capabilities at once, such as instruction following, text rendering and human preference, and must sample in a few steps. Capabilities and "
+      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+      "url": "http://arxiv.org/abs/2611.08487v1",
+      "summary": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in"
     },
     {
       "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-      "url": "https://arxiv.org/abs/2611.08483",
+      "url": "http://arxiv.org/abs/2611.08483v1",
       "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process"
     },
     {
-      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "url": "https://arxiv.org/abs/2610.37739",
-      "summary": "Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level pr"
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "url": "http://arxiv.org/abs/2611.08478v1",
+      "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc"
     },
     {
-      "title": "Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling",
-      "url": "https://arxiv.org/abs/2611.08237",
-      "summary": "Mathematical modeling turns an open-ended real-world problem into assumptions, a model, a solution, and a defended recommendation, and its answers matter only if they are both close to a credible refe"
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "url": "http://arxiv.org/abs/2611.08472v1",
+      "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repos"
     },
     {
-      "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout",
-      "url": "https://arxiv.org/abs/2611.08376",
-      "summary": "Linear attention compresses context into a fixed-size key-value state for linear-time training and constant-memory inference. Gated delta-rule models decay this state and erase its prediction for an i"
+      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+      "url": "http://arxiv.org/abs/2611.08469v1",
+      "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, n"
     },
     {
-      "title": "Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space",
-      "url": "https://arxiv.org/abs/2609.37820",
-      "summary": "When firms respond to new market opportunities, their capacity choices alter the future discounted free cash flows available to both competitors and investors. In competitive markets, these investment"
+      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+      "url": "http://arxiv.org/abs/2611.08465v1",
+      "summary": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus con"
     },
     {
-      "title": "Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens",
-      "url": "https://arxiv.org/abs/2611.07298",
-      "summary": "Embedding models compress variable-length text into fixed-size vector representations, but this compression can entangle semantic content with residual token-level information, such as artifacts arisi"
+      "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
+      "url": "http://arxiv.org/abs/2611.08457v1",
+      "summary": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the "
     },
     {
-      "title": "Hard Sample-Conditioned Decorrelated Attention for Robust Face Recognition",
-      "url": "https://arxiv.org/abs/2610.41789",
-      "summary": "Multi-head attention in Vision Transformers (ViTs) allows independent attention patterns across heads, but without explicit regularization, heads may learn redundant patterns rather than complementary"
+      "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+      "url": "http://arxiv.org/abs/2611.08453v1",
+      "summary": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy com"
+    },
+    {
+      "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "url": "http://arxiv.org/abs/2611.08452v1",
+      "summary": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success c"
+    },
+    {
+      "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
+      "url": "http://arxiv.org/abs/2611.08445v1",
+      "summary": "A defender anticipating an attacker needs a probability distribution over the attacker's next action from information available before that action occurs. Two structures complicate this: the attacker'"
     }
   ],
   "blog_posts": [
     {
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "author": "blog.google"
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "author": "apiiro.com"
     },
     {
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "author": "bloomberg.com"
-    },
-    {
-      "title": "AI for scientific discovery: How researchers use Claude",
-      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
       "author": "anthropic.com"
     },
     {
-      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-      "author": "community.openai.com"
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "author": "github.com"
     },
     {
-      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
-      "url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp",
-      "author": "Jem"
+      "title": "An agent told me it deployed. I asked the server, and the containers were a day old",
+      "url": "https://dev.to/chet103cc/an-agent-told-me-it-deployed-i-asked-the-server-and-the-containers-were-a-day-old-2b6i",
+      "author": "chet100"
+    },
+    {
+      "title": "You tried git-lrc. Meet LiveReview 👀",
+      "url": "https://dev.to/lovestaco/you-tried-git-lrc-meet-livereview-7od",
+      "author": "Athreya aka Maneshwar"
     }
   ],
   "repos": [
     {
-      "name": "rails/rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
-      "stars": 59061,
-      "language": "Ruby"
-    },
-    {
-      "name": "apache/airflow",
-      "url": "https://github.com/apache/airflow",
-      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-      "stars": 47404,
+      "name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "📚 Freely available programming books",
+      "stars": 401241,
       "language": "Python"
     },
     {
-      "name": "mlflow/mlflow",
-      "url": "https://github.com/mlflow/mlflow",
-      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin",
-      "stars": 28709,
-      "language": "Python"
-    },
-    {
-      "name": "airbytehq/airbyte",
-      "url": "https://github.com/airbytehq/airbyte",
-      "description": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases &amp; files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
-      "stars": 22330,
-      "language": "Python"
-    },
-    {
-      "name": "NVIDIA/TensorRT-LLM",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM",
-      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT ",
-      "stars": 15032,
-      "language": "Python"
-    },
-    {
-      "name": "antoniaci/blackbird",
-      "url": "https://github.com/antoniaci/blackbird",
-      "description": "An OSINT tool to search for accounts by username and email in social networks.",
-      "stars": 9871,
-      "language": "Python"
-    },
-    {
-      "name": "pipeshub-ai/pipeshub-ai",
-      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
-      "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 50+ connectors) into a permission-aware workspace that agents can se",
-      "stars": 4034,
-      "language": "Python"
-    },
-    {
-      "name": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "stars": 3783,
+      "name": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "stars": 98586,
       "language": "TypeScript"
     },
     {
-      "name": "caru-ini/stack-diagram",
-      "url": "https://github.com/caru-ini/stack-diagram",
-      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "stars": 1998,
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 60034,
+      "language": "Python"
+    },
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 14799,
       "language": "TypeScript"
+    },
+    {
+      "name": "elder-plinius/OBLITERATUS",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "stars": 9292,
+      "language": "Python"
     }
   ],
   "tweets": []

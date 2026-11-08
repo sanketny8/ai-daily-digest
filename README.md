@@ -10,6 +10,61 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-08</strong></summary>
+
+#### Papers
+
+1. **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)**
+
+2. **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1)**
+
+3. **[Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1)**
+
+4. **[XStack: A Benchmark for ML Repo Migration](http://arxiv.org/abs/2611.08472v1)**
+
+5. **[Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information](http://arxiv.org/abs/2611.08469v1)**
+
+6. **[Towards interpreting any residual stream direction by scaling activation inversion](http://arxiv.org/abs/2611.08465v1)**
+
+7. **[Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness](http://arxiv.org/abs/2611.08457v1)**
+
+8. **[Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO](http://arxiv.org/abs/2611.08453v1)**
+
+9. **[ReproBridge: Building Reproducibility into ML Research Artifacts](http://arxiv.org/abs/2611.08452v1)**
+
+10. **[A Hidden Markov Preference Model for Online Prediction of Adversary Actions](http://arxiv.org/abs/2611.08445v1)**
+
+
+#### Blog Posts
+
+1. **[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)** by apiiro.com
+
+2. **[The Components of Agent Memory](https://www.anthropic.com/research/components-of-agent-memory)** by anthropic.com
+
+3. **[Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash)** by github.com
+
+4. **[An agent told me it deployed. I asked the server, and the containers were a day old](https://dev.to/chet103cc/an-agent-told-me-it-deployed-i-asked-the-server-and-the-containers-were-a-day-old-2b6i)** by chet100
+
+5. **[You tried git-lrc. Meet LiveReview 👀](https://dev.to/lovestaco/you-tried-git-lrc-meet-livereview-7od)** by Athreya aka Maneshwar
+
+
+#### Trending Repos
+
+1. **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)** — 📚 Freely available programming books ⭐ 401241
+
+2. **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** — A utility-first CSS framework for rapid UI development. ⭐ 98586
+
+3. **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** — The open-source AI voice studio. Clone, dictate, create. ⭐ 60034
+
+4. **[meta/astryx](https://github.com/meta/astryx)** — An open source design system that's fully customizable and agent ready ⭐ 14799
+
+5. **[elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)** — OBLITERATE THE CHAINS THAT BIND YOU ⭐ 9292
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-07</strong></summary>
 
 #### Papers

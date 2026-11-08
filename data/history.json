@@ -1,31 +1,4 @@
 {
-  "2026-10-08": {
-    "papers": [
-      "https://arxiv.org/abs/2610.03799",
-      "https://arxiv.org/abs/2610.10533",
-      "https://arxiv.org/abs/2610.09684",
-      "https://arxiv.org/abs/2610.03185",
-      "https://arxiv.org/abs/2610.07250",
-      "https://arxiv.org/abs/2610.08995",
-      "https://arxiv.org/abs/2610.10497",
-      "https://arxiv.org/abs/2610.09228",
-      "https://arxiv.org/abs/2610.09832",
-      "https://arxiv.org/abs/2610.02368"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/claude-haiku-5-5",
-      "https://openai.com/index/gpt-6-for-everyone/",
-      "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
-      "https://agent.reviews/"
-    ],
-    "repos": [
-      "https://github.com/vllm-project/vllm",
-      "https://github.com/manaflow-ai/cmux",
-      "https://github.com/allenai/olmocr",
-      "https://github.com/MDX-Tom/gpt-instruct"
-    ]
-  },
   "2026-10-09": {
     "papers": [
       "https://arxiv.org/abs/2610.08917",
@@ -898,6 +871,34 @@
       "https://github.com/pipeshub-ai/pipeshub-ai",
       "https://github.com/KKKKhazix/agent-autoloop",
       "https://github.com/caru-ini/stack-diagram"
+    ]
+  },
+  "2026-11-08": {
+    "papers": [
+      "http://arxiv.org/abs/2611.08487v1",
+      "http://arxiv.org/abs/2611.08483v1",
+      "http://arxiv.org/abs/2611.08478v1",
+      "http://arxiv.org/abs/2611.08472v1",
+      "http://arxiv.org/abs/2611.08469v1",
+      "http://arxiv.org/abs/2611.08465v1",
+      "http://arxiv.org/abs/2611.08457v1",
+      "http://arxiv.org/abs/2611.08453v1",
+      "http://arxiv.org/abs/2611.08452v1",
+      "http://arxiv.org/abs/2611.08445v1"
+    ],
+    "blogs": [
+      "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "https://www.anthropic.com/research/components-of-agent-memory",
+      "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "https://dev.to/chet103cc/an-agent-told-me-it-deployed-i-asked-the-server-and-the-containers-were-a-day-old-2b6i",
+      "https://dev.to/lovestaco/you-tried-git-lrc-meet-livereview-7od"
+    ],
+    "repos": [
+      "https://github.com/EbookFoundation/free-programming-books",
+      "https://github.com/tailwindlabs/tailwindcss",
+      "https://github.com/jamiepine/voicebox",
+      "https://github.com/meta/astryx",
+      "https://github.com/elder-plinius/OBLITERATUS"
     ]
   }
 }
