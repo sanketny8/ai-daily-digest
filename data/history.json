@@ -1,32 +1,4 @@
 {
-  "2026-10-09": {
-    "papers": [
-      "https://arxiv.org/abs/2610.08917",
-      "https://arxiv.org/abs/2609.34344",
-      "https://arxiv.org/abs/2609.31507",
-      "https://arxiv.org/abs/2605.22949",
-      "https://arxiv.org/abs/2610.08941",
-      "https://arxiv.org/abs/2610.11959",
-      "https://arxiv.org/abs/2501.09223",
-      "https://arxiv.org/abs/2610.12461",
-      "https://arxiv.org/abs/2610.09639",
-      "https://arxiv.org/abs/2610.12452"
-    ],
-    "blogs": [
-      "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "https://twitter.com/danintheory/status/2108065033070789090",
-      "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "https://karagila.org/2026/openai-pp/",
-      "https://opper.ai/jevman-benchmark/"
-    ],
-    "repos": [
-      "https://github.com/microsoft/agent-framework",
-      "https://github.com/Tracer-Cloud/opensre",
-      "https://github.com/CursorTouch/Windows-MCP",
-      "https://github.com/mhtsec/ARTEX",
-      "https://github.com/jiwoochris/artex-ko"
-    ]
-  },
   "2026-10-10": {
     "papers": [
       "https://arxiv.org/abs/2610.11216",
@@ -899,6 +871,37 @@
       "https://github.com/jamiepine/voicebox",
       "https://github.com/meta/astryx",
       "https://github.com/elder-plinius/OBLITERATUS"
+    ]
+  },
+  "2026-11-09": {
+    "papers": [
+      "https://arxiv.org/abs/2611.08290",
+      "https://arxiv.org/abs/2611.06856",
+      "https://arxiv.org/abs/2611.07723",
+      "https://arxiv.org/abs/2611.03953",
+      "https://arxiv.org/abs/2611.08264",
+      "https://arxiv.org/abs/2611.04720",
+      "https://arxiv.org/abs/2611.01362",
+      "https://arxiv.org/abs/2610.36896",
+      "https://arxiv.org/abs/2611.06808",
+      "https://arxiv.org/abs/2611.09017"
+    ],
+    "blogs": [
+      "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "https://github.com/synchopate/llama-modchip",
+      "https://dev.to/chet103cc/what-gets-refused-on-seedance-and-how-the-two-review-layers-differ-1fpa",
+      "https://www.youtube.com/watch?v=5D7QPOIZ7gY"
+    ],
+    "repos": [
+      "https://github.com/bradautomates/claude-video",
+      "https://github.com/anthropics/claude-quickstarts",
+      "https://github.com/neuml/txtai",
+      "https://github.com/BigBodyCobain/Shadowbroker",
+      "https://github.com/SWE-agent/mini-swe-agent",
+      "https://github.com/sarpstar/cinecode",
+      "https://github.com/Sandflow-ai/sand3d",
+      "https://github.com/shanselman/gputaskman",
+      "https://github.com/voyager-so/vork"
     ]
   }
 }

@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-09</strong></summary>
+
+#### Papers
+
+1. **[AutoCompress: Automated Hardware-Guided Model Compression](https://arxiv.org/abs/2611.08290)**
+
+2. **[LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis](https://arxiv.org/abs/2611.06856)**
+
+3. **[Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding](https://arxiv.org/abs/2611.07723)**
+
+4. **[P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors](https://arxiv.org/abs/2611.03953)**
+
+5. **[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://arxiv.org/abs/2611.08264)**
+
+6. **[OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer](https://arxiv.org/abs/2611.04720)**
+
+7. **["PRISM" Is Not All You Need: Cross-Topic Name Collisions and Scientific Paper Retrieval](https://arxiv.org/abs/2611.01362)**
+
+8. **[PREEN: Exemplar-Based Color Style Transfer with Smartphone Editor Presets](https://arxiv.org/abs/2610.36896)**
+
+9. **[LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting](https://arxiv.org/abs/2611.06808)**
+
+10. **[Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds](https://arxiv.org/abs/2611.09017)**
+
+
+#### Blog Posts
+
+1. **[Goldman Sachs is pulling Claude Code from its bankers and traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)** by thestateofai.com
+
+2. **[Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)** by github.com
+
+3. **[What gets refused on Seedance, and how the two review layers differ](https://dev.to/chet103cc/what-gets-refused-on-seedance-and-how-the-two-review-layers-differ-1fpa)** by chet100
+
+4. **[Reflections on Rust in the LLM Age](https://www.youtube.com/watch?v=5D7QPOIZ7gY)** by rrampage
+
+
+#### Trending Repos
+
+1. **[bradautomates/claude-video](https://github.com/bradautomates/claude-video)** — Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. ⭐ 20282
+
+2. **[anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)** — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API ⭐ 19638
+
+3. **[neuml/txtai](https://github.com/neuml/txtai)** — 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows ⭐ 13187
+
+4. **[BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** — Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to ⭐ 11507
+
+5. **[SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)** — The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified! ⭐ 9438
+
+6. **[sarpstar/cinecode](https://github.com/sarpstar/cinecode)** — Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4. ⭐ 1705
+
+7. **[Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)** — 3D modeling in Python, built for LLMs. ⭐ 1500
+
+8. **[shanselman/gputaskman](https://github.com/shanselman/gputaskman)** — A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA). ⭐ 1231
+
+9. **[voyager-so/vork](https://github.com/voyager-so/vork)** — Headless 3D and VFX engine for agents. Research preview. ⭐ 1199
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-08</strong></summary>
 
 #### Papers
