@@ -1,31 +1,4 @@
 {
-  "2026-10-10": {
-    "papers": [
-      "https://arxiv.org/abs/2610.11216",
-      "https://arxiv.org/abs/2609.38527",
-      "https://arxiv.org/abs/2610.09280",
-      "https://arxiv.org/abs/2609.33987",
-      "https://arxiv.org/abs/2610.11169",
-      "https://arxiv.org/abs/2610.11975",
-      "https://arxiv.org/abs/2606.03335",
-      "https://arxiv.org/abs/2609.35855",
-      "https://arxiv.org/abs/2610.08585",
-      "https://arxiv.org/abs/2610.09146"
-    ],
-    "blogs": [
-      "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "https://www.linum.ai/field-notes/pyramid-jit"
-    ],
-    "repos": [
-      "https://github.com/datawhalechina/hello-agents",
-      "https://github.com/headroomlabs-ai/headroom",
-      "https://github.com/BerriAI/litellm",
-      "https://github.com/hugohe3/ppt-master",
-      "https://github.com/K-Dense-AI/scientific-agent-skills"
-    ]
-  },
   "2026-10-11": {
     "papers": [
       "http://arxiv.org/abs/2610.12467v1",
@@ -902,6 +875,38 @@
       "https://github.com/Sandflow-ai/sand3d",
       "https://github.com/shanselman/gputaskman",
       "https://github.com/voyager-so/vork"
+    ]
+  },
+  "2026-11-10": {
+    "papers": [
+      "https://arxiv.org/abs/2611.09987",
+      "https://arxiv.org/abs/2611.12806",
+      "https://arxiv.org/abs/2611.10123",
+      "https://arxiv.org/abs/2611.12324",
+      "https://arxiv.org/abs/2611.12762",
+      "https://arxiv.org/abs/2611.08240",
+      "https://arxiv.org/abs/2611.10329",
+      "https://arxiv.org/abs/2611.02810",
+      "https://arxiv.org/abs/2611.05791",
+      "https://arxiv.org/abs/2611.10987"
+    ],
+    "blogs": [
+      "https://github.com/thisisme6598/gemini_files/",
+      "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "https://research.meta.ai/blog/muse-ember",
+      "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+      "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
+      "https://dev.to/thebitforge/everyone-is-building-ai-to-replace-developers-nobody-is-building-the-plan-for-what-comes-after-4a5o"
+    ],
+    "repos": [
+      "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "https://github.com/soxoj/maigret",
+      "https://github.com/garrytan/gbrain",
+      "https://github.com/opensandbox-group/OpenSandbox",
+      "https://github.com/homeassistant-ai/ha-mcp",
+      "https://github.com/DIYgod/pinky"
     ]
   }
 }

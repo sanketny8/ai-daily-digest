@@ -10,6 +10,69 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-10</strong></summary>
+
+#### Papers
+
+1. **[Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition](https://arxiv.org/abs/2611.09987)**
+
+2. **[Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://arxiv.org/abs/2611.12806)**
+
+3. **[All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States](https://arxiv.org/abs/2611.10123)**
+
+4. **[How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time](https://arxiv.org/abs/2611.12324)**
+
+5. **[Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery](https://arxiv.org/abs/2611.12762)**
+
+6. **[FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2611.08240)**
+
+7. **[SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research](https://arxiv.org/abs/2611.10329)**
+
+8. **[TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation](https://arxiv.org/abs/2611.02810)**
+
+9. **[FlyHash for LLM Agent Memory: An Empirical Validation and a New Application](https://arxiv.org/abs/2611.05791)**
+
+10. **[Horizon-Scalable Q-Learning](https://arxiv.org/abs/2611.10987)**
+
+
+#### Blog Posts
+
+1. **[Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)** by github.com
+
+2. **[Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)** by anthropic.com
+
+3. **[Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far](https://artificialanalysis.ai/models/claude-fable-5-2)** by artificialanalysis.ai
+
+4. **[Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/)** by anthropocenemagazine.org
+
+5. **[Muse Ember: Our smallest, most efficient model](https://research.meta.ai/blog/muse-ember)** by research.meta.ai
+
+6. **[DeepX claims inference up to 100B parameters at less than 5 W](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)** by eetimes.com
+
+7. **[Our Looping Factory Cut DEV Page Load Time by 75% and Counting](https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf)** by Ben Halpern
+
+8. **[Everyone Is Building AI to Replace Developers. Nobody Is Building the Plan for What Comes After.](https://dev.to/thebitforge/everyone-is-building-ai-to-replace-developers-nobody-is-building-the-plan-for-what-comes-after-4a5o)** by TheBitForge
+
+
+#### Trending Repos
+
+1. **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr ⭐ 69334
+
+2. **[soxoj/maigret](https://github.com/soxoj/maigret)** — 🕵️‍♂️ Collect a dossier on a person by username from 6K websites ⭐ 39925
+
+3. **[garrytan/gbrain](https://github.com/garrytan/gbrain)** — Garry's Opinionated OpenClaw/Hermes Agent Brain ⭐ 32351
+
+4. **[opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)** — Secure, Fast, and Extensible Sandbox runtime for AI agents. ⭐ 17037
+
+5. **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. ⭐ 6232
+
+6. **[DIYgod/pinky](https://github.com/DIYgod/pinky)** — Let AI agents use your phone, with you in the loop. ⭐ 1562
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-09</strong></summary>
 
 #### Papers
