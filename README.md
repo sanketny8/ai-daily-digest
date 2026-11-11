@@ -10,6 +10,59 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-11</strong></summary>
+
+#### Papers
+
+1. **[FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance](https://arxiv.org/abs/2611.07464)**
+
+2. **[WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning](https://arxiv.org/abs/2611.12527)**
+
+3. **[EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery](https://arxiv.org/abs/2611.12934)**
+
+4. **[Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning](https://arxiv.org/abs/2611.12865)**
+
+5. **[Are Dense Rewards Worth Their Tokens in GRPO?](https://arxiv.org/abs/2611.13560)**
+
+6. **[Market-Conditioned JEPA: Learning from Unpredictable Market Shocks](https://arxiv.org/abs/2611.13572)**
+
+7. **[Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](https://arxiv.org/abs/2611.14210)**
+
+8. **[MMDM: Measuring Massive Multitask Decision Making](https://arxiv.org/abs/2611.14309)**
+
+9. **[EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding](https://arxiv.org/abs/2611.13907)**
+
+10. **[Learning to Act with World Models by Valuing What Comes Next](https://arxiv.org/abs/2611.12200)**
+
+
+#### Blog Posts
+
+1. **[AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)** by evanxmerz.com
+
+2. **[Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)** by 9to5mac.com
+
+3. **[What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)** by alexwang.ai
+
+4. **[An Open Field Guide to Inference Engineering](https://docs.modelplane.ai/guides/inference-guide)** by docs.modelplane.ai
+
+5. **[Saltline: First-person shooter built by Fable 5.2](https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp)** by claude.ai
+
+6. **[Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini](https://dev.to/m4rri4nne/detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini-4kan)** by Alicia Marianne Gonçalves
+
+
+#### Trending Repos
+
+1. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — Production-grade engineering skills for AI coding agents. ⭐ 115420
+
+2. **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** — The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i ⭐ 39679
+
+3. **[figma/mcp-server-guide](https://github.com/figma/mcp-server-guide)** — A guide on how to use the Figma MCP server ⭐ 2171
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-10</strong></summary>
 
 #### Papers

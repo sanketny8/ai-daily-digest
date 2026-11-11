@@ -1,34 +1,4 @@
 {
-  "2026-10-11": {
-    "papers": [
-      "http://arxiv.org/abs/2610.12467v1",
-      "http://arxiv.org/abs/2610.12466v1",
-      "http://arxiv.org/abs/2610.12465v1",
-      "http://arxiv.org/abs/2610.12463v1",
-      "http://arxiv.org/abs/2610.12452v1",
-      "http://arxiv.org/abs/2610.12448v1",
-      "http://arxiv.org/abs/2610.12449v1",
-      "http://arxiv.org/abs/2610.12445v1",
-      "http://arxiv.org/abs/2610.12444v1",
-      "http://arxiv.org/abs/2610.12437v1"
-    ],
-    "blogs": [
-      "https://github.com/rociiu/talorys",
-      "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "https://epoch.ai/publications/innovationeval",
-      "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk"
-    ],
-    "repos": [
-      "https://github.com/multica-ai/andrej-karpathy-skills",
-      "https://github.com/sgl-project/sglang",
-      "https://github.com/mksglu/context-mode",
-      "https://github.com/Robbyant/lingbot-map",
-      "https://github.com/BitterSecurity/Decepticon",
-      "https://github.com/LosaLosSantos/aurelio-finance"
-    ]
-  },
   "2026-10-12": {
     "papers": [
       "https://arxiv.org/abs/2610.09607",
@@ -907,6 +877,33 @@
       "https://github.com/opensandbox-group/OpenSandbox",
       "https://github.com/homeassistant-ai/ha-mcp",
       "https://github.com/DIYgod/pinky"
+    ]
+  },
+  "2026-11-11": {
+    "papers": [
+      "https://arxiv.org/abs/2611.07464",
+      "https://arxiv.org/abs/2611.12527",
+      "https://arxiv.org/abs/2611.12934",
+      "https://arxiv.org/abs/2611.12865",
+      "https://arxiv.org/abs/2611.13560",
+      "https://arxiv.org/abs/2611.13572",
+      "https://arxiv.org/abs/2611.14210",
+      "https://arxiv.org/abs/2611.14309",
+      "https://arxiv.org/abs/2611.13907",
+      "https://arxiv.org/abs/2611.12200"
+    ],
+    "blogs": [
+      "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "https://docs.modelplane.ai/guides/inference-guide",
+      "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+      "https://dev.to/m4rri4nne/detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini-4kan"
+    ],
+    "repos": [
+      "https://github.com/addyosmani/agent-skills",
+      "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "https://github.com/figma/mcp-server-guide"
     ]
   }
 }

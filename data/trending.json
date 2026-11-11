@@ -1,141 +1,110 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "papers": [
     {
-      "title": "Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition",
-      "url": "https://arxiv.org/abs/2611.09987",
-      "summary": "Vision Transformers (ViTs) perform strongly in face recognition (FR), yet their fixed-depth inference limits deployment in resource-constrained settings. We propose SD-ViT, a training framework that g"
+      "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
+      "url": "https://arxiv.org/abs/2611.07464",
+      "summary": "Language agents increasingly work for users on the open Web, and finance is where trusting them is hardest. The data must come from the Web, the strategy lives in the user's head, and correctness depe"
     },
     {
-      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-      "url": "https://arxiv.org/abs/2611.12806",
-      "summary": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactil"
+      "title": "WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning",
+      "url": "https://arxiv.org/abs/2611.12527",
+      "summary": "This work proposes WaveGen, a fully end-to-end diffusion-based text-to-waveform framework based on Spectral Forcing, which jointly learns an internal spectral trajectory and the target waveform trajec"
     },
     {
-      "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
-      "url": "https://arxiv.org/abs/2611.10123",
-      "summary": "Can a language model report the pain state it represents? Work identified a linear pain direction whose amplification leads fine-tuned models to choose destructive actions. We tested whether three ope"
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "url": "https://arxiv.org/abs/2611.12934",
+      "summary": "While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, re"
     },
     {
-      "title": "How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time",
-      "url": "https://arxiv.org/abs/2611.12324",
-      "summary": "World models enable agents to plan and learn from imagined experience, but in an unfamiliar environment they must learn its mechanics from limited interaction. A mechanic is a rule for how an action o"
+      "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+      "url": "https://arxiv.org/abs/2611.12865",
+      "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including rewar"
     },
     {
-      "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
-      "url": "https://arxiv.org/abs/2611.12762",
-      "summary": "We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring a"
+      "title": "Are Dense Rewards Worth Their Tokens in GRPO?",
+      "url": "https://arxiv.org/abs/2611.13560",
+      "summary": "RLVR trains language models to reason by rewarding correct final answers. A widely used algorithm, group-relative policy optimization (GRPO), gives every token of a solution the same credit, so dense "
     },
     {
-      "title": "FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.08240",
-      "summary": "Reinforcement learning (RL) has become a standard post-training method for diffusion models, but most RL objectives roll out the current policy at every iteration, and with a many-step sampler these r"
+      "title": "Market-Conditioned JEPA: Learning from Unpredictable Market Shocks",
+      "url": "https://arxiv.org/abs/2611.13572",
+      "summary": "Much of the variation in financial time series is driven by market-wide shocks that cannot be predicted from an asset's own history. Per-asset self-supervised learning treats this variation as irreduc"
     },
     {
-      "title": "SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research",
-      "url": "https://arxiv.org/abs/2611.10329",
-      "summary": "LLM agents increasingly drive systems research and rely on simulators to evaluate candidate designs at scale. Simulators are imperfect by design: their modeling limitations can distort predictions yet"
+      "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+      "url": "https://arxiv.org/abs/2611.14210",
+      "summary": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning l"
     },
     {
-      "title": "TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2611.02810",
-      "summary": "This paper studies retrieval-augmented generation (RAG), which leverages external knowledge to improve the performance of language models. Despite the remarkable progress, current RAG approaches are s"
+      "title": "MMDM: Measuring Massive Multitask Decision Making",
+      "url": "https://arxiv.org/abs/2611.14309",
+      "summary": "System-1 Decision Models directly make structured probabilistic decisions over query-specified options given a state in a single forward pass, without autoregressively generating reasoning trajectorie"
     },
     {
-      "title": "FlyHash for LLM Agent Memory: An Empirical Validation and a New Application",
-      "url": "https://arxiv.org/abs/2611.05791",
-      "summary": "Large language model (LLM) agents increasingly rely on external memory stores to retain information across conversations, typically via dense vector embeddings searched with approximate nearest-neighb"
+      "title": "EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding",
+      "url": "https://arxiv.org/abs/2611.13907",
+      "summary": "Under a fixed frame budget, video understanding with vision-language models (VLMs) depends on whether the sampled frames provide sufficient evidence for the question. Sufficient frame evidence support"
     },
     {
-      "title": "Horizon-Scalable Q-Learning",
-      "url": "https://arxiv.org/abs/2611.10987",
-      "summary": "Learning accurate off-policy state-action value functions (Q-functions) from offline datasets becomes harder as the task horizon grows. One-step temporal-difference (TD) learning bootstraps after ever"
+      "title": "Learning to Act with World Models by Valuing What Comes Next",
+      "url": "https://arxiv.org/abs/2611.12200",
+      "summary": "A sparse terminal reward tells an agent little about its steps. Much of the missing information is implicit in the environment's dynamics, because each state transition can change the conditions for s"
     }
   ],
   "blog_posts": [
     {
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "author": "github.com"
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "author": "evanxmerz.com"
     },
     {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "author": "anthropic.com"
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "author": "9to5mac.com"
     },
     {
-      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "author": "artificialanalysis.ai"
+      "title": "What objective is reasoning solving?",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "author": "alexwang.ai"
     },
     {
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "author": "anthropocenemagazine.org"
+      "title": "An Open Field Guide to Inference Engineering",
+      "url": "https://docs.modelplane.ai/guides/inference-guide",
+      "author": "docs.modelplane.ai"
     },
     {
-      "title": "Muse Ember: Our smallest, most efficient model",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "author": "research.meta.ai"
+      "title": "Saltline: First-person shooter built by Fable 5.2",
+      "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+      "author": "claude.ai"
     },
     {
-      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-      "author": "eetimes.com"
-    },
-    {
-      "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
-      "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
-      "author": "Ben Halpern"
-    },
-    {
-      "title": "Everyone Is Building AI to Replace Developers. Nobody Is Building the Plan for What Comes After.",
-      "url": "https://dev.to/thebitforge/everyone-is-building-ai-to-replace-developers-nobody-is-building-the-plan-for-what-comes-after-4a5o",
-      "author": "TheBitForge"
+      "title": "Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini",
+      "url": "https://dev.to/m4rri4nne/detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini-4kan",
+      "author": "Alicia Marianne Gonçalves"
     }
   ],
   "repos": [
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
-      "stars": 69334,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 115420,
+      "language": "JavaScript"
+    },
+    {
+      "name": "ashishpatel26/500-AI-Agents-Projects",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i",
+      "stars": 39679,
       "language": "Python"
     },
     {
-      "name": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
-      "stars": 39925,
+      "name": "figma/mcp-server-guide",
+      "url": "https://github.com/figma/mcp-server-guide",
+      "description": "A guide on how to use the Figma MCP server",
+      "stars": 2171,
       "language": "Python"
-    },
-    {
-      "name": "garrytan/gbrain",
-      "url": "https://github.com/garrytan/gbrain",
-      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-      "stars": 32351,
-      "language": "TypeScript"
-    },
-    {
-      "name": "opensandbox-group/OpenSandbox",
-      "url": "https://github.com/opensandbox-group/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 17037,
-      "language": "Python"
-    },
-    {
-      "name": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "stars": 6232,
-      "language": "Python"
-    },
-    {
-      "name": "DIYgod/pinky",
-      "url": "https://github.com/DIYgod/pinky",
-      "description": "Let AI agents use your phone, with you in the loop.",
-      "stars": 1562,
-      "language": "Go"
     }
   ],
   "tweets": []
