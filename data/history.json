@@ -1,31 +1,4 @@
 {
-  "2026-10-12": {
-    "papers": [
-      "https://arxiv.org/abs/2610.09607",
-      "https://arxiv.org/abs/2610.11993",
-      "https://arxiv.org/abs/2610.10288",
-      "https://arxiv.org/abs/2610.12341",
-      "https://arxiv.org/abs/2610.13171",
-      "https://arxiv.org/abs/2610.12984",
-      "https://arxiv.org/abs/2610.00898",
-      "https://arxiv.org/abs/2610.12611",
-      "https://arxiv.org/abs/2610.12939",
-      "https://arxiv.org/abs/2610.13118"
-    ],
-    "blogs": [
-      "https://dev.to/georgekobaidze/georgian-language-benchmark-two-biggest-ai-labs-clash-in-a-language-that-doesnt-play-by-anyones-5b22",
-      "https://dev.to/bennykillua/going-outside-was-never-my-problem-saying-hello-was-570i",
-      "https://dev.to/earlgreyhot1701d/readme-clew-2-built-with-adal-labeled-by-jev-judged-by-code-explained-by-haiku-196e",
-      "https://dev.to/kenielzep97/a-reader-showed-me-what-my-auditer-wasnt-counting-3o7b",
-      "https://medium.com/@elliewatkins096/what-90-days-with-makesyoufluent-taught-me-about-actually-learning-a-language-3df66d905e69",
-      "https://medium.com/@filmkarigar/when-every-picture-can-be-fake-even-the-truth-becomes-deniable-a13f11da4b93"
-    ],
-    "repos": [
-      "https://github.com/lyogavin/airllm",
-      "https://github.com/repowise-dev/repowise",
-      "https://github.com/wheresryan22/anatomy"
-    ]
-  },
   "2026-10-13": {
     "papers": [
       "https://arxiv.org/abs/2610.09326",
@@ -904,6 +877,37 @@
       "https://github.com/addyosmani/agent-skills",
       "https://github.com/ashishpatel26/500-AI-Agents-Projects",
       "https://github.com/figma/mcp-server-guide"
+    ]
+  },
+  "2026-11-12": {
+    "papers": [
+      "https://arxiv.org/abs/2611.13410",
+      "https://arxiv.org/abs/2611.13758",
+      "https://arxiv.org/abs/2611.08379",
+      "https://arxiv.org/abs/2608.22237",
+      "https://arxiv.org/abs/2611.08286",
+      "https://arxiv.org/abs/2610.40394",
+      "https://arxiv.org/abs/2607.24999",
+      "https://arxiv.org/abs/2603.27343",
+      "https://arxiv.org/abs/2611.10193",
+      "https://arxiv.org/abs/2610.39671"
+    ],
+    "blogs": [
+      "https://pietromiotti.com/latest/maya-site",
+      "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "https://machinelearning.apple.com/research/faster-retrieval",
+      "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
+      "https://github.com/klad-app/klad",
+      "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "https://oshea00.github.io/posts/tinygpt-visualizer/"
+    ],
+    "repos": [
+      "https://github.com/browser-use/browser-use",
+      "https://github.com/experientiallabs/experiential",
+      "https://github.com/openai/codex-security",
+      "https://github.com/shy3130/tick-stock-panel",
+      "https://github.com/AminBlg/SimpleEnglish"
     ]
   }
 }

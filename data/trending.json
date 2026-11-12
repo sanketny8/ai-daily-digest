@@ -1,109 +1,133 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "papers": [
     {
-      "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
-      "url": "https://arxiv.org/abs/2611.07464",
-      "summary": "Language agents increasingly work for users on the open Web, and finance is where trusting them is hardest. The data must come from the Web, the strategy lives in the user's head, and correctness depe"
+      "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+      "url": "https://arxiv.org/abs/2611.13410",
+      "summary": "Low-bit quantization reduces the inference cost of LLM agents but can compromise task success. Examining failed rollouts, we find that quantized agents overlook task requirements or environmental cond"
     },
     {
-      "title": "WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning",
-      "url": "https://arxiv.org/abs/2611.12527",
-      "summary": "This work proposes WaveGen, a fully end-to-end diffusion-based text-to-waveform framework based on Spectral Forcing, which jointly learns an internal spectral trajectory and the target waveform trajec"
+      "title": "Mixed Signals: Weight-Space Programming for EEG and ECG",
+      "url": "https://arxiv.org/abs/2611.13758",
+      "summary": "Weight-space programming allows language models to read a trained neural network's weights and edit them. This opens the door to ``training'' by reasoning rather than through gradient descent. Prior w"
     },
     {
-      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-      "url": "https://arxiv.org/abs/2611.12934",
-      "summary": "While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, re"
+      "title": "Module-Aware Optimization for Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2611.08379",
+      "summary": "Different optimizers impose different geometries on parameter updates. Adaptive methods such as Adam and AdamW use coordinate-wise updates, while matrix-aware optimizers such as Muon utilize weight-ma"
     },
     {
-      "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
-      "url": "https://arxiv.org/abs/2611.12865",
-      "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including rewar"
+      "title": "Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+      "url": "https://arxiv.org/abs/2608.22237",
+      "summary": "Web-facing AI agents repeatedly access webpages, documents, repositories, and tool responses, yet reading interfaces often expose entire objects when only sparse evidence is needed. This over-reading "
     },
     {
-      "title": "Are Dense Rewards Worth Their Tokens in GRPO?",
-      "url": "https://arxiv.org/abs/2611.13560",
-      "summary": "RLVR trains language models to reason by rewarding correct final answers. A widely used algorithm, group-relative policy optimization (GRPO), gives every token of a solution the same credit, so dense "
+      "title": "Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds",
+      "url": "https://arxiv.org/abs/2611.08286",
+      "summary": "Visual interaction models that support users during ongoing physical tasks require evaluation in closed loop, where assistant responses can change subsequent user behavior and task outcomes. Existing "
     },
     {
-      "title": "Market-Conditioned JEPA: Learning from Unpredictable Market Shocks",
-      "url": "https://arxiv.org/abs/2611.13572",
-      "summary": "Much of the variation in financial time series is driven by market-wide shocks that cannot be predicted from an asset's own history. Per-asset self-supervised learning treats this variation as irreduc"
+      "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+      "url": "https://arxiv.org/abs/2610.40394",
+      "summary": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We in"
     },
     {
-      "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
-      "url": "https://arxiv.org/abs/2611.14210",
-      "summary": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning l"
+      "title": "CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models",
+      "url": "https://arxiv.org/abs/2607.24999",
+      "summary": "Human cognitive tasks let us compare language models with humans under controlled conditions. Yet a model can reproduce the direction of a human effect while making different errors. CogBattery evalua"
     },
     {
-      "title": "MMDM: Measuring Massive Multitask Decision Making",
-      "url": "https://arxiv.org/abs/2611.14309",
-      "summary": "System-1 Decision Models directly make structured probabilistic decisions over query-specified options given a state in a single forward pass, without autoregressively generating reasoning trajectorie"
+      "title": "WMIP: A Working-Memory-Inspired Programmable Probe of Cumulative State Tracking in Large Language Models",
+      "url": "https://arxiv.org/abs/2603.27343",
+      "summary": "Human working memory lets people maintain and update information. Large language models (LLMs) face a related demand when tracking updates within a single prompt without writing out intermediate state"
     },
     {
-      "title": "EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding",
-      "url": "https://arxiv.org/abs/2611.13907",
-      "summary": "Under a fixed frame budget, video understanding with vision-language models (VLMs) depends on whether the sampled frames provide sufficient evidence for the question. Sufficient frame evidence support"
+      "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
+      "url": "https://arxiv.org/abs/2611.10193",
+      "summary": "Large language models (LLMs) increasingly support Web-based services that must balance response quality and inference cost across heterogeneous requests. Conventional routing selects one model per pro"
     },
     {
-      "title": "Learning to Act with World Models by Valuing What Comes Next",
-      "url": "https://arxiv.org/abs/2611.12200",
-      "summary": "A sparse terminal reward tells an agent little about its steps. Much of the missing information is implicit in the environment's dynamics, because each state transition can change the conditions for s"
+      "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.39671",
+      "summary": "Large language models (LLMs) draw on parametric knowledge and retrieval-augmented generation (RAG) to solve knowledge-intensive tasks. Yet problem solving in unfamiliar domains calls for tightly coupl"
     }
   ],
   "blog_posts": [
     {
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "author": "evanxmerz.com"
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "author": "pietromiotti.com"
     },
     {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "author": "9to5mac.com"
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "author": "cbsnews.com"
     },
     {
-      "title": "What objective is reasoning solving?",
-      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
-      "author": "alexwang.ai"
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "author": "blog.google"
     },
     {
-      "title": "An Open Field Guide to Inference Engineering",
-      "url": "https://docs.modelplane.ai/guides/inference-guide",
-      "author": "docs.modelplane.ai"
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "author": "machinelearning.apple.com"
     },
     {
-      "title": "Saltline: First-person shooter built by Fable 5.2",
-      "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
-      "author": "claude.ai"
+      "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
+      "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
+      "author": "xulingfeng"
     },
     {
-      "title": "Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini",
-      "url": "https://dev.to/m4rri4nne/detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini-4kan",
-      "author": "Alicia Marianne Gonçalves"
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "url": "https://github.com/klad-app/klad",
+      "author": "github.com"
+    },
+    {
+      "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "author": "scanner_brightly"
+    },
+    {
+      "title": "Tools for exploring the souls of large language models",
+      "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+      "author": "oshea00.github.io"
     }
   ],
   "repos": [
     {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 115420,
-      "language": "JavaScript"
-    },
-    {
-      "name": "ashishpatel26/500-AI-Agents-Projects",
-      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
-      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i",
-      "stars": 39679,
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+      "stars": 120790,
       "language": "Python"
     },
     {
-      "name": "figma/mcp-server-guide",
-      "url": "https://github.com/figma/mcp-server-guide",
-      "description": "A guide on how to use the Figma MCP server",
-      "stars": 2171,
+      "name": "experientiallabs/experiential",
+      "url": "https://github.com/experientiallabs/experiential",
+      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized mode",
+      "stars": 16633,
+      "language": "Python"
+    },
+    {
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "stars": 11973,
+      "language": "TypeScript"
+    },
+    {
+      "name": "shy3130/tick-stock-panel",
+      "url": "https://github.com/shy3130/tick-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "stars": 7622,
+      "language": "Python"
+    },
+    {
+      "name": "AminBlg/SimpleEnglish",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
+      "stars": 4377,
       "language": "Python"
     }
   ],

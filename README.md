@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-12</strong></summary>
+
+#### Papers
+
+1. **[SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering](https://arxiv.org/abs/2611.13410)**
+
+2. **[Mixed Signals: Weight-Space Programming for EEG and ECG](https://arxiv.org/abs/2611.13758)**
+
+3. **[Module-Aware Optimization for Graph Neural Networks](https://arxiv.org/abs/2611.08379)**
+
+4. **[Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents](https://arxiv.org/abs/2608.22237)**
+
+5. **[Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds](https://arxiv.org/abs/2611.08286)**
+
+6. **[Scaling Mathematical Proof Supervision from Structured Textbooks](https://arxiv.org/abs/2610.40394)**
+
+7. **[CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models](https://arxiv.org/abs/2607.24999)**
+
+8. **[WMIP: A Working-Memory-Inspired Programmable Probe of Cumulative State Tracking in Large Language Models](https://arxiv.org/abs/2603.27343)**
+
+9. **[Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference](https://arxiv.org/abs/2611.10193)**
+
+10. **[Incentivizing Self-Learning in Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2610.39671)**
+
+
+#### Blog Posts
+
+1. **[My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site)** by pietromiotti.com
+
+2. **[United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)** by cbsnews.com
+
+3. **[Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)** by blog.google
+
+4. **[Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)** by machinelearning.apple.com
+
+5. **[We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.](https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma)** by xulingfeng
+
+6. **[Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)** by github.com
+
+7. **[How a false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)** by scanner_brightly
+
+8. **[Tools for exploring the souls of large language models](https://oshea00.github.io/posts/tinygpt-visualizer/)** by oshea00.github.io
+
+
+#### Trending Repos
+
+1. **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. ⭐ 120790
+
+2. **[experientiallabs/experiential](https://github.com/experientiallabs/experiential)** — Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized mode ⭐ 16633
+
+3. **[openai/codex-security](https://github.com/openai/codex-security)** — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security ⭐ 11973
+
+4. **[shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel)** — TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ⭐ 7622
+
+5. **[AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)** — Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical ⭐ 4377
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-11</strong></summary>
 
 #### Papers
