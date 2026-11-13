@@ -1,31 +1,4 @@
 {
-  "2026-10-13": {
-    "papers": [
-      "https://arxiv.org/abs/2610.09326",
-      "https://arxiv.org/abs/2610.09116",
-      "https://arxiv.org/abs/2610.12933",
-      "https://arxiv.org/abs/2610.13361",
-      "https://arxiv.org/abs/2609.39600",
-      "https://arxiv.org/abs/2609.39601",
-      "https://arxiv.org/abs/2610.13166",
-      "https://arxiv.org/abs/2610.03308",
-      "https://arxiv.org/abs/2610.09396",
-      "https://arxiv.org/abs/2609.33304"
-    ],
-    "blogs": [
-      "https://github.com/openai/codex/issues/48195",
-      "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "https://arxiv.org/abs/2610.13928",
-      "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-      "https://www.argmin.net/p/faster-fourier-transforms",
-      "https://www.patreon.com/vihart/posts/vi-harts-big-171939430"
-    ],
-    "repos": [
-      "https://github.com/open-webui/open-webui",
-      "https://github.com/microsoft/BitNet"
-    ]
-  },
   "2026-10-14": {
     "papers": [
       "https://arxiv.org/abs/2610.18871",
@@ -908,6 +881,35 @@
       "https://github.com/openai/codex-security",
       "https://github.com/shy3130/tick-stock-panel",
       "https://github.com/AminBlg/SimpleEnglish"
+    ]
+  },
+  "2026-11-13": {
+    "papers": [
+      "https://arxiv.org/abs/2611.12872",
+      "https://arxiv.org/abs/2611.17331",
+      "https://arxiv.org/abs/2611.08219",
+      "https://arxiv.org/abs/2611.17060",
+      "https://arxiv.org/abs/2610.41453",
+      "https://arxiv.org/abs/2611.00428",
+      "https://arxiv.org/abs/2611.17167",
+      "https://arxiv.org/abs/2611.00359",
+      "https://arxiv.org/abs/2611.16905",
+      "https://arxiv.org/abs/2611.15777"
+    ],
+    "blogs": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "https://github.com/hyperionaidev/smolmaxxing/",
+      "https://unemploymentlabs.com/checkpoint-forensics",
+      "https://dev.to/ben/long-live-rails-3p21",
+      "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "https://brave.com/blog/search-api-agentic-payments/",
+      "https://dev.to/startupcafe/when-a-company-becomes-too-dependent-on-one-person-5032"
+    ],
+    "repos": [
+      "https://github.com/huggingface/transformers",
+      "https://github.com/ggml-org/llama.cpp",
+      "https://github.com/openai/whisper",
+      "https://github.com/QwenLM/qwen-code"
     ]
   }
 }

@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-13</strong></summary>
+
+#### Papers
+
+1. **[HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents](https://arxiv.org/abs/2611.12872)**
+
+2. **[TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models](https://arxiv.org/abs/2611.17331)**
+
+3. **[Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis](https://arxiv.org/abs/2611.08219)**
+
+4. **[Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors](https://arxiv.org/abs/2611.17060)**
+
+5. **[Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution](https://arxiv.org/abs/2610.41453)**
+
+6. **[Do Multimodal Models Decide Consistently on Equivalent Optical Spectra?](https://arxiv.org/abs/2611.00428)**
+
+7. **[Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](https://arxiv.org/abs/2611.17167)**
+
+8. **[Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers](https://arxiv.org/abs/2611.00359)**
+
+9. **[Factored One-sided Adam-Moment for Practical and Scalable SOAP](https://arxiv.org/abs/2611.16905)**
+
+10. **[SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://arxiv.org/abs/2611.15777)**
+
+
+#### Blog Posts
+
+1. **[Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)** by blog.google
+
+2. **[I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)** by github.com
+
+3. **[Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)** by unemploymentlabs.com
+
+4. **[Long Live Rails](https://dev.to/ben/long-live-rails-3p21)** by Ben Halpern
+
+5. **[Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)** by github.com
+
+6. **[Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)** by brave.com
+
+7. **[When a Company Becomes Too Dependent on One Person](https://dev.to/startupcafe/when-a-company-becomes-too-dependent-on-one-person-5032)** by TheBitForge
+
+
+#### Trending Repos
+
+1. **[huggingface/transformers](https://github.com/huggingface/transformers)** — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ⭐ 168937
+
+2. **[ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)** — LLM inference in C/C++ ⭐ 134757
+
+3. **[openai/whisper](https://github.com/openai/whisper)** — Robust Speech Recognition via Large-Scale Weak Supervision ⭐ 112627
+
+4. **[QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)** — An open-source AI coding agent that lives in your terminal. ⭐ 30026
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-12</strong></summary>
 
 #### Papers
