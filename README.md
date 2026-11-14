@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-14</strong></summary>
+
+#### Papers
+
+1. **[Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction](https://arxiv.org/abs/2611.10439)**
+
+2. **[EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming](https://arxiv.org/abs/2611.16728)**
+
+3. **[Back to Pixels: Lifting Latent Video Diffusion into Pixel Space](https://arxiv.org/abs/2611.17336)**
+
+4. **[Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes](https://arxiv.org/abs/2611.17190)**
+
+5. **[TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates](https://arxiv.org/abs/2611.09567)**
+
+6. **[The Value of Thinking: Learning When to Reason in Hybrid Decision Models](https://arxiv.org/abs/2611.16961)**
+
+7. **[The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?](https://arxiv.org/abs/2611.12750)**
+
+8. **[A frontier machine intelligence for human neuroimaging](https://arxiv.org/abs/2611.15094)**
+
+9. **[Unbundling Multimodal Vision Encoding](https://arxiv.org/abs/2611.17334)**
+
+10. **[Experience-Handoff Reinforcement Learning for Recursive Self-Improvement](https://arxiv.org/abs/2611.16409)**
+
+
+#### Blog Posts
+
+1. **[Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)** by status.claude.com
+
+2. **[Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)** by techpowerup.com
+
+3. **[OpenAI disbands its robotics team as its general models start running robots](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/)** by fortune.com
+
+4. **[Perplexity Decider v1.3: Training, eval, and use cases](https://www.perplexity.ai/hub/blog/perplexity-decider)** by perplexity.ai
+
+5. **[Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)** by unsloth.ai
+
+6. **[Anthropic upgrades Claude Code Projects to run parallel AI workers](https://claude.com/resources/articles/projects-redesigned)** by claude.com
+
+7. **[Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!](https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok)** by Jem
+
+
+#### Trending Repos
+
+1. **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. ⭐ 79616
+
+2. **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** — Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google An ⭐ 71375
+
+3. **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** — Chrome DevTools for coding agents ⭐ 55712
+
+4. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, ⭐ 50877
+
+5. **[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)** — Build resilient agents. ⭐ 44940
+
+6. **[backnotprop/plannotator](https://github.com/backnotprop/plannotator)** — The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ⭐ 10582
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-13</strong></summary>
 
 #### Papers

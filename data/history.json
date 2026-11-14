@@ -1,34 +1,4 @@
 {
-  "2026-10-14": {
-    "papers": [
-      "https://arxiv.org/abs/2610.18871",
-      "https://arxiv.org/abs/2610.18356",
-      "https://arxiv.org/abs/2610.18568",
-      "https://arxiv.org/abs/2610.13989",
-      "https://arxiv.org/abs/2610.18484",
-      "https://arxiv.org/abs/2610.17656",
-      "https://arxiv.org/abs/2610.18868",
-      "https://arxiv.org/abs/2610.18862",
-      "https://arxiv.org/abs/2610.17201",
-      "https://arxiv.org/abs/2610.17928"
-    ],
-    "blogs": [
-      "https://deepmind.google/models/gemini/",
-      "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "https://eg2.haku.sh/",
-      "https://pdftomp3.com/connect-ai/",
-      "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "https://pulseos.finance",
-      "https://parsimony.lasu.dev/",
-      "https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9"
-    ],
-    "repos": [
-      "https://github.com/mvanhorn/last30days-skill",
-      "https://github.com/vercel-labs/skills",
-      "https://github.com/baidu/Unlimited-OCR",
-      "https://github.com/1Panel-dev/MaxKB"
-    ]
-  },
   "2026-10-15": {
     "papers": [
       "https://arxiv.org/abs/2610.20582",
@@ -910,6 +880,37 @@
       "https://github.com/ggml-org/llama.cpp",
       "https://github.com/openai/whisper",
       "https://github.com/QwenLM/qwen-code"
+    ]
+  },
+  "2026-11-14": {
+    "papers": [
+      "https://arxiv.org/abs/2611.10439",
+      "https://arxiv.org/abs/2611.16728",
+      "https://arxiv.org/abs/2611.17336",
+      "https://arxiv.org/abs/2611.17190",
+      "https://arxiv.org/abs/2611.09567",
+      "https://arxiv.org/abs/2611.16961",
+      "https://arxiv.org/abs/2611.12750",
+      "https://arxiv.org/abs/2611.15094",
+      "https://arxiv.org/abs/2611.17334",
+      "https://arxiv.org/abs/2611.16409"
+    ],
+    "blogs": [
+      "https://status.claude.com/incidents/nn11wk485zfn",
+      "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "https://unsloth.ai/docs/models/qwen3.8",
+      "https://claude.com/resources/articles/projects-redesigned",
+      "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok"
+    ],
+    "repos": [
+      "https://github.com/headroomlabs-ai/headroom",
+      "https://github.com/asgeirtj/system_prompts_leaks",
+      "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "https://github.com/alibaba/open-code-review",
+      "https://github.com/langchain-ai/langgraph",
+      "https://github.com/backnotprop/plannotator"
     ]
   }
 }
