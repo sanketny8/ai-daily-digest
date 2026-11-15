@@ -1,34 +1,4 @@
 {
-  "2026-10-15": {
-    "papers": [
-      "https://arxiv.org/abs/2610.20582",
-      "https://arxiv.org/abs/2610.20399",
-      "https://arxiv.org/abs/2610.14261",
-      "https://arxiv.org/abs/2610.04781",
-      "https://arxiv.org/abs/2610.10787",
-      "https://arxiv.org/abs/2610.14096",
-      "https://arxiv.org/abs/2610.20604",
-      "https://arxiv.org/abs/2610.20609",
-      "https://arxiv.org/abs/2610.19560",
-      "https://arxiv.org/abs/2610.15725"
-    ],
-    "blogs": [
-      "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-      "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
-      "https://github.com/graphicle-ai/graphicle",
-      "https://dev.to/dailycontext/design-for-churn-5c6h"
-    ],
-    "repos": [
-      "https://github.com/vxcontrol/pentagi",
-      "https://github.com/MakazhanAlpamys/Soup",
-      "https://github.com/aws/agent-toolkit-for-aws",
-      "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "https://github.com/isair/jarvis"
-    ]
-  },
   "2026-10-16": {
     "papers": [
       "https://arxiv.org/abs/2610.22276",
@@ -911,6 +881,36 @@
       "https://github.com/alibaba/open-code-review",
       "https://github.com/langchain-ai/langgraph",
       "https://github.com/backnotprop/plannotator"
+    ]
+  },
+  "2026-11-15": {
+    "papers": [
+      "http://arxiv.org/abs/2611.17334v1",
+      "http://arxiv.org/abs/2611.17332v1",
+      "http://arxiv.org/abs/2611.17329v1",
+      "http://arxiv.org/abs/2611.17323v1",
+      "http://arxiv.org/abs/2611.17320v1",
+      "http://arxiv.org/abs/2611.17316v1",
+      "http://arxiv.org/abs/2611.17314v1",
+      "http://arxiv.org/abs/2611.17313v1",
+      "http://arxiv.org/abs/2611.17309v1",
+      "http://arxiv.org/abs/2611.17308v1"
+    ],
+    "blogs": [
+      "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "https://github.com/0xdeadf1sh/T1DMAI",
+      "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/"
+    ],
+    "repos": [
+      "https://github.com/JuliusBrussee/caveman",
+      "https://github.com/bmad-code-org/BMAD-METHOD",
+      "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "https://github.com/dream-num/univer",
+      "https://github.com/ag-ui-protocol/ag-ui",
+      "https://github.com/SigmaHQ/sigma",
+      "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "https://github.com/martin-olivier/airgorah"
     ]
   }
 }

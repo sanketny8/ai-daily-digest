@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-15</strong></summary>
+
+#### Papers
+
+1. **[Unbundling Multimodal Vision Encoding](http://arxiv.org/abs/2611.17334v1)**
+
+2. **[ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research](http://arxiv.org/abs/2611.17332v1)**
+
+3. **[Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation](http://arxiv.org/abs/2611.17329v1)**
+
+4. **[AgentSSL: Can MLE Agents Leverage Unlabeled Data?](http://arxiv.org/abs/2611.17323v1)**
+
+5. **[Learning When Diffusion Language Models Should Regenerate](http://arxiv.org/abs/2611.17320v1)**
+
+6. **[CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation](http://arxiv.org/abs/2611.17316v1)**
+
+7. **[Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces](http://arxiv.org/abs/2611.17314v1)**
+
+8. **[Sketching Language Models for Context Attribution](http://arxiv.org/abs/2611.17313v1)**
+
+9. **[Classical Energies Learn to Reason 1,000x Faster than Looped Models](http://arxiv.org/abs/2611.17309v1)**
+
+10. **[Quantifying structural stability of transparent models for general insurance pricing](http://arxiv.org/abs/2611.17308v1)**
+
+
+#### Blog Posts
+
+1. **[Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)** by news.umich.edu
+
+2. **[Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)** by developer.nvidia.com
+
+3. **[Show HN: I have trained 15 blood glucose forecasting models on my own data](https://github.com/0xdeadf1sh/T1DMAI)** by github.com
+
+4. **[ML Modules for Mere Mortals](https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/)** by abhin4v
+
+
+#### Trending Repos
+
+1. **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** — 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. ⭐ 120216
+
+2. **[bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** — Breakthrough Method for Agile Ai Driven Development ⭐ 55382
+
+3. **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Wo ⭐ 36166
+
+4. **[dream-num/univer](https://github.com/dream-num/univer)** — Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. ⭐ 25126
+
+5. **[ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)** — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. ⭐ 17482
+
+6. **[SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)** — Main Sigma Rule Repository ⭐ 11512
+
+7. **[GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)** — Keep your coding agent up to date with the latest web best practices ⭐ 6354
+
+8. **[martin-olivier/airgorah](https://github.com/martin-olivier/airgorah)** — A WiFi security auditing software ⭐ 6056
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-14</strong></summary>
 
 #### Papers
