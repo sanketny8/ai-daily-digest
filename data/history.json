@@ -1,35 +1,4 @@
 {
-  "2026-10-16": {
-    "papers": [
-      "https://arxiv.org/abs/2610.22276",
-      "https://arxiv.org/abs/2610.21306",
-      "https://arxiv.org/abs/2610.17670",
-      "https://arxiv.org/abs/2610.18125",
-      "https://arxiv.org/abs/2610.18890",
-      "https://arxiv.org/abs/2610.21601",
-      "https://arxiv.org/abs/2610.22240",
-      "https://arxiv.org/abs/2610.22344",
-      "https://arxiv.org/abs/2610.16355",
-      "https://arxiv.org/abs/2610.21439"
-    ],
-    "blogs": [
-      "https://www.krea.ai/krea-3",
-      "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
-      "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh",
-      "https://dev.to/dannwaneri/i-built-a-lie-detector-for-ai-coding-agents-then-i-read-the-rules-1hhb",
-      "https://openfatigue.ai/",
-      "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
-      "https://github.com/awslabs/aidlc-workflows",
-      "https://dev.to/vidisha_gupta_/scope-creep-guard-a-local-gemma-ai-that-tells-clients-thats-out-of-scope-so-you-dont-have-18n2"
-    ],
-    "repos": [
-      "https://github.com/ruvnet/ruflo",
-      "https://github.com/bojieli/ai-agent-book",
-      "https://github.com/volcengine/OpenViking",
-      "https://github.com/ahujasid/mcp-for-blender",
-      "https://github.com/trailofbits/skills"
-    ]
-  },
   "2026-10-17": {
     "papers": [
       "https://arxiv.org/abs/2610.21185",
@@ -911,6 +880,36 @@
       "https://github.com/SigmaHQ/sigma",
       "https://github.com/GoogleChrome/modern-web-guidance-src",
       "https://github.com/martin-olivier/airgorah"
+    ]
+  },
+  "2026-11-16": {
+    "papers": [
+      "https://arxiv.org/abs/2611.16378",
+      "https://arxiv.org/abs/2611.18482",
+      "https://arxiv.org/abs/2611.18130",
+      "https://arxiv.org/abs/2611.18529",
+      "https://arxiv.org/abs/2611.02822",
+      "https://arxiv.org/abs/2611.18549",
+      "https://arxiv.org/abs/2611.17820",
+      "https://arxiv.org/abs/2611.18397",
+      "https://arxiv.org/abs/2611.18442",
+      "https://arxiv.org/abs/2611.18338"
+    ],
+    "blogs": [
+      "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "https://github.com/db-branch/db-branch",
+      "https://dev.to/therealmrmumba/give-your-voice-agent-hands-let-it-act-across-sales-and-marketing-fn2",
+      "https://dev.to/necoz/how-i-made-a-markov-chain-model-from-scratch-in-c-during-a-global-online-teen-hackathon-3gd7"
+    ],
+    "repos": [
+      "https://github.com/ManimCommunity/manim",
+      "https://github.com/PrefectHQ/fastmcp",
+      "https://github.com/Canner/WrenAI",
+      "https://github.com/ggml-org/ggml",
+      "https://github.com/google-labs-code/stitch-skills",
+      "https://github.com/bojieli/ai-infra-book"
     ]
   }
 }

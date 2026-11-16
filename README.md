@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-16</strong></summary>
+
+#### Papers
+
+1. **[Evidence-Governed Adoption of Self-Generated Updates in Autonomous AI Agents](https://arxiv.org/abs/2611.16378)**
+
+2. **[MMFlash: Faster Speculative Decoding for Vision-Language Models](https://arxiv.org/abs/2611.18482)**
+
+3. **[JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams](https://arxiv.org/abs/2611.18130)**
+
+4. **[eDIAR: Training-Free Open-Speaker Streaming Diarization for Long Meetings and Large Archives via e-means](https://arxiv.org/abs/2611.18529)**
+
+5. **[Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion](https://arxiv.org/abs/2611.02822)**
+
+6. **[JVT: Just Video Transformer makes pixel-space video diffusion simple](https://arxiv.org/abs/2611.18549)**
+
+7. **[Aligning AI Teams](https://arxiv.org/abs/2611.17820)**
+
+8. **[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://arxiv.org/abs/2611.18397)**
+
+9. **[CANTraj: Recovering Vehicle Trajectories from CAN Signals in Naturalistic Driving](https://arxiv.org/abs/2611.18442)**
+
+10. **[MEM-SQL: Memory-Empowered Text-to-SQL](https://arxiv.org/abs/2611.18338)**
+
+
+#### Blog Posts
+
+1. **[Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)** by magazine.sebastianraschka.com
+
+2. **[Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)** by space.com
+
+3. **[What thousands of conversations look like inside a language model](https://operator0x.com/field-notes/qwen-conversation-state-space/)** by operator0x.com
+
+4. **[Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch)** by github.com
+
+5. **[Give Your Voice Agent Hands: Let It Act Across Sales and Marketing](https://dev.to/therealmrmumba/give-your-voice-agent-hands-let-it-act-across-sales-and-marketing-fn2)** by Emmanuel Mumba
+
+6. **[How I Made a Markov Chain Model from Scratch in C++ During a Global Online Teen Hackathon](https://dev.to/necoz/how-i-made-a-markov-chain-model-from-scratch-in-c-during-a-global-online-teen-hackathon-3gd7)** by Tyler N
+
+
+#### Trending Repos
+
+1. **[ManimCommunity/manim](https://github.com/ManimCommunity/manim)** — A community-maintained Python framework for creating mathematical animations. ⭐ 42601
+
+2. **[PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)** — 🚀 The fast, Pythonic way to build MCP servers and clients. ⭐ 28562
+
+3. **[Canner/WrenAI](https://github.com/Canner/WrenAI)** — GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s ⭐ 18292
+
+4. **[ggml-org/ggml](https://github.com/ggml-org/ggml)** — Tensor library for machine learning ⭐ 16020
+
+5. **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C ⭐ 9496
+
+6. **[bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)** — 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验 ⭐ 7861
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-15</strong></summary>
 
 #### Papers
