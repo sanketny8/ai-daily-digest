@@ -10,6 +10,63 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-17</strong></summary>
+
+#### Papers
+
+1. **[SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models](https://arxiv.org/abs/2611.17110)**
+
+2. **[OutfitterBench: Evaluating LLM Agents on Long-Horizon Resource Allocation and Commitment Coordination](https://arxiv.org/abs/2611.17933)**
+
+3. **[Continuation-Guided LLM Evolution of Program Policies and Goal Compilers in Craftax](https://arxiv.org/abs/2611.19537)**
+
+4. **[InclusionMed: Benchmarking AI for Inclusive Healthcare](https://arxiv.org/abs/2611.21218)**
+
+5. **[Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix](https://arxiv.org/abs/2611.20148)**
+
+6. **[SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations](https://arxiv.org/abs/2611.20218)**
+
+7. **[DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images](https://arxiv.org/abs/2611.20385)**
+
+8. **[Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning](https://arxiv.org/abs/2605.09614)**
+
+9. **[Accelerate Bench: Evaluating Agents for Application-Level Program Optimization](https://arxiv.org/abs/2611.20882)**
+
+10. **[UMM-JEPA: Generative Pretraining via Masked Next-Scale Representation Prediction for Unified Multimodal Models](https://arxiv.org/abs/2611.18668)**
+
+
+#### Blog Posts
+
+1. **[Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)** by openai.com
+
+2. **[First phase of embedded assessments at OpenAI](https://openai.com/index/our-first-phase-of-embedded-assessments/)** by openai.com
+
+3. **[Claude Mythos slashed software work to onboard AMD GPUs to around three days](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat)** by tomshardware.com
+
+4. **[Tokendoctor – See what your Claude Code use overpays](https://github.com/localixai/tokendoctor)** by github.com
+
+5. **[High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First](https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091)** by xbill
+
+6. **[An MCP Tool Call Can Resolve and Still Fail](https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc)** by Raju Dandigam
+
+
+#### Trending Repos
+
+1. **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary ⭐ 68455
+
+2. **[ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)** — Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th ⭐ 46188
+
+3. **[superdesigndev/treg](https://github.com/superdesigndev/treg)** — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn ⭐ 8190
+
+4. **[elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)** — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi ⭐ 7884
+
+5. **[kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)** — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou ⭐ 7367
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-16</strong></summary>
 
 #### Papers

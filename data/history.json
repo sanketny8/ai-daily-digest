@@ -1,35 +1,4 @@
 {
-  "2026-10-17": {
-    "papers": [
-      "https://arxiv.org/abs/2610.21185",
-      "https://arxiv.org/abs/2610.21261",
-      "https://arxiv.org/abs/2610.20680",
-      "https://arxiv.org/abs/2610.22280",
-      "https://arxiv.org/abs/2610.15924",
-      "https://arxiv.org/abs/2610.17697",
-      "https://arxiv.org/abs/2610.20461",
-      "https://arxiv.org/abs/2610.22358",
-      "https://arxiv.org/abs/2610.21025",
-      "https://arxiv.org/abs/2610.19247"
-    ],
-    "blogs": [
-      "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "https://github.com/cobanov/PS5LM",
-      "https://alexwang.ai/posts/associative-memory/",
-      "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
-      "https://rstation.ai/",
-      "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113"
-    ],
-    "repos": [
-      "https://github.com/Imbad0202/academic-research-skills",
-      "https://github.com/earthtojake/text-to-cad",
-      "https://github.com/google/artemis",
-      "https://github.com/xerj-org/xerj"
-    ]
-  },
   "2026-10-18": {
     "papers": [
       "http://arxiv.org/abs/2610.22372v1",
@@ -910,6 +879,35 @@
       "https://github.com/ggml-org/ggml",
       "https://github.com/google-labs-code/stitch-skills",
       "https://github.com/bojieli/ai-infra-book"
+    ]
+  },
+  "2026-11-17": {
+    "papers": [
+      "https://arxiv.org/abs/2611.17110",
+      "https://arxiv.org/abs/2611.17933",
+      "https://arxiv.org/abs/2611.19537",
+      "https://arxiv.org/abs/2611.21218",
+      "https://arxiv.org/abs/2611.20148",
+      "https://arxiv.org/abs/2611.20218",
+      "https://arxiv.org/abs/2611.20385",
+      "https://arxiv.org/abs/2605.09614",
+      "https://arxiv.org/abs/2611.20882",
+      "https://arxiv.org/abs/2611.18668"
+    ],
+    "blogs": [
+      "https://openai.com/index/strengthening-online-child-safety/",
+      "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+      "https://github.com/localixai/tokendoctor",
+      "https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091",
+      "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc"
+    ],
+    "repos": [
+      "https://github.com/mvanhorn/last30days-skill",
+      "https://github.com/ifixai-ai/iFixAi",
+      "https://github.com/superdesigndev/treg",
+      "https://github.com/elementalsouls/Claude-BugHunter",
+      "https://github.com/kajisho5/ffmpeg-skill"
     ]
   }
 }
