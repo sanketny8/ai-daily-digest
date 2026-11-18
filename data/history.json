@@ -1,31 +1,4 @@
 {
-  "2026-10-18": {
-    "papers": [
-      "http://arxiv.org/abs/2610.22372v1",
-      "http://arxiv.org/abs/2610.22367v1",
-      "http://arxiv.org/abs/2610.22364v1",
-      "http://arxiv.org/abs/2610.22362v1",
-      "http://arxiv.org/abs/2610.22358v1",
-      "http://arxiv.org/abs/2610.22355v1",
-      "http://arxiv.org/abs/2610.22353v1",
-      "http://arxiv.org/abs/2610.22350v1",
-      "http://arxiv.org/abs/2610.22344v1",
-      "http://arxiv.org/abs/2610.22343v1"
-    ],
-    "blogs": [
-      "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "https://github.com/openai/codex/issues/25921",
-      "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
-      "https://dev.to/dronzer2code/we-searched-ebay-for-237-recalled-products-only-45-of-12562-listings-named-the-model-2efi"
-    ],
-    "repos": [
-      "https://github.com/anomalyco/opencode",
-      "https://github.com/stablyai/orca",
-      "https://github.com/anthropics/claude-plugins-official",
-      "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "https://github.com/ScrapeCreators/social-media-research-skills"
-    ]
-  },
   "2026-10-19": {
     "papers": [
       "https://arxiv.org/abs/2610.22428",
@@ -908,6 +881,37 @@
       "https://github.com/superdesigndev/treg",
       "https://github.com/elementalsouls/Claude-BugHunter",
       "https://github.com/kajisho5/ffmpeg-skill"
+    ]
+  },
+  "2026-11-18": {
+    "papers": [
+      "https://arxiv.org/abs/2611.21392",
+      "https://arxiv.org/abs/2611.23034",
+      "https://arxiv.org/abs/2611.23026",
+      "https://arxiv.org/abs/2611.21152",
+      "https://arxiv.org/abs/2611.23108",
+      "https://arxiv.org/abs/2611.08922",
+      "https://arxiv.org/abs/2611.17621",
+      "https://arxiv.org/abs/2611.22115",
+      "https://arxiv.org/abs/2611.23226",
+      "https://arxiv.org/abs/2611.23219"
+    ],
+    "blogs": [
+      "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "https://newsletter.posthog.com/p/decision-models",
+      "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "https://shivamduggal4.github.io/latent-lattice-language-models/",
+      "https://github.com/RunanywhereAI/trnrt",
+      "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+      "https://dev.to/dannwaneri/could-i-still-do-this-from-scratch-427h"
+    ],
+    "repos": [
+      "https://github.com/affaan-m/ECC",
+      "https://github.com/ComposioHQ/awesome-claude-skills",
+      "https://github.com/usestrix/strix",
+      "https://github.com/jingyaogong/minimind",
+      "https://github.com/HKUDS/RAG-Anything"
     ]
   }
 }

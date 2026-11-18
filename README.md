@@ -10,6 +10,67 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-18</strong></summary>
+
+#### Papers
+
+1. **[VideoNexus: Video Perception Beyond the Reasoning Context](https://arxiv.org/abs/2611.21392)**
+
+2. **[M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation](https://arxiv.org/abs/2611.23034)**
+
+3. **[TPHC: Improving Hyper-Connections with Tensor-Parallel Grouped Updates](https://arxiv.org/abs/2611.23026)**
+
+4. **[From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop](https://arxiv.org/abs/2611.21152)**
+
+5. **[FMT: Lossless Image Compression in a Fixed Number of Parallel Steps](https://arxiv.org/abs/2611.23108)**
+
+6. **[Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data](https://arxiv.org/abs/2611.08922)**
+
+7. **[AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://arxiv.org/abs/2611.17621)**
+
+8. **[TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](https://arxiv.org/abs/2611.22115)**
+
+9. **[FastFrames: Video Generation at Interactive Latency](https://arxiv.org/abs/2611.23226)**
+
+10. **[Do LLM Agents Still Need to Be Told How to Self-Improve?](https://arxiv.org/abs/2611.23219)**
+
+
+#### Blog Posts
+
+1. **[GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)** by openai.com
+
+2. **[Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)** by complexdiscovery.com
+
+3. **[Not Everything Needs an LLM](https://newsletter.posthog.com/p/decision-models)** by newsletter.posthog.com
+
+4. **[Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)** by cerebras.ai
+
+5. **[Latent Lattice Language Models](https://shivamduggal4.github.io/latent-lattice-language-models/)** by shivamduggal4.github.io
+
+6. **[Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)** by github.com
+
+7. **[Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams/)** by openai.com
+
+8. **[Could I Still Do This From Scratch?](https://dev.to/dannwaneri/could-i-still-do-this-from-scratch-427h)** by Daniel Nwaneri
+
+
+#### Trending Repos
+
+1. **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. ⭐ 305905
+
+2. **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** — A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows ⭐ 79765
+
+3. **[usestrix/strix](https://github.com/usestrix/strix)** — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. ⭐ 76403
+
+4. **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** — 🧠 Train a 64M-parameter LLM from scratch in just 2h! ⭐ 66325
+
+5. **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** — "RAG-Anything: All-in-One RAG Framework" ⭐ 24616
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-17</strong></summary>
 
 #### Papers

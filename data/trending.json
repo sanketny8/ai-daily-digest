@@ -1,123 +1,133 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "papers": [
     {
-      "title": "SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models",
-      "url": "https://arxiv.org/abs/2611.17110",
-      "summary": "Embodied foundation models hinge on diverse robot interaction data, which are costly to collect. Egocentric human videos offer a complementary source of experience, and latent action models (LAMs) pro"
+      "title": "VideoNexus: Video Perception Beyond the Reasoning Context",
+      "url": "https://arxiv.org/abs/2611.21392",
+      "summary": "Understanding long videos requires locating evidence, resolving visual details, and integrating observations into an answer. Even when relevant evidence is present, performing these operations within "
     },
     {
-      "title": "OutfitterBench: Evaluating LLM Agents on Long-Horizon Resource Allocation and Commitment Coordination",
-      "url": "https://arxiv.org/abs/2611.17933",
-      "summary": "In many long-horizon settings, an agent's own choices create future constraints: committing finite capacity establishes future obligations and forecloses later opportunities. Sustaining performance th"
+      "title": "M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2611.23034",
+      "summary": "Multi-Teacher On-Policy Distillation (MOPD) enables a single student to absorb the skills of several domain teachers by learning from its own generated responses. We present Multimodal Model Multi-Tea"
     },
     {
-      "title": "Continuation-Guided LLM Evolution of Program Policies and Goal Compilers in Craftax",
-      "url": "https://arxiv.org/abs/2611.19537",
-      "summary": "Coding agents can synthesize and optimize code-based policies from simulator feedback, allowing the resulting program to act with zero inference model calls. But for long horizon tasks, two challenges"
+      "title": "TPHC: Improving Hyper-Connections with Tensor-Parallel Grouped Updates",
+      "url": "https://arxiv.org/abs/2611.23026",
+      "summary": "Hyper-Connections (HC) expand the residual stream of a Transformer into N parallel streams, and manifold-constrained HC (mHC) stabilizes them at scale. However, mHC benefits little from more than four"
     },
     {
-      "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
-      "url": "https://arxiv.org/abs/2611.21218",
-      "summary": "Advancing medical AI for inclusive healthcare requires evaluation across diverse healthcare roles, tasks, and care settings, but benchmark coverage remains uneven. We introduce InclusionMed, an open m"
+      "title": "From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop",
+      "url": "https://arxiv.org/abs/2611.21152",
+      "summary": "Training coding agents for long-horizon tasks requires environments with verifiable feedback. Existing pipelines often follow a linear process that ends with validation, establishing usability but pro"
     },
     {
-      "title": "Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix",
-      "url": "https://arxiv.org/abs/2611.20148",
-      "summary": "Directional ablation removes a hidden state's component along a \"behaviour direction\" while a language model runs. It is the standard way to switch a behaviour such as refusal off, but it is erratic: "
+      "title": "FMT: Lossless Image Compression in a Fixed Number of Parallel Steps",
+      "url": "https://arxiv.org/abs/2611.23108",
+      "summary": "Learned lossless codecs make smaller files than common classical codecs, yet the images we archive and train on still use classical codecs. A main reason is time: a learned codec takes seconds to deco"
     },
     {
-      "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
-      "url": "https://arxiv.org/abs/2611.20218",
-      "summary": "A coding agent working within a software organization must establish what to build, collaborate with colleagues, and verify what it delivers. We introduce SWE-CoWork, a benchmark comprising 101 develo"
+      "title": "Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data",
+      "url": "https://arxiv.org/abs/2611.08922",
+      "summary": "Automated scientific discovery has the potential to advance understanding of disease mechanisms and accelerate identification of early disease markers. Manual data annotation is infeasible at populati"
     },
     {
-      "title": "DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images",
-      "url": "https://arxiv.org/abs/2611.20385",
-      "summary": "Can a vision-language model look at a picture of a chain reaction and tell what will happen? Recent multimodal models describe scenes fluently and solve textbook physics problems, which suggests they "
+      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+      "url": "https://arxiv.org/abs/2611.17621",
+      "summary": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less empha"
     },
     {
-      "title": "Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning",
-      "url": "https://arxiv.org/abs/2605.09614",
-      "summary": "Long chain-of-thought (CoT) reasoning improves large vision--language models, but visual information often fades during generation, limiting long-horizon multimodal reasoning. Existing methods either "
+      "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+      "url": "https://arxiv.org/abs/2611.22115",
+      "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes t"
     },
     {
-      "title": "Accelerate Bench: Evaluating Agents for Application-Level Program Optimization",
-      "url": "https://arxiv.org/abs/2611.20882",
-      "summary": "Application optimization requires coding agents to discover useful changes and coordinate them across a complete program while preserving the required computation. We introduce Accelerate Bench, a ben"
+      "title": "FastFrames: Video Generation at Interactive Latency",
+      "url": "https://arxiv.org/abs/2611.23226",
+      "summary": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of ma"
     },
     {
-      "title": "UMM-JEPA: Generative Pretraining via Masked Next-Scale Representation Prediction for Unified Multimodal Models",
-      "url": "https://arxiv.org/abs/2611.18668",
-      "summary": "Unified multimodal models can support both visual understanding and generation, yet generative training does not necessarily improve understanding. We argue that this limitation may arise from a misma"
+      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "url": "https://arxiv.org/abs/2611.23219",
+      "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b"
     }
   ],
   "blog_posts": [
     {
-      "title": "Strengthening the fight against online child sexual abuse",
-      "url": "https://openai.com/index/strengthening-online-child-safety/",
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "author": "openai.com"
     },
     {
-      "title": "First phase of embedded assessments at OpenAI",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
-      "author": "openai.com"
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "author": "complexdiscovery.com"
     },
     {
-      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-      "author": "tomshardware.com"
+      "title": "Not Everything Needs an LLM",
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "author": "newsletter.posthog.com"
     },
     {
-      "title": "Tokendoctor – See what your Claude Code use overpays",
-      "url": "https://github.com/localixai/tokendoctor",
+      "title": "Cerebras Disaggregated Inference",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "author": "cerebras.ai"
+    },
+    {
+      "title": "Latent Lattice Language Models",
+      "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+      "author": "shivamduggal4.github.io"
+    },
+    {
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "url": "https://github.com/RunanywhereAI/trnrt",
       "author": "github.com"
     },
     {
-      "title": "High or Low Thinking? Gemini 4 and Gemma 4 on Hard Math, Cost First",
-      "url": "https://dev.to/gde/high-or-low-thinking-gemini-4-and-gemma-4-on-hard-math-cost-first-3091",
-      "author": "xbill"
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+      "author": "openai.com"
     },
     {
-      "title": "An MCP Tool Call Can Resolve and Still Fail",
-      "url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc",
-      "author": "Raju Dandigam"
+      "title": "Could I Still Do This From Scratch?",
+      "url": "https://dev.to/dannwaneri/could-i-still-do-this-from-scratch-427h",
+      "author": "Daniel Nwaneri"
     }
   ],
   "repos": [
     {
-      "name": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 68455,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 305905,
+      "language": "JavaScript"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 79765,
       "language": "Python"
     },
     {
-      "name": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th",
-      "stars": 46188,
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 76403,
       "language": "Python"
     },
     {
-      "name": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "stars": 8190,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": 66325,
       "language": "Python"
     },
     {
-      "name": "elementalsouls/Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-      "stars": 7884,
-      "language": "Python"
-    },
-    {
-      "name": "kajisho5/ffmpeg-skill",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou",
-      "stars": 7367,
+      "name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "stars": 24616,
       "language": "Python"
     }
   ],
