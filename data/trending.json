@@ -1,134 +1,146 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "papers": [
     {
-      "title": "VideoNexus: Video Perception Beyond the Reasoning Context",
-      "url": "https://arxiv.org/abs/2611.21392",
-      "summary": "Understanding long videos requires locating evidence, resolving visual details, and integrating observations into an answer. Even when relevant evidence is present, performing these operations within "
+      "title": "Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow",
+      "url": "https://arxiv.org/abs/2611.23751",
+      "summary": "Autonomous LLM agents incur substantial cost and latency by invoking a large model (System-2) at every step, even when many intermediate actions choose among a small set of known candidates. Existing "
     },
     {
-      "title": "M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2611.23034",
-      "summary": "Multi-Teacher On-Policy Distillation (MOPD) enables a single student to absorb the skills of several domain teachers by learning from its own generated responses. We present Multimodal Model Multi-Tea"
+      "title": "CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning",
+      "url": "https://arxiv.org/abs/2611.24654",
+      "summary": "A central challenge in adapting large language models (LLMs) is capability preservation: an adaptation can achieve its target while degrading general capabilities. We introduce CurvDelta, a scalable f"
     },
     {
-      "title": "TPHC: Improving Hyper-Connections with Tensor-Parallel Grouped Updates",
-      "url": "https://arxiv.org/abs/2611.23026",
-      "summary": "Hyper-Connections (HC) expand the residual stream of a Transformer into N parallel streams, and manifold-constrained HC (mHC) stabilizes them at scale. However, mHC benefits little from more than four"
+      "title": "Chorus: Shared N-gram Embeddings with Layer-wise Adaptation",
+      "url": "https://arxiv.org/abs/2611.23386",
+      "summary": "Language models can gain capacity at little computational cost from n-gram embedding tables: large tables of learned vectors for short sequences of consecutive tokens, which are looked up and added to"
     },
     {
-      "title": "From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop",
-      "url": "https://arxiv.org/abs/2611.21152",
-      "summary": "Training coding agents for long-horizon tasks requires environments with verifiable feedback. Existing pipelines often follow a linear process that ends with validation, establishing usability but pro"
+      "title": "HINT-WAM: Hindsight-Informed Training for World Action Models",
+      "url": "https://arxiv.org/abs/2611.24789",
+      "summary": "World action models (WAMs) have shown promising generalization and data efficiency in robot manipulation by coupling action generation with predictions of future visual dynamics. Translating these cap"
     },
     {
-      "title": "FMT: Lossless Image Compression in a Fixed Number of Parallel Steps",
-      "url": "https://arxiv.org/abs/2611.23108",
-      "summary": "Learned lossless codecs make smaller files than common classical codecs, yet the images we archive and train on still use classical codecs. A main reason is time: a learned codec takes seconds to deco"
+      "title": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement",
+      "url": "https://arxiv.org/abs/2611.24651",
+      "summary": "We present Piccolo, a family of multimodal decision models (0.8B to 27B) that coevolves model capabilities and training data via Agentic Data Engineering and recursive self-improvement (RSI). The mode"
     },
     {
-      "title": "Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data",
-      "url": "https://arxiv.org/abs/2611.08922",
-      "summary": "Automated scientific discovery has the potential to advance understanding of disease mechanisms and accelerate identification of early disease markers. Manual data annotation is infeasible at populati"
+      "title": "FVScore: Specification-Driven Neuro-Symbolic Video Evaluation",
+      "url": "https://arxiv.org/abs/2611.22673",
+      "summary": "We introduce Faithfulness Video Score (FVSCORE), a neuro-symbolic framework for specification-driven video generation evaluation. Existing evaluators rely on holistic MLLM judgments or vision-language"
     },
     {
-      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
-      "url": "https://arxiv.org/abs/2611.17621",
-      "summary": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less empha"
+      "title": "Movie2Game-Bench: Holistic Evaluation of Film-to-Game Adaptation Beyond Playability",
+      "url": "https://arxiv.org/abs/2611.24669",
+      "summary": "Adapting a film into a game requires selecting source elements and translating them into player actions, rules, and feedback. We introduce Movie2Game-Bench (M2G-bench), a benchmark for evaluating film"
     },
     {
-      "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
-      "url": "https://arxiv.org/abs/2611.22115",
-      "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes t"
+      "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+      "url": "https://arxiv.org/abs/2611.24941",
+      "summary": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, a"
     },
     {
-      "title": "FastFrames: Video Generation at Interactive Latency",
-      "url": "https://arxiv.org/abs/2611.23226",
-      "summary": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of ma"
+      "title": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents",
+      "url": "https://arxiv.org/abs/2611.24362",
+      "summary": "Large language model (LLM) agents routinely interact with untrusted external data, exposing them to indirect prompt injection (IPI) attacks that hijack agents into executing attacker-chosen tasks. To "
     },
     {
-      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-      "url": "https://arxiv.org/abs/2611.23219",
-      "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b"
+      "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+      "url": "https://arxiv.org/abs/2611.24869",
+      "summary": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world mod"
     }
   ],
   "blog_posts": [
     {
-      "title": "GPT‑6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "author": "blog.google"
+    },
+    {
+      "title": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "author": "microsoft.ai"
+    },
+    {
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "author": "europeanbusinessmagazine.com"
+    },
+    {
+      "title": "Genie 4 is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "author": "blog.google"
+    },
+    {
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "author": "micjm.com"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
       "author": "openai.com"
     },
     {
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-      "author": "complexdiscovery.com"
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "author": "xinmingtu.cn"
     },
     {
-      "title": "Not Everything Needs an LLM",
-      "url": "https://newsletter.posthog.com/p/decision-models",
-      "author": "newsletter.posthog.com"
+      "title": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
+      "url": "https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh",
+      "author": "xulingfeng"
     },
     {
-      "title": "Cerebras Disaggregated Inference",
-      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
-      "author": "cerebras.ai"
-    },
-    {
-      "title": "Latent Lattice Language Models",
-      "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
-      "author": "shivamduggal4.github.io"
-    },
-    {
-      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-      "url": "https://github.com/RunanywhereAI/trnrt",
-      "author": "github.com"
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
-      "author": "openai.com"
-    },
-    {
-      "title": "Could I Still Do This From Scratch?",
-      "url": "https://dev.to/dannwaneri/could-i-still-do-this-from-scratch-427h",
-      "author": "Daniel Nwaneri"
+      "title": "The CodeNewbie Podcast is Back for Season 28!",
+      "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
+      "author": "Lauren Lee👩🏼‍💻"
     }
   ],
   "repos": [
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 305905,
-      "language": "JavaScript"
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars": 211311,
+      "language": "TypeScript"
     },
     {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 79765,
+      "name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "stars": 98174,
+      "language": ""
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 60103,
       "language": "Python"
     },
     {
-      "name": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": 76403,
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 58783,
       "language": "Python"
     },
     {
-      "name": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "stars": 66325,
-      "language": "Python"
+      "name": "appwrite/appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "description": "The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "stars": 58353,
+      "language": "TypeScript"
     },
     {
-      "name": "HKUDS/RAG-Anything",
-      "url": "https://github.com/HKUDS/RAG-Anything",
-      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "stars": 24616,
-      "language": "Python"
+      "name": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 11427,
+      "language": "C++"
     }
   ],
   "tweets": []

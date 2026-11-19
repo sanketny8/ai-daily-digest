@@ -10,6 +10,71 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-19</strong></summary>
+
+#### Papers
+
+1. **[Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow](https://arxiv.org/abs/2611.23751)**
+
+2. **[CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning](https://arxiv.org/abs/2611.24654)**
+
+3. **[Chorus: Shared N-gram Embeddings with Layer-wise Adaptation](https://arxiv.org/abs/2611.23386)**
+
+4. **[HINT-WAM: Hindsight-Informed Training for World Action Models](https://arxiv.org/abs/2611.24789)**
+
+5. **[Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://arxiv.org/abs/2611.24651)**
+
+6. **[FVScore: Specification-Driven Neuro-Symbolic Video Evaluation](https://arxiv.org/abs/2611.22673)**
+
+7. **[Movie2Game-Bench: Holistic Evaluation of Film-to-Game Adaptation Beyond Playability](https://arxiv.org/abs/2611.24669)**
+
+8. **[UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation](https://arxiv.org/abs/2611.24941)**
+
+9. **[PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents](https://arxiv.org/abs/2611.24362)**
+
+10. **[WorldRuler: Interactive World Modeling under Configurable Rules](https://arxiv.org/abs/2611.24869)**
+
+
+#### Blog Posts
+
+1. **[Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)** by blog.google
+
+2. **[Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)** by microsoft.ai
+
+3. **[AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)** by europeanbusinessmagazine.com
+
+4. **[Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)** by blog.google
+
+5. **[Gemini 4 Neon looks like an Opus 5.5 competitor](https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/)** by micjm.com
+
+6. **[Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)** by openai.com
+
+7. **[Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)** by xinmingtu.cn
+
+8. **[Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.](https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh)** by xulingfeng
+
+9. **[The CodeNewbie Podcast is Back for Season 28!](https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484)** by Lauren Lee👩🏼‍💻
+
+
+#### Trending Repos
+
+1. **[n8n-io/n8n](https://github.com/n8n-io/n8n)** — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. ⭐ 211311
+
+2. **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** — A collection of MCP servers. ⭐ 98174
+
+3. **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ ⭐ 60103
+
+4. **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 ⭐ 58783
+
+5. **[appwrite/appwrite](https://github.com/appwrite/appwrite)** — The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more ⭐ 58353
+
+6. **[openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)** — OpenVINO™ is an open source toolkit for optimizing and deploying AI inference ⭐ 11427
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-18</strong></summary>
 
 #### Papers

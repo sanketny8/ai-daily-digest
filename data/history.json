@@ -1,31 +1,4 @@
 {
-  "2026-10-19": {
-    "papers": [
-      "https://arxiv.org/abs/2610.22428",
-      "https://arxiv.org/abs/2610.23230",
-      "https://arxiv.org/abs/2610.18082",
-      "https://arxiv.org/abs/2610.14022",
-      "https://arxiv.org/abs/2610.22169",
-      "https://arxiv.org/abs/2610.21783",
-      "https://arxiv.org/abs/2610.16071",
-      "https://arxiv.org/abs/2610.23194",
-      "https://arxiv.org/abs/2610.21082",
-      "https://arxiv.org/abs/2610.07898"
-    ],
-    "blogs": [
-      "https://arxiv.org/abs/2610.18861",
-      "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-      "https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh",
-      "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "https://dev.to/hanzla/my-ai-experiment-was-going-great-until-my-client-replied-17kd"
-    ],
-    "repos": [
-      "https://github.com/Graphify-Labs/graphify",
-      "https://github.com/TauricResearch/TradingAgents",
-      "https://github.com/mlabonne/llm-course",
-      "https://github.com/feder-cr/git-ai"
-    ]
-  },
   "2026-10-20": {
     "papers": [
       "https://arxiv.org/abs/2610.23986",
@@ -912,6 +885,39 @@
       "https://github.com/usestrix/strix",
       "https://github.com/jingyaogong/minimind",
       "https://github.com/HKUDS/RAG-Anything"
+    ]
+  },
+  "2026-11-19": {
+    "papers": [
+      "https://arxiv.org/abs/2611.23751",
+      "https://arxiv.org/abs/2611.24654",
+      "https://arxiv.org/abs/2611.23386",
+      "https://arxiv.org/abs/2611.24789",
+      "https://arxiv.org/abs/2611.24651",
+      "https://arxiv.org/abs/2611.22673",
+      "https://arxiv.org/abs/2611.24669",
+      "https://arxiv.org/abs/2611.24941",
+      "https://arxiv.org/abs/2611.24362",
+      "https://arxiv.org/abs/2611.24869"
+    ],
+    "blogs": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh",
+      "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484"
+    ],
+    "repos": [
+      "https://github.com/n8n-io/n8n",
+      "https://github.com/punkpeye/awesome-mcp-servers",
+      "https://github.com/HKUDS/CLI-Anything",
+      "https://github.com/bojieli/ai-agent-book",
+      "https://github.com/appwrite/appwrite",
+      "https://github.com/openvinotoolkit/openvino"
     ]
   }
 }
