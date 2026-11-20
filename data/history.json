@@ -1,31 +1,4 @@
 {
-  "2026-10-20": {
-    "papers": [
-      "https://arxiv.org/abs/2610.23986",
-      "https://arxiv.org/abs/2610.26824",
-      "https://arxiv.org/abs/2610.26863",
-      "https://arxiv.org/abs/2610.09496",
-      "https://arxiv.org/abs/2610.16782",
-      "https://arxiv.org/abs/2610.17724",
-      "https://arxiv.org/abs/2610.06830",
-      "https://arxiv.org/abs/2610.26765",
-      "https://arxiv.org/abs/2610.25874",
-      "https://arxiv.org/abs/2610.24611"
-    ],
-    "blogs": [
-      "https://mistral.ai/news/timestral/",
-      "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-      "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-      "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
-      "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-      "https://heymaxwell.ai/"
-    ],
-    "repos": [
-      "https://github.com/anthropics/claude-code"
-    ]
-  },
   "2026-10-21": {
     "papers": [
       "https://arxiv.org/abs/2511.14102",
@@ -918,6 +891,36 @@
       "https://github.com/bojieli/ai-agent-book",
       "https://github.com/appwrite/appwrite",
       "https://github.com/openvinotoolkit/openvino"
+    ]
+  },
+  "2026-11-20": {
+    "papers": [
+      "https://arxiv.org/abs/2611.26107",
+      "https://arxiv.org/abs/2611.26268",
+      "https://arxiv.org/abs/2611.25005",
+      "https://arxiv.org/abs/2611.26444",
+      "https://arxiv.org/abs/2611.00911",
+      "https://arxiv.org/abs/2611.25980",
+      "https://arxiv.org/abs/2611.20455",
+      "https://arxiv.org/abs/2611.26414",
+      "https://arxiv.org/abs/2611.26298",
+      "https://arxiv.org/abs/2611.26629"
+    ],
+    "blogs": [
+      "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "https://www.anthropic.com/research/claude-black-hole-physics",
+      "https://git-aarvin.github.io/mei/",
+      "https://thedataexchange.media/pete-warden-moonshine/",
+      "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh"
+    ],
+    "repos": [
+      "https://github.com/firecrawl/firecrawl",
+      "https://github.com/toeverything/AFFiNE",
+      "https://github.com/cathrynlavery/diagram-design",
+      "https://github.com/Imbad0202/academic-research-skills",
+      "https://github.com/agentscope-ai/agentscope",
+      "https://github.com/Tracer-Cloud/opensre",
+      "https://github.com/zhouxiaoka/autoclip"
     ]
   }
 }

@@ -10,6 +10,65 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-20</strong></summary>
+
+#### Papers
+
+1. **[HiUni: Harmonizing Understanding and Generation in Shared Visual Space](https://arxiv.org/abs/2611.26107)**
+
+2. **[Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining](https://arxiv.org/abs/2611.26268)**
+
+3. **[Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback](https://arxiv.org/abs/2611.25005)**
+
+4. **[Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation](https://arxiv.org/abs/2611.26444)**
+
+5. **[S1CogBench: What System One Decision Models Can and Cannot Do on Cognitive Experiments](https://arxiv.org/abs/2611.00911)**
+
+6. **[Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models](https://arxiv.org/abs/2611.25980)**
+
+7. **[Embeddings vs. Grep: Rethinking the Dense Advantage in Code Search](https://arxiv.org/abs/2611.20455)**
+
+8. **[ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain](https://arxiv.org/abs/2611.26414)**
+
+9. **[DailySafe: Benchmarking Dynamic Safety Awareness in Everyday Multi-Turn Multimodal Interactions](https://arxiv.org/abs/2611.26298)**
+
+10. **[Posterior Matching Distillation](https://arxiv.org/abs/2611.26629)**
+
+
+#### Blog Posts
+
+1. **[Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)** by reuters.com
+
+2. **[Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)** by anthropic.com
+
+3. **[Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)** by git-aarvin.github.io
+
+4. **[Pete warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)** by thedataexchange.media
+
+5. **[What team-wide AI adoption actually takes](https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh)** by Peter Kim Frank
+
+
+#### Trending Repos
+
+1. **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** — Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. ⭐ 204611
+
+2. **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** — There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r ⭐ 75382
+
+3. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. ⭐ 68897
+
+4. **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** — Academic Research Skills for Claude Code: research → write → review → revise → finalize ⭐ 57830
+
+5. **[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)** — Build and run agents you can see, understand and trust. ⭐ 36341
+
+6. **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** — The open-source agent for CI/CD reliability. ⭐ 13292
+
+7. **[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)** — AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing. ⭐ 11711
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-19</strong></summary>
 
 #### Papers
