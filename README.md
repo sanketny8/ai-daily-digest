@@ -10,6 +10,52 @@ Today's digest is expanded. Previous days are collapsed — click to expand.
 <!-- DIGEST-ENTRIES -->
 
 <details open>
+<summary><strong>2026-11-21</strong></summary>
+
+#### Papers
+
+1. **[Time Series Structure Learning with Local Causal Parent Discovery](https://arxiv.org/abs/2611.26232)**
+
+2. **[Teaching Vision-Language-Action Models to Stop Safely](https://arxiv.org/abs/2611.26239)**
+
+3. **[PAD: Policy-Aware Data Valuation for Autonomous Driving](https://arxiv.org/abs/2611.25604)**
+
+4. **[Lang-SVG: Hierarchical Image Vectorization with Language Priors](https://arxiv.org/abs/2611.15941)**
+
+5. **[Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests](https://arxiv.org/abs/2611.25200)**
+
+6. **[RL Post-Training in Diffusion Transformers Is Activation Steering](https://arxiv.org/abs/2611.26627)**
+
+7. **[In Situ Training of Optical Neural Networks by Coding Agents](https://arxiv.org/abs/2611.23875)**
+
+8. **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)**
+
+9. **[System 1 agents: a method for local, reliable and fast agentic AI](https://arxiv.org/abs/2611.21053)**
+
+10. **[Online Mistake Detection in Instruction-Conditioned Procedural Video](https://arxiv.org/abs/2611.25567)**
+
+
+#### Blog Posts
+
+1. **[Restricting AI agents in mobile operating systems platforms from capturing data](https://signal.org/blog/protecting-your-privacy/)** by signal.org
+
+2. **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)** by arxiv.org
+
+3. **[Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)** by theguardian.com
+
+4. **[Markets plunge: Nasdaq erases 2026 gains, S&P, Dow in corrections](https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394)** by nbcnews.com
+
+5. **[ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)** by ricapar.net
+
+6. **[The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)** by researchgate.net
+
+7. **[Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️](https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840)** by Lauren Lee👩🏼‍💻
+
+
+
+</details>
+
+<details>
 <summary><strong>2026-11-20</strong></summary>
 
 #### Papers

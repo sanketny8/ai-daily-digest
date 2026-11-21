@@ -1,134 +1,94 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "papers": [
     {
-      "title": "HiUni: Harmonizing Understanding and Generation in Shared Visual Space",
-      "url": "https://arxiv.org/abs/2611.26107",
-      "summary": "Unified multimodal models aim to support visual understanding and generation within a single framework. However, prevailing approaches often separate their visual representations or backbone computati"
+      "title": "Time Series Structure Learning with Local Causal Parent Discovery",
+      "url": "https://arxiv.org/abs/2611.26232",
+      "summary": "Learning and inference on time series can pose significant statistical challenges, including autocorrelated observations, distribution shift over time, and the curse of dimensionality. These challenge"
     },
     {
-      "title": "Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining",
-      "url": "https://arxiv.org/abs/2611.26268",
-      "summary": "Mixture of Block Attention (MoBA) reduces long-context computation by selecting key-value (KV) blocks for each query. FlashMoBA implements MoBA efficiently but retains a fixed Top-k budget and query-c"
+      "title": "Teaching Vision-Language-Action Models to Stop Safely",
+      "url": "https://arxiv.org/abs/2611.26239",
+      "summary": "Vision-language-action (VLA) models enable robots to perform diverse tasks from visual observations and language instructions. While prior work has explored task suppression and refusal, stopping proh"
     },
     {
-      "title": "Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback",
-      "url": "https://arxiv.org/abs/2611.25005",
-      "summary": "Recent work on human-scene interaction (HSI) generation moves from single interactions to long-horizon interaction, where a language-model agent plans and executes a sequence of interactions in a 3D s"
+      "title": "PAD: Policy-Aware Data Valuation for Autonomous Driving",
+      "url": "https://arxiv.org/abs/2611.25604",
+      "summary": "End-to-end autonomous driving increasingly depends on scaling training demonstrations, yet data growth does not guarantee proportional gains. However, additional data do not guarantee better policies:"
     },
     {
-      "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2611.26444",
-      "summary": "Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning"
+      "title": "Lang-SVG: Hierarchical Image Vectorization with Language Priors",
+      "url": "https://arxiv.org/abs/2611.15941",
+      "summary": "Image vectorization reconstructs raster images as compact scalable vector graph- ics (SVG), providing a structured and editable code representation of images. However, most existing vectorization meth"
     },
     {
-      "title": "S1CogBench: What System One Decision Models Can and Cannot Do on Cognitive Experiments",
-      "url": "https://arxiv.org/abs/2611.00911",
-      "summary": "Decision-making in humans and AI involves multiple cognitive abilities. System One decision models produce fast, structured choices. Their cognitive strengths and limitations, however, remain poorly u"
+      "title": "Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests",
+      "url": "https://arxiv.org/abs/2611.25200",
+      "summary": "Experimentation teams must decide which proposed website changes to test with live traffic. We evaluated whether forecasts from simulated shoppers could inform that choice. We screened 412 historical "
     },
     {
-      "title": "Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models",
-      "url": "https://arxiv.org/abs/2611.25980",
-      "summary": "World models aim to predict environment dynamics under actions, enabling the prediction of action consequences without executing them in the real world. Yet despite producing increasingly realistic vi"
+      "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+      "url": "https://arxiv.org/abs/2611.26627",
+      "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques"
     },
     {
-      "title": "Embeddings vs. Grep: Rethinking the Dense Advantage in Code Search",
-      "url": "https://arxiv.org/abs/2611.20455",
-      "summary": "Code-search benchmarks show dense encoders well ahead of BM25, yet coding agents do well with grep. What does this dense advantage measure? Existing benchmarks cannot tell: they use curated queries, o"
+      "title": "In Situ Training of Optical Neural Networks by Coding Agents",
+      "url": "https://arxiv.org/abs/2611.23875",
+      "summary": "Optical neural networks promise fast, energy-efficient computing, but every device departs from its design and must be trained with the hardware. In situ training relies on an expert-built calibrated "
     },
     {
-      "title": "ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain",
-      "url": "https://arxiv.org/abs/2611.26414",
-      "summary": "Representative vision-language navigation (VLN) methods typically couple a vision-language model (VLM) brain with a learnable action head and fine-tune the VLM brain on navigation-domain data to predi"
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "summary": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier"
     },
     {
-      "title": "DailySafe: Benchmarking Dynamic Safety Awareness in Everyday Multi-Turn Multimodal Interactions",
-      "url": "https://arxiv.org/abs/2611.26298",
-      "summary": "As multimodal large language models (MLLMs) become increasingly integrated into everyday life, their ability to provide safe and reliable assistance in realistic daily activities remains insufficientl"
+      "title": "System 1 agents: a method for local, reliable and fast agentic AI",
+      "url": "https://arxiv.org/abs/2611.21053",
+      "summary": "Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, a"
     },
     {
-      "title": "Posterior Matching Distillation",
-      "url": "https://arxiv.org/abs/2611.26629",
-      "summary": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this b"
+      "title": "Online Mistake Detection in Instruction-Conditioned Procedural Video",
+      "url": "https://arxiv.org/abs/2611.25567",
+      "summary": "An assistant monitoring a person performing a procedure is most useful when it can detect mistakes while there is still time to recover. This requires judging actions against task instructions as the "
     }
   ],
   "blog_posts": [
     {
-      "title": "Anthropic’s Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "author": "reuters.com"
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "author": "signal.org"
     },
     {
-      "title": "Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "author": "anthropic.com"
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "author": "arxiv.org"
     },
     {
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "url": "https://git-aarvin.github.io/mei/",
-      "author": "git-aarvin.github.io"
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "author": "theguardian.com"
     },
     {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "author": "thedataexchange.media"
+      "title": "Markets plunge: Nasdaq erases 2026 gains, S&P, Dow in corrections",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "author": "nbcnews.com"
     },
     {
-      "title": "What team-wide AI adoption actually takes",
-      "url": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh",
-      "author": "Peter Kim Frank"
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "author": "ricapar.net"
+    },
+    {
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "author": "researchgate.net"
+    },
+    {
+      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
+      "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
+      "author": "Lauren Lee👩🏼‍💻"
     }
   ],
-  "repos": [
-    {
-      "name": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
-      "stars": 204611,
-      "language": "TypeScript"
-    },
-    {
-      "name": "toeverything/AFFiNE",
-      "url": "https://github.com/toeverything/AFFiNE",
-      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r",
-      "stars": 75382,
-      "language": "TypeScript"
-    },
-    {
-      "name": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "stars": 68897,
-      "language": "HTML"
-    },
-    {
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "stars": 57830,
-      "language": "Python"
-    },
-    {
-      "name": "agentscope-ai/agentscope",
-      "url": "https://github.com/agentscope-ai/agentscope",
-      "description": "Build and run agents you can see, understand and trust.",
-      "stars": 36341,
-      "language": "Python"
-    },
-    {
-      "name": "Tracer-Cloud/opensre",
-      "url": "https://github.com/Tracer-Cloud/opensre",
-      "description": "The open-source agent for CI/CD reliability.",
-      "stars": 13292,
-      "language": "Python"
-    },
-    {
-      "name": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
-      "stars": 11711,
-      "language": "Python"
-    }
-  ],
+  "repos": [],
   "tweets": []
 }

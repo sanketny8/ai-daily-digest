@@ -1,33 +1,4 @@
 {
-  "2026-10-21": {
-    "papers": [
-      "https://arxiv.org/abs/2511.14102",
-      "https://arxiv.org/abs/2610.28435",
-      "https://arxiv.org/abs/2610.25369",
-      "https://arxiv.org/abs/2610.25078",
-      "https://arxiv.org/abs/2610.24649",
-      "https://arxiv.org/abs/2610.26426",
-      "https://arxiv.org/abs/2610.27406",
-      "https://arxiv.org/abs/2610.27435",
-      "https://arxiv.org/abs/2610.28522",
-      "https://arxiv.org/abs/2606.31002"
-    ],
-    "blogs": [
-      "https://github.com/deepseek-ai/DeepInfer",
-      "https://mistral.ai/news/voxtral-3/",
-      "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "https://dev.to/nathan_tarbert/your-team-has-answered-this-before-im-building-a-tool-that-remembers-5604",
-      "https://openai.com/index/low-resource-programming-languages/"
-    ],
-    "repos": [
-      "https://github.com/sickn33/agentic-awesome-skills",
-      "https://github.com/wshobson/agents",
-      "https://github.com/cloudflare/security-audit-skill",
-      "https://github.com/ScrapeGraphAI/Scrapegraph-ai"
-    ]
-  },
   "2026-10-22": {
     "papers": [
       "https://arxiv.org/abs/2610.30023",
@@ -922,5 +893,29 @@
       "https://github.com/Tracer-Cloud/opensre",
       "https://github.com/zhouxiaoka/autoclip"
     ]
+  },
+  "2026-11-21": {
+    "papers": [
+      "https://arxiv.org/abs/2611.26232",
+      "https://arxiv.org/abs/2611.26239",
+      "https://arxiv.org/abs/2611.25604",
+      "https://arxiv.org/abs/2611.15941",
+      "https://arxiv.org/abs/2611.25200",
+      "https://arxiv.org/abs/2611.26627",
+      "https://arxiv.org/abs/2611.23875",
+      "https://arxiv.org/abs/2611.21885",
+      "https://arxiv.org/abs/2611.21053",
+      "https://arxiv.org/abs/2611.25567"
+    ],
+    "blogs": [
+      "https://signal.org/blog/protecting-your-privacy/",
+      "https://arxiv.org/abs/2611.21885",
+      "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "http://ricapar.net/ClawDOS/",
+      "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840"
+    ],
+    "repos": []
   }
 }
